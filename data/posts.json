@@ -1,8 +1,777 @@
 {
- "updated_at": "2026-11-02T02:24:32Z",
- "count": 156,
+ "updated_at": "2026-11-02T22:24:03Z",
+ "count": 182,
  "accounts": 11,
  "posts": [
+  {
+   "id": "2117361237155860891",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T21:00:32.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117361237155860891",
+   "reply_to": {
+    "id": "2117228833707610518",
+    "username": "jun_song"
+   },
+   "kind": "reply",
+   "text": "@jun_song Wow",
+   "urls": [],
+   "metrics": {
+    "likes": 1256,
+    "reposts": 60,
+    "replies": 147,
+    "quotes": 15
+   },
+   "partial": true
+  },
+  {
+   "id": "2117360990119506022",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T20:59:33.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117360990119506022",
+   "kind": "quote",
+   "text": "This is the way https://t.co/cM11gKhplP",
+   "urls": [],
+   "metrics": {
+    "likes": 3919,
+    "reposts": 385,
+    "replies": 876,
+    "quotes": 51
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117285679961096683",
+    "author_id": "1325862778603769856",
+    "username": "JasonBud",
+    "name": "Jason Ginsberg",
+    "created_at": "2026-11-02T16:00:18.000Z",
+    "text": "Treat Grok Bot like a teammate and give @bot an ambitious task you’d normally give to a new hire.",
+    "quote": {
+     "id": "2116900809388511586",
+     "author_id": "18745381",
+     "username": "scottbillows",
+     "name": "Scott Billows",
+     "created_at": "2026-11-01T14:30:57.000Z",
+     "text": "We closed our first deal with Grok @bot this week 🚀\n\nMy business has a very traditional sales cycle that often takes months to cultivate and close. We pointed Grok Bot at our tools and it surfaced past prospects/customers for my AE’s to reach out to. Two weeks in we have our first closed/won deal.\n\nWithout Grok Bot we most likely would not have reached out to this past customer. With Grok Bot it pulled this customer from the haystack and surfaced it to my AE who simply reached out, pitched and closed.\n\nIt’s absolutely amazing! Thank you @elonmusk.\nThank you @mattyp for showing us what can be done with Grok Bot."
+    }
+   }
+  },
+  {
+   "id": "2117354145980231861",
+   "author_id": "13298072",
+   "username": "Tesla",
+   "name": "Tesla",
+   "created_at": "2026-11-02T20:32:21.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/Tesla/status/2117354145980231861",
+   "kind": "repost",
+   "text": "FSD reacted before I even saw it!",
+   "urls": [],
+   "metrics": {
+    "likes": 603,
+    "reposts": 54,
+    "replies": 25,
+    "quotes": 6
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117066562397949952/vid/avc1/724x510/dzMXv7PFgevBePVO.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117066562397949952/img/sggPjyupJJd9s7eh.jpg",
+     "width": 724,
+     "height": 510,
+     "duration_ms": 7166
+    }
+   ],
+   "ref": {
+    "id": "2117066703561515106",
+    "author_id": "3086071",
+    "username": "lonseidman",
+    "name": "Lon Seidman",
+    "created_at": "2026-11-02T01:30:09.000Z"
+   }
+  },
+  {
+   "id": "2117349540168876334",
+   "author_id": "2085838061347217408",
+   "username": "bot",
+   "name": "Grok Bot",
+   "created_at": "2026-11-02T20:14:03.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/bot/status/2117349540168876334",
+   "kind": "post",
+   "text": "Our team built a Team Bot that gives everyone at the company on-demand access to a data scientist.\n\nPMs use Data Bot to investigate product usage, marketers use it to measure campaign results, and teams across the company use it to build dashboards and track key metrics. https://t.co/dM5b5z1XUF",
+   "urls": [],
+   "metrics": {
+    "likes": 1583,
+    "reposts": 98,
+    "replies": 354,
+    "quotes": 42
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWJPCGsaAAAOf8O.jpg",
+     "width": 2816,
+     "height": 1832
+    }
+   ]
+  },
+  {
+   "id": "2117348262768210177",
+   "author_id": "1917716982465716227",
+   "username": "StarbaseTX",
+   "name": "StarbaseTX",
+   "created_at": "2026-11-02T20:08:58.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/StarbaseTX/status/2117348262768210177",
+   "kind": "post",
+   "text": "SpaceX is proud to sponsor the Brownsville Police Officers' Association's 40th Annual Surf Fishing Tournament at Boca Chica Beach!\n\nSaturday, Nov 7 | 6:00am – 2:00pm | Boca Chica Beach\n\nExpect prizes, live music, family activities and Learn to Fish sessions. Tickets are $25 at https://t.co/OMI5xRRQbq",
+   "urls": [],
+   "metrics": {
+    "likes": 391,
+    "reposts": 46,
+    "replies": 3,
+    "quotes": 2
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWJVBbmXsAApkqh.jpg",
+     "width": 2048,
+     "height": 1463
+    }
+   ]
+  },
+  {
+   "id": "2117337349281796505",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T19:25:36.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117337349281796505",
+   "reply_to": {
+    "id": "2117337019487789091",
+    "username": "sethpascale"
+   },
+   "kind": "reply",
+   "text": "@sethpascale thanks seth!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2117322639295602699",
+   "author_id": "2085838061347217408",
+   "username": "bot",
+   "name": "Grok Bot",
+   "created_at": "2026-11-02T18:27:09.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/bot/status/2117322639295602699",
+   "kind": "repost",
+   "text": "Last week our marketing team aggressively started using Grok Bot.\n\nWhat I'm seeing 👇️\n\n1/ No more agencies. Agencies for webflow, design, motion, etc will move in-house (via managing agents that do the same work).\n\n2/ Demand-gen programs fully run by agents. This means paid search, paid social, AEO/SEO.\n\n3/ A system having MCP access is no longer the constraint because of browser use. Agents just log in and use the same products.\n\n4/ ICs need to become great at management. Managing a fleet of agents is more similar to managing people than it is delegating tasks to Claude. Everyone needs manager training.\n\nWe're going to see an explosion of usage in the next two months.",
+   "urls": [],
+   "metrics": {
+    "likes": 228,
+    "reposts": 15,
+    "replies": 35,
+    "quotes": 7
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117312824829411683",
+    "author_id": "362823866",
+    "username": "marty_kausas",
+    "name": "Marty Kausas",
+    "created_at": "2026-11-02T17:48:09.000Z"
+   }
+  },
+  {
+   "id": "2117313579955494951",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T17:51:09.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117313579955494951",
+   "reply_to": {
+    "id": "2117312834824786373",
+    "username": "vatsaishere"
+   },
+   "kind": "reply",
+   "text": "@vatsaishere https://t.co/IOa7V3VC3F\n\nBoom!",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2117312007997362506",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T17:44:55.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117312007997362506",
+   "reply_to": {
+    "id": "2117303528142303421",
+    "username": "Theseus_23"
+   },
+   "kind": "reply",
+   "text": "@Theseus_23 I will continue to drop easter eggs until someone notices",
+   "urls": [],
+   "metrics": {
+    "likes": 31,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2117311847858921690",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T17:44:16.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117311847858921690",
+   "reply_to": {
+    "id": "2117303820955099141",
+    "username": "DocLibertarian"
+   },
+   "kind": "reply",
+   "text": "@DocLibertarian fair and we will work to improve our comms",
+   "urls": [],
+   "metrics": {
+    "likes": 98,
+    "reposts": 0,
+    "replies": 7,
+    "quotes": 1
+   },
+   "partial": true
+  },
+  {
+   "id": "2117311783757357057",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T17:44:01.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117311783757357057",
+   "reply_to": {
+    "id": "2117308916556333279",
+    "username": "hopes_revenge"
+   },
+   "kind": "reply",
+   "text": "@hopes_revenge lowkey I track my steps in plod every week",
+   "urls": [],
+   "metrics": {
+    "likes": 7,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2117305055129051285",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T17:17:17.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117305055129051285",
+   "reply_to": {
+    "id": "2117304603415097813",
+    "username": "diopfode"
+   },
+   "kind": "reply",
+   "text": "@diopfode no",
+   "urls": [],
+   "metrics": {
+    "likes": 153,
+    "reposts": 0,
+    "replies": 11,
+    "quotes": 1
+   },
+   "partial": true
+  },
+  {
+   "id": "2117302664799396177",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T17:07:47.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117302664799396177",
+   "kind": "post",
+   "text": "What's New in Grok Bot\n\n00:14 Shopping cards\n00:27 Product pages\n00:39 Order tracking\n00:53 Payments\n01:33 Custom modes\n01:52 Team Bot logins and setup\n02:09 Share and find Team Bots\n02:51 Connector asks in Slack\n03:12 Contacts in Vault\n03:31 Rapid fire https://t.co/HvmfEtHZ1K",
+   "urls": [],
+   "metrics": {
+    "likes": 2578,
+    "reposts": 171,
+    "replies": 276,
+    "quotes": 71
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117284064025772032/vid/avc1/3840x2160/Ir2RKulro-fYPEch.mp4",
+     "poster": "https://pbs.twimg.com/media/HWIcU5pbIAIQ15R.jpg",
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 265045
+    }
+   ]
+  },
+  {
+   "id": "2117278493369135588",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T15:31:44.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117278493369135588",
+   "reply_to": {
+    "id": "2117275330180448478",
+    "username": "shaunmmaguire"
+   },
+   "kind": "reply",
+   "text": "@shaunmmaguire Absolutely",
+   "urls": [],
+   "metrics": {
+    "likes": 2377,
+    "reposts": 123,
+    "replies": 241,
+    "quotes": 14
+   },
+   "partial": true
+  },
+  {
+   "id": "2117273849351860272",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T15:13:17.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117273849351860272",
+   "reply_to": {
+    "id": "2117244244213588036",
+    "username": "IterIntellectus"
+   },
+   "kind": "reply",
+   "text": "@IterIntellectus Literally an episode of Silicon Valley\nhttps://t.co/PJ0kGJHT4E",
+   "urls": [],
+   "metrics": {
+    "likes": 2169,
+    "reposts": 200,
+    "replies": 266,
+    "quotes": 38
+   },
+   "partial": true
+  },
+  {
+   "id": "2117273153676149033",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T15:10:31.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117273153676149033",
+   "kind": "repost",
+   "text": "Grok Bot is literally a game changer for me\n\nI can't say this enough, but Grok Bot has given me soo much peace of mind. It basically does everything for me that I don't want to do\n\nAll those little tasks that used to take up so much of my time and energy are now being handled by Grok Bot\n\nI don't even book my flights or hotels anymore. Grok Bot does it for me\n\nI literally boarded a plane right now, and the entire booking was handled by Grok Bot haha\n\nAnd the crazy part is that I actually feel much safer letting it handle everything\n\nIt goes through all the options, compares them, intelligently shortlists the best ones and shows me screenshots and relevant links so I can check everything myself\n\nAnd before spending any money, it asks me to approve the final payment\n\nI really feel like it does a better job than I would have done myself\n\nAnd it goes so much further than just booking things\n\nIt already knows my current location, where I'm staying, my travel plans, how to get to the airport and what time I should leave\n\nEverything is taken care of\n\nAnd whenever I need help with something, instead of spending time searching Google or figuring things out myself, I just talk to Grok Bot\n\nBecause it already planned and booked everything for me, it has all the context it needs and gives me answers that are actually useful for my situation\n\nIt even takes care of little things I wouldn't have thought about myself\n\nI really never imagined an SI agent would make my everyday life this much easier\n\nIt's not just about saving time anymore\n\nIt's about having so many things taken off my mind that I don't have to constantly worry about them\n\nAnd that feeling is absolutely incredible\n\nGrok Bot has completely changed how I get things done",
+   "urls": [],
+   "metrics": {
+    "likes": 1590,
+    "reposts": 197,
+    "replies": 190,
+    "quotes": 19
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117195631160660066",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-02T10:02:28.000Z",
+    "quote": {
+     "id": "2117189496391569784",
+     "author_id": "1818311005698678784",
+     "username": "XFreeze",
+     "name": "X Freeze",
+     "created_at": "2026-11-02T09:38:06.000Z",
+     "text": "Boarding the flight Grok Bot booked for me 😁",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWHEnKdbgAAkNJf.jpg",
+       "width": 3000,
+       "height": 4000
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117272824830210391",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T15:09:13.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117272824830210391",
+   "kind": "repost",
+   "text": "@shaunmmaguire @uncovered_alpha Future super intelligence compute will obviously be overwhelmingly in space.\n\nBy “overwhelmingly”, I mean that it will round up to 100%!\n\nYou have to be an utter moron not to realize this.",
+   "urls": [],
+   "metrics": {
+    "likes": 11033,
+    "reposts": 904,
+    "replies": 1149,
+    "quotes": 222
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117272748112154651",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-02T15:08:54.000Z"
+   }
+  },
+  {
+   "id": "2117272748112154651",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T15:08:54.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117272748112154651",
+   "reply_to": {
+    "id": "2117262255603798073",
+    "username": "shaunmmaguire"
+   },
+   "kind": "reply",
+   "text": "@shaunmmaguire @uncovered_alpha Future super intelligence compute will obviously be overwhelmingly in space.\n\nBy “overwhelmingly”, I mean that it will round up to 100%!\n\nYou have to be an utter moron not to realize this.",
+   "urls": [],
+   "metrics": {
+    "likes": 11033,
+    "reposts": 904,
+    "replies": 1149,
+    "quotes": 222
+   },
+   "partial": true
+  },
+  {
+   "id": "2117257075810316342",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T14:06:38.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117257075810316342",
+   "kind": "repost",
+   "text": "Elon Musk's naming choices for Colossus 2 are on a completely different level 😭\n\n• Macrohard\n• Macroharder\n• Minihard\n• Gun Range\n• Spam\n\nThis man built the most powerful SI data center on Earth, is building the future of superintelligence, and these are the names he comes up with 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 1691,
+    "reposts": 194,
+    "replies": 199,
+    "quotes": 21
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117247883842084961",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-02T13:30:06.000Z",
+    "quote": {
+     "id": "2116619519989096450",
+     "author_id": "1818311005698678784",
+     "username": "XFreeze",
+     "name": "X Freeze",
+     "created_at": "2026-10-31T19:53:13.000Z",
+     "text": "SpaceXSI is building the most powerful SI training cluster on Earth, with Colossus 2 reaching around 1.2M Blackwell GPUs by the end of this year  https://twitter.com/xfreeze/status/2116608003436912857",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HV--Ou4aMAADVJW.jpg",
+       "width": 1600,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117256890174574776",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T14:05:54.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117256890174574776",
+   "reply_to": {
+    "id": "2117232668567879753",
+    "username": "farzyness"
+   },
+   "kind": "reply",
+   "text": "@farzyness @SawyerMerritt True",
+   "urls": [],
+   "metrics": {
+    "likes": 653,
+    "reposts": 41,
+    "replies": 77,
+    "quotes": 6
+   },
+   "partial": true
+  },
+  {
+   "id": "2117255166319583596",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T13:59:03.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117255166319583596",
+   "reply_to": {
+    "id": "2117130095080955990",
+    "username": "anabology"
+   },
+   "kind": "reply",
+   "text": "@anabology True",
+   "urls": [],
+   "metrics": {
+    "likes": 2109,
+    "reposts": 87,
+    "replies": 257,
+    "quotes": 28
+   },
+   "partial": true
+  },
+  {
+   "id": "2117253374039232553",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T13:51:55.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117253374039232553",
+   "kind": "repost",
+   "text": "Fuck you if you hate on Elon Musk.\n\nJust imagine this was your son…\n\nALS took away Jake’s ability to use his wheelchair joystick and now, Neuralink lets him control his chair with his mind.\n\nHate on Elon all you want, he’s out here giving people their lives back.",
+   "urls": [],
+   "metrics": {
+    "likes": 18244,
+    "reposts": 2835,
+    "replies": 600,
+    "quotes": 138
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2116921571847622656/vid/avc1/1920x1080/cY06PgKtFtRBGPsx.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2116921571847622656/img/HL1fRAEs2eX5Ra-F.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 27253
+    }
+   ],
+   "ref": {
+    "id": "2117122417634250989",
+    "author_id": "985243593538338816",
+    "username": "Teslaconomics",
+    "name": "Teslaconomics",
+    "created_at": "2026-11-02T05:11:33.000Z"
+   }
+  },
+  {
+   "id": "2117252866503290905",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T13:49:54.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117252866503290905",
+   "kind": "quote",
+   "text": "Starlink saves lives https://t.co/kuIn9gom0X",
+   "urls": [],
+   "metrics": {
+    "likes": 21819,
+    "reposts": 2617,
+    "replies": 2258,
+    "quotes": 222
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117215644957716547",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-02T11:22:00.000Z",
+    "text": "Starlink helped save a woman stranded in Colorado’s freezing mountains.\n\nA 37-year-old hiker was trapped in deep snow, unable to walk and suffering from cold injuries.\n\nWith no mobile phone signal, rescuers used Starlink to stay connected to their coordinator throughout the night.\n\nShe was rescued by helicopter and flown to hospital the next morning.\n\nA lifeline from space helped rescuers bring her to safety.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWHcZxlbgAAW-ur.jpg",
+      "width": 2048,
+      "height": 2048
+     }
+    ]
+   }
+  },
+  {
+   "id": "2117076580023652616",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T02:09:24.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117076580023652616",
+   "reply_to": {
+    "id": "2117067466388197643",
+    "username": "davis7"
+   },
+   "kind": "reply",
+   "text": "@davis7 nice",
+   "urls": [],
+   "metrics": {
+    "likes": 8,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2117070572433875075",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T01:45:32.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117070572433875075",
+   "kind": "repost",
+   "text": "It's true.\n\nEvery single person I've told to try Grok Bot:\n\n- \"Holy fk it's really THAT GOOD\"\n- Starts telling other people to try Grok Bot",
+   "urls": [],
+   "metrics": {
+    "likes": 1979,
+    "reposts": 188,
+    "replies": 166,
+    "quotes": 12
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117047788882264533",
+    "author_id": "31263848",
+    "username": "stevenmarkryan",
+    "name": "stevenmarkryan",
+    "created_at": "2026-11-02T00:15:00.000Z",
+    "quote": {
+     "id": "2117033967782113327",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-11-01T23:20:05.000Z",
+     "text": "Try Grok @Bot! You will love it.\n\nWe land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible. https://twitter.com/shimabu_it/status/2116706033271992754"
+    }
+   }
+  },
+  {
+   "id": "2117070283077292148",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T01:44:23.000Z",
+   "lang": "en",
+   "conversation_id": "2117070283077292148",
+   "url": "https://x.com/elonmusk/status/2117070283077292148",
+   "kind": "repost",
+   "text": "California is trying to buy a Texas Senate seat.\n\nTalarico is getting 53% of his itemized money from outside the state.\n\nCalifornia alone dropped $7.8 million on him, more than Paxton raised from every other state combined.\n\nNew York added $3 million.\n\nMassachusetts another $2.1 million.\n\nPaxton’s campaign is 73% Texas money.\n\nTalarico’s is a coastal donor operation.\n\nThe left can’t win Texas on the merits, so they flooded the race with blue state cash instead.\n\nSo no, nothing “grassroots” about him.",
+   "urls": [],
+   "metrics": {
+    "likes": 4579,
+    "reposts": 1543,
+    "replies": 324,
+    "quotes": 75
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWFAOs-XMAAVE_y.jpg",
+     "width": 1080,
+     "height": 1350
+    }
+   ],
+   "ref": {
+    "id": "2117043924690747428",
+    "author_id": "294293982",
+    "username": "Rothmus",
+    "name": "Rothmus 🏴",
+    "created_at": "2026-11-01T23:59:39.000Z",
+    "quote": {
+     "id": "2116988785145548909",
+     "author_id": "294293982",
+     "username": "Rothmus",
+     "name": "Rothmus 🏴",
+     "created_at": "2026-11-01T20:20:32.000Z",
+     "text": ">be Talarico\n>call yourself a devout Christian\n>say “God is nonbinary” on the House floor to defend boys in girls’ sports\n>church hangs the trans flag and has ministers who say most members are atheists or agnostics\n>Instagram follows a pile of OnlyFans models, porn stars, and escorts\n>like their pics\n>campaign says you “don’t judge them” and that’s what your faith calls you to do\n>claim you never subscribed or used them\n>now your old email shows up in a 2011 http://Fling.com data leak\n>profile lists interests in FETISH, GROUPSEX, SEXUAL RELATIONS, ONLINE FLIRTING\n>email was validated\n>IP matches one tied to your sister’s email from the same household network\n>lawyers say someone hacked the email and a bot made the account\n>mismatched birth date and zip so it can’t be you\n>your team already follows hookers and camgirls “without investigating”\n\nNot the most religious person, but I’m pretty sure Jesus told people to leave their sin and follow him so they could be forgiven, not keep the fetish profiles and OnlyFans follows and pretend that inviting degeneracy is Christian acceptance.\n\nAnd don’t lie.",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWEOFGiXMAAbXbM.jpg",
+       "width": 1179,
+       "height": 897
+      }
+     ]
+    }
+   }
+  },
   {
    "id": "2117042166321287411",
    "author_id": "44196397",
@@ -4519,8 +5288,8 @@
   }
  ],
  "last_run": {
-  "status": "no_new",
-  "at": "2026-11-02T02:24:33Z",
-  "new_posts": 0
+  "status": "new",
+  "at": "2026-11-02T22:24:23Z",
+  "new_posts": 26
  }
 }

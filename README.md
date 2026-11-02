@@ -51,13 +51,13 @@ one small label button instead, e.g. **Show photo**, **Show 2 photos**, **Show v
 and the label becomes **Hide …**, which removes them again. Until a tap, no media URL is in the page's DOM and
 nothing is requested; any re-render (new view, search, refresh) resets every label to hidden. Alt text comes from
 the post, or "Photo 1 of 2 by @user (no description)". `posts.json` stores only direct media-server URLs, checked
-against an allowlist by `merge.py` (and again by the page): photos and video posters from `https://pbs.twimg.com`,
+against an whitelist by `merge.py` (and again by the page): photos and video posters from `https://pbs.twimg.com`,
 the highest-bit-rate mp4 from `https://video.twimg.com`; anything else is dropped (never x.com or twitter.com).
 **Note:** revealed media load from `pbs.twimg.com` / `video.twimg.com`, not `x.com`, so a block on x.com alone
 (DNS, firewall, Screen Time) may not stop them; block those two hosts too if you need that.
 
 ## Publishing safety
-`.gitignore` is an allowlist (everything ignored except the public files below), and the publish step
+`.gitignore` is an whitelist (everything ignored except the public files below), and the publish step
 stages only this hard-coded list, never `git add -A` / `git add .`: `.gitignore`, `README.md`,
 `index.html`, `app.js`, `search.js`, `style.css`, `tests/search.test.js`, `data/posts.json`,
 `data/following.json`, `data/site.json`, `data/saved-searches/` (status-only runs stage just `data/posts.json`).

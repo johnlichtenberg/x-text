@@ -69,7 +69,7 @@ assert.deepStrictEqual(S.search([P({ id: "999" }), P({ id: "1000" })], "").map((
   ok(pv("a, ".repeat(150)).endsWith("a…"), "trailing punctuation/space trimmed before …");
   ok(pv("One.\nTwo.\n3\n4\n5\nSix.\n7") === "One.\nTwo.\n3\n4\n5\nSix…", "a final period merges into …");
 }
-// hidden-media label + URL allowlist + has:media (fake URLs only)
+// hidden-media label + URL whitelist + has:media (fake URLs only)
 {
   const ok = (c, m) => { assert.ok(c, m); n++; };
   const ph = { type: "photo", url: "https://pbs.twimg.com/media/a.jpg" }, gif = { type: "animated_gif", url: "https://video.twimg.com/g.mp4" };

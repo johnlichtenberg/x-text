@@ -1,4 +1,4 @@
-# Allowlist: ignore everything, then un-ignore ONLY the public paths. private/, merge.py,
+# Whitelist: ignore everything, then un-ignore ONLY the public paths. private/, merge.py,
 # config.json, REFRESH.md and raw tool outputs can therefore never be staged by accident.
 # merge.py's publish step also stages only this same explicit list.
 # relay/ (the Cloudflare Worker) stays local too. The webhook URL/key live only in the Worker's secrets.

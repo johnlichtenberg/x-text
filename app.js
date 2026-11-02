@@ -274,7 +274,7 @@
   }
 
   function applyData(site, following, posts, saved) {
-    state.config = { site_title: site.site_title, saved_searches: site.saved_searches || [] };
+    state.config = { site_title: site.site_title, saved_searches: site.saved_searches || [], refresh_url: site.refresh_url || "" };
     state.following = (following.users || []).slice().sort(function (a, c) { return (c.followers || 0) - (a.followers || 0); });
     state.posts = posts.posts || [];
     state.saved = saved;
@@ -285,33 +285,16 @@
     showUpdated(); render(true);
   }
 
-  // ------------------------------------------------------------------ refresh webhook
-  var WH_STORE = "xtext.webhook", poll = null;
-  function whGet() { try { return JSON.parse(localStorage.getItem(WH_STORE) || "null"); } catch (e) { return null; } }
+  // ------------------------------------------------------------------ refresh (via the relay)
+  // The Refresh button POSTs to a small Cloudflare Worker relay (relay/ in the private working copy),
+  // which holds the Grok Bot webhook URL and key; the page sends no key. URL from data/site.json
+  // refresh_url, else RELAY_URL, e.g. "https://x-text-relay.<subdomain>.workers.dev/refresh".
+  var RELAY_URL = "", poll = null;
+  function relayUrl() {
+    var u = (state.config && state.config.refresh_url) || RELAY_URL;
+    return /^https:\/\/[^\s<>"']+$/.test(u) ? u : "";
+  }
   function rstatus(msg, err) { $("refreshStatus").textContent = msg; $("refreshStatus").className = "rstatus" + (err ? " err" : ""); }
-
-  function openSettings() {
-    var c = whGet() || {};
-    $("whUrl").value = c.url || "";
-    $("whKey").value = c.key || "";
-    $("settings").showModal();
-  }
-  function settingsSubmit(e) {
-    e.preventDefault();
-    var action = e.submitter ? e.submitter.value : "save";
-    if (action === "save") {
-      var url = $("whUrl").value.trim();
-      var key = $("whKey").value;
-      if (!/^https:\/\//i.test(url)) { alert("Webhook URL must start with https://"); return; }
-      if (key && url.indexOf(key) >= 0) { alert("Remove the key from the URL: it is sent only in the Authorization header."); return; }
-      localStorage.setItem(WH_STORE, JSON.stringify({ url: url, key: key }));  // header-only; no other modes
-      rstatus("Refresh webhook saved on this device.");
-    } else if (action === "clear") {
-      localStorage.removeItem(WH_STORE);
-      rstatus("Refresh webhook removed from this device.");
-    }
-    $("settings").close();
-  }
 
   function stopPoll() { if (poll) { clearInterval(poll); poll = null; } $("refreshBtn").disabled = false; showUpdated(); }
 
@@ -343,27 +326,22 @@
   }
 
   function sendRefresh() {
-    var c = whGet();
-    if (!c || !c.url || !c.key) { openSettings(); return; }
-    // the key goes ONLY in the Authorization header; it is never added to the URL
-    var url = c.url, headers = { "Content-Type": "application/json", "Authorization": "Bearer " + c.key };
-    var body = JSON.stringify({ source: "x-text", action: "refresh", requested_at: new Date().toISOString() });
+    var url = relayUrl();
+    if (!url) { rstatus("Refresh isn't set up yet"); return; }
     $("refreshBtn").disabled = true;
     rstatus("Sending refresh…");
-    fetch(url, { method: "POST", headers: headers, body: body, cache: "no-store", credentials: "omit", referrerPolicy: "no-referrer" }).then(function (r) {
-      if (r.ok) { rstatus("Refresh sent (HTTP " + r.status + "). Checking every 20 s for up to 3 min."); startPoll(); }
-      else { stopPoll(); rstatus("Refresh failed: HTTP " + r.status + (r.status === 401 || r.status === 403 ? " (check the key)" : r.status === 429 ? " (rate limited)" : ""), true); }
+    fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ action: "refresh", source: "x-text" }),
+      cache: "no-store", credentials: "omit", referrerPolicy: "no-referrer" }).then(function (r) {
+      if (r.ok) { rstatus("Refresh sent. Checking every 20 s for up to 3 min."); startPoll(); }
+      else { stopPoll(); rstatus("Refresh failed: HTTP " + r.status + (r.status === 429 ? " (just requested; try again in a few minutes)" : r.status === 502 || r.status === 504 ? " (the Grok Bot webhook did not accept it)" : ""), true); }
     }, function () {
-      if (!navigator.onLine) { stopPoll(); rstatus("Refresh failed: you are offline.", true); return; }
       stopPoll();
-      rstatus("CORS blocked (or network error): the webhook does not accept requests from this page with an Authorization header (it must allow CORS for this site).", true);
+      rstatus(navigator.onLine ? "Refresh failed: could not reach the refresh relay." : "Refresh failed: you are offline.", true);
     });
   }
 
   // ------------------------------------------------------------------ start
   $("refreshBtn").addEventListener("click", sendRefresh);
-  $("settingsBtn").addEventListener("click", openSettings);
-  $("settingsForm").addEventListener("submit", settingsSubmit);
 
   loadAll().catch(function (e) {
     $("updated").textContent = "Never refreshed";

@@ -3,7 +3,7 @@
 A text-only reader for a list of X accounts. Static files only (`index.html`, `app.js`, `search.js`,
 `style.css`); no build step, no trackers, and no third-party requests until you tap a media label (the CSP
 allows images only from `pbs.twimg.com` and video only from `video.twimg.com`, and blocks every other host;
-`connect-src https:` is only for the optional refresh webhook).
+`connect-src https:` is only for the refresh relay).
 
 ## Data
 The page loads plain JSON directly on open: `data/posts.json`, `data/following.json`, `data/site.json`
@@ -11,12 +11,15 @@ and `data/saved-searches/<slug>.json`. These are generated from a private, git-i
 each refresh. Fetch settings, tool arguments, raw outputs and state never leave that private folder.
 
 ## Refresh button
-Sends `POST {"source":"x-text","action":"refresh"}` to a webhook you enter once per device (⚙):
-URL and key. The key is sent only as `Authorization: Bearer <key>` and is never put in a URL.
-These are stored only in that browser's `localStorage`, never in the repo. After a successful send the
-page re-checks `data/posts.json` every 20 s for up to 3 minutes and reloads when it changes. The status
-shows sent / failed (HTTP code) / CORS blocked / offline. Refreshing is manual only (no schedule); a refresh
-less than 10 minutes after the previous one is skipped.
+Sends `POST {"action":"refresh","source":"x-text"}` (Content-Type `application/json`, no key, no
+Authorization header) to `refresh_url` in `data/site.json`: a small Cloudflare Worker relay that holds the
+Grok Bot webhook URL and key as Worker secrets and wakes the refresh routine. Nothing secret is in the
+site or the browser. If `refresh_url` is empty the button shows `Refresh isn't set up yet`. After a
+successful send the page re-checks `data/posts.json` every 20 s for up to 3 minutes and reloads when it
+changes. The status shows sent / failed (HTTP code) / relay unreachable / offline. Refreshing is manual
+only (no schedule); a refresh less than 10 minutes after the previous one is skipped. The relay only wakes
+Grok Bot: if Grok Bot isn't running or the routine is paused, nothing refreshes and the site keeps showing
+the last published data.
 
 ## Status line
 Shown on page load from `data/posts.json` metadata (`updated_at`, `accounts`, `last_run`), times in your local zone:

@@ -1,0 +1,22 @@
+# Allowlist: ignore everything, then un-ignore ONLY the public paths. private/, merge.py,
+# config.json, REFRESH.md and raw tool outputs can therefore never be staged by accident.
+# merge.py's publish step also stages only this same explicit list.
+# The refresh webhook URL/key live only in each browser's localStorage.
+/*
+!/.gitignore
+!/README.md
+!/index.html
+!/app.js
+!/search.js
+!/style.css
+!/tests/
+/tests/*
+!/tests/search.test.js
+!/data/
+/data/*
+!/data/posts.json
+!/data/following.json
+!/data/site.json
+!/data/saved-searches/
+/data/saved-searches/*
+!/data/saved-searches/*.json

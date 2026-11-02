@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="referrer" content="no-referrer">
+<meta name="robots" content="noindex, nofollow">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src 'self' https:; img-src https://pbs.twimg.com; media-src https://video.twimg.com; object-src 'none'; frame-src 'none'; base-uri 'self'; form-action 'none'">
+<title>X Text</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+<header class="top">
+  <div class="bar">
+    <a href="#/" class="title" id="title">X Text</a>
+    <span class="updated" id="updated">loading…</span>
+    <span class="tools">
+      <button type="button" id="refreshBtn" class="tool" title="Fetch new posts now (manual refresh)">↻ Refresh</button>
+      <button type="button" id="settingsBtn" class="tool" title="Refresh webhook settings (this device only)">⚙</button>
+    </span>
+  </div>
+  <div id="refreshStatus" class="rstatus" aria-live="polite"></div>
+  <form id="searchForm" class="search" role="search">
+    <input id="q" type="search" placeholder='Search: words "phrase" OR -x from:handle -is:reply since:2026-10-01' autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
+  </form>
+  <nav class="tabs" id="tabs" aria-label="Views"></nav>
+  <nav class="accounts" id="accounts" aria-label="Accounts"></nav>
+</header>
+<main>
+  <div id="status" class="status" aria-live="polite"></div>
+  <ol id="feed" class="feed"></ol>
+  <button id="more" class="more" hidden>Show more</button>
+  <details class="help">
+    <summary>Search syntax</summary>
+    <p><code>apple pear</code> both words · <code>"exact phrase"</code> · <code>a OR b</code> · <code>-word</code> exclude ·
+    <code>from:handle</code> · <code>is:reply</code> / <code>-is:reply</code> · <code>is:retweet</code> / <code>-is:retweet</code> · <code>is:quote</code> ·
+    <code>has:links</code> · <code>has:media</code> / <code>has:images</code> / <code>has:videos</code> · <code>since:2026-10-01</code> · <code>until:2026-11-01</code> (UTC dates, until is exclusive) · <code>( … )</code> grouping.</p>
+  </details>
+</main>
+</div>
+
+<dialog id="settings">
+  <form id="settingsForm" method="dialog" class="card">
+    <h2>Refresh webhook (this device only)</h2>
+    <p class="muted">Stored only in this browser's localStorage. Never part of the site.</p>
+    <label for="whUrl">Webhook URL</label>
+    <input id="whUrl" type="url" inputmode="url" autocomplete="off" spellcheck="false" placeholder="https://…" required>
+    <label for="whKey">Sender key</label>
+    <input id="whKey" type="password" autocomplete="off" spellcheck="false">
+    <p class="muted small">The key is sent only in the <code>Authorization: Bearer &lt;key&gt;</code> header, never in the URL.</p>
+    <div class="row">
+      <button type="submit" value="save">Save</button>
+      <button type="submit" value="clear" class="secondary">Forget</button>
+      <button type="submit" value="cancel" class="secondary" formnovalidate>Cancel</button>
+    </div>
+  </form>
+</dialog>
+<script src="search.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

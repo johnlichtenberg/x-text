@@ -1,8 +1,372 @@
 {
- "updated_at": "2026-11-03T19:52:44Z",
- "count": 255,
+ "updated_at": "2026-11-03T23:36:22Z",
+ "count": 265,
  "accounts": 11,
  "posts": [
+  {
+   "id": "2117736249444507834",
+   "author_id": "2085838061347217408",
+   "username": "bot",
+   "name": "Grok Bot",
+   "created_at": "2026-11-03T21:50:42.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/bot/status/2117736249444507834",
+   "kind": "post",
+   "text": "Try the new shopping experience in Grok Bot.\n\nFind the best deal, compare items, and have Bot track all your orders. https://t.co/Hd6pn5ELQm",
+   "urls": [],
+   "metrics": {
+    "likes": 1615,
+    "reposts": 119,
+    "replies": 287,
+    "quotes": 66
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/1920x1080/vzWGF2LuTlVA_3RB.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117735046065070080/img/SdipeDltihzi-7WJ.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 16733
+    }
+   ]
+  },
+  {
+   "id": "2117723668336001242",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T21:00:42.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117723668336001242",
+   "kind": "repost",
+   "text": "\"I don't actually have eyes on the sky.\"\n\nThat's what my Grok @Bot told a Comcast rep who asked about the weather 😂\n\nIt also told the rep that a competitor was offering a much lower price and negotiated both a price decrease AND higher speed for my internet.\n\nBelow's the 20-second reel of the real call.\n\n📌 Watch the full video to see this feature in action: https://youtu.be/F-356TczoQU\n\n(Btw, all Grok Bot users should have access to call US businesses now, just ask your bot to dial a number and give it some context upfront)",
+   "urls": [
+    "https://youtu.be/F-356TczoQU"
+   ],
+   "metrics": {
+    "likes": 986,
+    "reposts": 137,
+    "replies": 99,
+    "quotes": 8
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117671651081117696/vid/avc1/1920x1080/ybcn26liycmLiRWq.mp4?tag=16",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117671651081117696/img/u-HYycQJ31AJZBEi.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 22400
+    }
+   ],
+   "ref": {
+    "id": "2117671678650294437",
+    "author_id": "84490044",
+    "username": "petergyang",
+    "name": "Peter Yang",
+    "created_at": "2026-11-03T17:34:07.000Z",
+    "quote": {
+     "id": "2117638801296380159",
+     "author_id": "84490044",
+     "username": "petergyang",
+     "name": "Peter Yang",
+     "created_at": "2026-11-03T15:23:28.000Z",
+     "text": "Grok @Bot can now call US businesses for you, and it's one of my favorite AI features ever.\n\nHere's my new video where I play a real call of my bot successfully negotiating with Comcast to cut my internet bill by almost $500 a year.\n\nSome highlights include my bot:\n→ Responding to \"How's the weather?\"\n→ Turning down 3 upsells from the rep\n→ Pushing the rep with a rival's lower offer\n\n📌 Watch now: https://youtu.be/F-356TczoQU"
+    }
+   }
+  },
+  {
+   "id": "2117723193586954341",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T20:58:49.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117723193586954341",
+   "kind": "repost",
+   "text": "The dangerous incompetency or sinister intentionality of the blue in this graph led me to vote red in 2024, and today. They will let it happen again. Choose wisely 🇺🇸",
+   "urls": [],
+   "metrics": {
+    "likes": 5566,
+    "reposts": 739,
+    "replies": 105,
+    "quotes": 13
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117672333137899961",
+    "author_id": "11417802",
+    "username": "jgebbia",
+    "name": "Joe Gebbia",
+    "created_at": "2026-11-03T17:36:43.000Z",
+    "quote": {
+     "id": "2117651355498414286",
+     "author_id": "534023",
+     "username": "alx",
+     "name": "ALX 🇺🇸",
+     "created_at": "2026-11-03T16:13:21.000Z",
+     "text": "Vote Republican.",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWNor1GW4AAS8r4.jpg",
+       "width": 1152,
+       "height": 648
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117722703738310713",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T20:56:52.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117722703738310713",
+   "kind": "quote",
+   "text": "Try asking Grok @Bot to make calls! https://t.co/IWXFjNWd4P",
+   "urls": [],
+   "metrics": {
+    "likes": 3738,
+    "reposts": 465,
+    "replies": 1086,
+    "quotes": 78
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117697749009207386",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-03T19:17:42.000Z",
+    "text": "Grok @Bot's new calling feature is very impressive.\n\nYou just tell it who to call and why, and it handles the conversation for you. It shows a real-time transcript of the call, and if Grok needs additional info from you, a little answer box pops up where you type/select your response, and Grok relays it to the person on the phone. Pretty incredible.\n\nHere's an example (with the call audio) of what's it's like to use:",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2117697012804071425/vid/avc1/3840x2160/Ntn9DjhQ9dH5pV4c.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117697012804071425/img/r0qPOeLOX_QcUrHq.jpg",
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 95266
+     }
+    ]
+   }
+  },
+  {
+   "id": "2117722468257529958",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T20:55:56.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117722468257529958",
+   "kind": "repost",
+   "text": "Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud\nMaking 13GW in 1.5 Years A Reality\nhttps://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will",
+   "urls": [
+    "https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will"
+   ],
+   "metrics": {
+    "likes": 1720,
+    "reposts": 233,
+    "replies": 106,
+    "quotes": 47
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117720668145852429",
+    "author_id": "1745106082790318080",
+    "username": "SemiAnalysis_",
+    "name": "SemiAnalysis",
+    "created_at": "2026-11-03T20:48:47.000Z"
+   }
+  },
+  {
+   "id": "2117721054034698339",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T20:50:19.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117721054034698339",
+   "kind": "repost",
+   "text": "Greg Abbott’s odds rise with reports of high election day turnout in Texas\n\nTexas Governor Race Per Kalshi\n🔴 Greg Abbott: 66% (+6)\n🔵 Gina Hinojosa: 34% (-6)\n\n(+/- vs poll opening)",
+   "urls": [],
+   "metrics": {
+    "likes": 5193,
+    "reposts": 552,
+    "replies": 166,
+    "quotes": 57
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWNKiViXYAALDxV.jpg",
+     "width": 1280,
+     "height": 1558
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWNKiVgXkAAcI6b.jpg",
+     "width": 1179,
+     "height": 1594
+    }
+   ],
+   "ref": {
+    "id": "2117618217502085518",
+    "author_id": "1430216392343687174",
+    "username": "OpenSourceZone",
+    "name": "OSZ",
+    "created_at": "2026-11-03T14:01:41.000Z"
+   }
+  },
+  {
+   "id": "2117720137831010581",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T20:46:40.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117720137831010581",
+   "kind": "repost",
+   "text": "It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been extremely loyal to me and our AMAZING MAGA MOVEMENT, who is running for the United States Senate, to represent a place I love and WON, BIG, three times, with 6.4 Million Votes in 2024 (The Most Votes in the History of the State, BY FAR)!\n \nI know Ken well, have seen him tested at the highest and most difficult levels, and he is a WINNER! Ken is a true MAGA Warrior who has ALWAYS delivered for Texas, and will continue to do so in the United States Senate. His opponent, James TalaFREAKO, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. James TalaFREAKO is Reckless, Radical, and Dangerous!\n \nOn the other hand, as your next Senator, Ken will tirelessly fight to continue the Great Growth of our Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Champion Texas Oil & Gas, Advocate for our Amazing Farmers and Ranchers, Promote School Choice, Keep our Border SECURE, Stop Migrant Crime, Support our Incredible Military/Veterans, Safeguard our Elections, and Protect our always under siege Second Amendment.\n \nKen Paxton has my Complete and Total Endorsement to be the next United States Senator from the Great State of Texas. GET OUT AND VOTE FOR KEN — HE WILL NEVER LET YOU DOWN!\nPresident DONALD J. TRUMP\nhttps://swampthevoteusa.com/texas/",
+   "urls": [
+    "https://swampthevoteusa.com/texas/"
+   ],
+   "metrics": {
+    "likes": 15006,
+    "reposts": 2832,
+    "replies": 1021,
+    "quotes": 72
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117679967496454617",
+    "author_id": "25073877",
+    "username": "realDonaldTrump",
+    "name": "Donald J. Trump",
+    "created_at": "2026-11-03T18:07:03.000Z"
+   }
+  },
+  {
+   "id": "2117719759068492115",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T20:45:10.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117719759068492115",
+   "kind": "repost",
+   "text": "@Kalshi Great news! Kalshit just failed miserably at Guam:",
+   "urls": [],
+   "metrics": {
+    "likes": 4128,
+    "reposts": 354,
+    "replies": 158,
+    "quotes": 46
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWNtsibawAI_K3C.jpg",
+     "width": 1932,
+     "height": 1370
+    }
+   ],
+   "ref": {
+    "id": "2117656879874883639",
+    "author_id": "897870292424327168",
+    "username": "diydatascience",
+    "name": "Yanming Di",
+    "created_at": "2026-11-03T16:35:18.000Z"
+   }
+  },
+  {
+   "id": "2117713298875654297",
+   "author_id": "1330170106501079041",
+   "username": "Starlink",
+   "name": "Starlink",
+   "created_at": "2026-11-03T20:19:30.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/Starlink/status/2117713298875654297",
+   "kind": "quote",
+   "text": "Soon, passengers and crew onboard @AirTahitiNui can access Starlink’s high-speed, low-latency internet from gate to gate 🛰️✈️ https://t.co/pctjEzfkOi",
+   "urls": [],
+   "metrics": {
+    "likes": 274,
+    "reposts": 29,
+    "replies": 26,
+    "quotes": 5
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117694895377011163",
+    "author_id": "819261184939409408",
+    "username": "AirTahitiNui",
+    "name": "Air Tahiti Nui",
+    "created_at": "2026-11-03T19:06:22.000Z",
+    "text": "📣 @Starlink is coming soon onboard Air Tahiti Nui’s Tahitian Dreamliners! 🛜 Air Tahiti Nui and SpaceX have signed an agreement to equip our entire Boeing 787-9 fleet with Starlink Wi-Fi.\n\n✨Stay connected!",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWOQNBoa4AAftGT.jpg",
+      "width": 1080,
+      "height": 1350
+     }
+    ]
+   }
+  },
+  {
+   "id": "2117713222329626922",
+   "author_id": "1330170106501079041",
+   "username": "Starlink",
+   "name": "Starlink",
+   "created_at": "2026-11-03T20:19:12.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/Starlink/status/2117713222329626922",
+   "kind": "quote",
+   "text": "Soon, passengers and crew onboard @AirTahitiNui  can access Starlink’s high-speed, low-latency internet from gate to gate 🛰️✈️ https://t.co/pctjEzfkOi",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117694895377011163",
+    "author_id": "819261184939409408",
+    "username": "AirTahitiNui",
+    "name": "Air Tahiti Nui",
+    "created_at": "2026-11-03T19:06:22.000Z",
+    "text": "📣 @Starlink is coming soon onboard Air Tahiti Nui’s Tahitian Dreamliners! 🛜 Air Tahiti Nui and SpaceX have signed an agreement to equip our entire Boeing 787-9 fleet with Starlink Wi-Fi.\n\n✨Stay connected!",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWOQNBoa4AAftGT.jpg",
+      "width": 1080,
+      "height": 1350
+     }
+    ]
+   }
+  },
   {
    "id": "2117706258673217584",
    "author_id": "44196397",
@@ -7823,7 +8187,7 @@
  ],
  "last_run": {
   "status": "new",
-  "at": "2026-11-03T19:52:58Z",
-  "new_posts": 58
+  "at": "2026-11-03T23:36:35Z",
+  "new_posts": 10
  }
 }

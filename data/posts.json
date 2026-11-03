@@ -1,8 +1,2067 @@
 {
- "updated_at": "2026-11-03T03:17:51Z",
- "count": 197,
+ "updated_at": "2026-11-03T19:52:44Z",
+ "count": 255,
  "accounts": 11,
  "posts": [
+  {
+   "id": "2117706258673217584",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T19:51:31.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117706258673217584",
+   "kind": "repost",
+   "text": "Remember this image when you vote today. 🇺🇸",
+   "urls": [],
+   "metrics": {
+    "likes": 1265,
+    "reposts": 179,
+    "replies": 35,
+    "quotes": 11
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWN7XRXWkAAfKge.jpg",
+     "width": 2134,
+     "height": 1244
+    }
+   ],
+   "ref": {
+    "id": "2117672336199491954",
+    "author_id": "1009716150895341568",
+    "username": "SwipeWright",
+    "name": "Colin Wright",
+    "created_at": "2026-11-03T17:36:44.000Z"
+   }
+  },
+  {
+   "id": "2117674414125002877",
+   "author_id": "13298072",
+   "username": "Tesla",
+   "name": "Tesla",
+   "created_at": "2026-11-03T17:44:59.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/Tesla/status/2117674414125002877",
+   "kind": "quote",
+   "text": "“FSD is revolutionary – a step change in what it means to drive. I don’t think any other car at a similar price comes close. It’s the best car I have ever owned.” https://t.co/3ocJckpPNB",
+   "urls": [],
+   "metrics": {
+    "likes": 1983,
+    "reposts": 157,
+    "replies": 120,
+    "quotes": 16
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117646481729413225",
+    "author_id": "287309941",
+    "username": "ATabarrok",
+    "name": "Alex Tabarrok",
+    "created_at": "2026-11-03T15:53:59.000Z",
+    "text": "Thoughts on Owning a Self-Driving Tesla - https://marginalrevolution.com/marginalrevolution/2026/11/thoughts-on-owning-a-self-driving-tesla.html"
+   }
+  },
+  {
+   "id": "2117669499394814034",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:25:27.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117669499394814034",
+   "kind": "repost",
+   "text": "Over the past months, a single Wikipedia editor has been quietly shaping @AbdulElSayed's entry.\n\nThe editing has been intensive and highly directed. For example:\n\n+ Hasan Piker controversy got cut down.\n+ Syed's antisemitism problem – deleted.\n+ Harris and Obama endorsements went in.\n+  A line saying AIPAC’s brand is “toxic” included.\n\nIs it an op?\n\nWell, two weeks ago the same editor had this to say in an edit summary on the El-Sayed page:\n\n“another half month of this shit.”\n\n🧵",
+   "urls": [],
+   "metrics": {
+    "likes": 7323,
+    "reposts": 1489,
+    "replies": 273,
+    "quotes": 135
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWIP04CWAAASaeP.jpg",
+     "width": 1902,
+     "height": 1252
+    }
+   ],
+   "ref": {
+    "id": "2117272304514175370",
+    "author_id": "76143865",
+    "username": "AshleyRindsberg",
+    "name": "Ashley Rindsberg",
+    "created_at": "2026-11-02T15:07:09.000Z"
+   }
+  },
+  {
+   "id": "2117667530923745731",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:17:38.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117667530923745731",
+   "kind": "repost",
+   "text": "I’m gay. I voted straight Republican today. The party that secured the border and lets me live openly beats the one that puts me on a flag then opens the door to cultures that would kill me.",
+   "urls": [],
+   "metrics": {
+    "likes": 21946,
+    "reposts": 2543,
+    "replies": 1080,
+    "quotes": 161
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117651768788259139",
+    "author_id": "2244093232",
+    "username": "AlexToughTakes",
+    "name": "Alex",
+    "created_at": "2026-11-03T16:15:00.000Z"
+   }
+  },
+  {
+   "id": "2117667496392307004",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:17:30.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117667496392307004",
+   "kind": "repost",
+   "text": "United Airlines just reached a major milestone: Starlink Wi-Fi is now available on 50% of its DAILY flights\n\nUnited's official live tracker now shows:\n\n• 674 aircraft equipped with Starlink\n• 352 regional aircraft\n• 315 narrowbody aircraft\n• 7 widebody aircraft\n• 50% of daily flights now have Starlink\n\nAnd the rollout is accelerating\n\nUnited is targeting 61% of daily flights by the end of 2026, with its entire fleet expected to be equipped by the end of 2027\n\nStarlink is transforming in-flight connectivity, and millions more passengers are getting access to high-speed internet in the sky",
+   "urls": [],
+   "metrics": {
+    "likes": 921,
+    "reposts": 117,
+    "replies": 63,
+    "quotes": 6
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWNrJz1awAIH9cq.jpg",
+     "width": 1920,
+     "height": 1080
+    }
+   ],
+   "ref": {
+    "id": "2117654071763189897",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-03T16:24:09.000Z"
+   }
+  },
+  {
+   "id": "2117667421838274972",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:17:12.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117667421838274972",
+   "kind": "repost",
+   "text": "They said Elon would destroy it.\n\nToday X is the #1 news app in 167 countries.\n\nAnd on Election Day, you can see it live: results, breaking updates, real people reporting from the ground, all happening right here, in real time.\n\nNot bought. Not forced. Organic. Real. Alive.\nHundreds of millions of views every single day.\n\nBreaking news doesn't happen on TV anymore. It happens on X, first.\n\nThey doubted. X delivered.",
+   "urls": [],
+   "metrics": {
+    "likes": 1968,
+    "reposts": 272,
+    "replies": 70,
+    "quotes": 10
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117659675709849612",
+    "author_id": "1265526183137067010",
+    "username": "TheCaptainEli",
+    "name": "Captain Eli",
+    "created_at": "2026-11-03T16:46:25.000Z"
+   }
+  },
+  {
+   "id": "2117667376229683454",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:17:01.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117667376229683454",
+   "kind": "repost",
+   "text": "Democrat Nominee for U.S. Senate Abdul El-Sayed calls for amnesty for illegal aliens: “We need a pathway to citizenship for folks stuck in limbo right now. This tough guy attitude to immigration is not keeping us safe.”\n\n10 million illegal aliens entered the U.S. in just four years under Biden alone.\n\nVote Republican.",
+   "urls": [],
+   "metrics": {
+    "likes": 1472,
+    "reposts": 336,
+    "replies": 327,
+    "quotes": 38
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2108343647414403072/vid/avc1/1280x720/hswLPqKvN2MU5wUw.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2108343647414403072/img/x90r9mQYdwulpAai.jpg",
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 18317
+    }
+   ],
+   "ref": {
+    "id": "2117640446830948453",
+    "author_id": "1841988608825466880",
+    "username": "america",
+    "name": "America",
+    "created_at": "2026-11-03T15:30:01.000Z"
+   }
+  },
+  {
+   "id": "2117667060646085073",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:15:46.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117667060646085073",
+   "kind": "repost",
+   "text": "Voted today to keep Florida red.\n\nI left the failed politics from New York in New York.",
+   "urls": [],
+   "metrics": {
+    "likes": 35956,
+    "reposts": 3463,
+    "replies": 1588,
+    "quotes": 105
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWNLhU5XEAAzk0h.jpg",
+     "width": 1536,
+     "height": 2048
+    }
+   ],
+   "ref": {
+    "id": "2117619294813171762",
+    "author_id": "1097307966213160961",
+    "username": "ZeekArkham",
+    "name": "Zeek Arkham 🇺🇸",
+    "created_at": "2026-11-03T14:05:58.000Z"
+   }
+  },
+  {
+   "id": "2117666899844866098",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:15:07.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117666899844866098",
+   "kind": "quote",
+   "text": "🤨 https://t.co/AD2lRFcodx",
+   "urls": [],
+   "metrics": {
+    "likes": 17981,
+    "reposts": 3102,
+    "replies": 1936,
+    "quotes": 100
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117625345503302015",
+    "author_id": "1841988608825466880",
+    "username": "america",
+    "name": "America",
+    "created_at": "2026-11-03T14:30:00.000Z",
+    "text": "Democrat Nominee for U.S. Senate in Michigan Abdul El-Sayed wants open borders and no deportations:\n\n“We as a country, I believe, owe it to the world to open our doors.”\n\nGet out and VOTE Republican against this.",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2108697277879500801/vid/avc1/1920x1080/VZjibggAK1cchCEa.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2108697277879500801/img/0kt9luJc22qlU_Tp.jpg",
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 94327
+     }
+    ]
+   }
+  },
+  {
+   "id": "2117666485875478803",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:13:29.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117666485875478803",
+   "kind": "repost",
+   "text": "POV you’re a flying car",
+   "urls": [],
+   "metrics": {
+    "likes": 12498,
+    "reposts": 1565,
+    "replies": 430,
+    "quotes": 270
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117659748313313280/vid/avc1/1080x1920/P6fqvWpRH0xB-UDt.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117659748313313280/img/rbqvN47omA7xzOn9.jpg",
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 33800
+    }
+   ],
+   "ref": {
+    "id": "2117659842685128881",
+    "author_id": "13298072",
+    "username": "Tesla",
+    "name": "Tesla",
+    "created_at": "2026-11-03T16:47:05.000Z"
+   }
+  },
+  {
+   "id": "2117666429411766402",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:13:15.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117666429411766402",
+   "kind": "repost",
+   "text": "BOOM: Lines are wrapping around polling places in Texas this morning as voters pour in.\n\nTexans do not stand in long lines for things they do not care about.\n\nIf you are in line, stay there. Texas polls are open until 7 PM, and everyone in line by 7 gets to vote.",
+   "urls": [],
+   "metrics": {
+    "likes": 6748,
+    "reposts": 1296,
+    "replies": 113,
+    "quotes": 13
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117644656469033331",
+    "author_id": "1355721251180961792",
+    "username": "GuntherEagleman",
+    "name": "Gunther Eagleman™",
+    "created_at": "2026-11-03T15:46:44.000Z"
+   }
+  },
+  {
+   "id": "2117666334549201202",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:12:53.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117666334549201202",
+   "kind": "repost",
+   "text": "RED WAVE incoming!\n\nIn Dallas, Tarrant, and Collin Counties, wait times at red precincts are significantly higher than at blue precincts.\n\nDefinitely feels like the Democrats burned through their high-propensity voters on the first two days of early voting.\n\nCalled it.",
+   "urls": [],
+   "metrics": {
+    "likes": 5409,
+    "reposts": 628,
+    "replies": 216,
+    "quotes": 18
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117653542311743802",
+    "author_id": "1343212349344395264",
+    "username": "BlackLabelAdvsr",
+    "name": "Jon Elder",
+    "created_at": "2026-11-03T16:22:03.000Z"
+   }
+  },
+  {
+   "id": "2117665964862939320",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:11:25.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117665964862939320",
+   "kind": "quote",
+   "text": "Grok @Bot can research which doctors are the best in your area, call them by phone and make an appointment! https://t.co/V1zWDoSnr6",
+   "urls": [],
+   "metrics": {
+    "likes": 3243,
+    "reposts": 464,
+    "replies": 842,
+    "quotes": 78
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117633564736938471",
+    "author_id": "23113993",
+    "username": "minchoi",
+    "name": "Min Choi",
+    "created_at": "2026-11-03T15:02:40.000Z",
+    "text": "Grok Bot just made a doctor's appointment for me while I was driving...\n\nMy daughter hurt her foot landing a jump at dance practice.\n\nI told Grok Bot what happened, how she was feeling, and what I saw: not much swelling, iced, and her pain seemed manageable.\n\nIt gave me a few nearby options, including a pediatric orthopedist with X-rays on site, and offered to call when they opened.\n\nGrok Bot called and got her in at 9:30 the same day.\n\nThe whole call was transcribed live, and when the receptionist asked for more info, it asked me in real time.\n\nIt also got the insurance, payment options and pricing, had the intake forms sent to my email, and put it on my calendar.\n\nThe receptionist knew the call was recorded, and I could review the recording afterward.\n\nAll while I was driving.\n\nGrok Bot is going to completely change people's lives.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWNYeRmXQAA8HBX.jpg",
+      "width": 1080,
+      "height": 1526
+     }
+    ]
+   }
+  },
+  {
+   "id": "2117664671813767516",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:06:16.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117664671813767516",
+   "kind": "quote",
+   "text": "Grok @Bot can do complex trips https://t.co/S0WFAk6RSW",
+   "urls": [],
+   "metrics": {
+    "likes": 2530,
+    "reposts": 323,
+    "replies": 497,
+    "quotes": 30
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117662949137670591",
+    "author_id": "107",
+    "username": "pud",
+    "name": "Philip Kaplan",
+    "created_at": "2026-11-03T16:59:26.000Z",
+    "text": "Used Grok @Bot to book flights for a relatively complex family trip. Incredible experience. I’ll likely never use an airline’s website again."
+   }
+  },
+  {
+   "id": "2117663863856377923",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:03:04.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117663863856377923",
+   "kind": "quote",
+   "text": "Quest to understand the Universe https://t.co/dx62CckjRc",
+   "urls": [],
+   "metrics": {
+    "likes": 4903,
+    "reposts": 744,
+    "replies": 852,
+    "quotes": 73
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117627809590030805",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-03T14:39:48.000Z",
+    "text": "When Chris Anderson asked Elon Musk what drives him every single day to do everything he does, Elon gave an incredibly deep and powerful answer\n\n“I really want to make sure that there is a good future for humanity, and that we're on a path to understanding the nature of the universe, the meaning of life. Why are we here? How do we get here?”\n\nAnd then he explained what motivates him more than anything:\n\n“I'm motivated by curiosity more than anything, and just a desire to think about the future and not be sad”",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2117627771514187776/vid/avc1/1920x1080/ebNOoiIR5rB45Ljl.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117627771514187776/img/XIMzhfgy_zeLHCd0.jpg",
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 50500
+     }
+    ]
+   }
+  },
+  {
+   "id": "2117663467511730395",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:01:29.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117663467511730395",
+   "kind": "repost",
+   "text": "🚨 Texas, this is the day.\n\nKen Paxton has spent years fighting Washington for you. Today he needs you to fight for him.\n\nPolls stay open until 7 PM. Already in line at 7? You still vote, so do not leave. Bring a friend. Keep Texas red.",
+   "urls": [],
+   "metrics": {
+    "likes": 2581,
+    "reposts": 726,
+    "replies": 173,
+    "quotes": 21
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWNKJfFW8AAq_OI.jpg",
+     "width": 1254,
+     "height": 1254
+    }
+   ],
+   "ref": {
+    "id": "2117617780904382862",
+    "author_id": "1355721251180961792",
+    "username": "GuntherEagleman",
+    "name": "Gunther Eagleman™",
+    "created_at": "2026-11-03T13:59:57.000Z"
+   }
+  },
+  {
+   "id": "2117663422246490160",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:01:18.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117663422246490160",
+   "kind": "repost",
+   "text": "Just voted red in PA\n\nGo vote!",
+   "urls": [],
+   "metrics": {
+    "likes": 20005,
+    "reposts": 1820,
+    "replies": 745,
+    "quotes": 47
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWNL6LdWQAAadoq.jpg",
+     "width": 1536,
+     "height": 2048
+    }
+   ],
+   "ref": {
+    "id": "2117619717368062287",
+    "author_id": "1387932815438893056",
+    "username": "Wightout66",
+    "name": "Dwight",
+    "created_at": "2026-11-03T14:07:38.000Z"
+   }
+  },
+  {
+   "id": "2117663408883482938",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T17:01:15.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117663408883482938",
+   "kind": "repost",
+   "text": "Good work sir! Follow his example if you haven’t voted yet and go vote!",
+   "urls": [],
+   "metrics": {
+    "likes": 1754,
+    "reposts": 190,
+    "replies": 36,
+    "quotes": 2
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117659676850700415",
+    "author_id": "2300786360",
+    "username": "the_jefferymead",
+    "name": "Jeffery Mead",
+    "created_at": "2026-11-03T16:46:25.000Z",
+    "quote": {
+     "id": "2117619717368062287",
+     "author_id": "1387932815438893056",
+     "username": "Wightout66",
+     "name": "Dwight",
+     "created_at": "2026-11-03T14:07:38.000Z",
+     "text": "Just voted red in PA\n\nGo vote!",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWNL6LdWQAAadoq.jpg",
+       "width": 1536,
+       "height": 2048
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117659842685128881",
+   "author_id": "13298072",
+   "username": "Tesla",
+   "name": "Tesla",
+   "created_at": "2026-11-03T16:47:05.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/Tesla/status/2117659842685128881",
+   "kind": "post",
+   "text": "POV you’re a flying car https://t.co/q8oRm4tljC",
+   "urls": [],
+   "metrics": {
+    "likes": 12488,
+    "reposts": 1565,
+    "replies": 430,
+    "quotes": 270
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117659748313313280/vid/avc1/1080x1920/P6fqvWpRH0xB-UDt.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117659748313313280/img/rbqvN47omA7xzOn9.jpg",
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 33800
+    }
+   ]
+  },
+  {
+   "id": "2117657562057191874",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T16:38:01.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117657562057191874",
+   "kind": "repost",
+   "text": "GO OUT AND VOTE‼️🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸",
+   "urls": [],
+   "metrics": {
+    "likes": 16523,
+    "reposts": 2803,
+    "replies": 711,
+    "quotes": 61
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117644754196512768/vid/avc1/1080x1920/k6Z5hPEu9266p3sX.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117644754196512768/img/pUd0mNROr1NjVt0-.jpg",
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 61036
+    }
+   ],
+   "ref": {
+    "id": "2117644895561347224",
+    "author_id": "90552683",
+    "username": "RobSchneider",
+    "name": "Rob Schneider 🇺🇸",
+    "created_at": "2026-11-03T15:47:41.000Z"
+   }
+  },
+  {
+   "id": "2117656478689775862",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T16:33:43.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117656478689775862",
+   "kind": "quote",
+   "text": "Prophetic https://t.co/kjfwXlj930",
+   "urls": [],
+   "metrics": {
+    "likes": 33107,
+    "reposts": 2780,
+    "replies": 1310,
+    "quotes": 143
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117607331433496741",
+    "author_id": "1495956968640421893",
+    "username": "AlcuinPress",
+    "name": "Alcuin Press",
+    "created_at": "2026-11-03T13:18:25.000Z",
+    "text": "J.R.R. Tolkien, holy cow this hits",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWNAnvVbAAENnjk.jpg",
+      "width": 1336,
+      "height": 557
+     }
+    ]
+   }
+  },
+  {
+   "id": "2117652120073846818",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-03T16:16:24.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117652120073846818",
+   "reply_to": {
+    "id": "2117642185726419142",
+    "username": "samlambert"
+   },
+   "kind": "reply",
+   "text": "@samlambert 😍",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2117651433986404377",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T16:13:40.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117651433986404377",
+   "reply_to": {
+    "id": "2117620220474908969",
+    "username": "EvaFox"
+   },
+   "kind": "reply",
+   "text": "@EvaFox Actually, I had ~$2500, which was the amount left over after buying a ticket to Montreal from South Africa",
+   "urls": [],
+   "metrics": {
+    "likes": 15885,
+    "reposts": 581,
+    "replies": 941,
+    "quotes": 66
+   },
+   "partial": true
+  },
+  {
+   "id": "2117651007538884899",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T16:11:58.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117651007538884899",
+   "kind": "quote",
+   "text": "Grok @Bot is like hiring a super competent employee. Treat Bot like you would a colleague. https://t.co/eoE4r9g35W",
+   "urls": [],
+   "metrics": {
+    "likes": 6443,
+    "reposts": 614,
+    "replies": 1265,
+    "quotes": 110
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117640018630217997",
+    "author_id": "14710129",
+    "username": "PeterDiamandis",
+    "name": "Peter H. Diamandis, MD",
+    "created_at": "2026-11-03T15:28:18.000Z",
+    "text": "Got to say it.  GrokBot is AWESOME.  Actually addicting."
+   }
+  },
+  {
+   "id": "2117650707398664501",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T16:10:47.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117650707398664501",
+   "kind": "quote",
+   "text": "Starlink grows customers for airlines https://t.co/0Xs0TXWE4C",
+   "urls": [],
+   "metrics": {
+    "likes": 3613,
+    "reposts": 470,
+    "replies": 430,
+    "quotes": 39
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117649738623496227",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-03T16:06:56.000Z",
+    "text": "BREAKING: Starlink helped Japan’s ZIPAIR grow passenger revenue 12.3% YoY.\n\nJapan Airlines (JAL) says @Starlink improved ZIPAIR’s onboard experience and helped drive revenue growth alongside flexible pricing.\n\nZIPAIR became Asia’s first airline with Starlink across its entire fleet in May. April–September passenger revenue reached ¥42.9 billion, while seat occupancy jumped from 73.7% to 87.8%.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWNnNeYaoAAeW13.jpg",
+      "width": 923,
+      "height": 923
+     }
+    ]
+   }
+  },
+  {
+   "id": "2117649850644705591",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T16:07:23.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117649850644705591",
+   "kind": "quote",
+   "text": "And electrical equipment, cooling, networking and batteries https://t.co/aW2r7j8gvJ",
+   "urls": [],
+   "metrics": {
+    "likes": 18857,
+    "reposts": 1929,
+    "replies": 1282,
+    "quotes": 182
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117572576390349155",
+    "author_id": "19210582",
+    "username": "euwyn",
+    "name": "Euwyn",
+    "created_at": "2026-11-03T11:00:19.000Z",
+    "text": "Elon Musk says the AI boom will hit a WALL by the end of 2026.\n\nHe says the whole industry is about to learn a hard lesson in hardware.\n\nChip output is exploding, but electricity is nearly flat everywhere outside China.\n\nSo the two lines cross this year.\n\nHe says by the end of the year, we will be making more AI chips than we can actually turn on.\n\nMillions of them pile up with nowhere to plug in.\n\nIn his words, the bottleneck for the next year is not chips, it is raw power.\n\nWhoever can turn on the most chips fastest wins the race.\n\nIn the end, the AI race comes down to one thing:\n\nRaw electricity.\n\n— Elon Musk (.@elonmusk) on Dwarkesh Patel's (.@dwarkesh_sp) podcast",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2117572503589818368/vid/avc1/1920x1080/Ku78wKr8uh9nnmN9.mp4?tag=16",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117572503589818368/img/W1ePJqajOzRNpz9x.jpg",
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 68651
+     }
+    ],
+    "quote": {
+     "id": "2117209646985564485",
+     "author_id": "19210582",
+     "username": "euwyn",
+     "name": "Euwyn",
+     "created_at": "2026-11-02T10:58:10.000Z",
+     "text": "Elon Musk says billion dollar AI companies with money to spend can't build power plants fast enough to meet AI's electricity demand.\n\nEvery major power project requires approvals and equipment, including:\n\n• Switchgear\n• Gas turbines\n• Power plant permits\n• Electrical transformers\n• Utility interconnection studies\n• High-voltage transmission lines\n• Specialized turbine blades and vanes\n\nIf even one component is delayed, the entire project stalls... leaving AI chips without electricity.\n\nMusk says gas turbines are sold out through 2030, with specialized blades and vanes being the biggest bottleneck.\n\nBuilding more power plants isn't the quick solution AI companies thought it'd be.\n\n— Elon Musk (.@elonmusk) on Dwarkesh Patel's (.@dwarkesh_sp) podcast",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2117209572385619968/vid/avc1/1920x1080/sD5vQd29afEHduXE.mp4?tag=16",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2117209572385619968/img/fDGj26s5vl1HqjU1.jpg",
+       "width": 1920,
+       "height": 1080,
+       "duration_ms": 121162
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117626744668905487",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T14:35:34.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117626744668905487",
+   "kind": "post",
+   "text": "Vote red today!",
+   "urls": [],
+   "metrics": {
+    "likes": 204348,
+    "reposts": 28565,
+    "replies": 15095,
+    "quotes": 2633
+   },
+   "partial": true
+  },
+  {
+   "id": "2117626690062942516",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T14:35:21.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117626690062942516",
+   "kind": "repost",
+   "text": "Texas,\n\nI ask for your votes for Ken Paxton for the US Senate.\n\n@KenPaxtonTX",
+   "urls": [],
+   "metrics": {
+    "likes": 14259,
+    "reposts": 2730,
+    "replies": 862,
+    "quotes": 57
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWNAkl1acAAS9Jt.jpg",
+     "width": 1153,
+     "height": 1255
+    }
+   ],
+   "ref": {
+    "id": "2117607254585455002",
+    "author_id": "931286316",
+    "username": "ScottPresler",
+    "name": "ThePersistence",
+    "created_at": "2026-11-03T13:18:07.000Z"
+   }
+  },
+  {
+   "id": "2117626660610585069",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T14:35:14.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117626660610585069",
+   "kind": "repost",
+   "text": "The replies to this post are amazing. This guy doesn’t even understand how much Elon Musk has saved the taxpayer with SpaceX alone.",
+   "urls": [],
+   "metrics": {
+    "likes": 2807,
+    "reposts": 267,
+    "replies": 97,
+    "quotes": 13
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWNGLTKW4AAlWsS.jpg",
+     "width": 1290,
+     "height": 264
+    }
+   ],
+   "ref": {
+    "id": "2117613413212057943",
+    "author_id": "36134346",
+    "username": "Chesschick01",
+    "name": "Natalie F Danelishen",
+    "created_at": "2026-11-03T13:42:35.000Z",
+    "quote": {
+     "id": "2117382536875606446",
+     "author_id": "1356786368656138241",
+     "username": "JamesTate121",
+     "name": "James Tate",
+     "created_at": "2026-11-02T22:25:10.000Z",
+     "text": "Delete yours. Elon Musk’s companies have received at least $38 billion in U.S. government contracts, loans, subsidies, and tax credits since 2003, with another $11.8 billion projected in the coming years.\n2018: Musk paid $0 in federal income tax due to low realized income and legal deductions. 📷milliondollarthings.com+2"
+    }
+   }
+  },
+  {
+   "id": "2117626410529689678",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T14:34:14.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117626410529689678",
+   "kind": "quote",
+   "text": "Yes https://t.co/DhZoM2xe3A",
+   "urls": [],
+   "metrics": {
+    "likes": 11856,
+    "reposts": 986,
+    "replies": 965,
+    "quotes": 88
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117490911479263536",
+    "author_id": "1265526183137067010",
+    "username": "TheCaptainEli",
+    "name": "Captain Eli",
+    "created_at": "2026-11-03T05:35:49.000Z",
+    "text": "Most people are still using AI the wrong way.\n\nThey ask it questions.\n\nElon Musk just pointed at the right way.\n\nYesterday, Jason Ginsberg wrote: \"Treat Grok Bot like a teammate and give @bot an ambitious task you'd normally give to a new hire.\"\n\nElon's answer: \"This is the way.\"\n\nThree words. A whole shift in how we work.\n\nHere's what that looks like in real life.\n\nScott Billows runs a business with a very traditional sales cycle. Deals that take months to cultivate.\n\nHe pointed Grok Bot at his company's tools.\n\nIt dug through the past. Surfaced old prospects and customers nobody was calling anymore. Handed them to his sales reps.\n\nTwo weeks in, a closed deal.\n\nHis words: \"Without Grok Bot we most likely would not have reached out to this past customer.\"\n\nThink about that.\n\nNot a faster search. Not a smarter autocomplete. Not a chatbot.\n\nA teammate that found money hiding in plain sight.\n\nEveryone thought AI would be a better answer machine.\n\nIt's actually a new kind of colleague.\n\nElon put it plainly back in October: \"assume you are hiring a super competent employee.\"\n\nNot a tool you open. Someone you hand the job to.\n\nThe team keeps adding powers. Product pages. Order tracking. Payments. Team Bots your whole company can share.\n\nEvery week the job description gets longer.\n\nHere's the part almost nobody sees yet.\n\nFor all of history, having a team was a privilege. Only the rich, the big companies, the well-connected could delegate.\n\nEveryone else did everything alone.\n\nThat wall is falling.\n\nA small shop owner. A single parent. A sailor at sea. Anyone can now say: \"Here's the mission. Go.\"\n\nWhen everyone gets a team, everyone becomes a builder.\n\nAnd a civilization of builders doesn't stay small for long.\n\nStop asking AI questions.\n\nGive it a job."
+   }
+  },
+  {
+   "id": "2117626333974983007",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T14:33:56.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117626333974983007",
+   "kind": "repost",
+   "text": "I was at the beach with a couple of friends, and we were all hungry and wanted to find a really good restaurant for dinner\n\nBut we couldn't decide where to go. You know how it is when you're traveling, you end up spending so much time searching through Google trying to find the best place\n\nThen one of my friends said, \"Just ask Grok Bot\"\n\nSo we did, and it literally picked a restaurant nearby for us\n\nWe just had dinner there, and it turned out to be the BEST food we've had since arriving here last night 😂\n\nThe Pad Thai was great, the mango shake was great, and the dessert was absolutely amazing\n\nI'm telling you, Grok Bot is making even the little things in life sooo much easier",
+   "urls": [],
+   "metrics": {
+    "likes": 913,
+    "reposts": 104,
+    "replies": 73,
+    "quotes": 9
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWNGKPnbQAAKO2A.jpg",
+     "width": 1890,
+     "height": 3669
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWNGLL0bIAAf0-2.jpg",
+     "width": 3072,
+     "height": 4096
+    }
+   ],
+   "ref": {
+    "id": "2117613423274111487",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-03T13:42:38.000Z"
+   }
+  },
+  {
+   "id": "2117626274365788210",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T14:33:42.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117626274365788210",
+   "kind": "repost",
+   "text": "Grok Build just got a massive performance and reliability upgrade, with improvements across multi-agent workflows, terminal responsiveness, session recovery, and overall stability\n\nLong-running sessions now use less memory, large JSON and log pastes no longer freeze the terminal, Linux file watching uses significantly less CPU, and background subagent activity triggers far fewer unnecessary screen redraws\n\nSession resuming is also much faster, subagent conversations are easier to follow, shell approvals now explain why commands were blocked, and `@` file navigation can access files outside the workspace\n\nThere’s also a huge reliability pass covering safer updates, MCP authentication, context window handling, workflow execution, Windows and macOS stability, and more reliable headless sessions\n\nGrok Build keeps getting better at handling bigger projects, longer conversations, and increasingly complex multi-agent workloads without slowing down\n\nRelease Notes: v1.0.74\n\nFeatures:\n\n• Messages between subagents appear as left-aligned rows under the bullet that name the sender and recipient, replacing the centered rows\n• Shift+Enter inserts a newline in VS Code and other xterm.js-based terminals that use the Kitty keyboard protocol\n• `/mcps`: when a browser can't open an MCP server's sign-in URL, the URL shows in a panel you can copy with `c` or the [Copy the url] button\n• [Copy] button in a finished `/btw` panel and its folded transcript row copies the whole answer, even when only part of it is visible\n• Shell approval cards say when Auto-review blocked a command or couldn't review it, and Ctrl+F shows the reviewer's explanation\n• `!` mode Tab completion offers commands installed as symlinks, such as Homebrew, npm, rustup and Debian alternatives binaries\n• Quotes in replies get a [Copy] button that copies the whole quote as Markdown without its `>` markers\n• Named subagent links open on a plain click, so they work over SSH from macOS where a modified click can't reach Grok\n• `@` paths outside the workspace: an `@` path that starts with `/`, `~/` or `../` lists files from that folder; set `[ui] at_picker_outside_workspace = false` to turn it off.\n• Picked `@` files in the prompt can be edited in place: Backspace at the end of one reopens the picker on its path, and Left or Right puts the cursor inside it to change the path\n\nBug Fixes:\n\n• Built-in skills, agents and workflows are refreshed when their local cache's manifest is missing or corrupt, instead of staying outdated or failing every sync\n• Ctrl+Y on a question card no longer closes it without an answer; while you type an answer, it pastes back text cut with Ctrl+K\n• `/new` tabs show the context window you just switched to before the new session replies\n• Resumed sessions show a background command's completion in the turn that ran it, with its real run time instead of about 0.0s\n• `grok update` runs when GROK_SANDBOX, --sandbox, or config sets a sandbox profile, unless Grok is already running confined\n• `/btw` on a very short terminal no longer swallows arrow keys, Page Up/Down or clicks while its panel is too small to draw\n• A code block's [Copy] in the transcript copies while a queued prompt is open for editing, instead of copying nothing or closing the edit\n• `grok logout` stays signed out when another running Grok refreshes its sign-in, instead of signing you back in on the next launch\n• Opening links and files from the TUI no longer leaves a zombie process behind for each click\n• A failed session delete shows the \"Couldn't delete session\" prefix once, so the reason is no longer cut off\n• Windows: Grok exits fully after a startup error, a `/minimal` or `/fullscreen` switch, or a signal, instead of sometimes hanging\n• Grok running confined in a sandbox never starts an update on its own and tells you to run `grok update` instead\n• Quitting to install an update with Ctrl+U on the welcome screen exits within the usual exit deadline instead of sometimes hanging after \"Update installed\"\n• `grok update --force-reinstall`, or `grok update --version` with the installed version, keeps your working Grok on Linux and macOS when the download fails its checks, instead of deleting it\n• Windows installers check that the downloaded build runs before replacing grok.exe and agent.exe, and keep the existing install when it doesn't, such as when a proxy serves a blocked-download page\n• Command-line arguments that aren't valid UTF-8 no longer crash Grok at startup: paths such as --cwd accept them, and text such as -p gets a usage error\n• Installers keep the installed Grok when a proxy or cache returns an empty download, instead of replacing it with an empty file and reporting success\n• Environment variables with non-UTF-8 bytes no longer stop Grok from starting.\n• Workflow run lines in the transcript end with what the run returned instead of a bare colon, `/tasks` shows the time it was taken, and polling an unknown task id leaves a row with its error\n• Headless runs stopped by Ctrl+C or SIGTERM end their json, streaming-json or streaming-messages-json output with a closing record that keeps the run's outcome, instead of cutting off the stream\n• macOS: the TUI no longer freezes when it runs inside a sandbox that blocks the window server\n• `grok -p --resume` shows why a session couldn't load instead of always \"Session does not exist\", and with `--output-format json` a resume, continue or fork that fails before the session opens prints one JSON error\n• Sessions with an unrecognized reasoning effort or unreadable bytes in their history resume instead of failing: the session runs at the model's default effort and says so once, and the unreadable lines are left out of the transcript\n• Windows: on older consoles such as plain cmd.exe and Windows PowerShell windows, status marks and selection arrows in workflow views, the dashboard, and the feedback and extensions dialogs show as >, ·, √ or x instead of empty boxes\n• File paths with spaces in inline code, such as `~/Library/Application Support/...`, link to the whole path when it exists instead of stopping at the first space.\n• Feedback that can't be sent leads with the outcome, such as \"Couldn't send feedback. Saved to Drafts.\", then gives the reason and says to retry from `/feedback`.\n• Dialog tab labels, shortcuts and settings rows that don't fit end in … instead of being cut off\n• Prompt history search highlights matched letters in the same color as other fuzzy lists, and the counts on the `/` and `@` menu borders are dimmed like other border captions\n• Dashboard: the peek header reads Responding while a reply streams, and the Esc footer hint reads new agent like the other lowercase hints\n• Custom agent files saved with a UTF-8 byte order mark, as some Windows editors write them, load instead of being skipped\n• Running markers in workflow views and MCP servers that are still starting use the theme's running color, like other progress indicators\n• Minimal mode: \"Sign-in failed\" shows in the error color instead of the warning color.\n• Context window: a larger window picked with `/context-window` or set with `context_window` in a `[model.\"<id>\"]` table stays in effect, so compaction no longer starts early after the session sits idle, after a failed request such as a rate limit, or until you restart\n\nPerformance:\n\n• Long sessions use less memory: finished Markdown blocks far off screen release their rendered layout, and search still finds their text\n• Typing no longer lags when ffmpeg isn't installed and PATH holds slow directories, such as Windows drives under WSL\n• Long pastes that arrive as keystrokes, such as pastes on native Windows or in terminals without bracketed paste, no longer freeze the prompt for seconds while the plan-mode tip is on\n• Pasting long single-line text such as logs, JSON or base64 into the prompt no longer freezes the TUI for seconds\n• File watching on Linux no longer keeps a CPU core busy for about a minute after startup in large repositories.\n• Lower CPU use while subagents run: the TUI repaints only for animations on screen, about 7 times a second instead of 30 when no running row is visible\n• `grok --resume <id>` opens much faster on large session stores, reading only the resumed session instead of every session",
+   "urls": [],
+   "metrics": {
+    "likes": 747,
+    "reposts": 99,
+    "replies": 51,
+    "quotes": 4
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWLyKd2aQAAn2bE.jpg",
+     "width": 1598,
+     "height": 899
+    }
+   ],
+   "ref": {
+    "id": "2117521174406299738",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-03T07:36:04.000Z",
+    "quote": {
+     "id": "2115228120001495117",
+     "author_id": "1818311005698678784",
+     "username": "XFreeze",
+     "name": "X Freeze",
+     "created_at": "2026-10-27T23:44:17.000Z",
+     "text": "Grok Build just got a powerful new update, turning its terminal into an even more interactive command center for multi-agent workflows.\n\nFile paths, subagent IDs, background tasks, and pull-request numbers are now clickable directly from agent replies, while workflow navigation makes it easier to jump between phases and individual agents without digging through transcripts.\n\nOne of the biggest improvements is under the hood: MCP tools built with FastMCP or the official MCP SDK no longer send duplicate results, cutting context usage for those calls roughly in half.\n\nThere are also safer session deletion prompts, better feedback handling, fixes for custom models, more reliable MCP responses, and improved terminal navigation.\n\nLess wasted context. Faster navigation. Much better control over complex agent workflows.\n\nRelease Notes: v1.0.72\n\nFeatures:\n\n• Relative file paths in the agent's output, such as src/app/main.rs, open on click when the file exists under the session's folder, as absolute paths already do.\n• Subagent and background task ids mentioned in the transcript open that subagent's view or the task's output on click.\n• Pull-request numbers such as #123 in the agent's replies open that pull request on the session repository's forge.\n• Subagents named in a reply show as the subagent's label instead of its raw id once the reply finishes, as a link that opens its transcript.\n• /workflow runs detail view: → or a click focuses a phase's agent list, ↑/↓ pick an agent, Enter opens it, and ← returns to the phases.\n• Feedback draft rows show on their own instead of inside a group of tool rows, and opening one shows the /feedback Drafts tab with that draft selected.\nBug Fixes:\n• Warp: clicking a URL that wraps across rows opens the whole URL instead of only its first row.\n• /delete confirmation starts on Cancel, so pressing Enter no longer deletes the session; press 1 to delete.\n• Max thoughts width (/settings, [ui].max_thoughts_width) sets how wide thinking blocks wrap; it previously had no effect.\n• Dashboard shows the new folder on the dispatch box's top border right after a Ctrl+L or /cd pick.\n• Custom models on the Responses API with a non-xAI base_url no longer fail every turn with an HTTP 400 schema error for use_tool.\n• /feedback Drafts tab keeps the selected draft when the list reloads, such as after leaving Drafts and coming back.\n• MCP tools built with FastMCP or the official MCP SDK send their result to the model once instead of twice, so each call uses about half the context.\n• Plan review notes accept every key, so a note that starts with a no longer approves the plan.\n• MCP servers over stdio no longer lose part of a long reply line, such as a large tool list, when a read is interrupted.",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVrMv10aYAA0TB2.jpg",
+       "width": 1510,
+       "height": 849
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117605474392854848",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T13:11:02.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117605474392854848",
+   "kind": "repost",
+   "text": "Starlink's mobile app has grown massively worldwide over the past three years\n\nBetween September 2023 and September 2026:\n• Monthly downloads: up 316%\n• Monthly active users: up 332%\n\nThat's global usage across iPhone and Android\n\nStarlink now has roughly over 13 million users worldwide, and app activity keeps climbing as the network expands across homes, aviation, maritime, mobility and Direct to Cell\n\nStarlink isn't just growing its network\nIts global user base is scaling right alongside it\n\nEvery new user is another family, ship, plane, or village now connected, bringing the world closer together",
+   "urls": [],
+   "metrics": {
+    "likes": 1179,
+    "reposts": 190,
+    "replies": 105,
+    "quotes": 13
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWM9jrBbcAAqFg8.jpg",
+     "width": 1920,
+     "height": 1080
+    }
+   ],
+   "ref": {
+    "id": "2117603942649434370",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-03T13:04:57.000Z",
+    "quote": {
+     "id": "2117593478872076644",
+     "author_id": "24683972",
+     "username": "Similarweb",
+     "name": "Similarweb",
+     "created_at": "2026-11-03T12:23:23.000Z",
+     "text": "Between September 2023 and September 2026, Starlink's mobile app saw significant growth:\n\n📈 Monthly downloads: +316%\n📈 Monthly active users: +332%\n\nGet a complete picture of the app economy with Similarweb App Intelligence:\nhttps://www.similarweb.com/corp/apps/?utm_medium=social&utm_source=twit",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWMzpRwXwAAdZVK.png",
+       "width": 700,
+       "height": 610
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117604107355558099",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T13:05:37.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117604107355558099",
+   "kind": "repost",
+   "text": "Tomorrow, stand up for Texas—our families, freedoms, and future. Don’t sit on the sidelines: VOTE! Call family, text friends, and check on neighbors. Every vote matters. Don’t wake up Wednesday wishing you’d done more. Texas is worth fighting for! 🇺🇸",
+   "urls": [],
+   "metrics": {
+    "likes": 9051,
+    "reposts": 2361,
+    "replies": 841,
+    "quotes": 79
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117443757368848384/vid/avc1/1080x1920/jL2xKLanfBOOpruZ.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117443757368848384/img/U8DnlkU9LPU-2PLX.jpg",
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 40538
+    }
+   ],
+   "ref": {
+    "id": "2117443858619605464",
+    "author_id": "45840174",
+    "username": "KenPaxtonTX",
+    "name": "Attorney General Ken Paxton",
+    "created_at": "2026-11-03T02:28:50.000Z"
+   }
+  },
+  {
+   "id": "2117603290816864270",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T13:02:22.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117603290816864270",
+   "kind": "repost",
+   "text": "I am a lifelong Democrat.\n\nBut for the first time ever, I will be voting Republican tomorrow.\n\nWhy? Because the Trump administration has steered our country in the right direction.\n\nMeanwhile, liberals only have transgender.\n\nIt’s no contest. Even for me, a lifelong Democrat.",
+   "urls": [],
+   "metrics": {
+    "likes": 9520,
+    "reposts": 1213,
+    "replies": 930,
+    "quotes": 64
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117403112667578557",
+    "author_id": "1998524099971170304",
+    "username": "HankDesmondPhD",
+    "name": "Dr. Hank Desmond",
+    "created_at": "2026-11-02T23:46:56.000Z"
+   }
+  },
+  {
+   "id": "2117603030564585699",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T13:01:20.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117603030564585699",
+   "kind": "repost",
+   "text": "On this day in 2011: Tesla told shareholders it expected $195 million to $200 million in revenue for the entire year.\n\nModel S hadn't shipped a single car yet. The Fremont factory was about 90% tooled up, and first deliveries were promised for no later than July 2012.\n\nToday Tesla brings in that much in about 16 hours. Q3 2026 revenue: $28.05 billion.",
+   "urls": [],
+   "metrics": {
+    "likes": 1487,
+    "reposts": 197,
+    "replies": 77,
+    "quotes": 2
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117282610569498624/vid/avc1/1920x1080/8ddfDJhreB01SGe0.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117282610569498624/img/oK_EceZA4MpM9bEb.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 40066
+    }
+   ],
+   "ref": {
+    "id": "2117297684918976723",
+    "author_id": "1016059981907386368",
+    "username": "teslaownersSV",
+    "name": "Tesla Owners Silicon Valley",
+    "created_at": "2026-11-02T16:48:00.000Z"
+   }
+  },
+  {
+   "id": "2117602985861636421",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T13:01:09.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117602985861636421",
+   "kind": "repost",
+   "text": "This is why a SpaceX engineer chose to work with Elon Musk",
+   "urls": [],
+   "metrics": {
+    "likes": 1550,
+    "reposts": 204,
+    "replies": 43,
+    "quotes": 6
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/ext_tw_video/1900243173785423874/pu/vid/avc1/1080x1920/zmd2LZ76caEm9HaX.mp4?tag=14",
+     "poster": "https://pbs.twimg.com/ext_tw_video_thumb/1900243173785423874/pu/img/bVCRnTHNrFHpp0tr.jpg",
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 26912
+    }
+   ],
+   "ref": {
+    "id": "2117554045611106776",
+    "author_id": "1198495865301864448",
+    "username": "DimaZeniuk",
+    "name": "Dima Zeniuk",
+    "created_at": "2026-11-03T09:46:41.000Z"
+   }
+  },
+  {
+   "id": "2117602869578715158",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T13:00:41.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117602869578715158",
+   "kind": "repost",
+   "text": "Largest car brands in Norway 2026",
+   "urls": [],
+   "metrics": {
+    "likes": 1049,
+    "reposts": 102,
+    "replies": 39,
+    "quotes": 4
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWMoK20XgAA17BP.jpg",
+     "width": 1600,
+     "height": 1400
+    }
+   ],
+   "ref": {
+    "id": "2117580423060500768",
+    "author_id": "1376473924842758147",
+    "username": "DogecoinNorway",
+    "name": "Doge Norway",
+    "created_at": "2026-11-03T11:31:30.000Z",
+    "quote": {
+     "id": "2117286142022426687",
+     "author_id": "1376473924842758147",
+     "username": "DogecoinNorway",
+     "name": "Doge Norway",
+     "created_at": "2026-11-02T16:02:08.000Z",
+     "text": "Where Tesla stands in Norway\n\nNr 1 of all brands",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWIchRZXsAIDcIe.jpg",
+       "width": 1561,
+       "height": 2048
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117602798300963196",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T13:00:24.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117602798300963196",
+   "kind": "repost",
+   "text": "A vote for @jamestalarico is a vote to destroy Texas.",
+   "urls": [],
+   "metrics": {
+    "likes": 5496,
+    "reposts": 476,
+    "replies": 286,
+    "quotes": 16
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117303950453973108",
+    "author_id": "1520627299",
+    "username": "DwayneStovall",
+    "name": "Dwayne Stovall",
+    "created_at": "2026-11-02T17:12:54.000Z"
+   }
+  },
+  {
+   "id": "2117602268375900522",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T12:58:18.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117602268375900522",
+   "kind": "repost",
+   "text": "Hasan Piker: \"We want more immigrants to come into your countries and then they’re gonna fuck your sisters and then your daughters. ... We're here to destroy the White race, bitch.\"\n\nPiker is the biggest booster of U.S. Senate campaign of Abdul El-Sayed.",
+   "urls": [],
+   "metrics": {
+    "likes": 16624,
+    "reposts": 8011,
+    "replies": 1328,
+    "quotes": 789
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2085718628847042560/vid/avc1/1920x1080/eIXy5X6Gs0UuhdHB.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2085718628847042560/img/RJqzCFgChhCu83rH.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 10143
+    }
+   ],
+   "ref": {
+    "id": "2117330950162206785",
+    "author_id": "1038726722",
+    "username": "kevinnbass",
+    "name": "Kevin Bass",
+    "created_at": "2026-11-02T19:00:11.000Z"
+   }
+  },
+  {
+   "id": "2117602132832424371",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T12:57:46.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117602132832424371",
+   "kind": "repost",
+   "text": "Jay Leno says @elonmusk is the Thomas Edison or the Henry Ford, and Tesla's factories are the proof.",
+   "urls": [],
+   "metrics": {
+    "likes": 2170,
+    "reposts": 261,
+    "replies": 121,
+    "quotes": 27
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117430217300189184/vid/avc1/1920x1080/7JsVqsN-TLNGJKQ0.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117430217300189184/img/uvb8yMuMq-3tFRMX.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 21000
+    }
+   ],
+   "ref": {
+    "id": "2117430313928515603",
+    "author_id": "1016059981907386368",
+    "username": "teslaownersSV",
+    "name": "Tesla Owners Silicon Valley",
+    "created_at": "2026-11-03T01:35:01.000Z"
+   }
+  },
+  {
+   "id": "2117601981925888282",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T12:57:10.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117601981925888282",
+   "kind": "repost",
+   "text": "Gavin Baker (@GavinSBaker) on orbital compute:\n\n\"The most important thing in the next 3-4 years is data centers in space.\n\nIn space, you can keep a satellite in the sun 24 hours a day. So you don't need a battery. Space cooling is free.\n\nIn every way, data centers in space, from a first principles perspective, are superior to data centers on earth.\"\n\n\"@elonmusk operates two of the largest coherent GPU clusters in the world, SpaceX is responsible for over 90% of mass to orbit and SpaceX operates the largest satellite constellation in the solar system.\n\nMore than 10 years later, no other company or country can consistently land and reuse orbital rockets.\"\n\n\"Starship should be able to lift 10 to 15 megawatts to sun-synchronous orbit per flight.\"\n\n\"Starship is going to change the space economy in ways we cannot imagine.\n\nParticularly if regulation becomes a constraint to data centers, none of it's going to matter. You're going to sell as much orbital compute as you can make.\"\n\nA collection of Gavin's quotes from his conversations on Invest Like the Best (EP.451 and EP.473) and his own posts on X.",
+   "urls": [],
+   "metrics": {
+    "likes": 1097,
+    "reposts": 165,
+    "replies": 59,
+    "quotes": 17
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117284337959698432/vid/avc1/1080x1080/zo3e2c1GPiXQmGfM.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117284337959698432/img/-bKc3oHWyOJdl5yy.jpg",
+     "width": 1080,
+     "height": 1080,
+     "duration_ms": 181214
+    }
+   ],
+   "ref": {
+    "id": "2117285868641673235",
+    "author_id": "1282422772845744140",
+    "username": "InvestLikeBest",
+    "name": "Invest Like the Best",
+    "created_at": "2026-11-02T16:01:03.000Z",
+    "quote": {
+     "id": "2117272748112154651",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-11-02T15:08:54.000Z",
+     "text": "@shaunmmaguire @uncovered_alpha Future super intelligence compute will obviously be overwhelmingly in space.\n\nBy “overwhelmingly”, I mean that it will round up to 100%!\n\nYou have to be an utter moron not to realize this."
+    }
+   }
+  },
+  {
+   "id": "2117596888652550165",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T12:36:55.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117596888652550165",
+   "kind": "repost",
+   "text": "I've never voted for Ken Paxton.\n\nNot in a primary (voted against) or a general election (left blank)\n\nYet tomorrow I will vote for him so enthusiastically that I put a Paxton yard sign up\n\nWhy?\n\nBecause Talarico is a nutjob liberal and I don't say that lightly\n\nIf you watch the commercials, you might think that all the wild things that he's said are taken out of context.  But if you go look at them in context, they're even more wild than they seem in short TV ads\n\nSo posts about Talarico like from @elonmusk seem to be hyperbole\n\nBut actually they're pretty accurate despite his 2026 attempts to cloak himself in moderate language\n\nHowever while even AOC has seemed to walk back from the excesses and censorship of the Biden years (\"woke 1 was crazy\") there hasn't been any of that from Talarico\n\nJust lies about how he was bipartisan in the lege (he wasn't!) or didn't support the craziest parts of peak trans (he did!) or that he fought Biden on the border in any way (he was a cheerleader for Biden's open border!)\n\nIf Texas Democrats had run anyone less crazy and weird than Talarico, they'd win tomorrow\n\nIMHO looks like a tossup.\n\nI'll happily vote for Paxton",
+   "urls": [],
+   "metrics": {
+    "likes": 5657,
+    "reposts": 852,
+    "replies": 301,
+    "quotes": 28
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWJ1O0WWgAEAuCc.jpg",
+     "width": 786,
+     "height": 1048
+    }
+   ],
+   "ref": {
+    "id": "2117383678112207341",
+    "author_id": "189518354",
+    "username": "evan_van_ness",
+    "name": "Evan Van Ness 🧉",
+    "created_at": "2026-11-02T22:29:42.000Z"
+   }
+  },
+  {
+   "id": "2117482570757656836",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T05:02:40.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117482570757656836",
+   "kind": "repost",
+   "text": "Space datacenters actually make sense",
+   "urls": [],
+   "metrics": {
+    "likes": 2098,
+    "reposts": 226,
+    "replies": 163,
+    "quotes": 17
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117465116858052725",
+    "author_id": "1082912120",
+    "username": "MillionInt",
+    "name": "Jerry Tworek",
+    "created_at": "2026-11-03T03:53:19.000Z",
+    "quote": {
+     "id": "2117297070155731058",
+     "author_id": "1745892418539417600",
+     "username": "eliebakouch",
+     "name": "elie",
+     "created_at": "2026-11-02T16:45:33.000Z",
+     "text": "distributed training in space ❤️‍🔥  https://twitter.com/_arohan_/status/2117286512417181813",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWIlxVZWIAE-ogF.jpg",
+       "width": 2548,
+       "height": 2702
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117480528618397848",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T04:54:33.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117480528618397848",
+   "kind": "repost",
+   "text": "A lot of very smart people are tying themselves in knots trying to explain why dissipating heat from a compute satellite is impossible.\n\nAll they’ve really guaranteed is that they’ll never get a job at SpaceX.\n\nIt used to be:\n\n“You can’t build an EV that performs as well as an ICE vehicle.”\n“You can’t build EV batteries at scale.”\n“You can’t solve autonomous driving with cameras and vision alone.”\n“You can’t land and reuse an orbital-class rocket.”\n“You can’t build an electric semi.”\n“You can’t manufacture cars at that scale.”\n\nNow it’s:\n\n“You can’t build a space-based AI compute satellite.”\n“You can’t scale terrestrial compute that fast.”\n“You can’t manufacture advanced AI chips at scale.”\n“You can’t build AI models that challenge the frontier labs.”\n“You can’t build a general-purpose humanoid robot that works at scale.”\n“You can’t get to Mars.”",
+   "urls": [],
+   "metrics": {
+    "likes": 2613,
+    "reposts": 268,
+    "replies": 242,
+    "quotes": 28
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117471098820587582",
+    "author_id": "12681842",
+    "username": "pbeisel",
+    "name": "phil beisel",
+    "created_at": "2026-11-03T04:17:05.000Z",
+    "quote": {
+     "id": "2117340482594562486",
+     "author_id": "12681842",
+     "username": "pbeisel",
+     "name": "phil beisel",
+     "created_at": "2026-11-02T19:38:03.000Z",
+     "text": "Here we have the necessary 'I am smarter than Elon' post.\n\nI wonder if Jan realizes that there are 11,184 Starlink satellites in space, 'cooling' right now through their radiative structures.\n\nNot the same heat dissipation requirements as the Starmind sats, but I think it's reasonable to say Elon knows a thing or two about satellite thermal management.\n\nJan got his impression count, though I am not sure that was his objective.",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWJN6hSbQAAJEG4.jpg",
+       "width": 1168,
+       "height": 784
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117479668768981376",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T04:51:08.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117479668768981376",
+   "kind": "quote",
+   "text": "Starlink saves lives https://t.co/bAZ1Tfcr0Y",
+   "urls": [],
+   "metrics": {
+    "likes": 16687,
+    "reposts": 2128,
+    "replies": 1839,
+    "quotes": 147
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117465958025674806",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-03T03:56:39.000Z",
+    "text": "Starlink helped save FIVE lives in the Atlantic. ♥️\n\nTheir boat, Karolina Viking, was filling with water. Its power systems were failing. Rescuers couldn’t reach them by radio or satellite phone.\n\nThe sailors shared their location with rescuers through Starlink, helping another yacht find them.\n\nAll five were rescued from their liferaft and brought safely aboard.\n\nStarlink helped turn a desperate situation into five lives saved. This is what a lifeline from space looks like.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWLAD1ca4AAkE6u.jpg",
+      "width": 2048,
+      "height": 2048
+     }
+    ]
+   }
+  },
+  {
+   "id": "2117478883175837856",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T04:48:01.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117478883175837856",
+   "kind": "repost",
+   "text": "It’s the same thing every time:\n\n1. A black person has the courage to point the objective truth about slavery.\n\n2. Person gets personally attacked with subjective opinions - “you hate black people, you’re a coon”\n\n3. But that person is saying what is needed to emancipate both black people and white people from the mental slavery that black victimhood and white guilt has us all in.\n\nNo, black people who say the truth do not hate black people.\n\nSomeone who loves you will tell you what you need to hear, even if you don’t want to hear it.\n\nGood video from @chadojackson",
+   "urls": [],
+   "metrics": {
+    "likes": 7557,
+    "reposts": 1146,
+    "replies": 178,
+    "quotes": 40
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117436285824463021",
+    "author_id": "282419632",
+    "username": "thatsKAIZEN",
+    "name": "Kaizen D. Asiedu",
+    "created_at": "2026-11-03T01:58:45.000Z",
+    "quote": {
+     "id": "2117190014190916000",
+     "author_id": "770631673050300416",
+     "username": "chadojackson",
+     "name": "Chad O. Jackson",
+     "created_at": "2026-11-02T09:40:09.000Z",
+     "text": "Full episode drops layered today.",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2117189804798414848/vid/avc1/1080x1920/3Zs_QGyuOrd8Xv11.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2117189804798414848/img/OJJML9bgyBeQImtV.jpg",
+       "width": 1080,
+       "height": 1920,
+       "duration_ms": 132125
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117476969579163956",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T04:40:25.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117476969579163956",
+   "kind": "repost",
+   "text": "The single most important thing I can share with you going into Election Day is the following website:\n\nhttps://protectthevote.com/report-fraud\n\nIf you encounter ANY problems related to voting, submit a report immediately.",
+   "urls": [
+    "https://protectthevote.com/report-fraud"
+   ],
+   "metrics": {
+    "likes": 7457,
+    "reposts": 3774,
+    "replies": 195,
+    "quotes": 132
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWIW895XUAA1vuz.jpg",
+     "width": 1206,
+     "height": 1190
+    }
+   ],
+   "ref": {
+    "id": "2117280015179985030",
+    "author_id": "931286316",
+    "username": "ScottPresler",
+    "name": "ThePersistence",
+    "created_at": "2026-11-02T15:37:47.000Z"
+   }
+  },
+  {
+   "id": "2117475670745853964",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T04:35:15.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117475670745853964",
+   "kind": "repost",
+   "text": "Elon Musk on going \"from the impossible to the merely late,\" his own description of how Starship got built:\n\n\"When we first started talking about Starship, people thought this was impossible. In fact, even within the company, we sort of thought it was impossible.\"\n\nHe says it had what he calls a \"giggle factor.\" People laughed at the idea.\n\n\"I guess I specialize in going from the impossible to the merely late. So that's my skill.\"\n\"It wasn't possible, now it's just late.\"\n@elonmusk",
+   "urls": [],
+   "metrics": {
+    "likes": 1808,
+    "reposts": 242,
+    "replies": 127,
+    "quotes": 12
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117415463684812800/vid/avc1/1920x1080/l2NaxkoLiEI-uJbt.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117415463684812800/img/Mc-CfT1EsDSo6s8W.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 24400
+    }
+   ],
+   "ref": {
+    "id": "2117415528449065099",
+    "author_id": "1016059981907386368",
+    "username": "teslaownersSV",
+    "name": "Tesla Owners Silicon Valley",
+    "created_at": "2026-11-03T00:36:16.000Z"
+   }
+  },
+  {
+   "id": "2117473938024357953",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T04:28:22.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117473938024357953",
+   "kind": "repost",
+   "text": "9 of America’s top 10 foreign aid recipients voted against us more than with us at the UN.\n\nJordan takes $1.74 billion and votes against America 52-24.\nEthiopia, Somalia, Nigeria, Kenya, same thing.\n\nBillions of our money, then they stab us in the back every chance they get.\n\nLiterally funding our own opposition.",
+   "urls": [],
+   "metrics": {
+    "likes": 4504,
+    "reposts": 1121,
+    "replies": 278,
+    "quotes": 71
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWKg7yWW0AA8-QY.jpg",
+     "width": 1080,
+     "height": 1350
+    }
+   ],
+   "ref": {
+    "id": "2117431727689720217",
+    "author_id": "294293982",
+    "username": "Rothmus",
+    "name": "Rothmus 🏴",
+    "created_at": "2026-11-03T01:40:38.000Z",
+    "quote": {
+     "id": "2117417878156710180",
+     "author_id": "294293982",
+     "username": "Rothmus",
+     "name": "Rothmus 🏴",
+     "created_at": "2026-11-03T00:45:36.000Z",
+     "text": "$329 BILLION in aid and they’re POORER than they were in 1960.\n\nThe “not enough aid” politicians and NGOs have poured more than enough cash into places with rotten institutions, elite theft, and zero accountability.\n\nAnd instead of building prosperity, your taxes subsidized failure.",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWKUVq8WAAAPZ2_.jpg",
+       "width": 1080,
+       "height": 1350
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117466364407586921",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T03:58:16.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117466364407586921",
+   "reply_to": {
+    "id": "2117340715348885836",
+    "username": "DrPhiltill"
+   },
+   "kind": "reply",
+   "text": "@DrPhiltill Yup, T^4 scales super fast",
+   "urls": [],
+   "metrics": {
+    "likes": 2800,
+    "reposts": 131,
+    "replies": 231,
+    "quotes": 15
+   },
+   "partial": true
+  },
+  {
+   "id": "2117466028792033506",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T03:56:56.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117466028792033506",
+   "reply_to": {
+    "id": "2117312361291764216",
+    "username": "Chesschick01"
+   },
+   "kind": "reply",
+   "text": "@Chesschick01 I have paid far more in taxes than the Tesla loan, which was repaid",
+   "urls": [],
+   "metrics": {
+    "likes": 25563,
+    "reposts": 1146,
+    "replies": 532,
+    "quotes": 41
+   },
+   "partial": true
+  },
+  {
+   "id": "2117464990579892594",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T03:52:49.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117464990579892594",
+   "kind": "repost",
+   "text": "Yeah, much easier to cool in space.\n\n~1300 W/m^2 is easily achievable for an aluminum radiator pointed away from the Sun, as it is mostly just seeing cosmic background radiation at ~3 degrees above absolute zero!\n\nSolar panels generate ~250 W/m^2, so you should expect them to have ~5 times the area of the radiator. Most of the mass of the satellite is solar panels.",
+   "urls": [],
+   "metrics": {
+    "likes": 15092,
+    "reposts": 873,
+    "replies": 792,
+    "quotes": 197
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117462581371719779",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-03T03:43:14.000Z"
+   }
+  },
+  {
+   "id": "2117463822332314036",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T03:48:10.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117463822332314036",
+   "kind": "quote",
+   "text": "Grok @Bot https://t.co/N5k8nsUFja",
+   "urls": [],
+   "metrics": {
+    "likes": 5605,
+    "reposts": 711,
+    "replies": 925,
+    "quotes": 80
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117375502285721792",
+    "author_id": "1614842201913049094",
+    "username": "dkmitc",
+    "name": "Dylan",
+    "created_at": "2026-11-02T21:57:13.000Z",
+    "text": "I had my Grok Bot shop around new Auto Insurance. It couldn’t find info about Progressives Glass coverage and as all Tesla owners know Windshield replacements can be pricey. I had Grok Bot call Progressive and get additional information for me all while I picked my kids up from school without me ever having to talk to a person.\n\nHere is the transcript and actual recording from the call. Personal info was bleeped and some parts cut for time. While there’s some improvements that can be made it got the job done.\n\nMy mind is thoroughly blown!",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/1080x1920/ZOCWX1CUPcAwgqDc.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117374805699653632/img/LUQ7GilJPD9Df83y.jpg",
+      "width": 1080,
+      "height": 1920,
+      "duration_ms": 112733
+     }
+    ],
+    "quote": {
+     "id": "2117359236963336514",
+     "author_id": "1614842201913049094",
+     "username": "dkmitc",
+     "name": "Dylan",
+     "created_at": "2026-11-02T20:52:35.000Z",
+     "text": "Using Grok Bot to make calls to Progressive for additional info before I buy new insurance.",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWJfAD5WgAA99cx.jpg",
+       "width": 1320,
+       "height": 1517
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117463040060969417",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T03:45:03.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117463040060969417",
+   "kind": "repost",
+   "text": "I had my Grok Bot shop around new Auto Insurance. It couldn’t find info about Progressives Glass coverage and as all Tesla owners know Windshield replacements can be pricey. I had Grok Bot call Progressive and get additional information for me all while I picked my kids up from school without me ever having to talk to a person.\n\nHere is the transcript and actual recording from the call. Personal info was bleeped and some parts cut for time. While there’s some improvements that can be made it got the job done.\n\nMy mind is thoroughly blown!",
+   "urls": [],
+   "metrics": {
+    "likes": 1665,
+    "reposts": 172,
+    "replies": 144,
+    "quotes": 55
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/1080x1920/ZOCWX1CUPcAwgqDc.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117374805699653632/img/LUQ7GilJPD9Df83y.jpg",
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 112733
+    }
+   ],
+   "ref": {
+    "id": "2117375502285721792",
+    "author_id": "1614842201913049094",
+    "username": "dkmitc",
+    "name": "Dylan",
+    "created_at": "2026-11-02T21:57:13.000Z",
+    "quote": {
+     "id": "2117359236963336514",
+     "author_id": "1614842201913049094",
+     "username": "dkmitc",
+     "name": "Dylan",
+     "created_at": "2026-11-02T20:52:35.000Z",
+     "text": "Using Grok Bot to make calls to Progressive for additional info before I buy new insurance.",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWJfAD5WgAA99cx.jpg",
+       "width": 1320,
+       "height": 1517
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117462581371719779",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T03:43:14.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117462581371719779",
+   "reply_to": {
+    "id": "2117325447600193900",
+    "username": "shaunmmaguire"
+   },
+   "kind": "reply",
+   "text": "@shaunmmaguire @broudsov Yeah, much easier to cool in space.\n\n~1300 W/m^2 is easily achievable for an aluminum radiator pointed away from the Sun, as it is mostly just seeing cosmic background radiation at ~3 degrees above absolute zero!\n\nSolar panels generate ~250 W/m^2, so you should expect them to",
+   "urls": [],
+   "metrics": {
+    "likes": 15092,
+    "reposts": 873,
+    "replies": 792,
+    "quotes": 197
+   },
+   "partial": true
+  },
+  {
+   "id": "2117460692210991403",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T03:35:44.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117460692210991403",
+   "reply_to": {
+    "id": "2117353310512681315",
+    "username": "lrocket"
+   },
+   "kind": "reply",
+   "text": "@lrocket @broudsov 🤡😂",
+   "urls": [],
+   "metrics": {
+    "likes": 2280,
+    "reposts": 63,
+    "replies": 105,
+    "quotes": 5
+   },
+   "partial": true
+  },
+  {
+   "id": "2117460300735689069",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-03T03:34:10.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117460300735689069",
+   "reply_to": {
+    "id": "2117232243907125289",
+    "username": "broudsov"
+   },
+   "kind": "reply",
+   "text": "@broudsov You are fully retarded",
+   "urls": [],
+   "metrics": {
+    "likes": 160546,
+    "reposts": 6173,
+    "replies": 4901,
+    "quotes": 1212
+   },
+   "partial": true
+  },
   {
    "id": "2117450915875852697",
    "author_id": "44196397",
@@ -5764,7 +7823,7 @@
  ],
  "last_run": {
   "status": "new",
-  "at": "2026-11-03T03:17:57Z",
-  "new_posts": 3
+  "at": "2026-11-03T19:52:58Z",
+  "new_posts": 58
  }
 }

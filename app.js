@@ -2,7 +2,9 @@
 (function (root) {
   "use strict";
   var S = (typeof module !== "undefined" && module.exports) ? require("./search.js") : root.XSearch;
-  var state = { config: { saved_searches: [] }, following: [], posts: [], saved: {}, updated: null, limit: 50, byId: {} };
+  var P = (typeof module !== "undefined" && module.exports) ? require("./parent.js") : root.XParent;
+  var state = { config: { saved_searches: [] }, following: [], posts: [], saved: {}, updated: null, limit: 50, byId: {},
+    parents: { posts: [], missing: [] }, shown: {}, loading: {}, notes: {} };
   var sess = { text: null, bound: false };  // text of the last loaded data/posts.json (for refresh polling)
   var $ = function (id) { return document.getElementById(id); };
   var PAGE = 50;
@@ -222,24 +224,45 @@
     return '<div class="meta"><span class="name">' + name + "</span>" + handle + whenHtml + "</div>";
   }
   // One parent card. Quote/repost context is the embedded ref only — not another archive lookup.
-  function parentCard(p) {
-    var raw = p.reply_to;
-    if (!raw || typeof raw !== "object" || Array.isArray(raw)) {
-      return '<div class="quote parent missing"><div class="text missing">Original post isn\'t in this archive.</div></div>';
-    }
-    var parent = parentOf(p, state.byId || {});
-    if (!parent) {
-      var t = replyTarget(p);
-      var href = t ? statusURL(t.id, t.username) : "";
-      var link = href ? '<a class="parent-link" href="' + esc(href) + '" target="_blank" rel="noopener noreferrer">View original post</a>' : "";
-      return '<div class="quote parent missing"><div class="text missing">Original post isn\'t in this archive.</div>' + link + "</div>";
-    }
+  function parentPreview(parent) {
     var note = "";
     if (parent.kind === "repost") note = '<div class="marker">⟲ ' + esc(parent.name || parent.username || "Someone") + " reposted</div>";
     else if (parent.reply_to && typeof parent.reply_to === "object" && !Array.isArray(parent.reply_to) && parent.reply_to.username) {
       note = '<div class="marker">↩ Replying to ' + who(parent.reply_to.username) + "</div>";
     }
     return '<div class="quote parent">' + note + parentHead(parent) + postContent(parent, true) + "</div>";
+  }
+  function originalLink(id, username) {
+    var href = statusURL(id, username);
+    return href ? '<a class="parent-link" href="' + esc(href) + '" target="_blank" rel="noopener noreferrer">View original post</a>' : "";
+  }
+  function showParentButton(replyId, parentId, retry) {
+    return '<button type="button" class="show-parent" data-reply="' + esc(replyId) + '" data-parent="' + esc(parentId) + '"' +
+      (retry ? ' data-retry="1"' : "") + ">" + (retry ? "Try again" : "Show parent") + "</button>";
+  }
+  // Closed until the reader clicks. A click reveals archive/cache data in place, or asks for that one parent.
+  function parentSlot(p) {
+    var raw = p.reply_to;
+    if (!raw || typeof raw !== "object" || Array.isArray(raw)) {
+      return '<div class="quote parent missing"><div class="text missing">Original post isn\'t in this archive.</div></div>';
+    }
+    var t = replyTarget(p);
+    var c = P.classify(p, state.archive || allPosts(), state.parents, Date.now());
+    if (c.kind === "unlinked" || c.kind === "none") {
+      var href = t ? originalLink(t.id, t.username) : "";
+      return '<div class="quote parent missing"><div class="text missing">Original post isn\'t in this archive.</div>' + href + "</div>";
+    }
+    var id = String(p.id);
+    if (state.shown[id] && c.kind === "ready") return parentPreview(c.post);
+    if (state.shown[id] && c.kind === "unavailable") {
+      var again = c.retry ? showParentButton(p.id, t.id, true) : "";
+      return '<div class="quote parent missing"><div class="text missing">This post isn\'t available.</div>' +
+        originalLink(t.id, t.username) + again + "</div>";
+    }
+    var link = originalLink(t.id, t.username);
+    if (state.loading[id]) return '<div class="parent-slot"><div class="text missing">Loading parent…</div>' + link + "</div>";
+    if (state.notes[id]) return '<div class="parent-slot"><div class="text missing">' + esc(state.notes[id]) + "</div>" + showParentButton(p.id, t.id, false) + link + "</div>";
+    return '<div class="parent-slot">' + showParentButton(p.id, t.id, false) + link + "</div>";
   }
 
   function renderPost(p) {
@@ -249,7 +272,7 @@
     else if (p.reply_to) marker = '<div class="marker">↩ Replying to ' + who(p.reply_to && p.reply_to.username) + "</div>";
     var head = '<div class="meta"><span class="name">' + esc(p.name) + "</span>" + userLink(p.username) +
       '<span>·</span><a href="' + esc(p.url) + '" target="_blank" rel="noopener noreferrer" title="' + esc(p.created_at) + '">' + esc(when(p.created_at)) + "</a></div>";
-    var context = (p.kind !== "repost" && p.reply_to) ? parentCard(p) : "";
+    var context = (p.kind !== "repost" && p.reply_to) ? parentSlot(p) : "";
     return '<li class="post">' + marker + context + head + postContent(p) +
       '<div class="foot"><span>' + num(m.replies) + " replies</span><span>" + num(m.reposts) + " reposts</span><span>" +
       num(m.likes) + " likes</span></div></li>";
@@ -307,7 +330,8 @@
       list = S.search(state.posts, "");
     }
     $("status").innerHTML = label || (list.length ? "" : "No posts.");
-    state.byId = indexPosts(allPosts()); // full archive, not the filtered or paged slice
+    state.archive = allPosts(); // full archive, not the filtered or paged slice; parent cache stays out of it
+    state.byId = indexPosts(state.archive);
     mediaStore = {};  // a re-render drops revealed media; every label starts hidden again
     mid = 0; tid = 0;
     $("feed").innerHTML = list.slice(0, state.limit).map(renderPost).join("");
@@ -324,8 +348,10 @@
     });
     $("more").addEventListener("click", function () { state.limit += PAGE; render(false); });
     $("feed").addEventListener("click", function (e) {
-      var b = e.target.closest && e.target.closest("button.expand");
-      if (b) (b.classList.contains("media-btn") ? toggleMedia : toggleText)(b);
+      var b = e.target.closest && e.target.closest("button");
+      if (!b) return;
+      if (b.classList.contains("show-parent")) { onShowParent(b); return; }
+      if (b.classList.contains("expand")) (b.classList.contains("media-btn") ? toggleMedia : toggleText)(b);
     });
     window.addEventListener("hashchange", function () { render(true); window.scrollTo(0, 0); });
   }
@@ -358,7 +384,8 @@
   // load everything; postsText (already fetched) avoids a second download when polling
   function loadAll(postsText) {
     return Promise.all([getJSON("data/site.json").catch(function () { return {}; }), getJSON("data/following.json").catch(function () { return {}; }),
-      postsText ? Promise.resolve(postsText) : getText("data/posts.json").catch(function () { return null; })]).then(function (res) {
+      postsText ? Promise.resolve(postsText) : getText("data/posts.json").catch(function () { return null; }),
+      getJSON("data/parents.json").catch(function () { return { posts: [], missing: [] }; })]).then(function (res) {
       var site = res[0];
       sess.text = res[2];
       var posts = res[2] ? JSON.parse(res[2]) : {}, saved = {};
@@ -366,15 +393,16 @@
         var slug = s.slug || slugify(s.name);
         return getJSON("data/saved-searches/" + encodeURIComponent(slug) + ".json")
           .then(function (d) { saved[slug] = d; }, function () { saved[slug] = { posts: [] }; });
-      })).then(function () { applyData(site, res[1], posts, saved); });
+      })).then(function () { applyData(site, res[1], posts, saved, res[3]); });
     });
   }
 
-  function applyData(site, following, posts, saved) {
+  function applyData(site, following, posts, saved, parents) {
     state.config = { site_title: site.site_title, saved_searches: site.saved_searches || [], refresh_url: site.refresh_url || "" };
     state.following = (following.users || []).slice().sort(function (a, c) { return (c.followers || 0) - (a.followers || 0); });
     state.posts = posts.posts || [];
     state.saved = saved;
+    state.parents = P.doc(parents); // context cache only; never merged into the feed or following list
     state.updated = posts.updated_at;
     state.meta = { updated_at: posts.updated_at || null, accounts: posts.accounts, last_run: posts.last_run || null };
     document.title = $("title").textContent = state.config.site_title || "X Text";
@@ -437,6 +465,132 @@
     });
   }
 
+  // ------------------------------------------------------------------ parents (click only)
+  // Show parent reveals a post already in the archive or data/parents.json with no relay call.
+  // Only an uncached parent is queued, and several clicks in the same moment share one request.
+  var parentQueue = [], parentTimer = null, parentFlight = false, parentPoll = null;
+
+  function onShowParent(btn) {
+    var replyId = btn.getAttribute("data-reply"), parentId = btn.getAttribute("data-parent");
+    var retry = btn.getAttribute("data-retry") === "1";
+    if (!P.isId(replyId) || !P.isId(parentId)) return;
+    var post = (state.byId || {})[replyId];
+    if (!post) return;
+    var decision = P.parentClick(post, state.archive || allPosts(), state.parents, Date.now(), retry);
+    if (decision.effect === "reveal" || decision.effect === "unavailable") {
+      state.shown[replyId] = 1;
+      delete state.loading[replyId];
+      delete state.notes[replyId];
+      render(false);
+      return;
+    }
+    if (decision.effect !== "enqueue") return;
+    delete state.notes[replyId];
+    state.loading[replyId] = 1;
+    parentQueue = P.pushPair(parentQueue, decision.pair);
+    render(false);
+    if (!parentTimer && !parentFlight) parentTimer = setTimeout(flushParents, 300);
+  }
+
+  function parentMessage(status, body) {
+    if (status === 404 || status === 500 || status === 503) return "Parent fetch isn't set up yet.";
+    if (status === 429) return "Parent fetch is limited. Try again" + (body && body.retry_after ? " in " + body.retry_after + " s" : " later") + ".";
+    if (status === 403 || status === 400 || status === 413) return "That parent can't be requested.";
+    if (status === 502 || status === 504) return "Parent fetch didn't start. Try again later.";
+    return "Couldn't load this parent.";
+  }
+
+  function settlePair(pair, note) {
+    delete state.loading[pair.reply_id];
+    if (note) state.notes[pair.reply_id] = note;
+    else state.shown[pair.reply_id] = 1;
+  }
+
+  function reloadParents() {
+    return getJSON("data/parents.json").then(function (doc) { state.parents = P.doc(doc); }, function () {});
+  }
+
+  function stopParentPoll() { if (parentPoll) { clearInterval(parentPoll); parentPoll = null; } }
+
+  function startParentPoll(pairs) {
+    var started = Date.now();
+    stopParentPoll();
+    parentPoll = setInterval(function () {
+      if (Date.now() - started > 180000) {
+        stopParentPoll();
+        pairs.forEach(function (pair) {
+          if (!state.loading[pair.reply_id]) return;
+          delete state.loading[pair.reply_id];
+          state.notes[pair.reply_id] = "No parent yet. It may still be saving. Try again later.";
+        });
+        render(false);
+        return;
+      }
+      reloadParents().then(function () {
+        var waiting = false;
+        pairs.forEach(function (pair) {
+          if (!state.loading[pair.reply_id]) return;
+          var post = (state.byId || {})[pair.reply_id];
+          var c = post ? P.classify(post, state.archive || [], state.parents, Date.now()) : { kind: "fetch" };
+          if (c.kind === "ready" || c.kind === "unavailable") settlePair(pair, "");
+          else waiting = true;
+        });
+        if (!waiting) stopParentPoll();
+        render(false);
+      });
+    }, 20000);
+  }
+
+  function afterParentFlight() {
+    parentFlight = false;
+    if (parentQueue.length && !parentTimer) parentTimer = setTimeout(flushParents, 300);
+  }
+
+  function flushParents() {
+    parentTimer = null;
+    if (parentFlight || !parentQueue.length) return;
+    var taken = P.takeBatch(parentQueue);
+    parentQueue = taken.rest;
+    var batch = taken.batch;
+    if (!batch.length) return;
+    var url = P.parentURL(relayUrl());
+    if (!url) {
+      batch.forEach(function (pair) { settlePair(pair, "Parent fetch isn't set up yet."); });
+      render(false);
+      afterParentFlight();
+      return;
+    }
+    parentFlight = true;
+    fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(P.requestBody(batch)),
+      cache: "no-store", credentials: "omit", referrerPolicy: "no-referrer" }).then(function (r) {
+      return r.json().catch(function () { return {}; }).then(function (body) { return { status: r.status, body: body }; });
+    }).then(function (res) {
+      var st = res.body && res.body.status;
+      var poll = res.status === 202 || st === "fetching";
+      if (poll || (res.status === 200 && (st === "cached" || st === "in_archive" || st === "unavailable"))) {
+        return reloadParents().then(function () {
+          var waiting = [];
+          batch.forEach(function (pair) {
+            var post = (state.byId || {})[pair.reply_id];
+            var c = post ? P.classify(post, state.archive || [], state.parents, Date.now()) : { kind: "fetch" };
+            if (c.kind === "ready" || c.kind === "unavailable") settlePair(pair, "");
+            else if (poll) waiting.push(pair);
+            else settlePair(pair, "");
+          });
+          if (waiting.length) startParentPoll(waiting);
+          render(false);
+        });
+      }
+      var msg = parentMessage(res.status, res.body);
+      batch.forEach(function (pair) { settlePair(pair, msg); });
+      render(false);
+    }, function () {
+      var msg = navigator.onLine ? "Couldn't reach the parent relay." : "You are offline.";
+      batch.forEach(function (pair) { settlePair(pair, msg); });
+      render(false);
+    }).then(afterParentFlight, afterParentFlight);
+  }
+
   // ------------------------------------------------------------------ start
   function boot() {
     $("refreshBtn").addEventListener("click", sendRefresh);
@@ -447,10 +601,19 @@
   }
 
   // Visible rows against a full archive. Parents outside the filter or page still resolve.
-  function renderList(list, archive, following) {
-    var saved = { following: state.following, byId: state.byId, mediaStore: mediaStore, mid: mid, tid: tid };
+  function renderList(list, archive, following, opts) {
+    opts = opts || {};
+    var saved = { following: state.following, byId: state.byId, archive: state.archive, parents: state.parents,
+      shown: state.shown, loading: state.loading, notes: state.notes, mediaStore: mediaStore, mid: mid, tid: tid };
     state.following = following || [];
-    state.byId = indexPosts(archive || []);
+    state.archive = archive || [];
+    state.byId = indexPosts(state.archive);
+    state.parents = P.doc(opts.parents);
+    state.shown = {};
+    (opts.shown || []).forEach(function (id) { if (P.isId(id)) state.shown[id] = 1; });
+    state.loading = {};
+    (opts.loading || []).forEach(function (id) { if (P.isId(id)) state.loading[id] = 1; });
+    state.notes = opts.notes || {};
     mediaStore = {};
     mid = 0;
     tid = 0;
@@ -458,6 +621,11 @@
     finally {
       state.following = saved.following;
       state.byId = saved.byId;
+      state.archive = saved.archive;
+      state.parents = saved.parents;
+      state.shown = saved.shown;
+      state.loading = saved.loading;
+      state.notes = saved.notes;
       mediaStore = saved.mediaStore;
       mid = saved.mid;
       tid = saved.tid;
@@ -465,6 +633,6 @@
   }
 
   if (typeof module !== "undefined" && module.exports) {
-    module.exports = { renderList: renderList, indexPosts: indexPosts, combinedArchive: combinedArchive, statusURL: statusURL };
+    module.exports = { renderList: renderList, indexPosts: indexPosts, combinedArchive: combinedArchive, statusURL: statusURL, parentClick: P.parentClick };
   } else boot();
 })(typeof window !== "undefined" ? window : this);

@@ -30,6 +30,11 @@ function uniqueControls(html, label) {
   let m;
   while ((m = re.exec(html))) ok(ids.indexOf(m[1]) >= 0, label + " aria-controls " + m[1]);
 }
+// Revealed parents: the reader already clicked Show parent. The closed feed does not pass shown.
+function open(list, archive, opts) {
+  const shown = (list || []).filter(Boolean).map((p) => p.id);
+  return R.renderList(list, archive, following, Object.assign({ shown: shown }, opts || {}));
+}
 
 const PARENT_TEXT = "“Best way to sandbox an AI,” said Musk. “Put it on a Delta flight: No escape is possible.”";
 const QUOTE_TEXT = "be Greg Brockman\ngo to White House dinner to beg your enemies for compute\n\n> \"h-hey Elon... got any spare compute bro?\"\n\nElon calls you out in front of the entire room: \"DUDE, you stole my charity! You can't be a huge dick then ask for favors, hello?\"\n\nSergey Brin: “He was asking me for compute too. How many grown men do you know that keep a diary? If I did I’d burn it.”\n\nLMAOOOOOOOO";
@@ -94,7 +99,13 @@ function assertPreview(html, label) {
 }
 
 // Reported reply. The parent is a quote and is not in the visible rows (filter / search results).
-assertPreview(R.renderList([reply], [reply, parent, quotedArchiveCopy], following), "filtered");
+assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
+{
+  const closed = R.renderList([reply], [reply, parent, quotedArchiveCopy], following);
+  ok(closed.includes("Show parent") && !closed.includes(PARENT_TEXT), "archive parent stays behind the button");
+  ok(!closed.includes("workers.dev") && !closed.includes("/parent"), "closed reply does not point at the relay");
+  eq(R.parentClick(reply, [reply, parent], { posts: [], missing: [] }, Date.now(), false).effect, "reveal", "click on an archived parent does not enqueue");
+}
 
 // Same lookup when the parent sits past the first page of 50.
 {
@@ -103,7 +114,7 @@ assertPreview(R.renderList([reply], [reply, parent, quotedArchiveCopy], followin
   const visible = [reply].concat(fillers).slice(0, 50);
   eq(visible.length, 50, "page size");
   ok(!visible.some((p) => p.id === PARENT_ID), "parent is off the page");
-  const html = R.renderList(visible, [reply, parent, quotedArchiveCopy].concat(fillers), following);
+  const html = open(visible, [reply, parent, quotedArchiveCopy].concat(fillers));
   assertPreview(html, "paged");
   ok(html.includes("page filler 0") && html.includes("page filler 48"), "visible fillers render");
   ok(!html.includes("page filler 49") && !html.includes("page filler 59"), "off-page fillers stay off the page");
@@ -113,44 +124,55 @@ assertPreview(R.renderList([reply], [reply, parent, quotedArchiveCopy], followin
 {
   const archive = R.combinedArchive([reply], { sandbox: { posts: [parent, quotedArchiveCopy] } });
   ok(archive.some((p) => p.id === PARENT_ID), "saved search parent is in the archive");
-  assertPreview(R.renderList([reply], archive, following), "saved-search parent");
+  assertPreview(open([reply], archive), "saved-search parent");
   const dup = R.combinedArchive([Object.assign({}, parent, { text: "MAIN_COPY" })], { sandbox: { posts: [Object.assign({}, parent, { text: "SAVED_COPY" })] } });
-  const html = R.renderList([reply], dup, following);
+  const html = open([reply], dup);
   ok(html.includes("MAIN_COPY") && !html.includes("SAVED_COPY"), "first archive copy wins");
 }
 
 // Both the reply and the parent are on screen: preview plus the parent post, with unique ids.
 {
-  const html = R.renderList([reply, parent], [reply, parent, quotedArchiveCopy], following);
+  const html = open([reply, parent], [reply, parent, quotedArchiveCopy]);
   ok(count(html, PARENT_TEXT) >= 2, "parent text in the card and in its own post");
   ok(!html.includes(PHOTO_A), "media URL still withheld when the parent post is also visible");
   uniqueControls(html, "reply and parent together");
   ok(!idsOf(html).some((id) => id === PARENT_ID || id === REPLY_ID), "post ids are not element ids");
 }
 
-// Missing parent: say so, and link to that status. Do not invent text.
+// Parent not loaded yet: a button and the status link. No invented text, no relay URL.
 {
   const html = R.renderList([reply], [reply, quotedArchiveCopy], following);
-  ok(html.includes("Original post isn't in this archive."), "missing parent message");
-  ok(html.includes('class="quote parent missing"'), "missing card");
+  ok(html.includes("Show parent"), "uncached parent offers a button");
+  ok(!html.includes("Original post isn't in this archive."), "uncached is not described as already missing");
   ok(html.includes('href="https://x.com/elonmusk/status/' + PARENT_ID + '"'), "specific original-post link");
   ok(html.includes("View original post"), "link label");
   ok(html.includes('rel="noopener noreferrer"'), "external link rel");
   ok(!html.includes(PARENT_TEXT) && !html.includes("be Greg Brockman"), "missing parent has no invented text");
-  ok(!html.includes("Text not available."), "missing is different from an empty loaded post");
+  ok(!html.includes("workers.dev"), "button does not prefetch");
   ok(html.includes(REPLY_TEXT), "reply still renders");
   const bare = R.renderList([P({ id: "77", kind: "reply", username: "elonmusk", name: "Elon Musk", text: "id only", reply_to: { id: "88" } })], [], following);
-  ok(bare.includes('href="https://x.com/i/status/88"'), "id-only original link");
+  ok(bare.includes('href="https://x.com/i/status/88"') && bare.includes("Show parent"), "id-only original link");
   const noId = R.renderList([P({ id: "78", kind: "reply", username: "zoe", name: "Zoe", text: "no id", reply_to: { username: "bob" } })], [], []);
-  ok(noId.includes("Original post isn't in this archive.") && !noId.includes('class="parent-link"'), "no id means no fake status link");
+  ok(noId.includes("Original post isn't in this archive.") && !noId.includes("Show parent"), "no id means no fetch button");
   ok(noId.includes("@bob"), "handle still shown");
+  const cached = P({ id: PARENT_ID, username: "outsider", name: "Outside", text: "CACHED_PARENT_TEXT", url: "https://x.com/outsider/status/" + PARENT_ID });
+  const fromCache = open([reply], [reply], { parents: { posts: [cached], missing: [] } });
+  ok(fromCache.includes("CACHED_PARENT_TEXT") && count(fromCache, "<li") === 1, "cache parent is context, not a feed row");
+  eq(R.parentClick(reply, [reply], { posts: [cached], missing: [] }, Date.now(), false).effect, "reveal", "cache hit does not enqueue");
+  const old = new Date(Date.now() - 48 * 3600 * 1000).toISOString().replace(/\.\d{3}Z$/, "Z");
+  const fresh = new Date().toISOString().replace(/\.\d{3}Z$/, "Z");
+  const unavailable = open([reply], [reply], { parents: { posts: [], missing: [{ id: PARENT_ID, at: fresh, reason: "unavailable" }] } });
+  ok(unavailable.includes("This post isn't available.") && !unavailable.includes("Try again"), "fresh negative cache has no retry yet");
+  const retry = open([reply], [reply], { parents: { posts: [], missing: [{ id: PARENT_ID, at: old, reason: "unavailable" }] } });
+  ok(retry.includes("This post isn't available.") && retry.includes("Try again"), "stale negative cache can be retried explicitly");
+  eq(R.parentClick(reply, [reply], { posts: [], missing: [{ id: PARENT_ID, at: fresh, reason: "unavailable" }] }, Date.now(), true).effect, "unavailable", "retry click inside the window does not enqueue");
 }
 
 // Loaded parent with no text of its own still shows the author and an honest empty-text line.
 {
   const empty = P({ id: "60", username: "elonmusk", name: "Elon Musk", text: "", url: "https://x.com/elonmusk/status/60" });
   const row = P({ id: "61", username: "elonmusk", name: "Elon Musk", kind: "reply", text: "ack", reply_to: { id: "60", username: "elonmusk" } });
-  const html = R.renderList([row], [row, empty], following);
+  const html = open([row], [row, empty]);
   ok(html.includes("Text not available.") && html.includes("Elon Musk") && !html.includes("isn't in this archive"), "empty loaded parent");
 }
 
@@ -162,7 +184,7 @@ assertPreview(R.renderList([reply], [reply, parent, quotedArchiveCopy], followin
     url: "https://x.com/elonmusk/status/7", ref: { id: "8", username: "rocketco", name: "Rocket Co", created_at: "2026-11-01T00:00:00.000Z" },
   });
   const row = P({ id: "6", username: "elonmusk", name: "Elon Musk", kind: "reply", text: "nice repost", reply_to: { id: "7", username: "elonmusk" } });
-  const html = R.renderList([row], [row, repost, original], following);
+  const html = open([row], [row, repost, original]);
   ok(html.includes("embedded repost text") && html.includes("reposted") && html.includes("Rocket Co"), "repost parent context");
   ok(!html.includes("DO_NOT_PULL_ARCHIVE_ORIGINAL"), "repost parent does not expand to the archive original");
   eq(count(html, 'class="quote parent"'), 1, "one card around a repost parent");
@@ -176,7 +198,7 @@ assertPreview(R.renderList([reply], [reply, parent, quotedArchiveCopy], followin
     reply_to: { id: "3", username: "granduser" }, url: "https://x.com/elonmusk/status/4",
   });
   const row = P({ id: "5", username: "elonmusk", name: "Elon Musk", kind: "reply", text: "CHILD_REPLY_TEXT", reply_to: { id: "4", username: "elonmusk" } });
-  const html = R.renderList([row], [row, mid, grand], following);
+  const html = open([row], [row, mid, grand]);
   ok(html.includes("PARENT_REPLY_TEXT") && html.includes("@granduser"), "parent reply text and marker");
   ok(!html.includes("GRAND_TEXT"), "grandparent text is not pulled in");
   eq(count(html, 'class="quote parent"'), 1, "no nested parent card");
@@ -186,7 +208,7 @@ assertPreview(R.renderList([reply], [reply, parent, quotedArchiveCopy], followin
 {
   const a = P({ id: "21", username: "ann", name: "Ann", kind: "reply", text: "AAA_TEXT", reply_to: { id: "22", username: "bob" } });
   const b = P({ id: "22", username: "bob", name: "Bob", kind: "reply", text: "BBB_TEXT", reply_to: { id: "21", username: "ann" } });
-  const html = R.renderList([a, b], [a, b], []);
+  const html = open([a, b], [a, b]);
   eq(count(html, "AAA_TEXT"), 2, "A text is the post plus B's parent card");
   eq(count(html, "BBB_TEXT"), 2, "B text is the post plus A's parent card");
   eq(count(html, 'class="quote parent"'), 2, "cycle does not nest parent cards");
@@ -200,6 +222,7 @@ assertPreview(R.renderList([reply], [reply, parent, quotedArchiveCopy], followin
   eq(count(html, "SELF_TEXT"), 1, "self reply text once");
   ok(html.includes("Original post isn't in this archive."), "self reference uses the fallback");
   ok(html.includes('href="https://x.com/elonmusk/status/15"'), "self reference still links to that status");
+  ok(!html.includes("Show parent"), "self reference is not a fetch");
 }
 
 // Malformed reply_to, quote cycles, bad media, and unsafe URLs.
@@ -248,7 +271,7 @@ assertPreview(R.renderList([reply], [reply, parent, quotedArchiveCopy], followin
     reply_to: { id: "10", username: "elonmusk" },
     media: [{ type: "photo", url: "https://pbs.twimg.com/media/reply-only.jpg" }, { type: "photo", url: "https://x.com/a.jpg" }],
   });
-  const unsafe = R.renderList([nastyReply], [nastyReply, nastyParent], following);
+  const unsafe = open([nastyReply], [nastyReply, nastyParent]);
   ok(!/<\/(script|img|svg|b)\b/i.test(unsafe), "names and text are escaped: " + unsafe.slice(0, 400));
   ok(unsafe.includes("&lt;img") && unsafe.includes("&amp;") && unsafe.includes("&lt;svg") && unsafe.includes("&lt;script&gt;"), "escaped text is present");
   ok(!unsafe.includes("javascript:"), "javascript URL is dropped");
@@ -265,7 +288,7 @@ assertPreview(R.renderList([reply], [reply, parent, quotedArchiveCopy], followin
   const long = ("alpha ").repeat(80).trim();
   const rowParent = P({ id: "70", username: "elonmusk", name: "Elon Musk", text: long, url: "https://x.com/elonmusk/status/70" });
   const row = P({ id: "71", username: "elonmusk", name: "Elon Musk", kind: "reply", text: "short reply", reply_to: { id: "70", username: "elonmusk" } });
-  const html = R.renderList([row], [row, rowParent], following);
+  const html = open([row], [row, rowParent]);
   ok(html.includes("Show full post") && html.includes('class="full" hidden') && html.includes(long), "long parent expands inline");
   ok(html.includes("…"), "preview ellipsis");
   uniqueControls(html, "long parent");
@@ -279,7 +302,9 @@ assertPreview(R.renderList([reply], [reply, parent, quotedArchiveCopy], followin
   const liveReply = posts.find((p) => p.id === REPLY_ID);
   const liveParent = posts.find((p) => p.id === PARENT_ID);
   if (liveReply && liveParent) {
-    const html = R.renderList([liveReply], posts, following);
+    const closed = R.renderList([liveReply], posts, following);
+    ok(closed.includes("Show parent") && !closed.includes(PARENT_TEXT), "live parent is closed until click");
+    const html = open([liveReply], posts);
     ok(html.includes(PARENT_TEXT), "live parent text");
     ok(html.includes(REPLY_TEXT), "live reply text");
     ok(html.includes('class="quote parent"'), "live parent card");
@@ -290,6 +315,7 @@ assertPreview(R.renderList([reply], [reply, parent, quotedArchiveCopy], followin
     const gone = R.renderList([liveReply], posts.filter((p) => p.id !== PARENT_ID), following);
     ok(gone.includes('href="https://x.com/elonmusk/status/' + PARENT_ID + '"'), "live reply falls back to the status link");
     ok(!gone.includes(PARENT_TEXT), "removed live parent is not invented");
+    ok(gone.includes("Show parent"), "removed live parent can be requested later");
   } else ok(true, "reported posts aged out of data/posts.json; fixture coverage remains");
 }
 

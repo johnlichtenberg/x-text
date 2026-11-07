@@ -1,8 +1,8 @@
 /* X Text: text-only static reader. Loads data/site.json + data/*.json, hash-routed views. */
-(function () {
+(function (root) {
   "use strict";
-  var S = window.XSearch;
-  var state = { config: { saved_searches: [] }, following: [], posts: [], saved: {}, updated: null, limit: 50 };
+  var S = (typeof module !== "undefined" && module.exports) ? require("./search.js") : root.XSearch;
+  var state = { config: { saved_searches: [] }, following: [], posts: [], saved: {}, updated: null, limit: 50, byId: {} };
   var sess = { text: null, bound: false };  // text of the last loaded data/posts.json (for refresh polling)
   var $ = function (id) { return document.getElementById(id); };
   var PAGE = 50;
@@ -30,6 +30,7 @@
   function when(iso) {
     if (!iso) return "";
     var d = new Date(iso), now = new Date();
+    if (isNaN(d.getTime())) return "";
     return (d.getFullYear() === now.getFullYear() ? fmt : fmtY).format(d);
   }
   function ago(iso) {
@@ -46,6 +47,54 @@
 
   function known(u) { return state.following.some(function (f) { return f.username.toLowerCase() === (u || "").toLowerCase(); }); }
   function who(u) { return u ? (known(u) ? userLink(u) : extLink(u)) : "a post"; }
+  // Status ids are decimal snowflakes. Handles use X's username charset. Anything else is not a specific post link.
+  function statusURL(id, username) {
+    if (typeof id !== "string" || !/^[0-9]{1,25}$/.test(id)) return "";
+    var u = typeof username === "string" && /^[A-Za-z0-9_]{1,15}$/.test(username) ? username : "";
+    return u ? "https://x.com/" + encodeURIComponent(u) + "/status/" + id : "https://x.com/i/status/" + id;
+  }
+  function safePostURL(p) {
+    var u = p && p.url;
+    if (typeof u === "string" && /^https:\/\/(x|twitter)\.com\/[^\s<>"']+$/.test(u)) return u;
+    return statusURL(typeof p.id === "string" ? p.id : "", p && p.username);
+  }
+  // First post with a given id wins (archive order: main feed, then saved searches).
+  function indexPosts(posts) {
+    var byId = {};
+    (posts || []).forEach(function (p) {
+      if (!p || typeof p !== "object" || typeof p.id !== "string" || !/^[0-9]{1,25}$/.test(p.id) || byId[p.id]) return;
+      byId[p.id] = p;
+    });
+    return byId;
+  }
+  function combinedArchive(posts, saved) {
+    var seen = {}, out = [], lists = [posts || []];
+    Object.keys(saved || {}).forEach(function (k) { lists.push((saved[k] && saved[k].posts) || []); });
+    lists.forEach(function (list) {
+      (list || []).forEach(function (p) {
+        if (!p || typeof p !== "object" || p.id == null || seen[p.id]) return;
+        seen[p.id] = 1; out.push(p);
+      });
+    });
+    return out;
+  }
+  function replyTarget(p) {
+    var r = p && p.reply_to;
+    if (!r || typeof r !== "object" || Array.isArray(r)) return null;
+    var id = typeof r.id === "string" && /^[0-9]{1,25}$/.test(r.id) ? r.id : "";
+    var username = typeof r.username === "string" ? r.username : "";
+    if (!id && !username) return null;
+    return { id: id, username: username };
+  }
+  // Parent post only: a different archived post. Does not walk that parent's reply_to.
+  function parentOf(p, byId) {
+    var t = replyTarget(p);
+    if (!t || !t.id || !byId) return null;
+    if (p && p.id === t.id) return null;
+    var parent = byId[t.id];
+    if (!parent || parent === p || parent.id !== t.id) return null;
+    return parent;
+  }
   // Author of a quoted/reposted original: name + @username, no x.com link (followed accounts link in-site).
   function refMeta(r) {
     var u = r.username || "";
@@ -55,18 +104,28 @@
   }
   function articleLine(t) { return t ? '<div class="article">Article: ' + esc(t) + "</div>" : ""; }
   // The original shown inline: author, full text, and the post it quotes (one level), never a link to it.
-  function refBlock(r, text, label, media) {
+  // depth caps a cyclic or very deep quote chain: this post, plus the one post it quotes.
+  function refBlock(r, text, label, media, depth) {
+    if (!r || typeof r !== "object") return "";
+    depth = depth || 0;
+    if (depth >= 2) return "";
+    var nested = "";
+    var q = r.quote;
+    if (depth < 1 && q && typeof q === "object" && q !== r) {
+      var same = r.id != null && q.id != null && String(r.id) === String(q.id);
+      if (!same) nested = refBlock(q, typeof q.text === "string" ? q.text : "", "❝ Quoting", undefined, depth + 1);
+    }
+    var body = typeof text === "string" && text ? textBlock(text) : '<div class="text missing">Text not available.</div>';
     return '<div class="quote">' + (label ? '<div class="marker">' + label + "</div>" : "") + refMeta(r) +
-      articleLine(r.article_title) +
-      (text ? textBlock(text) : '<div class="text missing">Text not available.</div>') +
-      mediaBlock(media === undefined ? r.media : media, r.username) +
-      (r.quote ? refBlock(r.quote, r.quote.text, "❝ Quoting") : "") + "</div>";
+      articleLine(r.article_title) + body +
+      mediaBlock(media === undefined ? r.media : media, r.username) + nested + "</div>";
   }
 
   // Hidden media: only a label button is rendered. Media URLs stay in this JS map (never in the DOM) and the
   // <img>/<video> elements are created on tap, so nothing loads from X's media servers until then.
   var mediaStore = {}, mid = 0;
   function mediaBlock(media, username) {
+    if (!Array.isArray(media)) media = [];
     var label = S.mediaLabel(media);
     if (!label) return "";
     var id = "m" + (++mid);
@@ -136,31 +195,67 @@
     if (!open) { var r = btn.getBoundingClientRect(); if (r.top < 0 || r.bottom > window.innerHeight) btn.scrollIntoView({ block: "center" }); }
   }
 
-  function renderPost(p) {
-    var marker = "", m = p.metrics || {};
-    if (p.kind === "repost") marker = '<div class="marker">⟲ ' + esc(p.name || p.username) + " reposted</div>";
-    else if (p.reply_to) marker = '<div class="marker">↩ Replying to ' + who(p.reply_to.username) + "</div>";
-    var head = '<div class="meta"><span class="name">' + esc(p.name) + "</span>" + userLink(p.username) +
-      '<span>·</span><a href="' + esc(p.url) + '" target="_blank" rel="noopener noreferrer" title="' + esc(p.created_at) + '">' + esc(when(p.created_at)) + "</a></div>";
-    var html = '<li class="post">' + marker + head;
+  // Feed body for one post. forParent uses the same quote/repost embedding and does not look up another reply parent.
+  function postContent(p, forParent) {
     if (p.kind === "repost") {
-      var r = Object.assign({}, p.ref || {}, { article_title: p.article_title });
-      html += refBlock(r, p.text, "", p.media);
-    } else {
-      html += articleLine(p.article_title) + textBlock(p.text) + mediaBlock(p.media, p.username);
-      if (p.kind === "quote" && p.ref) html += refBlock(p.ref, p.ref.text, "❝ Quoting");
+      var ref = p.ref && typeof p.ref === "object" && !Array.isArray(p.ref) ? p.ref : {};
+      var r = Object.assign({}, ref, { article_title: p.article_title });
+      return refBlock(r, p.text, "", p.media, 0);
     }
-    html += '<div class="foot"><span>' + num(m.replies) + " replies</span><span>" + num(m.reposts) + " reposts</span><span>" +
-      num(m.likes) + " likes</span></div></li>";
+    var textHtml = typeof p.text === "string" && p.text ? textBlock(p.text)
+      : (forParent ? '<div class="text missing">Text not available.</div>' : textBlock(p.text));
+    var html = articleLine(p.article_title) + textHtml + mediaBlock(p.media, p.username);
+    if (p.kind === "quote" && p.ref && typeof p.ref === "object" && !Array.isArray(p.ref) && p.ref !== p) html += refBlock(p.ref, p.ref.text, "❝ Quoting", undefined, 0);
     return html;
   }
-
-  function allPosts() { // main archive + saved-search posts, deduped
-    var seen = {}, out = [];
-    state.posts.concat.apply(state.posts, Object.keys(state.saved).map(function (k) { return state.saved[k].posts || []; }))
-      .forEach(function (p) { if (!seen[p.id]) { seen[p.id] = 1; out.push(p); } });
-    return out;
+  function parentHead(p) {
+    var name = esc(p.name || p.username || "Unknown account");
+    var handle = typeof p.username === "string" && p.username ? userLink(p.username) : "";
+    var whenHtml = "";
+    if (p.created_at) {
+      var href = safePostURL(p);
+      var label = esc(when(p.created_at));
+      whenHtml = href
+        ? '<span>·</span><a href="' + esc(href) + '" target="_blank" rel="noopener noreferrer" title="' + esc(p.created_at) + '">' + label + "</a>"
+        : '<span>·</span><span title="' + esc(p.created_at) + '">' + label + "</span>";
+    }
+    return '<div class="meta"><span class="name">' + name + "</span>" + handle + whenHtml + "</div>";
   }
+  // One parent card. Quote/repost context is the embedded ref only — not another archive lookup.
+  function parentCard(p) {
+    var raw = p.reply_to;
+    if (!raw || typeof raw !== "object" || Array.isArray(raw)) {
+      return '<div class="quote parent missing"><div class="text missing">Original post isn\'t in this archive.</div></div>';
+    }
+    var parent = parentOf(p, state.byId || {});
+    if (!parent) {
+      var t = replyTarget(p);
+      var href = t ? statusURL(t.id, t.username) : "";
+      var link = href ? '<a class="parent-link" href="' + esc(href) + '" target="_blank" rel="noopener noreferrer">View original post</a>' : "";
+      return '<div class="quote parent missing"><div class="text missing">Original post isn\'t in this archive.</div>' + link + "</div>";
+    }
+    var note = "";
+    if (parent.kind === "repost") note = '<div class="marker">⟲ ' + esc(parent.name || parent.username || "Someone") + " reposted</div>";
+    else if (parent.reply_to && typeof parent.reply_to === "object" && !Array.isArray(parent.reply_to) && parent.reply_to.username) {
+      note = '<div class="marker">↩ Replying to ' + who(parent.reply_to.username) + "</div>";
+    }
+    return '<div class="quote parent">' + note + parentHead(parent) + postContent(parent, true) + "</div>";
+  }
+
+  function renderPost(p) {
+    if (!p || typeof p !== "object") return "";
+    var marker = "", m = p.metrics || {};
+    if (p.kind === "repost") marker = '<div class="marker">⟲ ' + esc(p.name || p.username) + " reposted</div>";
+    else if (p.reply_to) marker = '<div class="marker">↩ Replying to ' + who(p.reply_to && p.reply_to.username) + "</div>";
+    var head = '<div class="meta"><span class="name">' + esc(p.name) + "</span>" + userLink(p.username) +
+      '<span>·</span><a href="' + esc(p.url) + '" target="_blank" rel="noopener noreferrer" title="' + esc(p.created_at) + '">' + esc(when(p.created_at)) + "</a></div>";
+    var context = (p.kind !== "repost" && p.reply_to) ? parentCard(p) : "";
+    return '<li class="post">' + marker + context + head + postContent(p) +
+      '<div class="foot"><span>' + num(m.replies) + " replies</span><span>" + num(m.reposts) + " reposts</span><span>" +
+      num(m.likes) + " likes</span></div></li>";
+  }
+
+  function allPosts() { return combinedArchive(state.posts, state.saved); }
 
   function parseHash() {
     var h = location.hash.replace(/^#\/?/, ""), qi = h.indexOf("?"), params = {};
@@ -212,7 +307,9 @@
       list = S.search(state.posts, "");
     }
     $("status").innerHTML = label || (list.length ? "" : "No posts.");
+    state.byId = indexPosts(allPosts()); // full archive, not the filtered or paged slice
     mediaStore = {};  // a re-render drops revealed media; every label starts hidden again
+    mid = 0; tid = 0;
     $("feed").innerHTML = list.slice(0, state.limit).map(renderPost).join("");
     $("more").hidden = list.length <= state.limit;
     $("more").textContent = "Show more (" + (list.length - state.limit) + ")";
@@ -341,10 +438,33 @@
   }
 
   // ------------------------------------------------------------------ start
-  $("refreshBtn").addEventListener("click", sendRefresh);
+  function boot() {
+    $("refreshBtn").addEventListener("click", sendRefresh);
+    loadAll().catch(function (e) {
+      $("updated").textContent = "Never refreshed";
+      $("status").textContent = "Could not load data: " + e.message;
+    });
+  }
 
-  loadAll().catch(function (e) {
-    $("updated").textContent = "Never refreshed";
-    $("status").textContent = "Could not load data: " + e.message;
-  });
-})();
+  // Visible rows against a full archive. Parents outside the filter or page still resolve.
+  function renderList(list, archive, following) {
+    var saved = { following: state.following, byId: state.byId, mediaStore: mediaStore, mid: mid, tid: tid };
+    state.following = following || [];
+    state.byId = indexPosts(archive || []);
+    mediaStore = {};
+    mid = 0;
+    tid = 0;
+    try { return (list || []).map(renderPost).join(""); }
+    finally {
+      state.following = saved.following;
+      state.byId = saved.byId;
+      mediaStore = saved.mediaStore;
+      mid = saved.mid;
+      tid = saved.tid;
+    }
+  }
+
+  if (typeof module !== "undefined" && module.exports) {
+    module.exports = { renderList: renderList, indexPosts: indexPosts, combinedArchive: combinedArchive, statusURL: statusURL };
+  } else boot();
+})(typeof window !== "undefined" ? window : this);

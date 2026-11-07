@@ -39,6 +39,14 @@ Search syntax: `word word` (AND), `"exact phrase"`, `a OR b`, `-word`, `(group)`
 Quotes and reposts show the original inline: author (name + @username), date and full text (plus the post
 it quotes, one level), with no link to it on x.com. Search also matches the quoted text and author.
 
+A reply shows that parent post when the parent is already in the loaded archive (the main feed plus saved
+searches, including posts outside the current filter, search, or page). The preview has the parent's author
+and text, with the same long-text toggle and hidden media. When the parent is a quote or repost, the preview
+also includes the embedded original, one level deep. A parent that is itself a reply shows that parent's text
+and a one-line "Replying to" marker. If the parent is not in the archive, the reply says so and links to that
+specific post (`https://x.com/<handle>/status/<id>`, or `https://x.com/i/status/<id>` when the handle is
+missing). Search matches a reply's own text; the resolved parent is display context.
+
 Long text (the post, a quoted/reposted original, or a nested quote) over 300 characters or 6 lines shows a
 preview (cut at 280 characters on a word boundary, never inside a link, or after 6 lines) ending in "…" and a
 **Show full post** button that expands it inline (**Show less** collapses it); the full text is already in the page
@@ -59,8 +67,9 @@ the highest-bit-rate mp4 from `https://video.twimg.com`; anything else is droppe
 ## Publishing safety
 `.gitignore` is an whitelist (everything ignored except the public files below), and the publish step
 stages only this hard-coded list, never `git add -A` / `git add .`: `.gitignore`, `README.md`,
-`index.html`, `app.js`, `search.js`, `style.css`, `tests/search.test.js`, `data/posts.json`,
+`index.html`, `app.js`, `search.js`, `style.css`, `tests/search.test.js`, `tests/render.test.js`, `data/posts.json`,
 `data/following.json`, `data/site.json`, `data/saved-searches/` (status-only runs stage just `data/posts.json`).
 
-## Tests (fake data only)
+## Tests (fake data only, plus one public reply/parent fixture in the render tests; they do not read `data/`)
     node tests/search.test.js
+    node tests/render.test.js

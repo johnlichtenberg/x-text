@@ -12,6 +12,7 @@
 !/tests/
 /tests/*
 !/tests/search.test.js
+!/tests/render.test.js
 !/data/
 /data/*
 !/data/posts.json

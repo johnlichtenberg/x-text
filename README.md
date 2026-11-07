@@ -24,8 +24,12 @@ only (no schedule); a refresh less than 10 minutes after the previous one is ski
 Grok Bot: if Grok Bot isn't running or the routine is paused, nothing refreshes and the site keeps showing
 the last published data. Refresh does not fetch parents. A separate `/parent` route on the same relay (its
 own webhook secret, not the refresh key) wakes a parent lookup only after Show parent, and only for a
-reply→parent pair that is already in the saved archive. Until that route is deployed, Show parent still
-opens parents that are already saved and otherwise says parent fetch isn't set up yet.
+reply→parent pair that is already in the saved archive. The relay's parent gate is one SQLite Durable
+Object, not KV: a granted wake is single-threaded on that object, and a failed object call does not wake
+Grok. That is not an account-wide quota. Refresh does not read that binding; its relay cooldown stays the
+per-isolate 60 second memory guard. Until `/parent` is deployed, Show parent still opens parents that are
+already saved and otherwise says parent fetch isn't set up yet. Successful parent rows in `data/parents.json`
+are kept. Only the negative-result list is capped.
 
 ## Status line
 Shown on page load from `data/posts.json` metadata (`updated_at`, `accounts`, `last_run`), times in your local zone:

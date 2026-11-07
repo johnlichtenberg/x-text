@@ -114,6 +114,14 @@
     return body;
   }
 
+  // What the page should do with a relay response. "reload" still polls if the published
+  // file does not yet contain the row (Pages can lag). Errors are not a negative cache.
+  function relayEffect(status, bodyStatus) {
+    if (status === 202 || bodyStatus === "fetching") return "poll";
+    if (status === 200 && (bodyStatus === "cached" || bodyStatus === "in_archive" || bodyStatus === "unavailable")) return "reload";
+    return "error";
+  }
+
   function parentURL(refreshURL) {
     if (typeof refreshURL !== "string" || !/^https:\/\/[A-Za-z0-9.-]+(?::\d+)?\/refresh$/.test(refreshURL)) return "";
     return refreshURL.replace(/\/refresh$/, "/parent");
@@ -130,7 +138,7 @@
   var api = {
     isId: isId, target: target, doc: doc, index: index, classify: classify, parentClick: parentClick,
     pushPair: pushPair, takeBatch: takeBatch, requestBody: requestBody, webhookBody: webhookBody,
-    parentURL: parentURL, pairAllowed: pairAllowed, retryDue: retryDue,
+    parentURL: parentURL, pairAllowed: pairAllowed, retryDue: retryDue, relayEffect: relayEffect,
     NEGATIVE_MS: NEGATIVE_MS, MAX_PAIRS: MAX_PAIRS,
   };
   if (typeof module !== "undefined" && module.exports) module.exports = api;

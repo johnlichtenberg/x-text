@@ -566,16 +566,15 @@
       return r.json().catch(function () { return {}; }).then(function (body) { return { status: r.status, body: body }; });
     }).then(function (res) {
       var st = res.body && res.body.status;
-      var poll = res.status === 202 || st === "fetching";
-      if (poll || (res.status === 200 && (st === "cached" || st === "in_archive" || st === "unavailable"))) {
+      var effect = P.relayEffect(res.status, st);
+      if (effect === "poll" || effect === "reload") {
         return reloadParents().then(function () {
           var waiting = [];
           batch.forEach(function (pair) {
             var post = (state.byId || {})[pair.reply_id];
             var c = post ? P.classify(post, state.archive || [], state.parents, Date.now()) : { kind: "fetch" };
             if (c.kind === "ready" || c.kind === "unavailable") settlePair(pair, "");
-            else if (poll) waiting.push(pair);
-            else settlePair(pair, "");
+            else waiting.push(pair); // published file not updated yet, or the wake is still in flight
           });
           if (waiting.length) startParentPoll(waiting);
           render(false);

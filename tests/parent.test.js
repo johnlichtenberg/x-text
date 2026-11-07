@@ -65,6 +65,12 @@ const body = P.requestBody(taken.batch);
 eq(Object.keys(body).join(), "pairs", "request has pairs only");
 eq(body.pairs.length, 5, "five pairs");
 ok(body.pairs.every((p) => Object.keys(p).sort().join() === "parent_id,reply_id,retry"), "pair fields are ids and retry");
+eq(P.relayEffect(202, "fetching"), "poll", "a wake polls the published cache");
+eq(P.relayEffect(200, "cached"), "reload", "a cache hit reloads and does not ask again");
+eq(P.relayEffect(200, "unavailable"), "reload", "a negative row is read from the file");
+eq(P.relayEffect(502, "archive unavailable"), "error", "a failed cache read is not treated as a miss");
+eq(P.relayEffect(429, "limited"), "error", "a refused wake is not a negative cache");
+eq(P.relayEffect(504, "timeout"), "error", "a transport failure is not a deleted post");
 const hook = P.webhookBody(["9", "12"], ["9"]);
 eq(JSON.stringify(hook), '{"action":"parents","source":"x-text","parent_ids":["9","12"],"retry_ids":["9"]}', "webhook body is ids only");
 

@@ -3,8 +3,8 @@
 A text-only reader for a list of X accounts. Static files only (`index.html`, `app.js`, `search.js`,
 `parent.js`, `style.css`); no build step, no trackers, and no third-party requests until you tap a media
 label or Show parent for a post that is not already saved (the CSP
-allows images only from `pbs.twimg.com` and video only from `video.twimg.com`, and blocks every other host;
-`connect-src https:` is only for the refresh relay).
+allows images and video only from `https://x-text-relay.johnlichtenberg.workers.dev`, and blocks every other host;
+`connect-src https:` is only for that same relay).
 
 ## Data
 The page loads plain JSON directly on open: `data/posts.json`, `data/following.json`, `data/site.json`,
@@ -74,8 +74,9 @@ nothing is requested; any re-render (new view, search, refresh) resets every lab
 the post, or "Photo 1 of 2 by @user (no description)". `posts.json` stores only direct media-server URLs, checked
 against an whitelist by `merge.py` (and again by the page): photos and video posters from `https://pbs.twimg.com`,
 the highest-bit-rate mp4 from `https://video.twimg.com`; anything else is dropped (never x.com or twitter.com).
-**Note:** revealed media load from `pbs.twimg.com` / `video.twimg.com`, not `x.com`, so a block on x.com alone
-(DNS, firewall, Screen Time) may not stop them; block those two hosts too if you need that.
+A tap loads the file from `https://x-text-relay.johnlichtenberg.workers.dev`, which fetches that same whitelist
+of paths. The browser never requests `pbs.twimg.com` or `video.twimg.com` directly, so Firefox strict tracking
+protection and Firefox Focus can show them. The content security policy allows images and video only from the relay.
 
 ## Publishing safety
 `.gitignore` is an whitelist (everything ignored except the public files below), and the publish step

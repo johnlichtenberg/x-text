@@ -72,8 +72,8 @@ assert.deepStrictEqual(S.search([P({ id: "999" }), P({ id: "1000" })], "").map((
 // hidden-media label + URL whitelist + has:media (fake URLs only)
 {
   const ok = (c, m) => { assert.ok(c, m); n++; };
-  const ph = { type: "photo", url: "https://pbs.twimg.com/media/a.jpg" }, gif = { type: "animated_gif", url: "https://video.twimg.com/g.mp4" };
-  const vid = (ms) => ({ type: "video", url: "https://video.twimg.com/v.mp4", duration_ms: ms });
+  const ph = { type: "photo", url: "https://pbs.twimg.com/media/a.jpg" }, gif = { type: "animated_gif", url: "https://video.twimg.com/tweet_video/g.mp4" };
+  const vid = (ms) => ({ type: "video", url: "https://video.twimg.com/tweet_video/v.mp4", duration_ms: ms });
   const L = S.mediaLabel;
   ok(L([ph]) === "photo" && L([ph, ph]) === "2 photos", "photo labels");
   ok(L([vid(42000)]) === "video (0:42)" && L([vid(65400)]) === "video (1:05)" && L([vid(3725000)]) === "video (1:02:05)", "video durations");
@@ -82,11 +82,23 @@ assert.deepStrictEqual(S.search([P({ id: "999" }), P({ id: "1000" })], "").map((
   ok(L([ph, ph, vid(65000)]) === "2 photos, video (1:05)", "mixed: " + L([ph, ph, vid(65000)]));
   ok(L([]) === "" && L(undefined) === "" && L([{ type: "3d" }]) === "", "nothing to show -> empty");
   const U = S.mediaURL;
-  ok(U("https://pbs.twimg.com/media/a.jpg", "photo") && U("https://video.twimg.com/v.mp4", "video") && U("https://pbs.twimg.com/t.jpg", "poster"), "allowed hosts");
+  const RELAY = "https://x-text-relay.johnlichtenberg.workers.dev";
+  ok(U("https://pbs.twimg.com/media/a.jpg", "photo") === RELAY + "/m/pbs/media/a.jpg", "photo goes through the relay");
+  ok(U("https://video.twimg.com/tweet_video/v.mp4", "video") === RELAY + "/m/video/tweet_video/v.mp4", "video goes through the relay");
+  ok(U("https://pbs.twimg.com/tweet_video_thumb/t.jpg", "poster") === RELAY + "/m/pbs/tweet_video_thumb/t.jpg", "poster goes through the relay");
+  ok(U("https://pbs.twimg.com/media/HWbAvefa8AEBQVZ.jpg?name=large&format=jpg", "photo") === RELAY + "/m/pbs/media/HWbAvefa8AEBQVZ.jpg?format=jpg&name=large", "name and format query kept");
+  ok(U("https://video.twimg.com/amplify_video/2118592599363817491/vid/avc1/1125x1037/Abcdefghijk.mp4?tag=16", "video") === RELAY + "/m/video/amplify_video/2118592599363817491/vid/avc1/1125x1037/Abcdefghijk.mp4?tag=16", "video path and tag kept");
   ["https://x.com/a.jpg", "http://pbs.twimg.com/a.jpg", "https://pbs.twimg.com.evil.com/a.jpg", "https://u@pbs.twimg.com/a.jpg",
-   "https://pbs.twimg.com:444/a.jpg", "https://video.twimg.com/a.jpg", "javascript:alert(1)", "https://pbs.twimg.com/a b", "//pbs.twimg.com/a"]
+   "https://pbs.twimg.com:444/a.jpg", "https://video.twimg.com/a.jpg", "javascript:alert(1)", "https://pbs.twimg.com/a b", "//pbs.twimg.com/a",
+   "https://pbs.twimg.com/media/a.jpg?url=https://evil.example", "https://pbs.twimg.com/media/../a.jpg", "https://pbs.twimg.com/media/a.jpg%2e%2e"]
     .forEach((u) => ok(U(u, "photo") === null, "rejected " + u));
   ok(U("https://pbs.twimg.com/v.mp4", "video") === null && U("https://pbs.twimg.com/a.jpg", "gif") === null && U(null, "photo") === null, "wrong kind");
+  ok(!U("https://pbs.twimg.com/media/HWbAvefa8AEBQVZ.jpg", "photo").includes("pbs.twimg.com"), "tap URL is not the tracking host");
+  global.XTEXT_MEDIA_RELAY = "http://127.0.0.1:8787";
+  ok(U("https://pbs.twimg.com/media/HWbAvefa8AEBQVZ.jpg", "photo") === "http://127.0.0.1:8787/m/pbs/media/HWbAvefa8AEBQVZ.jpg", "local relay override");
+  global.XTEXT_MEDIA_RELAY = "https://evil.example/extra";
+  ok(U("https://pbs.twimg.com/media/a.jpg", "photo") === RELAY + "/m/pbs/media/a.jpg", "bad override is ignored");
+  delete global.XTEXT_MEDIA_RELAY;
   const mp = [P({ id: "1", media: [ph] }), P({ id: "2", media: [vid(1000)] }), P({ id: "3", media: [gif] }), P({ id: "4" })];
   const q = (x) => S.search(mp, x).map((p) => p.id);
   ok(q("has:media").join() === "3,2,1" && q("has:images").join() === "1" && q("has:videos").join() === "3,2" && q("-has:media").join() === "4", "has: operators");

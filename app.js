@@ -123,8 +123,8 @@
       mediaBlock(media === undefined ? r.media : media, r.username) + nested + "</div>";
   }
 
-  // Hidden media: only a label button is rendered. Media URLs stay in this JS map (never in the DOM) and the
-  // <img>/<video> elements are created on tap, so nothing loads from X's media servers until then.
+  // Hidden media: only a label button is rendered. The original URL stays in this JS map (never in the DOM).
+  // On tap, mediaURL() turns an allowed path into the relay URL and that is what the <img>/<video> requests.
   var mediaStore = {}, mid = 0;
   function mediaBlock(media, username) {
     if (!Array.isArray(media)) media = [];

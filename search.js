@@ -180,13 +180,55 @@
     if (gifs) parts.push(gifs === 1 ? "GIF" : gifs + " GIFs");
     return parts.join(", ");
   }
-  // Only X's media servers, https, no credentials/port: what the page may ever load (checked again at tap time).
+  // Only X's media servers, https, no credentials/port. A tap loads that file through the relay
+  // (Firefox strict tracking protection blocks pbs.twimg.com and video.twimg.com as third parties).
   var MEDIA_HOSTS = { photo: "pbs.twimg.com", poster: "pbs.twimg.com", video: "video.twimg.com" };
+  var MEDIA_RELAY = "https://x-text-relay.johnlichtenberg.workers.dev";
+  var PHOTO_PATH = /^media\/[A-Za-z0-9_-]{1,40}\.(jpg|png|webp)$/;
+  var POSTER_PATH = /^(?:amplify_video_thumb\/[0-9]{5,25}\/img\/[A-Za-z0-9_-]{1,40}\.jpg|ext_tw_video_thumb\/[0-9]{5,25}\/pu\/img\/[A-Za-z0-9_-]{1,40}\.jpg|tweet_video_thumb\/[A-Za-z0-9_-]{1,40}\.jpg)$/;
+  var VIDEO_PATH = /^(?:amplify_video\/[0-9]{5,25}\/vid\/avc1\/[0-9]{2,5}x[0-9]{2,5}\/[A-Za-z0-9_-]{1,40}\.mp4|ext_tw_video\/[0-9]{5,25}\/pu\/vid\/avc1\/[0-9]{2,5}x[0-9]{2,5}\/[A-Za-z0-9_-]{1,40}\.mp4|tweet_video\/[A-Za-z0-9_-]{1,40}\.mp4)$/;
+  // Live pages never set this. A local copy can point at `wrangler dev` (the CSP still has to allow that host).
+  function relayOrigin() {
+    var g = typeof globalThis !== "undefined" ? globalThis : root;
+    var o = g && g.XTEXT_MEDIA_RELAY;
+    if (typeof o === "string" && /^https?:\/\/[A-Za-z0-9.-]+(?::[0-9]{2,5})?$/.test(o)) return o.replace(/\/$/, "");
+    return MEDIA_RELAY;
+  }
+  function pathOk(host, path, kind) {
+    if (!path || path.indexOf("..") >= 0) return false;
+    if (kind === "photo") return host === "pbs.twimg.com" && PHOTO_PATH.test(path);
+    if (kind === "poster") return host === "pbs.twimg.com" && (PHOTO_PATH.test(path) || POSTER_PATH.test(path));
+    if (kind === "video") return host === "video.twimg.com" && VIDEO_PATH.test(path);
+    return false;
+  }
+  function queryOk(params, kind) {
+    var names = { name: /^(?:small|medium|large|orig|4096x4096)$/, format: /^(?:jpg|png|webp)$/, tag: /^[0-9]{1,3}$/ };
+    var seen = {};
+    var keys = [];
+    params.forEach(function (v, k) { keys.push([k, v]); });
+    for (var i = 0; i < keys.length; i++) {
+      var k = keys[i][0], v = keys[i][1];
+      if (seen[k] || !names[k]) return false;
+      if (k === "tag" ? kind !== "video" : kind === "video") return false;
+      if (!names[k].test(v)) return false;
+      seen[k] = 1;
+    }
+    return true;
+  }
   function mediaURL(u, kind) {
     var h = MEDIA_HOSTS[kind];
-    if (!h || typeof u !== "string" || /\s/.test(u)) return null;
-    var m = /^https:\/\/([^\/?#@:]+)(?:[\/?#]|$)/.exec(u);
-    return m && m[1] === h ? u : null;
+    if (!h || typeof u !== "string" || /\s/.test(u) || /%/.test(u)) return null;
+    var parsed;
+    try { parsed = new URL(u); } catch (e) { return null; }
+    if (parsed.protocol !== "https:" || parsed.username || parsed.password || parsed.port || parsed.hostname !== h) return null;
+    var path = parsed.pathname.replace(/^\/+/, "");
+    if (!pathOk(parsed.hostname, path, kind) || !queryOk(parsed.searchParams, kind)) return null;
+    var prefix = parsed.hostname === "video.twimg.com" ? "/m/video/" : "/m/pbs/";
+    var q = [];
+    ["format", "name", "tag"].forEach(function (k) {
+      if (parsed.searchParams.has(k)) q.push(encodeURIComponent(k) + "=" + encodeURIComponent(parsed.searchParams.get(k)));
+    });
+    return relayOrigin() + prefix + path + (q.length ? "?" + q.join("&") : "");
   }
 
   var api = { tokenize: tokenize, parse: parse, compile: compile, search: search, idCmp: idCmp, preview: preview, mediaLabel: mediaLabel, mediaURL: mediaURL, clock: clock };

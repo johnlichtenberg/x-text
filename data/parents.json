@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T03:31:58Z",
+ "updated_at": "2026-11-11T02:08:30Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -27,6 +27,35 @@
      "duration_ms": 87133
     }
    ]
+  },
+  {
+   "id": "2118954119134359767",
+   "username": "cz_binance",
+   "name": "CZ 🔶 BNB",
+   "created_at": "2026-11-07T06:30:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/cz_binance/status/2118954119134359767",
+   "kind": "reply",
+   "text": "@MartiniGuyYT bruh, don't be that guy that spreads false info.",
+   "urls": [],
+   "metrics": {
+    "likes": 7458,
+    "reposts": 194,
+    "replies": 362,
+    "quotes": 31
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWgJaF3aIAAWy6Q.jpg",
+     "width": 1348,
+     "height": 814
+    }
+   ],
+   "reply_to": {
+    "id": "2118935710875168879",
+    "username": "MartiniGuyYT"
+   }
   }
  ],
  "missing": []

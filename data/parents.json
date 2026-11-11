@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T02:51:08Z",
+ "updated_at": "2026-11-11T02:51:25Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -145,6 +145,27 @@
     "reposts": 36,
     "replies": 45,
     "quotes": 7
+   }
+  },
+  {
+   "id": "2120027643081113765",
+   "username": "PalmerLuckey",
+   "name": "Palmer Luckey",
+   "created_at": "2026-11-10T05:35:52.000Z",
+   "lang": "en",
+   "url": "https://x.com/PalmerLuckey/status/2120027643081113765",
+   "kind": "reply",
+   "text": "@carlhancock Take that ridesharing revenue ($150B+) and subtract the cost of paying 16,000,000 drivers.  That is the bet.",
+   "urls": [],
+   "metrics": {
+    "likes": 12204,
+    "reposts": 236,
+    "replies": 384,
+    "quotes": 36
+   },
+   "reply_to": {
+    "id": "2119829774063509820",
+    "username": "carlhancock"
    }
   }
  ],

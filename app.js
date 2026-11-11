@@ -4,7 +4,8 @@
   var S = (typeof module !== "undefined" && module.exports) ? require("./search.js") : root.XSearch;
   var P = (typeof module !== "undefined" && module.exports) ? require("./parent.js") : root.XParent;
   var state = { config: { saved_searches: [] }, following: [], posts: [], saved: {}, updated: null, limit: 50, byId: {},
-    parents: { posts: [], missing: [] }, shown: {}, loading: {}, notes: {} };
+    parents: { posts: [], missing: [] }, shown: {}, loading: {}, notes: {}, index: null, loadedShards: {},
+    archiveComplete: true, postCount: 0, parentScan: {} };
   var sess = { text: null, bound: false };  // text of the last loaded data/posts.json (for refresh polling)
   var $ = function (id) { return document.getElementById(id); };
   var PAGE = 50;
@@ -399,14 +400,19 @@
     } else {
       list = S.search(state.posts, "");
     }
-    $("status").innerHTML = label || (list.length ? "" : "No posts.");
     state.archive = allPosts(); // full archive, not the filtered or paged slice; parent cache stays out of it
     state.byId = indexPosts(state.archive);
     mediaStore = {};  // a re-render drops revealed media; every label starts hidden again
     mid = 0; tid = 0;
+    if ((r.view === "search" || r.view === "u") && pendingShards().length) ensureShards();
+    if ((r.view === "search" || r.view === "u") && !state.archiveComplete) label += " · loading older posts";
+    $("status").innerHTML = label || (list.length ? "" : "No posts.");
     $("feed").innerHTML = list.slice(0, state.limit).map(renderPost).join("");
-    $("more").hidden = list.length <= state.limit;
-    $("more").textContent = "Show more (" + (list.length - state.limit) + ")";
+    var older = r.view === "home" ? pendingShards() : [];
+    var paging = list.length > state.limit;
+    $("more").hidden = !paging && !older.length;
+    $("more").dataset.shard = !paging && older.length ? older[0].id : "";
+    $("more").textContent = paging ? "Show more (" + (list.length - state.limit) + ")" : "Show older posts";
   }
 
   function bind() {
@@ -416,7 +422,16 @@
       $("q").blur();
       if (q) go("search", "", q); else go("home", "", "");
     });
-    $("more").addEventListener("click", function () { state.limit += PAGE; render(false); });
+    $("more").addEventListener("click", function () {
+      var id = $("more").dataset.shard;
+      if (id) {
+        var entry = shardById(state.index, id);
+        $("more").disabled = true;
+        loadOneShard(entry).then(function () { $("more").disabled = false; render(false); }, function () { $("more").disabled = false; });
+        return;
+      }
+      state.limit += PAGE; render(false);
+    });
     $("feed").addEventListener("click", function (e) {
       var b = e.target.closest && e.target.closest("button");
       if (!b) return;
@@ -433,8 +448,9 @@
     var m = state.meta || {};
     if (!m.updated_at && !state.posts.length) return "Never refreshed";
     var accounts = m.accounts != null ? m.accounts : Object.keys(state.posts.reduce(function (o, p) { o[p.username] = 1; return o; }, {})).length;
+    var count = state.postCount || state.posts.length;
     return "Last updated " + (m.updated_at ? fmtFull.format(new Date(m.updated_at)) + " (" + ago(m.updated_at) + ")" : "unknown") +
-      " · " + plural(state.posts.length, "post") + " from " + plural(accounts, "account");
+      " · " + plural(count, "post") + " from " + plural(accounts, "account");
   }
   function showUpdated() {
     if (poll) return;  // "Refreshing…" stays while polling
@@ -443,6 +459,36 @@
   }
 
   // ------------------------------------------------------------------ data
+  // Home reads the newest shard. Search and account pages pull older shards as needed.
+  // The relay copy is tried first so a refresh shows up before GitHub Pages republishes.
+  var DATA_RELAY = "https://x-text-relay.johnlichtenberg.workers.dev";
+  var SHARD_FILE = /^(?:shards|parents)\/[0-9]{4}-[0-9]{2}(?:-p[1-9][0-9]{0,2})?\.json$/;
+  var DATA_FILE = /^(?:index|site|following|posts|parents|gate)\.json$|^saved-searches\/[a-z0-9-]{1,80}\.json$/;
+  function shardList(index) {
+    var s = index && index.shards;
+    if (!Array.isArray(s)) return [];
+    return s.filter(function (x) { return x && typeof x.id === "string" && SHARD_FILE.test(x.file || ""); });
+  }
+  function homeShardIds(index) {
+    var s = shardList(index);
+    return s.length ? [s[0].id] : [];
+  }
+  function shardById(index, id) {
+    var s = shardList(index);
+    for (var i = 0; i < s.length; i++) if (s[i].id === id) return s[i];
+    return null;
+  }
+  function pendingShards() {
+    return shardList(state.index).filter(function (s) { return !state.loadedShards[s.id]; });
+  }
+  function relayOrigin() {
+    var u = relayUrl();
+    return u && /\/refresh$/.test(u) ? u.replace(/\/refresh$/, "") : DATA_RELAY;
+  }
+  function dataPathOk(rel) {
+    var path = String(rel || "").replace(/^data\//, "");
+    return DATA_FILE.test(path) || SHARD_FILE.test(path);
+  }
   function getText(url) {
     return fetch(url + "?t=" + Date.now(), { cache: "no-store" }).then(function (r) {
       if (!r.ok) throw new Error(url + " " + r.status);
@@ -450,29 +496,123 @@
     });
   }
   function getJSON(url) { return getText(url).then(JSON.parse); }
-
-  // load everything; postsText (already fetched) avoids a second download when polling
-  function loadAll(postsText) {
-    return Promise.all([getJSON("data/site.json").catch(function () { return {}; }), getJSON("data/following.json").catch(function () { return {}; }),
-      postsText ? Promise.resolve(postsText) : getText("data/posts.json").catch(function () { return null; }),
-      getJSON("data/parents.json").catch(function () { return { posts: [], missing: [] }; })]).then(function (res) {
-      var site = res[0];
-      sess.text = res[2];
-      var posts = res[2] ? JSON.parse(res[2]) : {}, saved = {};
-      return Promise.all((site.saved_searches || []).map(function (s) {
-        var slug = s.slug || slugify(s.name);
-        return getJSON("data/saved-searches/" + encodeURIComponent(slug) + ".json")
-          .then(function (d) { saved[slug] = d; }, function () { saved[slug] = { posts: [] }; });
-      })).then(function () { applyData(site, res[1], posts, saved, res[3]); });
+  function relayData(rel) {
+    if (!dataPathOk(rel)) return Promise.reject(new Error("path"));
+    return fetch(relayOrigin() + "/d/" + String(rel).replace(/^data\//, ""), {
+      cache: "no-store", credentials: "omit", referrerPolicy: "no-referrer"
+    }).then(function (r) {
+      if (!r.ok) throw new Error("relay " + r.status);
+      return r.text();
+    });
+  }
+  function getFresh(rel) { return relayData(rel).catch(function () { return getText(rel); }); }
+  function getFreshJSON(rel) { return getFresh(rel).then(JSON.parse); }
+  function addPosts(list) {
+    var seen = {};
+    state.posts.forEach(function (p) { if (p && p.id) seen[p.id] = 1; });
+    (list || []).forEach(function (p) {
+      if (p && p.id && !seen[p.id]) { seen[p.id] = 1; state.posts.push(p); }
+    });
+    state.posts.sort(S.idCmp);
+  }
+  function loadShardPosts(entry) {
+    return getFreshJSON("data/" + entry.file).then(function (doc) { return (doc && doc.posts) || []; });
+  }
+  function loadOneShard(entry) {
+    if (!entry || state.loadedShards[entry.id]) return Promise.resolve();
+    return loadShardPosts(entry).then(function (posts) {
+      addPosts(posts);
+      state.loadedShards[entry.id] = 1;
+      state.archiveComplete = !pendingShards().length;
+      state.archive = allPosts();
+      state.byId = indexPosts(state.archive);
+    });
+  }
+  var restJob = null;
+  function ensureShards() {
+    if (state.archiveComplete) return Promise.resolve();
+    if (restJob) return restJob;
+    var pending = pendingShards();
+    if (!pending.length) { state.archiveComplete = true; return Promise.resolve(); }
+    restJob = pending.reduce(function (chain, entry) {
+      return chain.then(function () { return loadOneShard(entry).then(function () { render(false); }); });
+    }, Promise.resolve()).then(function () {
+      restJob = null;
+      state.archiveComplete = true;
+    }, function () { restJob = null; });
+    return restJob;
+  }
+  function loadSaved(site) {
+    return Promise.all((site.saved_searches || []).map(function (s) {
+      var slug = s.slug || slugify(s.name);
+      return getFreshJSON("data/saved-searches/" + encodeURIComponent(slug) + ".json")
+        .then(function (d) { return [slug, d]; }, function () { return [slug, { posts: [] }]; });
+    })).then(function (rows) {
+      var saved = {};
+      rows.forEach(function (pair) { saved[pair[0]] = pair[1]; });
+      return saved;
+    });
+  }
+  function loadParentBodies(doc, index) {
+    if (doc && Array.isArray(doc.posts) && !doc.sharded) return Promise.resolve(doc);
+    var shards = (index && index.parent_shards) || [];
+    var files = shards.filter(function (s) { return s && SHARD_FILE.test(s.file || ""); });
+    if (!files.length) return Promise.resolve(doc && Array.isArray(doc.posts) ? doc : { posts: [], missing: (doc && doc.missing) || [] });
+    return Promise.all(files.map(function (s) {
+      return getFreshJSON("data/" + s.file).then(function (d) { return d.posts || []; }, function () { return []; });
+    })).then(function (lists) {
+      var posts = [];
+      lists.forEach(function (list) { posts = posts.concat(list); });
+      return { updated_at: (index && index.updated_at) || (doc && doc.updated_at), posts: posts, missing: (doc && doc.missing) || [] };
+    });
+  }
+  function loadLegacy(site, following, saved, parents) {
+    return getFresh("data/posts.json").catch(function () { return null; }).then(function (text) {
+      sess.watchRel = "data/posts.json";
+      sess.watch = sess.text = text;
+      applyData(site, following, text ? JSON.parse(text) : {}, saved, parents, null);
+    });
+  }
+  // load everything. The relay is preferred; Pages is the fallback.
+  function loadAll() {
+    return getFreshJSON("data/site.json").catch(function () { return {}; }).then(function (site) {
+      state.config = { site_title: site.site_title, saved_searches: site.saved_searches || [], refresh_url: site.refresh_url || "" };
+      return Promise.all([
+        getFreshJSON("data/following.json").catch(function () { return {}; }),
+        getFresh("data/index.json").catch(function () { return ""; }),
+        getFreshJSON("data/parents.json").catch(function () { return { posts: [], missing: [] }; }),
+        loadSaved(site)
+      ]).then(function (res) {
+        var index = null;
+        try { index = res[1] ? JSON.parse(res[1]) : null; } catch (e) { index = null; }
+        if (!index || !Array.isArray(index.shards) || !shardList(index).length) return loadLegacy(site, res[0], res[3], res[2]);
+        var home = shardList(index).filter(function (s) { return homeShardIds(index).indexOf(s.id) >= 0; });
+        return Promise.all(home.map(loadShardPosts)).then(function (lists) {
+          var flat = [];
+          lists.forEach(function (list) { flat = flat.concat(list); });
+          return loadParentBodies(res[2], index).then(function (parents) {
+            sess.watchRel = "data/index.json";
+            sess.watch = sess.text = res[1];
+            applyData(site, res[0], {
+              posts: flat, updated_at: index.updated_at, accounts: index.accounts, last_run: index.last_run, count: index.post_count
+            }, res[3], parents, index);
+          });
+        }, function () { return loadLegacy(site, res[0], res[3], res[2]); });
+      });
     });
   }
 
-  function applyData(site, following, posts, saved, parents) {
+  function applyData(site, following, posts, saved, parents, index) {
     state.config = { site_title: site.site_title, saved_searches: site.saved_searches || [], refresh_url: site.refresh_url || "" };
     state.following = (following.users || []).slice().sort(function (a, c) { return (c.followers || 0) - (a.followers || 0); });
     state.posts = posts.posts || [];
     state.saved = saved;
     state.parents = P.doc(parents); // context cache only; never merged into the feed or following list
+    state.index = index || null;
+    state.loadedShards = {};
+    if (index) homeShardIds(index).forEach(function (id) { state.loadedShards[id] = 1; });
+    state.archiveComplete = !index || !pendingShards().length;
+    state.postCount = (index && index.post_count) || state.posts.length;
     state.updated = posts.updated_at;
     state.meta = { updated_at: posts.updated_at || null, accounts: posts.accounts, last_run: posts.last_run || null };
     document.title = $("title").textContent = state.config.site_title || "X Text";
@@ -502,7 +642,7 @@
   }
 
   function startPoll() {
-    var started = Date.now(), before = sess.text, before_n = state.posts.length,
+    var started = Date.now(), before = sess.watch, before_n = state.postCount || state.posts.length,
       before_run = JSON.stringify((state.meta && state.meta.last_run) || null);
     if (poll) clearInterval(poll);
     $("refreshBtn").disabled = true;
@@ -510,12 +650,12 @@
     $("updated").textContent = "Refreshing…";
     function tick() {
       if (Date.now() - started > 180000) { stopPoll(); rstatus("No response after 3 min: the refresh may still be running. Tap Refresh again later."); return; }
-      getText("data/posts.json").then(function (text) {
+      getFresh(sess.watchRel || "data/index.json").then(function (text) {
         if (text === before) return;
         var doc = JSON.parse(text);
         if (JSON.stringify(doc.last_run || null) === before_run && doc.updated_at === (state.meta && state.meta.updated_at)) return;
         clearInterval(poll); poll = null;
-        return loadAll(text).then(function () { stopPoll(); rstatus(runMessage(doc.last_run, before_n)); });
+        return loadAll().then(function () { stopPoll(); rstatus(runMessage(doc.last_run, before_n)); });
       }).catch(function () { /* transient; keep polling */ });
     }
   }
@@ -552,6 +692,29 @@
       delete state.loading[replyId];
       delete state.notes[replyId];
       render(false);
+      return;
+    }
+    if (decision.effect === "enqueue" && !state.archiveComplete && !state.parentScan[replyId]) {
+      state.parentScan[replyId] = 1;
+      state.loading[replyId] = 1;
+      render(false);
+      ensureShards().then(function () {
+        delete state.loading[replyId];
+        var againPost = (state.byId || {})[replyId];
+        if (!againPost) { render(false); return; }
+        var again = P.parentClick(againPost, state.archive || allPosts(), state.parents, Date.now(), retry);
+        if (again.effect === "reveal" || again.effect === "unavailable") {
+          state.shown[replyId] = 1;
+          delete state.loading[replyId];
+          render(false);
+          return;
+        }
+        if (again.effect !== "enqueue") { render(false); return; }
+        state.loading[replyId] = 1;
+        parentQueue = P.pushPair(parentQueue, again.pair);
+        render(false);
+        if (!parentTimer && !parentFlight) parentTimer = setTimeout(flushParents, 300);
+      });
       return;
     }
     if (decision.effect !== "enqueue") return;
@@ -702,6 +865,7 @@
   }
 
   if (typeof module !== "undefined" && module.exports) {
-    module.exports = { renderList: renderList, indexPosts: indexPosts, combinedArchive: combinedArchive, userHeader: userHeader, parentClick: P.parentClick };
+    module.exports = { renderList: renderList, indexPosts: indexPosts, combinedArchive: combinedArchive, userHeader: userHeader,
+      parentClick: P.parentClick, homeShardIds: homeShardIds, shardList: shardList, dataPathOk: dataPathOk };
   } else boot();
 })(typeof window !== "undefined" ? window : this);

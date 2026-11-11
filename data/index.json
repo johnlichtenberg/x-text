@@ -1,0 +1,42 @@
+{
+ "updated_at": "2026-11-11T00:49:19Z",
+ "post_count": 833,
+ "accounts": 11,
+ "last_run": {
+  "status": "new",
+  "at": "2026-11-11T00:49:36Z",
+  "new_posts": 67
+ },
+ "shards": [
+  {
+   "id": "2026-11-p1",
+   "file": "shards/2026-11-p1.json",
+   "count": 400,
+   "newest_id": "2120316794544222515",
+   "oldest_id": "2118810958730862759"
+  },
+  {
+   "id": "2026-11-p2",
+   "file": "shards/2026-11-p2.json",
+   "count": 331,
+   "newest_id": "2118810606954500120",
+   "oldest_id": "2116685766273413157"
+  },
+  {
+   "id": "2026-10",
+   "file": "shards/2026-10.json",
+   "count": 102,
+   "newest_id": "2116540636119941313",
+   "oldest_id": "2105713240701538538"
+  }
+ ],
+ "parent_shards": [
+  {
+   "id": "2026-11",
+   "file": "parents/2026-11.json",
+   "count": 9,
+   "newest_id": "2120097824851570997",
+   "oldest_id": "2118954119134359767"
+  }
+ ]
+}

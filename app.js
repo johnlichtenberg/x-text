@@ -14,13 +14,91 @@
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
     });
   }
-  // Escape, then turn http(s) URLs into plain links (no previews/media).
-  function linkify(text) {
+  // x.com, twitter.com, t.co, and any subdomain. Compared against the parsed hostname.
+  var X_HOSTS = ["x.com", "twitter.com", "t.co"];
+  function xHost(host) {
+    host = String(host || "").toLowerCase().replace(/\.+$/g, "");
+    for (var i = 0; i < X_HOSTS.length; i++) {
+      var name = X_HOSTS[i];
+      if (host === name || host.slice(-(name.length + 1)) === "." + name) return true;
+    }
+    return false;
+  }
+  function hostOf(raw) {
+    try { return new URL(raw).hostname.toLowerCase().replace(/\.+$/g, ""); }
+    catch (e) { return ""; }
+  }
+  // http(s) only, no credentials, and never a link to X.
+  function safeHref(raw) {
+    if (typeof raw !== "string" || raw.length > 4096 || !/^https?:\/\/[^\s<>"']+$/.test(raw)) return "";
+    var u;
+    try { u = new URL(raw); } catch (e) { return ""; }
+    if ((u.protocol !== "http:" && u.protocol !== "https:") || u.username || u.password || xHost(u.hostname)) return "";
+    return raw;
+  }
+  function eachUrlEntity(src, fn) {
+    if (!src || typeof src !== "object") return;
+    function take(list) {
+      if (!Array.isArray(list)) return;
+      for (var i = 0; i < list.length; i++) fn(list[i]);
+    }
+    var ent = src.entities;
+    if (ent && typeof ent === "object" && !Array.isArray(ent)) {
+      take(ent.urls);
+      if (ent.description && typeof ent.description === "object") take(ent.description.urls);
+      if (ent.url && typeof ent.url === "object") take(ent.url.urls);
+    }
+    take(src.urls);
+  }
+  // Pair a short URL in the text with a stored { url, expanded_url } entity, when one exists.
+  function entityFor(raw, src) {
+    var found = null;
+    eachUrlEntity(src, function (e) {
+      if (found || !e || typeof e !== "object" || e.url !== raw) return;
+      found = e;
+    });
+    return found;
+  }
+  function isMediaPath(pathname) {
+    return /\/photo(?:\/|$)/.test(pathname) || /\/video(?:\/|$)/.test(pathname);
+  }
+  function looksLikeMediaUrl(raw) {
+    var host = hostOf(raw);
+    if (!host) return false;
+    if (host === "pic.twitter.com" || host === "pic.x.com") return true;
+    var path = "";
+    try { path = new URL(raw).pathname || ""; } catch (e) { return false; }
+    return xHost(host) && isMediaPath(path);
+  }
+  // Photo/video card links are omitted when the post already has media behind Show photo / Show video.
+  // A media URL with no attached media stays in the text, unlinked.
+  function isMediaLink(raw, expanded, ent, src) {
+    if (ent && (ent.media_key || ent.type === "photo" || ent.type === "video" || ent.type === "animated_gif")) return true;
+    if (!(looksLikeMediaUrl(raw) || (expanded && looksLikeMediaUrl(expanded)))) return false;
+    return !!(src && Array.isArray(src.media) && src.media.length);
+  }
+  // drop: omit a media short link. href: safe external destination. otherwise keep the original characters.
+  function linkAction(url, src) {
+    var ent = entityFor(url, src);
+    var expanded = ent && typeof ent.expanded_url === "string" ? ent.expanded_url : "";
+    if (isMediaLink(url, expanded, ent, src)) return { drop: true };
+    if (expanded && !safeHref(expanded)) return {};
+    var href = safeHref(expanded || url);
+    if (!href) return {};
+    return { href: href, label: href.replace(/^https?:\/\//, "") };
+  }
+  // Escape, then link http(s) URLs. Destinations on X stay text; a stored expanded URL is used instead of a short link.
+  function linkify(text, src) {
+    text = String(text == null ? "" : text);
     var out = "", re = /https?:\/\/[^\s<>"']+/g, last = 0, m;
     while ((m = re.exec(text))) {
       var url = m[0].replace(/[.,;:!?)\]]+$/, "");
-      out += esc(text.slice(last, m.index));
-      out += '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer nofollow">' + esc(url.replace(/^https?:\/\//, "")) + "</a>";
+      var gap = text.slice(last, m.index);
+      var action = linkAction(url, src);
+      if (action.drop) gap = gap.replace(/\s+$/, "");
+      out += esc(gap);
+      if (action.href) out += '<a href="' + esc(action.href) + '" target="_blank" rel="noopener noreferrer nofollow">' + esc(action.label) + "</a>";
+      else if (!action.drop) out += esc(url);
       last = m.index + url.length;
       re.lastIndex = last;
     }
@@ -45,20 +123,29 @@
   function num(n) { return n >= 1e6 ? (n / 1e6).toFixed(1) + "M" : n >= 1e4 ? Math.round(n / 1e3) + "K" : n >= 1e3 ? (n / 1e3).toFixed(1) + "K" : String(n || 0); }
   function slugify(s) { return String(s).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "") || "search"; }
   function userLink(u) { return '<a href="#/u/' + encodeURIComponent(u) + '">@' + esc(u) + "</a>"; }
-  function extLink(u) { return '<a href="https://x.com/' + encodeURIComponent(u) + '" target="_blank" rel="noopener noreferrer">@' + esc(u) + "</a>"; }
-
   function known(u) { return state.following.some(function (f) { return f.username.toLowerCase() === (u || "").toLowerCase(); }); }
-  function who(u) { return u ? (known(u) ? userLink(u) : extLink(u)) : "a post"; }
-  // Status ids are decimal snowflakes. Handles use X's username charset. Anything else is not a specific post link.
-  function statusURL(id, username) {
-    if (typeof id !== "string" || !/^[0-9]{1,25}$/.test(id)) return "";
-    var u = typeof username === "string" && /^[A-Za-z0-9_]{1,15}$/.test(username) ? username : "";
-    return u ? "https://x.com/" + encodeURIComponent(u) + "/status/" + id : "https://x.com/i/status/" + id;
+  // Followed accounts stay inside the reader. Everyone else is plain text.
+  function handleHtml(u) {
+    if (!u) return "";
+    return known(u) ? userLink(u) : '<span class="handle">@' + esc(u) + "</span>";
   }
-  function safePostURL(p) {
-    var u = p && p.url;
-    if (typeof u === "string" && /^https:\/\/(x|twitter)\.com\/[^\s<>"']+$/.test(u)) return u;
-    return statusURL(typeof p.id === "string" ? p.id : "", p && p.username);
+  function who(u) { return u ? handleHtml(u) : "a post"; }
+  // Account page heading. followed handles stay on #/u/; a bio uses the same link rules as post text.
+  function userHeader(user, handle, count, following) {
+    var saved = state.following;
+    if (following) state.following = following;
+    try {
+      var u = user && typeof user === "object" ? user : null;
+      var name = u && u.name ? esc(u.name) + " " : "";
+      var desc = u && u.description ? '<br><span>' + linkify(u.description, u) + "</span>" : "";
+      return name + handleHtml(handle) + " · " + count + " saved posts" + desc;
+    } finally {
+      if (following) state.following = saved;
+    }
+  }
+  function timeHtml(iso) {
+    if (!iso) return "";
+    return '<span>·</span><span title="' + esc(iso) + '">' + esc(when(iso)) + "</span>";
   }
   // First post with a given id wins (archive order: main feed, then saved searches).
   function indexPosts(posts) {
@@ -97,17 +184,16 @@
     if (!parent || parent === p || parent.id !== t.id) return null;
     return parent;
   }
-  // Author of a quoted/reposted original: name + @username, no x.com link (followed accounts link in-site).
+  // Author of a quoted or reposted original: name and @username. Followed accounts link in-site.
   function refMeta(r) {
     var u = r.username || "";
     return '<div class="meta"><span class="name">' + esc(r.name || u || "Unknown account") + "</span>" +
-      (u ? (known(u) ? userLink(u) : '<span class="handle">@' + esc(u) + "</span>") : "") +
-      (r.created_at ? '<span>·</span><span title="' + esc(r.created_at) + '">' + esc(when(r.created_at)) + "</span>" : "") + "</div>";
+      (u ? handleHtml(u) : "") + timeHtml(r.created_at) + "</div>";
   }
   function articleLine(t) { return t ? '<div class="article">Article: ' + esc(t) + "</div>" : ""; }
   // The original shown inline: author, full text, and the post it quotes (one level), never a link to it.
   // depth caps a cyclic or very deep quote chain: this post, plus the one post it quotes.
-  function refBlock(r, text, label, media, depth) {
+  function refBlock(r, text, label, media, depth, linkSrc) {
     if (!r || typeof r !== "object") return "";
     depth = depth || 0;
     if (depth >= 2) return "";
@@ -115,9 +201,9 @@
     var q = r.quote;
     if (depth < 1 && q && typeof q === "object" && q !== r) {
       var same = r.id != null && q.id != null && String(r.id) === String(q.id);
-      if (!same) nested = refBlock(q, typeof q.text === "string" ? q.text : "", "❝ Quoting", undefined, depth + 1);
+      if (!same) nested = refBlock(q, typeof q.text === "string" ? q.text : "", "❝ Quoting", undefined, depth + 1, q);
     }
-    var body = typeof text === "string" && text ? textBlock(text) : '<div class="text missing">Text not available.</div>';
+    var body = typeof text === "string" && text ? textBlock(text, linkSrc || r) : '<div class="text missing">Text not available.</div>';
     return '<div class="quote">' + (label ? '<div class="marker">' + label + "</div>" : "") + refMeta(r) +
       articleLine(r.article_title) + body +
       mediaBlock(media === undefined ? r.media : media, r.username) + nested + "</div>";
@@ -181,11 +267,11 @@
 
   // Post text; long text shows a preview + "Show full post" toggle (full text stays in the page, expands inline).
   var tid = 0;
-  function textBlock(text) {
+  function textBlock(text, src) {
     var pv = S.preview(text);
-    if (!pv) return '<div class="text">' + linkify(text) + "</div>";
+    if (!pv) return '<div class="text">' + linkify(text, src) + "</div>";
     var id = "t" + (++tid);
-    return '<div class="text" id="' + id + '"><span class="pv">' + linkify(pv) + '</span><span class="full" hidden>' + linkify(text) +
+    return '<div class="text" id="' + id + '"><span class="pv">' + linkify(pv, src) + '</span><span class="full" hidden>' + linkify(text, src) +
       '</span></div><button type="button" class="expand" aria-expanded="false" aria-controls="' + id + '">Show full post</button>';
   }
   function toggleText(btn) {
@@ -202,26 +288,18 @@
     if (p.kind === "repost") {
       var ref = p.ref && typeof p.ref === "object" && !Array.isArray(p.ref) ? p.ref : {};
       var r = Object.assign({}, ref, { article_title: p.article_title });
-      return refBlock(r, p.text, "", p.media, 0);
+      return refBlock(r, p.text, "", p.media, 0, p);
     }
-    var textHtml = typeof p.text === "string" && p.text ? textBlock(p.text)
-      : (forParent ? '<div class="text missing">Text not available.</div>' : textBlock(p.text));
+    var textHtml = typeof p.text === "string" && p.text ? textBlock(p.text, p)
+      : (forParent ? '<div class="text missing">Text not available.</div>' : textBlock(p.text, p));
     var html = articleLine(p.article_title) + textHtml + mediaBlock(p.media, p.username);
-    if (p.kind === "quote" && p.ref && typeof p.ref === "object" && !Array.isArray(p.ref) && p.ref !== p) html += refBlock(p.ref, p.ref.text, "❝ Quoting", undefined, 0);
+    if (p.kind === "quote" && p.ref && typeof p.ref === "object" && !Array.isArray(p.ref) && p.ref !== p) html += refBlock(p.ref, p.ref.text, "❝ Quoting", undefined, 0, p.ref);
     return html;
   }
   function parentHead(p) {
     var name = esc(p.name || p.username || "Unknown account");
-    var handle = typeof p.username === "string" && p.username ? userLink(p.username) : "";
-    var whenHtml = "";
-    if (p.created_at) {
-      var href = safePostURL(p);
-      var label = esc(when(p.created_at));
-      whenHtml = href
-        ? '<span>·</span><a href="' + esc(href) + '" target="_blank" rel="noopener noreferrer" title="' + esc(p.created_at) + '">' + label + "</a>"
-        : '<span>·</span><span title="' + esc(p.created_at) + '">' + label + "</span>";
-    }
-    return '<div class="meta"><span class="name">' + name + "</span>" + handle + whenHtml + "</div>";
+    var handle = typeof p.username === "string" && p.username ? handleHtml(p.username) : "";
+    return '<div class="meta"><span class="name">' + name + "</span>" + handle + timeHtml(p.created_at) + "</div>";
   }
   // One parent card. Quote/repost context is the embedded ref only — not another archive lookup.
   function parentPreview(parent) {
@@ -231,10 +309,6 @@
       note = '<div class="marker">↩ Replying to ' + who(parent.reply_to.username) + "</div>";
     }
     return '<div class="quote parent">' + note + parentHead(parent) + postContent(parent, true) + "</div>";
-  }
-  function originalLink(id, username) {
-    var href = statusURL(id, username);
-    return href ? '<a class="parent-link" href="' + esc(href) + '" target="_blank" rel="noopener noreferrer">View original post</a>' : "";
   }
   function showParentButton(replyId, parentId, retry) {
     return '<button type="button" class="show-parent" data-reply="' + esc(replyId) + '" data-parent="' + esc(parentId) + '"' +
@@ -249,20 +323,17 @@
     var t = replyTarget(p);
     var c = P.classify(p, state.archive || allPosts(), state.parents, Date.now());
     if (c.kind === "unlinked" || c.kind === "none") {
-      var href = t ? originalLink(t.id, t.username) : "";
-      return '<div class="quote parent missing"><div class="text missing">Original post isn\'t in this archive.</div>' + href + "</div>";
+      return '<div class="quote parent missing"><div class="text missing">Original post isn\'t in this archive.</div></div>';
     }
     var id = String(p.id);
     if (state.shown[id] && c.kind === "ready") return parentPreview(c.post);
     if (state.shown[id] && c.kind === "unavailable") {
       var again = c.retry ? showParentButton(p.id, t.id, true) : "";
-      return '<div class="quote parent missing"><div class="text missing">This post isn\'t available.</div>' +
-        originalLink(t.id, t.username) + again + "</div>";
+      return '<div class="quote parent missing"><div class="text missing">This post isn\'t available.</div>' + again + "</div>";
     }
-    var link = originalLink(t.id, t.username);
-    if (state.loading[id]) return '<div class="parent-slot"><div class="text missing">Loading parent…</div>' + link + "</div>";
-    if (state.notes[id]) return '<div class="parent-slot"><div class="text missing">' + esc(state.notes[id]) + "</div>" + showParentButton(p.id, t.id, false) + link + "</div>";
-    return '<div class="parent-slot">' + showParentButton(p.id, t.id, false) + link + "</div>";
+    if (state.loading[id]) return '<div class="parent-slot"><div class="text missing">Loading parent…</div></div>';
+    if (state.notes[id]) return '<div class="parent-slot"><div class="text missing">' + esc(state.notes[id]) + "</div>" + showParentButton(p.id, t.id, false) + "</div>";
+    return '<div class="parent-slot">' + showParentButton(p.id, t.id, false) + "</div>";
   }
 
   function renderPost(p) {
@@ -270,8 +341,7 @@
     var marker = "", m = p.metrics || {};
     if (p.kind === "repost") marker = '<div class="marker">⟲ ' + esc(p.name || p.username) + " reposted</div>";
     else if (p.reply_to) marker = '<div class="marker">↩ Replying to ' + who(p.reply_to && p.reply_to.username) + "</div>";
-    var head = '<div class="meta"><span class="name">' + esc(p.name) + "</span>" + userLink(p.username) +
-      '<span>·</span><a href="' + esc(p.url) + '" target="_blank" rel="noopener noreferrer" title="' + esc(p.created_at) + '">' + esc(when(p.created_at)) + "</a></div>";
+    var head = '<div class="meta"><span class="name">' + esc(p.name) + "</span>" + handleHtml(p.username) + timeHtml(p.created_at) + "</div>";
     var context = (p.kind !== "repost" && p.reply_to) ? parentSlot(p) : "";
     return '<li class="post">' + marker + context + head + postContent(p) +
       '<div class="foot"><span>' + num(m.replies) + " replies</span><span>" + num(m.reposts) + " reposts</span><span>" +
@@ -316,7 +386,7 @@
     if (r.view === "u") {
       var u = state.following.filter(function (f) { return f.username.toLowerCase() === r.arg.toLowerCase(); })[0];
       list = S.search(allPosts(), "from:" + r.arg + (r.q ? " " + r.q : ""));
-      label = (u ? esc(u.name) + " " : "") + extLink(r.arg) + " · " + list.length + " saved posts" + (u && u.description ? '<br><span>' + linkify(u.description) + "</span>" : "");
+      label = userHeader(u, r.arg, list.length);
     } else if (r.view === "search") {
       list = S.search(allPosts(), r.q);
       label = list.length + " result" + (list.length === 1 ? "" : "s") + " in " + allPosts().length + " saved posts";
@@ -632,6 +702,6 @@
   }
 
   if (typeof module !== "undefined" && module.exports) {
-    module.exports = { renderList: renderList, indexPosts: indexPosts, combinedArchive: combinedArchive, statusURL: statusURL, parentClick: P.parentClick };
+    module.exports = { renderList: renderList, indexPosts: indexPosts, combinedArchive: combinedArchive, userHeader: userHeader, parentClick: P.parentClick };
   } else boot();
 })(typeof window !== "undefined" ? window : this);

@@ -30,6 +30,26 @@ function uniqueControls(html, label) {
   let m;
   while ((m = re.exec(html))) ok(ids.indexOf(m[1]) >= 0, label + " aria-controls " + m[1]);
 }
+function hrefsOf(html) {
+  const out = [];
+  const re = /href\s*=\s*(["'])([\s\S]*?)\1/gi;
+  let m;
+  while ((m = re.exec(html))) {
+    out.push(m[2].replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, "<").replace(/&gt;/g, ">"));
+  }
+  return out;
+}
+function isXHref(h) {
+  let host = "";
+  try { host = new URL(h).hostname.toLowerCase().replace(/\.+$/g, ""); }
+  catch (e) { return /(?:^|\/\/|@)(?:[\w.-]+\.)?(?:x\.com|twitter\.com|t\.co)(?:[:/]|$)/i.test(h); }
+  return host === "x.com" || host === "twitter.com" || host === "t.co" ||
+    host.endsWith(".x.com") || host.endsWith(".twitter.com") || host.endsWith(".t.co");
+}
+function assertNoX(html, label) {
+  const bad = hrefsOf(html).filter(isXHref);
+  eq(bad.join(" "), "", label + " X href " + bad.join(" "));
+}
 // Revealed parents: the reader already clicked Show parent. The closed feed does not pass shown.
 function open(list, archive, opts) {
   const shown = (list || []).filter(Boolean).map((p) => p.id);
@@ -63,11 +83,6 @@ const quotedArchiveCopy = P({
   url: "https://x.com/ns123abc/status/" + QUOTE_ID,
 });
 
-eq(R.statusURL(PARENT_ID, "elonmusk"), "https://x.com/elonmusk/status/" + PARENT_ID, "status url");
-eq(R.statusURL("42", ""), "https://x.com/i/status/42", "id-only status url");
-eq(R.statusURL("42", "bad handle"), "https://x.com/i/status/42", "unsafe handle dropped");
-eq(R.statusURL("12<script>", "elonmusk"), "", "unsafe id dropped");
-eq(R.statusURL("42", "a<b"), "https://x.com/i/status/42", "unsafe handle does not enter the path");
 ok(String(2116968674590441904) !== PARENT_ID, "snowflake does not round-trip through Number");
 
 function assertPreview(html, label) {
@@ -84,7 +99,9 @@ function assertPreview(html, label) {
   ok(html.includes('<span class="handle">@ns123abc</span>'), label + " quote author is text");
   ok(!html.includes('href="https://x.com/ns123abc"'), label + " quote author is not an x.com link");
   ok(html.includes('href="#/u/elonmusk"'), label + " followed parent author links in-site");
-  ok(html.includes('href="https://x.com/elonmusk/status/' + PARENT_ID + '"'), label + " parent date links to the status");
+  ok(html.includes('<span title="2026-11-01T19:00:38.000Z">'), label + " parent date is plain text");
+  ok(!/<a\b[^>]*title="2026-11-01T19:00:38.000Z"/.test(html), label + " parent date is not a link");
+  assertNoX(html, label);
   ok(html.includes("Show full post"), label + " long quote can expand");
   ok(html.includes('class="full" hidden'), label + " full quote text stays in the page");
   ok(html.includes("Show 2 photos"), label + " media stays behind a label");
@@ -144,17 +161,18 @@ assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
   const html = R.renderList([reply], [reply, quotedArchiveCopy], following);
   ok(html.includes("Show parent"), "uncached parent offers a button");
   ok(!html.includes("Original post isn't in this archive."), "uncached is not described as already missing");
-  ok(html.includes('href="https://x.com/elonmusk/status/' + PARENT_ID + '"'), "specific original-post link");
-  ok(html.includes("View original post"), "link label");
-  ok(html.includes('rel="noopener noreferrer"'), "external link rel");
+  ok(!html.includes("View original post"), "no original-post link");
+  assertNoX(html, "uncached parent");
   ok(!html.includes(PARENT_TEXT) && !html.includes("be Greg Brockman"), "missing parent has no invented text");
   ok(!html.includes("workers.dev"), "button does not prefetch");
   ok(html.includes(REPLY_TEXT), "reply still renders");
   const bare = R.renderList([P({ id: "77", kind: "reply", username: "elonmusk", name: "Elon Musk", text: "id only", reply_to: { id: "88" } })], [], following);
-  ok(bare.includes('href="https://x.com/i/status/88"') && bare.includes("Show parent"), "id-only original link");
+  ok(bare.includes("Show parent") && !bare.includes("View original post"), "id-only reply has a button and no status link");
+  assertNoX(bare, "id-only reply");
   const noId = R.renderList([P({ id: "78", kind: "reply", username: "zoe", name: "Zoe", text: "no id", reply_to: { username: "bob" } })], [], []);
   ok(noId.includes("Original post isn't in this archive.") && !noId.includes("Show parent"), "no id means no fetch button");
-  ok(noId.includes("@bob"), "handle still shown");
+  ok(noId.includes('<span class="handle">@bob</span>'), "unfollowed handle is plain text");
+  assertNoX(noId, "handle-only reply");
   const cached = P({ id: PARENT_ID, username: "outsider", name: "Outside", text: "CACHED_PARENT_TEXT", url: "https://x.com/outsider/status/" + PARENT_ID });
   const fromCache = open([reply], [reply], { parents: { posts: [cached], missing: [] } });
   ok(fromCache.includes("CACHED_PARENT_TEXT") && count(fromCache, "<li") === 1, "cache parent is context, not a feed row");
@@ -221,7 +239,8 @@ assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
   const html = R.renderList([row], [row], following);
   eq(count(html, "SELF_TEXT"), 1, "self reply text once");
   ok(html.includes("Original post isn't in this archive."), "self reference uses the fallback");
-  ok(html.includes('href="https://x.com/elonmusk/status/15"'), "self reference still links to that status");
+  ok(!html.includes("View original post"), "self reference has no status link");
+  assertNoX(html, "self reference");
   ok(!html.includes("Show parent"), "self reference is not a fetch");
 }
 
@@ -257,7 +276,8 @@ assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
   eq(count(html, "LOOP_TEXT"), 1, "self-quote renders once");
   eq(count(html, "CYCLE_A"), 1, "object cycle renders A once");
   eq(count(html, "CYCLE_B"), 1, "object cycle renders B once");
-  ok(html.includes('href="https://x.com/i/status/42"'), "bad username falls back to the id link");
+  assertNoX(html, "malformed rows");
+  ok(!html.includes("View original post"), "malformed rows have no status link");
   ok(html.includes("string ref") && html.includes("array ref"), "malformed rows still render");
 
   const nastyParent = P({
@@ -275,7 +295,9 @@ assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
   ok(!/<\/(script|img|svg|b)\b/i.test(unsafe), "names and text are escaped: " + unsafe.slice(0, 400));
   ok(unsafe.includes("&lt;img") && unsafe.includes("&amp;") && unsafe.includes("&lt;svg") && unsafe.includes("&lt;script&gt;"), "escaped text is present");
   ok(!unsafe.includes("javascript:"), "javascript URL is dropped");
-  ok(unsafe.includes('href="https://x.com/elonmusk/status/10"'), "parent link rebuilt from id");
+  ok(unsafe.includes('title="not-a-date"'), "invalid parent date stays a tooltip");
+  assertNoX(unsafe, "unsafe parent");
+  ok(!unsafe.includes("View original post"), "unsafe parent has no status link");
   ok(!unsafe.includes("evil.example") && !unsafe.includes("reply-only.jpg") && !unsafe.includes("https://x.com/a.jpg"), "media URLs stay out of the HTML");
   ok(unsafe.includes("Show 2 photos"), "reply media label still renders");
   ok(unsafe.includes("plain reply"), "reply text remains");
@@ -311,12 +333,138 @@ assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
     ok(html.includes("be Greg Brockman"), "live embedded quote");
     ok(!html.includes(PHOTO_A) && !html.includes(PHOTO_B), "live media URLs withheld");
     ok(html.includes("Show 2 photos") && html.includes("Show full post"), "live quote media and long text");
+    assertNoX(html, "live reply");
+    ok(!html.includes("View original post"), "live parent card has no status link");
     uniqueControls(html, "live");
     const gone = R.renderList([liveReply], posts.filter((p) => p.id !== PARENT_ID), following);
-    ok(gone.includes('href="https://x.com/elonmusk/status/' + PARENT_ID + '"'), "live reply falls back to the status link");
+    assertNoX(gone, "live reply without its parent");
+    ok(!gone.includes("View original post"), "live reply has no status link");
     ok(!gone.includes(PARENT_TEXT), "removed live parent is not invented");
     ok(gone.includes("Show parent"), "removed live parent can be requested later");
   } else ok(true, "reported posts aged out of data/posts.json; fixture coverage remains");
+}
+
+// No href to X anywhere: reply to someone outside the following list, short links, user heading, parent card.
+{
+  const extReply = P({
+    id: "601", username: "elonmusk", name: "Elon Musk", kind: "reply", text: "plain reply body",
+    created_at: "2026-11-01T19:02:00.000Z", url: "https://x.com/elonmusk/status/601",
+    reply_to: { id: "600", username: "notfollowed" },
+  });
+  const extHtml = R.renderList([extReply], [extReply], following);
+  ok(extHtml.includes("Replying to") && extHtml.includes('<span class="handle">@notfollowed</span>'), "reply handle is plain text");
+  ok(!extHtml.includes('href="https://x.com/notfollowed"') && !extHtml.includes("#/u/notfollowed"), "unfollowed handle is not a link");
+  ok(extHtml.includes('href="#/u/elonmusk"'), "followed author stays in-site");
+  ok(extHtml.includes('<span title="2026-11-01T19:02:00.000Z">'), "reply timestamp keeps its tooltip");
+  ok(!/<a\b[^>]*title="2026-11-01T19:02:00.000Z"/.test(extHtml), "reply timestamp is not a link");
+  ok(extHtml.includes("Show parent") && !extHtml.includes("View original post"), "show parent stays, original link is gone");
+  assertNoX(extHtml, "reply to someone not followed");
+
+  const mediaPost = P({
+    id: "502", username: "elonmusk", name: "Elon Musk", text: "Look https://t.co/media1234567",
+    media: [{ type: "photo", url: "https://pbs.twimg.com/media/abc.jpg", width: 100, height: 100 }],
+    entities: { urls: [{ url: "https://t.co/media1234567", expanded_url: "https://x.com/elonmusk/status/502/photo/1", media_key: "3" }] },
+  });
+  const mediaHtml = R.renderList([mediaPost], [mediaPost], following);
+  ok(mediaHtml.includes("Look") && !mediaHtml.includes("t.co") && !mediaHtml.includes("/photo/1"), "media short link is omitted");
+  ok(mediaHtml.includes("Show photo") && !mediaHtml.includes("pbs.twimg.com"), "photo stays behind its button");
+  assertNoX(mediaHtml, "post with a media short link");
+
+  const bareMedia = P({
+    id: "503", username: "elonmusk", name: "Elon Musk", text: "Clip https://t.co/noEntityMed",
+    media: [{ type: "video", url: "https://video.twimg.com/tweet_video/v.mp4" }],
+  });
+  const bareMediaHtml = R.renderList([bareMedia], [bareMedia], following);
+  ok(bareMediaHtml.includes("https://t.co/noEntityMed") && bareMediaHtml.includes("Show video"), "short link without a destination stays text");
+  assertNoX(bareMediaHtml, "media post without an expanded URL");
+
+  const article = P({
+    id: "501", username: "elonmusk", name: "Elon Musk",
+    text: "Read this https://t.co/abcDEF1234 today",
+    entities: { urls: [{ url: "https://t.co/abcDEF1234", expanded_url: "https://example.com/story", display_url: "example.com/story" }] },
+  });
+  const articleHtml = R.renderList([article], [article], following);
+  ok(articleHtml.includes('href="https://example.com/story"'), "article short link uses the expanded destination");
+  ok(articleHtml.includes('rel="noopener noreferrer nofollow"'), "external link keeps nofollow");
+  ok(articleHtml.includes(">example.com/story</a>") && articleHtml.includes("Read this ") && articleHtml.includes(" today"), "destination is the visible link text");
+  ok(!articleHtml.includes("t.co"), "article short link is not left in the text");
+  assertNoX(articleHtml, "post with an article short link");
+
+  const mixed = P({
+    id: "504", username: "elonmusk", name: "Elon Musk",
+    text: 'plain https://x.com/someone/status/1 and https://twitter.com/someone/status/2 plus https://example.com/a?b=1&c=2 end',
+  });
+  const mixedHtml = R.renderList([mixed], [mixed], following);
+  ok(mixedHtml.includes("https://x.com/someone/status/1") && mixedHtml.includes("https://twitter.com/someone/status/2"), "X URLs stay visible as text");
+  ok(mixedHtml.includes('href="https://example.com/a?b=1&amp;c=2"'), "a non-X URL is still linked");
+  eq(hrefsOf(mixedHtml).filter((h) => h.indexOf("example.com") >= 0).length, 1, "only the safe URL is an anchor");
+  assertNoX(mixedHtml, "post that mentions X by URL");
+
+  const blockedExpand = P({
+    id: "505", username: "elonmusk", name: "Elon Musk", text: "see https://t.co/toXstatus1",
+    entities: { urls: [{ url: "https://t.co/toXstatus1", expanded_url: "https://twitter.com/someone/status/9" }] },
+  });
+  const blockedHtml = R.renderList([blockedExpand], [blockedExpand], following);
+  ok(blockedHtml.includes("https://t.co/toXstatus1") && !blockedHtml.includes("twitter.com/someone"), "an expanded X URL is not written out as a link");
+  assertNoX(blockedHtml, "short link that expands onto X");
+
+  const outsider = P({
+    id: "700", username: "outsider", name: "Outside Person", created_at: "2026-11-02T01:02:03.000Z",
+    text: "PARENT_BLOCK_TEXT https://t.co/parentTco1", url: "https://x.com/outsider/status/700",
+    entities: { urls: [{ url: "https://t.co/parentTco1", expanded_url: "https://example.com/parent-article" }] },
+  });
+  const child = P({
+    id: "701", username: "elonmusk", name: "Elon Musk", kind: "reply", text: "CHILD_BLOCK_TEXT",
+    created_at: "2026-11-02T02:00:00.000Z", url: "https://x.com/elonmusk/status/701",
+    reply_to: { id: "700", username: "outsider" },
+  });
+  const closedParent = R.renderList([child], [child, outsider], following);
+  ok(closedParent.includes("Show parent") && !closedParent.includes("PARENT_BLOCK_TEXT") && !closedParent.includes("View original post"), "closed parent block");
+  ok(closedParent.includes('<span class="handle">@outsider</span>'), "closed reply names the outsider in plain text");
+  assertNoX(closedParent, "closed parent block");
+  const openParent = open([child], [child, outsider]);
+  ok(openParent.includes("PARENT_BLOCK_TEXT") && openParent.includes('href="https://example.com/parent-article"'), "open parent shows its article");
+  ok(openParent.includes('<span title="2026-11-02T01:02:03.000Z">'), "parent timestamp is plain text");
+  ok(openParent.includes('<span class="handle">@outsider</span>') && openParent.includes('href="#/u/elonmusk"'), "parent handle is plain, reply author stays in-site");
+  ok(!openParent.includes("View original post") && !openParent.includes("Show parent"), "open parent has no outbound status link");
+  assertNoX(openParent, "open parent block");
+
+  const header = R.userHeader({
+    username: "elonmusk", name: "Elon Musk",
+    description: "bio https://t.co/BioShort01 and https://twitter.com/elonmusk",
+    entities: { description: { urls: [{ url: "https://t.co/BioShort01", expanded_url: "https://example.com/about" }] } },
+  }, "elonmusk", 4, following);
+  ok(header.startsWith("Elon Musk ") && header.includes('href="#/u/elonmusk"') && header.includes(" · 4 saved posts"), "user page header");
+  ok(header.includes('href="https://example.com/about"') && header.includes("https://twitter.com/elonmusk") && !header.includes("t.co"), "bio expands only the safe short link");
+  assertNoX(header, "user page header");
+  const plainBio = R.userHeader({ username: "elonmusk", name: "Elon Musk", description: "https://t.co/ZdBx5WABYx" }, "elonmusk", 1, following);
+  ok(plainBio.includes("https://t.co/ZdBx5WABYx"), "bio short link without a destination stays text");
+  assertNoX(plainBio, "user bio without an expanded URL");
+  const stranger = R.userHeader({ name: "Nope", description: "https://x.com/nope" }, "nope", 0, following);
+  ok(stranger.includes('<span class="handle">@nope</span>') && !stranger.includes("#/u/"), "unknown account header is plain text");
+  ok(stranger.includes("https://x.com/nope"));
+  assertNoX(stranger, "unknown user page header");
+}
+
+// Published JSON, read only: every rendered post, parent card, and account header.
+{
+  const dir = path.join(__dirname, "..", "data");
+  const posts = JSON.parse(fs.readFileSync(path.join(dir, "posts.json"), "utf8"));
+  const parents = JSON.parse(fs.readFileSync(path.join(dir, "parents.json"), "utf8"));
+  const users = JSON.parse(fs.readFileSync(path.join(dir, "following.json"), "utf8")).users || [];
+  const list = posts.posts || [];
+  const html = R.renderList(list, list, users, { shown: list.map((p) => p.id), parents: parents });
+  assertNoX(html, "published archive");
+  ok(!html.includes("View original post"), "published archive has no original-post link");
+  users.forEach((u) => assertNoX(R.userHeader(u, u.username, 1, users), "published header " + u.username));
+}
+
+// The page source must not build an outbound X URL. The host blocklist is a bare name, not a URL.
+{
+  const files = ["app.js", "search.js", "parent.js", "index.html", "style.css"];
+  const src = files.map((f) => fs.readFileSync(path.join(__dirname, "..", f), "utf8")).join("\n");
+  ok(!/https?:\/\/(?:[\w.-]+\.)?(?:x\.com|twitter\.com|t\.co)\b/i.test(src), "site files do not contain an X URL");
+  ok(!/href\s*=\s*["'][^"']*(?:x\.com|twitter\.com|t\.co)/i.test(src), "site files do not write an X href");
 }
 
 console.log("render tests passed: " + n);

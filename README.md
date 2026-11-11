@@ -47,9 +47,13 @@ Search syntax: `word word` (AND), `"exact phrase"`, `a OR b`, `-word`, `(group)`
 `until:YYYY-MM-DD` (UTC, exclusive), `lang:en`. Results are always newest first.
 
 Quotes and reposts show the original inline: author (name + @username), date and full text (plus the post
-it quotes, one level), with no link to it on x.com. Search also matches the quoted text and author.
+it quotes, one level). Search also matches the quoted text and author.
 
-A reply starts with **Show parent** and a link to that status. The click reveals the parent when it is already
+Nothing on the page links to X. Timestamps are plain text, with the full timestamp in a tooltip. An @handle
+of an account in the following list links to `#/u/<handle>`, including on that account's own page. Every
+other @handle, including "Replying to", is plain text. There is no "View original post" link.
+
+A reply starts with **Show parent**. The click reveals the parent when it is already
 in the loaded archive (main feed plus saved searches, including posts outside the current filter, search, or
 page) or in `data/parents.json`. That reveal is local: it does not call the relay. The preview has the parent's
 author and text, with the same long-text toggle and hidden media. When the parent is a quote or repost, the
@@ -57,13 +61,24 @@ preview also includes the embedded original, one level deep. A parent that is it
 text and a one-line "Replying to" marker, with no further parent button. If the parent is not saved, that same
 click asks the relay for that one post (several clicks in the same moment share one request, at most five).
 Nothing is requested while rendering, scrolling, searching, or refreshing. A saved "not available" result says
-so and links to the original; **Try again** appears a day later and is another explicit click. Search matches a
+so, with no link out; **Try again** appears a day later and is another explicit click. Search matches a
 reply's own text; the resolved parent is display context.
+
+Web addresses in a post or a bio become links only when they are ordinary `http` or `https` URLs on some other
+host (`rel="noopener noreferrer nofollow"`). `x.com`, `twitter.com`, `t.co`, and their subdomains are never
+anchors. A `t.co` short link is replaced with its expanded destination when the post or profile stores a URL
+entity (`entities.urls`, or `entities.description.urls` on a profile) whose `url` is that short link and whose
+`expanded_url` is a safe destination. A short link that points at the post's own photo or video (a stored
+`media_key`, or an expanded address on a pic host or a `/photo/` or `/video/` path) is left out of the text,
+because **Show photo** / **Show video** already covers it. A `t.co` link with no safe destination is shown as
+plain text. The public JSON does not carry those entities today: `urls` is a list of strings and is empty
+whenever the text still contains `t.co`, and profile bios are the same. The private refresh would need to copy
+each short link's expanded URL into that entity shape. This repo does not include that pipeline.
 
 Long text (the post, a quoted/reposted original, or a nested quote) over 300 characters or 6 lines shows a
 preview (cut at 280 characters on a word boundary, never inside a link, or after 6 lines) ending in "…" and a
 **Show full post** button that expands it inline (**Show less** collapses it); the full text is already in the page
-and search always matches it. The helper is `XSearch.preview` in `search.js`. Posts have no "open on X" link.
+and search always matches it. The helper is `XSearch.preview` in `search.js`.
 
 Media stay hidden. A post (or quoted/reposted original, or nested quote) that had photos, videos or GIFs shows
 one small label button instead, e.g. **Show photo**, **Show 2 photos**, **Show video (0:42)**, **Show GIF**
@@ -86,7 +101,7 @@ stages only this hard-coded list, never `git add -A` / `git add .`: `.gitignore`
 `data/saved-searches/` (status-only refresh runs stage just `data/posts.json`; a parent lookup stages just
 `data/parents.json`).
 
-## Tests (fake data only, plus one public reply/parent fixture in the render tests; they do not read `data/`)
+## Tests (fake data, one public reply/parent fixture, and a read-only sweep of the published JSON for outbound X links)
     node tests/search.test.js
     node tests/render.test.js
     node tests/parent.test.js

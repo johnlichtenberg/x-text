@@ -1,7 +1,607 @@
 {
  "id": "2026-11",
- "updated_at": "2026-11-11T02:53:20Z",
+ "updated_at": "2026-11-11T04:06:42Z",
  "posts": [
+  {
+   "id": "2120346761084780893",
+   "username": "agrimsingh",
+   "name": "agrim singh",
+   "created_at": "2026-11-11T02:43:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/agrimsingh/status/2120346761084780893",
+   "kind": "reply",
+   "text": "@mattyp @kristaletz @spacexai can we go for a walk next week when i'm at the sf office lol @ericzakariasson let's goooo",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120336523291979902",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120344715707203685",
+   "username": "Mattcall",
+   "name": "Matt",
+   "created_at": "2026-11-11T02:35:48.000Z",
+   "lang": "en",
+   "url": "https://x.com/Mattcall/status/2120344715707203685",
+   "kind": "reply",
+   "text": "@ForwardEditor @Apple Maybe we tag small content creators like @MatthewBerman, @mattyp, @theo, @AdamHoltererer, @johnternus, @tetsuoai, @tim_cook, and @poteto to see if any of them can help with their small sphere of influence?\n\nPlease help Brian avoid disaster.",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120343229656666171",
+    "username": "ForwardEditor"
+   }
+  },
+  {
+   "id": "2120342181609447483",
+   "username": "neelfx",
+   "name": "Neel",
+   "created_at": "2026-11-11T02:25:44.000Z",
+   "lang": "und",
+   "url": "https://x.com/neelfx/status/2120342181609447483",
+   "kind": "reply",
+   "text": "@mattyp @kristaletz @spacexai LFG!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWz3-bwWYAARZ0Q.jpg",
+     "width": 945,
+     "height": 2048
+    }
+   ],
+   "reply_to": {
+    "id": "2120336523291979902",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120341953640599848",
+   "username": "stargzer42",
+   "name": "Lindsay",
+   "created_at": "2026-11-11T02:24:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/stargzer42/status/2120341953640599848",
+   "kind": "reply",
+   "text": "@mattyp @kristaletz @spacexai You gotta pump those numbers up 😏",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWz3xMqW4AApj3z.jpg",
+     "width": 1179,
+     "height": 1502
+    }
+   ],
+   "reply_to": {
+    "id": "2120336523291979902",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120335889897525606",
+   "username": "kristaletz",
+   "name": "Krista Letz",
+   "created_at": "2026-11-11T02:00:44.000Z",
+   "lang": "en",
+   "url": "https://x.com/kristaletz/status/2120335889897525606",
+   "kind": "quote",
+   "text": "matt’s step count since he joined @spacexai 📈",
+   "urls": [],
+   "metrics": {
+    "likes": 67,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2120206234804727821",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-10T17:25:32.000Z",
+    "text": "What's new in Grok Bot\n\n00:00 🌁\n00:10 Phone calls\n01:02 Share sheet\n01:27 X cards\n01:40 Shopping deals\n01:58 Gifts\n02:26 Team Bots\n03:06 Search\n03:21 Hidden-instruction warnings\n03:37 Attachments on drafts\n03:52 Sign-outs\n04:16 Weather\n05:09 Rapid fire\n06:52 A note on usage",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2120203858526048256/vid/avc1/3840x2160/U5EeHLvQ6n3p7j0C.mp4",
+      "poster": "https://pbs.twimg.com/media/HWx73MmbwAA0Umw.jpg",
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 448746
+     }
+    ]
+   }
+  },
+  {
+   "id": "2120335105277272272",
+   "username": "agrimsingh",
+   "name": "agrim singh",
+   "created_at": "2026-11-11T01:57:37.000Z",
+   "lang": "en",
+   "url": "https://x.com/agrimsingh/status/2120335105277272272",
+   "kind": "quote",
+   "text": "you know it's a good grok @bot day when @mattyp goes on a walk",
+   "urls": [],
+   "metrics": {
+    "likes": 21,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2120206234804727821",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-10T17:25:32.000Z",
+    "text": "What's new in Grok Bot\n\n00:00 🌁\n00:10 Phone calls\n01:02 Share sheet\n01:27 X cards\n01:40 Shopping deals\n01:58 Gifts\n02:26 Team Bots\n03:06 Search\n03:21 Hidden-instruction warnings\n03:37 Attachments on drafts\n03:52 Sign-outs\n04:16 Weather\n05:09 Rapid fire\n06:52 A note on usage",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2120203858526048256/vid/avc1/3840x2160/U5EeHLvQ6n3p7j0C.mp4",
+      "poster": "https://pbs.twimg.com/media/HWx73MmbwAA0Umw.jpg",
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 448746
+     }
+    ]
+   }
+  },
+  {
+   "id": "2120325243516719604",
+   "username": "Atronikus",
+   "name": "Kirby",
+   "created_at": "2026-11-11T01:18:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/Atronikus/status/2120325243516719604",
+   "kind": "reply",
+   "text": "@mattyp Great stuff! Really happy to see these whenever they come up on the TL",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120321435302535491",
+   "username": "joelcomm",
+   "name": "Joel Comm",
+   "created_at": "2026-11-11T01:03:18.000Z",
+   "lang": "en",
+   "url": "https://x.com/joelcomm/status/2120321435302535491",
+   "kind": "reply",
+   "text": "@mattyp Matt, can a scheduled routine place a phone call, or does every call need someone to tap Call? I'd love one of my bots to handle the hold music while I'm on stage.",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120305164922003644",
+   "username": "pheriwinkle",
+   "name": "pheriwinkle",
+   "created_at": "2026-11-10T23:58:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/pheriwinkle/status/2120305164922003644",
+   "kind": "reply",
+   "text": "@mattyp I love these concise update videos.  Especially as a San Franciscan, trying to spot where you are walking.",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120299107164057991",
+   "username": "hauntedbrowser",
+   "name": "corey",
+   "created_at": "2026-11-10T23:34:35.000Z",
+   "lang": "en",
+   "url": "https://x.com/hauntedbrowser/status/2120299107164057991",
+   "kind": "reply",
+   "text": "@mattyp @kiaraplds Nice Easter egg 👆🏻",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120299099475824640/vid/avc1/1280x588/ie6hYwtNjKNcBlhI.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120299099475824640/img/UO6B9e6hCqdWtVHQ.jpg",
+     "width": 1280,
+     "height": 588,
+     "duration_ms": 1581
+    }
+   ],
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120275949963075687",
+   "username": "agustinponcedl",
+   "name": "Agustinto",
+   "created_at": "2026-11-10T22:02:33.000Z",
+   "lang": "en",
+   "url": "https://x.com/agustinponcedl/status/2120275949963075687",
+   "kind": "reply",
+   "text": "@mattyp Love the videos, keep it up matt!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120268045138718930",
+   "username": "hacker34",
+   "name": "Johnny Hacking",
+   "created_at": "2026-11-10T21:31:09.000Z",
+   "lang": "en",
+   "url": "https://x.com/hacker34/status/2120268045138718930",
+   "kind": "reply",
+   "text": "@mattyp Thank you and the team for all the hard work!!!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120259973099733318",
+   "username": "Aa9397348",
+   "name": "R",
+   "created_at": "2026-11-10T20:59:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/Aa9397348/status/2120259973099733318",
+   "kind": "reply",
+   "text": "@mattyp On behalf of the Grok Bot community:\nWe love you Matt!\n\nPlease keep up the great work and updates! You are making our lives more enjoyable and easier!\n\nThank you, keep rocking and Godspeed!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120258364324368849",
+   "username": "wesselvk",
+   "name": "Wessel van Keulen",
+   "created_at": "2026-11-10T20:52:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/wesselvk/status/2120258364324368849",
+   "kind": "reply",
+   "text": "@mattyp @kiaraplds Good summary video. I’ll try shopping. Any idea when phone calls become available in the Netherlands?",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120243131996401937",
+   "username": "nickwm",
+   "name": "Nick Miller",
+   "created_at": "2026-11-10T19:52:09.000Z",
+   "lang": "en",
+   "url": "https://x.com/nickwm/status/2120243131996401937",
+   "kind": "reply",
+   "text": "@mattyp 👀 Lauren Tan WhatsApp flex spotted",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120238288795509126",
+   "username": "TheKentCalero",
+   "name": "Kent Calero",
+   "created_at": "2026-11-10T19:32:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/TheKentCalero/status/2120238288795509126",
+   "kind": "reply",
+   "text": "@mattyp @mattyp this was an amazing update. We need these things to make it to YouTube or another centralized place. This was great, thank you for everything you all are doing, and thank you for keeping us informed.",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120228430012690901",
+   "username": "HRosenstr",
+   "name": "Matthias H. Rosenstrøm",
+   "created_at": "2026-11-10T18:53:44.000Z",
+   "lang": "en",
+   "url": "https://x.com/HRosenstr/status/2120228430012690901",
+   "kind": "reply",
+   "text": "@mattyp Thank for an amazing product 🙌🏻",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120228244779859972",
+   "username": "priddysharp",
+   "name": "Chris Priddy",
+   "created_at": "2026-11-10T18:53:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/priddysharp/status/2120228244779859972",
+   "kind": "reply",
+   "text": "@mattyp Love this style of updates. Thanks Matt! Great work! We appreciate it",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120227737575293209",
+   "username": "jaylams0311",
+   "name": "Jay",
+   "created_at": "2026-11-10T18:50:59.000Z",
+   "lang": "en",
+   "url": "https://x.com/jaylams0311/status/2120227737575293209",
+   "kind": "reply",
+   "text": "@mattyp dude, GB is changing my life for the better ! thank you !",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120218386026414192",
+   "username": "6ummy",
+   "name": "6ummy",
+   "created_at": "2026-11-10T18:13:49.000Z",
+   "lang": "en",
+   "url": "https://x.com/6ummy/status/2120218386026414192",
+   "kind": "reply",
+   "text": "@mattyp Thank you for the updates!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120215072798560298",
+   "username": "matthewpaco",
+   "name": "Matthew Paczkowski",
+   "created_at": "2026-11-10T18:00:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/matthewpaco/status/2120215072798560298",
+   "kind": "reply",
+   "text": "@mattyp Thank you Matt for your updates, great videos and features! Cheers 🫡",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120214563882696910",
+   "username": "jcdeau",
+   "name": "Joel Nedeau",
+   "created_at": "2026-11-10T17:58:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/jcdeau/status/2120214563882696910",
+   "kind": "reply",
+   "text": "@mattyp I really enjoy your posts Matt!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120210553239110126",
+   "username": "SeattleMike2010",
+   "name": "Mike",
+   "created_at": "2026-11-10T17:42:42.000Z",
+   "lang": "en",
+   "url": "https://x.com/SeattleMike2010/status/2120210553239110126",
+   "kind": "reply",
+   "text": "@mattyp These updates are great Matt.",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120209611508662422",
+   "username": "mchalloner11",
+   "name": "Markus",
+   "created_at": "2026-11-10T17:38:57.000Z",
+   "lang": "en",
+   "url": "https://x.com/mchalloner11/status/2120209611508662422",
+   "kind": "reply",
+   "text": "@mattyp You and your team are amazing. Thank you!",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120209580760469826",
+   "username": "johnfitch_",
+   "name": "John Fitch",
+   "created_at": "2026-11-10T17:38:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/johnfitch_/status/2120209580760469826",
+   "kind": "reply",
+   "text": "@mattyp Thanks for continuing to COOK! 🫡",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120208679290949774",
+   "username": "jasonkrauspb",
+   "name": "Jason Kraus",
+   "created_at": "2026-11-10T17:35:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/jasonkrauspb/status/2120208679290949774",
+   "kind": "reply",
+   "text": "@mattyp Keep it coming!  Great work",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
   {
    "id": "2120097824851570997",
    "username": "Dimdv99",
@@ -46,6 +646,27 @@
     "name": "Elon Musk",
     "created_at": "2026-11-10T09:35:59.000Z",
     "text": "We have dumped JAX/SGLang and rewritten the entire RL and inference stack from scratch in C/C++, which took some extra time.\n\nTraining (aka pre-training) is done. Lot of cleanup was needed on the SFT data to get that mostly right. Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes.\n\nGrok 4.8 will bear no resemblance to 4.7 (thankfully). It is not yet incredible, but, this time, the foundations are built right, so I expect it to evolve to be something special."
+   }
+  },
+  {
+   "id": "2120089497538810162",
+   "username": "Owl_of_Atena",
+   "name": "ⓧ Owl of Atena X1",
+   "created_at": "2026-11-10T09:41:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/Owl_of_Atena/status/2120089497538810162",
+   "kind": "reply",
+   "text": "@elonmusk @cradrrat Was it written in Rust? Why did you rewrite it in C/C++ ?",
+   "urls": [],
+   "metrics": {
+    "likes": 308,
+    "reposts": 16,
+    "replies": 16,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120088070443655190",
+    "username": "elonmusk"
    }
   },
   {

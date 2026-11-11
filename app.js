@@ -489,6 +489,18 @@
     var path = String(rel || "").replace(/^data\//, "");
     return DATA_FILE.test(path) || SHARD_FILE.test(path);
   }
+  // ISO timestamps sort in time order. A newer last_run wins, then updated_at, then the index version.
+  function indexStamp(text) {
+    try {
+      var doc = JSON.parse(text);
+      var run = doc.last_run && typeof doc.last_run.at === "string" ? doc.last_run.at : "";
+      return run + "\n" + (doc.updated_at || "") + "\n" + (doc.version || "");
+    } catch (e) { return ""; }
+  }
+  function pickIndex(relayText, pagesText) {
+    if (relayText && pagesText) return indexStamp(relayText) >= indexStamp(pagesText) ? relayText : pagesText;
+    return relayText || pagesText || "";
+  }
   function getText(url) {
     return fetch(url + "?t=" + Date.now(), { cache: "no-store" }).then(function (r) {
       if (!r.ok) throw new Error(url + " " + r.status);
@@ -506,6 +518,25 @@
     });
   }
   function getFresh(rel) { return relayData(rel).catch(function () { return getText(rel); }); }
+  // KV can lag for up to 60s at another edge. Take whichever index is newer, relay or Pages.
+  function readIndexText() {
+    var headers = {};
+    if (sess.indexEtag) headers["If-None-Match"] = sess.indexEtag;
+    var relay = dataPathOk("data/index.json") ? fetch(relayOrigin() + "/d/index.json", {
+      cache: "no-store", credentials: "omit", referrerPolicy: "no-referrer", headers: headers
+    }).then(function (r) {
+      var etag = r.headers.get("etag") || sess.indexEtag || "";
+      if (r.status === 304) return { text: sess.watch || "", etag: etag };
+      if (!r.ok) throw new Error("relay " + r.status);
+      return r.text().then(function (text) { return { text: text, etag: etag }; });
+    }).catch(function () { return null; }) : Promise.resolve(null);
+    return Promise.all([relay, getText("data/index.json").catch(function () { return ""; })]).then(function (both) {
+      var fromRelay = both[0];
+      var chosen = pickIndex(fromRelay && fromRelay.text, both[1]);
+      if (fromRelay && chosen && chosen === fromRelay.text) sess.indexEtag = fromRelay.etag || sess.indexEtag;
+      return chosen;
+    });
+  }
   function getFreshJSON(rel) { return getFresh(rel).then(JSON.parse); }
   function addPosts(list) {
     var seen = {};
@@ -579,7 +610,7 @@
       state.config = { site_title: site.site_title, saved_searches: site.saved_searches || [], refresh_url: site.refresh_url || "" };
       return Promise.all([
         getFreshJSON("data/following.json").catch(function () { return {}; }),
-        getFresh("data/index.json").catch(function () { return ""; }),
+        readIndexText(),
         getFreshJSON("data/parents.json").catch(function () { return { posts: [], missing: [] }; }),
         loadSaved(site)
       ]).then(function (res) {
@@ -650,7 +681,7 @@
     $("updated").textContent = "Refreshing…";
     function tick() {
       if (Date.now() - started > 180000) { stopPoll(); rstatus("No response after 3 min: the refresh may still be running. Tap Refresh again later."); return; }
-      getFresh(sess.watchRel || "data/index.json").then(function (text) {
+      (sess.watchRel === "data/posts.json" ? getFresh("data/posts.json") : readIndexText()).then(function (text) {
         if (text === before) return;
         var doc = JSON.parse(text);
         if (JSON.stringify(doc.last_run || null) === before_run && doc.updated_at === (state.meta && state.meta.updated_at)) return;
@@ -866,6 +897,7 @@
 
   if (typeof module !== "undefined" && module.exports) {
     module.exports = { renderList: renderList, indexPosts: indexPosts, combinedArchive: combinedArchive, userHeader: userHeader,
-      parentClick: P.parentClick, homeShardIds: homeShardIds, shardList: shardList, dataPathOk: dataPathOk };
+      parentClick: P.parentClick, homeShardIds: homeShardIds, shardList: shardList, dataPathOk: dataPathOk,
+      indexStamp: indexStamp, pickIndex: pickIndex };
   } else boot();
 })(typeof window !== "undefined" ? window : this);

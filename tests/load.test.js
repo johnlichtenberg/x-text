@@ -44,4 +44,11 @@ eq(gate.pairs.length, pairIds.size, "gate lists each saved reply once");
 ok(gate.pairs.every((pair) => pairIds.has(pair[0] + ":" + pair[1])), "gate pairs are real reply parents");
 eq(gate.post_ids.length, posts.posts.length, "gate lists every post id");
 
+const older = '{"updated_at":"2026-11-01T00:00:00Z","last_run":{"at":"2026-11-01T00:00:00Z"},"version":"aaaaaaaaaaaaaaaa"}';
+const newer = '{"updated_at":"2026-11-11T00:00:00Z","last_run":{"at":"2026-11-11T00:00:00Z"},"version":"bbbbbbbbbbbbbbbb"}';
+eq(R.pickIndex(older, newer), newer, "a newer Pages index wins over a stale relay");
+eq(R.pickIndex(newer, older), newer, "a newer relay index wins over Pages");
+eq(R.pickIndex("", older), older, "a missing relay index uses Pages");
+ok(R.indexStamp(newer) > R.indexStamp(older), "index stamps follow last_run time");
+
 console.log("load tests passed: " + n);

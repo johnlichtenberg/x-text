@@ -8,7 +8,9 @@ and blocks every other host).
 
 ## Data
 The page loads plain JSON. It tries the relay (`GET /d/<file>` on the same host as `refresh_url`) and, if
-that is missing, the copy on GitHub Pages. `data/index.json` lists post shards (`data/shards/<month>.json`,
+that is missing or older, the copy on GitHub Pages. The relay keeps each file in Workers KV. KV can take
+up to a minute to show a write at every edge, so the page keeps the copy of `index.json` with the newer
+`last_run` and sends that copy's ETag on the next check. `data/index.json` lists post shards (`data/shards/<month>.json`,
 at most 400 posts each, newest shard first). The home view loads only the newest shard; **Show older posts**
 and search or an account page load the rest. `data/posts.json` is still written while the archive is small,
 so an older cached copy of the page keeps working. `data/following.json`, `data/site.json`, and
@@ -31,7 +33,7 @@ saved (at most two batches of 100 ids, continuing on the next manual refresh if 
 is still the fallback for older replies. A separate `/parent` route on the same relay (its
 own webhook secret, not the refresh key) wakes a parent lookup only after Show parent, and only for a
 reply→parent pair that is already in the saved archive. The relay's parent gate is one SQLite Durable
-Object, not KV: a granted wake is single-threaded on that object, and a failed object call does not wake
+Object, not the archive KV: a granted wake is single-threaded on that object, and a failed object call does not wake
 Grok. That is not an account-wide quota. Refresh does not read that binding; its relay cooldown stays the
 per-isolate 60 second memory guard. Until `/parent` is deployed, Show parent still opens parents that are
 already saved and otherwise says parent fetch isn't set up yet. Successful parent rows in `data/parents.json`

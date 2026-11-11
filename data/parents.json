@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T02:39:06Z",
+ "updated_at": "2026-11-11T02:51:08Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -129,6 +129,23 @@
      "height": 675
     }
    ]
+  },
+  {
+   "id": "2119949070462800185",
+   "username": "cradrrat",
+   "name": "cradrrat",
+   "created_at": "2026-11-10T00:23:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/cradrrat/status/2119949070462800185",
+   "kind": "post",
+   "text": "Can we have an update on when to expect Grok 4.8 please @elonmusk",
+   "urls": [],
+   "metrics": {
+    "likes": 2436,
+    "reposts": 36,
+    "replies": 45,
+    "quotes": 7
+   }
   }
  ],
  "missing": []

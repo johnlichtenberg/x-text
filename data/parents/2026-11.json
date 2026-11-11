@@ -1,0 +1,219 @@
+{
+ "id": "2026-11",
+ "updated_at": "2026-11-11T02:53:20Z",
+ "posts": [
+  {
+   "id": "2120097824851570997",
+   "username": "Dimdv99",
+   "name": "Dimdv",
+   "created_at": "2026-11-10T10:14:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/Dimdv99/status/2120097824851570997",
+   "kind": "reply",
+   "text": "@elonmusk @tetsuoai how will grok 4.8 compare to opus 5.5?",
+   "urls": [],
+   "metrics": {
+    "likes": 377,
+    "reposts": 10,
+    "replies": 4,
+    "quotes": 1
+   },
+   "reply_to": {
+    "id": "2120097663794483601",
+    "username": "elonmusk"
+   }
+  },
+  {
+   "id": "2120089786266628276",
+   "username": "tetsuoai",
+   "name": "tetsuo",
+   "created_at": "2026-11-10T09:42:49.000Z",
+   "lang": "en",
+   "url": "https://x.com/tetsuoai/status/2120089786266628276",
+   "kind": "quote",
+   "text": "C wins again.",
+   "urls": [],
+   "metrics": {
+    "likes": 3817,
+    "reposts": 161,
+    "replies": 92,
+    "quotes": 15
+   },
+   "ref": {
+    "id": "2120088070443655190",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-10T09:35:59.000Z",
+    "text": "We have dumped JAX/SGLang and rewritten the entire RL and inference stack from scratch in C/C++, which took some extra time.\n\nTraining (aka pre-training) is done. Lot of cleanup was needed on the SFT data to get that mostly right. Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes.\n\nGrok 4.8 will bear no resemblance to 4.7 (thankfully). It is not yet incredible, but, this time, the foundations are built right, so I expect it to evolve to be something special."
+   }
+  },
+  {
+   "id": "2120027643081113765",
+   "username": "PalmerLuckey",
+   "name": "Palmer Luckey",
+   "created_at": "2026-11-10T05:35:52.000Z",
+   "lang": "en",
+   "url": "https://x.com/PalmerLuckey/status/2120027643081113765",
+   "kind": "reply",
+   "text": "@carlhancock Take that ridesharing revenue ($150B+) and subtract the cost of paying 16,000,000 drivers.  That is the bet.",
+   "urls": [],
+   "metrics": {
+    "likes": 12204,
+    "reposts": 236,
+    "replies": 384,
+    "quotes": 36
+   },
+   "reply_to": {
+    "id": "2119829774063509820",
+    "username": "carlhancock"
+   }
+  },
+  {
+   "id": "2119949070462800185",
+   "username": "cradrrat",
+   "name": "cradrrat",
+   "created_at": "2026-11-10T00:23:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/cradrrat/status/2119949070462800185",
+   "kind": "post",
+   "text": "Can we have an update on when to expect Grok 4.8 please @elonmusk",
+   "urls": [],
+   "metrics": {
+    "likes": 2436,
+    "reposts": 36,
+    "replies": 45,
+    "quotes": 7
+   }
+  },
+  {
+   "id": "2119853915785277859",
+   "username": "cfdownes_",
+   "name": "Charlie Downes",
+   "created_at": "2026-11-09T18:05:33.000Z",
+   "lang": "en",
+   "url": "https://x.com/cfdownes_/status/2119853915785277859",
+   "kind": "post",
+   "text": "We are not conservatives.\n\nWe do not believe in the system. We want to tear it down, and in its place build one that puts our people first.\n\nWe are revolutionaries.",
+   "urls": [],
+   "metrics": {
+    "likes": 9471,
+    "reposts": 1229,
+    "replies": 249,
+    "quotes": 85
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2119852832362811392/vid/avc1/1920x872/6uYokz69RqWN4dBj.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2119852832362811392/img/_ElOIivhRvu8OTwh.jpg",
+     "width": 1920,
+     "height": 872,
+     "duration_ms": 87133
+    }
+   ]
+  },
+  {
+   "id": "2119790863660257461",
+   "username": "herbertong",
+   "name": "Herbert Ong",
+   "created_at": "2026-11-09T13:55:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/herbertong/status/2119790863660257461",
+   "kind": "post",
+   "text": "NEWS: Tesla has reportedly cut the LPDDR6 memory on its next-gen AI6 chip for Optimus from 216GB to 144GB, a reduction of one third.\n\nIf accurate, Tesla is designing around a supply crunch caused by AI servers instead of waiting for it to ease. It's a bet that a humanoid bot's real-time intelligence depends on how fast data moves, not how much is stored.\n\nAt the same memory supply, a one-third cut means roughly 50% more robots. If Tesla can hold performance with less memory per unit, the company that builds the most robots could be the one that needs the fewest chips per robot, and that would be hard for rivals designing for maximum capacity to match. $TSLA\n\nLink: https://www.chinaflashmarket.com/newsflash/39255",
+   "urls": [
+    "https://www.chinaflashmarket.com/newsflash/39255"
+   ],
+   "metrics": {
+    "likes": 1574,
+    "reposts": 93,
+    "replies": 74,
+    "quotes": 13
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWrKsAxaIAAWIPa.jpg",
+     "width": 1200,
+     "height": 675
+    }
+   ]
+  },
+  {
+   "id": "2119696021991432450",
+   "username": "OwenSparks",
+   "name": "Owen Sparks",
+   "created_at": "2026-11-09T07:38:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/OwenSparks/status/2119696021991432450",
+   "kind": "reply",
+   "text": "@elonmusk Why not just build more factory space? Age of abundance.",
+   "urls": [],
+   "metrics": {
+    "likes": 1516,
+    "reposts": 30,
+    "replies": 51,
+    "quotes": 3
+   },
+   "reply_to": {
+    "id": "2119691615774146614",
+    "username": "elonmusk"
+   }
+  },
+  {
+   "id": "2119199347351122185",
+   "username": "VladTheInflator",
+   "name": "Vlad",
+   "created_at": "2026-11-07T22:44:31.000Z",
+   "lang": "zxx",
+   "url": "https://x.com/VladTheInflator/status/2119199347351122185",
+   "kind": "post",
+   "text": "",
+   "urls": [],
+   "metrics": {
+    "likes": 20648,
+    "reposts": 1916,
+    "replies": 289,
+    "quotes": 86
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWjokyGasAA2YIu.jpg",
+     "width": 891,
+     "height": 1370
+    }
+   ]
+  },
+  {
+   "id": "2118954119134359767",
+   "username": "cz_binance",
+   "name": "CZ 🔶 BNB",
+   "created_at": "2026-11-07T06:30:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/cz_binance/status/2118954119134359767",
+   "kind": "reply",
+   "text": "@MartiniGuyYT bruh, don't be that guy that spreads false info.",
+   "urls": [],
+   "metrics": {
+    "likes": 7458,
+    "reposts": 194,
+    "replies": 362,
+    "quotes": 31
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWgJaF3aIAAWy6Q.jpg",
+     "width": 1348,
+     "height": 814
+    }
+   ],
+   "reply_to": {
+    "id": "2118935710875168879",
+    "username": "MartiniGuyYT"
+   }
+  }
+ ]
+}

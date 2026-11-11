@@ -2,37 +2,45 @@
 
 A text-only reader for a list of X accounts. Static files only (`index.html`, `app.js`, `search.js`,
 `parent.js`, `style.css`); no build step, no trackers, and no third-party requests until you tap a media
-label or Show parent for a post that is not already saved (the CSP
-allows images and video only from `https://x-text-relay.johnlichtenberg.workers.dev`, and blocks every other host;
-`connect-src https:` is only for that same relay).
+label, Show parent for a post that is not already saved, or the page reads its JSON from the relay
+(the CSP allows images, video, and connections only from `https://x-text-relay.johnlichtenberg.workers.dev`,
+and blocks every other host).
 
 ## Data
-The page loads plain JSON directly on open: `data/posts.json`, `data/following.json`, `data/site.json`,
-`data/parents.json` and `data/saved-searches/<slug>.json`. Posts, following and saved searches are generated
-from a private, git-ignored working copy on each refresh. `data/parents.json` is the parent cache, written
-only by an explicit Show parent lookup, and those posts are context inside a reply — they are not added to
-the feed or the following list. Fetch settings, tool arguments, raw outputs and state never leave that private folder.
+The page loads plain JSON. It tries the relay (`GET /d/<file>` on the same host as `refresh_url`) and, if
+that is missing or older, the copy on GitHub Pages. The relay keeps each file in Workers KV. KV can take
+up to a minute to show a write at every edge, so the page keeps the copy of `index.json` with the newer
+`last_run` and sends that copy's ETag on the next check. `data/index.json` lists post shards (`data/shards/<month>.json`,
+at most 400 posts each, newest shard first). The home view loads only the newest shard; **Show older posts**
+and search or an account page load the rest. `data/posts.json` is still written while the archive is small,
+so an older cached copy of the page keeps working. `data/following.json`, `data/site.json`, and
+`data/saved-searches/<slug>.json` are unchanged. `data/parents.json` is the parent cache (also sharded under
+`data/parents/` as it grows). Parents are context inside a reply and are not added to the feed or the
+following list. `data/gate.json` is the compact id list the relay uses to check a Show parent click. Fetch
+settings, tool arguments, raw outputs and state never leave the private folder.
 
 ## Refresh button
 Sends `POST {"action":"refresh","source":"x-text"}` (Content-Type `application/json`, no key, no
 Authorization header) to `refresh_url` in `data/site.json`: a small Cloudflare Worker relay that holds the
 Grok Bot webhook URL and key as Worker secrets and wakes the refresh routine. Nothing secret is in the
 site or the browser. If `refresh_url` is empty the button shows `Refresh isn't set up yet`. After a
-successful send the page re-checks `data/posts.json` every 20 s for up to 3 minutes and reloads when it
-changes. The status shows sent / failed (HTTP code) / relay unreachable / offline. Refreshing is manual
+successful send the page re-checks `data/index.json` on the relay (then Pages) every 20 s for up to 3
+minutes and reloads when it changes, so new posts show up without waiting for GitHub Pages. The status shows sent / failed (HTTP code) / relay unreachable / offline. Refreshing is manual
 only (no schedule); a refresh less than 10 minutes after the previous one is skipped. The relay only wakes
 Grok Bot: if Grok Bot isn't running or the routine is paused, nothing refreshes and the site keeps showing
-the last published data. Refresh does not fetch parents. A separate `/parent` route on the same relay (its
+the last published data. A refresh also fetches immediate parents of new replies that are not already
+saved (at most two batches of 100 ids, continuing on the next manual refresh if more remain). Show parent
+is still the fallback for older replies. A separate `/parent` route on the same relay (its
 own webhook secret, not the refresh key) wakes a parent lookup only after Show parent, and only for a
 reply→parent pair that is already in the saved archive. The relay's parent gate is one SQLite Durable
-Object, not KV: a granted wake is single-threaded on that object, and a failed object call does not wake
+Object, not the archive KV: a granted wake is single-threaded on that object, and a failed object call does not wake
 Grok. That is not an account-wide quota. Refresh does not read that binding; its relay cooldown stays the
 per-isolate 60 second memory guard. Until `/parent` is deployed, Show parent still opens parents that are
 already saved and otherwise says parent fetch isn't set up yet. Successful parent rows in `data/parents.json`
 are kept. Only the negative-result list is capped.
 
 ## Status line
-Shown on page load from `data/posts.json` metadata (`updated_at`, `accounts`, `last_run`), times in your local zone:
+Shown on page load from `data/index.json` (`updated_at`, `accounts`, `post_count`, `last_run`), times in your local zone:
 - `Last updated <date, time, zone> (<3 h ago>) · <N> posts from <M> accounts`, or `Never refreshed` if there is no data.
 - After a Refresh tap: `Refreshing…` while polling, then the new `Last updated …` line plus one of
   `<k> new posts`, `No new posts`, or `Skipped: refreshed under 10 min ago` (every run writes `last_run`,
@@ -97,7 +105,8 @@ protection and Firefox Focus can show them. The content security policy allows i
 `.gitignore` is an whitelist (everything ignored except the public files below), and the publish step
 stages only this hard-coded list, never `git add -A` / `git add .`: `.gitignore`, `README.md`,
 `index.html`, `app.js`, `search.js`, `parent.js`, `style.css`, `tests/search.test.js`, `tests/render.test.js`,
-`tests/parent.test.js`, `data/posts.json`, `data/following.json`, `data/site.json`, `data/parents.json`,
+`tests/parent.test.js`, `tests/load.test.js`, `data/posts.json`, `data/index.json`, `data/gate.json`,
+`data/following.json`, `data/site.json`, `data/parents.json`, `data/shards/`, `data/parents/`,
 `data/saved-searches/` (status-only refresh runs stage just `data/posts.json`; a parent lookup stages just
 `data/parents.json`).
 
@@ -105,3 +114,4 @@ stages only this hard-coded list, never `git add -A` / `git add .`: `.gitignore`
     node tests/search.test.js
     node tests/render.test.js
     node tests/parent.test.js
+    node tests/load.test.js

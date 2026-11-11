@@ -51,4 +51,12 @@ eq(R.pickIndex(newer, older), newer, "a newer relay index wins over Pages");
 eq(R.pickIndex("", older), older, "a missing relay index uses Pages");
 ok(R.indexStamp(newer) > R.indexStamp(older), "index stamps follow last_run time");
 
+// Pages can publish a parent before KV. The next relay-only tick must not put the stale KV doc back.
+const freshParents = '{"updated_at":"2026-11-11T03:00:00Z","posts":[{"id":"9","text":"from Pages"}]}';
+const staleParents = '{"updated_at":"2026-11-11T01:00:00Z","posts":[]}';
+eq(R.keepNewer(R.pickIndex(staleParents, ""), freshParents), freshParents, "stale relay parents do not replace a newer Pages copy");
+eq(R.keepNewer(R.pickIndex(freshParents, ""), staleParents), freshParents, "a newer relay parents doc still wins");
+eq(R.keepNewer(R.pickIndex(older, ""), newer), newer, "stale relay index does not replace a newer Pages index");
+eq(R.keepNewer(R.pickIndex(newer, ""), older), newer, "a newer relay index still wins over the applied copy");
+
 console.log("load tests passed: " + n);

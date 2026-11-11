@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T02:51:25Z",
+ "updated_at": "2026-11-11T02:52:07Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -166,6 +166,31 @@
    "reply_to": {
     "id": "2119829774063509820",
     "username": "carlhancock"
+   }
+  },
+  {
+   "id": "2120089786266628276",
+   "username": "tetsuoai",
+   "name": "tetsuo",
+   "created_at": "2026-11-10T09:42:49.000Z",
+   "lang": "en",
+   "url": "https://x.com/tetsuoai/status/2120089786266628276",
+   "kind": "quote",
+   "text": "C wins again.",
+   "urls": [],
+   "metrics": {
+    "likes": 3817,
+    "reposts": 161,
+    "replies": 92,
+    "quotes": 15
+   },
+   "ref": {
+    "id": "2120088070443655190",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-10T09:35:59.000Z",
+    "text": "We have dumped JAX/SGLang and rewritten the entire RL and inference stack from scratch in C/C++, which took some extra time.\n\nTraining (aka pre-training) is done. Lot of cleanup was needed on the SFT data to get that mostly right. Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes.\n\nGrok 4.8 will bear no resemblance to 4.7 (thankfully). It is not yet incredible, but, this time, the foundations are built right, so I expect it to evolve to be something special."
    }
   }
  ],

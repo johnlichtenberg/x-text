@@ -1,7 +1,2520 @@
 {
  "id": "2026-11-p1",
- "updated_at": "2026-11-11T04:06:30Z",
+ "updated_at": "2026-11-11T20:56:54Z",
  "posts": [
+  {
+   "id": "2120613346596761630",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T20:23:15.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120613346596761630",
+   "kind": "repost",
+   "text": "@TheFlintFace @IterIntellectus 100GW in space is roughly equal to 800GW on Earth.\n\nMoreover, solar on Earth must be paired with massive batteries to continue powering compute at night and supplemented with combustion or nuclear power during winter.\n\nThese are not the same at all.",
+   "urls": [],
+   "metrics": {
+    "likes": 2536,
+    "reposts": 263,
+    "replies": 284,
+    "quotes": 39
+   },
+   "partial": true,
+   "ref": {
+    "id": "2120613240707420280",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-11T20:22:50.000Z"
+   }
+  },
+  {
+   "id": "2120613240707420280",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T20:22:50.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120613240707420280",
+   "reply_to": {
+    "id": "2120546871990976832",
+    "username": "TheFlintFace"
+   },
+   "kind": "reply",
+   "text": "@TheFlintFace @IterIntellectus 100GW in space is roughly equal to 800GW on Earth.\n\nMoreover, solar on Earth must be paired with massive batteries to continue powering compute at night and supplemented with combustion or nuclear power during winter.\n\nThese are not the same at all.",
+   "urls": [],
+   "metrics": {
+    "likes": 2415,
+    "reposts": 254,
+    "replies": 280,
+    "quotes": 36
+   },
+   "partial": true
+  },
+  {
+   "id": "2120607852687683842",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T20:01:25.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120607852687683842",
+   "kind": "repost",
+   "text": "Introducing Grok Bot 1.0. AI teammates that work alongside your whole team.\n\nShare Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful.",
+   "urls": [],
+   "metrics": {
+    "likes": 7308,
+    "reposts": 588,
+    "replies": 1092,
+    "quotes": 401
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 79100
+    }
+   ],
+   "ref": {
+    "id": "2120582957782200586",
+    "author_id": "2085838061347217408",
+    "username": "bot",
+    "name": "Grok Bot",
+    "created_at": "2026-11-11T18:22:30.000Z"
+   }
+  },
+  {
+   "id": "2120598044853014716",
+   "author_id": "1330170106501079041",
+   "username": "Starlink",
+   "name": "Starlink",
+   "created_at": "2026-11-11T19:22:27.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/Starlink/status/2120598044853014716",
+   "kind": "post",
+   "text": "Home in rural Oklahoma is where this veteran and his wife enjoy the things that matter most.\n\nWith Starlink, they can stream, study, and stay connected with family and friends, reliably and seamlessly.\n\nDiscover their story this Veterans Day. https://t.co/dJDhgku0iK",
+   "urls": [],
+   "metrics": {
+    "likes": 352,
+    "reposts": 62,
+    "replies": 24,
+    "quotes": 4
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120597007647793152/vid/avc1/3840x2160/9S5PAQb2irZtnLk6.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120597007647793152/img/5tx-Fc-p7Zm6P25z.jpg",
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 90090
+    }
+   ]
+  },
+  {
+   "id": "2120593710107029687",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T19:05:13.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120593710107029687",
+   "reply_to": {
+    "id": "2120513787602075837",
+    "username": "IterIntellectus"
+   },
+   "kind": "reply",
+   "text": "@IterIntellectus Actually, we’re aiming for 1TW/year from Earth, rising to over 1PW/year from the Moon.\n\nThat’s why I say that if we achieve this outcome, SpaceX will obviously be worth more than Earth, because space is so staggeringly enormous!",
+   "urls": [],
+   "metrics": {
+    "likes": 6248,
+    "reposts": 526,
+    "replies": 417,
+    "quotes": 96
+   },
+   "partial": true
+  },
+  {
+   "id": "2120592775813255535",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T19:01:31.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120592775813255535",
+   "reply_to": {
+    "id": "2120581319189270544",
+    "username": "zerohedge"
+   },
+   "kind": "reply",
+   "text": "@zerohedge SpaceX has a chance of going about half the GW next year of actually usable compute.\n\n“Actually usable” is an important metric. It takes us ~2 months working 24/7 to get a large compute cluster working reliably. I’d guess closer to 6 months for others.",
+   "urls": [],
+   "metrics": {
+    "likes": 2692,
+    "reposts": 224,
+    "replies": 139,
+    "quotes": 23
+   },
+   "partial": true
+  },
+  {
+   "id": "2120591950961353125",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T18:58:14.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120591950961353125",
+   "kind": "post",
+   "text": "Person for scale https://t.co/6XGX98l38L",
+   "urls": [],
+   "metrics": {
+    "likes": 11464,
+    "reposts": 955,
+    "replies": 1294,
+    "quotes": 141
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW3bG9vagAAwCcq.jpg",
+     "width": 1176,
+     "height": 784
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW3bG9vbAAARZza.jpg",
+     "width": 942,
+     "height": 2048
+    }
+   ]
+  },
+  {
+   "id": "2120590521253126183",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T18:52:33.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120590521253126183",
+   "kind": "quote",
+   "text": "Starship Super Heavy rocket booster moved to launch pad https://t.co/Sn5VN93bww",
+   "urls": [],
+   "metrics": {
+    "likes": 6581,
+    "reposts": 730,
+    "replies": 577,
+    "quotes": 69
+   },
+   "partial": true,
+   "ref": {
+    "id": "2120220290219208884",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-10T18:21:23.000Z",
+    "text": "Super Heavy moved to the launch pad at Starbase. Booster 22 is the first Super Heavy V3 booster planned to return to the launch site for catch and was used for final catch testing upon arrival, including a suspended squeeze test at catch height",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWyJCAYXcAAFtkn.jpg",
+      "width": 1920,
+      "height": 1280
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWyJD07XwAANxuA.jpg",
+      "width": 1920,
+      "height": 1280
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWyJFLKWIAAOuYn.jpg",
+      "width": 1920,
+      "height": 1280
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWyJGbQXcAAwXqr.jpg",
+      "width": 1920,
+      "height": 1280
+     }
+    ]
+   }
+  },
+  {
+   "id": "2120589832963711162",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T18:49:49.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120589832963711162",
+   "kind": "quote",
+   "text": "Tesla Megapacks are designed to ensure grid stability, so that you never have a blackout https://t.co/vc8MCLNB00",
+   "urls": [],
+   "metrics": {
+    "likes": 7217,
+    "reposts": 837,
+    "replies": 729,
+    "quotes": 59
+   },
+   "partial": true,
+   "ref": {
+    "id": "2120320369282437219",
+    "author_id": "1618601297510383616",
+    "username": "Tesla_Megapack",
+    "name": "Tesla Megapack",
+    "created_at": "2026-11-11T00:59:04.000Z",
+    "text": "Tesla's Controller-Hardware-In-the-Loop (CHIL) is key to bringing Megapack sites online faster\n\nCHIL allows us to simulate the entire site in real time before it’s connected to the grid. We can see how the site will respond to faults, frequency changes or if a tree were to fall on a power line.\n\nCHIL validated 444 grid-forming Megapacks at Melbourne Renewable Energy Hub before grid connection, delivering 600 MW / 1.6 GWh of storage months ahead of schedule",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2120314908789309440/vid/avc1/3840x2160/huhT0QlKIss9CyM4.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120314908789309440/img/YUtiKL7khDLrLOrT.jpg",
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 145562
+     }
+    ]
+   }
+  },
+  {
+   "id": "2120584928983441826",
+   "author_id": "1661523610111193088",
+   "username": "SpaceXSI",
+   "name": "SpaceX Super Intelligence",
+   "created_at": "2026-11-11T18:30:20.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/SpaceXSI/status/2120584928983441826",
+   "kind": "post",
+   "text": "Introducing Grok Bot 1.0.\n\nBots can be shared and are more collaborative and capable than ever. https://t.co/gmxan7jupQ",
+   "urls": [],
+   "metrics": {
+    "likes": 3299,
+    "reposts": 289,
+    "replies": 156,
+    "quotes": 93
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120584648887603200/vid/avc1/1920x1080/_5-Mr3wCmHhH2dyV.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120584648887603200/img/7fJTC0_ehG0tmNNk.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 79100
+    }
+   ]
+  },
+  {
+   "id": "2120584703082446863",
+   "author_id": "34743251",
+   "username": "SpaceX",
+   "name": "SpaceX",
+   "created_at": "2026-11-11T18:29:26.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/SpaceX/status/2120584703082446863",
+   "kind": "post",
+   "text": "Thank you to all those who have served, including the veterans we're proud to call members of the SpaceX family. Happy Veterans Day! https://t.co/SGpSvt1dby",
+   "urls": [],
+   "metrics": {
+    "likes": 4721,
+    "reposts": 498,
+    "replies": 142,
+    "quotes": 37
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW3S_BLb0AEYAQd.jpg",
+     "width": 3760,
+     "height": 3152
+    }
+   ]
+  },
+  {
+   "id": "2120584535423565889",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T18:28:46.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120584535423565889",
+   "kind": "quote",
+   "text": "Hire Grok @Bot as a colleague and give it your hardest tasks! https://t.co/yYTjZPGTiC",
+   "urls": [],
+   "metrics": {
+    "likes": 6943,
+    "reposts": 597,
+    "replies": 1036,
+    "quotes": 119
+   },
+   "partial": true,
+   "ref": {
+    "id": "2120582957782200586",
+    "author_id": "2085838061347217408",
+    "username": "bot",
+    "name": "Grok Bot",
+    "created_at": "2026-11-11T18:22:30.000Z",
+    "text": "Introducing Grok Bot 1.0. AI teammates that work alongside your whole team.\n\nShare Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful.",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 79100
+     }
+    ]
+   }
+  },
+  {
+   "id": "2120584325431456095",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T18:27:56.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120584325431456095",
+   "reply_to": {
+    "id": "2120562729820061856",
+    "username": "ChrisJBakke"
+   },
+   "kind": "reply",
+   "text": "@ChrisJBakke Fair point tbh",
+   "urls": [],
+   "metrics": {
+    "likes": 5947,
+    "reposts": 112,
+    "replies": 213,
+    "quotes": 15
+   },
+   "partial": true
+  },
+  {
+   "id": "2120583986116427980",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T18:26:35.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120583986116427980",
+   "reply_to": {
+    "id": "2120405949014028506",
+    "username": "yunta_tsai"
+   },
+   "kind": "reply",
+   "text": "@yunta_tsai 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 1319,
+    "reposts": 57,
+    "replies": 129,
+    "quotes": 6
+   },
+   "partial": true
+  },
+  {
+   "id": "2120582957782200586",
+   "author_id": "2085838061347217408",
+   "username": "bot",
+   "name": "Grok Bot",
+   "created_at": "2026-11-11T18:22:30.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/bot/status/2120582957782200586",
+   "kind": "post",
+   "text": "Introducing Grok Bot 1.0. AI teammates that work alongside your whole team.\n\nShare Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful. https://t.co/7569CZRc9G",
+   "urls": [],
+   "metrics": {
+    "likes": 7248,
+    "reposts": 586,
+    "replies": 1085,
+    "quotes": 397
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 79100
+    }
+   ]
+  },
+  {
+   "id": "2120582866413514912",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T18:22:08.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120582866413514912",
+   "kind": "quote",
+   "text": "Bernie is the meme https://t.co/F5TcWiKSaE https://t.co/oin99XbPgU",
+   "urls": [],
+   "metrics": {
+    "likes": 9514,
+    "reposts": 1101,
+    "replies": 1206,
+    "quotes": 250
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW3S4DpaAAAReGN.jpg",
+     "width": 680,
+     "height": 383
+    }
+   ],
+   "ref": {
+    "id": "2118712057088647405",
+    "author_id": "18071459",
+    "username": "MarkSimoneNY",
+    "name": "MARK SIMONE",
+    "created_at": "2026-11-06T14:28:12.000Z",
+    "text": "You might not want to take Bernie too seriously on tech issues.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWctYw0XgAAu3F4.jpg",
+      "width": 1200,
+      "height": 1006
+     }
+    ]
+   }
+  },
+  {
+   "id": "2120580467682656670",
+   "author_id": "2085838061347217408",
+   "username": "bot",
+   "name": "Grok Bot",
+   "created_at": "2026-11-11T18:12:36.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/bot/status/2120580467682656670",
+   "kind": "quote",
+   "text": "Order groceries, snacks, and essentials end-to-end with Bot and Gopuff https://t.co/SepNiXSJ4a",
+   "urls": [],
+   "metrics": {
+    "likes": 1065,
+    "reposts": 86,
+    "replies": 49,
+    "quotes": 17
+   },
+   "partial": true,
+   "ref": {
+    "id": "2120534503710228780",
+    "author_id": "707549284",
+    "username": "gopuff",
+    "name": "Gopuff",
+    "created_at": "2026-11-11T15:09:57.000Z",
+    "text": "Ask @bot. Get it delivered.\n\nGopuff is now built directly into Grok Bot. Our inventory. Our network. Your door in as fast as 15 minutes.\n\nLive now.",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2120534360730357760/vid/avc1/1920x1080/nfIOV3w3P98-cF3y.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120534360730357760/img/CY0a6PvHadCbX7NA.jpg",
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 38200
+     }
+    ]
+   }
+  },
+  {
+   "id": "2120572482642162037",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T17:40:52.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120572482642162037",
+   "reply_to": {
+    "id": "2120212693131116650",
+    "username": "BalazsOrban_HU"
+   },
+   "kind": "reply",
+   "text": "@BalazsOrban_HU @WebSummit They’re all getting paid by NGOs",
+   "urls": [],
+   "metrics": {
+    "likes": 10684,
+    "reposts": 831,
+    "replies": 307,
+    "quotes": 19
+   },
+   "partial": true
+  },
+  {
+   "id": "2120572352073433380",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T17:40:21.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120572352073433380",
+   "reply_to": {
+    "id": "2120561304247083448",
+    "username": "aaronburnett"
+   },
+   "kind": "reply",
+   "text": "@aaronburnett We would be happy to take the compute back. No problem.\n\nBut I think the opposite is going to happen.",
+   "urls": [],
+   "metrics": {
+    "likes": 5823,
+    "reposts": 288,
+    "replies": 271,
+    "quotes": 65
+   },
+   "partial": true
+  },
+  {
+   "id": "2120570459335131606",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T17:32:50.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120570459335131606",
+   "reply_to": {
+    "id": "2120565056429814073",
+    "username": "elonmusk"
+   },
+   "kind": "reply",
+   "text": "This is not the smartest move from a profit-maximizing standpoint btw, but there must be some room in this world for sentimentality or what’s the point?",
+   "urls": [],
+   "metrics": {
+    "likes": 20409,
+    "reposts": 814,
+    "replies": 1539,
+    "quotes": 179
+   },
+   "partial": true
+  },
+  {
+   "id": "2120569919599448418",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T17:30:41.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120569919599448418",
+   "reply_to": {
+    "id": "2120561643432391151",
+    "username": "Fitzg1290x"
+   },
+   "kind": "reply",
+   "text": "@Fitzg1290x @KatieMiller 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 1188,
+    "reposts": 26,
+    "replies": 69,
+    "quotes": 6
+   },
+   "partial": true
+  },
+  {
+   "id": "2120565589945290827",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T17:13:29.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120565589945290827",
+   "reply_to": {
+    "id": "2120523393909109198",
+    "username": "XFreeze"
+   },
+   "kind": "reply",
+   "text": "@XFreeze Much appreciated, Mississippi ❤️",
+   "urls": [],
+   "metrics": {
+    "likes": 6160,
+    "reposts": 266,
+    "replies": 230,
+    "quotes": 22
+   },
+   "partial": true
+  },
+  {
+   "id": "2120565179276832797",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T17:11:51.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120565179276832797",
+   "kind": "quote",
+   "text": "Tesla self-driving now approved in Finland https://t.co/AkjWBSf4p8",
+   "urls": [],
+   "metrics": {
+    "likes": 14750,
+    "reposts": 1236,
+    "replies": 1289,
+    "quotes": 152
+   },
+   "partial": true,
+   "ref": {
+    "id": "2120400770952745439",
+    "author_id": "1620480811303866369",
+    "username": "teslaeurope",
+    "name": "Tesla Europe, Middle East & Africa",
+    "created_at": "2026-11-11T06:18:33.000Z",
+    "text": "Now approved in Finland 🇫🇮\n\nRollout begins soon",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2120400638517649408/vid/avc1/3840x2160/DNJBCXQD-ZSvXUla.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120400638517649408/img/pv6JcEDdbtzA2f2N.jpg",
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 25876
+     }
+    ]
+   }
+  },
+  {
+   "id": "2120565056429814073",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T17:11:22.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120565056429814073",
+   "kind": "post",
+   "text": "In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027",
+   "urls": [],
+   "metrics": {
+    "likes": 26368,
+    "reposts": 1609,
+    "replies": 1893,
+    "quotes": 371
+   },
+   "partial": true
+  },
+  {
+   "id": "2120527630730768768",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T14:42:39.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120527630730768768",
+   "reply_to": {
+    "id": "2120424529482883327",
+    "username": "Baconbrix"
+   },
+   "kind": "reply",
+   "text": "@Baconbrix @kristaletz @spacexai @grok bro 😩",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120444551731270081",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T09:12:31.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120444551731270081",
+   "reply_to": {
+    "id": "2120322785851621456",
+    "username": "herbertong"
+   },
+   "kind": "reply",
+   "text": "@herbertong @JOBhakdi Yup",
+   "urls": [],
+   "metrics": {
+    "likes": 2090,
+    "reposts": 103,
+    "replies": 243,
+    "quotes": 12
+   },
+   "partial": true
+  },
+  {
+   "id": "2120439345555660899",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T08:51:50.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120439345555660899",
+   "kind": "repost",
+   "text": "It seems wrong that ideology and idiot are unrelated words. They’re so perfect together.",
+   "urls": [],
+   "metrics": {
+    "likes": 2718,
+    "reposts": 265,
+    "replies": 200,
+    "quotes": 18
+   },
+   "partial": true,
+   "ref": {
+    "id": "2120181992574918849",
+    "author_id": "24405165",
+    "username": "jamesdouma",
+    "name": "jimmah",
+    "created_at": "2026-11-10T15:49:12.000Z"
+   }
+  },
+  {
+   "id": "2120439243478806562",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T08:51:26.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120439243478806562",
+   "kind": "repost",
+   "text": "Elon Musk has a track record of calling hard problems early.\n\nIn a February 2026 interview, he warned: “Those who have lived in software land don’t realize they’re about to have a hard lesson in hardware.”\n\nBy late August, SpaceX confirmed it was bringing the casting of gas-turbine blades and vanes in-house — the single biggest bottleneck for new natural-gas power plants needed to feed AI data centers. Musk said the move could bring turbines online up to 18 months faster.\n\nToday he put it even more bluntly: SpaceX has “a super cracked team that is outperforming the rest of the world by an order of magnitude in mass to orbit — and even we find it very difficult.”\n\nHardware doesn’t care about demos, funding rounds, or slide decks. The teams that actually build the hard stuff keep winning.\n\nWhat a legend.",
+   "urls": [],
+   "metrics": {
+    "likes": 3630,
+    "reposts": 428,
+    "replies": 74,
+    "quotes": 15
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2110136316113649665/vid/avc1/1280x720/6Zx-3vRMop3Qztuu.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2110136316113649665/img/Wo4geuwDhLSiSW_Y.jpg",
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 68900
+    }
+   ],
+   "ref": {
+    "id": "2110140249141821578",
+    "author_id": "1600295791",
+    "username": "Dogetothemoon",
+    "name": "Doge Tipping",
+    "created_at": "2026-10-13T22:46:54.000Z",
+    "quote": {
+     "id": "2110122281603326170",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-10-13T21:35:30.000Z",
+     "text": "It’s not that supercomputer data centers are not in high demand, as they definitely are. However, getting money to build complex hardware systems with massive power, cooling & networking is not the same as doing it.\n\nSpaceX has a super cracked team that is outperforming the rest of the world by an order of magnitude in mass to orbit and even we find it very difficult!"
+    }
+   }
+  },
+  {
+   "id": "2120438853928681981",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T08:49:53.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120438853928681981",
+   "reply_to": {
+    "id": "2120342384445898866",
+    "username": "KatieMiller"
+   },
+   "kind": "reply",
+   "text": "@KatieMiller I remember that time when Masa, instead of putting $12B into Tesla for a 1/4 of the company to help me take Tesla private, instead invested the money in WeWork.\n\nThat was dumb.",
+   "urls": [],
+   "metrics": {
+    "likes": 35652,
+    "reposts": 1588,
+    "replies": 1082,
+    "quotes": 391
+   },
+   "partial": true
+  },
+  {
+   "id": "2120437887703601309",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T08:46:02.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120437887703601309",
+   "kind": "repost",
+   "text": "Taps the sign",
+   "urls": [],
+   "metrics": {
+    "likes": 7679,
+    "reposts": 528,
+    "replies": 99,
+    "quotes": 17
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWz4KQpWwAAGkdp.jpg",
+     "width": 1320,
+     "height": 519
+    }
+   ],
+   "ref": {
+    "id": "2120342384445898866",
+    "author_id": "240504013",
+    "username": "KatieMiller",
+    "name": "Katie Miller",
+    "created_at": "2026-11-11T02:26:33.000Z",
+    "quote": {
+     "id": "2120320733561672164",
+     "author_id": "28140646",
+     "username": "WSJbusiness",
+     "name": "WSJ Business News",
+     "created_at": "2026-11-11T01:00:31.000Z",
+     "text": "Masayoshi Son’s SoftBank reserved enough gas turbines to generate the power of six Hoover Dams. It cost the company billions of dollars in losses. https://on.wsj.com/4AkINFX"
+    }
+   }
+  },
+  {
+   "id": "2120435998056476771",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T08:38:32.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120435998056476771",
+   "kind": "repost",
+   "text": "29 days from completion of tunneling in Bastrop to initiation of tunneling in San Antonio.",
+   "urls": [],
+   "metrics": {
+    "likes": 6874,
+    "reposts": 572,
+    "replies": 263,
+    "quotes": 64
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120286885905874944/vid/avc1/360x640/Bo49wnXXj15a0Zfn.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120286885905874944/img/pR7boibwrEefs5uw.jpg",
+     "width": 360,
+     "height": 640,
+     "duration_ms": 6693
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWzFsF8WQAENGzg.jpg",
+     "width": 1018,
+     "height": 1282
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWzFsGAXoAAndY6.jpg",
+     "width": 1212,
+     "height": 1429
+    }
+   ],
+   "ref": {
+    "id": "2120286900569456800",
+    "author_id": "859816394556284929",
+    "username": "boringcompany",
+    "name": "The Boring Company",
+    "created_at": "2026-11-10T22:46:04.000Z"
+   }
+  },
+  {
+   "id": "2120435140287758436",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T08:35:07.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120435140287758436",
+   "reply_to": {
+    "id": "2120393236128903658",
+    "username": "beffjezos"
+   },
+   "kind": "reply",
+   "text": "@beffjezos Pretty much",
+   "urls": [],
+   "metrics": {
+    "likes": 2094,
+    "reposts": 114,
+    "replies": 186,
+    "quotes": 10
+   },
+   "partial": true
+  },
+  {
+   "id": "2120432810431537485",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T08:25:52.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120432810431537485",
+   "reply_to": {
+    "id": "2120308214097203337",
+    "username": "EndWokeness"
+   },
+   "kind": "reply",
+   "text": "@EndWokeness They do what they are programmed to do",
+   "urls": [],
+   "metrics": {
+    "likes": 35310,
+    "reposts": 1350,
+    "replies": 800,
+    "quotes": 70
+   },
+   "partial": true
+  },
+  {
+   "id": "2120432718639145404",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-11T08:25:30.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120432718639145404",
+   "kind": "quote",
+   "text": "Portable, lightning-fast Internet that works anywhere on Earth where Starlink is legal! https://t.co/dBf3iHkEGv",
+   "urls": [],
+   "metrics": {
+    "likes": 23140,
+    "reposts": 2574,
+    "replies": 2553,
+    "quotes": 270
+   },
+   "partial": true,
+   "ref": {
+    "id": "2120206875581186293",
+    "author_id": "1330170106501079041",
+    "username": "Starlink",
+    "name": "Starlink",
+    "created_at": "2026-11-10T17:28:05.000Z",
+    "text": "Introducing Mini 2, the next-generation portable Starlink. Get up to 4.5 hours of connectivity on a single charge with the quick-swap battery, or plug in with USB-C.\n\nWith built-in Wi-Fi, all you need is a clear view of the sky to get online in 60 seconds.\n\nPreorders are now open by invitation in the US. Be the first to know when it's available → http://starlink.com/mini-2",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2120206805301432320/vid/avc1/3840x2160/ZgZw9IqkEhYoHROw.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120206805301432320/img/GfU1cb3_x6eq7W_n.jpg",
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 42542
+     }
+    ]
+   }
+  },
+  {
+   "id": "2120388205598191802",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:28:37.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120388205598191802",
+   "reply_to": {
+    "id": "2120387645243084844",
+    "username": "keenan_jones1"
+   },
+   "kind": "reply",
+   "text": "@keenan_jones1 @alexmichael yes I know it was a joke 💀",
+   "urls": [],
+   "metrics": {
+    "likes": 13,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120388073372762320",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:28:06.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120388073372762320",
+   "reply_to": {
+    "id": "2120387738172031191",
+    "username": "NE2EarlyVote"
+   },
+   "kind": "reply",
+   "text": "@NE2EarlyVote yep",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120387993748050148",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:27:47.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120387993748050148",
+   "reply_to": {
+    "id": "2120387617753911526",
+    "username": "_saranshbarua"
+   },
+   "kind": "reply",
+   "text": "@_saranshbarua https://t.co/daCOwbjDxg",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120387426518712419",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:25:32.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120387426518712419",
+   "reply_to": {
+    "id": "2120387063883416000",
+    "username": "josephburt"
+   },
+   "kind": "reply",
+   "text": "@josephburt we will get back out there soon",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120387373242659178",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:25:19.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120387373242659178",
+   "reply_to": {
+    "id": "2120387039422210133",
+    "username": "TNVOLMAN"
+   },
+   "kind": "reply",
+   "text": "@TNVOLMAN 🫡",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120387320805511484",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:25:06.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120387320805511484",
+   "reply_to": {
+    "id": "2120386934144925950",
+    "username": "RHasselmeier"
+   },
+   "kind": "reply",
+   "text": "@RHasselmeier never said anything about a rough few days, just lots of support from the community",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120387049857683875",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:24:02.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120387049857683875",
+   "reply_to": {
+    "id": "2120386663339950494",
+    "username": "developwithJB"
+   },
+   "kind": "reply",
+   "text": "@developwithJB https://t.co/somN7eoOog",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HW0gx6-aUAAn0jW.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HW0gx6-aUAAn0jW.jpg",
+     "width": 276,
+     "height": 344
+    }
+   ]
+  },
+  {
+   "id": "2120386800921485627",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:23:02.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120386800921485627",
+   "reply_to": {
+    "id": "2120386558973166004",
+    "username": "AdamJJoseph"
+   },
+   "kind": "reply",
+   "text": "@AdamJJoseph sad",
+   "urls": [],
+   "metrics": {
+    "likes": 9,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120386690443583590",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:22:36.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120386690443583590",
+   "reply_to": {
+    "id": "2120386264662782044",
+    "username": "alexmichael"
+   },
+   "kind": "reply",
+   "text": "@alexmichael I meant who is tibo but clearly the joke didn’t land 😅\n\nthank you!",
+   "urls": [],
+   "metrics": {
+    "likes": 9,
+    "reposts": 0,
+    "replies": 4,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120386568884277434",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:22:07.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120386568884277434",
+   "reply_to": {
+    "id": "2120386169250762967",
+    "username": "MasonWLoomis"
+   },
+   "kind": "reply",
+   "text": "@MasonWLoomis ❤️",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120386505139224925",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:21:52.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120386505139224925",
+   "reply_to": {
+    "id": "2120385797908259213",
+    "username": "mokshaowei"
+   },
+   "kind": "reply",
+   "text": "@mokshaowei thank you! the team is amazing!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120386430526726249",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:21:34.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120386430526726249",
+   "reply_to": {
+    "id": "2120385649668653488",
+    "username": "thejefflutz"
+   },
+   "kind": "reply",
+   "text": "@thejefflutz thanks jeff!",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120386394518683951",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:21:25.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120386394518683951",
+   "reply_to": {
+    "id": "2120385795286855849",
+    "username": "FP_ASI"
+   },
+   "kind": "reply",
+   "text": "@FP_ASI https://t.co/zPF3bfmMi8",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120386146907926550",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:20:26.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120386146907926550",
+   "reply_to": {
+    "id": "2120385645592104973",
+    "username": "ChiefBeers"
+   },
+   "kind": "reply",
+   "text": "@ChiefBeers grateful everyday",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120385989453783062",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:19:49.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120385989453783062",
+   "reply_to": {
+    "id": "2120385369283723419",
+    "username": "sneakler45"
+   },
+   "kind": "reply",
+   "text": "@sneakler45 https://t.co/R65TuJbbWO",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HW0f0HEaEAAPeLA.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HW0f0HEaEAAPeLA.jpg",
+     "width": 500,
+     "height": 500
+    }
+   ]
+  },
+  {
+   "id": "2120385884432572595",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:19:24.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120385884432572595",
+   "reply_to": {
+    "id": "2120385170327167196",
+    "username": "alexmichael"
+   },
+   "kind": "reply",
+   "text": "@alexmichael who?",
+   "urls": [],
+   "metrics": {
+    "likes": 8,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120385844670595560",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:19:14.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120385844670595560",
+   "reply_to": {
+    "id": "2120384951434809729",
+    "username": "4TechX"
+   },
+   "kind": "reply",
+   "text": "@4TechX https://t.co/PEgR1ktvUG",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HW0fr0RaYAAQOIT.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HW0fr0RaYAAQOIT.jpg",
+     "width": 320,
+     "height": 320
+    }
+   ]
+  },
+  {
+   "id": "2120385094984871936",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:16:16.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120385094984871936",
+   "reply_to": {
+    "id": "2120384597691437209",
+    "username": "TeslaTechGroup"
+   },
+   "kind": "reply",
+   "text": "@TeslaTechGroup how can it be better?",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120385008414384187",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:15:55.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120385008414384187",
+   "reply_to": {
+    "id": "2120384626745098743",
+    "username": "MattWhitneyReal"
+   },
+   "kind": "reply",
+   "text": "@MattWhitneyReal @bot 🫡",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120384968853750261",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:15:46.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120384968853750261",
+   "reply_to": {
+    "id": "2120384552661328340",
+    "username": "MarsHomestead"
+   },
+   "kind": "reply",
+   "text": "@MarsHomestead we have your back!",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120384912243229043",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:15:32.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120384912243229043",
+   "reply_to": {
+    "id": "2120384390299591033",
+    "username": "NE2EarlyVote"
+   },
+   "kind": "reply",
+   "text": "@NE2EarlyVote my steak is too juicy",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120384332661760105",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:13:14.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120384332661760105",
+   "reply_to": {
+    "id": "2120383952422838305",
+    "username": "thecsguy"
+   },
+   "kind": "reply",
+   "text": "@thecsguy yes",
+   "urls": [],
+   "metrics": {
+    "likes": 26,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120384189925339208",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:12:40.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120384189925339208",
+   "reply_to": {
+    "id": "2120382543484830013",
+    "username": "kloss_xyz"
+   },
+   "kind": "reply",
+   "text": "@kloss_xyz https://t.co/Vu67s3GPEE",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HW0eLkRbMAET4QW.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HW0eLkRbMAET4QW.jpg",
+     "width": 480,
+     "height": 478
+    }
+   ]
+  },
+  {
+   "id": "2120384003610190158",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:11:55.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120384003610190158",
+   "reply_to": {
+    "id": "2120383595298857310",
+    "username": "AEWforever1"
+   },
+   "kind": "reply",
+   "text": "@AEWforever1 @bot https://t.co/bysMKs2LkY",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HW0eAviaYAAV1vB.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HW0eAviaYAAV1vB.jpg",
+     "width": 216,
+     "height": 202
+    }
+   ]
+  },
+  {
+   "id": "2120383885699924379",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:11:27.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120383885699924379",
+   "reply_to": {
+    "id": "2120383429027987867",
+    "username": "BriansBrainShow"
+   },
+   "kind": "reply",
+   "text": "@BriansBrainShow I appreciate you brian’s brain",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120383841676480742",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:11:17.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120383841676480742",
+   "reply_to": {
+    "id": "2120383371335606301",
+    "username": "grepmeded"
+   },
+   "kind": "reply",
+   "text": "@grepmeded @turkonthelurk we have course corrected",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120383763670798579",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:10:58.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120383763670798579",
+   "reply_to": {
+    "id": "2120383270051541063",
+    "username": "JosiahLo1"
+   },
+   "kind": "reply",
+   "text": "@JosiahLo1 https://t.co/z7yfQkWxA7",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HW0dzAIaAAAibDr.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HW0dzAIaAAAibDr.jpg",
+     "width": 252,
+     "height": 252
+    }
+   ]
+  },
+  {
+   "id": "2120383643805962451",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:10:30.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120383643805962451",
+   "reply_to": {
+    "id": "2120383015125987500",
+    "username": "AlexiFGM"
+   },
+   "kind": "reply",
+   "text": "@AlexiFGM https://t.co/AF1tZ3zUos",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HW0drzjaYAATCSl.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HW0drzjaYAATCSl.jpg",
+     "width": 480,
+     "height": 264
+    }
+   ]
+  },
+  {
+   "id": "2120383566936973519",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:10:11.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120383566936973519",
+   "reply_to": {
+    "id": "2120383202003181793",
+    "username": "kellyocornell"
+   },
+   "kind": "reply",
+   "text": "@kellyocornell thanks kelly :)",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120383534770889115",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:10:04.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120383534770889115",
+   "reply_to": {
+    "id": "2120382979029565625",
+    "username": "McClellanforGA"
+   },
+   "kind": "reply",
+   "text": "@McClellanforGA thank you for your support",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120383271842480514",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:09:01.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120383271842480514",
+   "reply_to": {
+    "id": "2120382102252495108",
+    "username": "chatjibpt"
+   },
+   "kind": "reply",
+   "text": "@chatjibpt thank you!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120383245603025072",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:08:55.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120383245603025072",
+   "reply_to": {
+    "id": "2120381769618764226",
+    "username": "ABeshtika"
+   },
+   "kind": "reply",
+   "text": "@ABeshtika danke shon!!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120383086420697189",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:08:17.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120383086420697189",
+   "reply_to": {
+    "id": "2120382863430369658",
+    "username": "Mathieugs"
+   },
+   "kind": "reply",
+   "text": "@Mathieugs de rien!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120382737601495071",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:06:54.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120382737601495071",
+   "reply_to": {
+    "id": "2120382204337693083",
+    "username": "Michae1Hinrichs"
+   },
+   "kind": "reply",
+   "text": "@Michae1Hinrichs I recommend some cloud storage or google drive for your bot",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120382660203925910",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:06:35.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120382660203925910",
+   "reply_to": {
+    "id": "2120382197207388562",
+    "username": "RichSilver"
+   },
+   "kind": "reply",
+   "text": "@RichSilver thank you rich!",
+   "urls": [],
+   "metrics": {
+    "likes": 8,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120382622824366178",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:06:26.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120382622824366178",
+   "reply_to": {
+    "id": "2120382137832763827",
+    "username": "BenSolisHelser"
+   },
+   "kind": "reply",
+   "text": "@BenSolisHelser thank you for sticking with us",
+   "urls": [],
+   "metrics": {
+    "likes": 7,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120382561285505295",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:06:12.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120382561285505295",
+   "reply_to": {
+    "id": "2120382078793777203",
+    "username": "Ouams"
+   },
+   "kind": "reply",
+   "text": "@Ouams thank you!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120382533376569496",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:06:05.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120382533376569496",
+   "reply_to": {
+    "id": "2120382026989687289",
+    "username": "realDavidBauer"
+   },
+   "kind": "reply",
+   "text": "@realDavidBauer 🥹",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120382461192646696",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:05:48.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120382461192646696",
+   "reply_to": {
+    "id": "2120381643961626938",
+    "username": "RichMarshall"
+   },
+   "kind": "reply",
+   "text": "@RichMarshall great vocabulary",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120382398001201390",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:05:33.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120382398001201390",
+   "reply_to": {
+    "id": "2120381402638352490",
+    "username": "AHMAD_HASCHEM"
+   },
+   "kind": "reply",
+   "text": "@AHMAD_HASCHEM nice",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120382376161456585",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:05:27.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120382376161456585",
+   "reply_to": {
+    "id": "2120381312095981951",
+    "username": "JoshBadert"
+   },
+   "kind": "reply",
+   "text": "@JoshBadert thank you :)",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2120382347287908663",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:05:21.000Z",
+   "lang": "en",
+   "conversation_id": "2120379456082923823",
+   "url": "https://x.com/mattyp/status/2120382347287908663",
+   "reply_to": {
+    "id": "2120381217224994945",
+    "username": "okaynfx"
+   },
+   "kind": "reply",
+   "text": "@okaynfx thank you for your support!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120382256862896128",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:04:59.000Z",
+   "lang": "en",
+   "conversation_id": "2120206234804727821",
+   "url": "https://x.com/mattyp/status/2120382256862896128",
+   "reply_to": {
+    "id": "2120381215996055757",
+    "username": "hhawk"
+   },
+   "kind": "reply",
+   "text": "@hhawk @mattparlmer WRONG MATT PARLMER\n\nbut can confirm he’s chill",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 1,
+    "replies": 0,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW0cbOoasAALkL7.jpg",
+     "width": 2048,
+     "height": 1536
+    }
+   ]
+  },
+  {
+   "id": "2120381248166322484",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:00:58.000Z",
+   "lang": "qme",
+   "conversation_id": "2120379456082923823",
+   "url": "https://x.com/mattyp/status/2120381248166322484",
+   "reply_to": {
+    "id": "2120380789116522840",
+    "username": "downeastdev"
+   },
+   "kind": "reply",
+   "text": "@downeastdev @bot 🫶",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120381159133909079",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T05:00:37.000Z",
+   "lang": "qme",
+   "conversation_id": "2120379456082923823",
+   "url": "https://x.com/mattyp/status/2120381159133909079",
+   "reply_to": {
+    "id": "2120380474099122239",
+    "username": "cookyourgarden"
+   },
+   "kind": "reply",
+   "text": "@cookyourgarden 🥹",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120380983417700769",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T04:59:55.000Z",
+   "lang": "en",
+   "conversation_id": "2120379456082923823",
+   "url": "https://x.com/mattyp/status/2120380983417700769",
+   "reply_to": {
+    "id": "2120380640654950906",
+    "username": "mpspringer"
+   },
+   "kind": "reply",
+   "text": "@mpspringer thank you!",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120380944129610028",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T04:59:46.000Z",
+   "lang": "ro",
+   "conversation_id": "2120379456082923823",
+   "url": "https://x.com/mattyp/status/2120380944129610028",
+   "reply_to": {
+    "id": "2120380518374252926",
+    "username": "AshtonAU"
+   },
+   "kind": "reply",
+   "text": "@AshtonAU accelerate!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120380887686901796",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T04:59:33.000Z",
+   "lang": "en",
+   "conversation_id": "2120379456082923823",
+   "url": "https://x.com/mattyp/status/2120380887686901796",
+   "reply_to": {
+    "id": "2120380558849282204",
+    "username": "booloo4e"
+   },
+   "kind": "reply",
+   "text": "@booloo4e of course - thank you for your support",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120380763749351600",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T04:59:03.000Z",
+   "lang": "en",
+   "conversation_id": "2120379456082923823",
+   "url": "https://x.com/mattyp/status/2120380763749351600",
+   "reply_to": {
+    "id": "2120380323234222588",
+    "username": "jayceelewis_"
+   },
+   "kind": "reply",
+   "text": "@jayceelewis_ of course!!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120380665535586794",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T04:58:40.000Z",
+   "lang": "en",
+   "conversation_id": "2120379456082923823",
+   "url": "https://x.com/mattyp/status/2120380665535586794",
+   "reply_to": {
+    "id": "2120380299083395295",
+    "username": "turkonthelurk"
+   },
+   "kind": "reply",
+   "text": "@turkonthelurk I love to hear that",
+   "urls": [],
+   "metrics": {
+    "likes": 26,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120380622028038435",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T04:58:29.000Z",
+   "lang": "en",
+   "conversation_id": "2120379456082923823",
+   "url": "https://x.com/mattyp/status/2120380622028038435",
+   "reply_to": {
+    "id": "2120380254585758182",
+    "username": "gnowdivad"
+   },
+   "kind": "reply",
+   "text": "@gnowdivad thank you!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120380598795858211",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T04:58:24.000Z",
+   "lang": "en",
+   "conversation_id": "2120379456082923823",
+   "url": "https://x.com/mattyp/status/2120380598795858211",
+   "reply_to": {
+    "id": "2120380363193344072",
+    "username": "kingcoldgaming1"
+   },
+   "kind": "reply",
+   "text": "@kingcoldgaming1 love to hear it",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120380460387955175",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T04:57:51.000Z",
+   "lang": "en",
+   "conversation_id": "2120206234804727821",
+   "url": "https://x.com/mattyp/status/2120380460387955175",
+   "reply_to": {
+    "id": "2120377658328633747",
+    "username": "JPWMERCH"
+   },
+   "kind": "reply",
+   "text": "@JPWMERCH @bot it depends on what the tasks are!\n\nsometimes there’s overlap, other times you probably don’t want your personal tasks on you employer managed account 😅",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120380190719393956",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T04:56:46.000Z",
+   "lang": "en",
+   "conversation_id": "2120379456082923823",
+   "url": "https://x.com/mattyp/status/2120380190719393956",
+   "reply_to": {
+    "id": "2120379737348735389",
+    "username": "Michael_Fenech_"
+   },
+   "kind": "reply",
+   "text": "@Michael_Fenech_ all credit to the team",
+   "urls": [],
+   "metrics": {
+    "likes": 8,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120380114919944441",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T04:56:28.000Z",
+   "lang": "qme",
+   "conversation_id": "2120206234804727821",
+   "url": "https://x.com/mattyp/status/2120380114919944441",
+   "reply_to": {
+    "id": "2120368635776749842",
+    "username": "paus_d_"
+   },
+   "kind": "reply",
+   "text": "@paus_d_ 🫡",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120380068770046063",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T04:56:17.000Z",
+   "lang": "en",
+   "conversation_id": "2120206234804727821",
+   "url": "https://x.com/mattyp/status/2120380068770046063",
+   "reply_to": {
+    "id": "2120366631792808184",
+    "username": "kevinbhobart"
+   },
+   "kind": "reply",
+   "text": "@kevinbhobart thank you!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120379878466032115",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T04:55:32.000Z",
+   "lang": "en",
+   "conversation_id": "2120379456082923823",
+   "url": "https://x.com/mattyp/status/2120379878466032115",
+   "reply_to": {
+    "id": "2120379783800291677",
+    "username": "asmDevsit"
+   },
+   "kind": "reply",
+   "text": "@asmDevsit working on that!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120379456082923823",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T04:53:51.000Z",
+   "lang": "en",
+   "conversation_id": "2120379456082923823",
+   "url": "https://x.com/mattyp/status/2120379456082923823",
+   "kind": "post",
+   "text": "thank you all for the kind words and support these past few days\n\nthe team has many improvements on the way for Grok Bot\n\nexcited to share them soon!",
+   "urls": [],
+   "metrics": {
+    "likes": 3287,
+    "reposts": 69,
+    "replies": 365,
+    "quotes": 7
+   }
+  },
+  {
+   "id": "2120377971643142541",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T04:47:57.000Z",
+   "lang": "en",
+   "conversation_id": "2120351564720136389",
+   "url": "https://x.com/mattyp/status/2120377971643142541",
+   "reply_to": {
+    "id": "2120351564720136389",
+    "username": "SemiAnalysis_"
+   },
+   "kind": "reply",
+   "text": "@SemiAnalysis_ cool",
+   "urls": [],
+   "metrics": {
+    "likes": 8,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 1
+   }
+  },
   {
    "id": "2120356693653733813",
    "author_id": "1518984544421965824",
@@ -8380,2619 +10893,6 @@
     "reposts": 0,
     "replies": 0,
     "quotes": 0
-   }
-  },
-  {
-   "id": "2119494862253035701",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T18:18:48.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119494862253035701",
-   "reply_to": {
-    "id": "2119491322377888060",
-    "username": "FFT1776"
-   },
-   "kind": "reply",
-   "text": "@FFT1776 @bot That is not good - we will look into attachments particularly",
-   "urls": [],
-   "metrics": {
-    "likes": 4,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119493098023903674",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T18:11:47.000Z",
-   "lang": "und",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119493098023903674",
-   "reply_to": {
-    "id": "2119491627526017362",
-    "username": "coutu_david_cpa"
-   },
-   "kind": "reply",
-   "text": "@coutu_david_cpa @JeebsTX @bot yes",
-   "urls": [],
-   "metrics": {
-    "likes": 2,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119493033800741033",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T18:11:32.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119493033800741033",
-   "reply_to": {
-    "id": "2119491583909175435",
-    "username": "paulctan"
-   },
-   "kind": "reply",
-   "text": "@paulctan @bot noted",
-   "urls": [],
-   "metrics": {
-    "likes": 7,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119493010698408183",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T18:11:26.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119493010698408183",
-   "reply_to": {
-    "id": "2119478951730958368",
-    "username": "Satovinci"
-   },
-   "kind": "reply",
-   "text": "@Satovinci @bot good idea",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119491472747823204",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T18:05:20.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119491472747823204",
-   "reply_to": {
-    "id": "2119489506881470907",
-    "username": "Brobservers"
-   },
-   "kind": "reply",
-   "text": "@Brobservers @bot Understood, thank you for your support. We love small businesses and we will improve",
-   "urls": [],
-   "metrics": {
-    "likes": 10,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119491327679422553",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T18:04:45.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119491327679422553",
-   "reply_to": {
-    "id": "2119489517652521213",
-    "username": "yihanzhu"
-   },
-   "kind": "reply",
-   "text": "@yihanzhu @bot Heard, we’re on it",
-   "urls": [],
-   "metrics": {
-    "likes": 5,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119491287363752322",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T18:04:35.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119491287363752322",
-   "reply_to": {
-    "id": "2119489535138775274",
-    "username": "alesssj4"
-   },
-   "kind": "reply",
-   "text": "@alesssj4 @bot Noted - we will take a look",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 2,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119491140730986945",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T18:04:00.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119491140730986945",
-   "reply_to": {
-    "id": "2119489566273143142",
-    "username": "nfremd"
-   },
-   "kind": "reply",
-   "text": "@nfremd @poteto @bot Contact your local legislator",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119491029112127906",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T18:03:34.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119491029112127906",
-   "reply_to": {
-    "id": "2119489668299530280",
-    "username": "ChrisLausten"
-   },
-   "kind": "reply",
-   "text": "@ChrisLausten @bot Thank you for your support and thank you for sharing. We hear you",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119488544599322780",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:53:41.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119488544599322780",
-   "reply_to": {
-    "id": "2119482704106332447",
-    "username": "hawkman86"
-   },
-   "kind": "reply",
-   "text": "@hawkman86 @bot Agreed",
-   "urls": [],
-   "metrics": {
-    "likes": 6,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119488356992393399",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:52:57.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119488356992393399",
-   "reply_to": {
-    "id": "2119482811992428725",
-    "username": "officialmatt_t"
-   },
-   "kind": "reply",
-   "text": "@officialmatt_t @bot Heard - thank you for being a supporter",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119488324754890904",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:52:49.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119488324754890904",
-   "reply_to": {
-    "id": "2119482796330877121",
-    "username": "jorsisu"
-   },
-   "kind": "reply",
-   "text": "@jorsisu @bot @NousResearch @OpenBot_ We will keep improving",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119488271248240966",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:52:36.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119488271248240966",
-   "reply_to": {
-    "id": "2119482840522109071",
-    "username": "CTMike78"
-   },
-   "kind": "reply",
-   "text": "@CTMike78 @bot We will earn that trust back, thank you",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119488221440848074",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:52:24.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119488221440848074",
-   "reply_to": {
-    "id": "2119482848747139292",
-    "username": "macmodeirl"
-   },
-   "kind": "reply",
-   "text": "@macmodeirl @bot W’s in the chat",
-   "urls": [],
-   "metrics": {
-    "likes": 7,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119488166621266175",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:52:11.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119488166621266175",
-   "reply_to": {
-    "id": "2119482876286636468",
-    "username": "padbor"
-   },
-   "kind": "reply",
-   "text": "@padbor @bot Thank you Boris",
-   "urls": [],
-   "metrics": {
-    "likes": 7,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119488131179426018",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:52:03.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119488131179426018",
-   "reply_to": {
-    "id": "2119482916980084869",
-    "username": "RoyOsherove"
-   },
-   "kind": "reply",
-   "text": "@RoyOsherove @bot Noted",
-   "urls": [],
-   "metrics": {
-    "likes": 5,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119488074124321242",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:51:49.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119488074124321242",
-   "reply_to": {
-    "id": "2119482959719968849",
-    "username": "Major_Alchemist"
-   },
-   "kind": "reply",
-   "text": "@Major_Alchemist @jbrianfrancis @bot I see it",
-   "urls": [],
-   "metrics": {
-    "likes": 2,
-    "reposts": 0,
-    "replies": 2,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119488020550500638",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:51:36.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119488020550500638",
-   "reply_to": {
-    "id": "2119483021393007022",
-    "username": "NotRegularr"
-   },
-   "kind": "reply",
-   "text": "@NotRegularr @bot I hear you and thank you for sticking with me.",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487972747989367",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:51:25.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487972747989367",
-   "reply_to": {
-    "id": "2119483025419604254",
-    "username": "KH99X7"
-   },
-   "kind": "reply",
-   "text": "@KH99X7 @bot We’re on it",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487924551258150",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:51:14.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487924551258150",
-   "reply_to": {
-    "id": "2119483062140690892",
-    "username": "zneebus"
-   },
-   "kind": "reply",
-   "text": "@zneebus @bot Noted",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487879852535997",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:51:03.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487879852535997",
-   "reply_to": {
-    "id": "2119483101973737509",
-    "username": "livesanches"
-   },
-   "kind": "reply",
-   "text": "@livesanches @bot @grok Thank you",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487840488935695",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:50:54.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487840488935695",
-   "reply_to": {
-    "id": "2119483106457534479",
-    "username": "DoanDemiran"
-   },
-   "kind": "reply",
-   "text": "@DoanDemiran @bot Noted",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487803058991284",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:50:45.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487803058991284",
-   "reply_to": {
-    "id": "2119483133741445493",
-    "username": "MichaelPhippen"
-   },
-   "kind": "reply",
-   "text": "@MichaelPhippen @bot Heard",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487765113163899",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:50:36.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487765113163899",
-   "reply_to": {
-    "id": "2119483147318632484",
-    "username": "PhreeStyleBTC"
-   },
-   "kind": "reply",
-   "text": "@PhreeStyleBTC @bot I’m here right now listening",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487727708360706",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:50:27.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487727708360706",
-   "reply_to": {
-    "id": "2119483152867717149",
-    "username": "jojojoyce2021"
-   },
-   "kind": "reply",
-   "text": "@jojojoyce2021 @bot Thank you",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487698469900530",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:50:20.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487698469900530",
-   "reply_to": {
-    "id": "2119483197729968569",
-    "username": "kurtsunx"
-   },
-   "kind": "reply",
-   "text": "@kurtsunx @bot Thank you for the support and thank you for your feedback",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487642123546625",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:50:06.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487642123546625",
-   "reply_to": {
-    "id": "2119483264310059128",
-    "username": "nadavsol"
-   },
-   "kind": "reply",
-   "text": "@nadavsol @bot Noted",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487625795101010",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:50:02.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487625795101010",
-   "reply_to": {
-    "id": "2119483302109397268",
-    "username": "archinator27"
-   },
-   "kind": "reply",
-   "text": "@archinator27 @bot Good idea",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487597357768883",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:49:56.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487597357768883",
-   "reply_to": {
-    "id": "2119483327841181913",
-    "username": "Dukewanders"
-   },
-   "kind": "reply",
-   "text": "@Dukewanders @bot Heard",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487570728116487",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:49:49.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487570728116487",
-   "reply_to": {
-    "id": "2119483324066414797",
-    "username": "JakeDSBD24"
-   },
-   "kind": "reply",
-   "text": "@JakeDSBD24 @hnshah @bot Noted",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487548456337779",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:49:44.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487548456337779",
-   "reply_to": {
-    "id": "2119483344668803228",
-    "username": "T_R_J_YT"
-   },
-   "kind": "reply",
-   "text": "@T_R_J_YT @bot Thank you",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487529082843221",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:49:39.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487529082843221",
-   "reply_to": {
-    "id": "2119483351564452231",
-    "username": "p33991629"
-   },
-   "kind": "reply",
-   "text": "@p33991629 @bot What do you need?",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487437701591126",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:49:17.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487437701591126",
-   "reply_to": {
-    "id": "2119483538856685996",
-    "username": "UziObi"
-   },
-   "kind": "reply",
-   "text": "@UziObi @spcxGOD @dallastesla @JeebsTX @bot Heard",
-   "urls": [],
-   "metrics": {
-    "likes": 8,
-    "reposts": 0,
-    "replies": 2,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487409373188181",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:49:11.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487409373188181",
-   "reply_to": {
-    "id": "2119483547723686251",
-    "username": "EBvek1"
-   },
-   "kind": "reply",
-   "text": "@EBvek1 @bot First, thank you for your support.\n\nI can see why this is frustrating - we are on it",
-   "urls": [],
-   "metrics": {
-    "likes": 5,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487271263171025",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:48:38.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487271263171025",
-   "reply_to": {
-    "id": "2119483619852853419",
-    "username": "KaneMason"
-   },
-   "kind": "reply",
-   "text": "@KaneMason @bot Noted thank you for the feedback",
-   "urls": [],
-   "metrics": {
-    "likes": 17,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119487211322409356",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-08T17:48:24.000Z",
-   "lang": "en",
-   "conversation_id": "2119474599708827957",
-   "url": "https://x.com/mattyp/status/2119487211322409356",
-   "reply_to": {
-    "id": "2119483654720381308",
-    "username": "ElSchumi"
-   },
-   "kind": "reply",
-   "text": "@ElSchumi @bot Noted, thank you for your support",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2119131060806074732",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T18:13:11.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2119131060806074732",
-   "kind": "quote",
-   "text": "Starlink saves lives https://t.co/PwyQL6z3IV",
-   "urls": [],
-   "metrics": {
-    "likes": 839,
-    "reposts": 131,
-    "replies": 157,
-    "quotes": 15
-   },
-   "partial": true,
-   "ref": {
-    "id": "2119122121112879277",
-    "author_id": "1389913567671975937",
-    "username": "cb_doge",
-    "name": "DogeDesigner",
-    "created_at": "2026-11-07T17:37:39.000Z",
-    "text": "BREAKING: Earthquake-hit village in Indonesia receives @Starlink to help restore communications\n\nThe equipment arrived after an Indonesian lawmaker visited Tado village. Starlink can help families get back online, check on loved ones and find out where to get aid. ♥️",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2119122097763192833/vid/avc1/720x720/vqjQwsc2S7bqJrg_.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119122097763192833/img/c4HqhzmbVQRUTGNn.jpg",
-      "width": 720,
-      "height": 720,
-      "duration_ms": 10133
-     }
-    ]
-   }
-  },
-  {
-   "id": "2119130949434888330",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T18:12:44.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2119130949434888330",
-   "kind": "post",
-   "text": "The Tesla Cybertruck order backlog is currently far more than we can make before dismantling the line for Cybercab expansion around June/July next year.\n\nWe will add an extra shift to try to get all orders done in time.",
-   "urls": [],
-   "metrics": {
-    "likes": 1476,
-    "reposts": 173,
-    "replies": 299,
-    "quotes": 28
-   },
-   "partial": true
-  },
-  {
-   "id": "2119130109479162295",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T18:09:24.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2119130109479162295",
-   "kind": "repost",
-   "text": "SpaceX has outlined five contingency landing options for Starship Flight 15 as it prepares for the ship’s first tower-catch attempt at Starbase\n\nThis visualization shows how the mission can change course if the vehicle or tower does not meet the conditions required for a safe return:\n\n1. Indian Ocean — after ascent\nIf the orbital insertion burn is skipped, Starship remains on its suborbital trajectory and reenters over a predetermined area of the Indian Ocean\n\n2. North of Hawaii — early in the mission\nIf the flight needs to end shortly after reaching orbit, Starship returns to a designated area of the Pacific north of Hawaii\n\n3. Off Chile — mid-mission\nA separate return opportunity allows Starship to land in the eastern Pacific, far off the coast of Chile\n\n4. Gulf offshore — catch contingency\nIf the tower catch is called off before final approach, Starship has an offshore landing option in the Gulf instead of proceeding with the catch\n\n5. North of Hawaii — late in the mission\nIf the planned deorbit burn is skipped, Starship completes another orbit before returning to the Pacific north of Hawaii\n\nThe objective is to bring Starship home. The flight plan builds in alternatives throughout the journey, with continuous vehicle-health checks determining when to proceed\n\nAn ambitious mission, backed by carefully planned options from ascent to final approach",
-   "urls": [],
-   "metrics": {
-    "likes": 388,
-    "reposts": 69,
-    "replies": 32,
-    "quotes": 6
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119122688006569984/vid/avc1/1920x1080/sc03GKOHX7soq3z0.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2119122688006569984/img/HlaqSrhiS0sYlBge.jpg",
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 54000
-    }
-   ],
-   "ref": {
-    "id": "2119123323225612354",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-07T17:42:26.000Z"
-   }
-  },
-  {
-   "id": "2119126049288028408",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T17:53:16.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2119126049288028408",
-   "kind": "repost",
-   "text": "The most important thing for the Senate to do is to stay in session EVERY DAY until the Democrats take over. Every judge and nominee confirmed, every priority done.\n\nJobs, affordability, accountability. NO DAYS OFF!",
-   "urls": [],
-   "metrics": {
-    "likes": 1551,
-    "reposts": 295,
-    "replies": 275,
-    "quotes": 37
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119121990900400128/vid/avc1/1280x720/X-pPq84yAOXALrEi.mp4",
-     "poster": "https://pbs.twimg.com/media/HWiiOR2WIAAWACq.jpg",
-     "width": 1280,
-     "height": 720,
-     "duration_ms": 37638
-    }
-   ],
-   "ref": {
-    "id": "2119122035880431703",
-    "author_id": "131546062",
-    "username": "SenRickScott",
-    "name": "Rick Scott",
-    "created_at": "2026-11-07T17:37:19.000Z"
-   }
-  },
-  {
-   "id": "2119118054969770110",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T17:21:30.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2119118054969770110",
-   "reply_to": {
-    "id": "2119105944265412768",
-    "username": "ShanaDiez"
-   },
-   "kind": "reply",
-   "text": "@ShanaDiez @HansKoenigsmann Fate does love irony, so perhaps the unluckiest day will actually be the luckiest 🍀",
-   "urls": [],
-   "metrics": {
-    "likes": 3848,
-    "reposts": 296,
-    "replies": 432,
-    "quotes": 56
-   },
-   "partial": true
-  },
-  {
-   "id": "2119117494992478449",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T17:19:16.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2119117494992478449",
-   "kind": "quote",
-   "text": "True https://t.co/5UdYtlAyND",
-   "urls": [],
-   "metrics": {
-    "likes": 2846,
-    "reposts": 350,
-    "replies": 504,
-    "quotes": 28
-   },
-   "partial": true,
-   "ref": {
-    "id": "2119067057643819026",
-    "author_id": "162234035",
-    "username": "alandail",
-    "name": "Alan Dail",
-    "created_at": "2026-11-07T13:58:51.000Z",
-    "text": "@peterrhague @elonmusk Not only that, Tesla open sources their patents. Competitors are free to copy them."
-   }
-  },
-  {
-   "id": "2119116991596208520",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T17:17:16.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2119116991596208520",
-   "kind": "repost",
-   "text": "SpaceX has just released a new blog about Starship's upcoming 15th flight planned for Nov 13 with more info about what to expect, the significance of this flight, and their approach to safety:\n\n\"Starship is preparing to take a major step towards full reusability: bringing the Starship upper stage back to the launch site for a catch by the tower at Starbase.\n\nTo return Starship to Starbase, the spacecraft must now fly a safe trajectory that will take it over inhabited areas in northern Mexico and southern Texas to reach its launch site for catch. Like previous flight testing and the first successful mission to orbit, Starship’s flight profile for this ambitious mission is being designed with opportunities to safely end the mission early if necessary and will follow strict criteria before committing to the final phases of flight.\n\nOUR APPROACH TO A SAFE RETURN:\nOn Flight 15, Starship will initially launch to a passively safe suborbital trajectory. This is the same flight profile used on Starship’s first orbital mission and ensures that any issues encountered during ascent or shortly thereafter will result in Starship reentering over a cleared area of the Indian Ocean.\n\nAfter this initial ascent, flight controllers will assess the health of Starship’s systems before giving a “go” or “no-go” for orbit. If “go”, Starship will then perform an orbital insertion burn with a single Raptor sea-level engine, increasing its speed and achieving orbit around Earth.\n\nOnce on orbit, Starship will deploy its payload of Starlink V3 satellites. Three of these satellites have been modified to acquire imagery of Starship’s heatshield. This method of analyzing Starship’s heatshield has been tested on previous flights and is one of several data sources to help inform Starship’s readiness to return to the launch site on Flight 15.\n\nAfter deploying its payload, Starship will then coast in orbit for another ~21 hours until its orbit aligns with Starbase for a return. During this multi-hour orbital coast, flight controllers will continuously perform manual and automated checks of Starship systems which, similar to the first orbital flight, will be intentionally conservative. They include Raptor engine health, loss of power or communications, the health of the flight computers and navigation sensors, the structural integrity of the propellant tanks and feedlines, the ability to hold tank pressure, and Starship’s ability to control its attitude.\n\nDuring this prolonged coast phase, flight control teams have several options to end the mission early and return Starship to precleared areas of the Pacific Ocean if needed. These locations include early- and late-mission splashdown options around Hawaii and a mid-mission splashdown opportunity several hundred kilometers off the coast of Chile. These precleared areas, which were also used during Flight 14, provide a safe place to land Starship if any conditions arise that may preclude the ability to perform a safe reentry.\n\nWHAT SHIP CATCH WILL LOOK (AND SOUND) LIKE:\nFlight controllers will only permit Starship to return to Starbase if the vehicle’s status meets our internally developed, and FAA-approved, conditions for a return to launch site and catch.\n\nIf these requirements are met, Starship will perform a deorbit burn with a single Raptor 3 engine. This deorbit burn will alter Starship’s path to place the vehicle on a course to reenter Earth’s atmosphere at a specific point over the Pacific Ocean, thousands of kilometers uprange from Starbase.\n\nDuring reentry, Starship can alter its flight path by moving its four control flaps. This will permit Starship to maintain a safe and known trajectory while guiding itself with high precision control toward Starbase. This control will also allow Starship to carry out a series of small turns in its trajectory to intentionally fly over sparsely populated areas of northern Mexico and southern Texas.\n\nAs Starship approaches Starbase from the west, the vehicle will weave its way around the major cities in the Rio Grande Valley, passing to the north of South Padre Island and out over the Gulf of America as it makes its final turn south towards Starbase. This banking maneuver has been demonstrated several times on previous Starship flight tests.\n\nDuring this phase, residents of Cameron County and those in the nearby area may hear one or more sonic booms as Starship approaches the launch site. A sonic boom is a brief, thunder-like noise a person on the ground hears when an aircraft or other vehicle in the area flies faster than the speed of sound. The sonic boom does not present a health risk and what people experience will depend on weather and other conditions.\n\nAs Starship arrives over Starbase, it will perform the final bellyflop maneuver down towards the tower at Pad 2. This bellyflop was proven during a series of high-altitude test hops and during numerous suborbital flight tests. Shortly before reaching the tower, Starship will ignite its three sea-level Raptor engines and flip itself vertical while stowing its flaps. After the flip is complete, Starship will down-select to two Raptor engines and maneuver between the tower's mechanical arms, before down-selecting to a single engine as it comes to a near hover. The arms will close rapidly to catch Starship on its two catch fittings just below the forward flaps. Once Starship registers contact with the tower arms, it will shut down its final Raptor engine.\n\nDuring reentry, flight controllers will have several options to end the reentry early and safely by intentionally tumbling Starship to ensure that it breaks up in the atmosphere before reaching land. There is also a late-reentry option to send Starship into the Gulf of America if any of its systems or the tower itself encounter an issue after reentry that would preclude a safe catch at Starbase.\n\nTHE HOLY GRAIL OF ROCKETRY:\nRecovering an entire orbital launch system has never been done, and Starship has always been designed change that. This full recovery is often referred to as the Holy Grail of rocketry as it enables full and rapid reuse of a rocket – opening the door to airplane-like cadence where a vehicle flies again rapidly.\n\nReaching this milestone with Starship will allow SpaceX to unlock the true capability of Starship and will enable future missions to establish a permanent human presence on the Moon, expand the worldwide Starlink network, launch our Starmind supercompute constellation, extend the light of consciousness to the stars, and make life multiplanetary.\"\n\nVideo below of the what flight 15's mission profile is:",
-   "urls": [],
-   "metrics": {
-    "likes": 1536,
-    "reposts": 197,
-    "replies": 77,
-    "quotes": 19
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119097035643047936/vid/avc1/1302x722/XFojjXstZIiZgDN1.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2119097035643047936/img/wmblobWCkiv3IZwv.jpg",
-     "width": 1302,
-     "height": 722,
-     "duration_ms": 63353
-    }
-   ],
-   "ref": {
-    "id": "2119097866123624773",
-    "author_id": "243013409",
-    "username": "SawyerMerritt",
-    "name": "Sawyer Merritt",
-    "created_at": "2026-11-07T16:01:16.000Z"
-   }
-  },
-  {
-   "id": "2119116295719338096",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T17:14:30.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2119116295719338096",
-   "kind": "repost",
-   "text": "天呐，海底光缆统治世界的时代要结束了，又要见证历史了🤯。。\n马斯克首次公布 Starlink V4 的极端参数：性能直接跳涨一百倍，光速天然快了一点四倍且不用绕大陆架，上千万条激光链路正在把地球通信主干搬上深空。\n\n绝大多数人至今依然以为，星链只是给偏远山区、游艇和飞机提供网络补丁的边缘工具。\n直到马斯克刚刚在最新的投资人会议上摊开底牌，很多人才第一次看懂 SpaceX 真正的阳谋：把构筑人类现代文明的海底光缆网络，从大洋深处连根拔起，彻底搬到太空。\n这里藏着一个极度反直觉的物理常识： 光在太空真空中的传播速度，比在玻璃光纤里整整快了 40%。\n 更致命的是几何路径的差异。海底光缆必须顺着大陆架和海沟蜿蜒曲折地绕远路，而太空中的卫星激光链路，两点之间永远是沿着大圆航线在真空中直线对穿。这意味着在跨洋超长距离通信上，太空激光的延迟天然比地面光缆更低。\n而阻碍这件事过去的唯一瓶颈，是带宽密度。\n马斯克这次直接给出了技术迭代的量化终局： 从 V2 到即将落地的 V4 卫星，单星吞吐能力将直接迎来 100 倍的暴力跃升。 在更长期的宏大蓝图里，超过 10 万颗卫星组成的轨道阵列，每颗都将配备大约 100 个传输速率超 10 Tbps 的光学激光器，在地球外围织成一张百 Exabit 级别的无缝高速网状路由。\n这已经不是在做卫星宽带了，这是在用火箭把全球互联网的核心骨干网整个重写一遍。\n海底光缆容易被地质地震震断、被船锚挂伤，更深陷地缘博弈的物理封锁；而悬在头顶的真空激光网络，既没有折射损耗，也没有无法逾越的地理边界。\n人类用了上百年时间，把铜线和光纤一根根沉入海底来连接彼此；而未来的文明动脉，注定要在没有阻力的星空里以光速奔流。",
-   "urls": [],
-   "metrics": {
-    "likes": 1691,
-    "reposts": 319,
-    "replies": 135,
-    "quotes": 49
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118782519420088320/vid/avc1/1920x1080/vfMKgMN44jPxvHVc.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2118782519420088320/img/gh5ZDqNun_QSCiW1.jpg",
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 38016
-    }
-   ],
-   "ref": {
-    "id": "2118907113439170814",
-    "author_id": "1974653328274714624",
-    "username": "AYi_AInotes",
-    "name": "AYi",
-    "created_at": "2026-11-07T03:23:17.000Z",
-    "quote": {
-     "id": "2118892954349609282",
-     "author_id": "1974653328274714624",
-     "username": "AYi_AInotes",
-     "name": "AYi",
-     "created_at": "2026-11-07T02:27:02.000Z",
-     "text": "马斯克刚刚把全球半导体制造行业最后一点虚伪的遮羞布撕碎了，\n老马透露今年全世界除了他以外生产的所有 AI 芯片加起来大概只有二十吉瓦，而他正在秘密推进的超级芯片工厂 TeraFab，终极目标是把年产量直接干到整整一太瓦，也就是明年全球总产量的三十倍。\n当大多数科技巨头还在为了抢台积电几万片先进封装配额打破头的时候，\n\n马斯克对 TeraFab 这个名字给出的三重拆解，已经把工业狂人的冷血算盘展现得淋漓尽致，它既谐音代表让人毛骨悚然的恐怖，\n\n也代表扎根于这颗星球的土地，但底层最纯粹的本质就是物理学上的太瓦，一个大到超出人类现行半导体常识的超级怪兽。\n\n按照目前的全球供应链节奏，明年全世界哪怕把吃奶的力气用上，全部 AI 芯片的总功耗产能预计也就只能爬坡到三十五到四十五吉瓦，\n\n在传统半导体代工厂眼里这已经算得上是跨越式的军备竞赛，但放在马斯克以太瓦为单位丈量的物理世界里，整个人类现存的芯片制造体系加在一起，弱小得就像是手工作坊在小打小闹。\n\n这其实彻底挑明了软硬件协同演进的一条绝情铁律，任何把通用人工智能挂在嘴边、却把晶圆制造和先进产能全部寄托给外部代工的软件公司，\n\n本质上都是把自家大厦建在了极其脆弱的流沙上，只要产能杠杆的阀门依然被传统供应链卡在几十吉瓦的窄门里，大模型参数狂飙的尽头就必然是一堵无法逾越的物理高墙。\n\n别再觉得一太瓦的超级工厂只是他在麦克风前的随口狂想了，当一个狠人把工业制造的目标定在超出全世界三十倍的极限位置上，他从一开始就没打算跟现有的玩家在同一个棋盘里抢饭吃，他要做的，是用工业怪兽的绝对吨位，把人类文明推进下一个计算纪元。",
-     "media": [
-      {
-       "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2118772815449165824/vid/avc1/1920x1080/SluO-xV-IMt8cP4V.mp4",
-       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118772815449165824/img/tvcCXtLzaHX4EC5Q.jpg",
-       "width": 1920,
-       "height": 1080,
-       "duration_ms": 75241
-      }
-     ]
-    }
-   }
-  },
-  {
-   "id": "2119114815931039992",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T17:08:38.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2119114815931039992",
-   "kind": "post",
-   "text": "Starship flight maneuvers https://t.co/QVEpWqfm5X",
-   "urls": [],
-   "metrics": {
-    "likes": 8129,
-    "reposts": 961,
-    "replies": 862,
-    "quotes": 143
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWibsJOW4AEDRv7.jpg",
-     "width": 1793,
-     "height": 2048
-    }
-   ]
-  },
-  {
-   "id": "2119114275189039262",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T17:06:29.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2119114275189039262",
-   "kind": "repost",
-   "text": "SpaceX has officially announced that it is currently targeting November 13th at 5:45 PM ET for Starship's 15th flight.\n\nFlight info:\n\"This flight is planned to be the first to return both Starship and Super Heavy to the launch site for catch. If successful, this will mark the first full recovery of an orbital launch system and a breakthrough moment in making Starship a reliable, rapidly reusable rocket.\"\n\n• Flight will last more than 22 hours, completing approximately 14 orbits around Earth.\n• Starship will orbit at an altitude of approximately 275 km (171 miles).\n• First attempt to recover both Super Heavy and Starship at the launch site during the same mission.\n• First return-to-launch-site and catch attempt for a Super Heavy V3 booster.\n• Super Heavy will execute launch, ascent, stage separation, boostback burn, and return to Starbase for a tower catch.\n• Starship will deploy 26 Starlink V3 satellites into orbit before attempting its first return to Starbase and tower catch.\n• The 26 satellites will provide capacity equivalent to approximately 10 Falcon 9 launches carrying Starlink V2 Mini satellites.\n• Satellites will deploy antennas and solar arrays, establish radio and laser communications, and raise their orbits using onboard thrusters.\n• Satellites could begin serving customers within weeks of launch following successful on-orbit checkouts.\n• Three Starlink V3 satellites will carry cameras to inspect Starship's heatshield and transmit imagery to ground operators.\n• Starship's heatshield will feature improved tile retention, additional protection against plasma intrusion, and expanded use of curved tiles to reduce heating between tiles.\n• Starship will only attempt its return and catch if critical reentry, landing burn, and tower approach systems are confirmed healthy.\n• Multiple predetermined ocean deorbit locations and a passively safe suborbital trajectory provide contingency options.\n• A successful mission would mark the first complete recovery of an orbital launch system, a major milestone toward rapid reusability.\n\nMore info: https://www.spacex.com/launches/starship-flight-15",
-   "urls": [
-    "https://www.spacex.com/launches/starship-flight-15"
-   ],
-   "metrics": {
-    "likes": 2999,
-    "reposts": 370,
-    "replies": 146,
-    "quotes": 39
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWiItAeWoAAdOzr.jpg",
-     "width": 2030,
-     "height": 1674
-    }
-   ],
-   "ref": {
-    "id": "2119095373620736058",
-    "author_id": "243013409",
-    "username": "SawyerMerritt",
-    "name": "Sawyer Merritt",
-    "created_at": "2026-11-07T15:51:22.000Z"
-   }
-  },
-  {
-   "id": "2119111949484982731",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T16:57:14.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2119111949484982731",
-   "kind": "repost",
-   "text": "10k kids born today, 10k new 530A accts auto created by @USTreasury w $1000 in the S&P 500 compounding for 18 yrs.  10k kids born tomorrow, 10k new accounts.  And the day after.  Forever. 🇺🇸💰🚀",
-   "urls": [],
-   "metrics": {
-    "likes": 1139,
-    "reposts": 168,
-    "replies": 117,
-    "quotes": 19
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119085174831095808/vid/avc1/480x480/b4VGQUHMSKlCtJ6B.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2119085174831095808/img/5AjqX4NeOtSDigHT.jpg",
-     "width": 480,
-     "height": 480,
-     "duration_ms": 62933
-    }
-   ],
-   "ref": {
-    "id": "2119085865309999174",
-    "author_id": "19082500",
-    "username": "altcap",
-    "name": "Brad Gerstner",
-    "created_at": "2026-11-07T15:13:35.000Z"
-   }
-  },
-  {
-   "id": "2119111445518430392",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T16:55:14.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2119111445518430392",
-   "kind": "repost",
-   "text": "SpaceX just released a detailed blog post explaining how Starship will return to Starbase for its first tower-catch attempt on Flight 15\n\nand it is going to be the first full recovery of an orbital launch system\n\nThe mission brings together both sides of Starship’s future: delivering a major payload to orbit and bringing the entire launch system home for reuse.\n\nSuper Heavy will return minutes after liftoff, while Starship will deploy 26 Starlink V3 satellites, fly a mission of more than 22 hours, then make its way back through the atmosphere toward the tower at Starbase, provided it passes the required vehicle-health checks\n\nThe update walks through the orbital safety checks, heatshield inspections, alternative splashdown locations, the precise approach over northern Mexico and southern Texas, and the final sequence of bellyflop, engine ignition, flip and catch\n\nFlight 15 is targeting launch as early as Friday, November 13, pending regulatory approval. The 75-minute launch window opens at 4:45 p.m. CT. Here is the full plan, from liftoff to bringing both stages home\n\n1. LAUNCH AND THE BOOSTER’S RETURN\n\nSuper Heavy will lift Starship from Starbase before the vehicles separate through hot-staging: Starship ignites its engines while still attached, then continues toward space as the booster turns back.\n\nThe booster will perform its boostback burn, descend toward Starbase and begin its landing burn roughly six minutes after liftoff. The catch is planned for approximately 6 minutes 35 seconds into flight.\n\nThis will be the first catch attempt for a V3 Super Heavy booster. SpaceX has already caught three V1 boosters, with two subsequently flown again.\n\n2. THE HARDWARE DESIGNED FOR CATCHING\n\nSuper Heavy V3 has three grid fins instead of four. Each is 50% larger and significantly stronger, with a new catch point and revised positioning to support lifting and catching operations.\n\nThe tower’s mechanical arms......the chopsticks are shorter to allow faster movement and better tracking during a catch. Their main actuators have changed from hydraulic to electromechanical, improving speed, redundancy and reliability\n\nThese changes are part of the broader V3 architecture, designed around making recovery and reuse routine operations.\n\n3. STARSHIP DOES NOT COMMIT TO ORBIT IMMEDIATELY\n\nThe ship initially follows a passively safe suborbital trajectory rather than entering a sustained orbit directly.\n\nThis is deliberate. If a problem occurs during ascent or shortly afterward, the trajectory takes Starship toward a cleared reentry area over the Indian Ocean without requiring a successful orbital mission.\n\nAfter ascent, flight controllers assess the vehicle’s health and make a go/no-go decision for orbit.\n\nWith a go, one sea-level Raptor performs an orbital insertion burn approximately 26 minutes after liftoff, increasing Starship’s speed enough to establish orbit.\n\n4. DEPLOYING 26 STARLINK V3 SATELLITES\n\nSatellite deployment is planned to begin around 35 minutes into flight and finish around 1 hour 18 minutes.\n\nEach Starlink V3 satellite adds approximately 1 terabit per second of network capacity. SpaceX compares this mission’s 26 satellites with roughly 10 Falcon 9 launches carrying V2 Mini satellites.\n\nAfter deployment, the satellites unfold their antennas and solar arrays, establish radio and laser communications, and use onboard propulsion to raise their orbits. Customer service is expected to begin as soon as a few weeks after launch.\n\nThree satellites have an additional job: photographing Starship’s heatshield.\n\nThose images will be transmitted to operators and become one of several sources of information used to assess whether the ship is ready to return to Starbase. SpaceX has already tested this inspection method on previous flights.\n\n5. ALMOST A DAY IN ORBIT\n\nThe planned mission lasts more than 22 hours, with approximately 14 orbits at an altitude of roughly 275 kilometers.\n\nAfter deploying the satellites, Starship will coast for around another 21 hours until its orbit aligns with Starbase for the return.\n\nThroughout that period, controllers will run continuous manual and automated checks. These cover engine health, power, communications, flight computers, navigation sensors, tank and feedline integrity, tank pressure and attitude control......the ability to maintain the ship’s intended orientation.\n\nThese checks are intentionally conservative. Returning to the tower is something the vehicle must qualify to do through its condition in flight.\n\n6. ALTERNATIVE RETURN OPTIONS THROUGHOUT THE MISSION\n\nThe flight includes opportunities to end the mission early in precleared Pacific Ocean areas if the vehicle is not suitable for a Starbase return.\n\nThese include early- and late-mission splashdown options around Hawaii and a mid-mission opportunity several hundred kilometers off Chile’s coast. The same areas were used during Flight 14.\n\nThe mission therefore has multiple decision points rather than a single commitment to return home regardless of the vehicle’s condition.\n\n7. THE DEORBIT BURN AND REENTRY\n\nStarship will proceed toward Starbase only if it meets SpaceX’s internally developed, FAA-approved conditions for return and catch.\n\nA single Raptor 3 engine will perform the deorbit burn, planned around 21 hours 36 minutes after launch. That changes the ship’s trajectory toward atmospheric entry over the Pacific Ocean, thousands of kilometers uprange from Starbase.\n\nReentry is planned to begin around 22 hours 11 minutes into flight.\n\nThe four control flaps will guide Starship along its intended trajectory while allowing small, deliberate turns to route it over sparsely populated areas of northern Mexico and southern Texas.\n\n8. THE FLIGHT PATH BACK TO STARBASE\n\nStarship will approach from the west and steer around the major cities of the Rio Grande Valley.\n\nIt will pass north of South Padre Island, continue out over the Gulf, then make its final turn south toward Starbase.\n\nThis is not an entirely untested maneuver: SpaceX has demonstrated the banking maneuver on previous Starship flights.\n\nResidents of Cameron County and nearby areas may hear one or more sonic booms. What people experience will depend on weather and other conditions.\n\nReentry over land also has extensive spaceflight precedent, including the Space Shuttle, Dragon’s previous Florida returns, and Soyuz and Shenzhou missions.\n\n9. HOW EARLIER FLIGHTS PREPARED THE HEATSHIELD\n\nPrevious ocean-return tests allowed SpaceX to deliberately push the heatshield, structure and control systems beyond the demands of a normal return to the launch site.\n\nExperiments included removing dozens of heatshield tiles from critical locations and flying maneuvers that subjected the vehicle and flaps to higher heating and aerodynamic forces than a nominal reentry.\n\nFlight 15 also retains Flight 14’s heatshield improvements, including additional tile-retention mechanisms in vulnerable areas, measures addressing plasma intrusion behind tiles, and curved tiles across a large portion of the shield to reduce heating between them.\n\nThe V3 rear-flap mechanism uses a single actuator with three motors per flap, improving redundancy while reducing mass and cost.\n\n10. THE FINAL BELLYFLOP, FLIP AND CATCH\n\nArriving over Starbase, Starship will descend toward the tower at Pad 2 in its bellyflop orientation.\n\nShortly before reaching the tower, it will ignite its three sea-level Raptors, flip upright and stow its flaps.\n\nOnce vertical, it will reduce to two engines and maneuver between the tower’s arms. It will then reduce to one engine as it approaches a near hover.\n\nThe arms will close rapidly around two catch fittings just below the forward flaps.\n\nOnce Starship detects contact with the arms, it will shut down its final engine.\n\nThe ship catch is planned for approximately 22 hours 32 minutes after liftoff. All mission timings are approximate and subject to change.\n\n11. SAFETY OPTIONS REMAIN AVAILABLE DURING REENTRY\n\nSpaceX has built in options to end reentry before the ship reaches land if necessary, including intentionally tumbling the vehicle to ensure atmospheric breakup.\n\nThere is also a late option to divert into the Gulf if either the ship or the tower develops a problem that prevents a safe catch.\n\nThe objective is ambitious, but the return is governed by explicit vehicle-health requirements and multiple alternatives throughout the flight.\n\n12. WHY THIS MISSION MATTERS\n\nCatching the booster solves one part of the recovery challenge. Bringing the upper stage back from orbit addresses the other.\n\nSpaceX described recovering the entire orbital launch system as the “Holy Grail of rocketry” the foundation for full and rapid reuse and an eventual airplane-like flight cadence.\n\nThat is the capability behind Starship’s larger mission: expanding Starlink, deploying the planned Starmind supercompute constellation, establishing a permanent human presence on the Moon and making life multiplanetary.\n\nFlight 15 is taking SpaceX another major step toward that future: launch, deploy, orbit, return and bring both stages home\n\nSpaceX’s full catch update:\nhttps://www.spacex.com/updates#starship-catch\n\nOfficial Flight 15 mission details:\nhttps://www.spacex.com/launches/starship-flight-15",
-   "urls": [
-    "https://www.spacex.com/updates#starship-catch",
-    "https://www.spacex.com/launches/starship-flight-15"
-   ],
-   "metrics": {
-    "likes": 1136,
-    "reposts": 172,
-    "replies": 82,
-    "quotes": 10
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119104042584743936/vid/avc1/1920x1080/fcj2Ag2BmL5peeSg.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2119104042584743936/img/szIDZN3k7EhYyb2h.jpg",
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 49864
-    }
-   ],
-   "ref": {
-    "id": "2119105020423799051",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-07T16:29:42.000Z"
-   }
-  },
-  {
-   "id": "2119111269718364631",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T16:54:32.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2119111269718364631",
-   "kind": "quote",
-   "text": "Catching a giant rocket falling from space https://t.co/UfORzJk1Rz",
-   "urls": [],
-   "metrics": {
-    "likes": 8962,
-    "reposts": 1124,
-    "replies": 953,
-    "quotes": 109
-   },
-   "partial": true,
-   "ref": {
-    "id": "2119093662957060389",
-    "author_id": "34743251",
-    "username": "SpaceX",
-    "name": "SpaceX",
-    "created_at": "2026-11-07T15:44:34.000Z",
-    "text": "Starship is preparing for catch\n\nFlight 15 is targeting to launch as early as Friday, November 13, pending regulatory approval → https://spacex.com/launches/starship-flight-15",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2119092960125956096/vid/avc1/3840x2160/GDn_AtzP9a7swQuw.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119092960125956096/img/Z8AJUBX8VV0RDzzY.jpg",
-      "width": 3840,
-      "height": 2160,
-      "duration_ms": 92010
-     }
-    ]
-   }
-  },
-  {
-   "id": "2119102462808445220",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-07T16:19:32.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2119102462808445220",
-   "reply_to": {
-    "id": "2118847306741190862",
-    "username": "sm0olr"
-   },
-   "kind": "reply",
-   "text": "@sm0olr check out @bot",
-   "urls": [],
-   "metrics": {
-    "likes": 19,
-    "reposts": 0,
-    "replies": 12,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2119093662957060389",
-   "author_id": "34743251",
-   "username": "SpaceX",
-   "name": "SpaceX",
-   "created_at": "2026-11-07T15:44:34.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/SpaceX/status/2119093662957060389",
-   "kind": "post",
-   "text": "Starship is preparing for catch\n\nFlight 15 is targeting to launch as early as Friday, November 13, pending regulatory approval → https://t.co/K5XRci6bnw https://t.co/WS2xGLjVsx",
-   "urls": [],
-   "metrics": {
-    "likes": 10333,
-    "reposts": 1591,
-    "replies": 472,
-    "quotes": 406
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119092960125956096/vid/avc1/3840x2160/GDn_AtzP9a7swQuw.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2119092960125956096/img/Z8AJUBX8VV0RDzzY.jpg",
-     "width": 3840,
-     "height": 2160,
-     "duration_ms": 92010
-    }
-   ]
-  },
-  {
-   "id": "2119048181896163822",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T12:43:51.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2119048181896163822",
-   "reply_to": {
-    "id": "2118990037543195049",
-    "username": "peterrhague"
-   },
-   "kind": "reply",
-   "text": "@peterrhague That was really hard though",
-   "urls": [],
-   "metrics": {
-    "likes": 1685,
-    "reposts": 89,
-    "replies": 275,
-    "quotes": 12
-   },
-   "partial": true
-  },
-  {
-   "id": "2118987688732926120",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T08:43:28.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118987688732926120",
-   "kind": "repost",
-   "text": "Yesterday, I was working on something with Grok Bot when a guy nearby noticed me using it\n\nHe immediately pulled out his phone and started showing me how he uses Grok Bot, how he had set up all his bots, and how he manages his usage limits\n\nhe just literally saw me using Grok Bot and came over out of curiosity. We ended up having a really nice conversation about how we’re both using it haha",
-   "urls": [],
-   "metrics": {
-    "likes": 2307,
-    "reposts": 207,
-    "replies": 243,
-    "quotes": 22
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWgnsFUbYAIcYQu.jpg",
-     "width": 1681,
-     "height": 2048
-    }
-   ],
-   "ref": {
-    "id": "2118987271965966564",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-07T08:41:49.000Z"
-   }
-  },
-  {
-   "id": "2118986909066371107",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T08:40:22.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118986909066371107",
-   "kind": "repost",
-   "text": "Elon Musk is a free speech champion.",
-   "urls": [],
-   "metrics": {
-    "likes": 4802,
-    "reposts": 497,
-    "replies": 210,
-    "quotes": 33
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWd2wDvWMAASuFg.jpg",
-     "width": 1024,
-     "height": 550
-    }
-   ],
-   "ref": {
-    "id": "2118792729476174089",
-    "author_id": "1522266555416985600",
-    "username": "Edison1HQ",
-    "name": "Edison",
-    "created_at": "2026-11-06T19:48:46.000Z"
-   }
-  },
-  {
-   "id": "2118984201160860070",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T08:29:37.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118984201160860070",
-   "kind": "repost",
-   "text": "There is no fact-based argument for a reduction of data center build out due to an already expected split government midterm result or the state voting initiatives.\n\n1. If a local/state gov doesn’t want to make a deal, the cloud/hyperscaler will move to one who will . This isn’t binary, most locals are making deals. The builds over the next 1-1.5yrs are already permitted.\n2. If the US as a whole rejects enough land mass where the demand for AI factories cannot be fulfilled in the US, those AI factories will move offshore repeating the prior 3 decades of globalization and hollowing out of our middle class. It was dumb back then and even dumber now given the geopolitical national security implications of AI sovereignty…\n\n@HalftimeReport @TheJudgeCNBC",
-   "urls": [],
-   "metrics": {
-    "likes": 2874,
-    "reposts": 382,
-    "replies": 223,
-    "quotes": 40
-   },
-   "partial": true,
-   "ref": {
-    "id": "2118757195877925050",
-    "author_id": "770102124382449664",
-    "username": "thejefflutz",
-    "name": "Jeff Lutz 🔋",
-    "created_at": "2026-11-06T17:27:34.000Z"
-   }
-  },
-  {
-   "id": "2118983206422589781",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T08:25:39.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118983206422589781",
-   "kind": "repost",
-   "text": "Tech CEO’s on January 3, 2027",
-   "urls": [],
-   "metrics": {
-    "likes": 23576,
-    "reposts": 1724,
-    "replies": 723,
-    "quotes": 283
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWc-aFkX0AAdeUK.jpg",
-     "width": 1672,
-     "height": 941
-    }
-   ],
-   "ref": {
-    "id": "2118730774182768877",
-    "author_id": "105852422",
-    "username": "alifarhat79",
-    "name": "Not Jerome Powell",
-    "created_at": "2026-11-06T15:42:35.000Z"
-   }
-  },
-  {
-   "id": "2118983131029999893",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T08:25:21.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118983131029999893",
-   "reply_to": {
-    "id": "2118730774182768877",
-    "username": "alifarhat79"
-   },
-   "kind": "reply",
-   "text": "@alifarhat79 😂",
-   "urls": [],
-   "metrics": {
-    "likes": 17448,
-    "reposts": 271,
-    "replies": 525,
-    "quotes": 41
-   },
-   "partial": true
-  },
-  {
-   "id": "2118981577388568654",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T08:19:11.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118981577388568654",
-   "kind": "repost",
-   "text": "@wholemars Not quite betting the company, but going balls to the wall for autonomy is a blindingly obvious move.\n\nEverything else is like variations on a horse carriage.",
-   "urls": [],
-   "metrics": {
-    "likes": 16631,
-    "reposts": 1260,
-    "replies": 997,
-    "quotes": 421
-   },
-   "partial": true,
-   "ref": {
-    "id": "1780376546148327690",
-    "author_id": "44196397",
-    "username": "elonmusk",
-    "name": "Elon Musk",
-    "created_at": "2024-04-16T23:23:41.000Z"
-   }
-  },
-  {
-   "id": "2118978424840876093",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T08:06:39.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118978424840876093",
-   "kind": "repost",
-   "text": "JUST IN: Google to invest $15 billion in Malaysia data centers",
-   "urls": [],
-   "metrics": {
-    "likes": 7380,
-    "reposts": 977,
-    "replies": 340,
-    "quotes": 754
-   },
-   "partial": true,
-   "ref": {
-    "id": "2117932367587504589",
-    "author_id": "1071484733543079936",
-    "username": "Kalshi",
-    "name": "Kalshi",
-    "created_at": "2026-11-04T10:50:00.000Z"
-   }
-  },
-  {
-   "id": "2118975995269296438",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T07:57:00.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118975995269296438",
-   "kind": "repost",
-   "text": "Gavin Baker owned 15% of Nvidia and 10% of Tesla before either was worth $2 billion. He’s 50. And he just admitted Claude Code was too hard for him, so he switched to Grok Bot.\n\n“I glued together all this stuff with Claude Code and, you know, I’m sure it was user error on my part. 50 years old. I’m doing my best.”\n\nThen he tried Grok Bot.\n\n“Grok Bot is the most impactful AI product to me and to the firm that we’ve had yet.”\n\n“It just makes it so easy. I think I’m up to like 17 Grok Bots, and every day I think of a new one to add.”\n\nAnd it’s not a toy for him. It’s how he runs money:\n\n“For the more professional use cases, Grok Bot has just been transformative for me.”\n\n“So much of investing is making sure that the right information gets to the right person at the right time, and Grok Bot is so good at that.”\n\nOne of the best tech investors alive runs his firm on 17 AI agents. And he’s adding a new one every day.",
-   "urls": [],
-   "metrics": {
-    "likes": 1318,
-    "reposts": 156,
-    "replies": 54,
-    "quotes": 19
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118452199051173888/vid/avc1/1920x1080/6ctPGiSJQ58NbCEf.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2118452199051173888/img/bdUWAikkvpzEu7rz.jpg",
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 56866
-    }
-   ],
-   "ref": {
-    "id": "2118452360066355485",
-    "author_id": "1443317055026077703",
-    "username": "stark0xbt",
-    "name": "stark0xbt",
-    "created_at": "2026-11-05T21:16:16.000Z",
-    "quote": {
-     "id": "2110060506782253061",
-     "author_id": "1443317055026077703",
-     "username": "stark0xbt",
-     "name": "stark0xbt",
-     "created_at": "2026-10-13T17:30:02.000Z",
-     "text": "https://x.com/i/article/2109986286463234048",
-     "article_title": "The Age of Elon in Receipts: What 15 Blue-Chip Fund Managers Have Said About Musk in 2026"
-    }
-   }
-  },
-  {
-   "id": "2118975571812327503",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T07:55:19.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118975571812327503",
-   "kind": "repost",
-   "text": "If you’re right wing and you can’t admit liberals (not communists) are way better at art and design and boutique coffee shops and restaurants, you’re not living in reality.\n\nIf you’re left wing and you can’t admit conservatives are way better at running cities and businesses and police departments, you’re not living in reality.\n\nYou step inside a beautiful coffee shop in the PNW and think “man, these liberals are great at this stuff…conservatives should take notes.” Then the moment you step outside and trip over a homeless drug zombie shooting up fentanyl on the sidewalk, you think “man these liberals are terrible at this stuff…they should really take notes from conservatives”\n\nCommunists make disgusting anti-beauty art, but classical liberals aren’t like that. Put the libs in charge of the coffee shops, put the conservatives in charge of city hall. This is how you get a city that is beautiful, clean, and functional.\n\nIf you can’t accept that, you need to check your tribalism. We are never getting rid of each other, so figure out how we strike a balance or else the communists swoop in and take everything from us while we quarrel over stupid bullshit…which is exactly what’s happening now.",
-   "urls": [],
-   "metrics": {
-    "likes": 43233,
-    "reposts": 4423,
-    "replies": 2633,
-    "quotes": 520
-   },
-   "partial": true,
-   "ref": {
-    "id": "2118762477060251823",
-    "author_id": "23395456",
-    "username": "spencerpratt",
-    "name": "Spencer Pratt",
-    "created_at": "2026-11-06T17:48:33.000Z",
-    "quote": {
-     "id": "2118738403919568925",
-     "author_id": "23395456",
-     "username": "spencerpratt",
-     "name": "Spencer Pratt",
-     "created_at": "2026-11-06T16:12:54.000Z",
-     "text": "Conservatives make society functional. Liberals make society beautiful.\n\nWe really do need each other."
-    }
-   }
-  },
-  {
-   "id": "2118967587069673914",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T07:23:35.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118967587069673914",
-   "reply_to": {
-    "id": "2118954119134359767",
-    "username": "cz_binance"
-   },
-   "kind": "reply",
-   "text": "@cz_binance @MartiniGuyYT Yeah, I never wrote anything like that. This is made up.",
-   "urls": [],
-   "metrics": {
-    "likes": 9929,
-    "reposts": 346,
-    "replies": 635,
-    "quotes": 118
-   },
-   "partial": true
-  },
-  {
-   "id": "2118959379982479658",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T06:50:59.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118959379982479658",
-   "kind": "repost",
-   "text": "“They put a pump in the anus of a 12 year old girl to expand it so multiple men could rape her and your country covered that up and then told me Tommy was the bad guy.”\n\nTim Pool pushes back on Piers Morgan demonizing Elon Musk’s defense of Tommy Robinson for exposing the UK police’s grooming gang coverup.",
-   "urls": [],
-   "metrics": {
-    "likes": 54725,
-    "reposts": 11283,
-    "replies": 2634,
-    "quotes": 372
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118433722538049537/vid/avc1/884x482/cGvzHnKMEUdG6YTg.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2118433722538049537/img/jxtU1rzVdZUFzhmp.jpg",
-     "width": 884,
-     "height": 482,
-     "duration_ms": 346673
-    }
-   ],
-   "ref": {
-    "id": "2118434538762432752",
-    "author_id": "2111494743754452992",
-    "username": "DTruthsQ",
-    "name": "Truth Org",
-    "created_at": "2026-11-05T20:05:27.000Z"
-   }
-  },
-  {
-   "id": "2118957318473974210",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T06:42:47.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118957318473974210",
-   "kind": "repost",
-   "text": "Here's some fuel for all the Europoor haters:\n\nGermany just told us we'd have to fire one of our 3 founders to qualify for funding.\n\nI was in talks with a German state-backed fund of fund managing billions, with one single mandate: invest in German funds to drive innovation and economic growth in the country.\n\nThey literally told me they like us a lot and are also impressed by our track record and performance so far, and even though not everyone in their team is a fan of our thesis, they believe in it.\n\nBut they passed for a whole different reason:\n\nBecause our all-male team of 3 people isn't \"diverse enough\" lol.\n\nthey literally told me: hire two more female partners (impossible on the economics of a fund our size), or let one of the three of us go to make room for a quota hire. do that, and they'd strongly consider investing.\n\nI won't even get into how discriminatory this is toward men in the first place. nobody takes that seriously anyway, and honestly I don't care.\n\nbut what actually gets me is something bigger: as a German, I have to face the fact that the whole world continuing to laugh at Germany and overall Europe is completely justified.\n\na system that quietly kills the smallest, hungriest teams, the exact ones this money was created to support. and then everyone acts surprised that talent and capital keep leaving the country.",
-   "urls": [],
-   "metrics": {
-    "likes": 17744,
-    "reposts": 2030,
-    "replies": 698,
-    "quotes": 192
-   },
-   "partial": true,
-   "ref": {
-    "id": "2118688674548265131",
-    "author_id": "1600230048572792846",
-    "username": "sjdedic",
-    "name": "Simon Dedic",
-    "created_at": "2026-11-06T12:55:18.000Z"
-   }
-  },
-  {
-   "id": "2118956856978653374",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T06:40:57.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118956856978653374",
-   "kind": "quote",
-   "text": "True https://t.co/AcOTy7FO12",
-   "urls": [],
-   "metrics": {
-    "likes": 6850,
-    "reposts": 951,
-    "replies": 1144,
-    "quotes": 75
-   },
-   "partial": true,
-   "ref": {
-    "id": "2118953104637141072",
-    "author_id": "1637507099558027267",
-    "username": "cremieuxrecueil",
-    "name": "Crémieux",
-    "created_at": "2026-11-07T06:26:03.000Z",
-    "text": "Whenever people say the U.S. has a lot of starvation, it's like they're saying they don't realize the poor have obesity issues these days.",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HWgIm0ua8AAuaFi.jpg",
-      "width": 3901,
-      "height": 2442
-     }
-    ],
-    "quote": {
-     "id": "2118925738414120969",
-     "author_id": "1637507099558027267",
-     "username": "cremieuxrecueil",
-     "name": "Crémieux",
-     "created_at": "2026-11-07T04:37:18.000Z",
-     "text": "It's true, people are starving. Just not in America.\n\nI looked through all 22 U.S. starvation from lack of food cases for 2024 (the latest year of data) and found that not one of them was actually about deprivation-driven starvation.  https://twitter.com/jason_schrock/status/2118732859875696694",
-     "media": [
-      {
-       "type": "photo",
-       "url": "https://pbs.twimg.com/media/HWfvNCvbEAAAKze.jpg",
-       "width": 1484,
-       "height": 1048
-      }
-     ]
-    }
-   }
-  },
-  {
-   "id": "2118955957040345580",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T06:37:23.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118955957040345580",
-   "reply_to": {
-    "id": "2118856075885883551",
-    "username": "CollinRugg"
-   },
-   "kind": "reply",
-   "text": "@CollinRugg They are evil witches https://t.co/aiFIedUNVc",
-   "urls": [],
-   "metrics": {
-    "likes": 17646,
-    "reposts": 1019,
-    "replies": 751,
-    "quotes": 66
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "animated_gif",
-     "url": "https://video.twimg.com/tweet_video/HWgLNSFW4AAf41A.mp4",
-     "poster": "https://pbs.twimg.com/tweet_video_thumb/HWgLNSFW4AAf41A.jpg",
-     "width": 500,
-     "height": 214
-    }
-   ]
-  },
-  {
-   "id": "2118955209757962425",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T06:34:24.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118955209757962425",
-   "kind": "repost",
-   "text": "When computers and robots advance enough, legacy governance will look awkwardly quaint.\n\nIf they can build almost everything, why can't residents submit proposals, vote on them, and have them built?\n\nInstead of years of theater, projects can be completed in days.\n\nWant a high-speed railway? It costs X joules and hours to construct and Y joules per day to operate, with options A, B, and C. The full blueprint is attached for verification. No endless fake tax-raising campaign to fund something that does not exist. You pay with the electricity bill. No additional income or property taxes. Obviously, places with cheap electricity would have more build-out than places that don’t.\n\nOnce started, every agent can access the real-time status.\n\nIt may seem like fantasy, but the technology is almost there.",
-   "urls": [],
-   "metrics": {
-    "likes": 1816,
-    "reposts": 230,
-    "replies": 130,
-    "quotes": 32
-   },
-   "partial": true,
-   "ref": {
-    "id": "2118735799953101194",
-    "author_id": "1577705091737432070",
-    "username": "yunta_tsai",
-    "name": "Yun-Ta Tsai",
-    "created_at": "2026-11-06T16:02:33.000Z"
-   }
-  },
-  {
-   "id": "2118953789357281607",
-   "author_id": "34743251",
-   "username": "SpaceX",
-   "name": "SpaceX",
-   "created_at": "2026-11-07T06:28:46.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/SpaceX/status/2118953789357281607",
-   "kind": "post",
-   "text": "Falcon 9 launches USSF-432 to orbit from pad 4E in California https://t.co/aEMgy2wy1f",
-   "urls": [],
-   "metrics": {
-    "likes": 4143,
-    "reposts": 423,
-    "replies": 221,
-    "quotes": 61
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWgJGcsXsAAgAeD.jpg",
-     "width": 3700,
-     "height": 2467
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWgJGvAWsAA4qI_.jpg",
-     "width": 2200,
-     "height": 3300
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWgJHOiXoAAcEa6.jpg",
-     "width": 999,
-     "height": 1499
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWgJHnxWEAA2PEr.jpg",
-     "width": 4096,
-     "height": 2731
-    }
-   ]
-  },
-  {
-   "id": "2118949294250348740",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T06:10:54.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118949294250348740",
-   "reply_to": {
-    "id": "2118947871705928151",
-    "username": "yunta_tsai"
-   },
-   "kind": "reply",
-   "text": "@yunta_tsai 💯",
-   "urls": [],
-   "metrics": {
-    "likes": 1409,
-    "reposts": 77,
-    "replies": 146,
-    "quotes": 9
-   },
-   "partial": true
-  },
-  {
-   "id": "2118949190713889136",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T06:10:29.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118949190713889136",
-   "reply_to": {
-    "id": "2118908994484060432",
-    "username": "Scobleizer"
-   },
-   "kind": "reply",
-   "text": "@Scobleizer We are still building Cybertruck for another 8 or 9 months btw, but then Tesla needs to focus on scaling Cybercab.\n\nThere will never be another vehicle like it.",
-   "urls": [],
-   "metrics": {
-    "likes": 14715,
-    "reposts": 791,
-    "replies": 1508,
-    "quotes": 198
-   },
-   "partial": true
-  },
-  {
-   "id": "2118935230182805688",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T05:15:01.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118935230182805688",
-   "kind": "quote",
-   "text": "5 years ago https://t.co/eT7s4BkH44",
-   "urls": [],
-   "metrics": {
-    "likes": 12597,
-    "reposts": 1040,
-    "replies": 1017,
-    "quotes": 65
-   },
-   "partial": true,
-   "ref": {
-    "id": "1426199109585756163",
-    "author_id": "44196397",
-    "username": "elonmusk",
-    "name": "Elon Musk",
-    "created_at": "2021-08-13T15:08:59.000Z",
-    "text": "@ErcXspace And ship will be caught by Mechazilla too. As with booster, no landing legs. Those are only needed for moon & Mars until there is local infrastructure."
-   }
-  },
-  {
-   "id": "2118927717366436067",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-07T04:45:10.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2118927717366436067",
-   "reply_to": {
-    "id": "2118912455560876222",
-    "username": "samlambert"
-   },
-   "kind": "reply",
-   "text": "@samlambert @BenjDicken concerning",
-   "urls": [],
-   "metrics": {
-    "likes": 3,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2118927557517324641",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-07T04:44:32.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2118927557517324641",
-   "reply_to": {
-    "id": "2118883254795399566",
-    "username": "KacperRutk"
-   },
-   "kind": "reply",
-   "text": "@KacperRutk 🫡",
-   "urls": [],
-   "metrics": {
-    "likes": 13,
-    "reposts": 1,
-    "replies": 2,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2118913260112273674",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T03:47:43.000Z",
-   "lang": "en",
-   "conversation_id": "2118913260112273674",
-   "url": "https://x.com/elonmusk/status/2118913260112273674",
-   "kind": "repost",
-   "text": "It’s time to put all the pieces together, the early tests to see how crazy it was to build a vehicle this size, the suborbital hops to practice subsonic maneuvering, the first real booster, expendable flight tests, trips to the Indian Ocean, and last flight with payload to orbit. We are one step away from the full mission, and that step is the double catch.\n\nWe will try for the first time on flight 15. I don’t think and of us can promise it will work the first time, but getting here feels like a turning point. I still feel like there’s so much to review (and we will be doing that continuously between now and launch) but when I take a moment to stop and think about it, it is overwhelmingly exciting. This is the rocket that will build a human civilization on another planet.",
-   "urls": [
-    "https://twitter.com/elonmusk/status/2118732082843435305"
-   ],
-   "metrics": {
-    "likes": 660,
-    "reposts": 92,
-    "replies": 39,
-    "quotes": 5
-   },
-   "ref": {
-    "id": "2118896809263169862",
-    "author_id": "589369459",
-    "username": "ShanaDiez",
-    "name": "Shana Diez",
-    "created_at": "2026-11-07T02:42:21.000Z"
-   }
-  },
-  {
-   "id": "2118909361468985680",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T03:32:13.000Z",
-   "lang": "qme",
-   "conversation_id": "2118880932014997910",
-   "url": "https://x.com/elonmusk/status/2118909361468985680",
-   "reply_to": {
-    "id": "2118884370589024706",
-    "username": "typicalfo"
-   },
-   "kind": "reply",
-   "text": "@typicalfo 🔥😂",
-   "urls": [],
-   "metrics": {
-    "likes": 291,
-    "reposts": 15,
-    "replies": 51,
-    "quotes": 4
-   }
-  },
-  {
-   "id": "2118884500201787770",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T01:53:26.000Z",
-   "lang": "en",
-   "conversation_id": "2118884500201787770",
-   "url": "https://x.com/elonmusk/status/2118884500201787770",
-   "kind": "quote",
-   "text": "In the coming years, @Neuralink will enable people to walk and use their hands again",
-   "urls": [],
-   "metrics": {
-    "likes": 7150,
-    "reposts": 1041,
-    "replies": 921,
-    "quotes": 104
-   },
-   "ref": {
-    "id": "2118881685521740104",
-    "author_id": "1016059981907386368",
-    "username": "teslaownersSV",
-    "name": "Tesla Owners Silicon Valley",
-    "created_at": "2026-11-07T01:42:15.000Z",
-    "text": "Neuralink gave Noland Arbaugh something to wake up for.\n\n“I didn’t have anything to wake up for in the morning, and this has changed that for me.”\n\n@elonmusk  says he’s fairly confident Neuralink could restore full-body functionality at some point in the future—not a capability achieved today.",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118881638407135232/vid/avc1/1920x1080/yAqcq3qlCk3ufglU.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118881638407135232/img/JImkC5uj1WABmbn2.jpg",
-      "width": 1920,
-      "height": 1080,
-      "duration_ms": 22033
-     }
-    ]
-   }
-  },
-  {
-   "id": "2118884257053684077",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T01:52:28.000Z",
-   "lang": "en",
-   "conversation_id": "2118884257053684077",
-   "url": "https://x.com/elonmusk/status/2118884257053684077",
-   "kind": "repost",
-   "text": "I'm telling you Grok's speech-to-text literally the best there is\n\nI was literally talking to Grok with music blasting right next to my ears. It was so loud that the person next to me could barely hear me talking\n\nYet Grok was transcribing everything incredibly accurately\n\nIt's gotten so good that I trust it way too much now. I don't even bother checking the text after talking to Grok Bot anymore\n\nYou can try it it's unbelievably good",
-   "urls": [],
-   "metrics": {
-    "likes": 927,
-    "reposts": 106,
-    "replies": 96,
-    "quotes": 3
-   },
-   "ref": {
-    "id": "2118696586213756935",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-06T13:26:44.000Z"
-   }
-  },
-  {
-   "id": "2118882656230518829",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T01:46:06.000Z",
-   "lang": "en",
-   "conversation_id": "2118818240923103687",
-   "url": "https://x.com/elonmusk/status/2118882656230518829",
-   "reply_to": {
-    "id": "2118818240923103687",
-    "username": "SawyerMerritt"
-   },
-   "kind": "reply",
-   "text": "@SawyerMerritt Don has been a great board member. Very much appreciate his contributions.\n\nAt this point, there are simply too many conflicts of interest with Alphabet, so he decided to step down.",
-   "urls": [],
-   "metrics": {
-    "likes": 6148,
-    "reposts": 259,
-    "replies": 131,
-    "quotes": 9
-   }
-  },
-  {
-   "id": "2118881284743483488",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T01:40:39.000Z",
-   "lang": "en",
-   "conversation_id": "2118881284743483488",
-   "url": "https://x.com/elonmusk/status/2118881284743483488",
-   "kind": "quote",
-   "text": "Super intelligence leads to abundance",
-   "urls": [],
-   "metrics": {
-    "likes": 4443,
-    "reposts": 681,
-    "replies": 725,
-    "quotes": 70
-   },
-   "ref": {
-    "id": "2118737977824395524",
-    "author_id": "2066250685512110080",
-    "username": "firesidealpha",
-    "name": "Fireside Alpha",
-    "created_at": "2026-11-06T16:11:12.000Z",
-    "text": "SpaceX’s Arizona data center, per a county supervisor: “We could be reducing property taxes across the board in Cochise County, the entire county, by 20%”\n\nFrank Antenori, whose district includes the site, brought up the county’s tax math during a live Q&A:\n\n“Here’s just something to just chew on. Arizona has an expenditure limit requirement that is placed on counties. If we exceed that expenditure, we have to rebate back to the taxpayers a certain amount.”\n\n“So, if we’re receiving revenue in from SpaceX, by law, we have to offset that to the taxpayers. We have the potential to reduce, based on the projected revenue they’re creating, as much as 20%.”\n\n“Let me just say it again. We could be reducing property taxes across the board in Cochise County, the entire county, by 20% to offset for the revenue here, because we can’t spend all that money. So, we have to give that money back to the taxpayers. The law says we have to.”\n\n“So, you could see a potential significant impact to local property taxes. What that is, I don’t know. We’re going to have to do the math on it. But the law, if we have this large increase in property tax revenue, we have to balance those rates. So that will reduce dramatically the property tax burden of every resident in the county.”\n\n“The construction sales tax, which also is the TPT, the transaction privilege tax, the retail tax, and the jail excise tax. So that will be part of the construction tax. We could literally use that money to pay the jail off in 2 to 3 years, as opposed to the 13 to 20 years.”\n\n“So this could be a revenue to eliminate the half-cent sales tax in 2 to 3 years. We can get rid of that half-cent sales tax.”",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118736205609340928/vid/avc1/360x640/kOYzqVDBLgaiawu1.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118736205609340928/img/KWeruYCF6AbYAMdV.jpg",
-      "width": 360,
-      "height": 640,
-      "duration_ms": 81399
-     }
-    ],
-    "quote": {
-     "id": "2118509349278794009",
-     "author_id": "2066250685512110080",
-     "username": "firesidealpha",
-     "name": "Fireside Alpha",
-     "created_at": "2026-11-06T01:02:43.000Z",
-     "text": "Texas Governor-elect Gina Hinojosa: \"We can have a strong working relationship with Elon Musk and his companies, but it has to be on our terms\"\n\nJake Tapper asked her about blocking the sale of a Texas state park to SpaceX, and whether Musk might leave the state over it. Her answer:\n\n“Well, look, as I said before, we have to have balance. These are our beaches we’re talking about. I mean, selling our beach to Elon Musk is just something that is almost unimaginable. It’s unacceptable. Our beaches are enshrined in our Texas Constitution as being free and open to the people of Texas because they are our beaches.\"\n\n\"We can have a strong working relationship with Elon Musk and his companies, but it has to be on our terms. It cannot be just running over the people of Texas. And that’s what changes now that I will be governor.”",
-     "media": [
-      {
-       "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2118509091836526593/vid/avc1/1920x1080/jOuD3r2H8KGxoLKB.mp4",
-       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118509091836526593/img/yndUpVk4XSgDCa7G.jpg",
-       "width": 1920,
-       "height": 1080,
-       "duration_ms": 35368
-      }
-     ]
-    }
-   }
-  },
-  {
-   "id": "2118880932014997910",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T01:39:15.000Z",
-   "lang": "en",
-   "conversation_id": "2118880932014997910",
-   "url": "https://x.com/elonmusk/status/2118880932014997910",
-   "kind": "post",
-   "text": "It is so tempting to make a 500 ton thrust Raptor 4 in place of the 250 ton Raptor 3 for the outer ring of the Starship booster",
-   "urls": [],
-   "metrics": {
-    "likes": 16103,
-    "reposts": 894,
-    "replies": 2357,
-    "quotes": 207
-   }
-  },
-  {
-   "id": "2118876612544561449",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T01:22:05.000Z",
-   "lang": "en",
-   "conversation_id": "2118876612544561449",
-   "url": "https://x.com/elonmusk/status/2118876612544561449",
-   "kind": "quote",
-   "text": "5 years ago",
-   "urls": [],
-   "metrics": {
-    "likes": 3640,
-    "reposts": 470,
-    "replies": 466,
-    "quotes": 25
-   },
-   "ref": {
-    "id": "2118871003258564860",
-    "author_id": "1016059981907386368",
-    "username": "teslaownersSV",
-    "name": "Tesla Owners Silicon Valley",
-    "created_at": "2026-11-07T00:59:48.000Z",
-    "text": "Elon called catching rockets with giant chopstick arms “bananas” years before SpaceX pulled it off.\n\n“We’re talking about catching the largest flying object ever made on a giant tower with chopstick arms. It’s like Karate Kid with the fly, but much bigger.”\n\nElon Musk, Lex Fridman Podcast #252, December 2021.",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118870971339993088/vid/avc1/1920x1080/z11JMOGFpcCSnVHo.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118870971339993088/img/UjQrf8YY_maXcqcw.jpg",
-      "width": 1920,
-      "height": 1080,
-      "duration_ms": 21033
-     }
-    ]
-   }
-  },
-  {
-   "id": "2118875601654436061",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T01:18:04.000Z",
-   "lang": "en",
-   "conversation_id": "2118875601654436061",
-   "url": "https://x.com/elonmusk/status/2118875601654436061",
-   "kind": "post",
-   "text": "Starship is the most powerful moving object of any kind made by humans",
-   "urls": [],
-   "metrics": {
-    "likes": 14043,
-    "reposts": 1667,
-    "replies": 1089,
-    "quotes": 159
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118799381264769024/vid/avc1/1920x1080/Cs8Y9vrHhe1hgUW2.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2118799381264769024/img/yPJeqmQ5j8SC8U3r.jpg",
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 222000
-    }
-   ]
-  },
-  {
-   "id": "2118873336868643041",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T01:09:04.000Z",
-   "lang": "en",
-   "conversation_id": "2118868853740777896",
-   "url": "https://x.com/elonmusk/status/2118873336868643041",
-   "reply_to": {
-    "id": "2118868853740777896",
-    "username": "XFreeze"
-   },
-   "kind": "reply",
-   "text": "@XFreeze Information traveling through space in our solar system will ultimately exceed current Earth traffic by a trillion trillion times. People have no idea.",
-   "urls": [],
-   "metrics": {
-    "likes": 7781,
-    "reposts": 781,
-    "replies": 447,
-    "quotes": 64
-   }
-  },
-  {
-   "id": "2118872598058860671",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T01:06:08.000Z",
-   "lang": "en",
-   "conversation_id": "2118872598058860671",
-   "url": "https://x.com/elonmusk/status/2118872598058860671",
-   "kind": "quote",
-   "text": "Of course I Still Love You",
-   "urls": [],
-   "metrics": {
-    "likes": 11103,
-    "reposts": 1063,
-    "replies": 1169,
-    "quotes": 127
-   },
-   "ref": {
-    "id": "2118870818021097862",
-    "author_id": "34743251",
-    "username": "SpaceX",
-    "name": "SpaceX",
-    "created_at": "2026-11-07T00:59:04.000Z",
-    "text": "Falcon 9’s first stage lands on the Of Course I Still Love You droneship",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118870452604960768/vid/avc1/3840x2160/XKz1ZToA4_23F12g.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118870452604960768/img/K8U8zCZpZP3Hl_Yp.jpg",
-      "width": 3840,
-      "height": 2160,
-      "duration_ms": 18071
-     }
-    ]
-   }
-  },
-  {
-   "id": "2118871866194674099",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T01:03:14.000Z",
-   "lang": "en",
-   "conversation_id": "2118789940112740718",
-   "url": "https://x.com/elonmusk/status/2118871866194674099",
-   "reply_to": {
-    "id": "2118789940112740718",
-    "username": "PhilipJohnston"
-   },
-   "kind": "reply",
-   "text": "@PhilipJohnston If we shrink laser size, assuming 10X closer proximity, and have small gimbal angle for in-plane links, maybe we can get to 100 lasers/sat",
-   "urls": [],
-   "metrics": {
-    "likes": 1962,
-    "reposts": 138,
-    "replies": 162,
-    "quotes": 15
-   }
-  },
-  {
-   "id": "2118871670169690147",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-07T01:02:27.000Z",
-   "lang": "en",
-   "conversation_id": "2118871619074720147",
-   "url": "https://x.com/mattyp/status/2118871670169690147",
-   "reply_to": {
-    "id": "2118871658337550635",
-    "username": "mattyp"
-   },
-   "kind": "reply",
-   "text": "more updates on the way!\n\nhttps://docs.x.ai/grok-bot/overview?v=3",
-   "urls": [
-    "https://docs.x.ai/grok-bot/overview?v=3"
-   ],
-   "metrics": {
-    "likes": 54,
-    "reposts": 2,
-    "replies": 1,
-    "quotes": 1
-   }
-  },
-  {
-   "id": "2118871658337550635",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-07T01:02:24.000Z",
-   "lang": "en",
-   "conversation_id": "2118871619074720147",
-   "url": "https://x.com/mattyp/status/2118871658337550635",
-   "reply_to": {
-    "id": "2118871619074720147",
-    "username": "mattyp"
-   },
-   "kind": "reply",
-   "text": "sweating the details!",
-   "urls": [],
-   "metrics": {
-    "likes": 88,
-    "reposts": 3,
-    "replies": 5,
-    "quotes": 0
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118871631959580672/vid/avc1/1920x1080/ECj7OUV_QJ5F-3mX.mp4?tag=16",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2118871631959580672/img/S3AU8A_c0aC1XU8r.jpg",
-     "width": 3840,
-     "height": 2160,
-     "duration_ms": 12000
-    }
-   ]
-  },
-  {
-   "id": "2118871619074720147",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-07T01:02:15.000Z",
-   "lang": "en",
-   "conversation_id": "2118871619074720147",
-   "url": "https://x.com/mattyp/status/2118871619074720147",
-   "kind": "post",
-   "text": "the grok bot docs just got a facelift",
-   "urls": [],
-   "metrics": {
-    "likes": 537,
-    "reposts": 30,
-    "replies": 62,
-    "quotes": 7
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118871578645827584/vid/avc1/1920x1080/BOB8HTLY4fN7OKz4.mp4?tag=16",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2118871578645827584/img/4l0iCkmdhEY_gUub.jpg",
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 18100
-    }
-   ]
-  },
-  {
-   "id": "2118870818021097862",
-   "author_id": "34743251",
-   "username": "SpaceX",
-   "name": "SpaceX",
-   "created_at": "2026-11-07T00:59:04.000Z",
-   "lang": "en",
-   "conversation_id": "2118870818021097862",
-   "url": "https://x.com/SpaceX/status/2118870818021097862",
-   "kind": "post",
-   "text": "Falcon 9’s first stage lands on the Of Course I Still Love You droneship",
-   "urls": [],
-   "metrics": {
-    "likes": 3471,
-    "reposts": 386,
-    "replies": 190,
-    "quotes": 54
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118870452604960768/vid/avc1/3840x2160/XKz1ZToA4_23F12g.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2118870452604960768/img/K8U8zCZpZP3Hl_Yp.jpg",
-     "width": 3840,
-     "height": 2160,
-     "duration_ms": 18071
-    }
-   ]
-  },
-  {
-   "id": "2118870542820462827",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T00:57:58.000Z",
-   "lang": "en",
-   "conversation_id": "2118870542820462827",
-   "url": "https://x.com/elonmusk/status/2118870542820462827",
-   "kind": "repost",
-   "text": "Watch Falcon 9 launch the USSF-432 mission from pad 4E in California https://x.com/i/broadcasts/1kKzDPYrZNdJv",
-   "urls": [
-    "https://x.com/i/broadcasts/1kKzDPYrZNdJv"
-   ],
-   "metrics": {
-    "likes": 9794,
-    "reposts": 1352,
-    "replies": 600,
-    "quotes": 110
-   },
-   "ref": {
-    "id": "2118864998407852102",
-    "author_id": "34743251",
-    "username": "SpaceX",
-    "name": "SpaceX",
-    "created_at": "2026-11-07T00:35:56.000Z"
-   }
-  },
-  {
-   "id": "2118868469655433435",
-   "author_id": "34743251",
-   "username": "SpaceX",
-   "name": "SpaceX",
-   "created_at": "2026-11-07T00:49:44.000Z",
-   "lang": "en",
-   "conversation_id": "2118868469655433435",
-   "url": "https://x.com/SpaceX/status/2118868469655433435",
-   "kind": "post",
-   "text": "Liftoff!",
-   "urls": [],
-   "metrics": {
-    "likes": 4957,
-    "reposts": 523,
-    "replies": 186,
-    "quotes": 75
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118868388520800256/vid/avc1/3840x2160/SWx6mwSDZSNFVLtx.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2118868388520800256/img/qGgidQUUt-SGbcRM.jpg",
-     "width": 3840,
-     "height": 2160,
-     "duration_ms": 36122
-    }
-   ]
-  },
-  {
-   "id": "2118864998407852102",
-   "author_id": "34743251",
-   "username": "SpaceX",
-   "name": "SpaceX",
-   "created_at": "2026-11-07T00:35:56.000Z",
-   "lang": "en",
-   "conversation_id": "2118864998407852102",
-   "url": "https://x.com/SpaceX/status/2118864998407852102",
-   "kind": "post",
-   "text": "Watch Falcon 9 launch the USSF-432 mission from pad 4E in California https://x.com/i/broadcasts/1kKzDPYrZNdJv",
-   "urls": [
-    "https://x.com/i/broadcasts/1kKzDPYrZNdJv"
-   ],
-   "metrics": {
-    "likes": 9794,
-    "reposts": 1352,
-    "replies": 600,
-    "quotes": 110
-   }
-  },
-  {
-   "id": "2118858610881257680",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-07T00:10:33.000Z",
-   "lang": "en",
-   "conversation_id": "2118858610881257680",
-   "url": "https://x.com/elonmusk/status/2118858610881257680",
-   "kind": "repost",
-   "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-432 mission from California → https://spacex.com/launches/ussf432",
-   "urls": [
-    "https://spacex.com/launches/ussf432"
-   ],
-   "metrics": {
-    "likes": 3156,
-    "reposts": 384,
-    "replies": 194,
-    "quotes": 26
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWeuaPbWYAA_PC0.jpg",
-     "width": 3300,
-     "height": 2210
-    }
-   ],
-   "ref": {
-    "id": "2118857663106707757",
-    "author_id": "34743251",
-    "username": "SpaceX",
-    "name": "SpaceX",
-    "created_at": "2026-11-07T00:06:48.000Z"
    }
   }
  ]

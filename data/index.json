@@ -3,9 +3,9 @@
  "post_count": 859,
  "accounts": 11,
  "last_run": {
-  "status": "new",
-  "at": "2026-11-11T04:06:42Z",
-  "new_posts": 26
+  "status": "skipped",
+  "at": "2026-11-11T04:07:40Z",
+  "new_posts": 0
  },
  "shards": [
   {
@@ -39,5 +39,5 @@
    "oldest_id": "2118954119134359767"
   }
  ],
- "version": "625685ef996829ba1d0447ebee2b8a75ce8329f3c232ebf12be758f6fc4569c8"
+ "version": "b480d4f6c211611c6b30b54787f6d1c99619e4cc8a1b5e170398dcf3dd5f7910"
 }

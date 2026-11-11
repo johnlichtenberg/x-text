@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T02:53:20Z",
+ "updated_at": "2026-11-11T03:20:50Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -211,6 +211,27 @@
    },
    "reply_to": {
     "id": "2120097663794483601",
+    "username": "elonmusk"
+   }
+  },
+  {
+   "id": "2120089497538810162",
+   "username": "Owl_of_Atena",
+   "name": "ⓧ Owl of Atena X1",
+   "created_at": "2026-11-10T09:41:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/Owl_of_Atena/status/2120089497538810162",
+   "kind": "reply",
+   "text": "@elonmusk @cradrrat Was it written in Rust? Why did you rewrite it in C/C++ ?",
+   "urls": [],
+   "metrics": {
+    "likes": 308,
+    "reposts": 16,
+    "replies": 16,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120088070443655190",
     "username": "elonmusk"
    }
   }

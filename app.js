@@ -501,6 +501,12 @@
     if (relayText && pagesText) return indexStamp(relayText) >= indexStamp(pagesText) ? relayText : pagesText;
     return relayText || pagesText || "";
   }
+  // A relay-only tick must not replace a copy already applied from Pages with an older KV value.
+  function keepNewer(candidate, previousText) {
+    if (!candidate) return previousText || "";
+    if (!previousText) return candidate;
+    return indexStamp(candidate) < indexStamp(previousText) ? previousText : candidate;
+  }
   function getText(url) {
     return fetch(url + "?t=" + Date.now(), { cache: "no-store" }).then(function (r) {
       if (!r.ok) throw new Error(url + " " + r.status);
@@ -535,7 +541,7 @@
     var pages = includePages ? getText(rel).catch(function () { return ""; }) : Promise.resolve("");
     return Promise.all([relay, pages]).then(function (both) {
       var fromRelay = both[0];
-      var chosen = pickIndex(fromRelay && fromRelay.text, both[1]);
+      var chosen = keepNewer(pickIndex(fromRelay && fromRelay.text, both[1]), previousText);
       if (fromRelay && fromRelay.hit && chosen && chosen === fromRelay.text) sess.etags[rel] = fromRelay.etag || sess.etags[rel];
       return chosen;
     });
@@ -680,7 +686,7 @@
   }
 
   function startPoll() {
-    var started = Date.now(), before = sess.watch, before_n = state.postCount || state.posts.length,
+    var started = Date.now(), before = sess.watch, seen = sess.watch, before_n = state.postCount || state.posts.length,
       before_run = JSON.stringify((state.meta && state.meta.last_run) || null), inflight = false, lastPages = 0;
     if (poll) clearInterval(poll);
     $("refreshBtn").disabled = true;
@@ -693,9 +699,12 @@
       var now = Date.now(), wantPages = !lastPages || now - lastPages >= 5000;
       if (wantPages) lastPages = now;
       var rel = sess.watchRel === "data/posts.json" ? "data/posts.json" : "data/index.json";
-      readWatched(rel, wantPages, before).then(function (text) {
+      readWatched(rel, wantPages, seen).then(function (text) {
         inflight = false;
-        if (!poll || !text || text === before) return;
+        if (!poll || !text) return;
+        if (indexStamp(text) < indexStamp(seen || "")) return;
+        seen = text;
+        if (text === before) return;
         var doc;
         try { doc = JSON.parse(text); } catch (e) { return; }
         if (JSON.stringify(doc.last_run || null) === before_run && doc.updated_at === (state.meta && state.meta.updated_at)) return;
@@ -923,6 +932,6 @@
   if (typeof module !== "undefined" && module.exports) {
     module.exports = { renderList: renderList, indexPosts: indexPosts, combinedArchive: combinedArchive, userHeader: userHeader,
       parentClick: P.parentClick, homeShardIds: homeShardIds, shardList: shardList, dataPathOk: dataPathOk,
-      indexStamp: indexStamp, pickIndex: pickIndex };
+      indexStamp: indexStamp, pickIndex: pickIndex, keepNewer: keepNewer };
   } else boot();
 })(typeof window !== "undefined" ? window : this);

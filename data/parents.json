@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T02:34:21Z",
+ "updated_at": "2026-11-11T02:39:06Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -102,6 +102,33 @@
     "id": "2119691615774146614",
     "username": "elonmusk"
    }
+  },
+  {
+   "id": "2119790863660257461",
+   "username": "herbertong",
+   "name": "Herbert Ong",
+   "created_at": "2026-11-09T13:55:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/herbertong/status/2119790863660257461",
+   "kind": "post",
+   "text": "NEWS: Tesla has reportedly cut the LPDDR6 memory on its next-gen AI6 chip for Optimus from 216GB to 144GB, a reduction of one third.\n\nIf accurate, Tesla is designing around a supply crunch caused by AI servers instead of waiting for it to ease. It's a bet that a humanoid bot's real-time intelligence depends on how fast data moves, not how much is stored.\n\nAt the same memory supply, a one-third cut means roughly 50% more robots. If Tesla can hold performance with less memory per unit, the company that builds the most robots could be the one that needs the fewest chips per robot, and that would be hard for rivals designing for maximum capacity to match. $TSLA\n\nLink: https://www.chinaflashmarket.com/newsflash/39255",
+   "urls": [
+    "https://www.chinaflashmarket.com/newsflash/39255"
+   ],
+   "metrics": {
+    "likes": 1574,
+    "reposts": 93,
+    "replies": 74,
+    "quotes": 13
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWrKsAxaIAAWIPa.jpg",
+     "width": 1200,
+     "height": 675
+    }
+   ]
   }
  ],
  "missing": []

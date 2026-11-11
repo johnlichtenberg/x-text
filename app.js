@@ -518,24 +518,31 @@
     });
   }
   function getFresh(rel) { return relayData(rel).catch(function () { return getText(rel); }); }
-  // KV can lag for up to 60s at another edge. Take whichever index is newer, relay or Pages.
-  function readIndexText() {
+  // Relay every check (If-None-Match, 304 is empty). Pages at includePages, so a poll can spare GitHub.
+  function readWatched(rel, includePages, previousText) {
+    if (!sess.etags) sess.etags = {};
+    if (!sess.relayText) sess.relayText = {};
     var headers = {};
-    if (sess.indexEtag) headers["If-None-Match"] = sess.indexEtag;
-    var relay = dataPathOk("data/index.json") ? fetch(relayOrigin() + "/d/index.json", {
+    if (sess.etags[rel]) headers["If-None-Match"] = sess.etags[rel];
+    var relay = dataPathOk(rel) ? fetch(relayOrigin() + "/d/" + String(rel).replace(/^data\//, ""), {
       cache: "no-store", credentials: "omit", referrerPolicy: "no-referrer", headers: headers
     }).then(function (r) {
-      var etag = r.headers.get("etag") || sess.indexEtag || "";
-      if (r.status === 304) return { text: sess.watch || "", etag: etag };
+      var etag = r.headers.get("etag") || sess.etags[rel] || "";
+      if (r.status === 304) return { text: sess.relayText[rel] || previousText || "", etag: etag, hit: true };
       if (!r.ok) throw new Error("relay " + r.status);
-      return r.text().then(function (text) { return { text: text, etag: etag }; });
+      return r.text().then(function (text) { sess.relayText[rel] = text; return { text: text, etag: etag, hit: true }; });
     }).catch(function () { return null; }) : Promise.resolve(null);
-    return Promise.all([relay, getText("data/index.json").catch(function () { return ""; })]).then(function (both) {
+    var pages = includePages ? getText(rel).catch(function () { return ""; }) : Promise.resolve("");
+    return Promise.all([relay, pages]).then(function (both) {
       var fromRelay = both[0];
       var chosen = pickIndex(fromRelay && fromRelay.text, both[1]);
-      if (fromRelay && chosen && chosen === fromRelay.text) sess.indexEtag = fromRelay.etag || sess.indexEtag;
+      if (fromRelay && fromRelay.hit && chosen && chosen === fromRelay.text) sess.etags[rel] = fromRelay.etag || sess.etags[rel];
       return chosen;
     });
+  }
+  // KV can lag for up to 60s at another edge. Take whichever index is newer, relay or Pages.
+  function readIndexText(includePages) {
+    return readWatched("data/index.json", includePages !== false, sess.watch || "");
   }
   function getFreshJSON(rel) { return getFresh(rel).then(JSON.parse); }
   function addPosts(list) {
@@ -674,20 +681,27 @@
 
   function startPoll() {
     var started = Date.now(), before = sess.watch, before_n = state.postCount || state.posts.length,
-      before_run = JSON.stringify((state.meta && state.meta.last_run) || null);
+      before_run = JSON.stringify((state.meta && state.meta.last_run) || null), inflight = false, lastPages = 0;
     if (poll) clearInterval(poll);
     $("refreshBtn").disabled = true;
-    poll = setInterval(tick, 20000);
+    poll = setInterval(tick, 1000);
     $("updated").textContent = "Refreshing…";
     function tick() {
       if (Date.now() - started > 180000) { stopPoll(); rstatus("No response after 3 min: the refresh may still be running. Tap Refresh again later."); return; }
-      (sess.watchRel === "data/posts.json" ? getFresh("data/posts.json") : readIndexText()).then(function (text) {
-        if (text === before) return;
-        var doc = JSON.parse(text);
+      if (inflight) return;
+      inflight = true;
+      var now = Date.now(), wantPages = !lastPages || now - lastPages >= 5000;
+      if (wantPages) lastPages = now;
+      var rel = sess.watchRel === "data/posts.json" ? "data/posts.json" : "data/index.json";
+      readWatched(rel, wantPages, before).then(function (text) {
+        inflight = false;
+        if (!poll || !text || text === before) return;
+        var doc;
+        try { doc = JSON.parse(text); } catch (e) { return; }
         if (JSON.stringify(doc.last_run || null) === before_run && doc.updated_at === (state.meta && state.meta.updated_at)) return;
         clearInterval(poll); poll = null;
         return loadAll().then(function () { stopPoll(); rstatus(runMessage(doc.last_run, before_n)); });
-      }).catch(function () { /* transient; keep polling */ });
+      }, function () { inflight = false; });
     }
   }
 
@@ -698,7 +712,7 @@
     rstatus("Sending refresh…");
     fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ action: "refresh", source: "x-text" }),
       cache: "no-store", credentials: "omit", referrerPolicy: "no-referrer" }).then(function (r) {
-      if (r.ok) { rstatus("Refresh sent. Checking every 20 s for up to 3 min."); startPoll(); }
+      if (r.ok) { rstatus("Refreshing…"); startPoll(); }
       else { stopPoll(); rstatus("Refresh failed: HTTP " + r.status + (r.status === 429 ? " (just requested; try again in a few minutes)" : r.status === 502 || r.status === 504 ? " (the Grok Bot webhook did not accept it)" : ""), true); }
     }, function () {
       stopPoll();
@@ -770,14 +784,19 @@
     else state.shown[pair.reply_id] = 1;
   }
 
-  function reloadParents() {
-    return getJSON("data/parents.json").then(function (doc) { state.parents = P.doc(doc); }, function () {});
+  function reloadParents(includePages) {
+    return readWatched("data/parents.json", includePages !== false, sess.parentsText || "").then(function (text) {
+      if (!text || text === sess.parentsText) return false;
+      sess.parentsText = text;
+      state.parents = P.doc(JSON.parse(text));
+      return true;
+    }, function () { return false; });
   }
 
   function stopParentPoll() { if (parentPoll) { clearInterval(parentPoll); parentPoll = null; } }
 
   function startParentPoll(pairs) {
-    var started = Date.now();
+    var started = Date.now(), inflight = false, lastPages = 0;
     stopParentPoll();
     parentPoll = setInterval(function () {
       if (Date.now() - started > 180000) {
@@ -790,19 +809,25 @@
         render(false);
         return;
       }
-      reloadParents().then(function () {
-        var waiting = false;
+      if (inflight) return;
+      inflight = true;
+      var now = Date.now(), wantPages = !lastPages || now - lastPages >= 5000;
+      if (wantPages) lastPages = now;
+      reloadParents(wantPages).then(function () {
+        inflight = false;
+        if (!parentPoll) return;
+        var waiting = false, settled = false;
         pairs.forEach(function (pair) {
           if (!state.loading[pair.reply_id]) return;
           var post = (state.byId || {})[pair.reply_id];
           var c = post ? P.classify(post, state.archive || [], state.parents, Date.now()) : { kind: "fetch" };
-          if (c.kind === "ready" || c.kind === "unavailable") settlePair(pair, "");
+          if (c.kind === "ready" || c.kind === "unavailable") { settlePair(pair, ""); settled = true; }
           else waiting = true;
         });
         if (!waiting) stopParentPoll();
-        render(false);
-      });
-    }, 20000);
+        if (settled || !waiting) render(false);
+      }, function () { inflight = false; });
+    }, 1000);
   }
 
   function afterParentFlight() {

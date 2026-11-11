@@ -24,8 +24,10 @@ Sends `POST {"action":"refresh","source":"x-text"}` (Content-Type `application/j
 Authorization header) to `refresh_url` in `data/site.json`: a small Cloudflare Worker relay that holds the
 Grok Bot webhook URL and key as Worker secrets and wakes the refresh routine. Nothing secret is in the
 site or the browser. If `refresh_url` is empty the button shows `Refresh isn't set up yet`. After a
-successful send the page re-checks `data/index.json` on the relay (then Pages) every 20 s for up to 3
-minutes and reloads when it changes, so new posts show up without waiting for GitHub Pages. The status shows sent / failed (HTTP code) / relay unreachable / offline. Refreshing is manual
+successful send the status line is `Refreshing…`. The page then re-checks the relay `GET /d/index.json`
+with `If-None-Match` every second for up to 3 minutes (a 304 is an empty response) and the GitHub Pages
+copy about every 5 seconds, and reloads when either copy is newer. A tick is skipped while the previous
+check is still in flight. Show parent uses the same one-second cadence for `data/parents.json`. The status shows sent / failed (HTTP code) / relay unreachable / offline. Refreshing is manual
 only (no schedule); a refresh less than 10 minutes after the previous one is skipped. The relay only wakes
 Grok Bot: if Grok Bot isn't running or the routine is paused, nothing refreshes and the site keeps showing
 the last published data. A refresh also fetches immediate parents of new replies that are not already

@@ -212,6 +212,7 @@
 
   // Hidden media: only a label button is rendered. The original URL stays in this JS map (never in the DOM).
   // On tap, mediaURL() turns an allowed path into the relay URL and that is what the <img>/<video> requests.
+  // Video and GIF choose a variant first; the address written into the page is still the relay URL.
   var mediaStore = {}, mid = 0;
   function mediaBlock(media, username) {
     if (!Array.isArray(media)) media = [];
@@ -222,7 +223,93 @@
     return '<button type="button" class="expand media-btn" aria-expanded="false" aria-controls="' + id + '" data-label="' +
       esc(label) + '">Show ' + esc(label) + '</button><div class="media" id="' + id + '" hidden></div>';
   }
-  function mediaEl(m, i, n, username) {
+  function gt0(n) {
+    return typeof n === "number" && isFinite(n) && n > 0 ? n : 0;
+  }
+  function canFullscreen(obj) {
+    return !!(obj && (typeof obj.requestFullscreen === "function" || typeof obj.webkitEnterFullscreen === "function"));
+  }
+  // The <video> has controls. Size for the screen when the browser can fullscreen it.
+  function fullscreenCapable() {
+    var el = null, proto = null;
+    if (typeof document !== "undefined" && document && typeof document.createElement === "function") {
+      try { el = document.createElement("video"); } catch (e) { el = null; }
+    }
+    if (typeof HTMLVideoElement !== "undefined" && HTMLVideoElement) proto = HTMLVideoElement.prototype;
+    return canFullscreen(el) || canFullscreen(proto);
+  }
+  function deviceRatio() {
+    var w = typeof window !== "undefined" ? window : null;
+    return gt0(w && w.devicePixelRatio) || 1;
+  }
+  function screenCss() {
+    var s = typeof screen !== "undefined" && screen ? screen : null;
+    if ((!s || !gt0(s.width) || !gt0(s.height)) && typeof window !== "undefined" && window && window.screen) s = window.screen;
+    var w = s && gt0(s.width), h = s && gt0(s.height);
+    return w && h ? { w: w, h: h } : null;
+  }
+  // .media is hidden until the tap, so its width is often 0. The card around it is the next visible box.
+  function containerCss(box) {
+    var el = box, guard = 0, w;
+    while (el && guard++ < 16) {
+      w = gt0(el.clientWidth);
+      if (w) return w;
+      el = el.parentElement;
+    }
+    return 0;
+  }
+  function usableVideos(m) {
+    var list = m && Array.isArray(m.variants) ? m.variants : [], out = [], i, v, w, h;
+    for (i = 0; i < list.length; i++) {
+      v = list[i];
+      if (!v || typeof v !== "object" || Array.isArray(v) || typeof v.url !== "string") continue;
+      if (!S.mediaURL(v.url, "video")) continue;
+      w = gt0(v.w);
+      h = gt0(v.h);
+      if (!w || !h) continue;
+      out.push({ url: v.url, w: w, h: h, br: typeof v.br === "number" && isFinite(v.br) ? v.br : 0 });
+    }
+    return out;
+  }
+  // Needed width is the device pixels of the clip fitted to the screen in the better orientation.
+  // A 16:9 video on 1125x2436 is limited by the 1125 short side, so it needs ~2000, not 2436.
+  function neededWidth(big, box, m) {
+    var dpr = deviceRatio(), needed = 0, scr, Sw, Sh, fit, css;
+    if (fullscreenCapable() && big) {
+      scr = screenCss();
+      if (scr) {
+        Sw = scr.w * dpr;
+        Sh = scr.h * dpr;
+        fit = Math.max(Math.min(Sw / big.w, Sh / big.h), Math.min(Sh / big.w, Sw / big.h));
+        if (fit > 0 && isFinite(fit)) needed = big.w * fit;
+      }
+    }
+    if (!(needed > 0)) {
+      css = containerCss(box);
+      if (!css && m) css = gt0(m.width);
+      needed = css * dpr;
+    }
+    return needed;
+  }
+  function pickVideoURL(m, box) {
+    var fallback = m && typeof m.url === "string" ? m.url : "";
+    var usable = usableVideos(m), big, i, v, target, best;
+    if (!usable.length) return fallback;
+    big = usable[0];
+    for (i = 1; i < usable.length; i++) {
+      v = usable[i];
+      if (v.w > big.w || (v.w === big.w && v.br > big.br)) big = v;
+    }
+    target = neededWidth(big, box, m) * 0.95;
+    best = null;
+    for (i = 0; i < usable.length; i++) {
+      v = usable[i];
+      if (v.w < target) continue;
+      if (!best || v.w < best.w || (v.w === best.w && v.br > best.br)) best = v;
+    }
+    return (best || big).url;
+  }
+  function mediaEl(m, i, n, username, box) {
     var who = username ? " by @" + username : "", fig = document.createElement("div");
     fig.className = "media-item";
     if (m.type === "photo") {
@@ -236,7 +323,8 @@
       img.src = src;
       fig.appendChild(img);
     } else {
-      var vsrc = S.mediaURL(m.url, "video");
+      var chosen = pickVideoURL(m, box);
+      var vsrc = S.mediaURL(chosen, "video");
       if (!vsrc) return null;
       var gif = m.type === "animated_gif", v = document.createElement("video");
       v.controls = true; v.playsInline = true; v.setAttribute("playsinline", ""); v.preload = "none"; v.autoplay = false;
@@ -255,7 +343,7 @@
     var box = $(btn.getAttribute("aria-controls")), open = btn.getAttribute("aria-expanded") !== "true", st = mediaStore[box.id];
     if (open) {
       var list = (st && st.media) || [];
-      list.forEach(function (m, i) { var el = mediaEl(m, i, list.length, st.username); if (el) box.appendChild(el); });
+      list.forEach(function (m, i) { var el = mediaEl(m, i, list.length, st.username, box); if (el) box.appendChild(el); });
     } else {
       box.querySelectorAll("video").forEach(function (v) { v.pause(); v.removeAttribute("src"); v.load(); });
       box.textContent = "";  // removed again: hidden means not loaded
@@ -954,6 +1042,7 @@
     module.exports = { renderList: renderList, indexPosts: indexPosts, combinedArchive: combinedArchive, userHeader: userHeader,
       parentClick: P.parentClick, homeShardIds: homeShardIds, shardList: shardList, dataPathOk: dataPathOk,
       indexStamp: indexStamp, pickIndex: pickIndex, keepNewer: keepNewer, statusClass: statusClass,
-      pollExpired: pollExpired, refreshTimeoutStatus: refreshTimeoutStatus, parentTimeoutNote: parentTimeoutNote };
+      pollExpired: pollExpired, refreshTimeoutStatus: refreshTimeoutStatus, parentTimeoutNote: parentTimeoutNote,
+      pickVideoURL: pickVideoURL, mediaEl: mediaEl };
   } else boot();
 })(typeof window !== "undefined" ? window : this);

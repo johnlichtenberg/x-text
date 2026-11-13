@@ -457,6 +457,7 @@ assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
   assertNoX(html, "published archive");
   ok(!html.includes("View original post"), "published archive has no original-post link");
   users.forEach((u) => assertNoX(R.userHeader(u, u.username, 1, users), "published header " + u.username));
+  ok(!html.includes("video.twimg.com") && !html.includes("pbs.twimg.com"), "published media URLs stay out of the DOM");
 }
 
 // The page source must not build an outbound X URL. The host blocklist is a bare name, not a URL.
@@ -465,6 +466,193 @@ assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
   const src = files.map((f) => fs.readFileSync(path.join(__dirname, "..", f), "utf8")).join("\n");
   ok(!/https?:\/\/(?:[\w.-]+\.)?(?:x\.com|twitter\.com|t\.co)\b/i.test(src), "site files do not contain an X URL");
   ok(!/href\s*=\s*["'][^"']*(?:x\.com|twitter\.com|t\.co)/i.test(src), "site files do not write an X href");
+}
+
+// Show video / Show GIF: smallest variant that covers the screen, then the relay URL. Items with only url stay on url.
+{
+  const S = require("../search.js");
+  const RELAY = "https://x-text-relay.johnlichtenberg.workers.dev";
+  const VID = "2118592599363817491";
+  const PLAIN = "https://video.twimg.com/tweet_video/OnlyUrlFile.mp4";
+  const POSTER = "https://pbs.twimg.com/amplify_video_thumb/" + VID + "/img/Abcdefghij.jpg";
+  function V(w, h, br, query) {
+    const name = "w" + w + "b" + String(br).replace("-", "n");
+    const url = "https://video.twimg.com/amplify_video/" + VID + "/vid/avc1/" + w + "x" + h + "/" + name + ".mp4" + (query || "");
+    return { url: url, w: w, h: h, br: br };
+  }
+  const wide = [V(480, 270, 256000), V(640, 360, 832000), V(1280, 720, 2176000), V(1920, 1080, 10368000, "?tag=16"), V(3840, 2160, 25128000)];
+  const u1920 = wide[3].url, u3840 = wide[4].url;
+  function clip(variants, fields) {
+    const base = variants && variants.length ? variants.filter((v) => v && v.w === 1920)[0] : null;
+    return Object.assign({ type: "video", url: base ? base.url : PLAIN, width: 3840, height: 2160, poster: POSTER }, fields || {}, { variants: variants });
+  }
+  const smallBox = { clientWidth: 200 };
+  const saved = {};
+  ["window", "screen", "document", "HTMLVideoElement"].forEach((k) => { saved[k] = global[k]; });
+  function el(tag) {
+    return {
+      tagName: tag, children: [], attrs: {}, style: {},
+      setAttribute(k, v) { this.attrs[k] = String(v); },
+      appendChild(c) { this.children.push(c); return c; },
+      removeAttribute(k) { delete this.attrs[k]; },
+    };
+  }
+  function withView(opts, fn) {
+    if (opts.dpr || opts.screen) global.window = { devicePixelRatio: opts.dpr || 1, screen: opts.screen || null };
+    else delete global.window;
+    if (opts.screen) global.screen = opts.screen;
+    else delete global.screen;
+    if (opts.fullscreen === "webkit") {
+      delete global.document;
+      global.HTMLVideoElement = { prototype: { webkitEnterFullscreen: function () {} } };
+    } else if (opts.fullscreen === "document" || opts.dom) {
+      global.document = {
+        createElement: function (tag) {
+          const node = el(tag);
+          if (opts.fullscreen === "document" && tag === "video") node.requestFullscreen = function () {};
+          return node;
+        },
+      };
+      delete global.HTMLVideoElement;
+    } else {
+      delete global.document;
+      delete global.HTMLVideoElement;
+    }
+    try { return fn(); }
+    finally {
+      ["window", "screen", "document", "HTMLVideoElement"].forEach((k) => {
+        if (saved[k] === undefined) delete global[k];
+        else global[k] = saved[k];
+      });
+    }
+  }
+  function noTwimg(src, label) {
+    ok(typeof src === "string" && src.indexOf(RELAY + "/m/video/") === 0, label + " relay " + src);
+    ok(src.indexOf("twimg") < 0 && src.indexOf("x.com") < 0 && src.indexOf("t.co") < 0, label + " host " + src);
+  }
+  const steps = [V(480, 270, 1), V(640, 360, 2), V(960, 540, 10), V(960, 540, 80), V(1280, 720, 999999999), V(1920, 1080, 4), V(3840, 2160, 1), V(3840, 2160, 50)];
+  const stepClip = clip(steps, { url: steps[4].url, width: 1280, height: 720 });
+
+  withView({ dpr: 2, screen: { width: 2560, height: 1440 } }, () => {
+    const chosen = R.pickVideoURL(stepClip, { clientWidth: 500 });
+    eq(chosen, steps[3].url, "smallest width at or above 95% of a 1000 device-px target");
+    noTwimg(S.mediaURL(chosen, "video"), "target");
+    eq(R.pickVideoURL(stepClip, { clientWidth: 0, parentElement: { clientWidth: 500 } }), steps[3].url, "hidden .media uses the card width");
+    eq(R.pickVideoURL(Object.assign({}, stepClip, { width: 8000 }), { clientWidth: 500 }), steps[3].url, "a measured card beats m.width");
+    eq(R.pickVideoURL(Object.assign({}, stepClip, { width: 500 }), { clientWidth: 0 }), steps[3].url, "m.width is the last resort");
+    eq(R.pickVideoURL(clip([steps[4], steps[6], steps[7]], { url: steps[4].url }), { clientWidth: 8000 }), steps[7].url, "target above every variant uses the largest width, higher bitrate on a tie");
+  });
+  withView({ dpr: 1 }, () => {
+    const tight = clip([V(1899, 1080, 1), V(1900, 1080, 1), V(3840, 2160, 2)], { url: PLAIN, width: 1900, height: 1080 });
+    eq(R.pickVideoURL(tight, { clientWidth: 2000 }), V(1900, 1080, 1).url, "1900 covers a 2000 target within 5%; 1899 does not");
+  });
+
+  const phone = { dpr: 3, screen: { width: 375, height: 812 }, fullscreen: "document" };
+  withView(phone, () => {
+    const item = clip(wide);
+    eq(R.pickVideoURL(item, smallBox), u1920, "16:9 on a 1125x2436 screen picks 1920, not 1280 or 3840");
+    eq(R.pickVideoURL(clip(wide.slice().reverse()), smallBox), u1920, "variant order does not change the 1920 pick");
+    const src = S.mediaURL(u1920, "video");
+    eq(src, RELAY + "/m/video/amplify_video/" + VID + "/vid/avc1/1920x1080/w1920b10368000.mp4?tag=16", "chosen 1920 URL is rewritten onto the relay");
+    noTwimg(src, "1920");
+    const fig = R.mediaEl(item, 0, 1, "ada", smallBox);
+    const video = fig.children[0];
+    eq(video.src, src, "Show video assigns the relay URL");
+    eq(video.poster, S.mediaURL(POSTER, "poster"), "poster still uses the relay");
+    ok(video.controls === true && video.autoplay === false && video.preload === "none", "video still waits for a tap to play");
+    ok(JSON.stringify(video.attrs).indexOf("twimg") < 0 && String(video.poster).indexOf("twimg") < 0, "the video element has no twimg URL");
+    const gif = R.mediaEl(clip(wide, { type: "animated_gif" }), 0, 1, "ada", smallBox);
+    eq(gif.children[0].src, src, "Show GIF uses the same 1920 relay file");
+    ok(gif.children[0].loop === true && gif.children[0].muted === true, "GIF stays looped and muted");
+  });
+
+  const desk = { dpr: 2, screen: { width: 2560, height: 1440 }, fullscreen: "document" };
+  withView(desk, () => {
+    const item = clip(wide);
+    eq(R.pickVideoURL(item, smallBox), u3840, "2560x1440 at 2x picks 3840");
+    const src = S.mediaURL(R.pickVideoURL(item, smallBox), "video");
+    eq(src, RELAY + "/m/video/amplify_video/" + VID + "/vid/avc1/3840x2160/w3840b25128000.mp4", "chosen 3840 URL is rewritten onto the relay");
+    noTwimg(src, "3840");
+    eq(R.mediaEl(item, 0, 1, "ada", smallBox).children[0].src, src, "Show video on a large screen assigns the 3840 relay URL");
+  });
+  withView({ dpr: 2, screen: { width: 2560, height: 1440 }, fullscreen: "webkit" }, () => {
+    eq(R.pickVideoURL(clip(wide), smallBox), u3840, "webkitEnterFullscreen also sizes for the screen");
+  });
+
+  withView({ dpr: 3, screen: { width: 375, height: 812 }, fullscreen: "document" }, () => {
+    const bare = { type: "video", url: PLAIN, width: 1920, height: 1080 };
+    eq(R.pickVideoURL(bare, smallBox), PLAIN, "a video with only url keeps that url");
+    eq(R.pickVideoURL({ type: "animated_gif", url: PLAIN }, smallBox), PLAIN, "a GIF with only url keeps that url");
+    eq(R.pickVideoURL({ type: "video", url: PLAIN, variants: [] }, smallBox), PLAIN, "an empty variant list keeps url");
+    const junk = { type: "video", url: PLAIN, width: 1920, height: 1080, variants: [
+      null, "nope", { url: 12, w: 3840, h: 2160 }, { w: 3840, h: 2160, br: 9 },
+      { url: "https://evil.example/x.mp4", w: 8000, h: 4500, br: 9 },
+      { url: "https://video.twimg.com/not/a/video.mp4", w: 3840, h: 2160, br: 9 },
+      { url: u3840, w: 0, h: 2160 }, { url: u3840, w: 3840, h: -1 }, { url: u3840, h: 2160 },
+    ] };
+    eq(R.pickVideoURL(junk, smallBox), PLAIN, "invalid variants fall back to url");
+    const src = S.mediaURL(R.pickVideoURL(junk, smallBox), "video");
+    eq(src, RELAY + "/m/video/tweet_video/OnlyUrlFile.mp4", "fallback url is rewritten onto the relay");
+    noTwimg(src, "fallback");
+    eq(R.mediaEl(bare, 0, 1, "ada", smallBox).children[0].src, src, "Show video on an old item assigns the relay URL");
+    eq(R.mediaEl({ type: "video", url: "https://evil.example/nope.mp4" }, 0, 1, "ada", smallBox), null, "a rejected video still renders nothing");
+    const photo = R.mediaEl({ type: "photo", url: "https://pbs.twimg.com/media/abc.jpg", width: 100, height: 80 }, 0, 1, "ada");
+    eq(photo.children[0].src, S.mediaURL("https://pbs.twimg.com/media/abc.jpg", "photo"), "photos ignore variants and stay on the relay");
+    const oneGood = clip([junk.variants[4], V(1280, 720, 3)], { url: PLAIN });
+    eq(R.pickVideoURL(oneGood, { clientWidth: 400 }), V(1280, 720, 3).url, "one valid variant is used and the invalid ones are ignored");
+  });
+
+  const hiddenClip = clip(wide);
+  const hiddenGif = clip(wide, { type: "animated_gif" });
+  const hiddenHtml = R.renderList([
+    P({ id: "881", username: "elonmusk", name: "Elon Musk", text: "a clip", media: [hiddenClip] }),
+    P({ id: "882", username: "elonmusk", name: "Elon Musk", text: "a gif", media: [hiddenGif] }),
+  ], [], following);
+  ok(hiddenHtml.includes("Show video") && hiddenHtml.includes("Show GIF"), "variants stay behind the label");
+  ok(!hiddenHtml.includes("twimg") && !hiddenHtml.includes(VID) && !hiddenHtml.includes("workers.dev"), "variant URLs are not in the page");
+  ok(hiddenHtml.includes('aria-expanded="false"'), "variant media starts collapsed");
+  assertNoX(hiddenHtml, "post with video variants");
+
+  function eachMedia(node, fn) {
+    if (!node || typeof node !== "object") return;
+    if (Array.isArray(node)) { node.forEach((item) => eachMedia(item, fn)); return; }
+    if ((node.type === "video" || node.type === "animated_gif") && typeof node.url === "string") fn(node);
+    Object.keys(node).forEach((k) => { if (k !== "variants") eachMedia(node[k], fn); });
+  }
+  const published = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "data", "posts.json"), "utf8")).posts || [];
+  let checked = 0, saw4k = 0, sawPlain = 0;
+  function pickedWidth(m, chosen) {
+    const vars = Array.isArray(m.variants) ? m.variants : [];
+    const hit = vars.filter((v) => v && v.url === chosen)[0];
+    return hit ? hit.w : 0;
+  }
+  withView(phone, () => {
+    eachMedia(published, (m) => {
+      const chosen = R.pickVideoURL(m, smallBox);
+      const vars = Array.isArray(m.variants) ? m.variants : [];
+      const usable = vars.filter((v) => v && S.mediaURL(v.url, "video") && v.w > 0 && v.h > 0);
+      if (!vars.length) { sawPlain++; eq(chosen, m.url, "published item without variants keeps url"); }
+      if (S.mediaURL(m.url, "video") || usable.length) noTwimg(S.mediaURL(chosen, "video"), "published");
+      const big = usable.reduce((a, b) => (b.w > a.w || (b.w === a.w && b.br > a.br) ? b : a), usable[0]);
+      if (big && big.w === 3840 && big.h === 2160 && usable.some((v) => v.w === 1920)) {
+        saw4k++;
+        eq(pickedWidth(m, chosen), 1920, "published 16:9 clip on a phone stays at 1920");
+      }
+      checked++;
+    });
+  });
+  ok(checked > 0, "published videos were checked");
+  if (!saw4k) ok(true, "no 3840x2160 clip with a 1920 variant in posts.json; fixture coverage remains");
+  withView(desk, () => {
+    eachMedia(published, (m) => {
+      const vars = Array.isArray(m.variants) ? m.variants : [];
+      const usable = vars.filter((v) => v && S.mediaURL(v.url, "video") && v.w > 0 && v.h > 0);
+      const big = usable.reduce((a, b) => (b.w > a.w || (b.w === a.w && b.br > a.br) ? b : a), usable[0]);
+      if (!(big && big.w === 3840 && big.h === 2160 && usable.some((v) => v.w === 1920))) return;
+      eq(pickedWidth(m, R.pickVideoURL(m, smallBox)), 3840, "published 16:9 clip on a 2560x1440@2 screen picks 3840");
+    });
+  });
+  if (!sawPlain) ok(true, "every published video in posts.json has variants; url-only coverage is the fixture");
 }
 
 console.log("render tests passed: " + n);

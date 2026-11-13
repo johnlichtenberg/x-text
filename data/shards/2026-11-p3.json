@@ -1,7 +1,563 @@
 {
  "id": "2026-11-p3",
- "updated_at": "2026-11-13T19:06:26Z",
+ "updated_at": "2026-11-13T21:30:09Z",
  "posts": [
+  {
+   "id": "2118400168215388217",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T17:48:52.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118400168215388217",
+   "reply_to": {
+    "id": "2118200971050233952",
+    "username": "Smirkley"
+   },
+   "kind": "reply",
+   "text": "@Smirkley Accurate https://t.co/JUnRUg7FR9",
+   "urls": [],
+   "metrics": {
+    "likes": 1799,
+    "reposts": 140,
+    "replies": 233,
+    "quotes": 12
+   },
+   "partial": true
+  },
+  {
+   "id": "2118396267927933080",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-05T17:33:22.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2118396267927933080",
+   "reply_to": {
+    "id": "2118379647578849281",
+    "username": "Flynnjamm"
+   },
+   "kind": "reply",
+   "text": "@Flynnjamm nice",
+   "urls": [],
+   "metrics": {
+    "likes": 23,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2118393077295636769",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-05T17:20:42.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2118393077295636769",
+   "reply_to": {
+    "id": "2118391361351426174",
+    "username": "benjitaylor"
+   },
+   "kind": "reply",
+   "text": "@benjitaylor occasionally",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2118392015226544617",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T17:16:28.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118392015226544617",
+   "kind": "quote",
+   "text": "True https://t.co/tClkD6M9Ud",
+   "urls": [],
+   "metrics": {
+    "likes": 24193,
+    "reposts": 2477,
+    "replies": 1706,
+    "quotes": 132
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118377319035257175",
+    "author_id": "1655936149733654530",
+    "username": "IterIntellectus",
+    "name": "vittorio",
+    "created_at": "2026-11-05T16:18:05.000Z",
+    "text": "slavery was basically universal throughout human history.\nevery race practiced it, every race was enslaved\n\nwhat's extraordinary about Britain is that it abolished slavery and then sent its navy across the world to stop the slave trade\n\nsomehow we turned one of the civilizations that helped end this almost universal evil into the villain instead of showing gratitude",
+    "quote": {
+     "id": "2118366477619442153",
+     "author_id": "970384939",
+     "username": "thetechbrother",
+     "name": "Yuval Steuer",
+     "created_at": "2026-11-05T15:35:00.000Z",
+     "text": "This is insanely backwards.\nSlavery has been one of the very few near-universals in human history. What's exceptional about Britain is that it was one of the first major societies that abolished the slave trade and then abolished slavery in much of its empire, and spent decades using the Royal Navy to intercept slave ships.\n\nIf the point of teaching history is to understand how a civilization got things wrong, surely we should also want to understand how it eventually changed its mind, and what it took to do so?"
+    }
+   }
+  },
+  {
+   "id": "2118390940809494618",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-05T17:12:12.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2118390940809494618",
+   "reply_to": {
+    "id": "2118390472708399570",
+    "username": "LouiseDSadeleer"
+   },
+   "kind": "reply",
+   "text": "@LouiseDSadeleer Ah I see - there are a few ways to approach the problem.\n\nYou may be able to do it directly via bot, but auth is likely the culprit",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2118390792490541103",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T17:11:37.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118390792490541103",
+   "kind": "quote",
+   "text": "Banks arguably has the best vision for the future https://t.co/naT7HaNFml",
+   "urls": [],
+   "metrics": {
+    "likes": 14313,
+    "reposts": 1219,
+    "replies": 1200,
+    "quotes": 131
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118033835074183455",
+    "author_id": "1577705091737432070",
+    "username": "yunta_tsai",
+    "name": "Yun-Ta Tsai",
+    "created_at": "2026-11-04T17:33:12.000Z",
+    "text": "In Ian Banks' Culture books, the Culture is a civilization of compute abundance. Each General System Vehicle is a loose sandbox environment practicing different ideologies, and citizens freely move between ships to experience different lifestyles.\n\nWant communal life? There's a ship. Ultra-orthodox religion? Another. Beach chilling? One famous for its beaches.\n\nWith enormous compute, you don't need to trade off who decides the trajectories. Just launch another docker station for another rollout. In that world, your autonomy is backed by the compute."
+   }
+  },
+  {
+   "id": "2118390749326938145",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-05T17:11:27.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2118390749326938145",
+   "reply_to": {
+    "id": "2118344923175096485",
+    "username": "Rasmic"
+   },
+   "kind": "reply",
+   "text": "@Rasmic nice",
+   "urls": [],
+   "metrics": {
+    "likes": 10,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2118389073283060085",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T17:04:47.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118389073283060085",
+   "kind": "repost",
+   "text": "The only investment advice you need to live by to get through any storm that comes your way $TSLA",
+   "urls": [],
+   "metrics": {
+    "likes": 6496,
+    "reposts": 687,
+    "replies": 196,
+    "quotes": 70
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWXqztibYAAcB78.jpg",
+     "width": 1206,
+     "height": 1202
+    }
+   ],
+   "ref": {
+    "id": "2118357376525119788",
+    "author_id": "985243593538338816",
+    "username": "Teslaconomics",
+    "name": "Teslaconomics",
+    "created_at": "2026-11-05T14:58:50.000Z"
+   }
+  },
+  {
+   "id": "2118388941267317134",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T17:04:16.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118388941267317134",
+   "kind": "quote",
+   "text": "True https://t.co/69NGUiVLNZ",
+   "urls": [],
+   "metrics": {
+    "likes": 11364,
+    "reposts": 974,
+    "replies": 728,
+    "quotes": 53
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118372864378146934",
+    "author_id": "175624200",
+    "username": "ID_AA_Carmack",
+    "name": "John Carmack",
+    "created_at": "2026-11-05T16:00:22.000Z",
+    "text": "I’m all for championing excellence over mediocrity, but it is a mistake to imply that academic achievement is the only measure of it. Jocks and prom queens aren’t the antithesis of merit and striving, and in some ways, their arenas are more “real” than academic curriculums. Fight passivity and low standards!",
+    "quote": {
+     "id": "2118157536889049202",
+     "author_id": "1173552893003255808",
+     "username": "yacineMTB",
+     "name": "kache",
+     "created_at": "2026-11-05T01:44:44.000Z",
+     "text": "He's honestly so right https://twitter.com/VivekGRamaswamy/status/1872312139945234507"
+    }
+   }
+  },
+  {
+   "id": "2118383381432148028",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-05T16:42:10.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2118383381432148028",
+   "reply_to": {
+    "id": "2118293084887023844",
+    "username": "LouiseDSadeleer"
+   },
+   "kind": "reply",
+   "text": "@LouiseDSadeleer Yes, likely because you're using an expired cookie\n\nHow are you logging in / giving bot access?",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2118382828459278726",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-05T16:39:58.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2118382828459278726",
+   "reply_to": {
+    "id": "2118316549714968623",
+    "username": "aswincode"
+   },
+   "kind": "reply",
+   "text": "@aswincode @bot nice",
+   "urls": [],
+   "metrics": {
+    "likes": 12,
+    "reposts": 0,
+    "replies": 6,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2118382793176817897",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-05T16:39:50.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2118382793176817897",
+   "reply_to": {
+    "id": "2118363146322686065",
+    "username": "arakharazian"
+   },
+   "kind": "reply",
+   "text": "@arakharazian nice",
+   "urls": [],
+   "metrics": {
+    "likes": 12,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2118381856454524939",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T16:36:06.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118381856454524939",
+   "kind": "quote",
+   "text": "Starlink saves lives https://t.co/ux5eZ0zwXB",
+   "urls": [],
+   "metrics": {
+    "likes": 21859,
+    "reposts": 2445,
+    "replies": 1942,
+    "quotes": 199
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118335164019548524",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-05T13:30:34.000Z",
+    "text": "BREAKING: Starlink just brought high-speed internet to a clinic serving 10 remote islands in Indonesia. 🇮🇩\n\nPangkep’s local government equipped Sailus Health Center with Starlink, helping staff send patient referrals online and coordinate care across the islands.",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2118335125352218624/vid/avc1/1280x720/g60Xa6rhVULKK0TF.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118335125352218624/img/LtwYrZ6SAbax0Spe.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2118335125352218624/vid/avc1/480x270/NifeRMITfmqfGGCC.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2118335125352218624/vid/avc1/640x360/LLvt5tOl0S8oH-Mg.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2118335125352218624/vid/avc1/1280x720/g60Xa6rhVULKK0TF.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 10100
+     }
+    ]
+   }
+  },
+  {
+   "id": "2118380771853705309",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T16:31:48.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118380771853705309",
+   "kind": "quote",
+   "text": "Interesting https://t.co/LA9Ik9qD8j",
+   "urls": [],
+   "metrics": {
+    "likes": 33014,
+    "reposts": 3266,
+    "replies": 2538,
+    "quotes": 177
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118356806720266556",
+    "author_id": "1706453934947110912",
+    "username": "Smirkley",
+    "name": "Smirkley",
+    "created_at": "2026-11-05T14:56:34.000Z",
+    "text": "Young men with kids voted to the right of men without kids by 40 points.\n\nYoung women with kids voted to the right of women without kids by 35 points",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWXqSd1WYAA9fuK.jpg",
+      "width": 2048,
+      "height": 1930,
+      "alt": "Bar chart: vote margins of voters 18-44 by sex and kids. Source: CNN Voter Poll, Nov 4, 2026. @smirkley"
+     }
+    ]
+   }
+  },
+  {
+   "id": "2118380646460797238",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T16:31:18.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118380646460797238",
+   "kind": "repost",
+   "text": "Qualcomm CEO Cristiano Amon on partnership with @SpaceX\n\n“It’s a great partnership with SpaceX for next-generation infrastructure. We’re very proud of this announcement. I think it’s also great from a United States technology leadership standpoint. It’s probably one of the largest network buildouts.”",
+   "urls": [],
+   "metrics": {
+    "likes": 1475,
+    "reposts": 245,
+    "replies": 74,
+    "quotes": 10
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2118363331665006592/vid/avc1/1080x1080/4uBdudfGjQOhKXFf.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2118363331665006592/img/AWk7u4o8nghCNk_b.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2118363331665006592/vid/avc1/320x320/cyql8CbG9lMdoIP9.mp4",
+       "w": 320,
+       "h": 320,
+       "br": 432000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118363331665006592/vid/avc1/540x540/qEFaqXELpDDt4Hae.mp4",
+       "w": 540,
+       "h": 540,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118363331665006592/vid/avc1/720x720/ynpoHOJzOmhHTbWB.mp4",
+       "w": 720,
+       "h": 720,
+       "br": 1280000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118363331665006592/vid/avc1/1080x1080/4uBdudfGjQOhKXFf.mp4",
+       "w": 1080,
+       "h": 1080,
+       "br": 8768000
+      }
+     ],
+     "width": 1080,
+     "height": 1080,
+     "duration_ms": 75055
+    }
+   ],
+   "ref": {
+    "id": "2118363397775561023",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-05T15:22:45.000Z"
+   }
+  },
+  {
+   "id": "2118379126004535334",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T16:25:15.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118379126004535334",
+   "kind": "quote",
+   "text": "True https://t.co/rs5GGGFOvg",
+   "urls": [],
+   "metrics": {
+    "likes": 7613,
+    "reposts": 943,
+    "replies": 825,
+    "quotes": 50
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118378758147297681",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-05T16:23:48.000Z",
+    "text": "Starlink is becoming a GAME CHANGER for airlines, driving higher customer satisfaction, stronger loyalty and even influencing which airline passengers choose to fly with\n\nAnd the numbers are absolutely extraordinary:\n\n• United Airlines — Customers are choosing United specifically because of Starlink, with the airline seeing opportunities to turn them into long-term loyal passengers\n\n• Alaska/Hawaiian — Guest satisfaction is 20% higher on Starlink-equipped flights, while nearly 75% of non-members using the onboard portal signed up for Atmos Rewards\n\n• Virgin Atlantic — Onboard connectivity satisfaction has increased by more than 40 points, with Starlink also helping attract new Flying Club members\n\n• airBaltic — Net Promoter Scores are approximately 9 points higher on Starlink-equipped flights\n\n• ZIPAIR — Passenger revenue grew 12.3% YoY, with JAL highlighting fleetwide Starlink connectivity alongside flexible pricing\n\nStarlink has become a real competitive advantage, improving the passenger experience, strengthening customer loyalty, and giving people another reason to choose which airline they fly with\n\nThe future of in-flight connectivity is becoming a major part of how airlines compete",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWX-P3yb0AAjKiv.jpg",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   }
+  },
+  {
+   "id": "2118348502879330382",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T14:23:34.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118348502879330382",
+   "kind": "repost",
+   "text": "In hindsight, it was a mistake for SpaceX to send them thousands of free Starlink dishes and millions of dollars a month in free service at the beginning of the war.\n\nWhat started as internet access for civilians became the backbone for autonomous killing drones. And now if they don’t support military use, they get skewered for it in the press.",
+   "urls": [],
+   "metrics": {
+    "likes": 10456,
+    "reposts": 988,
+    "replies": 690,
+    "quotes": 73
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118301931852738730",
+    "author_id": "1263491240336769026",
+    "username": "wholemars",
+    "name": "Whole Mars Catalog",
+    "created_at": "2026-11-05T11:18:31.000Z",
+    "quote": {
+     "id": "2118226071967396200",
+     "author_id": "1212783083272855552",
+     "username": "Osint613",
+     "name": "Open Source Intel",
+     "created_at": "2026-11-05T06:17:04.000Z",
+     "text": "Ukrainian President Zelensky on Elon Musk:\n\n\"Having so much power concentrated in the hands of a very rich person is dangerous.\n\nConcentrating power in the hands of one person who doesn't have much money is also dangerous.\n\nThat is the whole point of the separation of powers: making sure that everything is not concentrated in the hands of one person.\""
+    }
+   }
+  },
   {
    "id": "2118253972163301458",
    "author_id": "44196397",

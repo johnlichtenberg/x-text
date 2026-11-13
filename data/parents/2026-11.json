@@ -1,7 +1,91 @@
 {
  "id": "2026-11",
- "updated_at": "2026-11-13T19:06:38Z",
+ "updated_at": "2026-11-13T21:30:25Z",
  "posts": [
+  {
+   "id": "2121334744830865898",
+   "username": "recidentz",
+   "name": "RECIDENT",
+   "created_at": "2026-11-13T20:09:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/recidentz/status/2121334744830865898",
+   "kind": "reply",
+   "text": "Thanks Matt, really appreciate you digging into this with us and passing it to the team.\n\nI checked with my setup bot. Since Nov 1 we've only made things leaner: polling routines switched to event triggers, stale routines deleted, schedules cut back. Nothing fires more often than before.\n\nBefore Nov 1 the same weekly limit covered a lot more work. Now we're doing less and it still drains fast, so the efficiency fixes you mentioned would mean a lot. Grok Bot runs my business day to day and I love it. Happy to share anything that helps the team.",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121333178061423053",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121327075550187573",
+   "username": "recidentz",
+   "name": "RECIDENT",
+   "created_at": "2026-11-13T19:39:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/recidentz/status/2121327075550187573",
+   "kind": "reply",
+   "text": "Checked the Usage pane. I run 6 bots with 15 active routines between them:\n\n- Scheduled: inbox sweeps 3x a day, a morning to-do list, an evening schedule recap, a couple of 2x-a-day checks and 2 weekly Friday reports. Each one is 1-3% of my week.\n- Zapier-triggered: 4 that fire only when something happens (a client email, a supplier quote, a new customer inquiry, a signed contract). The biggest is 7%.\n\nAll routines together are about 40% of this week. This is the exact same setup I had before Nov 1.\n\nMost of the usage went in a few hours. Since then I barely touch Grok Bot, only when I have to, because my business runs on it and I can't risk running out before the reset.",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121325136863486180",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121324465422258535",
+   "username": "recidentz",
+   "name": "RECIDENT",
+   "created_at": "2026-11-13T19:28:59.000Z",
+   "lang": "en",
+   "url": "https://x.com/recidentz/status/2121324465422258535",
+   "kind": "reply",
+   "text": "Thanks Matt, appreciate you collecting this.\n\nReal numbers: Ultra plan, 46% of my weekly limit gone in 4 days, 3 days still to reset. Most of it was eaten in half a day, and since then it's just routines running.\n\nMy use is light: running a small window business (inbox, quotes, invoices, a few daily check-ins). No coding. I'm already rationing it.",
+   "urls": [],
+   "metrics": {
+    "likes": 9,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121318555136504306",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121319196470431821",
+   "username": "smokyproductco",
+   "name": "Ryan Saari",
+   "created_at": "2026-11-13T19:08:03.000Z",
+   "lang": "en",
+   "url": "https://x.com/smokyproductco/status/2121319196470431821",
+   "kind": "reply",
+   "text": "@mattyp @recidentz @bot Yeah I also got the shaft on this one. Cursor annual from last year is worthless.",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121318555136504306",
+    "username": "mattyp"
+   }
+  },
   {
    "id": "2121318440896167943",
    "username": "recidentz",
@@ -17,6 +101,23 @@
     "reposts": 0,
     "replies": 1,
     "quotes": 0
+   }
+  },
+  {
+   "id": "2121242163644412202",
+   "username": "yunta_tsai",
+   "name": "Yun-Ta Tsai",
+   "created_at": "2026-11-13T14:01:57.000Z",
+   "lang": "en",
+   "url": "https://x.com/yunta_tsai/status/2121242163644412202",
+   "kind": "post",
+   "text": "If NVIDIA employees want Jensen back, they should start with “NVIDIA is nothing without its people” - resign and chill.\n\nGood GPU engineers are very hard to find and even harder to replace than ML engineers.\n\nEngineers should take their destiny into their own hands if they love the company. They shape and deliver the company mission, not the boards.",
+   "urls": [],
+   "metrics": {
+    "likes": 4492,
+    "reposts": 266,
+    "replies": 105,
+    "quotes": 13
    }
   },
   {
@@ -274,6 +375,59 @@
      "width": 1080,
      "height": 1920,
      "duration_ms": 5133
+    }
+   ]
+  },
+  {
+   "id": "2121034947280753090",
+   "username": "XCreators",
+   "name": "Creators",
+   "created_at": "2026-11-13T00:18:33.000Z",
+   "lang": "en",
+   "url": "https://x.com/XCreators/status/2121034947280753090",
+   "kind": "post",
+   "text": "Get ready to scroll sideways.\n\nYou can now add up to 20 photos and videos in one post.",
+   "urls": [],
+   "metrics": {
+    "likes": 1549,
+    "reposts": 160,
+    "replies": 194,
+    "quotes": 117
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121034292709249025/vid/avc1/1920x1080/2TSIphfRzKhCHkxU.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121034292709249025/img/e57zhDHOoxSEYRqu.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121034292709249025/vid/avc1/480x270/LCI-1k6aqsCgMFSa.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121034292709249025/vid/avc1/640x360/qpWFlhbkYwjmiA2z.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121034292709249025/vid/avc1/1280x720/es4Fhe5TV85xqv6S.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121034292709249025/vid/avc1/1920x1080/2TSIphfRzKhCHkxU.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 14033
     }
    ]
   },

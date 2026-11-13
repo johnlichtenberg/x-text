@@ -51,6 +51,11 @@ Shown on page load from `data/index.json` (`updated_at`, `accounts`, `post_count
 
 ## Views and search
 Hash routes: `#/` combined feed · `#/u/<handle>` one account · `#/search?q=…` · `#/saved/<slug>`.
+Each of those lists has an **All** / **Posts** switch at the top. **All** is the default and shows every saved row.
+**Posts** keeps original posts, quotes, and self-replies (a reply whose `reply_to.username` matches the author,
+ignoring case) and hides replies to other people and reposts. The choice is remembered in `localStorage` under
+`xtext.view` when the browser allows storage, and held in memory when it does not. Counts and **Show more**
+follow the visible rows. If Posts leaves the list empty, the page says to switch back to All to see replies and reposts.
 Search syntax: `word word` (AND), `"exact phrase"`, `a OR b`, `-word`, `(group)`, `from:handle`, `to:handle`,
 `is:reply`, `is:retweet`, `is:quote` (prefix `-` to exclude), `has:links`, `has:media`, `has:images`,
 `has:videos` (the post's own media; a repost's is the original's), `since:YYYY-MM-DD`,

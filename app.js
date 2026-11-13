@@ -5,7 +5,7 @@
   var P = (typeof module !== "undefined" && module.exports) ? require("./parent.js") : root.XParent;
   var state = { config: { saved_searches: [] }, following: [], posts: [], saved: {}, updated: null, limit: 50, byId: {},
     parents: { posts: [], missing: [] }, shown: {}, loading: {}, notes: {}, index: null, loadedShards: {},
-    archiveComplete: true, postCount: 0, parentScan: {} };
+    archiveComplete: true, postCount: 0, parentScan: {}, feedView: "all" };
   var sess = { text: null, bound: false };  // text of the last loaded data/posts.json (for refresh polling)
   var $ = function (id) { return document.getElementById(id); };
   var PAGE = 50;
@@ -439,6 +439,169 @@
 
   function allPosts() { return combinedArchive(state.posts, state.saved); }
 
+  // All shows every row. Posts matches X: original posts, quotes, and self-replies
+  // (a reply whose reply_to.username matches the author, ignoring case). Replies to
+  // other people and reposts stay on All.
+  var VIEW_KEY = "xtext.view";
+  var POSTS_EMPTY = "No posts here. Switch to All to see replies and reposts.";
+  var viewMemory = { view: "all" };
+  function normalizeView(v) {
+    v = String(v == null ? "" : v).replace(/^\s+|\s+$/g, "").toLowerCase();
+    return v === "posts" ? "posts" : "all";
+  }
+  function selfReply(p) {
+    if (!p || p.kind !== "reply") return false;
+    var rt = p.reply_to;
+    if (!rt || typeof rt !== "object" || Array.isArray(rt) || typeof rt.username !== "string") return false;
+    if (typeof p.username !== "string" || !p.username || !rt.username) return false;
+    return rt.username.toLowerCase() === p.username.toLowerCase();
+  }
+  function showInPosts(p) {
+    if (!p || typeof p !== "object") return false;
+    if (p.kind === "post" || p.kind === "quote") return true;
+    return selfReply(p);
+  }
+  function applyView(list, view) {
+    var rows = list || [], out = [], i;
+    if (normalizeView(view) !== "posts") return rows;
+    for (i = 0; i < rows.length; i++) if (showInPosts(rows[i])) out.push(rows[i]);
+    return out;
+  }
+  function postsViewEmpty(view, rawCount, shownCount) {
+    return normalizeView(view) === "posts" && !shownCount && rawCount > 0;
+  }
+  function readView(storage, memory) {
+    memory = memory || viewMemory;
+    if (memory.held) return memory.view === "posts" ? "posts" : "all";
+    try {
+      if (!storage || typeof storage.getItem !== "function") return memory.view === "posts" ? "posts" : "all";
+      var raw = storage.getItem(VIEW_KEY);
+      if (raw == null || raw === "") return memory.view === "posts" ? "posts" : "all";
+      memory.view = normalizeView(raw);
+      return memory.view;
+    } catch (e) {
+      memory.held = true;
+      return memory.view === "posts" ? "posts" : "all";
+    }
+  }
+  function writeView(storage, view, memory) {
+    memory = memory || viewMemory;
+    memory.view = normalizeView(view);
+    try {
+      if (!storage || typeof storage.setItem !== "function") memory.held = true;
+      else storage.setItem(VIEW_KEY, memory.view);
+    } catch (e) {
+      memory.held = true;
+    }
+    return memory.view;
+  }
+  function safeStorage() {
+    try {
+      if (typeof localStorage === "undefined") return null;
+      return localStorage;
+    } catch (e) {
+      viewMemory.held = true;
+      return null;
+    }
+  }
+  function currentView() { return state.feedView === "posts" ? "posts" : "all"; }
+  function menuItems() {
+    var menu = $("viewMenu");
+    if (!menu || !menu.querySelectorAll) return [];
+    return Array.prototype.slice.call(menu.querySelectorAll("[data-view]"));
+  }
+  function syncViewControl() {
+    var btn = $("viewBtn"), label = $("viewLabel"), empty = $("empty");
+    if (!btn || !label) return;
+    var text = currentView() === "posts" ? "Posts" : "All";
+    label.textContent = text;
+    btn.setAttribute("aria-label", "Showing " + text);
+    var items = menuItems(), i;
+    for (i = 0; i < items.length; i++) {
+      items[i].setAttribute("aria-checked", items[i].getAttribute("data-view") === currentView() ? "true" : "false");
+    }
+    if (empty) empty.textContent = POSTS_EMPTY;
+  }
+  function closeViewMenu(focusBtn) {
+    var menu = $("viewMenu"), btn = $("viewBtn");
+    if (!menu || !btn) return;
+    menu.hidden = true;
+    btn.setAttribute("aria-expanded", "false");
+    if (focusBtn) btn.focus();
+  }
+  function openViewMenu(which) {
+    var menu = $("viewMenu"), btn = $("viewBtn");
+    if (!menu || !btn) return;
+    menu.hidden = false;
+    btn.setAttribute("aria-expanded", "true");
+    var items = menuItems(), i, pick;
+    if (!items.length) return;
+    pick = which === "last" ? items[items.length - 1] : items[0];
+    if (which !== "first" && which !== "last") {
+      for (i = 0; i < items.length; i++) if (items[i].getAttribute("aria-checked") === "true") pick = items[i];
+    }
+    pick.focus();
+  }
+  function chooseView(view) {
+    var next = normalizeView(view);
+    var same = next === currentView();
+    state.feedView = writeView(safeStorage(), next);
+    syncViewControl();
+    closeViewMenu(true);
+    if (same) return;
+    render(true);
+    try { window.scrollTo(0, 0); } catch (e) {}
+  }
+  function bindView() {
+    var btn = $("viewBtn"), menu = $("viewMenu");
+    if (!btn || !menu || btn.getAttribute("data-bound")) return;
+    btn.setAttribute("data-bound", "1");
+    btn.addEventListener("click", function () {
+      if (menu.hidden) openViewMenu();
+      else closeViewMenu(false);
+    });
+    btn.addEventListener("keydown", function (e) {
+      if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+        e.preventDefault();
+        openViewMenu(e.key === "ArrowUp" ? "last" : "first");
+      } else if (e.key === "Escape" && !menu.hidden) {
+        e.preventDefault();
+        closeViewMenu(false);
+      }
+    });
+    menu.addEventListener("click", function (e) {
+      var item = e.target && e.target.closest && e.target.closest("[data-view]");
+      if (!item || !menu.contains(item)) return;
+      chooseView(item.getAttribute("data-view"));
+    });
+    menu.addEventListener("keydown", function (e) {
+      var items = menuItems(), i;
+      if (!items.length) return;
+      i = items.indexOf(document.activeElement);
+      if (e.key === "ArrowDown") { e.preventDefault(); items[(i + 1) % items.length].focus(); }
+      else if (e.key === "ArrowUp") { e.preventDefault(); items[(i <= 0 ? items.length : i) - 1].focus(); }
+      else if (e.key === "Home") { e.preventDefault(); items[0].focus(); }
+      else if (e.key === "End") { e.preventDefault(); items[items.length - 1].focus(); }
+      else if (e.key === "Escape") { e.preventDefault(); closeViewMenu(true); }
+      else if (e.key === "Tab") closeViewMenu(false);
+      else if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        var item = e.target && e.target.closest && e.target.closest("[data-view]");
+        if (item) chooseView(item.getAttribute("data-view"));
+      }
+    });
+    document.addEventListener("click", function (e) {
+      if (menu.hidden) return;
+      var box = $("viewSwitch");
+      if (box && box.contains(e.target)) return;
+      closeViewMenu(false);
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && !menu.hidden) closeViewMenu(true);
+    });
+    syncViewControl();
+  }
+
   function parseHash() {
     var h = location.hash.replace(/^#\/?/, ""), qi = h.indexOf("?"), params = {};
     if (qi >= 0) { new URLSearchParams(h.slice(qi + 1)).forEach(function (v, k) { params[k] = v; }); h = h.slice(0, qi); }
@@ -468,33 +631,41 @@
   }
 
   function render(resetLimit) {
-    var r = parseHash(), list, label = "";
+    var r = parseHash(), raw = [], label = "";
+    var mode = currentView();
+    var u = null, sv = null, cfg = null;
     if (resetLimit) state.limit = PAGE;
     renderNav(r);
+    syncViewControl();
     if (document.activeElement !== $("q")) $("q").value = r.view === "search" ? r.q : "";
     if (r.view === "u") {
-      var u = state.following.filter(function (f) { return f.username.toLowerCase() === r.arg.toLowerCase(); })[0];
-      list = S.search(allPosts(), "from:" + r.arg + (r.q ? " " + r.q : ""));
-      label = userHeader(u, r.arg, list.length);
+      u = state.following.filter(function (f) { return f.username.toLowerCase() === r.arg.toLowerCase(); })[0];
+      raw = S.search(allPosts(), "from:" + r.arg + (r.q ? " " + r.q : ""));
     } else if (r.view === "search") {
-      list = S.search(allPosts(), r.q);
-      label = list.length + " result" + (list.length === 1 ? "" : "s") + " in " + allPosts().length + " saved posts";
+      raw = S.search(allPosts(), r.q);
     } else if (r.view === "saved") {
-      var sv = state.saved[r.arg];
-      list = sv ? S.search(sv.posts || [], "") : [];
-      var cfg = (state.config.saved_searches || []).filter(function (s) { return (s.slug || slugify(s.name)) === r.arg; })[0] || {};
-      label = "Saved search: <code>" + esc(cfg.query || (sv && sv.query) || r.arg) + "</code> · " + list.length + " posts" +
-        (sv && sv.updated_at ? " · updated " + esc(when(sv.updated_at)) : " · not fetched yet");
+      sv = state.saved[r.arg];
+      raw = sv ? S.search(sv.posts || [], "") : [];
+      cfg = (state.config.saved_searches || []).filter(function (s) { return (s.slug || slugify(s.name)) === r.arg; })[0] || {};
     } else {
-      list = S.search(state.posts, "");
+      raw = S.search(state.posts, "");
     }
+    // Filter before the count and the page, so Show more never lands on a hole of hidden replies or reposts.
+    var list = applyView(raw, mode);
+    if (r.view === "u") label = userHeader(u, r.arg, list.length);
+    else if (r.view === "search") label = list.length + " result" + (list.length === 1 ? "" : "s") + " in " + allPosts().length + " saved posts";
+    else if (r.view === "saved") label = "Saved search: <code>" + esc(cfg.query || (sv && sv.query) || r.arg) + "</code> · " + list.length + " posts" +
+      (sv && sv.updated_at ? " · updated " + esc(when(sv.updated_at)) : " · not fetched yet");
     state.archive = allPosts(); // full archive, not the filtered or paged slice; parent cache stays out of it
     state.byId = indexPosts(state.archive);
     mediaStore = {};  // a re-render drops revealed media; every label starts hidden again
     mid = 0; tid = 0;
     if ((r.view === "search" || r.view === "u") && pendingShards().length) ensureShards();
     if ((r.view === "search" || r.view === "u") && !state.archiveComplete) label += " · loading older posts";
-    $("status").innerHTML = label || (list.length ? "" : "No posts.");
+    var showEmpty = postsViewEmpty(mode, raw.length, list.length);
+    var empty = $("empty");
+    if (empty) empty.hidden = !showEmpty;
+    $("status").innerHTML = label || (list.length || showEmpty ? "" : "No posts.");
     $("feed").innerHTML = list.slice(0, state.limit).map(renderPost).join("");
     var older = r.view === "home" ? pendingShards() : [];
     var paging = list.length > state.limit;
@@ -506,6 +677,7 @@
   function bind() {
     $("searchForm").addEventListener("submit", function (e) {
       e.preventDefault();
+      closeViewMenu(false);
       var q = $("q").value.trim();
       $("q").blur();
       if (q) go("search", "", q); else go("home", "", "");
@@ -526,7 +698,7 @@
       if (b.classList.contains("show-parent")) { onShowParent(b); return; }
       if (b.classList.contains("expand")) (b.classList.contains("media-btn") ? toggleMedia : toggleText)(b);
     });
-    window.addEventListener("hashchange", function () { render(true); window.scrollTo(0, 0); });
+    window.addEventListener("hashchange", function () { closeViewMenu(false); render(true); window.scrollTo(0, 0); });
   }
 
   var fmtFull = new Intl.DateTimeFormat(undefined, { year: "numeric", month: "short", day: "numeric", hour: "numeric", minute: "2-digit", timeZoneName: "short" });
@@ -999,6 +1171,8 @@
 
   // ------------------------------------------------------------------ start
   function boot() {
+    state.feedView = readView(safeStorage());
+    bindView();
     $("refreshBtn").addEventListener("click", sendRefresh);
     loadAll().catch(function (e) {
       $("updated").textContent = "Never refreshed";
@@ -1043,6 +1217,7 @@
       parentClick: P.parentClick, homeShardIds: homeShardIds, shardList: shardList, dataPathOk: dataPathOk,
       indexStamp: indexStamp, pickIndex: pickIndex, keepNewer: keepNewer, statusClass: statusClass,
       pollExpired: pollExpired, refreshTimeoutStatus: refreshTimeoutStatus, parentTimeoutNote: parentTimeoutNote,
-      pickVideoURL: pickVideoURL, mediaEl: mediaEl };
+      pickVideoURL: pickVideoURL, mediaEl: mediaEl, applyView: applyView, readView: readView, writeView: writeView,
+      postsViewEmpty: postsViewEmpty, VIEW_KEY: VIEW_KEY, POSTS_EMPTY: POSTS_EMPTY };
   } else boot();
 })(typeof window !== "undefined" ? window : this);

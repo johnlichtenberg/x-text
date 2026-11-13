@@ -37,7 +37,22 @@ ok(index.shards[0].newest_id >= index.shards[index.shards.length - 1].newest_id,
 
 const home = JSON.parse(fs.readFileSync(path.join(root, shards[0].file), "utf8"));
 const html = R.renderList(home.posts.slice(0, 5), home.posts, [], {});
-ok(!/href\s*=\s*["'][^"']*(?:x\.com|twitter\.com|t\.co)/i.test(html), "home shard render has no X href");
+// Match the hostname. A substring check treats spacex.com as x.com.
+function hrefsOf(html) {
+  const out = [];
+  const re = /href\s*=\s*(["'])([\s\S]*?)\1/gi;
+  let m;
+  while ((m = re.exec(html))) out.push(m[2]);
+  return out;
+}
+function isXHref(h) {
+  let host = "";
+  try { host = new URL(h).hostname.toLowerCase().replace(/\.+$/g, ""); }
+  catch (e) { return /(?:^|\/\/|\.)(?:x\.com|twitter\.com|t\.co)(?:[:/]|$)/i.test(h); }
+  return host === "x.com" || host === "twitter.com" || host === "t.co" ||
+    host.endsWith(".x.com") || host.endsWith(".twitter.com") || host.endsWith(".t.co");
+}
+eq(hrefsOf(html).filter(isXHref).join(" "), "", "home shard render has no X href");
 
 const pairIds = new Set(posts.posts.filter((p) => p.reply_to && p.reply_to.id).map((p) => p.id + ":" + p.reply_to.id));
 eq(gate.pairs.length, pairIds.size, "gate lists each saved reply once");

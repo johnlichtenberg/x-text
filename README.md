@@ -94,11 +94,17 @@ Media stay hidden. A post (or quoted/reposted original, or nested quote) that ha
 one small label button instead, e.g. **Show photo**, **Show 2 photos**, **Show video (0:42)**, **Show GIF**
 (mixed: **Show 2 photos, video (1:05)**). Tapping it creates the `<img>`/`<video>` elements inline (photos lazy,
 `referrerpolicy=no-referrer`; video with controls, `playsinline`, `preload=none`, never autoplay; GIFs loop muted)
-and the label becomes **Hide …**, which removes them again. Until a tap, no media URL is in the page's DOM and
+and the label becomes **Hide …**, which removes them again. Show video and Show GIF then play the smallest
+whitelist mp4 that covers the screen. The player can go fullscreen, so that size is the device-pixel width of
+the clip fitted to the screen in either orientation: a 16:9 video on an iPhone 12 mini (1125×2436) needs about
+2000px and stays on the 1920 file, while a 2560×1440 monitor at 2x (5120×2880) can take 3840. A variant is large
+enough at 95% of that width; if none is, the largest is used. A post with no usable `variants` keeps playing
+`url`. Until a tap, no media URL is in the page's DOM and
 nothing is requested; any re-render (new view, search, refresh) resets every label to hidden. Alt text comes from
 the post, or "Photo 1 of 2 by @user (no description)". `posts.json` stores only direct media-server URLs, checked
 against an whitelist by `merge.py` (and again by the page): photos and video posters from `https://pbs.twimg.com`,
-the highest-bit-rate mp4 from `https://video.twimg.com`; anything else is dropped (never x.com or twitter.com).
+mp4 video from `https://video.twimg.com`. `url` is the default file, and `variants` (`url`, `w`, `h`, `br`, narrowest
+first) lists the other sizes when they were stored; anything else is dropped (never x.com or twitter.com).
 A tap loads the file from `https://x-text-relay.johnlichtenberg.workers.dev`, which fetches that same whitelist
 of paths. The browser never requests `pbs.twimg.com` or `video.twimg.com` directly, so Firefox strict tracking
 protection and Firefox Focus can show them. The content security policy allows images and video only from the relay.

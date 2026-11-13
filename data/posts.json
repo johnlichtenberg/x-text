@@ -1,8 +1,329 @@
 {
- "updated_at": "2026-11-13T18:16:02Z",
- "count": 1105,
+ "updated_at": "2026-11-13T19:06:26Z",
+ "count": 1114,
  "accounts": 11,
  "posts": [
+  {
+   "id": "2121318555136504306",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-13T19:05:30.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2121318555136504306",
+   "reply_to": {
+    "id": "2121318440896167943",
+    "username": "recidentz"
+   },
+   "kind": "quote",
+   "text": "@recidentz @bot First, thank you for being an early supporter and a power user - we really appreciate it\n\nThe team is aware and actively working on fixes. I am collecting feedback and forwarding to the team. Thank you for sharing.\n\nhttps://t.co/0DTYtckTwA",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 1
+   },
+   "partial": true,
+   "ref": {
+    "id": "2119789494723649662",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-09T13:49:33.000Z",
+    "text": "I responded to hundreds of you and will continue to monitor comments\n\nI’ll be using @bot to get aggregate feedback to the team\n\nof course, aggregate feedback is no substitute for talking to users.\n\nI will continue to talk with you all. Every response comes from me!",
+    "quote": {
+     "id": "2119474599708827957",
+     "author_id": "1518984544421965824",
+     "username": "mattyp",
+     "name": "matt palmer",
+     "created_at": "2026-11-08T16:58:17.000Z",
+     "text": "Improvements to token efficiency & behavior in Grok Bot are underway\n\nMany of you have built important workflows on @bot - we want to keep supporting you\n\nPlease reply with feedback on this post. I will read it all\n\nThank you sincerely for your support https://twitter.com/44196397/status/2119419126045454531"
+    }
+   }
+  },
+  {
+   "id": "2121318015124066702",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-13T19:03:21.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121318015124066702",
+   "kind": "repost",
+   "text": "There is no substitute for the person who Knows What To Do.",
+   "urls": [],
+   "metrics": {
+    "likes": 25657,
+    "reposts": 3003,
+    "replies": 1078,
+    "quotes": 359
+   },
+   "partial": true,
+   "ref": {
+    "id": "2033357554403999860",
+    "author_id": "5943622",
+    "username": "pmarca",
+    "name": "Marc Andreessen 🇺🇸",
+    "created_at": "2026-03-16T01:39:53.000Z"
+   }
+  },
+  {
+   "id": "2121317331179614676",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-13T19:00:38.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121317331179614676",
+   "kind": "quote",
+   "text": "Made on Earth by humans https://t.co/pE3tKUQImX",
+   "urls": [],
+   "metrics": {
+    "likes": 2689,
+    "reposts": 274,
+    "replies": 362,
+    "quotes": 30
+   },
+   "partial": true,
+   "ref": {
+    "id": "2121228714516320501",
+    "author_id": "2492039959",
+    "username": "AJamesMcCarthy",
+    "name": "Andrew McCarthy",
+    "created_at": "2026-11-13T13:08:30.000Z",
+    "text": "Looks like a scene from a sci-fi film but it’s just my drive to work this morning",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2121228629501784064/vid/avc1/1080x1920/jSLZSFe0VUVSHEOh.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2121228629501784064/img/mjkq9tHjoRevR9jH.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2121228629501784064/vid/avc1/320x568/1_9djrcgfwdtarLB.mp4",
+        "w": 320,
+        "h": 568,
+        "br": 632000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121228629501784064/vid/avc1/480x852/1dHrbq7lyfqeEgym.mp4",
+        "w": 480,
+        "h": 852,
+        "br": 950000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121228629501784064/vid/avc1/720x1280/qUEVsA891dU21NrE.mp4",
+        "w": 720,
+        "h": 1280,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121228629501784064/vid/avc1/1080x1920/jSLZSFe0VUVSHEOh.mp4",
+        "w": 1080,
+        "h": 1920,
+        "br": 10368000
+       }
+      ],
+      "width": 1080,
+      "height": 1920,
+      "duration_ms": 35481
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121317006209057190",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-13T18:59:21.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121317006209057190",
+   "reply_to": {
+    "id": "2120900978899882188",
+    "username": "yunta_tsai"
+   },
+   "kind": "reply",
+   "text": "@yunta_tsai Indeed",
+   "urls": [],
+   "metrics": {
+    "likes": 521,
+    "reposts": 27,
+    "replies": 88,
+    "quotes": 5
+   },
+   "partial": true
+  },
+  {
+   "id": "2121316908930634081",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-13T18:58:57.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121316908930634081",
+   "kind": "repost",
+   "text": "BREAKING: Zambia’s government has begun deploying 751 @Starlink kits to health facilities across all 10 provinces. 🇿🇲\n\n• 90 kits already delivered to Western Province’s Provincial Health Office.\n• Targeting underserved and hard-to-reach communities.\n• Supporting digital health services and better communication between facilities.\n• Funded by the Global Fund through the Ministry of Health, with UNDP support.\n\nStarlink is helping bring better connectivity where it matters most: healthcare.",
+   "urls": [],
+   "metrics": {
+    "likes": 586,
+    "reposts": 113,
+    "replies": 41,
+    "quotes": 11
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121206394368188416/vid/avc1/720x720/xxnR-tleRC5jR70X.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121206394368188416/img/EfUY7mfu925l1u3v.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121206394368188416/vid/avc1/320x320/DzVIECaftmP6erTj.mp4",
+       "w": 320,
+       "h": 320,
+       "br": 432000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121206394368188416/vid/avc1/540x540/vG8rtjXZwCVL5sXt.mp4",
+       "w": 540,
+       "h": 540,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121206394368188416/vid/avc1/720x720/xxnR-tleRC5jR70X.mp4",
+       "w": 720,
+       "h": 720,
+       "br": 1280000
+      }
+     ],
+     "width": 720,
+     "height": 720,
+     "duration_ms": 19866
+    }
+   ],
+   "ref": {
+    "id": "2121206425045410134",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-13T11:39:56.000Z"
+   }
+  },
+  {
+   "id": "2121316611974185273",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-13T18:57:47.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121316611974185273",
+   "kind": "quote",
+   "text": "About 4 hours to Flight 15 https://t.co/L2Y4zAjZUO",
+   "urls": [],
+   "metrics": {
+    "likes": 2674,
+    "reposts": 306,
+    "replies": 443,
+    "quotes": 61
+   },
+   "partial": true,
+   "ref": {
+    "id": "2121316300702056595",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-13T18:56:32.000Z",
+    "text": "Watch Starship Flight 15\nhttps://x.com/i/broadcasts/2brajgZlOKRMka"
+   }
+  },
+  {
+   "id": "2121316459469222250",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-13T18:57:10.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121316459469222250",
+   "kind": "repost",
+   "text": "Boca Chica Beach is not for sale, and SpaceX isn’t attempting to buy it. The beach is an important part of the Rio Grande Valley community, and SpaceX is investing substantial resources to preserve and improve it → https://spacex.com/updates#boca-chica-beach",
+   "urls": [
+    "https://spacex.com/updates#boca-chica-beach"
+   ],
+   "metrics": {
+    "likes": 10843,
+    "reposts": 1025,
+    "replies": 338,
+    "quotes": 87
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXBMikNW0AAS8cQ.jpg",
+     "width": 4096,
+     "height": 2304
+    }
+   ],
+   "ref": {
+    "id": "2121280048871473281",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-13T16:32:29.000Z"
+   }
+  },
+  {
+   "id": "2121316300702056595",
+   "author_id": "34743251",
+   "username": "SpaceX",
+   "name": "SpaceX",
+   "created_at": "2026-11-13T18:56:32.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/SpaceX/status/2121316300702056595",
+   "kind": "post",
+   "text": "Watch Starship Flight 15\nhttps://t.co/xvmIH2diNA",
+   "urls": [],
+   "metrics": {
+    "likes": 2972,
+    "reposts": 586,
+    "replies": 169,
+    "quotes": 119
+   },
+   "partial": true
+  },
+  {
+   "id": "2121310351241486847",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-13T18:32:54.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2121310351241486847",
+   "reply_to": {
+    "id": "2121145639954505947",
+    "username": "shivanijpatel"
+   },
+   "kind": "reply",
+   "text": "@shivanijpatel found u",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
   {
    "id": "2121302413659234428",
    "author_id": "1917716982465716227",
@@ -39168,7 +39489,7 @@
  ],
  "last_run": {
   "status": "new",
-  "at": "2026-11-13T18:16:14Z",
-  "new_posts": 2
+  "at": "2026-11-13T19:06:38Z",
+  "new_posts": 9
  }
 }

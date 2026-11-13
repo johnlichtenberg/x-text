@@ -1,7 +1,368 @@
 {
  "id": "2026-11-p3",
- "updated_at": "2026-11-13T18:16:02Z",
+ "updated_at": "2026-11-13T19:06:26Z",
  "posts": [
+  {
+   "id": "2118253972163301458",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T08:07:56.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118253972163301458",
+   "kind": "repost",
+   "text": "A big step for 5G networks.\n\n@SpaceX selected @Qualcomm #Dragonwing to accelerate @Starlink Mobile's nationwide 5G network, advancing 5G today with an opportunity to lay the foundation for AI-native #6G in the years ahead.\n\nExcited to build Starlink Mobile with you & team @michaelnicollsx.",
+   "urls": [],
+   "metrics": {
+    "likes": 2706,
+    "reposts": 339,
+    "replies": 141,
+    "quotes": 38
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2118037380229992449/vid/avc1/864x1080/KJWOHwD2dcda9buL.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2118037380229992449/img/Blbdd5o1YeIq9Oiz.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2118037380229992449/vid/avc1/320x400/UOUJmbIR4rzFUWgw.mp4",
+       "w": 320,
+       "h": 400,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118037380229992449/vid/avc1/480x600/tBFVuHamrrKorQM6.mp4",
+       "w": 480,
+       "h": 600,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118037380229992449/vid/avc1/720x900/d8ppAtttFrPzvgRm.mp4",
+       "w": 720,
+       "h": 900,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118037380229992449/vid/avc1/864x1080/KJWOHwD2dcda9buL.mp4",
+       "w": 864,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 864,
+     "height": 1080,
+     "duration_ms": 58366
+    }
+   ],
+   "ref": {
+    "id": "2118038626705829969",
+    "author_id": "46787467",
+    "username": "durga_malladi",
+    "name": "Durga Malladi",
+    "created_at": "2026-11-04T17:52:14.000Z"
+   }
+  },
+  {
+   "id": "2118251808179323102",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T07:59:20.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118251808179323102",
+   "kind": "quote",
+   "text": "Grok @Bot can call your dentist on the phone! https://t.co/mkvIuwTA2J",
+   "urls": [],
+   "metrics": {
+    "likes": 7339,
+    "reposts": 914,
+    "replies": 2185,
+    "quotes": 150
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118098432141431019",
+    "author_id": "1317327383628705793",
+    "username": "ArthurMacwaters",
+    "name": "Arthur MacWaters",
+    "created_at": "2026-11-04T21:49:53.000Z",
+    "text": "Grok @bot is calling a dentist for me to see if they take my insurance.  Incredible. This feels amazing.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWT_TGzboAAh5SG.jpg",
+      "width": 942,
+      "height": 2048
+     }
+    ]
+   }
+  },
+  {
+   "id": "2118251594232008714",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T07:58:29.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118251594232008714",
+   "kind": "repost",
+   "text": "My mindset on @bot has completely changed.\n\nI used to treat them like assistants. Now I treat them like real employees.\n\nWhy: an assistant does what you ask. An employee notices what you didn't ask.\n\nHow:\nHire them for one job.\nOnboard them with a clear brief.\nTrain them when they get it wrong.\nMaintain them as the job changes.\n\nThe moment I stopped asking \"what can this assistant do?\" and started asking \"what could this hire own?\", everything they could do for me got bigger.",
+   "urls": [],
+   "metrics": {
+    "likes": 1421,
+    "reposts": 141,
+    "replies": 101,
+    "quotes": 6
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118022500244172902",
+    "author_id": "1677080754549817344",
+    "username": "kiaraplds",
+    "name": "Kiara @ SpaceX SI",
+    "created_at": "2026-11-04T16:48:09.000Z"
+   }
+  },
+  {
+   "id": "2118250642926141450",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T07:54:43.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118250642926141450",
+   "kind": "repost",
+   "text": "A friend signed up for Grok Bot a month ago and was about to cancel. He couldn't see the real value.\n\nHe had 4 bots, but no plugins connected, no routines, and no skills.\n\nI showed him my 25 bots, what each one does, and how I manage the whole team. He was surprised by what Grok Bot can do, and he decided to keep his subscription.\n\nIf you don't know how to orchestrate Grok Bots, you won't see the value.\n\nBusinesses, companies, churches: if you need AI consulting, DM me.",
+   "urls": [],
+   "metrics": {
+    "likes": 1404,
+    "reposts": 133,
+    "replies": 105,
+    "quotes": 4
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118014632480682487",
+    "author_id": "1324183584282939392",
+    "username": "Texas_Twins_Dad",
+    "name": "Texas Twins Dad",
+    "created_at": "2026-11-04T16:16:53.000Z"
+   }
+  },
+  {
+   "id": "2118250472373129319",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T07:54:02.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118250472373129319",
+   "kind": "quote",
+   "text": "Everyone is using Grok @Bot https://t.co/b9E4UJkRA6",
+   "urls": [],
+   "metrics": {
+    "likes": 23069,
+    "reposts": 1665,
+    "replies": 2214,
+    "quotes": 197
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118213415944724730",
+    "author_id": "26906309",
+    "username": "minliangtan",
+    "name": "Min-Liang Tan",
+    "created_at": "2026-11-05T05:26:47.000Z",
+    "text": "Been using Grok Bot and it's pretty amazing.\n\nGot my team to hack together a GrokPuck (Grok Bot in your pocket). Swipe the screen, the bot changes.\n\nWhat do you guys think?",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2118213308209885184/vid/avc1/1080x1920/0eS9Tljx2Ky4BkIR.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118213308209885184/img/dmmc5-9reaYC54Hh.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2118213308209885184/vid/avc1/320x568/XRBz15Ez2QXHa5mL.mp4",
+        "w": 320,
+        "h": 568,
+        "br": 632000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2118213308209885184/vid/avc1/480x852/rZYazePaat12LryI.mp4",
+        "w": 480,
+        "h": 852,
+        "br": 950000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2118213308209885184/vid/avc1/720x1280/EjwLOQBUb-LnLMXF.mp4",
+        "w": 720,
+        "h": 1280,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2118213308209885184/vid/avc1/1080x1920/0eS9Tljx2Ky4BkIR.mp4",
+        "w": 1080,
+        "h": 1920,
+        "br": 10368000
+       }
+      ],
+      "width": 1080,
+      "height": 1920,
+      "duration_ms": 22933
+     }
+    ]
+   }
+  },
+  {
+   "id": "2118248670915404057",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T07:46:52.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118248670915404057",
+   "kind": "quote",
+   "text": "It’s a Brave New World https://t.co/21kLyICPoJ",
+   "urls": [],
+   "metrics": {
+    "likes": 98780,
+    "reposts": 7609,
+    "replies": 7421,
+    "quotes": 767
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118054336077127797",
+    "author_id": "1871623075822772224",
+    "username": "RepYassAnsari",
+    "name": "Congresswoman Yassamin Ansari",
+    "created_at": "2026-11-04T18:54:39.000Z",
+    "text": "Top of the Democratic agenda on day 1 needs to be a pause on advanced AI development, regulation of this out of control industry, and a ban on artificial superintelligence."
+   }
+  },
+  {
+   "id": "2118214299391057973",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-05T05:30:18.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118214299391057973",
+   "kind": "quote",
+   "text": "Try Grok @Bot! https://t.co/SiirO5oKCe",
+   "urls": [],
+   "metrics": {
+    "likes": 7395,
+    "reposts": 817,
+    "replies": 1468,
+    "quotes": 107
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118055599036588312",
+    "author_id": "1275333333724000257",
+    "username": "Saboo_Shubham_",
+    "name": "Shubham Saboo",
+    "created_at": "2026-11-04T18:59:41.000Z",
+    "text": "I have moved everything from OpenClaw, Hermes and Muse to just Grok Bot now.\n\nMuse had a moment for a while. But Grok @bot is coming out as a clear winner for personal agents (UI/UX/features - everything on point).\n\nAnd the most impressive thing the speed of shipping to keep grok bot relevant.\n\nAmazing work @poteto, @mattyp and team!",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1920x1080/cOs6k3ZkBGObOn6g.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118043621249433600/img/wbtqZXaA0cWZe1Kd.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/480x270/Sxq1Q3rjJgoJ8SAA.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/640x360/4v94HbmGx7LmoKRK.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1280x720/yZmAOBMCKTeSLMV7.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1920x1080/cOs6k3ZkBGObOn6g.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 42033
+     }
+    ]
+   }
+  },
+  {
+   "id": "2118167689915203656",
+   "author_id": "13298072",
+   "username": "Tesla",
+   "name": "Tesla",
+   "created_at": "2026-11-05T02:25:05.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/Tesla/status/2118167689915203656",
+   "kind": "quote",
+   "text": "👇 https://t.co/h1UVh4xJDN",
+   "urls": [],
+   "metrics": {
+    "likes": 3398,
+    "reposts": 250,
+    "replies": 245,
+    "quotes": 17
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118130395338453035",
+    "author_id": "1686044379910131718",
+    "username": "cybertruck",
+    "name": "Cybertruck",
+    "created_at": "2026-11-04T23:56:53.000Z",
+    "text": "Show us how Cybertruck has changed your life\n\nRecord your vid (ideally 60 seconds max) & share in replies below"
+   }
+  },
+  {
+   "id": "2118122168894828737",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-04T23:24:12.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2118122168894828737",
+   "reply_to": {
+    "id": "2118121486258938352",
+    "username": "charlesgaudet"
+   },
+   "kind": "reply",
+   "text": "@charlesgaudet @X Pages is more for visualizing information - a bit like an interactive public doc\n\nIt's probably easier to do in Grok Bot than via a Vercel deployment :)",
+   "urls": [],
+   "metrics": {
+    "likes": 7,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
   {
    "id": "2118109067482964046",
    "author_id": "1518984544421965824",

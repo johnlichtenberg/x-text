@@ -47,7 +47,7 @@ Shown on page load from `data/index.json` (`updated_at`, `accounts`, `post_count
 - After a Refresh tap: `Refreshing…` while polling, then the new `Last updated …` line plus one of
   `<k> new posts`, `No new posts`, or `Skipped: refreshed under 10 min ago` (every run writes `last_run`,
   even with nothing new; when publishing is enabled every run is pushed, with only `data/posts.json` committed
-  when there are no new posts). After 3 min without a change: `No response after 3 min: the refresh may still be running. Tap Refresh again later.`
+  when there are no new posts). After 3 min without a change the poll stops and the same neutral status line says `Still refreshing… a big catch-up can take a few minutes. Reload the page in a minute to see new posts.` Tapping Refresh or reloading the page starts that check again. Show parent's 3 min wait says `Still loading this parent… a slow lookup can take a few minutes. Reload the page in a minute to see it.` and leaves Show parent available.
 
 ## Views and search
 Hash routes: `#/` combined feed · `#/u/<handle>` one account · `#/search?q=…` · `#/saved/<slug>`.

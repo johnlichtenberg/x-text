@@ -673,7 +673,8 @@
     var u = (state.config && state.config.refresh_url) || RELAY_URL;
     return /^https:\/\/[^\s<>"']+$/.test(u) ? u : "";
   }
-  function rstatus(msg, err) { $("refreshStatus").textContent = msg; $("refreshStatus").className = "rstatus" + (err ? " err" : ""); }
+  function statusClass(err) { return "rstatus" + (err ? " err" : ""); }
+  function rstatus(msg, err) { $("refreshStatus").textContent = msg; $("refreshStatus").className = statusClass(err); }
 
   function stopPoll() { if (poll) { clearInterval(poll); poll = null; } $("refreshBtn").disabled = false; showUpdated(); }
 
@@ -685,6 +686,20 @@
     return plural(run.new_posts != null ? run.new_posts : Math.max(0, state.posts.length - before_n), "new post");
   }
 
+  // Both polls stop after 3 min. The lookup can still be running, so the status keeps waiting
+  // in the same neutral style. stopPoll re-enables Refresh; a later tap or a reload starts over.
+  var POLL_LIMIT_MS = 180000;
+  function pollExpired(started, now) { return now - started > POLL_LIMIT_MS; }
+  function refreshTimeoutStatus() {
+    return {
+      message: "Still refreshing… a big catch-up can take a few minutes. Reload the page in a minute to see new posts.",
+      error: false
+    };
+  }
+  function parentTimeoutNote() {
+    return "Still loading this parent… a slow lookup can take a few minutes. Reload the page in a minute to see it.";
+  }
+
   function startPoll() {
     var started = Date.now(), before = sess.watch, seen = sess.watch, before_n = state.postCount || state.posts.length,
       before_run = JSON.stringify((state.meta && state.meta.last_run) || null), inflight = false, lastPages = 0;
@@ -693,7 +708,12 @@
     poll = setInterval(tick, 1000);
     $("updated").textContent = "Refreshing…";
     function tick() {
-      if (Date.now() - started > 180000) { stopPoll(); rstatus("No response after 3 min: the refresh may still be running. Tap Refresh again later."); return; }
+      if (pollExpired(started, Date.now())) {
+        var waiting = refreshTimeoutStatus();
+        stopPoll();
+        rstatus(waiting.message, waiting.error);
+        return;
+      }
       if (inflight) return;
       inflight = true;
       var now = Date.now(), wantPages = !lastPages || now - lastPages >= 5000;
@@ -808,12 +828,13 @@
     var started = Date.now(), inflight = false, lastPages = 0;
     stopParentPoll();
     parentPoll = setInterval(function () {
-      if (Date.now() - started > 180000) {
+      if (pollExpired(started, Date.now())) {
         stopParentPoll();
+        var note = parentTimeoutNote();
         pairs.forEach(function (pair) {
           if (!state.loading[pair.reply_id]) return;
           delete state.loading[pair.reply_id];
-          state.notes[pair.reply_id] = "No parent yet. It may still be saving. Try again later.";
+          state.notes[pair.reply_id] = note;
         });
         render(false);
         return;
@@ -932,6 +953,7 @@
   if (typeof module !== "undefined" && module.exports) {
     module.exports = { renderList: renderList, indexPosts: indexPosts, combinedArchive: combinedArchive, userHeader: userHeader,
       parentClick: P.parentClick, homeShardIds: homeShardIds, shardList: shardList, dataPathOk: dataPathOk,
-      indexStamp: indexStamp, pickIndex: pickIndex, keepNewer: keepNewer };
+      indexStamp: indexStamp, pickIndex: pickIndex, keepNewer: keepNewer, statusClass: statusClass,
+      pollExpired: pollExpired, refreshTimeoutStatus: refreshTimeoutStatus, parentTimeoutNote: parentTimeoutNote };
   } else boot();
 })(typeof window !== "undefined" ? window : this);

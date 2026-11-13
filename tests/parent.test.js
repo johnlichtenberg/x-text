@@ -1,6 +1,8 @@
 // Run: node tests/parent.test.js
 // Parent clicks, cache hits, and the relay request shape. No network.
 const assert = require("assert");
+const fs = require("fs");
+const path = require("path");
 const P = require("../parent.js");
 const R = require("../app.js");
 
@@ -81,5 +83,22 @@ const loading = R.renderList([reply], [reply], [], { loading: ["10"] });
 ok(loading.includes("Loading parent…") && !loading.includes("Show parent"), "in-flight click shows loading");
 const noted = R.renderList([reply], [reply], [], { notes: { "10": "Parent fetch isn't set up yet." } });
 ok(noted.includes("Parent fetch isn&#39;t set up yet.") && noted.includes("Show parent"), "setup failure keeps the original ask");
+
+const parentLimit = 180000;
+ok(!R.pollExpired(0, parentLimit), "a parent poll is still running at 3 min");
+ok(R.pollExpired(0, parentLimit + 1), "a parent poll stops after 3 min");
+const askedAgain = parentLimit + 1;
+ok(!R.pollExpired(askedAgain, askedAgain + parentLimit), "Show parent again starts a full 3 min wait");
+const parentWait = R.parentTimeoutNote();
+eq(parentWait, "Still loading this parent… a slow lookup can take a few minutes. Reload the page in a minute to see it.", "parent timeout says the lookup is still running");
+ok(!/x\.com|twitter\.com|t\.co|https?:/i.test(parentWait), "the parent wait has no outbound link");
+const waitingParent = R.renderList([reply], [reply], [], { notes: { "10": parentWait } });
+ok(waitingParent.includes(parentWait), "the parent slot shows the waiting note");
+ok(waitingParent.includes("Show parent"), "Show parent stays available after the wait");
+ok(!waitingParent.includes("rstatus err") && !waitingParent.includes('class="msg"'), "the parent wait is not an error");
+ok(!/href\s*=\s*["'][^"']*(?:x\.com|twitter\.com|t\.co)/i.test(waitingParent), "the parent wait renders no X link");
+const parentSrc = fs.readFileSync(path.join(__dirname, "..", "app.js"), "utf8");
+ok(!parentSrc.includes("No parent yet. It may still be saving"), "the page no longer says the parent lookup gave up");
+ok(parentSrc.includes(parentWait), "the parent poll shows the waiting note");
 
 console.log("parent tests passed: " + n);

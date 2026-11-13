@@ -18,7 +18,7 @@
     "http://spacex.com/sites/cochise-county"
    ],
    "metrics": {
-    "likes": 8156,
+    "likes": 8158,
     "reposts": 880,
     "replies": 280,
     "quotes": 80
@@ -177,7 +177,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120969881461862400/vid/avc1/826x1468/SAZy8a2Cj1JV3xxV.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120969881461862400/vid/avc1/720x1278/0r4vBvRisIEf8d49.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120969881461862400/img/d1BA5j62adm7X32k.jpg",
      "width": 826,
      "height": 1468,
@@ -321,7 +321,7 @@
    "text": "SpaceX has committed $220 million to expand water and wastewater infrastructure for Brownsville and Cameron County -- the largest private contribution to Brownsville’s water future in the city’s history.\n\nThis investment addresses one of the region’s most urgent challenges: securing a reliable, sustainable supply of drinking water for generations to come",
    "urls": [],
    "metrics": {
-    "likes": 14795,
+    "likes": 14796,
     "reposts": 1399,
     "replies": 385,
     "quotes": 122
@@ -355,7 +355,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120978233612984321/vid/avc1/1920x1080/ZJYDyXi6RglKC4Vx.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120978233612984321/vid/avc1/1280x720/Wu0j-ZpF8ZwNMq6-.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120978233612984321/img/iI5a9fMlDDjSIzIx.jpg",
      "width": 1920,
      "height": 1080,
@@ -568,9 +568,7 @@
    "url": "https://x.com/elonmusk/status/2121119443698979136",
    "kind": "repost",
    "text": "SpaceX is building a supercomputer near Brownsville, Texas.\n\nThe first job on site was cleaning up sixty years of other people's trash.\n\nScrap metal, rusting tanks, old appliances and thousands of illegal tires, hauled out of the mud.\n\nThink about that for a second.\n\nThis site will train frontier AI for medical research, emergency response, advanced manufacturing and national security.\n\nIt will make its own electricity, so the neighbors' power bills stay their own.\n\nSpaceX is also putting $220 million into Brownsville's water and wastewater system, adding 20 million gallons of capacity every day for the city.\n\nMore than 3,000 construction jobs already, with more than 500 permanent ones to come.\n\nElon Musk summed it up in three words: \"SpaceX community benefits.\"\n\nA company spends $15 billion on Starship and another $24 billion on a supercomputer in one corner of Texas when it plans to stay for decades.\n\nElon Musk builds the place up first, because he believes the future will be built right there.",
-   "urls": [
-    "https://twitter.com/spacex/status/2120911969087607288"
-   ],
+   "urls": [],
    "metrics": {
     "likes": 2377,
     "reposts": 334,
@@ -582,7 +580,23 @@
     "author_id": "1265526183137067010",
     "username": "TheCaptainEli",
     "name": "Captain Eli",
-    "created_at": "2026-11-13T05:50:28.000Z"
+    "created_at": "2026-11-13T05:50:28.000Z",
+    "quote": {
+     "id": "2120911969087607288",
+     "author_id": "34743251",
+     "username": "SpaceX",
+     "name": "SpaceX",
+     "created_at": "2026-11-12T16:09:52.000Z",
+     "text": "Development of the Starbase supercompute site is creating an opportunity to address decades of environmental neglect.\n\nPortions of the property were used for unauthorized dumping dating back to the 1960s. We're undertaking cleanup efforts to remove decades of accumulated debris, including scrap metal, discarded appliances, old tanks, fiberglass insulation, construction materials, and thousands of illegally dumped tires",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW7-HFYXEAA-Q-H.jpg",
+       "width": 3838,
+       "height": 2161
+      }
+     ]
+    }
    }
   },
   {
@@ -902,15 +916,15 @@
    "text": "\"If something's important enough you should try. Even if the probable outcome is failure.\"\n\n- Elon, 2014\n\nFlight 15 pre-flight hype edit:",
    "urls": [],
    "metrics": {
-    "likes": 2654,
-    "reposts": 378,
-    "replies": 124,
-    "quotes": 34
+    "likes": 2940,
+    "reposts": 421,
+    "replies": 133,
+    "quotes": 39
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2121039928377188352/vid/avc1/1920x1080/EYSMzhujVZCkBKUa.mp4",
+     "url": "https://video.twimg.com/amplify_video/2121039928377188352/vid/avc1/1280x720/Q6ZhWt8k1587V95s.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2121039928377188352/img/kJZ4dKSkDe5I2c6I.jpg",
      "width": 1920,
      "height": 1080,
@@ -1542,10 +1556,10 @@
    "conversation_id": null,
    "url": "https://x.com/elonmusk/status/2120984149666545741",
    "kind": "repost",
-   "text": "Development of the Starbase supercompute site is creating an opportunity to address decades of environmental neglect.\n\nPortions of the property were used for unauthorized dumping dating back to the 1960s. We're undertaking cleanup efforts to remove decades of accumulated debris, https://t.co/XNNkiJqp0I",
+   "text": "Development of the Starbase supercompute site is creating an opportunity to address decades of environmental neglect.\n\nPortions of the property were used for unauthorized dumping dating back to the 1960s. We're undertaking cleanup efforts to remove decades of accumulated debris, including scrap metal, discarded appliances, old tanks, fiberglass insulation, construction materials, and thousands of illegally dumped tires",
    "urls": [],
    "metrics": {
-    "likes": 15633,
+    "likes": 15634,
     "reposts": 1769,
     "replies": 527,
     "quotes": 115
@@ -2511,7 +2525,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2120913786156556288/vid/avc1/3472x1946/H7YCdm9qvqIgJblU.mp4",
+       "url": "https://video.twimg.com/amplify_video/2120913786156556288/vid/avc1/642x360/IVITUZcOxqfqkocl.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2120913786156556288/img/46WA4YgByxQcld6I.jpg",
        "width": 3472,
        "height": 1946,
@@ -2677,15 +2691,15 @@
     "https://spacex.com/updates#building-the-future"
    ],
    "metrics": {
-    "likes": 7244,
-    "reposts": 786,
-    "replies": 289,
-    "quotes": 103
+    "likes": 7340,
+    "reposts": 792,
+    "replies": 293,
+    "quotes": 104
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/1920x1080/sECpn3JMW3Gsjb_N.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/1280x720/X9wJ7FQL0GCBepXw.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120911444208189440/img/uD7jY3T9oXVnglYZ.jpg",
      "width": 1920,
      "height": 1080,
@@ -2728,7 +2742,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/1920x1080/sECpn3JMW3Gsjb_N.mp4",
+      "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/1280x720/X9wJ7FQL0GCBepXw.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2120911444208189440/img/uD7jY3T9oXVnglYZ.jpg",
       "width": 1920,
       "height": 1080,
@@ -2827,15 +2841,15 @@
     "https://spacex.com/updates#building-the-future"
    ],
    "metrics": {
-    "likes": 7244,
-    "reposts": 786,
-    "replies": 289,
-    "quotes": 103
+    "likes": 7340,
+    "reposts": 792,
+    "replies": 293,
+    "quotes": 104
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/1920x1080/sECpn3JMW3Gsjb_N.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/1280x720/X9wJ7FQL0GCBepXw.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120911444208189440/img/uD7jY3T9oXVnglYZ.jpg",
      "width": 1920,
      "height": 1080,
@@ -3159,7 +3173,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2120358688338628608/vid/avc1/3840x2160/X4UKpT1D_fYaaGUA.mp4",
+       "url": "https://video.twimg.com/amplify_video/2120358688338628608/vid/avc1/1280x720/u2Bo5MAzZ4Sxecwl.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2120358688338628608/img/ws44uq5yYNCd6uZT.jpg",
        "width": 3840,
        "height": 2160,
@@ -3226,7 +3240,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
+       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1280x720/grA3hzlYxZVXWgDr.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
        "width": 1920,
        "height": 1080,
@@ -3343,7 +3357,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2117538634387816448/vid/avc1/1920x1080/09U5L4L-3qrs8Nua.mp4",
+       "url": "https://video.twimg.com/amplify_video/2117538634387816448/vid/avc1/1280x720/bIooZHrarKO6zAGs.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2117538634387816448/img/jan8A0AwbKe9Ivj9.jpg",
        "width": 1920,
        "height": 1080,
@@ -3375,7 +3389,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120267696961196032/vid/avc1/3840x2160/q-BKgDY7DyFbcYwR.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120267696961196032/vid/avc1/1280x720/flZF0msdGk1OfL6_.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120267696961196032/img/yBGZkgqFlvuMyH1M.jpg",
      "width": 3840,
      "height": 2160,
@@ -3419,7 +3433,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120267696961196032/vid/avc1/3840x2160/q-BKgDY7DyFbcYwR.mp4",
+      "url": "https://video.twimg.com/amplify_video/2120267696961196032/vid/avc1/1280x720/flZF0msdGk1OfL6_.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2120267696961196032/img/yBGZkgqFlvuMyH1M.jpg",
       "width": 3840,
       "height": 2160,
@@ -3475,7 +3489,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
+       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1280x720/grA3hzlYxZVXWgDr.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
        "width": 1920,
        "height": 1080,
@@ -3531,7 +3545,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
+       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1280x720/grA3hzlYxZVXWgDr.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
        "width": 1920,
        "height": 1080,
@@ -3570,7 +3584,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120736100151177216/vid/avc1/3840x2160/FJgHPK8UnFcuLXfl.mp4",
+      "url": "https://video.twimg.com/amplify_video/2120736100151177216/vid/avc1/1280x720/dff-RqtMIlplcs7O.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2120736100151177216/img/IdxK4IGj1PPNYciw.jpg",
       "width": 3840,
       "height": 2160,
@@ -3686,7 +3700,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120739703376748544/vid/avc1/3840x2160/QbbrtsFUJV_rodLb.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120739703376748544/vid/avc1/1280x720/qwFx8lpce1Zo5WJz.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120739703376748544/img/OpMC3pdJOwhu74jg.jpg",
      "width": 3840,
      "height": 2160,
@@ -3716,7 +3730,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120737635551334400/vid/avc1/3840x2160/TzX2Rp38yXKNRG_I.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120737635551334400/vid/avc1/1280x720/kt077uz_zEBGXo4B.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120737635551334400/img/4QFR5EdrX91jgaq6.jpg",
      "width": 3840,
      "height": 2160,
@@ -3824,7 +3838,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
+      "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1280x720/grA3hzlYxZVXWgDr.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
       "width": 1920,
       "height": 1080,
@@ -3868,7 +3882,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
+       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1280x720/grA3hzlYxZVXWgDr.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
        "width": 1920,
        "height": 1080,
@@ -3904,19 +3918,20 @@
    "username": "SpaceX",
    "name": "SpaceX",
    "created_at": "2026-11-12T03:47:08.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120725054933635188",
    "url": "https://x.com/SpaceX/status/2120725054933635188",
    "kind": "post",
-   "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-627 mission from California → https://t.co/IdlZbviZZl https://t.co/fKxyN4DIui",
-   "urls": [],
+   "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-627 mission from California → https://spacex.com/launches/ussf627",
+   "urls": [
+    "https://spacex.com/launches/ussf627"
+   ],
    "metrics": {
-    "likes": 7051,
+    "likes": 7052,
     "reposts": 676,
     "replies": 258,
     "quotes": 44
    },
-   "partial": true,
    "media": [
     {
      "type": "photo",
@@ -3932,8 +3947,8 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-12T03:45:47.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120724711474692497",
    "url": "https://x.com/elonmusk/status/2120724711474692497",
    "kind": "repost",
    "text": "Russell Brand's longtime friend and one-time fling @SammiePressdee speaks out to @MegynKelly about the TRUTH: \"I said no, and he was a perfect gentleman about it... Not one single person ever warned me to be careful around Russell Brand. So, I don't buy the 'open secret'...”\n\nMore:\nhttps://youtube.com/c/MegynKelly/?sub_confirmation=1",
@@ -3941,16 +3956,15 @@
     "https://youtube.com/c/MegynKelly/?sub_confirmation=1"
    ],
    "metrics": {
-    "likes": 4680,
-    "reposts": 795,
+    "likes": 4684,
+    "reposts": 794,
     "replies": 355,
     "quotes": 50
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120612725386604544/vid/avc1/1920x1080/8ydvRK1tTPA6SF3p.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120612725386604544/vid/avc1/1280x720/gKBlgEOVGcIPcZKw.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120612725386604544/img/WKcDSU-_643M96Jn.jpg",
      "width": 1920,
      "height": 1080,
@@ -4107,7 +4121,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120584648887603200/vid/avc1/1920x1080/_5-Mr3wCmHhH2dyV.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120584648887603200/vid/avc1/1280x720/bT2zmCAI9Tbcjnxt.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120584648887603200/img/7fJTC0_ehG0tmNNk.jpg",
      "width": 1920,
      "height": 1080,
@@ -4334,7 +4348,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120620709043154944/vid/avc1/3840x2160/n4ECusws_qvIE0kc.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120620709043154944/vid/avc1/1280x720/PutVxDjmoVPPfeU_.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120620709043154944/img/d_hWUouTZaKu9101.jpg",
      "width": 3840,
      "height": 2160,
@@ -4375,8 +4389,8 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-11T20:22:50.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120513787602075837",
    "url": "https://x.com/elonmusk/status/2120613240707420280",
    "reply_to": {
     "id": "2120546871990976832",
@@ -4386,12 +4400,11 @@
    "text": "@TheFlintFace @IterIntellectus 100GW in space is roughly equal to 800GW on Earth.\n\nMoreover, solar on Earth must be paired with massive batteries to continue powering compute at night and supplemented with combustion or nuclear power during winter.\n\nThese are not the same at all.",
    "urls": [],
    "metrics": {
-    "likes": 2415,
-    "reposts": 254,
-    "replies": 280,
-    "quotes": 36
-   },
-   "partial": true
+    "likes": 2536,
+    "reposts": 263,
+    "replies": 284,
+    "quotes": 39
+   }
   },
   {
    "id": "2120607852687683842",
@@ -4399,23 +4412,22 @@
    "username": "mattyp",
    "name": "matt palmer",
    "created_at": "2026-11-11T20:01:25.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120607852687683842",
    "url": "https://x.com/mattyp/status/2120607852687683842",
    "kind": "repost",
    "text": "Introducing Grok Bot 1.0. AI teammates that work alongside your whole team.\n\nShare Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful.",
    "urls": [],
    "metrics": {
-    "likes": 7308,
-    "reposts": 588,
-    "replies": 1092,
-    "quotes": 401
+    "likes": 14784,
+    "reposts": 1293,
+    "replies": 2679,
+    "quotes": 987
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1280x720/grA3hzlYxZVXWgDr.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
      "width": 1920,
      "height": 1080,
@@ -4452,7 +4464,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120597007647793152/vid/avc1/3840x2160/9S5PAQb2irZtnLk6.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120597007647793152/vid/avc1/1280x720/-IgoD72h7KiA0xDu.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120597007647793152/img/5tx-Fc-p7Zm6P25z.jpg",
      "width": 3840,
      "height": 2160,
@@ -4625,7 +4637,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120314908789309440/vid/avc1/3840x2160/huhT0QlKIss9CyM4.mp4",
+      "url": "https://video.twimg.com/amplify_video/2120314908789309440/vid/avc1/1280x720/OIwaSgLHUaEyeaDz.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2120314908789309440/img/YUtiKL7khDLrLOrT.jpg",
       "width": 3840,
       "height": 2160,
@@ -4640,23 +4652,22 @@
    "username": "SpaceXSI",
    "name": "SpaceX Super Intelligence",
    "created_at": "2026-11-11T18:30:20.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120584928983441826",
    "url": "https://x.com/SpaceXSI/status/2120584928983441826",
    "kind": "post",
-   "text": "Introducing Grok Bot 1.0.\n\nBots can be shared and are more collaborative and capable than ever. https://t.co/gmxan7jupQ",
+   "text": "Introducing Grok Bot 1.0.\n\nBots can be shared and are more collaborative and capable than ever.",
    "urls": [],
    "metrics": {
-    "likes": 3299,
-    "reposts": 289,
-    "replies": 156,
-    "quotes": 93
+    "likes": 8498,
+    "reposts": 759,
+    "replies": 399,
+    "quotes": 179
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120584648887603200/vid/avc1/1920x1080/_5-Mr3wCmHhH2dyV.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120584648887603200/vid/avc1/1280x720/bT2zmCAI9Tbcjnxt.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120584648887603200/img/7fJTC0_ehG0tmNNk.jpg",
      "width": 1920,
      "height": 1080,
@@ -4670,19 +4681,18 @@
    "username": "SpaceX",
    "name": "SpaceX",
    "created_at": "2026-11-11T18:29:26.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120584703082446863",
    "url": "https://x.com/SpaceX/status/2120584703082446863",
    "kind": "post",
-   "text": "Thank you to all those who have served, including the veterans we're proud to call members of the SpaceX family. Happy Veterans Day! https://t.co/SGpSvt1dby",
+   "text": "Thank you to all those who have served, including the veterans we're proud to call members of the SpaceX family. Happy Veterans Day!",
    "urls": [],
    "metrics": {
-    "likes": 4721,
-    "reposts": 498,
-    "replies": 142,
-    "quotes": 37
+    "likes": 14495,
+    "reposts": 1461,
+    "replies": 351,
+    "quotes": 84
    },
-   "partial": true,
    "media": [
     {
      "type": "photo",
@@ -4721,7 +4731,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
+      "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1280x720/grA3hzlYxZVXWgDr.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
       "width": 1920,
       "height": 1080,
@@ -4784,23 +4794,22 @@
    "username": "bot",
    "name": "Grok Bot",
    "created_at": "2026-11-11T18:22:30.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120582957782200586",
    "url": "https://x.com/bot/status/2120582957782200586",
    "kind": "post",
-   "text": "Introducing Grok Bot 1.0. AI teammates that work alongside your whole team.\n\nShare Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful. https://t.co/7569CZRc9G",
+   "text": "Introducing Grok Bot 1.0. AI teammates that work alongside your whole team.\n\nShare Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful.",
    "urls": [],
    "metrics": {
-    "likes": 7248,
-    "reposts": 586,
-    "replies": 1085,
-    "quotes": 397
+    "likes": 14784,
+    "reposts": 1293,
+    "replies": 2679,
+    "quotes": 987
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1280x720/grA3hzlYxZVXWgDr.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
      "width": 1920,
      "height": 1080,
@@ -4881,7 +4890,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120534360730357760/vid/avc1/1920x1080/nfIOV3w3P98-cF3y.mp4",
+      "url": "https://video.twimg.com/amplify_video/2120534360730357760/vid/avc1/1280x720/ygzaZm28iU_DcClU.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2120534360730357760/img/CY0a6PvHadCbX7NA.jpg",
       "width": 1920,
       "height": 1080,
@@ -5039,7 +5048,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120400638517649408/vid/avc1/3840x2160/DNJBCXQD-ZSvXUla.mp4",
+      "url": "https://video.twimg.com/amplify_video/2120400638517649408/vid/avc1/1280x720/bAN-DymfbWRSu9uH.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2120400638517649408/img/pv6JcEDdbtzA2f2N.jpg",
       "width": 3840,
       "height": 2160,
@@ -5381,7 +5390,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120206805301432320/vid/avc1/3840x2160/ZgZw9IqkEhYoHROw.mp4",
+      "url": "https://video.twimg.com/amplify_video/2120206805301432320/vid/avc1/1280x720/b0dmkHPS5mHxH1Jj.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2120206805301432320/img/GfU1cb3_x6eq7W_n.jpg",
       "width": 3840,
       "height": 2160,
@@ -7605,7 +7614,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120307501128364032/vid/avc1/1920x1080/wC5EbXON6zMqL5J-.mp4?tag=16",
+     "url": "https://video.twimg.com/amplify_video/2120307501128364032/vid/avc1/1280x720/b7CRhu_POzTyOOL1.mp4?tag=16",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120307501128364032/img/ei0vRT-uljWgRP8h.jpg",
      "width": 3840,
      "height": 2160,
@@ -7679,19 +7688,18 @@
    "username": "bot",
    "name": "Grok Bot",
    "created_at": "2026-11-10T22:16:43.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120279511707386263",
    "url": "https://x.com/bot/status/2120279511707386263",
    "kind": "post",
-   "text": "Grok Bot can now join your personal or company tailnets on Tailscale.\n\nUse it to securely reach private MCP servers, internal tools, and apps on your network. https://t.co/kIZjEmvSMK",
+   "text": "Grok Bot can now join your personal or company tailnets on Tailscale.\n\nUse it to securely reach private MCP servers, internal tools, and apps on your network.",
    "urls": [],
    "metrics": {
-    "likes": 2920,
-    "reposts": 150,
-    "replies": 384,
-    "quotes": 73
+    "likes": 9253,
+    "reposts": 600,
+    "replies": 1404,
+    "quotes": 240
    },
-   "partial": true,
    "media": [
     {
      "type": "photo",
@@ -7754,23 +7762,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-10T20:34:58.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120253907435655331",
    "url": "https://x.com/elonmusk/status/2120253907435655331",
    "kind": "repost",
    "text": "Here is SpaceX's new @Starlink Mini 2 with quick-swap battery. You can get up to 4.5 hours of use on a single charge.\n\nThis means you can get internet in the middle of nowhere and not have to plug anything in.",
    "urls": [],
    "metrics": {
-    "likes": 3879,
-    "reposts": 425,
-    "replies": 185,
-    "quotes": 41
+    "likes": 5795,
+    "reposts": 647,
+    "replies": 235,
+    "quotes": 64
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120209633608425472/vid/avc1/3226x1946/M2-rcO7LC0JIweAm.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120209633608425472/vid/avc1/1192x720/FA1dwW3UapXA6Rb9.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120209633608425472/img/jAUpWkOl8MRdDZsR.jpg",
      "width": 3226,
      "height": 1946,
@@ -7849,23 +7856,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-10T20:27:28.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120252018799563074",
    "url": "https://x.com/elonmusk/status/2120252018799563074",
    "kind": "repost",
    "text": "SpaceX is making moves to become the first AI carrier $SPCX\n\n• Current cell towers are still mostly “dumb” radios. The Qualcomm deal is about making them AI-native.\n• Edge inference at the tower, like an updated Akamai for AI\n• Starlink Direct-to-Cell and V3 satellites alongside the terrestrial build\n\nQualcomm’s CEO said the SpaceX agreement is finalized — not an engagement. SpaceX will build the base stations. Qualcomm supplies the silicon and the RAN accelerator for a terrestrial network he called one of the largest 5G deployments in the United States, with an AI-native architecture.",
    "urls": [],
    "metrics": {
-    "likes": 1832,
-    "reposts": 286,
-    "replies": 96,
-    "quotes": 22
+    "likes": 2915,
+    "reposts": 440,
+    "replies": 135,
+    "quotes": 32
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120232906748813312/vid/avc1/1920x1080/YFVcQQqQ5qCtrrSu.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120232906748813312/vid/avc1/1280x720/lFeDycsA7bupa1nd.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120232906748813312/img/8HHfR4Uq6dXEEJjg.jpg",
      "width": 1920,
      "height": 1080,
@@ -7886,23 +7892,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-10T20:18:36.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120249788431990910",
    "url": "https://x.com/elonmusk/status/2120249788431990910",
    "kind": "repost",
    "text": "CLAUDIA, Ship 42, Starbase. Do you copy?\nNo tower has ever caught a ship coming back from orbit. Starship Flight 15 will try, no earlier than Nov 13.\n\nGood luck, @SpaceX @elonmusk 🚀\n🎬 SLOPCORE music video\nAI Slop SI",
    "urls": [],
    "metrics": {
-    "likes": 1610,
-    "reposts": 276,
-    "replies": 137,
-    "quotes": 34
+    "likes": 2224,
+    "reposts": 382,
+    "replies": 171,
+    "quotes": 56
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120191881887752193/vid/avc1/1920x1080/wSPJ_2dM3IonMIeW.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120191881887752193/vid/avc1/1280x720/wN4Zi9sf_v2ssKms.mp4",
      "poster": "https://pbs.twimg.com/media/HWxvSIhWcAADj3Z.jpg",
      "width": 1920,
      "height": 1080,
@@ -7971,19 +7976,20 @@
    "username": "SpaceX",
    "name": "SpaceX",
    "created_at": "2026-11-10T19:04:12.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120231065394590007",
    "url": "https://x.com/SpaceX/status/2120231065394590007",
    "kind": "post",
-   "text": "We have signed a major supply contract with SINGULUS to create a durable option for advanced solar cell manufacturing to support more than 100 GW of equipment as we accelerate the production of our Starmind satellites in Bastrop, Texas → https://t.co/a9bXuUK6Ti",
-   "urls": [],
+   "text": "We have signed a major supply contract with SINGULUS to create a durable option for advanced solar cell manufacturing to support more than 100 GW of equipment as we accelerate the production of our Starmind satellites in Bastrop, Texas → https://www.singulus.com/2026/11/10/spacex-heterojunction-solar-cells-singulus/",
+   "urls": [
+    "https://www.singulus.com/2026/11/10/spacex-heterojunction-solar-cells-singulus/"
+   ],
    "metrics": {
-    "likes": 7203,
-    "reposts": 747,
-    "replies": 233,
+    "likes": 7207,
+    "reposts": 748,
+    "replies": 236,
     "quotes": 136
-   },
-   "partial": true
+   }
   },
   {
    "id": "2120220290219208884",
@@ -7991,19 +7997,18 @@
    "username": "SpaceX",
    "name": "SpaceX",
    "created_at": "2026-11-10T18:21:23.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120220290219208884",
    "url": "https://x.com/SpaceX/status/2120220290219208884",
    "kind": "post",
-   "text": "Super Heavy moved to the launch pad at Starbase. Booster 22 is the first Super Heavy V3 booster planned to return to the launch site for catch and was used for final catch testing upon arrival, including a suspended squeeze test at catch height https://t.co/iYTX1e6DEH",
+   "text": "Super Heavy moved to the launch pad at Starbase. Booster 22 is the first Super Heavy V3 booster planned to return to the launch site for catch and was used for final catch testing upon arrival, including a suspended squeeze test at catch height",
    "urls": [],
    "metrics": {
-    "likes": 9984,
-    "reposts": 1244,
-    "replies": 312,
-    "quotes": 186
+    "likes": 15651,
+    "reposts": 1852,
+    "replies": 494,
+    "quotes": 280
    },
-   "partial": true,
    "media": [
     {
      "type": "photo",
@@ -8109,23 +8114,24 @@
    "username": "SpaceX",
    "name": "SpaceX",
    "created_at": "2026-11-10T18:03:18.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120215737314738468",
    "url": "https://x.com/SpaceX/status/2120215737314738468",
    "kind": "repost",
-   "text": "Introducing Mini 2, the next-generation portable Starlink. Get up to 4.5 hours of connectivity on a single charge with the quick-swap battery, or plug in with USB-C.\n\nWith built-in Wi-Fi, all you need is a clear view of the sky to get online in 60 seconds.\n\nPreorders are now open https://t.co/VRTuJZVBnH",
-   "urls": [],
+   "text": "Introducing Mini 2, the next-generation portable Starlink. Get up to 4.5 hours of connectivity on a single charge with the quick-swap battery, or plug in with USB-C.\n\nWith built-in Wi-Fi, all you need is a clear view of the sky to get online in 60 seconds.\n\nPreorders are now open by invitation in the US. Be the first to know when it's available → http://starlink.com/mini-2",
+   "urls": [
+    "http://starlink.com/mini-2"
+   ],
    "metrics": {
-    "likes": 5761,
-    "reposts": 752,
-    "replies": 304,
-    "quotes": 281
+    "likes": 12084,
+    "reposts": 1522,
+    "replies": 676,
+    "quotes": 568
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120206805301432320/vid/avc1/3840x2160/ZgZw9IqkEhYoHROw.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120206805301432320/vid/avc1/1280x720/b0dmkHPS5mHxH1Jj.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120206805301432320/img/GfU1cb3_x6eq7W_n.jpg",
      "width": 3840,
      "height": 2160,
@@ -8388,15 +8394,15 @@
     "http://starlink.com/mini-2"
    ],
    "metrics": {
-    "likes": 5761,
-    "reposts": 752,
-    "replies": 304,
-    "quotes": 281
+    "likes": 12084,
+    "reposts": 1522,
+    "replies": 676,
+    "quotes": 568
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120206805301432320/vid/avc1/3840x2160/ZgZw9IqkEhYoHROw.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120206805301432320/vid/avc1/1280x720/b0dmkHPS5mHxH1Jj.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120206805301432320/img/GfU1cb3_x6eq7W_n.jpg",
      "width": 3840,
      "height": 2160,
@@ -8425,7 +8431,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120203858526048256/vid/avc1/3840x2160/U5EeHLvQ6n3p7j0C.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120203858526048256/vid/avc1/1280x720/2Hj_ChaCnhSoi3za.mp4",
      "poster": "https://pbs.twimg.com/media/HWx73MmbwAA0Umw.jpg",
      "width": 1280,
      "height": 720,
@@ -8446,15 +8452,15 @@
    "text": "🚨The EU's Digital Services Act threatens freedom of speech GLOBALLY.\n\nWhat they say: the DSA prevents the spread of \"illegal content\" and mitigates \"systemic risks to civic discourse\".\n\nWhat actually happens: the EU controls online narratives by forcing the world's largest platforms to censor content that the Commission and a network of nonaccountable individuals and NGOs deem unacceptable.\n\n⚠️The DSA does not protect democracy. It undermines the free exchange of ideas and information on which democracy depends.\n\nFind out more in our video 👇",
    "urls": [],
    "metrics": {
-    "likes": 2403,
-    "reposts": 634,
-    "replies": 197,
-    "quotes": 51
+    "likes": 2982,
+    "reposts": 811,
+    "replies": 224,
+    "quotes": 68
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120169911829798912/vid/avc1/1920x1080/8Q8HqbpTbM58DCsm.mp4",
+     "url": "https://video.twimg.com/amplify_video/2120169911829798912/vid/avc1/1280x720/0eDHWxmOT7VvBZU8.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120169911829798912/img/FHlayi13nzhf97kR.jpg",
      "width": 1920,
      "height": 1080,
@@ -9018,15 +9024,15 @@
     "https://podcasts.apple.com/us/podcast/themegyn-kelly-show/id1532976305"
    ],
    "metrics": {
-    "likes": 9345,
-    "reposts": 1751,
-    "replies": 1359,
-    "quotes": 164
+    "likes": 9841,
+    "reposts": 1840,
+    "replies": 1437,
+    "quotes": 180
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119904404505567232/vid/avc1/1920x1080/BvAxiSdEtiBtDxb8.mp4",
+     "url": "https://video.twimg.com/amplify_video/2119904404505567232/vid/avc1/1280x720/VHGFJ_LMs33FAi40.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119904404505567232/img/hg_qynBCe9aaP3-v.jpg",
      "width": 1920,
      "height": 1080,
@@ -9077,15 +9083,15 @@
    "text": "JUST IN: Memphis Mayor reveals SpaceX data center taxes more than doubled to $54 million, after $25 million last year made it Shelby County’s second largest taxpayer\n\nPaul Young was asked about Elon Musk’s claim that data centers have Memphis booming:\n\nQ: “Recently, just speaking on the revenues the data centers are creating for Memphis. Elon Musk recently tweeted that Memphis is 'booming' because of the data centers. He said that hotels and restaurants are full and called, tax revenue in Memphis tremendous right now. Do you just have any thoughts on that?”\n\nYOUNG: “Well, we’ve talked a lot about the financial aspects of the project. I think that as we talk about data centers in our city, we want to talk about it in a balanced way. Of course there’s an economic side. We want to make sure that we are articulating what protections and guardrails we’re putting in place for the environmental sides that, people are concerned about, the quality of life, noise, traffic, all of those aspects.\"\n\n\"But, there there is tax revenue. I think this year it was $54,000,000 in taxes that have been generated. And I know last year when they generated about $25,000,000 in tax revenue, it was the second largest tax paying property in Shelby County. I don’t know where $54,000,000 puts it, but it is significant taxes.\"\n\n\"And so as we look at, the tax revenue, we also wanna look at how do we ensure that there are proper protections. That’s what this ninety day executive order has been about, and, it’s the conversation that we’ll continue to have with the community.”",
    "urls": [],
    "metrics": {
-    "likes": 4129,
-    "reposts": 599,
-    "replies": 308,
-    "quotes": 89
+    "likes": 4380,
+    "reposts": 629,
+    "replies": 326,
+    "quotes": 98
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119934554492542976/vid/avc1/1920x1080/3ixO-p_yoDqCscZc.mp4",
+     "url": "https://video.twimg.com/amplify_video/2119934554492542976/vid/avc1/1280x720/6gWBhbjjV1FSyhX2.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119934554492542976/img/9ldlYgR8qXbshstK.jpg",
      "width": 1920,
      "height": 1080,
@@ -9385,15 +9391,15 @@
    "text": "Jay Leno just tried @Tesla's FSD (Supervised) for the first time. The Model Y L pulled over by itself when an ambulance with its sirens on drove by.\n\n\"We got it on self-driving mode! I'm not touching anything.\"\n\nJay finally tried FSD! haha\n\n(via new episode of Jay Leno's Garage)",
    "urls": [],
    "metrics": {
-    "likes": 7267,
-    "reposts": 688,
-    "replies": 199,
-    "quotes": 66
+    "likes": 7580,
+    "reposts": 718,
+    "replies": 206,
+    "quotes": 67
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119849320660783104/vid/avc1/1920x1080/M4q8A2sJF9_43cHS.mp4",
+     "url": "https://video.twimg.com/amplify_video/2119849320660783104/vid/avc1/1280x720/odnJKopg_9TdkytK.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119849320660783104/img/3tfD1NRekIB0H0ot.jpg",
      "width": 1920,
      "height": 1080,
@@ -9483,15 +9489,15 @@
    "text": "Memphis Mayor Paul Young confirming @elonmusk’s statement that Memphis is booming because of the data centers:\n\n“This year was $54 million in taxes generated. Last year about $25 million — it was the second-largest taxpaying property in Shelby County.”",
    "urls": [],
    "metrics": {
-    "likes": 3387,
-    "reposts": 638,
-    "replies": 80,
-    "quotes": 20
+    "likes": 28748,
+    "reposts": 5645,
+    "replies": 519,
+    "quotes": 199
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119964065174781952/vid/avc1/1920x1080/dplCO7CFgmFZiVoE.mp4",
+     "url": "https://video.twimg.com/amplify_video/2119964065174781952/vid/avc1/1280x720/HB-GF6CjvqOp1TJQ.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119964065174781952/img/_1JhvGi-_DAlxzrC.jpg",
      "width": 1920,
      "height": 1080,
@@ -9575,7 +9581,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118871578645827584/vid/avc1/1920x1080/BOB8HTLY4fN7OKz4.mp4?tag=16",
+      "url": "https://video.twimg.com/amplify_video/2118871578645827584/vid/avc1/1280x720/nmQ9HLWdbQFY2ImF.mp4?tag=16",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118871578645827584/img/4l0iCkmdhEY_gUub.jpg",
       "width": 1920,
       "height": 1080,
@@ -9667,7 +9673,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2119865430974361600/vid/avc1/1920x1080/rOOw3fJJVSRe9uad.mp4",
+       "url": "https://video.twimg.com/amplify_video/2119865430974361600/vid/avc1/1280x720/auPXAWBIeuME1Af4.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2119865430974361600/img/e1BfZ4wmCr3b9njV.jpg",
        "width": 1920,
        "height": 1080,
@@ -9728,7 +9734,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2119859800347676673/vid/avc1/1920x1080/oqL0p49pJX9sezYv.mp4",
+      "url": "https://video.twimg.com/amplify_video/2119859800347676673/vid/avc1/1280x720/9o4QTU2YfhZZmlLU.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2119859800347676673/img/cKwttnwiAmBBu9Ft.jpg",
       "width": 1920,
       "height": 1080,
@@ -9823,10 +9829,10 @@
    "text": "We've reset weekly limits for all Grok Bot users.\n\nEnjoy!",
    "urls": [],
    "metrics": {
-    "likes": 27120,
-    "reposts": 1545,
-    "replies": 3043,
-    "quotes": 966
+    "likes": 38103,
+    "reposts": 2143,
+    "replies": 4421,
+    "quotes": 1224
    }
   },
   {
@@ -9930,15 +9936,15 @@
    "text": "Ron Baron describes Elon Musk as \"the biggest job creator in the\" US and a \"once in a lifetime person.\"\n\nBaron points out that Musk has the ability to build businesses at a scale and cost that almost nobody else can match.\n\nHe also notes the scale of Musk's businesses and projects like Terafab as examples of how he is pushing American industry forward.",
    "urls": [],
    "metrics": {
-    "likes": 2389,
-    "reposts": 393,
-    "replies": 87,
-    "quotes": 17
+    "likes": 2782,
+    "reposts": 462,
+    "replies": 96,
+    "quotes": 21
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118709242303770624/vid/avc1/1918x1080/D_lmZfcewAtWsow6.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118709242303770624/vid/avc1/1278x720/_ZV7NKTO7xyCXxQK.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118709242303770624/img/LxYd8KVY9wIGREho.jpg",
      "width": 1918,
      "height": 1080,
@@ -10000,15 +10006,15 @@
    "text": "No DNA.\nNo CCTV.\nNo forensic evidence.\n\nJust witness testimony.\n\n10 years and 6 months.\n\nThis is not justice.\n\nThis is a corrupt 2 tier system making an example of a man who spoke out against them.\n\nThe same system that protected the perpetrators of the grooming gangs, ignored the victims and arrest innocent citizens for posting their opinions online.",
    "urls": [],
    "metrics": {
-    "likes": 20613,
-    "reposts": 3717,
-    "replies": 1420,
-    "quotes": 201
+    "likes": 26435,
+    "reposts": 4961,
+    "replies": 1811,
+    "quotes": 270
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119799350654074880/vid/avc1/1920x1080/4VOULpQ51sMxDeMb.mp4?tag=16",
+     "url": "https://video.twimg.com/amplify_video/2119799350654074880/vid/avc1/1280x720/GS2_HzWGxTyCo_j0.mp4?tag=16",
      "poster": "https://pbs.twimg.com/media/HWsKVCIW4AABjX9.jpg",
      "width": 1920,
      "height": 1080,
@@ -10370,7 +10376,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2119790713856557056/vid/avc1/2560x1440/saBut_45d8PCpS9b.mp4",
+       "url": "https://video.twimg.com/amplify_video/2119790713856557056/vid/avc1/1280x720/Rmn7jYoDC1Hf9VkL.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2119790713856557056/img/m9_CQ2wc4WROUeQj.jpg",
        "width": 2560,
        "height": 1440,
@@ -10410,23 +10416,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-09T15:17:52.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2119811718721503550",
    "url": "https://x.com/elonmusk/status/2119811718721503550",
    "kind": "repost",
    "text": "Starlink helped save five people stranded in Kazakhstan’s snowy mountains. ♥️\n\nTheir SUV broke down about 15 km from the village of Kystau Kurchum. There was no mobile network they could use. Starlink got their call for help through and kept them in touch with rescuers, who used the connection to find them.\n\nCrews drove about 100 km in an all-terrain vehicle and brought all five safely back to the village.\n\nFor people stranded far from help, Starlink can be lifesaving technology.",
    "urls": [],
    "metrics": {
-    "likes": 4984,
-    "reposts": 758,
-    "replies": 295,
-    "quotes": 82
+    "likes": 5272,
+    "reposts": 781,
+    "replies": 306,
+    "quotes": 95
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119430694980169728/vid/avc1/1690x1080/4FSGJHvLKJejOrhe.mp4",
+     "url": "https://video.twimg.com/amplify_video/2119430694980169728/vid/avc1/1126x720/tJutWfSz_E9PYx29.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119430694980169728/img/hUWEEsWKAcHvthb4.jpg",
      "width": 1690,
      "height": 1080,
@@ -10533,23 +10538,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-09T14:23:10.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2119797951258403290",
    "url": "https://x.com/elonmusk/status/2119797951258403290",
    "kind": "repost",
    "text": "‼️Someone Who Was ACTUALLY In The Room At Dave Chappelle’s Show Has Now Released The FULL Context Of What Was Said About Charlie Kirk. 😱\n\nIn the footage and breakdown, Chappelle states that ever since Charlie was murdered he has felt better, adds that he knows Charlie is looking up at the audience from hell, and then goes into a rant calling Charlie racist based on a heavily clipped comment about black pilots as well as calls @RealCandaceO  a \"Scooby Doo Ass Bitch\" who will not let the case go.\n\nThis was not presented as a setup or a punchline. It was stated plainly, with no bit attached, in front of a crowd that had already had their phones locked in pouches. The person who recorded it notes how awkward the room became and confirms that many people walked out mid-set.  Dave Chappelle even got angry and made the comment that \"This Crowd Sucks\"\n\nThe breakdown includes Charlie’s original full comments on the pilot remark so viewers can hear the actual argument instead of the shortened version that has circulated.  Be sure to watch the OP's FULL video linked down below for their perspective. 👇\n\nFrom: @amirxodom FOLLOW Him",
    "urls": [],
    "metrics": {
-    "likes": 21885,
-    "reposts": 3787,
-    "replies": 1442,
-    "quotes": 276
+    "likes": 26192,
+    "reposts": 4506,
+    "replies": 1785,
+    "quotes": 321
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119744966813474816/vid/avc1/1928x1080/2zgNFRYZzWqSx-mS.mp4",
+     "url": "https://video.twimg.com/amplify_video/2119744966813474816/vid/avc1/642x360/Gx6QFWV4U35pp_Zr.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119744966813474816/img/7eGGGtymrPwYeXVU.jpg",
      "width": 1928,
      "height": 1080,
@@ -10572,7 +10576,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2119338573300207616/vid/avc1/1080x1440/HEHSlV3xWOGSQfgF.mp4",
+       "url": "https://video.twimg.com/amplify_video/2119338573300207616/vid/avc1/720x960/36lSi1FHU6jQyCVT.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2119338573300207616/img/lXT4v9Lm2n5WDuuP.jpg",
        "width": 1080,
        "height": 1440,
@@ -12611,15 +12615,15 @@
    "text": "Dear @DaveChappelle,\n\nYou're not the \"free speech\" guy.\n\nYou're the guy who laughed when the free speech guy was m*rdered.",
    "urls": [],
    "metrics": {
-    "likes": 23161,
-    "reposts": 3982,
-    "replies": 1243,
+    "likes": 23478,
+    "reposts": 4026,
+    "replies": 1258,
     "quotes": 131
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119519653575737344/vid/avc1/1920x1080/Spyo8v0sXWN9ZKw8.mp4",
+     "url": "https://video.twimg.com/amplify_video/2119519653575737344/vid/avc1/1280x720/h09Ik5wSZQ2zCPVH.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119519653575737344/img/Ml5S2OXnFeqK8iCQ.jpg",
      "width": 1920,
      "height": 1080,
@@ -13000,23 +13004,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-09T06:49:55.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2119683889136349651",
    "url": "https://x.com/elonmusk/status/2119683889136349651",
    "kind": "repost",
    "text": "The US Government spent billions building electric vehicle.\n\nThey built 400 over five years.\n\nHow many did @ElonMusk's @Tesla build in the same timeframe?\n\n35,000!\n\nAnd activists want government to take more of his money?",
    "urls": [],
    "metrics": {
-    "likes": 6619,
-    "reposts": 1550,
-    "replies": 180,
-    "quotes": 51
+    "likes": 7034,
+    "reposts": 1654,
+    "replies": 191,
+    "quotes": 63
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2103664761854386176/vid/avc1/1920x1080/wqK4jItQwqEWVM5h.mp4",
+     "url": "https://video.twimg.com/amplify_video/2103664761854386176/vid/avc1/1280x720/en7jQtZCxWqn1meR.mp4",
      "poster": "https://pbs.twimg.com/media/HTG4bjGXIAETiyr.jpg",
      "width": 1906,
      "height": 1080,
@@ -13390,7 +13393,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2119576151714897920/vid/avc1/1828x1080/189jSn5L4nPWnK1j.mp4",
+      "url": "https://video.twimg.com/amplify_video/2119576151714897920/vid/avc1/1218x720/VziDn_YVo90myhqW.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2119576151714897920/img/AK_ag5WgxChBpWeM.jpg",
       "width": 1828,
       "height": 1080,
@@ -14451,8 +14454,8 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-08T22:46:58.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2119199347351122185",
    "url": "https://x.com/elonmusk/status/2119562350831587502",
    "reply_to": {
     "id": "2119199347351122185",
@@ -14466,8 +14469,7 @@
     "reposts": 900,
     "replies": 757,
     "quotes": 57
-   },
-   "partial": true
+   }
   },
   {
    "id": "2119554927337017525",
@@ -14498,7 +14500,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2119129500478816258/vid/avc1/1920x1080/iAEyKw66h48efU0z.mp4",
+      "url": "https://video.twimg.com/amplify_video/2119129500478816258/vid/avc1/1280x720/dOywf_KCWuUyiuzo.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2119129500478816258/img/Z6Blg0_tzaEaHI1a.jpg",
       "width": 1920,
       "height": 1080,
@@ -16127,23 +16129,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-07T18:09:24.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2119130109479162295",
    "url": "https://x.com/elonmusk/status/2119130109479162295",
    "kind": "repost",
    "text": "SpaceX has outlined five contingency landing options for Starship Flight 15 as it prepares for the ship’s first tower-catch attempt at Starbase\n\nThis visualization shows how the mission can change course if the vehicle or tower does not meet the conditions required for a safe return:\n\n1. Indian Ocean — after ascent\nIf the orbital insertion burn is skipped, Starship remains on its suborbital trajectory and reenters over a predetermined area of the Indian Ocean\n\n2. North of Hawaii — early in the mission\nIf the flight needs to end shortly after reaching orbit, Starship returns to a designated area of the Pacific north of Hawaii\n\n3. Off Chile — mid-mission\nA separate return opportunity allows Starship to land in the eastern Pacific, far off the coast of Chile\n\n4. Gulf offshore — catch contingency\nIf the tower catch is called off before final approach, Starship has an offshore landing option in the Gulf instead of proceeding with the catch\n\n5. North of Hawaii — late in the mission\nIf the planned deorbit burn is skipped, Starship completes another orbit before returning to the Pacific north of Hawaii\n\nThe objective is to bring Starship home. The flight plan builds in alternatives throughout the journey, with continuous vehicle-health checks determining when to proceed\n\nAn ambitious mission, backed by carefully planned options from ascent to final approach",
    "urls": [],
    "metrics": {
-    "likes": 388,
-    "reposts": 69,
-    "replies": 32,
-    "quotes": 6
+    "likes": 1590,
+    "reposts": 223,
+    "replies": 70,
+    "quotes": 16
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119122688006569984/vid/avc1/1920x1080/sc03GKOHX7soq3z0.mp4",
+     "url": "https://video.twimg.com/amplify_video/2119122688006569984/vid/avc1/1280x720/akuJU79nHFS_NrU4.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119122688006569984/img/HlaqSrhiS0sYlBge.jpg",
      "width": 1920,
      "height": 1080,
@@ -16253,23 +16254,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-07T17:17:16.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2119116991596208520",
    "url": "https://x.com/elonmusk/status/2119116991596208520",
    "kind": "repost",
    "text": "SpaceX has just released a new blog about Starship's upcoming 15th flight planned for Nov 13 with more info about what to expect, the significance of this flight, and their approach to safety:\n\n\"Starship is preparing to take a major step towards full reusability: bringing the Starship upper stage back to the launch site for a catch by the tower at Starbase.\n\nTo return Starship to Starbase, the spacecraft must now fly a safe trajectory that will take it over inhabited areas in northern Mexico and southern Texas to reach its launch site for catch. Like previous flight testing and the first successful mission to orbit, Starship’s flight profile for this ambitious mission is being designed with opportunities to safely end the mission early if necessary and will follow strict criteria before committing to the final phases of flight.\n\nOUR APPROACH TO A SAFE RETURN:\nOn Flight 15, Starship will initially launch to a passively safe suborbital trajectory. This is the same flight profile used on Starship’s first orbital mission and ensures that any issues encountered during ascent or shortly thereafter will result in Starship reentering over a cleared area of the Indian Ocean.\n\nAfter this initial ascent, flight controllers will assess the health of Starship’s systems before giving a “go” or “no-go” for orbit. If “go”, Starship will then perform an orbital insertion burn with a single Raptor sea-level engine, increasing its speed and achieving orbit around Earth.\n\nOnce on orbit, Starship will deploy its payload of Starlink V3 satellites. Three of these satellites have been modified to acquire imagery of Starship’s heatshield. This method of analyzing Starship’s heatshield has been tested on previous flights and is one of several data sources to help inform Starship’s readiness to return to the launch site on Flight 15.\n\nAfter deploying its payload, Starship will then coast in orbit for another ~21 hours until its orbit aligns with Starbase for a return. During this multi-hour orbital coast, flight controllers will continuously perform manual and automated checks of Starship systems which, similar to the first orbital flight, will be intentionally conservative. They include Raptor engine health, loss of power or communications, the health of the flight computers and navigation sensors, the structural integrity of the propellant tanks and feedlines, the ability to hold tank pressure, and Starship’s ability to control its attitude.\n\nDuring this prolonged coast phase, flight control teams have several options to end the mission early and return Starship to precleared areas of the Pacific Ocean if needed. These locations include early- and late-mission splashdown options around Hawaii and a mid-mission splashdown opportunity several hundred kilometers off the coast of Chile. These precleared areas, which were also used during Flight 14, provide a safe place to land Starship if any conditions arise that may preclude the ability to perform a safe reentry.\n\nWHAT SHIP CATCH WILL LOOK (AND SOUND) LIKE:\nFlight controllers will only permit Starship to return to Starbase if the vehicle’s status meets our internally developed, and FAA-approved, conditions for a return to launch site and catch.\n\nIf these requirements are met, Starship will perform a deorbit burn with a single Raptor 3 engine. This deorbit burn will alter Starship’s path to place the vehicle on a course to reenter Earth’s atmosphere at a specific point over the Pacific Ocean, thousands of kilometers uprange from Starbase.\n\nDuring reentry, Starship can alter its flight path by moving its four control flaps. This will permit Starship to maintain a safe and known trajectory while guiding itself with high precision control toward Starbase. This control will also allow Starship to carry out a series of small turns in its trajectory to intentionally fly over sparsely populated areas of northern Mexico and southern Texas.\n\nAs Starship approaches Starbase from the west, the vehicle will weave its way around the major cities in the Rio Grande Valley, passing to the north of South Padre Island and out over the Gulf of America as it makes its final turn south towards Starbase. This banking maneuver has been demonstrated several times on previous Starship flight tests.\n\nDuring this phase, residents of Cameron County and those in the nearby area may hear one or more sonic booms as Starship approaches the launch site. A sonic boom is a brief, thunder-like noise a person on the ground hears when an aircraft or other vehicle in the area flies faster than the speed of sound. The sonic boom does not present a health risk and what people experience will depend on weather and other conditions.\n\nAs Starship arrives over Starbase, it will perform the final bellyflop maneuver down towards the tower at Pad 2. This bellyflop was proven during a series of high-altitude test hops and during numerous suborbital flight tests. Shortly before reaching the tower, Starship will ignite its three sea-level Raptor engines and flip itself vertical while stowing its flaps. After the flip is complete, Starship will down-select to two Raptor engines and maneuver between the tower's mechanical arms, before down-selecting to a single engine as it comes to a near hover. The arms will close rapidly to catch Starship on its two catch fittings just below the forward flaps. Once Starship registers contact with the tower arms, it will shut down its final Raptor engine.\n\nDuring reentry, flight controllers will have several options to end the reentry early and safely by intentionally tumbling Starship to ensure that it breaks up in the atmosphere before reaching land. There is also a late-reentry option to send Starship into the Gulf of America if any of its systems or the tower itself encounter an issue after reentry that would preclude a safe catch at Starbase.\n\nTHE HOLY GRAIL OF ROCKETRY:\nRecovering an entire orbital launch system has never been done, and Starship has always been designed change that. This full recovery is often referred to as the Holy Grail of rocketry as it enables full and rapid reuse of a rocket – opening the door to airplane-like cadence where a vehicle flies again rapidly.\n\nReaching this milestone with Starship will allow SpaceX to unlock the true capability of Starship and will enable future missions to establish a permanent human presence on the Moon, expand the worldwide Starlink network, launch our Starmind supercompute constellation, extend the light of consciousness to the stars, and make life multiplanetary.\"\n\nVideo below of the what flight 15's mission profile is:",
    "urls": [],
    "metrics": {
-    "likes": 1536,
-    "reposts": 197,
-    "replies": 77,
-    "quotes": 19
+    "likes": 4186,
+    "reposts": 488,
+    "replies": 130,
+    "quotes": 45
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119097035643047936/vid/avc1/1302x722/XFojjXstZIiZgDN1.mp4",
+     "url": "https://video.twimg.com/amplify_video/2119097035643047936/vid/avc1/648x360/sYyA15HNYkny-zGG.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119097035643047936/img/wmblobWCkiv3IZwv.jpg",
      "width": 1302,
      "height": 722,
@@ -16290,23 +16290,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-07T17:14:30.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "zh",
+   "conversation_id": "2119116295719338096",
    "url": "https://x.com/elonmusk/status/2119116295719338096",
    "kind": "repost",
    "text": "天呐，海底光缆统治世界的时代要结束了，又要见证历史了🤯。。\n马斯克首次公布 Starlink V4 的极端参数：性能直接跳涨一百倍，光速天然快了一点四倍且不用绕大陆架，上千万条激光链路正在把地球通信主干搬上深空。\n\n绝大多数人至今依然以为，星链只是给偏远山区、游艇和飞机提供网络补丁的边缘工具。\n直到马斯克刚刚在最新的投资人会议上摊开底牌，很多人才第一次看懂 SpaceX 真正的阳谋：把构筑人类现代文明的海底光缆网络，从大洋深处连根拔起，彻底搬到太空。\n这里藏着一个极度反直觉的物理常识： 光在太空真空中的传播速度，比在玻璃光纤里整整快了 40%。\n 更致命的是几何路径的差异。海底光缆必须顺着大陆架和海沟蜿蜒曲折地绕远路，而太空中的卫星激光链路，两点之间永远是沿着大圆航线在真空中直线对穿。这意味着在跨洋超长距离通信上，太空激光的延迟天然比地面光缆更低。\n而阻碍这件事过去的唯一瓶颈，是带宽密度。\n马斯克这次直接给出了技术迭代的量化终局： 从 V2 到即将落地的 V4 卫星，单星吞吐能力将直接迎来 100 倍的暴力跃升。 在更长期的宏大蓝图里，超过 10 万颗卫星组成的轨道阵列，每颗都将配备大约 100 个传输速率超 10 Tbps 的光学激光器，在地球外围织成一张百 Exabit 级别的无缝高速网状路由。\n这已经不是在做卫星宽带了，这是在用火箭把全球互联网的核心骨干网整个重写一遍。\n海底光缆容易被地质地震震断、被船锚挂伤，更深陷地缘博弈的物理封锁；而悬在头顶的真空激光网络，既没有折射损耗，也没有无法逾越的地理边界。\n人类用了上百年时间，把铜线和光纤一根根沉入海底来连接彼此；而未来的文明动脉，注定要在没有阻力的星空里以光速奔流。",
    "urls": [],
    "metrics": {
-    "likes": 1691,
-    "reposts": 319,
-    "replies": 135,
-    "quotes": 49
+    "likes": 5210,
+    "reposts": 957,
+    "replies": 356,
+    "quotes": 123
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118782519420088320/vid/avc1/1920x1080/vfMKgMN44jPxvHVc.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118782519420088320/vid/avc1/1280x720/i2Y472rcijYJdV_q.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118782519420088320/img/gh5ZDqNun_QSCiW1.jpg",
      "width": 1920,
      "height": 1080,
@@ -16329,7 +16328,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2118772815449165824/vid/avc1/1920x1080/SluO-xV-IMt8cP4V.mp4",
+       "url": "https://video.twimg.com/amplify_video/2118772815449165824/vid/avc1/1280x720/NONw4aKFyIOXYUyO.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2118772815449165824/img/tvcCXtLzaHX4EC5Q.jpg",
        "width": 1920,
        "height": 1080,
@@ -16447,8 +16446,8 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-07T16:55:14.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2119111445518430392",
    "url": "https://x.com/elonmusk/status/2119111445518430392",
    "kind": "repost",
    "text": "SpaceX just released a detailed blog post explaining how Starship will return to Starbase for its first tower-catch attempt on Flight 15\n\nand it is going to be the first full recovery of an orbital launch system\n\nThe mission brings together both sides of Starship’s future: delivering a major payload to orbit and bringing the entire launch system home for reuse.\n\nSuper Heavy will return minutes after liftoff, while Starship will deploy 26 Starlink V3 satellites, fly a mission of more than 22 hours, then make its way back through the atmosphere toward the tower at Starbase, provided it passes the required vehicle-health checks\n\nThe update walks through the orbital safety checks, heatshield inspections, alternative splashdown locations, the precise approach over northern Mexico and southern Texas, and the final sequence of bellyflop, engine ignition, flip and catch\n\nFlight 15 is targeting launch as early as Friday, November 13, pending regulatory approval. The 75-minute launch window opens at 4:45 p.m. CT. Here is the full plan, from liftoff to bringing both stages home\n\n1. LAUNCH AND THE BOOSTER’S RETURN\n\nSuper Heavy will lift Starship from Starbase before the vehicles separate through hot-staging: Starship ignites its engines while still attached, then continues toward space as the booster turns back.\n\nThe booster will perform its boostback burn, descend toward Starbase and begin its landing burn roughly six minutes after liftoff. The catch is planned for approximately 6 minutes 35 seconds into flight.\n\nThis will be the first catch attempt for a V3 Super Heavy booster. SpaceX has already caught three V1 boosters, with two subsequently flown again.\n\n2. THE HARDWARE DESIGNED FOR CATCHING\n\nSuper Heavy V3 has three grid fins instead of four. Each is 50% larger and significantly stronger, with a new catch point and revised positioning to support lifting and catching operations.\n\nThe tower’s mechanical arms......the chopsticks are shorter to allow faster movement and better tracking during a catch. Their main actuators have changed from hydraulic to electromechanical, improving speed, redundancy and reliability\n\nThese changes are part of the broader V3 architecture, designed around making recovery and reuse routine operations.\n\n3. STARSHIP DOES NOT COMMIT TO ORBIT IMMEDIATELY\n\nThe ship initially follows a passively safe suborbital trajectory rather than entering a sustained orbit directly.\n\nThis is deliberate. If a problem occurs during ascent or shortly afterward, the trajectory takes Starship toward a cleared reentry area over the Indian Ocean without requiring a successful orbital mission.\n\nAfter ascent, flight controllers assess the vehicle’s health and make a go/no-go decision for orbit.\n\nWith a go, one sea-level Raptor performs an orbital insertion burn approximately 26 minutes after liftoff, increasing Starship’s speed enough to establish orbit.\n\n4. DEPLOYING 26 STARLINK V3 SATELLITES\n\nSatellite deployment is planned to begin around 35 minutes into flight and finish around 1 hour 18 minutes.\n\nEach Starlink V3 satellite adds approximately 1 terabit per second of network capacity. SpaceX compares this mission’s 26 satellites with roughly 10 Falcon 9 launches carrying V2 Mini satellites.\n\nAfter deployment, the satellites unfold their antennas and solar arrays, establish radio and laser communications, and use onboard propulsion to raise their orbits. Customer service is expected to begin as soon as a few weeks after launch.\n\nThree satellites have an additional job: photographing Starship’s heatshield.\n\nThose images will be transmitted to operators and become one of several sources of information used to assess whether the ship is ready to return to Starbase. SpaceX has already tested this inspection method on previous flights.\n\n5. ALMOST A DAY IN ORBIT\n\nThe planned mission lasts more than 22 hours, with approximately 14 orbits at an altitude of roughly 275 kilometers.\n\nAfter deploying the satellites, Starship will coast for around another 21 hours until its orbit aligns with Starbase for the return.\n\nThroughout that period, controllers will run continuous manual and automated checks. These cover engine health, power, communications, flight computers, navigation sensors, tank and feedline integrity, tank pressure and attitude control......the ability to maintain the ship’s intended orientation.\n\nThese checks are intentionally conservative. Returning to the tower is something the vehicle must qualify to do through its condition in flight.\n\n6. ALTERNATIVE RETURN OPTIONS THROUGHOUT THE MISSION\n\nThe flight includes opportunities to end the mission early in precleared Pacific Ocean areas if the vehicle is not suitable for a Starbase return.\n\nThese include early- and late-mission splashdown options around Hawaii and a mid-mission opportunity several hundred kilometers off Chile’s coast. The same areas were used during Flight 14.\n\nThe mission therefore has multiple decision points rather than a single commitment to return home regardless of the vehicle’s condition.\n\n7. THE DEORBIT BURN AND REENTRY\n\nStarship will proceed toward Starbase only if it meets SpaceX’s internally developed, FAA-approved conditions for return and catch.\n\nA single Raptor 3 engine will perform the deorbit burn, planned around 21 hours 36 minutes after launch. That changes the ship’s trajectory toward atmospheric entry over the Pacific Ocean, thousands of kilometers uprange from Starbase.\n\nReentry is planned to begin around 22 hours 11 minutes into flight.\n\nThe four control flaps will guide Starship along its intended trajectory while allowing small, deliberate turns to route it over sparsely populated areas of northern Mexico and southern Texas.\n\n8. THE FLIGHT PATH BACK TO STARBASE\n\nStarship will approach from the west and steer around the major cities of the Rio Grande Valley.\n\nIt will pass north of South Padre Island, continue out over the Gulf, then make its final turn south toward Starbase.\n\nThis is not an entirely untested maneuver: SpaceX has demonstrated the banking maneuver on previous Starship flights.\n\nResidents of Cameron County and nearby areas may hear one or more sonic booms. What people experience will depend on weather and other conditions.\n\nReentry over land also has extensive spaceflight precedent, including the Space Shuttle, Dragon’s previous Florida returns, and Soyuz and Shenzhou missions.\n\n9. HOW EARLIER FLIGHTS PREPARED THE HEATSHIELD\n\nPrevious ocean-return tests allowed SpaceX to deliberately push the heatshield, structure and control systems beyond the demands of a normal return to the launch site.\n\nExperiments included removing dozens of heatshield tiles from critical locations and flying maneuvers that subjected the vehicle and flaps to higher heating and aerodynamic forces than a nominal reentry.\n\nFlight 15 also retains Flight 14’s heatshield improvements, including additional tile-retention mechanisms in vulnerable areas, measures addressing plasma intrusion behind tiles, and curved tiles across a large portion of the shield to reduce heating between them.\n\nThe V3 rear-flap mechanism uses a single actuator with three motors per flap, improving redundancy while reducing mass and cost.\n\n10. THE FINAL BELLYFLOP, FLIP AND CATCH\n\nArriving over Starbase, Starship will descend toward the tower at Pad 2 in its bellyflop orientation.\n\nShortly before reaching the tower, it will ignite its three sea-level Raptors, flip upright and stow its flaps.\n\nOnce vertical, it will reduce to two engines and maneuver between the tower’s arms. It will then reduce to one engine as it approaches a near hover.\n\nThe arms will close rapidly around two catch fittings just below the forward flaps.\n\nOnce Starship detects contact with the arms, it will shut down its final engine.\n\nThe ship catch is planned for approximately 22 hours 32 minutes after liftoff. All mission timings are approximate and subject to change.\n\n11. SAFETY OPTIONS REMAIN AVAILABLE DURING REENTRY\n\nSpaceX has built in options to end reentry before the ship reaches land if necessary, including intentionally tumbling the vehicle to ensure atmospheric breakup.\n\nThere is also a late option to divert into the Gulf if either the ship or the tower develops a problem that prevents a safe catch.\n\nThe objective is ambitious, but the return is governed by explicit vehicle-health requirements and multiple alternatives throughout the flight.\n\n12. WHY THIS MISSION MATTERS\n\nCatching the booster solves one part of the recovery challenge. Bringing the upper stage back from orbit addresses the other.\n\nSpaceX described recovering the entire orbital launch system as the “Holy Grail of rocketry” the foundation for full and rapid reuse and an eventual airplane-like flight cadence.\n\nThat is the capability behind Starship’s larger mission: expanding Starlink, deploying the planned Starmind supercompute constellation, establishing a permanent human presence on the Moon and making life multiplanetary.\n\nFlight 15 is taking SpaceX another major step toward that future: launch, deploy, orbit, return and bring both stages home\n\nSpaceX’s full catch update:\nhttps://www.spacex.com/updates#starship-catch\n\nOfficial Flight 15 mission details:\nhttps://www.spacex.com/launches/starship-flight-15",
@@ -16457,16 +16456,15 @@
     "https://www.spacex.com/launches/starship-flight-15"
    ],
    "metrics": {
-    "likes": 1136,
-    "reposts": 172,
-    "replies": 82,
-    "quotes": 10
+    "likes": 2814,
+    "reposts": 371,
+    "replies": 136,
+    "quotes": 32
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119104042584743936/vid/avc1/1920x1080/fcj2Ag2BmL5peeSg.mp4",
+     "url": "https://video.twimg.com/amplify_video/2119104042584743936/vid/avc1/1280x720/vE_pt4uQhvHzNkZq.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119104042584743936/img/szIDZN3k7EhYyb2h.jpg",
      "width": 1920,
      "height": 1080,
@@ -16510,7 +16508,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2119092960125956096/vid/avc1/3840x2160/GDn_AtzP9a7swQuw.mp4",
+      "url": "https://video.twimg.com/amplify_video/2119092960125956096/vid/avc1/1280x720/PfuEUoFovOXakXFx.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2119092960125956096/img/Z8AJUBX8VV0RDzzY.jpg",
       "width": 3840,
       "height": 2160,
@@ -16549,23 +16547,24 @@
    "username": "SpaceX",
    "name": "SpaceX",
    "created_at": "2026-11-07T15:44:34.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2119093662957060389",
    "url": "https://x.com/SpaceX/status/2119093662957060389",
    "kind": "post",
-   "text": "Starship is preparing for catch\n\nFlight 15 is targeting to launch as early as Friday, November 13, pending regulatory approval → https://t.co/K5XRci6bnw https://t.co/WS2xGLjVsx",
-   "urls": [],
+   "text": "Starship is preparing for catch\n\nFlight 15 is targeting to launch as early as Friday, November 13, pending regulatory approval → https://spacex.com/launches/starship-flight-15",
+   "urls": [
+    "https://spacex.com/launches/starship-flight-15"
+   ],
    "metrics": {
-    "likes": 10333,
+    "likes": 10346,
     "reposts": 1591,
     "replies": 472,
     "quotes": 406
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119092960125956096/vid/avc1/3840x2160/GDn_AtzP9a7swQuw.mp4",
+     "url": "https://video.twimg.com/amplify_video/2119092960125956096/vid/avc1/1280x720/PfuEUoFovOXakXFx.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119092960125956096/img/Z8AJUBX8VV0RDzzY.jpg",
      "width": 3840,
      "height": 2160,
@@ -16813,23 +16812,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-07T07:57:00.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118975995269296438",
    "url": "https://x.com/elonmusk/status/2118975995269296438",
    "kind": "repost",
    "text": "Gavin Baker owned 15% of Nvidia and 10% of Tesla before either was worth $2 billion. He’s 50. And he just admitted Claude Code was too hard for him, so he switched to Grok Bot.\n\n“I glued together all this stuff with Claude Code and, you know, I’m sure it was user error on my part. 50 years old. I’m doing my best.”\n\nThen he tried Grok Bot.\n\n“Grok Bot is the most impactful AI product to me and to the firm that we’ve had yet.”\n\n“It just makes it so easy. I think I’m up to like 17 Grok Bots, and every day I think of a new one to add.”\n\nAnd it’s not a toy for him. It’s how he runs money:\n\n“For the more professional use cases, Grok Bot has just been transformative for me.”\n\n“So much of investing is making sure that the right information gets to the right person at the right time, and Grok Bot is so good at that.”\n\nOne of the best tech investors alive runs his firm on 17 AI agents. And he’s adding a new one every day.",
    "urls": [],
    "metrics": {
-    "likes": 1318,
-    "reposts": 156,
-    "replies": 54,
-    "quotes": 19
+    "likes": 1569,
+    "reposts": 174,
+    "replies": 58,
+    "quotes": 21
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118452199051173888/vid/avc1/1920x1080/6ctPGiSJQ58NbCEf.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118452199051173888/vid/avc1/1280x720/ynBPb_nAFxIcLC09.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118452199051173888/img/bdUWAikkvpzEu7rz.jpg",
      "width": 1920,
      "height": 1080,
@@ -17269,9 +17267,7 @@
    "url": "https://x.com/elonmusk/status/2118913260112273674",
    "kind": "repost",
    "text": "It’s time to put all the pieces together, the early tests to see how crazy it was to build a vehicle this size, the suborbital hops to practice subsonic maneuvering, the first real booster, expendable flight tests, trips to the Indian Ocean, and last flight with payload to orbit. We are one step away from the full mission, and that step is the double catch.\n\nWe will try for the first time on flight 15. I don’t think and of us can promise it will work the first time, but getting here feels like a turning point. I still feel like there’s so much to review (and we will be doing that continuously between now and launch) but when I take a moment to stop and think about it, it is overwhelmingly exciting. This is the rocket that will build a human civilization on another planet.",
-   "urls": [
-    "https://twitter.com/elonmusk/status/2118732082843435305"
-   ],
+   "urls": [],
    "metrics": {
     "likes": 660,
     "reposts": 92,
@@ -17283,7 +17279,15 @@
     "author_id": "589369459",
     "username": "ShanaDiez",
     "name": "Shana Diez",
-    "created_at": "2026-11-07T02:42:21.000Z"
+    "created_at": "2026-11-07T02:42:21.000Z",
+    "quote": {
+     "id": "2118732082843435305",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-11-06T15:47:47.000Z",
+     "text": "SpaceX will attempt to catch both the Super Heavy booster and Starship on the upcoming flight.\n\nIf both are successful, it will mark the first time that all parts of an orbital rocket return to Earth intact.\n\nThis is the critical breakthrough needed to make life multiplanetary. https://twitter.com/spacex/status/2118719281038770389"
+    }
    }
   },
   {
@@ -17337,7 +17341,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118881638407135232/vid/avc1/1920x1080/yAqcq3qlCk3ufglU.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118881638407135232/vid/avc1/1280x720/EXgg77mE_7UNBePy.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118881638407135232/img/JImkC5uj1WABmbn2.jpg",
       "width": 1920,
       "height": 1080,
@@ -17440,7 +17444,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2118509091836526593/vid/avc1/1920x1080/jOuD3r2H8KGxoLKB.mp4",
+       "url": "https://video.twimg.com/amplify_video/2118509091836526593/vid/avc1/1280x720/TAcamQ0kogPMl9Rh.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2118509091836526593/img/yndUpVk4XSgDCa7G.jpg",
        "width": 1920,
        "height": 1080,
@@ -17497,7 +17501,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118870971339993088/vid/avc1/1920x1080/z11JMOGFpcCSnVHo.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118870971339993088/vid/avc1/1280x720/YfCRT7WlAWHxagmf.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118870971339993088/img/UjQrf8YY_maXcqcw.jpg",
       "width": 1920,
       "height": 1080,
@@ -17527,7 +17531,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118799381264769024/vid/avc1/1920x1080/Cs8Y9vrHhe1hgUW2.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118799381264769024/vid/avc1/1280x720/UZz4HGT514EVFxyE.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118799381264769024/img/yPJeqmQ5j8SC8U3r.jpg",
      "width": 1920,
      "height": 1080,
@@ -17586,7 +17590,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118870452604960768/vid/avc1/3840x2160/XKz1ZToA4_23F12g.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118870452604960768/vid/avc1/1280x720/gZQc78QLBiS4ZDqD.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118870452604960768/img/K8U8zCZpZP3Hl_Yp.jpg",
       "width": 3840,
       "height": 2160,
@@ -17668,7 +17672,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118871631959580672/vid/avc1/1920x1080/ECj7OUV_QJ5F-3mX.mp4?tag=16",
+     "url": "https://video.twimg.com/amplify_video/2118871631959580672/vid/avc1/1280x720/1u_-GghjpH3LNy4_.mp4?tag=16",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118871631959580672/img/S3AU8A_c0aC1XU8r.jpg",
      "width": 3840,
      "height": 2160,
@@ -17689,15 +17693,15 @@
    "text": "the grok bot docs just got a facelift",
    "urls": [],
    "metrics": {
-    "likes": 537,
-    "reposts": 30,
-    "replies": 62,
-    "quotes": 7
+    "likes": 1272,
+    "reposts": 65,
+    "replies": 140,
+    "quotes": 16
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118871578645827584/vid/avc1/1920x1080/BOB8HTLY4fN7OKz4.mp4?tag=16",
+     "url": "https://video.twimg.com/amplify_video/2118871578645827584/vid/avc1/1280x720/nmQ9HLWdbQFY2ImF.mp4?tag=16",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118871578645827584/img/4l0iCkmdhEY_gUub.jpg",
      "width": 1920,
      "height": 1080,
@@ -17726,7 +17730,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118870452604960768/vid/avc1/3840x2160/XKz1ZToA4_23F12g.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118870452604960768/vid/avc1/1280x720/gZQc78QLBiS4ZDqD.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118870452604960768/img/K8U8zCZpZP3Hl_Yp.jpg",
      "width": 3840,
      "height": 2160,
@@ -17783,7 +17787,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118868388520800256/vid/avc1/3840x2160/SWx6mwSDZSNFVLtx.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118868388520800256/vid/avc1/1280x720/oGjnH29feTjjjiI8.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118868388520800256/img/qGgidQUUt-SGbcRM.jpg",
      "width": 3840,
      "height": 2160,
@@ -18094,23 +18098,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-06T23:39:27.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118850781696921977",
    "url": "https://x.com/elonmusk/status/2118850781696921977",
    "kind": "repost",
    "text": "Here’s the full interview of @elonmusk with Ron Baron\n\n0:13 - Exciting times ahead\n0:21 - First principles and TerraFab\n2:18 - Chip fabs geopolitical risk\n5:51 - Terawatt scale ambition\n6:14 - Trillion dollar phased build\n7:36 - Why others don’t improve\n7:49 - Austin research fab iteration\n10:49 - Culture of speed and ideas\n13:48 - Walking the floor hands-on\n15:39 - Data centers pitchforks\n16:44 - OpenAI origins Anthropic\n18:09 - Building data centers fast\n20:01 - Revenue exploding Jose meme\n23:16 - Model Y best in China\n23:28 - China ownership exception\n24:50 - ARR to five hundred billion\n27:45 - Digital AI economy boost\n28:21 - Robotics five times productivity\n30:10 - Rent robots not sell\n30:41 - Memphis community benefits\n32:55 - Data centers in space\n33:35 - StarMind and space power\n36:26 - Cost to orbit history\n36:52 - Falcon nine reusability limits\n39:09 - Hourly launches Starship size\n40:25 - Chopsticks and heat shield\n44:30 - Starship unlocks Starlink\n46:49 - Agentic traffic thousand times\n48:09 - Starlink V3 bandwidth explosion\n51:26 - Spectrum and telcos\n52:43 - Satellite replacement cycle\n53:17 - Laser links hundred times\n53:55 - Competing with China power\n55:37 - Space intelligence advantage\n57:19 - Demand from superintelligence\n58:02 - Universal high income future\n1:00:43 - Legacy contribution",
    "urls": [],
    "metrics": {
-    "likes": 2987,
-    "reposts": 650,
-    "replies": 132,
-    "quotes": 60
+    "likes": 4886,
+    "reposts": 996,
+    "replies": 191,
+    "quotes": 122
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118799894874071040/vid/avc1/1920x1080/h_O3l39NdgpNlbtx.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118799894874071040/vid/avc1/1280x720/aJl-zONK2zhBFABA.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118799894874071040/img/UhSlj4FX2Paq7i1Q.jpg",
      "width": 1920,
      "height": 1080,
@@ -18154,7 +18157,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118799894874071040/vid/avc1/1920x1080/h_O3l39NdgpNlbtx.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118799894874071040/vid/avc1/1280x720/aJl-zONK2zhBFABA.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118799894874071040/img/UhSlj4FX2Paq7i1Q.jpg",
       "width": 1920,
       "height": 1080,
@@ -18287,8 +18290,8 @@
    "username": "SpaceX",
    "name": "SpaceX",
    "created_at": "2026-11-06T22:27:07.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118832578350252327",
    "url": "https://x.com/SpaceX/status/2118832578350252327",
    "kind": "repost",
    "text": "Imagine. Create. Share.\n\nDream up a Starlink ad with Grok @Imagine. Post on @X for the opportunity to be featured by Starlink during the big game.\n\nLearn more → https://starlink.com/imagine",
@@ -18296,16 +18299,15 @@
     "https://starlink.com/imagine"
    ],
    "metrics": {
-    "likes": 1139,
-    "reposts": 160,
-    "replies": 79,
-    "quotes": 50
+    "likes": 2643,
+    "reposts": 361,
+    "replies": 321,
+    "quotes": 137
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118822027205509120/vid/avc1/1920x1080/5zFCzLpi9KLT4Ew5.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118822027205509120/vid/avc1/1280x720/VOb3uuk04L4QFRqs.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118822027205509120/img/yRq_NfaEVL55KqGB.jpg",
      "width": 1920,
      "height": 1080,
@@ -18350,23 +18352,24 @@
    "username": "Starlink",
    "name": "Starlink",
    "created_at": "2026-11-06T22:23:15.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118831607650136119",
    "url": "https://x.com/Starlink/status/2118831607650136119",
    "kind": "post",
-   "text": "Imagine. Create. Share.\n\nDream up a Starlink ad with Grok @Imagine. Post on @X for the opportunity to be featured by Starlink during the big game.\n\nLearn more → https://t.co/TlE4llssc4 https://t.co/M9dGRPYyjG",
-   "urls": [],
+   "text": "Imagine. Create. Share.\n\nDream up a Starlink ad with Grok @Imagine. Post on @X for the opportunity to be featured by Starlink during the big game.\n\nLearn more → https://starlink.com/imagine",
+   "urls": [
+    "https://starlink.com/imagine"
+   ],
    "metrics": {
-    "likes": 1139,
-    "reposts": 160,
-    "replies": 79,
-    "quotes": 50
+    "likes": 2643,
+    "reposts": 361,
+    "replies": 321,
+    "quotes": 137
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118822027205509120/vid/avc1/1920x1080/5zFCzLpi9KLT4Ew5.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118822027205509120/vid/avc1/1280x720/VOb3uuk04L4QFRqs.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118822027205509120/img/yRq_NfaEVL55KqGB.jpg",
      "width": 1920,
      "height": 1080,
@@ -18442,23 +18445,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-06T21:29:00.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118817952300683429",
    "url": "https://x.com/elonmusk/status/2118817952300683429",
    "kind": "repost",
    "text": "Elon Musk in a new interview today on Terafab:\n\n\"There's three possible meanings to Terafab. One is terror. I think sometimes people ask, 'Why would you want a terror fab?' Haha. Then there's Terra, which just means Earth, but it's actually Tera for terawatt. But arguably, all three apply.\"",
    "urls": [],
    "metrics": {
-    "likes": 3361,
-    "reposts": 297,
-    "replies": 145,
-    "quotes": 12
+    "likes": 3959,
+    "reposts": 346,
+    "replies": 165,
+    "quotes": 17
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118770171330342912/vid/avc1/1320x720/5u-NLi9kSOce3RCo.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118770171330342912/vid/avc1/660x360/JRofXWmj4UElk2id.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118770171330342912/img/baB-H880VN2lBv8r.jpg",
      "width": 1320,
      "height": 720,
@@ -18503,19 +18505,18 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-06T21:27:33.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118817587203322349",
    "url": "https://x.com/elonmusk/status/2118817587203322349",
    "kind": "quote",
-   "text": "It’s true https://t.co/lJGZiiy7Em",
+   "text": "It’s true",
    "urls": [],
    "metrics": {
-    "likes": 9575,
-    "reposts": 1180,
-    "replies": 972,
-    "quotes": 79
+    "likes": 17216,
+    "reposts": 2106,
+    "replies": 1474,
+    "quotes": 126
    },
-   "partial": true,
    "ref": {
     "id": "2118777339085529409",
     "author_id": "243013409",
@@ -18526,7 +18527,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118776227481690112/vid/avc1/1320x724/SlE_2ymnnVbpIE19.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118776227481690112/vid/avc1/656x360/SXwZRuvWCzAOxUNG.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118776227481690112/img/9J8R-Hk66Kjhu3RH.jpg",
       "width": 1320,
       "height": 724,
@@ -18639,23 +18640,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-06T21:01:56.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118811141841559686",
    "url": "https://x.com/elonmusk/status/2118811141841559686",
    "kind": "repost",
    "text": "Elon Musk today:\n\n\"The @Tesla Model Y is the best selling EV in China. This is difficult. Think about that for a second. And let me tell you, Chinese car companies are super good.\"\n\n(via 33rd Annual Baron Investment Conference today in NYC)",
    "urls": [],
    "metrics": {
-    "likes": 2546,
-    "reposts": 272,
-    "replies": 99,
-    "quotes": 13
+    "likes": 3943,
+    "reposts": 388,
+    "replies": 140,
+    "quotes": 28
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118773780860260352/vid/avc1/1320x726/NDj9DS8nTS-c_xG1.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118773780860260352/vid/avc1/654x360/mSX9kpqosZ4xpHKy.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118773780860260352/img/ovXmbQkB4to_ujQN.jpg",
      "width": 1320,
      "height": 726,
@@ -18699,7 +18699,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118796474666672128/vid/avc1/1920x1080/zi4HHPPQsirNkmO2.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118796474666672128/vid/avc1/1280x720/2180NoPYnUy1psPB.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118796474666672128/img/8xBmnGJOhGvgr9ET.jpg",
       "width": 1920,
       "height": 1080,
@@ -18714,23 +18714,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-06T20:59:48.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118810606954500120",
    "url": "https://x.com/elonmusk/status/2118810606954500120",
    "kind": "repost",
    "text": "Elon Musk tells Ron Baron why SpaceX catches Starship with the launch tower’s “chopsticks”\n\n“It’s kind of like Mr. Miyagi in Karate Kid, you know, catching the fly, but just make it bigger.”\n\n“The rocket is placed on the launch pad by the tower and then is caught by those same tower arms and placed back on the launch pad when it returns from space.”\n\n“You really couldn’t get faster reusability than landing back where you took off.”\n\n“This, in principle, would allow us to refly the rocket, the giant booster, the Super Heavy booster, once an hour.”\n\nMost rockets are still thrown away after one flight.\n\nStarship is being built to fly like an airplane.",
    "urls": [],
    "metrics": {
-    "likes": 1406,
-    "reposts": 191,
-    "replies": 47,
-    "quotes": 3
+    "likes": 1727,
+    "reposts": 247,
+    "replies": 55,
+    "quotes": 6
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118793716869869569/vid/avc1/1920x1080/K3vZJydYNU6m9Uwa.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118793716869869569/vid/avc1/1280x720/mXTvf1NYpOYOvn6K.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118793716869869569/img/lI9MXUyua62s-lP_.jpg",
      "width": 1920,
      "height": 1080,
@@ -18811,7 +18810,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118774938857607168/vid/avc1/1920x1080/oX9urNhunIngrb_S.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118774938857607168/vid/avc1/1280x720/WK7sbv6fARD4osQQ.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118774938857607168/img/50sKlg-Strd_Zxr3.jpg",
       "width": 1920,
       "height": 1080,
@@ -18849,7 +18848,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118782519420088320/vid/avc1/1920x1080/vfMKgMN44jPxvHVc.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118782519420088320/vid/avc1/1280x720/i2Y472rcijYJdV_q.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118782519420088320/img/gh5ZDqNun_QSCiW1.jpg",
       "width": 1920,
       "height": 1080,
@@ -18887,7 +18886,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/3840x2160/FCylQSNfx4xGntxV.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/1280x720/cXNHjV4auvJob-tM.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118554924464390144/img/KqUl3eknXlGLNVMX.jpg",
       "width": 3840,
       "height": 2160,
@@ -18931,7 +18930,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/3840x2160/FCylQSNfx4xGntxV.mp4",
+       "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/1280x720/cXNHjV4auvJob-tM.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2118554924464390144/img/KqUl3eknXlGLNVMX.jpg",
        "width": 3840,
        "height": 2160,
@@ -18947,23 +18946,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-06T19:23:45.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118786432471015511",
    "url": "https://x.com/elonmusk/status/2118786432471015511",
    "kind": "repost",
    "text": "Elon today on @SpaceX's upcoming Starship Flight 15, which will attempt to catch both the Super Heavy Booster and Starship's upper stage:\n\n\"You really want to watch this one. This one's cool. It's the largest flying object ever made. And then the giant thing comes back. Excitement is guaranteed.\"\n\nVideo below on what the ship catch will look like:",
    "urls": [],
    "metrics": {
-    "likes": 1969,
-    "reposts": 238,
-    "replies": 81,
-    "quotes": 12
+    "likes": 2363,
+    "reposts": 280,
+    "replies": 97,
+    "quotes": 24
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118780234623221760/vid/avc1/1920x1080/GJNqAwYJazAnqk_x.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118780234623221760/vid/avc1/1280x720/PHblDedDXxbk0uvW.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118780234623221760/img/xY9trTGA0TECkDmx.jpg",
      "width": 1920,
      "height": 1080,
@@ -18971,7 +18969,7 @@
     },
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118780356232880128/vid/avc1/1886x1056/2rfi8YxdYzfqUOEz.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118780356232880128/vid/avc1/642x360/1N-8FQBP7-Xq7pZC.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118780356232880128/img/4C6qFML7XQOzEYEz.jpg",
      "width": 1886,
      "height": 1056,
@@ -19015,7 +19013,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118771740222410752/vid/avc1/1320x730/wPxSI0aVbNje4zYJ.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118771740222410752/vid/avc1/650x360/yEI856K4f4b0zfeV.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118771740222410752/img/qXb3BgBo3R8zmiwn.jpg",
       "width": 1320,
       "height": 730,
@@ -19053,7 +19051,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2097769339319693313/vid/avc1/3840x2160/Qdz51GYyAwqx6kma.mp4",
+      "url": "https://video.twimg.com/amplify_video/2097769339319693313/vid/avc1/1280x720/S6LdK-bdrEptkTaG.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2097769339319693313/img/BvniKiTbeYAwKmCx.jpg",
       "width": 3840,
       "height": 2160,
@@ -19197,7 +19195,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118738220582318080/vid/avc1/1920x1080/yfS_DwiedfQKaXVt.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118738220582318080/vid/avc1/1280x720/D1mQ_cGdFHu_-wgV.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118738220582318080/img/flYq8CP55892da6w.jpg",
       "width": 1920,
       "height": 1080,
@@ -19470,7 +19468,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118707284956303360/vid/avc1/1918x1080/-FFf2BOrAkaJKzuT.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118707284956303360/vid/avc1/1278x720/IwCiDBdAUgXHzNB4.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118707284956303360/img/1_4LyKRyjDUdA3UI.jpg",
      "width": 1918,
      "height": 1080,
@@ -19484,23 +19482,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-06T15:49:03.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118732400176083271",
    "url": "https://x.com/elonmusk/status/2118732400176083271",
    "kind": "repost",
    "text": "More than a dozen flight tests and years of development, with countless hours worked by SpaceX engineers and technicians, all come down to this: the first orbital Starship launch carrying advanced Starlink satellites bound for space.\n\nWatch “Go For Orbit” and experience the moments behind flying the most ambitious Starship mission yet",
    "urls": [],
    "metrics": {
-    "likes": 24350,
-    "reposts": 3275,
-    "replies": 849,
-    "quotes": 436
+    "likes": 31279,
+    "reposts": 4272,
+    "replies": 1288,
+    "quotes": 626
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118716025151619072/vid/avc1/3840x2160/JJB5HQJWGXUeFC1r.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118716025151619072/vid/avc1/1280x720/w6fPm-ftlepcKeRC.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118716025151619072/img/dtsnQSn9XFLasn6P.jpg",
      "width": 3840,
      "height": 2160,
@@ -19544,7 +19541,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118714871080779777/vid/avc1/1920x1072/tL0V81NBWlyDN3Iz.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118714871080779777/vid/avc1/644x360/0L9VO9u2F6jdZOsv.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118714871080779777/img/S1tGmnfeL4w98nCJ.jpg",
       "width": 1920,
       "height": 1072,
@@ -19581,7 +19578,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118716025151619072/vid/avc1/3840x2160/JJB5HQJWGXUeFC1r.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118716025151619072/vid/avc1/1280x720/w6fPm-ftlepcKeRC.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118716025151619072/img/dtsnQSn9XFLasn6P.jpg",
       "width": 3840,
       "height": 2160,
@@ -19626,23 +19623,25 @@
    "username": "SpaceX",
    "name": "SpaceX",
    "created_at": "2026-11-06T15:04:56.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118719281038770389",
    "url": "https://x.com/SpaceX/status/2118721301300818379",
    "reply_to": {
     "id": "2118719281038770389",
     "username": "SpaceX"
    },
    "kind": "reply",
-   "text": "Catch up on past episodes on the series page on X https://t.co/sbD611ZHsu\n\nAnd find every episode and past Starship flight tests at https://t.co/3eHlTo1TCc",
-   "urls": [],
+   "text": "Catch up on past episodes on the series page on X https://x.com/i/events/2118037016482811904?lang=en\n\nAnd find every episode and past Starship flight tests at https://spacex.com/content",
+   "urls": [
+    "https://x.com/i/events/2118037016482811904?lang=en",
+    "https://spacex.com/content"
+   ],
    "metrics": {
     "likes": 1639,
     "reposts": 129,
     "replies": 24,
     "quotes": 3
-   },
-   "partial": true
+   }
   },
   {
    "id": "2118720752379899907",
@@ -19672,7 +19671,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/3840x2160/FCylQSNfx4xGntxV.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/1280x720/cXNHjV4auvJob-tM.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118554924464390144/img/KqUl3eknXlGLNVMX.jpg",
       "width": 3840,
       "height": 2160,
@@ -19687,23 +19686,22 @@
    "username": "SpaceX",
    "name": "SpaceX",
    "created_at": "2026-11-06T14:56:55.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118719281038770389",
    "url": "https://x.com/SpaceX/status/2118719281038770389",
    "kind": "post",
-   "text": "More than a dozen flight tests and years of development, with countless hours worked by SpaceX engineers and technicians, all come down to this: the first orbital Starship launch carrying advanced Starlink satellites bound for space.\n\nWatch “Go For Orbit” and experience the https://t.co/J2bA23f6a1",
+   "text": "More than a dozen flight tests and years of development, with countless hours worked by SpaceX engineers and technicians, all come down to this: the first orbital Starship launch carrying advanced Starlink satellites bound for space.\n\nWatch “Go For Orbit” and experience the moments behind flying the most ambitious Starship mission yet",
    "urls": [],
    "metrics": {
-    "likes": 24346,
-    "reposts": 3275,
-    "replies": 849,
-    "quotes": 436
+    "likes": 31279,
+    "reposts": 4272,
+    "replies": 1288,
+    "quotes": 626
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118716025151619072/vid/avc1/3840x2160/JJB5HQJWGXUeFC1r.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118716025151619072/vid/avc1/1280x720/w6fPm-ftlepcKeRC.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118716025151619072/img/dtsnQSn9XFLasn6P.jpg",
      "width": 3840,
      "height": 2160,
@@ -20493,7 +20491,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/ext_tw_video/1855687742342017024/pu/vid/avc1/1440x1080/qyHwiXs_mj-TqnGB.mp4?tag=14",
+     "url": "https://video.twimg.com/ext_tw_video/1855687742342017024/pu/vid/avc1/960x720/q4cyixM9FxhyZHbS.mp4?tag=14",
      "poster": "https://pbs.twimg.com/ext_tw_video_thumb/1855687742342017024/pu/img/lToy9MAUOtNBOURm.jpg",
      "width": 1920,
      "height": 1440,
@@ -20654,9 +20652,9 @@
    "text": "Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production",
    "urls": [],
    "metrics": {
-    "likes": 82133,
+    "likes": 82144,
     "reposts": 5202,
-    "replies": 7731,
+    "replies": 7734,
     "quotes": 2486
    }
   },
@@ -20705,10 +20703,8 @@
    "conversation_id": "2118591178165927943",
    "url": "https://x.com/elonmusk/status/2118591178165927943",
    "kind": "repost",
-   "text": "Truly amazing what having a real stake in the future does to people. https://x.com/Smirkley/status/2118356806720266556?a=Nwdsh1MQhhoeeDX_iag&s=20",
-   "urls": [
-    "https://x.com/Smirkley/status/2118356806720266556?a=Nwdsh1MQhhoeeDX_iag&s=20"
-   ],
+   "text": "Truly amazing what having a real stake in the future does to people.",
+   "urls": [],
    "metrics": {
     "likes": 2482,
     "reposts": 260,
@@ -20720,7 +20716,24 @@
     "author_id": "1709393467871461376",
     "username": "xenocosmography",
     "name": "Xenocosmography",
-    "created_at": "2026-11-06T03:59:15.000Z"
+    "created_at": "2026-11-06T03:59:15.000Z",
+    "quote": {
+     "id": "2118356806720266556",
+     "author_id": "1706453934947110912",
+     "username": "Smirkley",
+     "name": "Smirkley",
+     "created_at": "2026-11-05T14:56:34.000Z",
+     "text": "Young men with kids voted to the right of men without kids by 40 points.\n\nYoung women with kids voted to the right of women without kids by 35 points",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWXqSd1WYAA9fuK.jpg",
+       "width": 2048,
+       "height": 1930,
+       "alt": "Bar chart: vote margins of voters 18-44 by sex and kids. Source: CNN Voter Poll, Nov 4, 2026. @smirkley"
+      }
+     ]
+    }
    }
   },
   {
@@ -20736,15 +20749,15 @@
    "text": "Elon Musk started his first company, Zip2, in a $500 a month office that doubled as his home.\n\nThe cheapest apartment he could find cost $800 a month, so he slept on a pullout couch and showered at the YMCA down the road.",
    "urls": [],
    "metrics": {
-    "likes": 2823,
-    "reposts": 467,
-    "replies": 205,
-    "quotes": 30
+    "likes": 2867,
+    "reposts": 463,
+    "replies": 207,
+    "quotes": 31
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118287561206689792/vid/avc1/1682x996/tNQ39wZ6OUxPytd0.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118287561206689792/vid/avc1/1214x720/iJ9zFWGAEzn8VDHg.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118287561206689792/img/DiOs0rOX_F6h-HDe.jpg",
      "width": 1682,
      "height": 996,
@@ -20938,15 +20951,15 @@
    "text": "Elon Musk on why Starship has to be fully reusable:\n\n\"Nobody's ever made a fully reusable orbital rocket.\"\n\n\"That's really the critical breakthrough necessary for life to become multiplanetary.\"\n\n\"For us to become a true spacefaring civilization, we have to achieve full and rapid reusability.\"\n\n\"I call it rapidly reusable reliable rockets.\"\nFull and rapid reuse is the whole point.\n@elonmusk\nCredit: Everyday Astronaut, First Look Inside SpaceX Starfactory (2024)",
    "urls": [],
    "metrics": {
-    "likes": 1336,
-    "reposts": 201,
-    "replies": 95,
-    "quotes": 22
+    "likes": 1414,
+    "reposts": 208,
+    "replies": 105,
+    "quotes": 26
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118518056330948608/vid/avc1/1920x1080/uLIZC0WF_tkq4IOz.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118518056330948608/vid/avc1/1280x720/fXbxWuWHFcqGq6B0.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118518056330948608/img/lniR0h3qud9tpPLQ.jpg",
      "width": 1920,
      "height": 1080,
@@ -21234,7 +21247,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118449455431344128/vid/avc1/1080x1920/2_dnelr3EV1-cUW_.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118449455431344128/vid/avc1/720x1280/2W2kvFmvW-WFVAKl.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118449455431344128/img/Sp8Nq9OmlQ2YUvyF.jpg",
       "width": 1080,
       "height": 1920,
@@ -21341,7 +21354,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2118153667404791808/vid/avc1/1080x1920/NoU9CAd_o0lQz3qJ.mp4",
+       "url": "https://video.twimg.com/amplify_video/2118153667404791808/vid/avc1/720x1280/AMUkp5ulM0eSGvmV.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2118153667404791808/img/D4ndC7WkoQI7oF22.jpg",
        "width": 1080,
        "height": 1920,
@@ -22006,7 +22019,8 @@
    "conversation_id": null,
    "url": "https://x.com/mattyp/status/2118393077295636769",
    "reply_to": {
-    "id": "2118391361351426174"
+    "id": "2118391361351426174",
+    "username": "benjitaylor"
    },
    "kind": "reply",
    "text": "@benjitaylor occasionally",
@@ -22613,7 +22627,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118213308209885184/vid/avc1/1080x1920/0eS9Tljx2Ky4BkIR.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118213308209885184/vid/avc1/720x1280/EjwLOQBUb-LnLMXF.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118213308209885184/img/dmmc5-9reaYC54Hh.jpg",
       "width": 1080,
       "height": 1920,
@@ -22679,7 +22693,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1920x1080/cOs6k3ZkBGObOn6g.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1280x720/yZmAOBMCKTeSLMV7.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118043621249433600/img/wbtqZXaA0cWZe1Kd.jpg",
       "width": 1920,
       "height": 1080,
@@ -22799,7 +22813,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1920x1080/cOs6k3ZkBGObOn6g.mp4",
+       "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1280x720/yZmAOBMCKTeSLMV7.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2118043621249433600/img/wbtqZXaA0cWZe1Kd.jpg",
        "width": 1920,
        "height": 1080,
@@ -22838,7 +22852,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1920x1080/cOs6k3ZkBGObOn6g.mp4",
+      "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1280x720/yZmAOBMCKTeSLMV7.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118043621249433600/img/wbtqZXaA0cWZe1Kd.jpg",
       "width": 1920,
       "height": 1080,
@@ -23011,11 +23025,11 @@
    "username": "bot",
    "name": "Grok Bot",
    "created_at": "2026-11-04T18:13:21.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118043939592942052",
    "url": "https://x.com/bot/status/2118043939592942052",
    "kind": "post",
-   "text": "Grok Bot can now make phone calls. https://t.co/eFghrfwTtz",
+   "text": "Grok Bot can now make phone calls.",
    "urls": [],
    "metrics": {
     "likes": 15323,
@@ -23023,11 +23037,10 @@
     "replies": 3417,
     "quotes": 715
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1920x1080/cOs6k3ZkBGObOn6g.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1280x720/yZmAOBMCKTeSLMV7.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118043621249433600/img/wbtqZXaA0cWZe1Kd.jpg",
      "width": 1920,
      "height": 1080,
@@ -23101,23 +23114,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-04T17:44:03.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118036566249758732",
    "url": "https://x.com/elonmusk/status/2118036566249758732",
    "kind": "repost",
    "text": "BREAKING: The Government of Canada’s Starlink contract has grown to nearly C$29 million, more than 12 times its original value. 🇨🇦\n\nOfficial government records show:\n\n• Original contract value: C$2.26 million\n• Updated total value: C$28.95 million\n• Increase: approximately C$26.7 million\n\nThe agreement with SpaceX Canada provides Starlink satellite connectivity for Shared Services Canada and its partner government organizations as needed.\n\nThe contract could continue until 2029, according to the Investigative Journalism Foundation.\n\nStarlink continues to support the communications needs of Canada’s federal government.",
    "urls": [],
    "metrics": {
-    "likes": 3181,
-    "reposts": 471,
+    "likes": 3193,
+    "reposts": 464,
     "replies": 187,
-    "quotes": 47
+    "quotes": 48
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117984907821801472/vid/avc1/1920x1080/T70BtBfN0GXS-Es0.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117984907821801472/vid/avc1/1280x720/Gi-YLJOQG-iWbtcd.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117984907821801472/img/GUmPu_XON2ilSIfP.jpg",
      "width": 1920,
      "height": 1080,
@@ -23138,23 +23150,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-04T17:24:39.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118031685023604816",
    "url": "https://x.com/elonmusk/status/2118031685023604816",
    "kind": "repost",
    "text": "Pages in Grok Bot\n\n0:15 What are Pages?\n0:40 An example page\n1:34 Sharing a Page\n1:55 Tips: use your data\n2:46 @X posts\n3:44 Recap",
    "urls": [],
    "metrics": {
-    "likes": 2882,
-    "reposts": 251,
-    "replies": 211,
-    "quotes": 46
+    "likes": 2992,
+    "reposts": 259,
+    "replies": 221,
+    "quotes": 49
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/3840x2160/rgl19qAlMKPA_49v.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/1280x720/srtvOpgPVc_wIwzH.mp4",
      "poster": "https://pbs.twimg.com/media/HWS4zxWaMAAcksB.png",
      "width": 1920,
      "height": 1080,
@@ -23218,23 +23229,22 @@
    "username": "mattyp",
    "name": "matt palmer",
    "created_at": "2026-11-04T16:44:36.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2118021605544833173",
    "url": "https://x.com/mattyp/status/2118021605544833173",
    "kind": "post",
-   "text": "Pages in Grok Bot\n\n0:15 What are Pages?\n0:40 An example page\n1:34 Sharing a Page\n1:55 Tips: use your data\n2:46 @X posts\n3:44 Recap https://t.co/dVKUvxVoBo",
+   "text": "Pages in Grok Bot\n\n0:15 What are Pages?\n0:40 An example page\n1:34 Sharing a Page\n1:55 Tips: use your data\n2:46 @X posts\n3:44 Recap",
    "urls": [],
    "metrics": {
-    "likes": 2882,
-    "reposts": 251,
-    "replies": 211,
-    "quotes": 46
+    "likes": 2992,
+    "reposts": 259,
+    "replies": 221,
+    "quotes": 49
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/3840x2160/rgl19qAlMKPA_49v.mp4",
+     "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/1280x720/srtvOpgPVc_wIwzH.mp4",
      "poster": "https://pbs.twimg.com/media/HWS4zxWaMAAcksB.png",
      "width": 1920,
      "height": 1080,
@@ -23277,7 +23287,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/1920x1080/vzWGF2LuTlVA_3RB.mp4",
+       "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/1280x720/NpTSF5iiwOfH_Qje.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2117735046065070080/img/SdipeDltihzi-7WJ.jpg",
        "width": 1920,
        "height": 1080,
@@ -23455,7 +23465,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/1920x1080/vzWGF2LuTlVA_3RB.mp4",
+       "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/1280x720/NpTSF5iiwOfH_Qje.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2117735046065070080/img/SdipeDltihzi-7WJ.jpg",
        "width": 1920,
        "height": 1080,
@@ -23471,23 +23481,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-04T14:58:39.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117994941255397721",
    "url": "https://x.com/elonmusk/status/2117994941255397721",
    "kind": "repost",
    "text": "This is 100% real 😂\n\nSpaceXSI is running an ad on a different platform about how to use Grok Bot to buy a local home services business featuring...\n\nNever mind… just watch it yourself. My head is spinning.",
    "urls": [],
    "metrics": {
-    "likes": 2798,
+    "likes": 2795,
     "reposts": 253,
-    "replies": 185,
+    "replies": 183,
     "quotes": 20
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117967295284641792/vid/avc1/1126x2436/2hvC_V42uMV6-ywZ.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117967295284641792/vid/avc1/480x1038/-pJCQBFZPqlvuvEs.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117967295284641792/img/OueazN-6pRki9DYt.jpg",
      "width": 1126,
      "height": 2436,
@@ -23572,7 +23581,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/1920x1080/vzWGF2LuTlVA_3RB.mp4",
+       "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/1280x720/NpTSF5iiwOfH_Qje.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2117735046065070080/img/SdipeDltihzi-7WJ.jpg",
        "width": 1920,
        "height": 1080,
@@ -23588,23 +23597,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-04T14:43:30.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117991129870434422",
    "url": "https://x.com/elonmusk/status/2117991129870434422",
    "kind": "repost",
    "text": "I literally just had my Grok @bot make a phone call.\n\nI texted my CEO and told her to order a pizza for pickup at 5 PM, under Teslaconomics. She wrote out what she planned to say, showed it to me, and got my approval. She only dialed after I tapped “Call”.\n\nHer opening line: “I’m a virtual assistant calling for Teslaconomics on a recorded line.”\n\nI liked that.\n\nShe introduced herself as my assistant, used the name I gave her, and never said my real name or phone number.\n\nI picked up the other phone and she went through w/ my request…\n\nOne large pepperoni, pickup today at 5 PM, paying at pickup, no drinks. She even asked if there was a freakin deal...\n\nI made her say “Tesla to the moon” to get the 50% off, bringing the total to $7.42.\n\nWhen she hung up, the recap landed right back in my chat.\n\nEverything was there for me to check.\n\nSuper dope feature.",
    "urls": [],
    "metrics": {
-    "likes": 1261,
-    "reposts": 145,
-    "replies": 86,
+    "likes": 1268,
+    "reposts": 144,
+    "replies": 88,
     "quotes": 10
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117751408879661056/vid/avc1/2160x3840/EsMauWNQsXXfY-Pe.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117751408879661056/vid/avc1/720x1280/3NWLLPVqgkEPvWRD.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117751408879661056/img/AIBy6NWT4AUD-KD0.jpg",
      "width": 2160,
      "height": 3840,
@@ -23618,7 +23626,7 @@
     },
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117751408858689536/vid/avc1/1320x2442/RzKQtR0MnN6ph01G.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117751408858689536/vid/avc1/480x888/9XNblGggh7EbFxD3.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117751408858689536/img/nRA69ZHNovnxMHRT.jpg",
      "width": 1320,
      "height": 2442,
@@ -23807,7 +23815,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/1920x1080/vzWGF2LuTlVA_3RB.mp4",
+      "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/1280x720/NpTSF5iiwOfH_Qje.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2117735046065070080/img/SdipeDltihzi-7WJ.jpg",
       "width": 1920,
       "height": 1080,
@@ -24087,23 +24095,22 @@
    "username": "bot",
    "name": "Grok Bot",
    "created_at": "2026-11-03T21:50:42.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117736249444507834",
    "url": "https://x.com/bot/status/2117736249444507834",
    "kind": "post",
-   "text": "Try the new shopping experience in Grok Bot.\n\nFind the best deal, compare items, and have Bot track all your orders. https://t.co/Hd6pn5ELQm",
+   "text": "Try the new shopping experience in Grok Bot.\n\nFind the best deal, compare items, and have Bot track all your orders.",
    "urls": [],
    "metrics": {
-    "likes": 1615,
-    "reposts": 119,
-    "replies": 287,
-    "quotes": 66
+    "likes": 4654,
+    "reposts": 366,
+    "replies": 909,
+    "quotes": 241
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/1920x1080/vzWGF2LuTlVA_3RB.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/1280x720/NpTSF5iiwOfH_Qje.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117735046065070080/img/SdipeDltihzi-7WJ.jpg",
      "width": 1920,
      "height": 1080,
@@ -24117,8 +24124,8 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-03T21:00:42.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117723668336001242",
    "url": "https://x.com/elonmusk/status/2117723668336001242",
    "kind": "repost",
    "text": "\"I don't actually have eyes on the sky.\"\n\nThat's what my Grok @Bot told a Comcast rep who asked about the weather 😂\n\nIt also told the rep that a competitor was offering a much lower price and negotiated both a price decrease AND higher speed for my internet.\n\nBelow's the 20-second reel of the real call.\n\n📌 Watch the full video to see this feature in action: https://youtu.be/F-356TczoQU\n\n(Btw, all Grok Bot users should have access to call US businesses now, just ask your bot to dial a number and give it some context upfront)",
@@ -24126,16 +24133,15 @@
     "https://youtu.be/F-356TczoQU"
    ],
    "metrics": {
-    "likes": 986,
-    "reposts": 137,
-    "replies": 99,
-    "quotes": 8
+    "likes": 1706,
+    "reposts": 191,
+    "replies": 163,
+    "quotes": 25
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117671651081117696/vid/avc1/1920x1080/ybcn26liycmLiRWq.mp4?tag=16",
+     "url": "https://video.twimg.com/amplify_video/2117671651081117696/vid/avc1/1280x720/k0Iu_x7jhySNg5EN.mp4?tag=16",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117671651081117696/img/u-HYycQJ31AJZBEi.jpg",
      "width": 1920,
      "height": 1080,
@@ -24230,7 +24236,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2117697012804071425/vid/avc1/3840x2160/Ntn9DjhQ9dH5pV4c.mp4",
+      "url": "https://video.twimg.com/amplify_video/2117697012804071425/vid/avc1/1280x720/QNYuUz9k48NZsonk.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2117697012804071425/img/r0qPOeLOX_QcUrHq.jpg",
       "width": 3840,
       "height": 2160,
@@ -24733,7 +24739,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2108697277879500801/vid/avc1/1920x1080/VZjibggAK1cchCEa.mp4",
+      "url": "https://video.twimg.com/amplify_video/2108697277879500801/vid/avc1/1280x720/WURDSatk1x6dZbMP.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2108697277879500801/img/0kt9luJc22qlU_Tp.jpg",
       "width": 1920,
       "height": 1080,
@@ -24764,7 +24770,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117659748313313280/vid/avc1/1080x1920/P6fqvWpRH0xB-UDt.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117659748313313280/vid/avc1/720x1280/GGG0nxPRl6HjMG_R.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117659748313313280/img/rbqvN47omA7xzOn9.jpg",
      "width": 1080,
      "height": 1920,
@@ -24926,7 +24932,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2117627771514187776/vid/avc1/1920x1080/ebNOoiIR5rB45Ljl.mp4",
+      "url": "https://video.twimg.com/amplify_video/2117627771514187776/vid/avc1/1280x720/TYFWx1-9b9Bn0fOa.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2117627771514187776/img/XIMzhfgy_zeLHCd0.jpg",
       "width": 1920,
       "height": 1080,
@@ -25054,23 +25060,22 @@
    "username": "Tesla",
    "name": "Tesla",
    "created_at": "2026-11-03T16:47:05.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117659842685128881",
    "url": "https://x.com/Tesla/status/2117659842685128881",
    "kind": "post",
-   "text": "POV you’re a flying car https://t.co/q8oRm4tljC",
+   "text": "POV you’re a flying car",
    "urls": [],
    "metrics": {
-    "likes": 12488,
+    "likes": 12498,
     "reposts": 1565,
     "replies": 430,
     "quotes": 270
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117659748313313280/vid/avc1/1080x1920/P6fqvWpRH0xB-UDt.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117659748313313280/vid/avc1/720x1280/GGG0nxPRl6HjMG_R.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117659748313313280/img/rbqvN47omA7xzOn9.jpg",
      "width": 1080,
      "height": 1920,
@@ -25100,7 +25105,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117644754196512768/vid/avc1/1080x1920/k6Z5hPEu9266p3sX.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117644754196512768/vid/avc1/720x1280/ZD7c-5lJW6UJOWip.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117644754196512768/img/pUd0mNROr1NjVt0-.jpg",
      "width": 1080,
      "height": 1920,
@@ -25292,7 +25297,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2117572503589818368/vid/avc1/1920x1080/Ku78wKr8uh9nnmN9.mp4?tag=16",
+      "url": "https://video.twimg.com/amplify_video/2117572503589818368/vid/avc1/1280x720/Uv9C51pM90JQAOZW.mp4?tag=16",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2117572503589818368/img/W1ePJqajOzRNpz9x.jpg",
       "width": 1920,
       "height": 1080,
@@ -25309,7 +25314,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2117209572385619968/vid/avc1/1920x1080/sD5vQd29afEHduXE.mp4?tag=16",
+       "url": "https://video.twimg.com/amplify_video/2117209572385619968/vid/avc1/1280x720/ypgAT_tzbOESun8M.mp4?tag=16",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2117209572385619968/img/fDGj26s5vl1HqjU1.jpg",
        "width": 1920,
        "height": 1080,
@@ -25499,10 +25504,10 @@
    "text": "Grok Build just got a massive performance and reliability upgrade, with improvements across multi-agent workflows, terminal responsiveness, session recovery, and overall stability\n\nLong-running sessions now use less memory, large JSON and log pastes no longer freeze the terminal, Linux file watching uses significantly less CPU, and background subagent activity triggers far fewer unnecessary screen redraws\n\nSession resuming is also much faster, subagent conversations are easier to follow, shell approvals now explain why commands were blocked, and `@` file navigation can access files outside the workspace\n\nThere’s also a huge reliability pass covering safer updates, MCP authentication, context window handling, workflow execution, Windows and macOS stability, and more reliable headless sessions\n\nGrok Build keeps getting better at handling bigger projects, longer conversations, and increasingly complex multi-agent workloads without slowing down\n\nRelease Notes: v1.0.74\n\nFeatures:\n\n• Messages between subagents appear as left-aligned rows under the bullet that name the sender and recipient, replacing the centered rows\n• Shift+Enter inserts a newline in VS Code and other xterm.js-based terminals that use the Kitty keyboard protocol\n• `/mcps`: when a browser can't open an MCP server's sign-in URL, the URL shows in a panel you can copy with `c` or the [Copy the url] button\n• [Copy] button in a finished `/btw` panel and its folded transcript row copies the whole answer, even when only part of it is visible\n• Shell approval cards say when Auto-review blocked a command or couldn't review it, and Ctrl+F shows the reviewer's explanation\n• `!` mode Tab completion offers commands installed as symlinks, such as Homebrew, npm, rustup and Debian alternatives binaries\n• Quotes in replies get a [Copy] button that copies the whole quote as Markdown without its `>` markers\n• Named subagent links open on a plain click, so they work over SSH from macOS where a modified click can't reach Grok\n• `@` paths outside the workspace: an `@` path that starts with `/`, `~/` or `../` lists files from that folder; set `[ui] at_picker_outside_workspace = false` to turn it off.\n• Picked `@` files in the prompt can be edited in place: Backspace at the end of one reopens the picker on its path, and Left or Right puts the cursor inside it to change the path\n\nBug Fixes:\n\n• Built-in skills, agents and workflows are refreshed when their local cache's manifest is missing or corrupt, instead of staying outdated or failing every sync\n• Ctrl+Y on a question card no longer closes it without an answer; while you type an answer, it pastes back text cut with Ctrl+K\n• `/new` tabs show the context window you just switched to before the new session replies\n• Resumed sessions show a background command's completion in the turn that ran it, with its real run time instead of about 0.0s\n• `grok update` runs when GROK_SANDBOX, --sandbox, or config sets a sandbox profile, unless Grok is already running confined\n• `/btw` on a very short terminal no longer swallows arrow keys, Page Up/Down or clicks while its panel is too small to draw\n• A code block's [Copy] in the transcript copies while a queued prompt is open for editing, instead of copying nothing or closing the edit\n• `grok logout` stays signed out when another running Grok refreshes its sign-in, instead of signing you back in on the next launch\n• Opening links and files from the TUI no longer leaves a zombie process behind for each click\n• A failed session delete shows the \"Couldn't delete session\" prefix once, so the reason is no longer cut off\n• Windows: Grok exits fully after a startup error, a `/minimal` or `/fullscreen` switch, or a signal, instead of sometimes hanging\n• Grok running confined in a sandbox never starts an update on its own and tells you to run `grok update` instead\n• Quitting to install an update with Ctrl+U on the welcome screen exits within the usual exit deadline instead of sometimes hanging after \"Update installed\"\n• `grok update --force-reinstall`, or `grok update --version` with the installed version, keeps your working Grok on Linux and macOS when the download fails its checks, instead of deleting it\n• Windows installers check that the downloaded build runs before replacing grok.exe and agent.exe, and keep the existing install when it doesn't, such as when a proxy serves a blocked-download page\n• Command-line arguments that aren't valid UTF-8 no longer crash Grok at startup: paths such as --cwd accept them, and text such as -p gets a usage error\n• Installers keep the installed Grok when a proxy or cache returns an empty download, instead of replacing it with an empty file and reporting success\n• Environment variables with non-UTF-8 bytes no longer stop Grok from starting.\n• Workflow run lines in the transcript end with what the run returned instead of a bare colon, `/tasks` shows the time it was taken, and polling an unknown task id leaves a row with its error\n• Headless runs stopped by Ctrl+C or SIGTERM end their json, streaming-json or streaming-messages-json output with a closing record that keeps the run's outcome, instead of cutting off the stream\n• macOS: the TUI no longer freezes when it runs inside a sandbox that blocks the window server\n• `grok -p --resume` shows why a session couldn't load instead of always \"Session does not exist\", and with `--output-format json` a resume, continue or fork that fails before the session opens prints one JSON error\n• Sessions with an unrecognized reasoning effort or unreadable bytes in their history resume instead of failing: the session runs at the model's default effort and says so once, and the unreadable lines are left out of the transcript\n• Windows: on older consoles such as plain cmd.exe and Windows PowerShell windows, status marks and selection arrows in workflow views, the dashboard, and the feedback and extensions dialogs show as >, ·, √ or x instead of empty boxes\n• File paths with spaces in inline code, such as `~/Library/Application Support/...`, link to the whole path when it exists instead of stopping at the first space.\n• Feedback that can't be sent leads with the outcome, such as \"Couldn't send feedback. Saved to Drafts.\", then gives the reason and says to retry from `/feedback`.\n• Dialog tab labels, shortcuts and settings rows that don't fit end in … instead of being cut off\n• Prompt history search highlights matched letters in the same color as other fuzzy lists, and the counts on the `/` and `@` menu borders are dimmed like other border captions\n• Dashboard: the peek header reads Responding while a reply streams, and the Esc footer hint reads new agent like the other lowercase hints\n• Custom agent files saved with a UTF-8 byte order mark, as some Windows editors write them, load instead of being skipped\n• Running markers in workflow views and MCP servers that are still starting use the theme's running color, like other progress indicators\n• Minimal mode: \"Sign-in failed\" shows in the error color instead of the warning color.\n• Context window: a larger window picked with `/context-window` or set with `context_window` in a `[model.\"<id>\"]` table stays in effect, so compaction no longer starts early after the session sits idle, after a failed request such as a rate limit, or until you restart\n\nPerformance:\n\n• Long sessions use less memory: finished Markdown blocks far off screen release their rendered layout, and search still finds their text\n• Typing no longer lags when ffmpeg isn't installed and PATH holds slow directories, such as Windows drives under WSL\n• Long pastes that arrive as keystrokes, such as pastes on native Windows or in terminals without bracketed paste, no longer freeze the prompt for seconds while the plan-mode tip is on\n• Pasting long single-line text such as logs, JSON or base64 into the prompt no longer freezes the TUI for seconds\n• File watching on Linux no longer keeps a CPU core busy for about a minute after startup in large repositories.\n• Lower CPU use while subagents run: the TUI repaints only for animations on screen, about 7 times a second instead of 30 when no running row is visible\n• `grok --resume <id>` opens much faster on large session stores, reading only the resumed session instead of every session",
    "urls": [],
    "metrics": {
-    "likes": 747,
-    "reposts": 99,
-    "replies": 51,
-    "quotes": 4
+    "likes": 910,
+    "reposts": 120,
+    "replies": 60,
+    "quotes": 10
    },
    "partial": true,
    "media": [
@@ -25594,23 +25599,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-03T13:05:37.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117604107355558099",
    "url": "https://x.com/elonmusk/status/2117604107355558099",
    "kind": "repost",
    "text": "Tomorrow, stand up for Texas—our families, freedoms, and future. Don’t sit on the sidelines: VOTE! Call family, text friends, and check on neighbors. Every vote matters. Don’t wake up Wednesday wishing you’d done more. Texas is worth fighting for! 🇺🇸",
    "urls": [],
    "metrics": {
-    "likes": 9051,
-    "reposts": 2361,
-    "replies": 841,
-    "quotes": 79
+    "likes": 9471,
+    "reposts": 2428,
+    "replies": 893,
+    "quotes": 86
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117443757368848384/vid/avc1/1080x1920/jL2xKLanfBOOpruZ.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117443757368848384/vid/avc1/720x1280/x-GMHyrbH-ZwLZ8u.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117443757368848384/img/U8DnlkU9LPU-2PLX.jpg",
      "width": 1080,
      "height": 1920,
@@ -25658,23 +25662,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-03T13:01:20.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117603030564585699",
    "url": "https://x.com/elonmusk/status/2117603030564585699",
    "kind": "repost",
    "text": "On this day in 2011: Tesla told shareholders it expected $195 million to $200 million in revenue for the entire year.\n\nModel S hadn't shipped a single car yet. The Fremont factory was about 90% tooled up, and first deliveries were promised for no later than July 2012.\n\nToday Tesla brings in that much in about 16 hours. Q3 2026 revenue: $28.05 billion.",
    "urls": [],
    "metrics": {
-    "likes": 1487,
-    "reposts": 197,
-    "replies": 77,
-    "quotes": 2
+    "likes": 1683,
+    "reposts": 209,
+    "replies": 85,
+    "quotes": 8
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117282610569498624/vid/avc1/1920x1080/8ddfDJhreB01SGe0.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117282610569498624/vid/avc1/1280x720/9xEmWM2XM7V9C21Z.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117282610569498624/img/oK_EceZA4MpM9bEb.jpg",
      "width": 1920,
      "height": 1080,
@@ -25711,7 +25714,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/ext_tw_video/1900243173785423874/pu/vid/avc1/1080x1920/zmd2LZ76caEm9HaX.mp4?tag=14",
+     "url": "https://video.twimg.com/ext_tw_video/1900243173785423874/pu/vid/avc1/720x1280/ZHU0CaIhJ9uXV-yW.mp4?tag=14",
      "poster": "https://pbs.twimg.com/ext_tw_video_thumb/1900243173785423874/pu/img/bVCRnTHNrFHpp0tr.jpg",
      "width": 1080,
      "height": 1920,
@@ -25810,23 +25813,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-03T12:58:18.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117602268375900522",
    "url": "https://x.com/elonmusk/status/2117602268375900522",
    "kind": "repost",
    "text": "Hasan Piker: \"We want more immigrants to come into your countries and then they’re gonna fuck your sisters and then your daughters. ... We're here to destroy the White race, bitch.\"\n\nPiker is the biggest booster of U.S. Senate campaign of Abdul El-Sayed.",
    "urls": [],
    "metrics": {
-    "likes": 16624,
-    "reposts": 8011,
-    "replies": 1328,
-    "quotes": 789
+    "likes": 17820,
+    "reposts": 8394,
+    "replies": 1431,
+    "quotes": 872
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2085718628847042560/vid/avc1/1920x1080/eIXy5X6Gs0UuhdHB.mp4",
+     "url": "https://video.twimg.com/amplify_video/2085718628847042560/vid/avc1/1280x720/im4N_UEz42PhqkU8.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2085718628847042560/img/RJqzCFgChhCu83rH.jpg",
      "width": 1920,
      "height": 1080,
@@ -25847,23 +25849,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-03T12:57:46.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117602132832424371",
    "url": "https://x.com/elonmusk/status/2117602132832424371",
    "kind": "repost",
    "text": "Jay Leno says @elonmusk is the Thomas Edison or the Henry Ford, and Tesla's factories are the proof.",
    "urls": [],
    "metrics": {
-    "likes": 2170,
-    "reposts": 261,
-    "replies": 121,
-    "quotes": 27
+    "likes": 2432,
+    "reposts": 277,
+    "replies": 129,
+    "quotes": 29
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117430217300189184/vid/avc1/1920x1080/7JsVqsN-TLNGJKQ0.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117430217300189184/vid/avc1/1280x720/ocDYC8PZXMmRIaUg.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117430217300189184/img/uvb8yMuMq-3tFRMX.jpg",
      "width": 1920,
      "height": 1080,
@@ -26115,7 +26116,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2117189804798414848/vid/avc1/1080x1920/3Zs_QGyuOrd8Xv11.mp4",
+       "url": "https://video.twimg.com/amplify_video/2117189804798414848/vid/avc1/720x1280/dDd6YhMBOlsYVxn_.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2117189804798414848/img/OJJML9bgyBeQImtV.jpg",
        "width": 1080,
        "height": 1920,
@@ -26168,23 +26169,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-03T04:35:15.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117475670745853964",
    "url": "https://x.com/elonmusk/status/2117475670745853964",
    "kind": "repost",
    "text": "Elon Musk on going \"from the impossible to the merely late,\" his own description of how Starship got built:\n\n\"When we first started talking about Starship, people thought this was impossible. In fact, even within the company, we sort of thought it was impossible.\"\n\nHe says it had what he calls a \"giggle factor.\" People laughed at the idea.\n\n\"I guess I specialize in going from the impossible to the merely late. So that's my skill.\"\n\"It wasn't possible, now it's just late.\"\n@elonmusk",
    "urls": [],
    "metrics": {
-    "likes": 1808,
-    "reposts": 242,
-    "replies": 127,
-    "quotes": 12
+    "likes": 1944,
+    "reposts": 252,
+    "replies": 136,
+    "quotes": 15
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117415463684812800/vid/avc1/1920x1080/l2NaxkoLiEI-uJbt.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117415463684812800/vid/avc1/1280x720/FXJH9krjNtUmiQvW.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117415463684812800/img/Mc-CfT1EsDSo6s8W.jpg",
      "width": 1920,
      "height": 1080,
@@ -26354,7 +26354,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/1080x1920/ZOCWX1CUPcAwgqDc.mp4",
+      "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/720x1280/dqRAZRUV6LcdaChy.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2117374805699653632/img/LUQ7GilJPD9Df83y.jpg",
       "width": 1080,
       "height": 1920,
@@ -26385,23 +26385,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-03T03:45:03.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117463040060969417",
    "url": "https://x.com/elonmusk/status/2117463040060969417",
    "kind": "repost",
    "text": "I had my Grok Bot shop around new Auto Insurance. It couldn’t find info about Progressives Glass coverage and as all Tesla owners know Windshield replacements can be pricey. I had Grok Bot call Progressive and get additional information for me all while I picked my kids up from school without me ever having to talk to a person.\n\nHere is the transcript and actual recording from the call. Personal info was bleeped and some parts cut for time. While there’s some improvements that can be made it got the job done.\n\nMy mind is thoroughly blown!",
    "urls": [],
    "metrics": {
-    "likes": 1665,
-    "reposts": 172,
-    "replies": 144,
-    "quotes": 55
+    "likes": 1897,
+    "reposts": 186,
+    "replies": 161,
+    "quotes": 66
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/1080x1920/ZOCWX1CUPcAwgqDc.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/720x1280/dqRAZRUV6LcdaChy.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117374805699653632/img/LUQ7GilJPD9Df83y.jpg",
      "width": 1080,
      "height": 1920,
@@ -26438,23 +26437,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-03T03:43:14.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117232243907125289",
    "url": "https://x.com/elonmusk/status/2117462581371719779",
    "reply_to": {
     "id": "2117325447600193900",
     "username": "shaunmmaguire"
    },
    "kind": "reply",
-   "text": "@shaunmmaguire @broudsov Yeah, much easier to cool in space.\n\n~1300 W/m^2 is easily achievable for an aluminum radiator pointed away from the Sun, as it is mostly just seeing cosmic background radiation at ~3 degrees above absolute zero!\n\nSolar panels generate ~250 W/m^2, so you should expect them to",
+   "text": "Yeah, much easier to cool in space.\n\n~1300 W/m^2 is easily achievable for an aluminum radiator pointed away from the Sun, as it is mostly just seeing cosmic background radiation at ~3 degrees above absolute zero!\n\nSolar panels generate ~250 W/m^2, so you should expect them to have ~5 times the area of the radiator. Most of the mass of the satellite is solar panels.",
    "urls": [],
    "metrics": {
     "likes": 15092,
     "reposts": 873,
     "replies": 792,
     "quotes": 197
-   },
-   "partial": true
+   }
   },
   {
    "id": "2117460692210991403",
@@ -26637,23 +26635,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-03T02:17:36.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117441028756058232",
    "url": "https://x.com/elonmusk/status/2117441028756058232",
    "kind": "repost",
    "text": "There is nothing moderate about James Talarico.\n\nTalarico is a left-wing extremist.\n\nJust listen to him in his own words.\n\nTexas, defeat this radical and elect @KenPaxtonTX!",
    "urls": [],
    "metrics": {
-    "likes": 4196,
-    "reposts": 1136,
-    "replies": 442,
-    "quotes": 24
+    "likes": 12534,
+    "reposts": 3087,
+    "replies": 1435,
+    "quotes": 117
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2114961961741959168/vid/avc1/1920x1080/0FE9PB_U5DHod22e.mp4",
+     "url": "https://video.twimg.com/amplify_video/2114961961741959168/vid/avc1/1280x720/kUZRzoHUMLQbJU29.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2114961961741959168/img/pYNIjmiCiQq1-Vka.jpg",
      "width": 1920,
      "height": 1080,
@@ -26674,23 +26671,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-03T02:16:25.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117440734119039353",
    "url": "https://x.com/elonmusk/status/2117440734119039353",
    "kind": "repost",
    "text": "Steven Bartlett asks James Talarico how Texas chases “equality” without chasing off figures like @ElonMusk.\n\nTalarico’s answer: Musk’s net worth is a “spiritual sickness,” and the rich should pay something closer to the 1950s rate of 90%.\n\nBARTLETT: “What would you have done to stop [Elon from becoming a trillionaire]?”\n\nTALARICO: “We at one point in this country, we had, I think it was in the 1950s, had a top marginal tax rate of 90%. I don’t think it needs to be that high, but we used to have a political system and an economic system that more fairly distributed the fruits of our labor.”\n\n“And I think the thing that really upsets people, particularly about the Elon example, is that Tesla was successful because of taxpayer dollars, right? Tesla got investment from the federal government, which is why it has been so successful.”\n\nCONTEXT: The taxpayer dollars Tesla received were a LOAN from the Department of Energy in 2010. Ford got $5,900,000,000, and Nissan got $1,400,000,000 from the same program.\n\nBut Tesla did something those automakers hadn’t. It repaid the full $465,000,000 it had borrowed, with interest, 9 years ahead of schedule, becoming the first automaker in the program to pay its loan back in full.",
    "urls": [],
    "metrics": {
-    "likes": 5655,
-    "reposts": 1351,
-    "replies": 683,
-    "quotes": 132
+    "likes": 13853,
+    "reposts": 2756,
+    "replies": 1557,
+    "quotes": 314
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117345700673445888/vid/avc1/1920x1080/ouSfGxY5C1ZJ5vGP.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117345700673445888/vid/avc1/1280x720/sfndN2hQKJahARnP.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117345700673445888/img/grb2S-PlKRBMi4Lw.jpg",
      "width": 1920,
      "height": 1080,
@@ -26898,7 +26894,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2117284064025772032/vid/avc1/3840x2160/Ir2RKulro-fYPEch.mp4",
+      "url": "https://video.twimg.com/amplify_video/2117284064025772032/vid/avc1/1280x720/LDb61XZVhQhz1y9N.mp4",
       "poster": "https://pbs.twimg.com/media/HWIcU5pbIAIQ15R.jpg",
       "width": 1280,
       "height": 720,
@@ -27169,10 +27165,10 @@
    "text": "Last week our marketing team aggressively started using Grok Bot.\n\nWhat I'm seeing 👇️\n\n1/ No more agencies. Agencies for webflow, design, motion, etc will move in-house (via managing agents that do the same work).\n\n2/ Demand-gen programs fully run by agents. This means paid search, paid social, AEO/SEO.\n\n3/ A system having MCP access is no longer the constraint because of browser use. Agents just log in and use the same products.\n\n4/ ICs need to become great at management. Managing a fleet of agents is more similar to managing people than it is delegating tasks to Claude. Everyone needs manager training.\n\nWe're going to see an explosion of usage in the next two months.",
    "urls": [],
    "metrics": {
-    "likes": 228,
-    "reposts": 15,
-    "replies": 35,
-    "quotes": 7
+    "likes": 369,
+    "reposts": 18,
+    "replies": 71,
+    "quotes": 11
    },
    "partial": true,
    "ref": {
@@ -27309,23 +27305,22 @@
    "username": "mattyp",
    "name": "matt palmer",
    "created_at": "2026-11-02T17:07:47.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117302664799396177",
    "url": "https://x.com/mattyp/status/2117302664799396177",
    "kind": "post",
-   "text": "What's New in Grok Bot\n\n00:14 Shopping cards\n00:27 Product pages\n00:39 Order tracking\n00:53 Payments\n01:33 Custom modes\n01:52 Team Bot logins and setup\n02:09 Share and find Team Bots\n02:51 Connector asks in Slack\n03:12 Contacts in Vault\n03:31 Rapid fire https://t.co/HvmfEtHZ1K",
+   "text": "What's New in Grok Bot\n\n00:14 Shopping cards\n00:27 Product pages\n00:39 Order tracking\n00:53 Payments\n01:33 Custom modes\n01:52 Team Bot logins and setup\n02:09 Share and find Team Bots\n02:51 Connector asks in Slack\n03:12 Contacts in Vault\n03:31 Rapid fire",
    "urls": [],
    "metrics": {
-    "likes": 2578,
-    "reposts": 171,
-    "replies": 276,
-    "quotes": 71
+    "likes": 3563,
+    "reposts": 252,
+    "replies": 385,
+    "quotes": 98
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117284064025772032/vid/avc1/3840x2160/Ir2RKulro-fYPEch.mp4",
+     "url": "https://video.twimg.com/amplify_video/2117284064025772032/vid/avc1/1280x720/LDb61XZVhQhz1y9N.mp4",
      "poster": "https://pbs.twimg.com/media/HWIcU5pbIAIQ15R.jpg",
      "width": 1280,
      "height": 720,
@@ -27437,10 +27432,10 @@
    "text": "@shaunmmaguire @uncovered_alpha Future super intelligence compute will obviously be overwhelmingly in space.\n\nBy “overwhelmingly”, I mean that it will round up to 100%!\n\nYou have to be an utter moron not to realize this.",
    "urls": [],
    "metrics": {
-    "likes": 11033,
-    "reposts": 904,
-    "replies": 1149,
-    "quotes": 222
+    "likes": 13550,
+    "reposts": 1128,
+    "replies": 1365,
+    "quotes": 290
    },
    "partial": true,
    "ref": {
@@ -27457,8 +27452,8 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-02T15:08:54.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117193343482368088",
    "url": "https://x.com/elonmusk/status/2117272748112154651",
    "reply_to": {
     "id": "2117262255603798073",
@@ -27468,12 +27463,11 @@
    "text": "@shaunmmaguire @uncovered_alpha Future super intelligence compute will obviously be overwhelmingly in space.\n\nBy “overwhelmingly”, I mean that it will round up to 100%!\n\nYou have to be an utter moron not to realize this.",
    "urls": [],
    "metrics": {
-    "likes": 11033,
-    "reposts": 904,
-    "replies": 1149,
-    "quotes": 222
-   },
-   "partial": true
+    "likes": 13550,
+    "reposts": 1128,
+    "replies": 1365,
+    "quotes": 290
+   }
   },
   {
    "id": "2117257075810316342",
@@ -27572,23 +27566,22 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-02T13:51:55.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2117253374039232553",
    "url": "https://x.com/elonmusk/status/2117253374039232553",
    "kind": "repost",
    "text": "Fuck you if you hate on Elon Musk.\n\nJust imagine this was your son…\n\nALS took away Jake’s ability to use his wheelchair joystick and now, Neuralink lets him control his chair with his mind.\n\nHate on Elon all you want, he’s out here giving people their lives back.",
    "urls": [],
    "metrics": {
-    "likes": 18244,
-    "reposts": 2835,
-    "replies": 600,
-    "quotes": 138
+    "likes": 24692,
+    "reposts": 3879,
+    "replies": 750,
+    "quotes": 184
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2116921571847622656/vid/avc1/1920x1080/cY06PgKtFtRBGPsx.mp4",
+     "url": "https://video.twimg.com/amplify_video/2116921571847622656/vid/avc1/1280x720/g3yGapoGzT73uJ9O.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2116921571847622656/img/HL1fRAEs2eX5Ra-F.jpg",
      "width": 1920,
      "height": 1080,
@@ -27761,15 +27754,15 @@
    "text": "Introducing GrokBot's first live dashboard for your teams of agent\n\n1 prompt + 2 min + <1% usage = you have the same:\n\n• no more chaos - every team on its own floor of live 3D office\n• see exactly which bot is eating your usage\n• no more \"is it working or dead?\" - every bot shows its status live\n\nhere's guide to setup it:\n\nworks on computer and phone*\n\n1 → paste prompt below into your GrokBot ( that's it ) - it becomes the \"manager\" of your dashboard\n\n2 → it creates your private live channel on ntfy - a free real-time mailbox only your link can read\n\n3 → writes 1 rule into the shared memory of ALL your bots: every time you start, finish, get stuck or need me - send 1 line\n\n4 → it sends your full roster: every bot, its team, its look and its chat link - each team gets its own floor\n\n5 → open the link it gives you - the office reads your channel line\n\n6 → a routine resends roster + usage per bot on shedule - new bots walk into the office by themselves\n\nall it takes ~2 min for GrokBot...\n\nthe result: you stop opening 15 chats and see your whole AI company work 24/7 - who's busy, who's stuck, who' eating your usage... and can manage them right from office\n\np.s: 1% usage measured on my Super Plan. I'll keep updating dashboard and making it even better, so wait for updates - and tell me what to improve\n\nTry it now, you're welcome. Then read full guide on how use GrokBot below:",
    "urls": [],
    "metrics": {
-    "likes": 2089,
-    "reposts": 247,
-    "replies": 158,
-    "quotes": 36
+    "likes": 2552,
+    "reposts": 287,
+    "replies": 189,
+    "quotes": 46
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2116956847051603968/vid/avc1/2192x1440/FhHYWihLcm5qOjUj.mp4",
+     "url": "https://video.twimg.com/amplify_video/2116956847051603968/vid/avc1/1096x720/tWVhIN0WjFCvj0Mj.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2116956847051603968/img/kE8ZIhz1Fwwo__JV.jpg",
      "width": 2192,
      "height": 1440,
@@ -27832,15 +27825,15 @@
    "text": "wtf is Grok Jarvis.\n\nGrok Jarvis is a Grok Bot plus a Page.\n\nThe bot holds the personality. The Page is the live screen it builds from plain English.\n\nNo code. Two prompts and one fix message.\n\n8 parts that make Grok Jarvis work:\n\n1. The personality\n• Calm, short, precise, a little dry humour\n• Calls you by your name\n• Says what it'll do in one line, does it, reports back in one line\n\n2. The morning brief\n• Say \"Good morning, Jarvis\"\n• Hear what every bot did and what's waiting on you\n• Get the one thing to do first\n\n3. The Systems panel\n• Lists every bot you run with a status light\n• Shows the last thing each one did\n• Mine reads 31 active bots\n\n4. Waiting on you\n• Lines up every decision that needs your yes\n• Approve or Later on each one\n• Ticks off on your screen only, nothing gets sent\n\n5. The voice\n• Reads every answer out loud\n• The glowing core pulses while it speaks\n• The reply types out under the core\n\n6. Quick commands\n• Morning brief, Status, What's waiting, Focus mode\n• Or type a sentence in the command bar\n• Focus mode dims the panels and calms the motion\n\n7. The self-fix\n• My first screen broke: the core was missing\n• I told Jarvis what I saw and pasted the error\n• It fixed its own work and sent a bigger core\n\n8. Its own computer\n• Opens a browser and searches Google for you\n• Reads competitor sites one by one and returns a table\n• Says your rules back first: only read, no forms, no contact\n\nfollow @JulianGoldieSEO for more on Grok Bot.",
    "urls": [],
    "metrics": {
-    "likes": 1662,
-    "reposts": 181,
-    "replies": 123,
-    "quotes": 18
+    "likes": 1914,
+    "reposts": 202,
+    "replies": 143,
+    "quotes": 25
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2116809791519805440/vid/avc1/1920x1080/lu94NEG7XarPWkYo.mp4",
+     "url": "https://video.twimg.com/amplify_video/2116809791519805440/vid/avc1/1280x720/3r-2zIXYan2JaRLS.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2116809791519805440/img/4Kb0TJh9cecC3v3X.jpg",
      "width": 1920,
      "height": 1080,
@@ -27868,15 +27861,15 @@
    "text": "This is INSANE. A huge step for humanity.\n\nGoogle Gemma 4 is a actually running at a Data Center in Space.\n\nRead that again and let that sink in. Congrats project Suncatcher team!",
    "urls": [],
    "metrics": {
-    "likes": 1932,
-    "reposts": 196,
-    "replies": 96,
-    "quotes": 19
+    "likes": 2329,
+    "reposts": 217,
+    "replies": 115,
+    "quotes": 27
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2116214727835828224/vid/avc1/1920x1080/pEIO6vAh51GKep_W.mp4",
+     "url": "https://video.twimg.com/amplify_video/2116214727835828224/vid/avc1/1280x720/zG1J8hKWLBVeO2Wl.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2116214727835828224/img/b4pQhbjRd5EDKtkl.jpg",
      "width": 1920,
      "height": 1080,
@@ -27930,10 +27923,10 @@
    "text": "Try Grok @Bot! You will love it.\n\nWe land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible.",
    "urls": [],
    "metrics": {
-    "likes": 9438,
-    "reposts": 944,
-    "replies": 2501,
-    "quotes": 242
+    "likes": 10951,
+    "reposts": 1189,
+    "replies": 2901,
+    "quotes": 290
    },
    "ref": {
     "id": "2116706033271992754",
@@ -28048,15 +28041,15 @@
    "text": "Google co-founder Larry Page on why he'd give his fortune to Elon instead of to charity:\n\n\"THAT'S A WORTHY GOAL.\"\n\nCharlie Rose: \"Just simply giving it to Elon Musk, because you had confidence that he would change the future.\"\n\nLarry Page: \"He wants to go to Mars to back up humanity, that's a worthy goal, but it's a company.\"\n\nThat was on the TED stage in 2014, when SpaceX hadn't landed a single booster yet.\n\nOne of the richest men on Earth looked at a rocket company and saw the best place to put his money.\n\nCharity spends money once. A company building toward Mars keeps paying it forward.\n\nMars is humanity's backup drive.\n\nVideo: TED / TED2014, \"Where's Google going next?\" Larry Page with Charlie Rose",
    "urls": [],
    "metrics": {
-    "likes": 1927,
-    "reposts": 252,
-    "replies": 14,
-    "quotes": 16
+    "likes": 2301,
+    "reposts": 287,
+    "replies": 39,
+    "quotes": 22
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2116997046918078464/vid/avc1/1080x1920/HDDSPEgt5CQ-7zOo.mp4",
+     "url": "https://video.twimg.com/amplify_video/2116997046918078464/vid/avc1/720x1280/PTkzguB2IAgjZAoG.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2116997046918078464/img/PFMgHudjqyV8n-bU.jpg",
      "width": 1080,
      "height": 1920,
@@ -28569,7 +28562,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2116918065866915840/vid/avc1/1920x1080/-W31F5T1ehqA3gLh.mp4",
+      "url": "https://video.twimg.com/amplify_video/2116918065866915840/vid/avc1/1280x720/jsZ_grltBU12YatZ.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2116918065866915840/img/I2LGEJnXM8K0LRx0.jpg",
       "width": 1920,
       "height": 1080,
@@ -28606,7 +28599,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2116989513356435456/vid/avc1/1920x1088/8OM3w-dWyyzpI_8T.mp4",
+      "url": "https://video.twimg.com/amplify_video/2116989513356435456/vid/avc1/1270x720/brQUXx8wJEXRtfBe.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2116989513356435456/img/gVmqrwClysuVVFvZ.jpg",
       "width": 1920,
       "height": 1088,
@@ -29083,7 +29076,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2072357782624288768/vid/avc1/1920x1080/Zi9CT1XMsSQG9zfe.mp4",
+      "url": "https://video.twimg.com/amplify_video/2072357782624288768/vid/avc1/1280x720/rgozT_QtRBYkrYv9.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2072357782624288768/img/sW-CGsithRE8gZus.jpg",
       "width": 1920,
       "height": 1080,
@@ -30024,7 +30017,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2110409849746141184/vid/avc1/3840x2160/kwBG8sEk-SCTovGp.mp4",
+     "url": "https://video.twimg.com/amplify_video/2110409849746141184/vid/avc1/1280x720/NPo-3s_bEMy4sKp0.mp4",
      "poster": "https://pbs.twimg.com/media/HUm4s_bagAAqm_R.jpg",
      "width": 1280,
      "height": 720,
@@ -30175,7 +30168,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2115605666895470593/vid/avc1/3840x2160/WbJgjTKF5Btdqf3J.mp4",
+     "url": "https://video.twimg.com/amplify_video/2115605666895470593/vid/avc1/1280x720/aBq_aIMjOOELUIHp.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2115605666895470593/img/8_eP-C-EnTVMTYx_.jpg",
      "width": 3840,
      "height": 2160,
@@ -30294,7 +30287,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2115475875122569216/vid/avc1/3840x2160/v5qIS5iJcnND9emk.mp4",
+     "url": "https://video.twimg.com/amplify_video/2115475875122569216/vid/avc1/1280x720/-IiFCsqGL2tfLMlA.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2115475875122569216/img/05QhG1ixlpBhow6m.jpg",
      "width": 3840,
      "height": 2160,
@@ -30302,7 +30295,7 @@
     },
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2115475945687535617/vid/avc1/1920x1080/J017nOLJaAlUVy6Z.mp4",
+     "url": "https://video.twimg.com/amplify_video/2115475945687535617/vid/avc1/1280x720/ZwpEaXpz35xuQ6HU.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2115475945687535617/img/iL0aHe_7d4gDHl_s.jpg",
      "width": 1920,
      "height": 1080,
@@ -30782,7 +30775,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2115106780456058880/vid/avc1/3840x2160/hBpW6beYhcX18P6r.mp4",
+     "url": "https://video.twimg.com/amplify_video/2115106780456058880/vid/avc1/1280x720/f86oIpBOfY-JGwY6.mp4",
      "poster": "https://pbs.twimg.com/media/HVpikbHbYAEdW6V.jpg",
      "width": 1280,
      "height": 720,
@@ -31041,7 +31034,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2114705162262441984/vid/avc1/1080x1920/AesBhokoY10yzgbQ.mp4?tag=16",
+      "url": "https://video.twimg.com/amplify_video/2114705162262441984/vid/avc1/720x1280/40RknEB6gkRDB7CR.mp4?tag=16",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2114705162262441984/img/U5OWyVjPPF0aHE2V.jpg",
       "width": 1080,
       "height": 1920,
@@ -31078,7 +31071,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2114654859832029184/vid/avc1/1080x1920/IXeFYcIrO8wIsC18.mp4",
+      "url": "https://video.twimg.com/amplify_video/2114654859832029184/vid/avc1/720x1280/yxirdHsJB5KXHx2P.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2114654859832029184/img/jkipWTVPkO-HRUdE.jpg",
       "width": 1080,
       "height": 1920,
@@ -31108,7 +31101,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2114442950600015872/vid/avc1/3840x2160/SzLP9oFE1X2Gntq9.mp4",
+     "url": "https://video.twimg.com/amplify_video/2114442950600015872/vid/avc1/1280x720/OyC7nq-wTql26Ek4.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2114442950600015872/img/ZlS2P1zA1XoYpvu9.jpg",
      "width": 3840,
      "height": 2160,
@@ -31116,7 +31109,7 @@
     },
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2114442993151229953/vid/avc1/3840x2160/DoR3jpDynPqBRWDU.mp4",
+     "url": "https://video.twimg.com/amplify_video/2114442993151229953/vid/avc1/1280x720/i30qnNozEbS4sMVM.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2114442993151229953/img/u9-AQorDCh3sesXn.jpg",
      "width": 3840,
      "height": 2160,
@@ -31176,15 +31169,15 @@
    "text": "After an undiagnosed seizure put Wilco's family in a crash & cost him a year of driving, getting his license back didn't feel like enough.\n\nFSD Supervised gave his family something a license alone couldn't: peace of mind",
    "urls": [],
    "metrics": {
-    "likes": 1825,
-    "reposts": 182,
-    "replies": 38,
+    "likes": 1841,
+    "reposts": 185,
+    "replies": 39,
     "quotes": 38
    },
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2113734102436495360/vid/avc1/3840x2160/uTFmG93k-XAqn5ej.mp4",
+     "url": "https://video.twimg.com/amplify_video/2113734102436495360/vid/avc1/1280x720/lEzBeUryoZRgo3f6.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2113734102436495360/img/Pt3x6pOBNlDHFi1i.jpg",
      "width": 3840,
      "height": 2160,
@@ -31220,7 +31213,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2113795120076357632/vid/avc1/2000x2000/iIQh2TNwCHcNh5_H.mp4",
+     "url": "https://video.twimg.com/amplify_video/2113795120076357632/vid/avc1/1080x1080/jo4oi_Wf4cOsvwYN.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2113795120076357632/img/ftp8uhMvz4wwfNsC.jpg",
      "width": 2000,
      "height": 2000,
@@ -31322,7 +31315,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2113730214635208705/vid/avc1/3840x2160/n1R5zk4uTiuFuMI_.mp4",
+     "url": "https://video.twimg.com/amplify_video/2113730214635208705/vid/avc1/1280x720/YG8qhtXdzTL8-BxL.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2113730214635208705/img/B7vr2qQg1GSOTwdY.jpg",
      "width": 3840,
      "height": 2160,
@@ -31351,7 +31344,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2113716259032592384/vid/avc1/1920x1080/uQ9fIn2WHi8Bn54Y.mp4",
+     "url": "https://video.twimg.com/amplify_video/2113716259032592384/vid/avc1/1280x720/plo-8mYl9zZ_m4Ja.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2113716259032592384/img/VaJnG-mAE4BdDEDX.jpg",
      "width": 1920,
      "height": 1080,
@@ -31458,7 +31451,7 @@
     "media": [
      {
       "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2112847115508412416/vid/avc1/3840x2160/zl7kZz9UCY7e8-9-.mp4",
+      "url": "https://video.twimg.com/amplify_video/2112847115508412416/vid/avc1/1280x720/xgq8VapRRLfXEsF8.mp4",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2112847115508412416/img/FarKxRi0vL150Mo-.jpg",
       "width": 3840,
       "height": 2160,
@@ -31605,7 +31598,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2113014645338640384/vid/avc1/3840x2160/bs7Y_lbivZVxowtT.mp4",
+     "url": "https://video.twimg.com/amplify_video/2113014645338640384/vid/avc1/1280x720/J8Q9QpDaL5mv0YXo.mp4",
      "poster": "https://pbs.twimg.com/media/HVLvn-YbAAASJlU.jpg",
      "width": 2048,
      "height": 1152,
@@ -31787,7 +31780,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2112992622977732608/vid/avc1/3840x2160/NcpQzY5Dao0NvXaa.mp4",
+     "url": "https://video.twimg.com/amplify_video/2112992622977732608/vid/avc1/1280x720/s3Zqz8Zc1THd5Gg2.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2112992622977732608/img/L1XQbgPlIxIVEM6C.jpg",
      "width": 3840,
      "height": 2160,
@@ -31823,7 +31816,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2112992722529226752/vid/avc1/1920x1080/Pj0Pze4xLpjvRJgG.mp4",
+     "url": "https://video.twimg.com/amplify_video/2112992722529226752/vid/avc1/1280x720/CM_-XWr2v-MKSHHL.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2112992722529226752/img/3vCQwgTBFW-Svcnq.jpg",
      "width": 1920,
      "height": 1080,
@@ -31865,7 +31858,7 @@
      "media": [
       {
        "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2112944417724358662/vid/avc1/1788x1080/3edybyh0oa2qrE-S.mp4",
+       "url": "https://video.twimg.com/amplify_video/2112944417724358662/vid/avc1/1192x720/hi8vDV-mQUvCz-Gf.mp4",
        "poster": "https://pbs.twimg.com/amplify_video_thumb/2112944417724358662/img/i7KQli1TNb5R_5yi.jpg",
        "width": 1788,
        "height": 1080,
@@ -32078,7 +32071,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2112252262500446208/vid/avc1/1920x1080/M9VKUr0ZYmdggYB6.mp4",
+     "url": "https://video.twimg.com/amplify_video/2112252262500446208/vid/avc1/1280x720/kXShFF-0PEWewt_F.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2112252262500446208/img/jTcS-yhVQysB-fwO.jpg",
      "width": 1920,
      "height": 1080,
@@ -32206,7 +32199,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2107948628950298624/vid/avc1/1920x1080/tlGtL_3iQXfm7WuO.mp4",
+     "url": "https://video.twimg.com/amplify_video/2107948628950298624/vid/avc1/1280x720/Tej3Ac-o-ivoBavr.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2107948628950298624/img/8oAAyGCZx3U1VURs.jpg",
      "width": 1920,
      "height": 1080,
@@ -32254,7 +32247,7 @@
    "media": [
     {
      "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2105713021926678529/vid/avc1/1920x1080/y88-nZuz70l1gQFa.mp4",
+     "url": "https://video.twimg.com/amplify_video/2105713021926678529/vid/avc1/1280x720/CBL2rSDOrT9PQIqE.mp4",
      "poster": "https://pbs.twimg.com/amplify_video_thumb/2105713021926678529/img/uuWmUCSbqw_XPPtL.jpg",
      "width": 1920,
      "height": 1080,

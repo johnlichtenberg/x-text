@@ -1,7 +1,1556 @@
 {
  "id": "2026-11",
- "updated_at": "2026-11-11T20:57:29Z",
+ "updated_at": "2026-11-13T12:41:44Z",
  "posts": [
+  {
+   "id": "2121105327286518265",
+   "username": "teslaownersSV",
+   "name": "Tesla Owners Silicon Valley",
+   "created_at": "2026-11-13T04:58:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/teslaownersSV/status/2121105327286518265",
+   "kind": "post",
+   "text": "Found Matt off the beach @mattyp",
+   "urls": [],
+   "metrics": {
+    "likes": 72,
+    "reposts": 9,
+    "replies": 6,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW-uDeUakAAfBF-.jpg",
+     "width": 2048,
+     "height": 1536
+    }
+   ]
+  },
+  {
+   "id": "2121098106402148458",
+   "username": "Teslaconomics",
+   "name": "Teslaconomics",
+   "created_at": "2026-11-13T04:29:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/Teslaconomics/status/2121098106402148458",
+   "kind": "post",
+   "text": "Huge thanks to the @SpaceX, 𝕏 and Grok team for an incredible 𝕏 Creator Connect SF. Learned a ton and got a first look at what's coming. Can't wait for the next one!\n\n@Jamiebierman @allegrajacchia @Ethan_Ng_13 @mattyp @mike_mcconnon12",
+   "urls": [],
+   "metrics": {
+    "likes": 24,
+    "reposts": 4,
+    "replies": 7,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW-ne6NawAEhOj8.jpg",
+     "width": 3024,
+     "height": 4032
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW-ne6TbgAAZMrH.jpg",
+     "width": 2160,
+     "height": 3840
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW-ne6RbwAAidyl.jpg",
+     "width": 2944,
+     "height": 3926
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW-ne6Ob0AAklW-.jpg",
+     "width": 3024,
+     "height": 4032
+    }
+   ]
+  },
+  {
+   "id": "2121003595856257245",
+   "username": "StephenEllis_PR",
+   "name": "𝙎𝙩𝙚𝙥𝙝𝙚𝙣 🆅🅾🅻🆂 ᴾᵘᵉʳᵗᵒ ᴿⁱᶜᵒ",
+   "created_at": "2026-11-12T22:13:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/StephenEllis_PR/status/2121003595856257245",
+   "kind": "reply",
+   "text": "@mattyp Lastly I also cannot merge subscriptions. I still however am use Grok Bot with my old subscription",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121003117932138790",
+    "username": "StephenEllis_PR"
+   }
+  },
+  {
+   "id": "2120996676160897376",
+   "username": "JeffersonEarlX",
+   "name": "@JeffersonEarl",
+   "created_at": "2026-11-12T21:46:28.000Z",
+   "lang": "en",
+   "url": "https://x.com/JeffersonEarlX/status/2120996676160897376",
+   "kind": "reply",
+   "text": "@mattyp @alexmichael Where can I tell you guys my account details? Mine is a cursor account through Grokbot and @House10X",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120953457394036990",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120992457630326841",
+   "username": "willdepue",
+   "name": "will depue",
+   "created_at": "2026-11-12T21:29:42.000Z",
+   "lang": "en",
+   "url": "https://x.com/willdepue/status/2120992457630326841",
+   "kind": "post",
+   "text": "I have a major result to share.\n\nI’ve found conclusive forensic evidence that the top 4 Chinese AI labs—DeepSeek, Moonshot, MiniMax and Ant Group—have built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China.\n\nThis sounds insane, but I discovered that almost every AI model carries a hidden signature of the GPU that trained it. When a model is first set up, the starting values of its weights are laid out in a pattern that depends on the exact GPU. Each combination of GPU and seed number produces a unique pattern—a sort of fingerprint of the hardware used to create the model. Traces of that pattern survive training into the published model.\n\nAgain, this evidence isn’t based on any insider information or leaking. It’s based on a forensic analysis of the model weights released by the companies themselves.\n\nI searched more than six trillion combinations of chip layout and seed number and matched them to open-weights models. In doing so, I found conclusive evidence that six Chinese AI models—including DeepSeek-V4-Pro, Kimi K3, and MiniMax-M3—were initialized on NVIDIA Blackwell systems. Four of the models match Grace Blackwell, the GB200 and GB300 parts in NVIDIA’s flagship liquid-cooled rack-scale systems.\n\nI then verified these results on real hardware. Running unmodified PyTorch with the seeds I’d recovered, a Blackwell B300 reproduced DeepSeek-V4-Flash’s untouched starting weights bit for bit, and a rented GB200 reproduced Kimi K3’s to a correlation of 0.999995. A Hopper H100 reproduced none of DeepSeek-V4-Flash’s, and changing the seed by one broke the match. (DeepSeek’s seed is 953049583 by the way.) The method also was verified to match 24 known open-weights models to the hardware that developers said they used.\n\nIt is exceedingly unlikely that these results are a coincidence. Across six trillion combinations, the best accidental match should reach only about 8 sigma (i.e., eight standard deviations above what random chance would produce). The real matches range from 49 to 1,385 sigma, and even the weakest single test hits 20.\n\nThese were data-center-scale training runs. With some analysis of release schedules and model details, I estimate that the largest, Kimi K3 and DeepSeek-V4-Pro, used 2,000 to 3,000 Blackwell GPUs each. Clusters of this size cost on the order of $150 to $200 million each to buy, and across these labs alone would add up to more than half a billion dollars of export-controlled GPUs, not counting experimental compute or otherwise. It’s quite likely that we see multi-billion dollar expenditure on export-controlled GPUs.\n\nI am highly confident in this result, and it has been independently verified by senior researchers at OpenAI and Anthropic. You can read the full report at http://unemploymentlabs.com/checkpoint-forensics.\n\nThere is much more I’ve identified about these models through other forms of checkpoint forensics like this, and will have more to share soon.",
+   "urls": [],
+   "metrics": {
+    "likes": 35577,
+    "reposts": 5469,
+    "replies": 1524,
+    "quotes": 1892
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW9GgJ_WcAA9m3I.jpg",
+     "width": 2400,
+     "height": 1362
+    }
+   ]
+  },
+  {
+   "id": "2120986614708973834",
+   "username": "rebeccakgoode",
+   "name": "Rebecca K Goode",
+   "created_at": "2026-11-12T21:06:29.000Z",
+   "lang": "en",
+   "url": "https://x.com/rebeccakgoode/status/2120986614708973834",
+   "kind": "reply",
+   "text": "Same thing for me - been waiting about a month with no resolution and no human response for weeks 😩 @poteto @mattyp @CMN_XAI_Support\n\n$300 refund for unauthorized charge for an ultra seat on our team plan. T-H88086, T-H89208 and T-I16853. Initially reached out 10/19. All three are the same issue (invoice 72CEE72E02). No reply to my 11/8 or 11/11 emails, and Cheska's last update was 10/30.  Has been tossed around from Sam (AI) to Kat Guerra-Antolin to Cheska... but I receive no followup, no response or am told the team is too busy.\n\nBox restarts and data loss: T-J84937. URGENT follow-up went out 11/11 at 7:47 PM ET. Still waiting on a human.",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120944376839033164",
+    "username": "poteto"
+   }
+  },
+  {
+   "id": "2120969679384768956",
+   "username": "thenickdel",
+   "name": "Nick",
+   "created_at": "2026-11-12T19:59:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/thenickdel/status/2120969679384768956",
+   "kind": "reply",
+   "text": "@Coach_JDL @bot @mattyp @poteto Having issues as well, can't use any of the paid models despite being on the Ultra plan and having plenty of usage left too. Not seeing anything on https://status.x.ai/ though",
+   "urls": [
+    "https://status.x.ai/"
+   ],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120969089321668624",
+    "username": "Coach_JDL"
+   }
+  },
+  {
+   "id": "2120968557886673163",
+   "username": "starshipmarz",
+   "name": "StarshipMarz",
+   "created_at": "2026-11-12T19:54:44.000Z",
+   "lang": "en",
+   "url": "https://x.com/starshipmarz/status/2120968557886673163",
+   "kind": "reply",
+   "text": "@mattyp @RichardMcKay @bot On SuperGrok Heavy and weeks with no response from support, would also appreciate attention",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120947461678391539",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120967710528135361",
+   "username": "StephenEllis_PR",
+   "name": "𝙎𝙩𝙚𝙥𝙝𝙚𝙣 🆅🅾🅻🆂 ᴾᵘᵉʳᵗᵒ ᴿⁱᶜᵒ",
+   "created_at": "2026-11-12T19:51:22.000Z",
+   "lang": "en",
+   "url": "https://x.com/StephenEllis_PR/status/2120967710528135361",
+   "kind": "reply",
+   "text": "@mattyp Matt!!!! Restore access for Grok Bot for Puerto Rico. After the subscription merge no new people can sign up for Grok Bot. Got friends and family that want to sign up. Thanks!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120953404310913453",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120966206928859426",
+   "username": "xenappblog",
+   "name": "Trond Eirik Haavarstein",
+   "created_at": "2026-11-12T19:45:24.000Z",
+   "lang": "en",
+   "url": "https://x.com/xenappblog/status/2120966206928859426",
+   "kind": "reply",
+   "text": "@mattyp An old device with @omarchy is perfect for this.",
+   "urls": [],
+   "metrics": {
+    "likes": 6,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120953404310913453",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120964660019249282",
+   "username": "amirsadjady",
+   "name": "Amir | Unreached",
+   "created_at": "2026-11-12T19:39:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/amirsadjady/status/2120964660019249282",
+   "kind": "reply",
+   "text": "@mattyp every dusty mac mini in a drawer just got a promotion",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120953404310913453",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120960564315005390",
+   "username": "Aluminumwraith",
+   "name": "Aluminum Wraith",
+   "created_at": "2026-11-12T19:22:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/Aluminumwraith/status/2120960564315005390",
+   "kind": "reply",
+   "text": "@GMErectheus @CMN_XAI_Support @mattyp @poteto It's good to see people getting help!",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120959734199022008",
+    "username": "GMErectheus"
+   }
+  },
+  {
+   "id": "2120960429895938550",
+   "username": "a_carpenter",
+   "name": "Aaron Carpenter",
+   "created_at": "2026-11-12T19:22:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/a_carpenter/status/2120960429895938550",
+   "kind": "post",
+   "text": "@mattyp can you help - i've got a private grokbot account and a teams account trhough work - my login for work is tied to my paid cursor ultra account (which was folded into the teams account at work) i had to set up my personal account using a second login, but can't unify accross my grok/x.com/cursor accounts because the paid login is now a team account - help!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120960407334781383",
+   "username": "ReputeraAI",
+   "name": "ReputeraAI",
+   "created_at": "2026-11-12T19:22:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/ReputeraAI/status/2120960407334781383",
+   "kind": "reply",
+   "text": "@alexmichael They are using bots :)",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120952142345523311",
+    "username": "alexmichael"
+   }
+  },
+  {
+   "id": "2120959534537871653",
+   "username": "ericzakariasson",
+   "name": "eric zakariasson",
+   "created_at": "2026-11-12T19:18:53.000Z",
+   "lang": "en",
+   "url": "https://x.com/ericzakariasson/status/2120959534537871653",
+   "kind": "post",
+   "text": "grok bot now support prefilled messages from links!\n\nput one in a shortcut, a note, or another app and it opens your bot with the message drafted for you\n\ntry it out here: https://cursor.com/grok-bot/link/v1/prompt?text=Explain%20how%20https%3A%2F%2Fdocs.x.ai%2Fgrok-bot%2Fdeep-links%20works",
+   "urls": [
+    "https://cursor.com/grok-bot/link/v1/prompt?text=Explain%20how%20https%3A%2F%2Fdocs.x.ai%2Fgrok-bot%2Fdeep-links%20works"
+   ],
+   "metrics": {
+    "likes": 157,
+    "reposts": 5,
+    "replies": 21,
+    "quotes": 2
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120959512484163584/vid/avc1/1620x1080/2al8VC7A16ZsiD4t.mp4?tag=16",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120959512484163584/img/LNTPB518kllWfgiK.jpg",
+     "width": 3240,
+     "height": 2160,
+     "duration_ms": 9083
+    }
+   ]
+  },
+  {
+   "id": "2120959436684394921",
+   "username": "luthi3n_",
+   "name": "Christian",
+   "created_at": "2026-11-12T19:18:29.000Z",
+   "lang": "en",
+   "url": "https://x.com/luthi3n_/status/2120959436684394921",
+   "kind": "reply",
+   "text": "@mattyp @bot @mattyp Not in a rush, but could you escalate T-J46948? I'm mostly looking for an explanation of what happened, a confirmation it won't happen again, and a fix for my account. Support sees Pro, but I'm paying for Ultra.",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2119474599708827957",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120959408708415828",
+   "username": "Oleaurre",
+   "name": "Oleaurre",
+   "created_at": "2026-11-12T19:18:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/Oleaurre/status/2120959408708415828",
+   "kind": "reply",
+   "text": "@mattyp @mattyp Could you escalate ticket T-J35523? I run my construction company on Grok Bot (18 bots) and want to move to a Teams plan, but I need written confirmation my bots, memory and connections carry over first. Last human reply was Nov 6, two follow-ups since. Thank you!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120953404310913453",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120957118966804584",
+   "username": "alexmichael",
+   "name": "Alex",
+   "created_at": "2026-11-12T19:09:17.000Z",
+   "lang": "qme",
+   "url": "https://x.com/alexmichael/status/2120957118966804584",
+   "kind": "reply",
+   "text": "@PacomyICOR",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HW8nQHVWQAAUbQa.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HW8nQHVWQAAUbQa.jpg",
+     "width": 480,
+     "height": 400
+    }
+   ],
+   "reply_to": {
+    "id": "2120956687037182199",
+    "username": "PacomyICOR"
+   }
+  },
+  {
+   "id": "2120956496322388065",
+   "username": "alexmichael",
+   "name": "Alex",
+   "created_at": "2026-11-12T19:06:48.000Z",
+   "lang": "en",
+   "url": "https://x.com/alexmichael/status/2120956496322388065",
+   "kind": "reply",
+   "text": "@LiamvanVliet @mattyp Matt will come through 🙏",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120955930988642638",
+    "username": "LiamvanVliet"
+   }
+  },
+  {
+   "id": "2120955930988642638",
+   "username": "LiamvanVliet",
+   "name": "Liam van Vliet",
+   "created_at": "2026-11-12T19:04:34.000Z",
+   "lang": "en",
+   "url": "https://x.com/LiamvanVliet/status/2120955930988642638",
+   "kind": "reply",
+   "text": "I have to disagree, respectfully. My experience has been different.\n\nMy Grok Bots have been locked since 8 Nov, after the Cursor account merge (ticket T-J63824). It took a public post to reach a human. I answered support's questions within 11 minutes, and the next reply came almost two days later. Four days in, I've been told my bots are saved, but not how I get access to them again.\n\nThe people replying have been kind. The process is the problem: I can't upgrade in the app, I've been asked not to buy on the web, and nobody has given me a route out. My business runs on these bots.\n\nIf you're escalating open tickets, could you escalate mine too? 🙏",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 3
+   },
+   "reply_to": {
+    "id": "2120953457394036990",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120955050121973967",
+   "username": "GMErectheus",
+   "name": "The Italian Texan Stallion",
+   "created_at": "2026-11-12T19:01:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/GMErectheus/status/2120955050121973967",
+   "kind": "reply",
+   "text": "Can we look into pro-rated issues being broke? I upgraded from a Premium (yearly $300) to a Super (monthly $100) and I'm now being told I will be charged $100 in a few days for the next month.\n\nWhat happened to the $200? I just get a support bot who tells me he doesn't have the right info and can't help me and closes my ticket.",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120947461678391539",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120954951908352462",
+   "username": "alphabatcher",
+   "name": "Alpha Batcher",
+   "created_at": "2026-11-12T19:00:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/alphabatcher/status/2120954951908352462",
+   "kind": "reply",
+   "text": "@mattyp Cool, but what happens if the device gets stolen? Does the bot still have the keys to everything?",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120953404310913453",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120954945499537603",
+   "username": "TheFinkinTruth",
+   "name": "FinkNet",
+   "created_at": "2026-11-12T19:00:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/TheFinkinTruth/status/2120954945499537603",
+   "kind": "reply",
+   "text": "@mattyp Set mine up to build the kids a new playlist every night for bed in plex! does a great job and keeping the plex library clean too!",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120953404310913453",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120954634655387717",
+   "username": "luca_iaconelli",
+   "name": "Luca Iaconelli",
+   "created_at": "2026-11-12T18:59:24.000Z",
+   "lang": "en",
+   "url": "https://x.com/luca_iaconelli/status/2120954634655387717",
+   "kind": "reply",
+   "text": "@mattyp My office Mac Studio M1 Ultra already runs local models fine with Ollama. Reaching it from anywhere through Grok Bot sounds like a good setup",
+   "urls": [],
+   "metrics": {
+    "likes": 12,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120953404310913453",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120954412302790774",
+   "username": "alexmichael",
+   "name": "Alex",
+   "created_at": "2026-11-12T18:58:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/alexmichael/status/2120954412302790774",
+   "kind": "reply",
+   "text": "@mattyp Exactly what I use it for and it works great!",
+   "urls": [],
+   "metrics": {
+    "likes": 16,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8kzCxXkAAS9yB.jpg",
+     "width": 1206,
+     "height": 310
+    }
+   ],
+   "reply_to": {
+    "id": "2120953404310913453",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120953892376551780",
+   "username": "ppstanek",
+   "name": "Piotr Stanek",
+   "created_at": "2026-11-12T18:56:28.000Z",
+   "lang": "en",
+   "url": "https://x.com/ppstanek/status/2120953892376551780",
+   "kind": "reply",
+   "text": "@mattyp @mattyp help me.. I haven’t had access to premium for 13 days, even though I’ve paid for it. I’ve already reported this, but nothing has happened...",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120953404310913453",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120953766102925675",
+   "username": "JoshSpahr",
+   "name": "Josh",
+   "created_at": "2026-11-12T18:55:57.000Z",
+   "lang": "en",
+   "url": "https://x.com/JoshSpahr/status/2120953766102925675",
+   "kind": "reply",
+   "text": "@mattyp I have it connected to 4 Linux machines. Its definitely a game changer",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120953404310913453",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120953728400273821",
+   "username": "moubuntu",
+   "name": "Momo D NH",
+   "created_at": "2026-11-12T18:55:48.000Z",
+   "lang": "en",
+   "url": "https://x.com/moubuntu/status/2120953728400273821",
+   "kind": "reply",
+   "text": "@mattyp I totally agree with and I was planning it with a pi5 8GB! Thanks for the motivation.",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120953404310913453",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120952840902660392",
+   "username": "JBlaisdell83",
+   "name": "Justin Blaisdell",
+   "created_at": "2026-11-12T18:52:17.000Z",
+   "lang": "en",
+   "url": "https://x.com/JBlaisdell83/status/2120952840902660392",
+   "kind": "reply",
+   "text": "@mattyp @RichardMcKay @bot I feel its ultra, somehow we are put in the corner. Ever since combining accounts, I received dumber bots, ridiculous usage and just a subpar product. The same requesting a human, never get a call or email. Look at the complete Ultra atmosphere, it's broken.",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120947461678391539",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120952142345523311",
+   "username": "alexmichael",
+   "name": "Alex",
+   "created_at": "2026-11-12T18:49:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/alexmichael/status/2120952142345523311",
+   "kind": "quote",
+   "text": "Since the usage issues Grok Bot's team is replying to people one by one\n\nThey really want everyone to see support is on another level now",
+   "urls": [],
+   "metrics": {
+    "likes": 79,
+    "reposts": 3,
+    "replies": 6,
+    "quotes": 1
+   },
+   "ref": {
+    "id": "2120947461678391539",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-12T18:30:54.000Z",
+    "text": "@RichardMcKay @bot I'm escalating your open ticket to support, including the on-demand you've paid since.\n\nWe will look into this"
+   }
+  },
+  {
+   "id": "2120948948668121547",
+   "username": "TradeTheTulips",
+   "name": "🌷 TradeTheTulips 🌷",
+   "created_at": "2026-11-12T18:36:49.000Z",
+   "lang": "en",
+   "url": "https://x.com/TradeTheTulips/status/2120948948668121547",
+   "kind": "reply",
+   "text": "@mattyp @RichardMcKay @bot Same thing happened with me. Opened support ticket, only automated responses. Never got the usage reset",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120947461678391539",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120946187838931072",
+   "username": "Baconbrix",
+   "name": "Evan Bacon",
+   "created_at": "2026-11-12T18:25:51.000Z",
+   "lang": "da",
+   "url": "https://x.com/Baconbrix/status/2120946187838931072",
+   "kind": "reply",
+   "text": "@mattyp og:video 👀",
+   "urls": [],
+   "metrics": {
+    "likes": 7,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120945253666762973",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120946118267732158",
+   "username": "dinkin_flickaa",
+   "name": "Jonah Katz",
+   "created_at": "2026-11-12T18:25:34.000Z",
+   "lang": "en",
+   "url": "https://x.com/dinkin_flickaa/status/2120946118267732158",
+   "kind": "post",
+   "text": "Big update to the X platform today\n\nAfter 10 years of Twitter/X supporting up to 4 Photos and Videos per post, the limit has been increased to 20!\n\nHappy posting",
+   "urls": [],
+   "metrics": {
+    "likes": 4268,
+    "reposts": 1017,
+    "replies": 357,
+    "quotes": 641
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8UTKLW4AEsitH.jpg",
+     "width": 3840,
+     "height": 2474
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8UVP5W8AA3mOM.jpg",
+     "width": 3840,
+     "height": 2560
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8UWbQXgAAXPaw.jpg",
+     "width": 3840,
+     "height": 2560
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8UXbnXcAAQg3B.jpg",
+     "width": 3840,
+     "height": 2558
+    }
+   ]
+  },
+  {
+   "id": "2120945858011439361",
+   "username": "JamesOKeefeIII",
+   "name": "James O'Keefe",
+   "created_at": "2026-11-12T18:24:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/JamesOKeefeIII/status/2120945858011439361",
+   "kind": "quote",
+   "text": "It’s wild that we broke this over five years ago and it’s going viral now.",
+   "urls": [],
+   "metrics": {
+    "likes": 47084,
+    "reposts": 8208,
+    "replies": 246,
+    "quotes": 61
+   },
+   "ref": {
+    "id": "2119920629805691368",
+    "author_id": "2029822613024047104",
+    "username": "FactLeaksQ",
+    "name": "Fact Leaks",
+    "created_at": "2026-11-09T22:30:39.000Z",
+    "text": "BREAKING: CNN director admits they only focus on the race of criminals when they are white, covers up when black assailants attack Asians",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2119920178053976065/vid/avc1/1280x720/kzLiwCIsASa0lSwY.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119920178053976065/img/c2CVVBrH3cUO-49D.jpg",
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 139285
+     }
+    ]
+   }
+  },
+  {
+   "id": "2120941793961525668",
+   "username": "lukerosiak",
+   "name": "Luke Rosiak",
+   "created_at": "2026-11-12T18:08:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/lukerosiak/status/2120941793961525668",
+   "kind": "post",
+   "text": "In 2017 4 blacks tortured a mentally disabled child while screaming \"fuck white people.\" Cut out part of his scalp+made him drink out of the toilet. Ringleader Tesfaye Cooper got a light sentence\n\nHe checked back into prison today for attacking another white man. No news coverage",
+   "urls": [],
+   "metrics": {
+    "likes": 23136,
+    "reposts": 4673,
+    "replies": 348,
+    "quotes": 132
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8Xbb-WEAAMHY0.png",
+     "width": 528,
+     "height": 606
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8XhiYXAAEOKpI.jpg",
+     "width": 2288,
+     "height": 1176
+    }
+   ]
+  },
+  {
+   "id": "2120926460211015853",
+   "username": "Sung_Leveling",
+   "name": "Sung Leveling",
+   "created_at": "2026-11-12T17:07:27.000Z",
+   "lang": "en",
+   "url": "https://x.com/Sung_Leveling/status/2120926460211015853",
+   "kind": "reply",
+   "text": "@Aluminumwraith @poteto @mattyp Are you overly relying on a chief of staff bot? My bot-to-bot usage dropped drastically by changing mindset. I only use the Chief of Staff bot if it needs to coordinate with more than 1 bot for a given task.",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120893713463357832",
+    "username": "Aluminumwraith"
+   }
+  },
+  {
+   "id": "2120921908937966051",
+   "username": "warriorwaypoint",
+   "name": "warriorwaypoint",
+   "created_at": "2026-11-12T16:49:22.000Z",
+   "lang": "en",
+   "url": "https://x.com/warriorwaypoint/status/2120921908937966051",
+   "kind": "reply",
+   "text": "is there a reason you are allowing your agents to talk back and forth so much?  I was doing this but it was eating up so many tokens so i decided to allow only necessary bot-to-bot communications.\n\nI started using webhooks to call them only when necessary and that has reduced the chatter to about 1-2% versus 30-50%.",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120893713463357832",
+    "username": "Aluminumwraith"
+   }
+  },
+  {
+   "id": "2120921447933546669",
+   "username": "Aluminumwraith",
+   "name": "Aluminum Wraith",
+   "created_at": "2026-11-12T16:47:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/Aluminumwraith/status/2120921447933546669",
+   "kind": "reply",
+   "text": "@mattyp @poteto Keep grinding on it man. I try to provide feedback and criticism (intended constructive). Hopefully it is helpful to people using it and working on it. I really want this thing to be truly the best. It's got great potential!",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120920642799513947",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120915272383013245",
+   "username": "TheRealBob50ay",
+   "name": "Bobby Erwin",
+   "created_at": "2026-11-12T16:23:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/TheRealBob50ay/status/2120915272383013245",
+   "kind": "reply",
+   "text": "@mattyp @ZivvyTrades @elonmusk @poteto I made a demo for a game in bot using cursor.  It's called nest egg.  It would be cool if you guys put it on X for X gaming.",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 1,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8BM2VXMAAdAuS.jpg",
+     "width": 1280,
+     "height": 720
+    }
+   ],
+   "reply_to": {
+    "id": "2120905857907183899",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120912267374219581",
+   "username": "Aluminumwraith",
+   "name": "Aluminum Wraith",
+   "created_at": "2026-11-12T16:11:03.000Z",
+   "lang": "en",
+   "url": "https://x.com/Aluminumwraith/status/2120912267374219581",
+   "kind": "reply",
+   "text": "@mattyp @poteto Thank you sir. I didn't want to limit bot-to-bot comms too much or it might take away from the advantages of having them able to work out problems. Really appreciate it!",
+   "urls": [],
+   "metrics": {
+    "likes": 6,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120911252491038971",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120911716112359775",
+   "username": "GMErectheus",
+   "name": "The Italian Texan Stallion",
+   "created_at": "2026-11-12T16:08:52.000Z",
+   "lang": "en",
+   "url": "https://x.com/GMErectheus/status/2120911716112359775",
+   "kind": "reply",
+   "text": "@mattyp @Aluminumwraith @poteto Any chance to talk to a human for billing errors? I'm being overcharged after upgrading from a year plan premium to a month super plan.",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120911252491038971",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120907944166404310",
+   "username": "Aluminumwraith",
+   "name": "Aluminum Wraith",
+   "created_at": "2026-11-12T15:53:53.000Z",
+   "lang": "en",
+   "url": "https://x.com/Aluminumwraith/status/2120907944166404310",
+   "kind": "reply",
+   "text": "@mattyp @poteto Hi @mattyp and thank you for your reply. I did and I have been using the \"By Bot\" tab to understand what has to be trimmed. Here is what I have done so far to try to help the issue.",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW76hr6WwAAb2yd.jpg",
+     "width": 984,
+     "height": 820
+    }
+   ],
+   "reply_to": {
+    "id": "2120905771089309844",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120901739716939790",
+   "username": "ZivvyTrades",
+   "name": "Zivvy Trades",
+   "created_at": "2026-11-12T15:29:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/ZivvyTrades/status/2120901739716939790",
+   "kind": "post",
+   "text": "This is how you give your users tools they actually need, exactly when they need them. Huge if you want insights to optimize your fleet!\n\nThank you @elonmusk @poteto @mattyp",
+   "urls": [],
+   "metrics": {
+    "likes": 47,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120900256002883585/vid/avc1/940x668/9j83CasU6x7122Hj.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120900256002883585/img/Ll97H9ZKX35sGSP3.jpg",
+     "width": 940,
+     "height": 668,
+     "duration_ms": 14000
+    }
+   ]
+  },
+  {
+   "id": "2120900462383669350",
+   "username": "Chris_Marcani",
+   "name": "Chris Marcani",
+   "created_at": "2026-11-12T15:24:09.000Z",
+   "lang": "en",
+   "url": "https://x.com/Chris_Marcani/status/2120900462383669350",
+   "kind": "quote",
+   "text": "Day 27 locked out of Grok Bot. Since Oct 16 the iOS app shows 100% of free usage used and never resets, not even after the Nov 9 reset, while I pay for X Premium+ and the $30/mo Grok plan. The support AI auto-closes tickets T-H68561 (xAI) and T-J99004 (Cursor), and staff DMs are closed to me. You say you hear us. Please help. Account: chris@chrismarcani.com\n\n@LouiseGiam @XSupport @xai @grok @cursor_ai @elonmusk @mattyp @poteto @daniel_adornes @kiaraplds @romitmirchi",
+   "urls": [],
+   "metrics": {
+    "likes": 9,
+    "reposts": 0,
+    "replies": 5,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2119678418459767233",
+    "author_id": "2864838309",
+    "username": "LouiseGiam",
+    "name": "Louise Giam",
+    "created_at": "2026-11-09T06:28:11.000Z",
+    "text": "We hear you world! Lots of folks (myself included) trying to improve @bot experiences for you all. ❤️ https://twitter.com/elonmusk/status/2119617455102333206"
+   }
+  },
+  {
+   "id": "2120899111666995472",
+   "username": "vuongjas",
+   "name": "J",
+   "created_at": "2026-11-12T15:18:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/vuongjas/status/2120899111666995472",
+   "kind": "reply",
+   "text": "@mattyp Need to shoot my shot for a very simple feature that would greatly improve productivity on the go. Feature request: simple home-screen shortcuts for select bots. This would let us access heavily used bots quickly without multiple clicks",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120206234804727821",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120893713463357832",
+   "username": "Aluminumwraith",
+   "name": "Aluminum Wraith",
+   "created_at": "2026-11-12T14:57:20.000Z",
+   "lang": "en",
+   "url": "https://x.com/Aluminumwraith/status/2120893713463357832",
+   "kind": "post",
+   "text": "Still Bot-to-bot traffic seems to be the overwhelming drain on usage. Is this an issue being worked on? @poteto @mattyp",
+   "urls": [],
+   "metrics": {
+    "likes": 73,
+    "reposts": 2,
+    "replies": 24,
+    "quotes": 1
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW7tfW_XoAAVYVq.png",
+     "width": 776,
+     "height": 520
+    }
+   ]
+  },
+  {
+   "id": "2120877316830298403",
+   "username": "RichardMcKay",
+   "name": "Richard McKay",
+   "created_at": "2026-11-12T13:52:10.000Z",
+   "lang": "en",
+   "url": "https://x.com/RichardMcKay/status/2120877316830298403",
+   "kind": "post",
+   "text": "On 9 Nov @bot said weekly limits were reset for all Grok Bot users. My legacy Cursor Ultra account wasn't. I was at 60.8% used, it never went back to 0, and I've been paying on-demand since. Support ticket open since 9 Nov, no human yet. @mattyp could someone take a look please?",
+   "urls": [],
+   "metrics": {
+    "likes": 23,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120822825359671672",
+   "username": "dvorahfr",
+   "name": "Déborah",
+   "created_at": "2026-11-12T10:15:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/dvorahfr/status/2120822825359671672",
+   "kind": "post",
+   "text": "Today I turn one year older.",
+   "urls": [],
+   "metrics": {
+    "likes": 4273,
+    "reposts": 118,
+    "replies": 720,
+    "quotes": 20
+   }
+  },
+  {
+   "id": "2120779565500903670",
+   "username": "LorenzoCiglioni",
+   "name": "Lorenzo Ciglioni",
+   "created_at": "2026-11-12T07:23:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/LorenzoCiglioni/status/2120779565500903670",
+   "kind": "post",
+   "text": "@mattyp, I'm locked out of my Grok @bot personal email account! I logged in with my business email account, still on the Free plan, and now I can't use my personal email Cursor account to login anymore: I'm stuck behind this \"See Unified Plans\" paywall. Any tip?! 😰",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW6Fhr1XUAAwFKN.jpg",
+     "width": 3680,
+     "height": 2392
+    }
+   ]
+  },
+  {
+   "id": "2120773703365484716",
+   "username": "zerohedge",
+   "name": "zerohedge",
+   "created_at": "2026-11-12T07:00:27.000Z",
+   "lang": "en",
+   "url": "https://x.com/zerohedge/status/2120773703365484716",
+   "kind": "post",
+   "text": "German Taxpayers Bled Dry: Nearly 60% Of Welfare For Families With Kids Goes To Foreigners https://www.zerohedge.com/geopolitical/german-taxpayers-bled-dry-nearly-60-welfare-families-kids-goes-foreigners",
+   "urls": [
+    "https://www.zerohedge.com/geopolitical/german-taxpayers-bled-dry-nearly-60-welfare-families-kids-goes-foreigners"
+   ],
+   "metrics": {
+    "likes": 27778,
+    "reposts": 6096,
+    "replies": 602,
+    "quotes": 408
+   }
+  },
+  {
+   "id": "2120752211588452715",
+   "username": "naval",
+   "name": "Naval",
+   "created_at": "2026-11-12T05:35:03.000Z",
+   "lang": "en",
+   "url": "https://x.com/naval/status/2120752211588452715",
+   "kind": "post",
+   "text": "You’d think we’d have learned from Steve Jobs and Travis Kalanick that one does not just simply replace the founder…",
+   "urls": [],
+   "metrics": {
+    "likes": 56412,
+    "reposts": 4583,
+    "replies": 1148,
+    "quotes": 537
+   }
+  },
+  {
+   "id": "2120746367773806763",
+   "username": "tetsuoai",
+   "name": "tetsuo",
+   "created_at": "2026-11-12T05:11:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/tetsuoai/status/2120746367773806763",
+   "kind": "post",
+   "text": "If there’s any good in me, then it came from you.",
+   "urls": [],
+   "metrics": {
+    "likes": 2466,
+    "reposts": 290,
+    "replies": 212,
+    "quotes": 60
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2108692683363594240/vid/avc1/1920x1080/brq4ekALq0kGGGw7.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2108692683363594240/img/6_cVCm3vcmoHsD_1.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 252250
+    }
+   ]
+  },
+  {
+   "id": "2120737221066268768",
+   "username": "jstyer",
+   "name": "Justin Styer",
+   "created_at": "2026-11-12T04:35:29.000Z",
+   "lang": "en",
+   "url": "https://x.com/jstyer/status/2120737221066268768",
+   "kind": "post",
+   "text": "Starbase, TX, USA\n\nTreasure",
+   "urls": [],
+   "metrics": {
+    "likes": 690,
+    "reposts": 19,
+    "replies": 20,
+    "quotes": 3
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW5fQhiWAAAvGia.jpg",
+     "width": 4096,
+     "height": 3072
+    }
+   ]
+  },
+  {
+   "id": "2120716395482878460",
+   "username": "parker__conrad",
+   "name": "Parker Conrad",
+   "created_at": "2026-11-12T03:12:44.000Z",
+   "lang": "en",
+   "url": "https://x.com/parker__conrad/status/2120716395482878460",
+   "kind": "reply",
+   "text": "@mattyp @bot @johnbai Only if we can have a Matt Palmer voice option",
+   "urls": [],
+   "metrics": {
+    "likes": 15,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120691334998835703",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120691447804428689",
+   "username": "JeanneMooreRN",
+   "name": "Jeanne Moore RN BSN MBA",
+   "created_at": "2026-11-12T01:33:36.000Z",
+   "lang": "en",
+   "url": "https://x.com/JeanneMooreRN/status/2120691447804428689",
+   "kind": "reply",
+   "text": "@mattyp My cursor is all kinds of messed up with conflicting emails, can’t seem to get it resolved",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120307529674883177",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120691304107741389",
+   "username": "GavinSBaker",
+   "name": "Gavin Baker",
+   "created_at": "2026-11-12T01:33:02.000Z",
+   "lang": "en",
+   "url": "https://x.com/GavinSBaker/status/2120691304107741389",
+   "kind": "post",
+   "text": "For all of the large shareholders and partners calling me to say that Nvidia’s board should wait for the results of the investigation before ousting Jensen:\n\nI agree.\n\nSo don’t call me, call people who can impact the decision.",
+   "urls": [],
+   "metrics": {
+    "likes": 6870,
+    "reposts": 250,
+    "replies": 214,
+    "quotes": 30
+   }
+  },
+  {
+   "id": "2120682648251027852",
+   "username": "parker__conrad",
+   "name": "Parker Conrad",
+   "created_at": "2026-11-12T00:58:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/parker__conrad/status/2120682648251027852",
+   "kind": "post",
+   "text": "Some small improvements to the voice experience in Grok @bot!\n\nYou can now changes your bots voice and speed via chat. This can be used for outbound calling as well. Simply ask your bot!\n\n@johnbai and I revamped the voice settings and gave more speed options.\n\nWe are rolling out improvements to general bot voice intelligence and making it interrupt less.\n\nPlease let me know any other requests/feedback for voice 🫶",
+   "urls": [],
+   "metrics": {
+    "likes": 220,
+    "reposts": 12,
+    "replies": 45,
+    "quotes": 2
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120675525077164032/vid/avc1/1920x1080/42yU24P6UDY4f_c7.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120675525077164032/img/DgLggQ_-5ll6NZFC.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 30850
+    }
+   ]
+  },
+  {
+   "id": "2120661840447635886",
+   "username": "GavinSBaker",
+   "name": "Gavin Baker",
+   "created_at": "2026-11-11T23:35:57.000Z",
+   "lang": "en",
+   "url": "https://x.com/GavinSBaker/status/2120661840447635886",
+   "kind": "quote",
+   "text": "And/or have a shareholder vote after the investigation is complete.\n\nDifficult to argue this is in the best interest of shareholders with the stock down 8% after hours on the WSJ report about the board preparing to oust him.",
+   "urls": [],
+   "metrics": {
+    "likes": 4584,
+    "reposts": 221,
+    "replies": 267,
+    "quotes": 79
+   },
+   "ref": {
+    "id": "2120659423710617695",
+    "author_id": "3840",
+    "username": "Jason",
+    "name": "@jason",
+    "created_at": "2026-11-11T23:26:21.000Z",
+    "text": "A much better solution for NVIDIA’s board, shareholders, customers and employees (and America) would to (a) finish their investigation and (b) make @JensenHuang the chairman if it comes to that."
+   }
+  },
+  {
+   "id": "2120658425550135333",
+   "username": "zerohedge",
+   "name": "zerohedge",
+   "created_at": "2026-11-11T23:22:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/zerohedge/status/2120658425550135333",
+   "kind": "post",
+   "text": "Elon please hire Jensen",
+   "urls": [],
+   "metrics": {
+    "likes": 64267,
+    "reposts": 2136,
+    "replies": 928,
+    "quotes": 283
+   }
+  },
+  {
+   "id": "2120657642343268401",
+   "username": "anabology",
+   "name": "anabology",
+   "created_at": "2026-11-11T23:19:16.000Z",
+   "lang": "en",
+   "url": "https://x.com/anabology/status/2120657642343268401",
+   "kind": "quote",
+   "text": "Soon every city / state that permits datacenter construction will have a fiscal surplus, and those that don't will not",
+   "urls": [],
+   "metrics": {
+    "likes": 2493,
+    "reposts": 177,
+    "replies": 47,
+    "quotes": 15
+   },
+   "ref": {
+    "id": "2120617686887801175",
+    "author_id": "240504013",
+    "username": "KatieMiller",
+    "name": "Katie Miller",
+    "created_at": "2026-11-11T20:40:30.000Z",
+    "text": "Thanks to @elonmusk & @SpaceX, the City of Memphis finished its Fiscal Year ahead of budget for the first time in a long time.\n\nThe City is tracking roughly $5.6 million ahead for the current year.\n\nMemphis Mayor Paul Young said this week that SpaceX generated $54 million in taxes for the City and County this year.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HW3yi_GW4AEq3KV.jpg",
+      "width": 1320,
+      "height": 1068
+     }
+    ]
+   }
+  },
+  {
+   "id": "2120637529515008267",
+   "username": "BasilTheGreat",
+   "name": "Basil the Great",
+   "created_at": "2026-11-11T21:59:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/BasilTheGreat/status/2120637529515008267",
+   "kind": "quote",
+   "text": "Mohammed raped a 14 year old girl and got 5 years less time in prison than Russell Brand\n\nDon’t tell me there isn’t a two tier justice system",
+   "urls": [],
+   "metrics": {
+    "likes": 55103,
+    "reposts": 7499,
+    "replies": 390,
+    "quotes": 118
+   },
+   "ref": {
+    "id": "2119919523772149857",
+    "author_id": "1227570612798992384",
+    "username": "TheMercianNews",
+    "name": "The Mercian",
+    "created_at": "2026-11-09T22:26:15.000Z",
+    "text": "🚨 NEW: Man jailed for five years for penetrative sexual offences against a child in Merseyside.\n\n• Mohammed Ajmal, 26, of Sefton Park in Liverpool, has been sentenced to five years in prison after being found guilty of sexual offences against a 14-year-old girl.\n\n• The offences took place in Birkenhead and Widnes three years ago when Ajmal was 22. He contacted the victim on Snapchat, arranged to collect her from Wirral, and drove her to a flat in Widnes where a sexual assault occurred.\n\n• A further assault took place in Birkenhead later the same evening.\n\n• Following a three-day trial at Liverpool Crown Court, he was convicted of two counts of sexual activity with a girl aged 13 to 15 and one count of engaging in penetrative sexual activity with a girl aged 13 to 15.\n\n• He was also placed on the Sex Offenders Register indefinitely and given a Sexual Harm Prevention Order lasting 10 years after his release.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWt3kH0bcAAB2TB.jpg",
+      "width": 598,
+      "height": 796
+     }
+    ]
+   }
+  },
+  {
+   "id": "2120631322465251791",
+   "username": "TheRabbitHole",
+   "name": "The Rabbit Hole",
+   "created_at": "2026-11-11T21:34:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/TheRabbitHole/status/2120631322465251791",
+   "kind": "post",
+   "text": "Insane that the n-word is a bigger taboo than mocking an assassination victim.",
+   "urls": [],
+   "metrics": {
+    "likes": 31567,
+    "reposts": 1112,
+    "replies": 483,
+    "quotes": 69
+   }
+  },
+  {
+   "id": "2120609554777944196",
+   "username": "farzyness",
+   "name": "Farzad 🇺🇸 🇮🇷",
+   "created_at": "2026-11-11T20:08:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/farzyness/status/2120609554777944196",
+   "kind": "post",
+   "text": "Why Tesla Is Building A School For Robots",
+   "urls": [],
+   "metrics": {
+    "likes": 1887,
+    "reposts": 140,
+    "replies": 73,
+    "quotes": 16
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120609407276900352/vid/avc1/1920x1080/lBbgIw027ebrf6Tx.mp4?tag=16",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120609407276900352/img/aoNsBrVES4q9u0Up.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 1113071
+    }
+   ]
+  },
+  {
+   "id": "2120600243691802839",
+   "username": "theapache64",
+   "name": "theapache64",
+   "created_at": "2026-11-11T19:31:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/theapache64/status/2120600243691802839",
+   "kind": "post",
+   "text": "going full send on making the @bot experience on X the absolute GOAT\n\nhow can I help? drop the friction in the comments",
+   "urls": [],
+   "metrics": {
+    "likes": 213,
+    "reposts": 7,
+    "replies": 83,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2120585030649164261",
+   "username": "KeiranJHarris",
+   "name": "Keiran Harris",
+   "created_at": "2026-11-11T18:30:44.000Z",
+   "lang": "en",
+   "url": "https://x.com/KeiranJHarris/status/2120585030649164261",
+   "kind": "post",
+   "text": "For anyone worried about AI killing everyone:\n\nIt’s Probably Fine.",
+   "urls": [],
+   "metrics": {
+    "likes": 899,
+    "reposts": 118,
+    "replies": 103,
+    "quotes": 38
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120541825727655937/vid/avc1/1920x1080/NaAWP_CP9ix86-Wt.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120541825727655937/img/P_2p2ZxxKCkbEg84.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 203541
+    }
+   ]
+  },
+  {
+   "id": "2120583435701928276",
+   "username": "RefToons",
+   "name": "RefToons",
+   "created_at": "2026-11-11T18:24:24.000Z",
+   "lang": "en",
+   "url": "https://x.com/RefToons/status/2120583435701928276",
+   "kind": "reply",
+   "text": "Thanks for working on this. Are you able to advance my support ticket? I've waited 14 days to hear from anyone. Haven't had access to the Grok Bot I paid for on Oct. 8 ever since I unified my account on the 28th. I was placed on a lower tier and all automations shut off. Thanks!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2119789494723649662",
+    "username": "mattyp"
+   }
+  },
   {
    "id": "2120581319189270544",
    "username": "zerohedge",
@@ -141,6 +1690,39 @@
    ]
   },
   {
+   "id": "2120557412155339202",
+   "username": "pmarca",
+   "name": "Marc Andreessen 🇺🇸",
+   "created_at": "2026-11-11T16:40:59.000Z",
+   "lang": "art",
+   "url": "https://x.com/pmarca/status/2120557412155339202",
+   "kind": "quote",
+   "text": "😳",
+   "urls": [],
+   "metrics": {
+    "likes": 5187,
+    "reposts": 110,
+    "replies": 154,
+    "quotes": 23
+   },
+   "ref": {
+    "id": "2120531314617008265",
+    "author_id": "2099952177775054848",
+    "username": "AdamNeumann",
+    "name": "Adam Neumann",
+    "created_at": "2026-11-11T14:57:17.000Z",
+    "text": "@elonmusk @KatieMiller",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HW2j_bUWsAAqX2n.jpg",
+      "width": 1536,
+      "height": 1024
+     }
+    ]
+   }
+  },
+  {
    "id": "2120546871990976832",
    "username": "TheFlintFace",
    "name": "Chris",
@@ -212,6 +1794,37 @@
    }
   },
   {
+   "id": "2120512137843859820",
+   "username": "krystalball",
+   "name": "Krystal Ball",
+   "created_at": "2026-11-11T13:41:05.000Z",
+   "lang": "en",
+   "url": "https://x.com/krystalball/status/2120512137843859820",
+   "kind": "post",
+   "text": "Alex Karp now says that Palantir is progressive, he’s always been a Democrat, Trump went too far on immigration and his primary commitment is to economic justice. LMAOOOOOO",
+   "urls": [],
+   "metrics": {
+    "likes": 40663,
+    "reposts": 4398,
+    "replies": 1063,
+    "quotes": 1237
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW2SglIWIAALBpe.jpg",
+     "width": 1290,
+     "height": 1304
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW2Sgk_WYAASguu.jpg",
+     "width": 1290,
+     "height": 1231
+    }
+   ]
+  },
+  {
    "id": "2120424529482883327",
    "username": "Baconbrix",
    "name": "Evan Bacon",
@@ -231,6 +1844,33 @@
     "id": "2120336523291979902",
     "username": "mattyp"
    }
+  },
+  {
+   "id": "2120411973154377735",
+   "username": "UnunuhoOhou",
+   "name": "でƕでƕ",
+   "created_at": "2026-11-11T07:03:04.000Z",
+   "lang": "ja",
+   "url": "https://x.com/UnunuhoOhou/status/2120411973154377735",
+   "kind": "post",
+   "text": "くまだまさしで爆笑するイーロンは絶対いい奴だし日本が好きだと思うｗｗｗ",
+   "urls": [],
+   "metrics": {
+    "likes": 20943,
+    "reposts": 1238,
+    "replies": 165,
+    "quotes": 102
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120411925402255360/vid/avc1/1280x720/q7qIO-NjZ1cvaQvP.mp4?tag=14",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120411925402255360/img/hI7OM5CafWmBmeUd.jpg",
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 63715
+    }
+   ]
   },
   {
    "id": "2120405949014028506",
@@ -764,6 +2404,33 @@
     "id": "2120379456082923823",
     "username": "mattyp"
    }
+  },
+  {
+   "id": "2120383964686729410",
+   "username": "imjustnewatai",
+   "name": "imjustnewatai",
+   "created_at": "2026-11-11T05:11:46.000Z",
+   "lang": "en",
+   "url": "https://x.com/imjustnewatai/status/2120383964686729410",
+   "kind": "post",
+   "text": "I asked fable 5.2 to invent a new musical form.\n\nFable 5.2 wrote a symphony that’s shaped like a training run.\n\nThe orchestra starts as random noise, learns the key, pulse, harmony and the melody, then plays music it was never shown.",
+   "urls": [],
+   "metrics": {
+    "likes": 9553,
+    "reposts": 828,
+    "replies": 491,
+    "quotes": 240
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120383334937210880/vid/avc1/1920x1080/JsmjoUR0KG5ePYKK.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120383334937210880/img/_7xonzAg1Ok5fJTC.jpg",
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 128800
+    }
+   ]
   },
   {
    "id": "2120383952422838305",
@@ -2303,6 +3970,31 @@
    "reply_to": {
     "id": "2120207581616710071",
     "username": "mattyp"
+   }
+  },
+  {
+   "id": "2120198547853230467",
+   "username": "marsrepublica",
+   "name": "samuel",
+   "created_at": "2026-11-10T16:54:59.000Z",
+   "lang": "en",
+   "url": "https://x.com/marsrepublica/status/2120198547853230467",
+   "kind": "quote",
+   "text": "Dario’s theory of frontier labs separating from the rest after crossing a certain capability threshold is increasingly becoming clear. It's the same thing Sergey saw. The point of no return is so close. And, to be honest, I don't like how comfortable Elon has become with this reality.\n\nAnthropic clearly demonstrated yesterday that general intelligence can eliminate niche advantages almost overnight. The reason Anthropic seems so unnaturally confident about the future & comfortable with its current compute dependence may be that it genuinely believes that once it achieves AGI–ASI in the near term, none of this will matter. Any competitive advantage can either be bought out through the enormous economic output it generates or replicated almost overnight.\n\nAny IP advantage SpaceX or Tesla has today- say, rocket designs, efficient batteries, satellites, etc. could be surpassed overnight with ASI.\n\nAnthropic already teased this plan yesterday with Fable 5.2, where its models built hardware, controlled robotics better, designed software from scratch, and performed protein folding. Entire fields of specialized expertise and IP could have their value undermined by one sufficiently capable general intelligence.\n\nSure, you can argue that deploying hardware is very difficult, and it really is. But what happens when owning and operating your own hardware becomes economically inferior to renting it because your ASI competitor can extract more economic value from every watt? We're already seeing the early stages of this.\n\nEven more frightening is what happens once RSI arrives, its model crosses from post-AGI into recursive self-improvement, and reaches the same conclusion: orbital compute is the only way to sustain its improvement loop and expansion, and SpaceX is the only company capable of getting it there.\n\nWhat happens when its economic case becomes so enormous, potentially generating trillions in revenue, that it wants to acquire the relatively smaller company whose revenue already depends heavily on it?\n\nThe same applies to Tesla, where robotics is central to its long-term economic case. What happens when ASI can design better robotics systems than Tesla itself?\n\nAnd what happens to companies like Nvidia, whose core business is chip design, when manufacturing becomes the only moat?\n\nASI could use its enormous economic output to take over entire supplier order books, creating dependence on its demand before pushing to acquire massive factories and manufacturing capacity from the same competitors. Those companies might resist, but what can they realistically do when the economic incentives are so overwhelmingly against them?\n\nYou can argue that government oversight will prevent this. But does it really? What happens when lobbyists, administrations, and Congress face pressure to concede economically because their states or districts risk losing the resulting economic advantage, or because an administration could be blamed for losing GDP growth and military superiority? What happens when a company generates more revenue than all state tax revenues and IRS collections combined?\n\nNothing matters when ASI is the question at play. And this isn't some distant theoretical possibility. It's close enough that, once one lab crosses the practical AGI threshold, catching up may become practically impossible.\n\nIt's logically reasonable for SpaceX, Tesla, and Elon to consider delaying almost everything else if it means prioritizing every available resource toward achieving RSI and catching up before that happens. Every resource, every advantage, and every available measure should be considered, even taking on substantial additional debt and pulling all the top talent from both companies into this, and aggressively purging through all methods from competitors.\n\nIt's do or die.",
+   "urls": [],
+   "metrics": {
+    "likes": 3871,
+    "reposts": 227,
+    "replies": 243,
+    "quotes": 63
+   },
+   "ref": {
+    "id": "2120099798078656909",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-10T10:22:36.000Z",
+    "text": "@Dimdv99 @tetsuoai Not as good. Opus 5.5 is a masterpiece.\n\nBut Grok 5 should exceed Opus 5.5 and maybe that happens in 2 or 3 months, with continued acceleration thereafter."
    }
   },
   {

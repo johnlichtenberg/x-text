@@ -1,32 +1,32 @@
 {
- "updated_at": "2026-11-13T05:07:59Z",
- "post_count": 952,
+ "updated_at": "2026-11-13T12:39:23Z",
+ "post_count": 1086,
  "accounts": 11,
  "last_run": {
-  "status": "skipped",
-  "at": "2026-11-13T05:17:21Z",
-  "new_posts": 0
+  "status": "new",
+  "at": "2026-11-13T12:41:44Z",
+  "new_posts": 134
  },
  "shards": [
   {
    "id": "2026-11-p1",
    "file": "shards/2026-11-p1.json",
    "count": 400,
-   "newest_id": "2120613346596761630",
-   "oldest_id": "2119495070340845943"
+   "newest_id": "2121174767562551693",
+   "oldest_id": "2119783688489836976"
   },
   {
    "id": "2026-11-p2",
    "file": "shards/2026-11-p2.json",
    "count": 400,
-   "newest_id": "2119494862253035701",
-   "oldest_id": "2117040223477743684"
+   "newest_id": "2119783606063378694",
+   "oldest_id": "2117995905525907769"
   },
   {
    "id": "2026-11-p3",
    "file": "shards/2026-11-p3.json",
-   "count": 50,
-   "newest_id": "2117038135989207125",
+   "count": 184,
+   "newest_id": "2117995339320070525",
    "oldest_id": "2116685766273413157"
   },
   {
@@ -41,10 +41,17 @@
   {
    "id": "2026-11",
    "file": "parents/2026-11.json",
-   "count": 109,
-   "newest_id": "2120581319189270544",
+   "count": 180,
+   "newest_id": "2121105327286518265",
    "oldest_id": "2118954119134359767"
+  },
+  {
+   "id": "2026-09",
+   "file": "parents/2026-09.json",
+   "count": 1,
+   "newest_id": "2102429084928381263",
+   "oldest_id": "2102429084928381263"
   }
  ],
- "version": "2070d087a5c49b7da9e15ba6af6b954d7e9dee6f21db610445c962a61c4903cc"
+ "version": "5e82a817ec00c0cb0f4b1664ccc835034ce0921e4c14b5d203dd9119137b94b0"
 }

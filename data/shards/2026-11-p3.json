@@ -1,7 +1,801 @@
 {
  "id": "2026-11-p3",
- "updated_at": "2026-11-13T12:39:23Z",
+ "updated_at": "2026-11-13T16:53:00Z",
  "posts": [
+  {
+   "id": "2118054007579296069",
+   "author_id": "2755860644",
+   "username": "mntruell",
+   "name": "Michael Truell",
+   "created_at": "2026-11-04T18:53:21.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mntruell/status/2118054007579296069",
+   "kind": "quote",
+   "text": "Ask Bot to schedule appointments, cancel subscriptions, or coordinate with colleagues over the phone. https://t.co/rjyeMtRRkz",
+   "urls": [],
+   "metrics": {
+    "likes": 1002,
+    "reposts": 48,
+    "replies": 80,
+    "quotes": 5
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118043939592942052",
+    "author_id": "2085838061347217408",
+    "username": "bot",
+    "name": "Grok Bot",
+    "created_at": "2026-11-04T18:13:21.000Z",
+    "text": "Grok Bot can now make phone calls.",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1920x1080/cOs6k3ZkBGObOn6g.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118043621249433600/img/wbtqZXaA0cWZe1Kd.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/480x270/Sxq1Q3rjJgoJ8SAA.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/640x360/4v94HbmGx7LmoKRK.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1280x720/yZmAOBMCKTeSLMV7.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1920x1080/cOs6k3ZkBGObOn6g.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 42033
+     }
+    ]
+   }
+  },
+  {
+   "id": "2118050563145510979",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-04T18:39:40.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118050563145510979",
+   "kind": "repost",
+   "text": "How much usage does a Grok Bot phone call take?\nSo I checked.\n\nMy bot just called an EV charger installer for a quote. 85 seconds on the phone.\n\nUsage before: 5.8%\nUsage after: 6.0%\n\nThat's 0.2% for a real call I didn't have to make myself.",
+   "urls": [],
+   "metrics": {
+    "likes": 1508,
+    "reposts": 153,
+    "replies": 126,
+    "quotes": 16
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWONnAcWkAA_CUw.jpg",
+     "width": 1200,
+     "height": 675
+    }
+   ],
+   "ref": {
+    "id": "2117691954578538798",
+    "author_id": "1324183584282939392",
+    "username": "Texas_Twins_Dad",
+    "name": "Texas Twins Dad",
+    "created_at": "2026-11-03T18:54:41.000Z"
+   }
+  },
+  {
+   "id": "2118050491188072950",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-04T18:39:23.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118050491188072950",
+   "kind": "repost",
+   "text": "BREAKING: Vietnam’s Lâm Đồng plans to bring Starlink to areas where poor mobile coverage makes rescue efforts harder.\n\nAround Gia Bắc Pass in Sơn Điền, mountains and deep valleys make it hard to stay connected. During road accidents, floods and landslides, that can make calling for help difficult.\n\nLocal officials are working with FPT Telecom to choose a location for Starlink, helping rescue teams stay connected and organise emergency responses.",
+   "urls": [],
+   "metrics": {
+    "likes": 2381,
+    "reposts": 305,
+    "replies": 156,
+    "quotes": 23
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117950889411653632/vid/avc1/720x720/wFUDQ8wFeUkT8Qpf.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117950889411653632/img/xnpeMrT0SmQXRQO-.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2117950889411653632/vid/avc1/320x320/VPON7gALZDQY_rMU.mp4",
+       "w": 320,
+       "h": 320,
+       "br": 432000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2117950889411653632/vid/avc1/540x540/Rdz8LCabzuv5Kz-u.mp4",
+       "w": 540,
+       "h": 540,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2117950889411653632/vid/avc1/720x720/wFUDQ8wFeUkT8Qpf.mp4",
+       "w": 720,
+       "h": 720,
+       "br": 1280000
+      }
+     ],
+     "width": 720,
+     "height": 720,
+     "duration_ms": 8433
+    }
+   ],
+   "ref": {
+    "id": "2117950907610784237",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-04T12:03:40.000Z"
+   }
+  },
+  {
+   "id": "2118048421663973792",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-04T18:31:09.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118048421663973792",
+   "kind": "quote",
+   "text": "True https://t.co/CKdg1okX97",
+   "urls": [],
+   "metrics": {
+    "likes": 89793,
+    "reposts": 9528,
+    "replies": 5760,
+    "quotes": 472
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117917230394376467",
+    "author_id": "1874492187070615552",
+    "username": "brivael",
+    "name": "Brivael Le Pogam",
+    "created_at": "2026-11-04T09:49:51.000Z",
+    "text": "After DOGE, Elon came to a conclusion most people missed.\n\nHe tried to reform the state from the inside. He failed. And he said it plainly: the government can't fix its own deficit. Nobody in power actually wants to cut. The machine protects itself.\n\nSo he drew the only logical conclusion. If the state can't be reformed, there are only two ways this ends.\n\nEither global bankruptcy. Debt keeps compounding, interest payments eat the budget, and the system collapses under its own weight.\n\nOr robots. AI and robotics grow the economy so fast that the debt becomes manageable, and abundance makes the old fights over scarcity irrelevant.\n\nHere's the part almost nobody sees.\n\nFor two centuries, capitalism has had a marketing problem. Its gains are real but slow and invisible. 2% growth a year doesn't feel like anything. Your life gets better over 30 years and you never connect it to the system that did it. Meanwhile, the left's promises feel immediate and concrete: a check, a subsidy, a benefit. That's why the left wins on promises even when it can't deliver them. Capitalism produces the wealth, socialism takes the credit.\n\nRobots break that asymmetry.\n\nWhen productivity doubles in a few years instead of a few decades, people will see it. Things get cheaper, services get better, opportunities appear, in real time. For the first time in history, people will connect capitalism and their rising standard of living directly, almost instantly. The causal chain becomes visible.\n\nAnd that changes everything politically.\n\nSo there are two scenarios.\n\nScenario one: we stay in the current inertia. No breakthrough, or a breakthrough we regulate to death. The debt wins. Living standards stagnate, then fall. A frustrated electorate turns to whoever promises the most, and that pushes toward a hard collectivist left. But collectivism fails, as it always does. And when it fails, the most organized, most disciplined collectivist force left standing isn't the old left. It's radical Islamism. Bankruptcy, then communism, then something worse.\n\nScenario two: robots win. Abundance arrives, and it arrives visibly. The link between free enterprise and prosperity becomes obvious to everyone. And this is the key point: it becomes obvious to everyone, including the minorities the left was counting on. Because their long-term incentive is the same as everyone else's. A kid in the suburbs gains infinitely more from a booming, abundant West than from a bankrupt state handing out promises it can't keep. Abundance is the most powerful integration machine ever built.\n\nThat's the Western renaissance.\n\nThe West doesn't need to win the culture war by arguing. It needs to win it by delivering. And for the first time, it has the technology to deliver fast enough for people to notice.\n\nThe race isn't left vs right anymore. It's robots vs bankruptcy."
+   }
+  },
+  {
+   "id": "2118044542628929913",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-04T18:15:44.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118044542628929913",
+   "kind": "repost",
+   "text": "some fun slides from my upcoming talk @aiDotEngineer\n\nvery excited to share how we ship crazy amounts of code (30x'd) without reading it, yet perf is as good if not better then when we launched\n\nthere's a lot more to improve of course, and the ceiling is far from being reached, but given the relentless shipping speed and our high bar for polish, i think that our agent friendly architecture bets are paying off at taming the slop\n\nfun fact: ~230 people landed at least 1 PR to grok bot in october!",
+   "urls": [],
+   "metrics": {
+    "likes": 2801,
+    "reposts": 162,
+    "replies": 204,
+    "quotes": 32
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWRMlavbAAAIOZZ.jpg",
+     "width": 1762,
+     "height": 1194
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWRMmOPa0AATwD-.jpg",
+     "width": 1422,
+     "height": 1010
+    }
+   ],
+   "ref": {
+    "id": "2118017093677494706",
+    "author_id": "2832427459",
+    "username": "poteto",
+    "name": "lauren",
+    "created_at": "2026-11-04T16:26:40.000Z",
+    "quote": {
+     "id": "2112276851355693315",
+     "author_id": "1376308155626360837",
+     "username": "aiDotEngineer",
+     "name": "AI.Engineer 🔜 Shanghai & SF CODE",
+     "created_at": "2026-10-19T20:17:00.000Z",
+     "text": "First AIE Code Summit speakers:\n\n@poteto, Principal Engineer @ SpaceX\n@steve_yegge, Engineer, Writer, Advisor\n@zachbruggeman, Principal Software Engineer @ Ramp\n\nNov 10-12, SF. Come hang out with us. Apply at https://ai.engineer/code",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVBPHSjWcAAHoHt.jpg",
+       "width": 2160,
+       "height": 2700,
+       "alt": "AI Engineer Code Summit speaker announcement featuring Lauren Tan, Principal Engineer at SpaceX; Steve Yegge, Engineer, Writer, Advisor, Independent; and Zach Bruggeman, Principal Software Engineer at Ramp. Black and white artwork with three speaker portraits and yellow text: November 10–12, SF. Apply at ai.engineer/code."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2118043939592942052",
+   "author_id": "2085838061347217408",
+   "username": "bot",
+   "name": "Grok Bot",
+   "created_at": "2026-11-04T18:13:21.000Z",
+   "lang": "en",
+   "conversation_id": "2118043939592942052",
+   "url": "https://x.com/bot/status/2118043939592942052",
+   "kind": "post",
+   "text": "Grok Bot can now make phone calls.",
+   "urls": [],
+   "metrics": {
+    "likes": 15323,
+    "reposts": 870,
+    "replies": 3417,
+    "quotes": 715
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1920x1080/cOs6k3ZkBGObOn6g.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2118043621249433600/img/wbtqZXaA0cWZe1Kd.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/480x270/Sxq1Q3rjJgoJ8SAA.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/640x360/4v94HbmGx7LmoKRK.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1280x720/yZmAOBMCKTeSLMV7.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1920x1080/cOs6k3ZkBGObOn6g.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 42033
+    }
+   ]
+  },
+  {
+   "id": "2118039062229799406",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-04T17:53:58.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2118039062229799406",
+   "reply_to": {
+    "id": "2117959647953134036",
+    "username": "shin_chan_ai"
+   },
+   "kind": "reply",
+   "text": "@shin_chan_ai outstanding!",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2118036744662880439",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-04T17:44:45.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118036744662880439",
+   "kind": "quote",
+   "text": "Try Grok @Bot. It’s like hiring an amazing assistant! https://t.co/n94tLz1e9s",
+   "urls": [],
+   "metrics": {
+    "likes": 9211,
+    "reposts": 977,
+    "replies": 1975,
+    "quotes": 145
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117723394330460528",
+    "author_id": "1324183584282939392",
+    "username": "Texas_Twins_Dad",
+    "name": "Texas Twins Dad",
+    "created_at": "2026-11-03T20:59:37.000Z",
+    "text": "New Grok Bot feature I just discovered on a call. My bot called my car insurance today to ask why my renewal went up 14% with zero accidents. Mid-call, the rep asked a question.\n\nThe bot didn't hang up. It didn't make me take over the call. A question card popped up in my chat. I typed the answer, and the bot kept the call going on its own.\n\nIt's like passing a note to my assistant while they're still on the phone.\n\nGrok Bot is like hiring my personal assistant!",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWOe1NZWEAANIr9.png",
+      "width": 1056,
+      "height": 238
+     }
+    ]
+   }
+  },
+  {
+   "id": "2118036566249758732",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-04T17:44:03.000Z",
+   "lang": "en",
+   "conversation_id": "2118036566249758732",
+   "url": "https://x.com/elonmusk/status/2118036566249758732",
+   "kind": "repost",
+   "text": "BREAKING: The Government of Canada’s Starlink contract has grown to nearly C$29 million, more than 12 times its original value. 🇨🇦\n\nOfficial government records show:\n\n• Original contract value: C$2.26 million\n• Updated total value: C$28.95 million\n• Increase: approximately C$26.7 million\n\nThe agreement with SpaceX Canada provides Starlink satellite connectivity for Shared Services Canada and its partner government organizations as needed.\n\nThe contract could continue until 2029, according to the Investigative Journalism Foundation.\n\nStarlink continues to support the communications needs of Canada’s federal government.",
+   "urls": [],
+   "metrics": {
+    "likes": 3193,
+    "reposts": 464,
+    "replies": 187,
+    "quotes": 48
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117984907821801472/vid/avc1/1920x1080/T70BtBfN0GXS-Es0.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117984907821801472/img/GUmPu_XON2ilSIfP.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2117984907821801472/vid/avc1/480x270/qNb990MqZVML6TB6.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2117984907821801472/vid/avc1/640x360/bee3mO32UOGpGdRh.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2117984907821801472/vid/avc1/1280x720/Gi-YLJOQG-iWbtcd.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2117984907821801472/vid/avc1/1920x1080/T70BtBfN0GXS-Es0.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 10000
+    }
+   ],
+   "ref": {
+    "id": "2117984987765236007",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-04T14:19:05.000Z"
+   }
+  },
+  {
+   "id": "2118031685023604816",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-04T17:24:39.000Z",
+   "lang": "en",
+   "conversation_id": "2118031685023604816",
+   "url": "https://x.com/elonmusk/status/2118031685023604816",
+   "kind": "repost",
+   "text": "Pages in Grok Bot\n\n0:15 What are Pages?\n0:40 An example page\n1:34 Sharing a Page\n1:55 Tips: use your data\n2:46 @X posts\n3:44 Recap",
+   "urls": [],
+   "metrics": {
+    "likes": 2992,
+    "reposts": 259,
+    "replies": 221,
+    "quotes": 49
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/3840x2160/rgl19qAlMKPA_49v.mp4",
+     "poster": "https://pbs.twimg.com/media/HWS4zxWaMAAcksB.png",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/480x270/_YjzPB_OI8t3rr5F.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/640x360/JLC2xWHtdtSTCztL.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/1280x720/srtvOpgPVc_wIwzH.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/1920x1080/k5wbumQl_rfk9sjT.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/3840x2160/rgl19qAlMKPA_49v.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 250816
+    }
+   ],
+   "ref": {
+    "id": "2118021605544833173",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-04T16:44:36.000Z"
+   }
+  },
+  {
+   "id": "2118031642786930832",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-04T17:24:29.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118031642786930832",
+   "kind": "repost",
+   "text": "Quick update:  Starlink Mobile is continuing to provide service with Orange and Telefónica following the tragic train derailment in Spain.  We've connected more than 36,000 people in the region so far. Thank you to @mintradigital for your continued support.",
+   "urls": [],
+   "metrics": {
+    "likes": 1625,
+    "reposts": 199,
+    "replies": 48,
+    "quotes": 7
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWPwkUaXAAAHjgJ.png",
+     "width": 774,
+     "height": 548
+    }
+   ],
+   "ref": {
+    "id": "2117804190378365250",
+    "author_id": "290018640",
+    "username": "davesgoldman",
+    "name": "David Goldman",
+    "created_at": "2026-11-04T02:20:40.000Z",
+    "quote": {
+     "id": "2115606937127764092",
+     "author_id": "290018640",
+     "username": "davesgoldman",
+     "name": "David Goldman",
+     "created_at": "2026-10-29T00:49:34.000Z",
+     "text": "Our thoughts are with everyone affected by this tragedy. Starlink Mobile connected nearly 2k messages with @orange_es and @Telefonica in the first few hours. Thank you to @mintradigital and Secretary González Martín for your support. 🇪🇸 https://twitter.com/orange_es/status/2115572423483387960"
+    }
+   }
+  },
+  {
+   "id": "2118021605544833173",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-04T16:44:36.000Z",
+   "lang": "en",
+   "conversation_id": "2118021605544833173",
+   "url": "https://x.com/mattyp/status/2118021605544833173",
+   "kind": "post",
+   "text": "Pages in Grok Bot\n\n0:15 What are Pages?\n0:40 An example page\n1:34 Sharing a Page\n1:55 Tips: use your data\n2:46 @X posts\n3:44 Recap",
+   "urls": [],
+   "metrics": {
+    "likes": 2992,
+    "reposts": 259,
+    "replies": 221,
+    "quotes": 49
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/3840x2160/rgl19qAlMKPA_49v.mp4",
+     "poster": "https://pbs.twimg.com/media/HWS4zxWaMAAcksB.png",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/480x270/_YjzPB_OI8t3rr5F.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/640x360/JLC2xWHtdtSTCztL.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/1280x720/srtvOpgPVc_wIwzH.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/1920x1080/k5wbumQl_rfk9sjT.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2118017429741682688/vid/avc1/3840x2160/rgl19qAlMKPA_49v.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 250816
+    }
+   ]
+  },
+  {
+   "id": "2118016105444962705",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-04T16:22:45.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118016105444962705",
+   "kind": "repost",
+   "text": "Shopping is the most underrated agent use case.\n\nEveryone demos coding, but the pain most people actually have every week is 12 tabs of the same fucking air fryer and \"where's my package?\" lol.\n\nGrok Bot does that part now:\n> finds the best deal\n> compares items side by side\n> tracks all your orders in one place\n\nGive it a spin and lmk what you want next.",
+   "urls": [],
+   "metrics": {
+    "likes": 1150,
+    "reposts": 133,
+    "replies": 94,
+    "quotes": 9
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117739360728547476",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-03T22:03:03.000Z",
+    "quote": {
+     "id": "2117736249444507834",
+     "author_id": "2085838061347217408",
+     "username": "bot",
+     "name": "Grok Bot",
+     "created_at": "2026-11-03T21:50:42.000Z",
+     "text": "Try the new shopping experience in Grok Bot.\n\nFind the best deal, compare items, and have Bot track all your orders.",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/1920x1080/vzWGF2LuTlVA_3RB.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2117735046065070080/img/SdipeDltihzi-7WJ.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/480x270/1TjBmw8sDHj3NIOo.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/640x360/tiidDKeuIKVVygZW.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/1280x720/NpTSF5iiwOfH_Qje.mp4",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2117735046065070080/vid/avc1/1920x1080/vzWGF2LuTlVA_3RB.mp4",
+         "w": 1920,
+         "h": 1080,
+         "br": 10368000
+        }
+       ],
+       "width": 1920,
+       "height": 1080,
+       "duration_ms": 16733
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2117998240893395299",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-04T15:11:45.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117998240893395299",
+   "reply_to": {
+    "id": "2117822000865657310",
+    "username": "cremieuxrecueil"
+   },
+   "kind": "reply",
+   "text": "@cremieuxrecueil Voter ID failed in California",
+   "urls": [],
+   "metrics": {
+    "likes": 20968,
+    "reposts": 1200,
+    "replies": 1638,
+    "quotes": 87
+   },
+   "partial": true
+  },
+  {
+   "id": "2117996356824678905",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-04T15:04:16.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117996356824678905",
+   "kind": "repost",
+   "text": "BREAKING: Norway’s government secures @Starlink access for its military, police and security agencies under a satellite communications deal worth up to NOK 450 million. 🇳🇴\n\nThe agreement covers:\n• Norwegian Armed Forces\n• Police\n• Police Security Service (PST)\n• National Security Authority (NSM)\n\nNorway’s military already has 180 active Starlink subscriptions for email, internet access and personnel welfare.\n\nAwarded to Marlink, a Norway-based satellite communications provider, the agreement includes several satellite networks and specifically requires access to Starlink.",
+   "urls": [],
+   "metrics": {
+    "likes": 3529,
+    "reposts": 512,
+    "replies": 160,
+    "quotes": 48
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWSJYTaacAAcLPx.jpg",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "ref": {
+    "id": "2117968783784673696",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-04T13:14:42.000Z"
+   }
+  },
+  {
+   "id": "2117996293188718856",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-04T15:04:01.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117996293188718856",
+   "kind": "quote",
+   "text": "At last there will be one network with good signal everywhere! https://t.co/pPdg80J82m",
+   "urls": [],
+   "metrics": {
+    "likes": 92022,
+    "reposts": 8759,
+    "replies": 5167,
+    "quotes": 498
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117973275414532165",
+    "author_id": "1330170106501079041",
+    "username": "Starlink",
+    "name": "Starlink",
+    "created_at": "2026-11-04T13:32:33.000Z",
+    "text": "Starlink Mobile is building the first fully-integrated US nationwide satellite and terrestrial network that will keep people connected on their phones no matter where they are. Our 5G base stations will leverage @Qualcomm chips to accelerate deployment, starting in 2027 🛰️📱",
+    "quote": {
+     "id": "2117972701197598803",
+     "author_id": "84623395",
+     "username": "Qualcomm",
+     "name": "Qualcomm",
+     "created_at": "2026-11-04T13:30:16.000Z",
+     "text": "SpaceX has selected Qualcomm #Dragonwing Cellular Infrastructure solutions to support @Starlink Mobile’s nationwide terrestrial 5G network in the U.S. https://x.com/i/article/2117766007733587968",
+     "article_title": "SpaceX selects Qualcomm to accelerate Starlink Mobile’s nationwide 5G network"
+    }
+   }
+  },
+  {
+   "id": "2117995905525907769",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-04T15:02:28.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117995905525907769",
+   "kind": "quote",
+   "text": "Free new dish for all early Starlink customers https://t.co/P9xFprfAwU",
+   "urls": [],
+   "metrics": {
+    "likes": 20905,
+    "reposts": 1971,
+    "replies": 1673,
+    "quotes": 164
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117745806996340890",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-03T22:28:40.000Z",
+    "text": "Starlink is formally rolling out free dish upgrades for its earliest customers.\n\n“Eligible customers who were among the first to connect with Starlink, and who are still using a first-generation kit can receive a new Standard kit at no cost. Customers will be provided with a free mount, and they can opt in for free installation. If you are eligible for this upgrade, you will receive an invitation by email.”\n\nMore info: https://starlink.com/support/article/1f3e61e1-e601-86b7-7cc6-28c8cceadb61",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWO-lcPXgAAemvn.jpg",
+      "width": 1320,
+      "height": 1839
+     }
+    ]
+   }
+  },
   {
    "id": "2117995339320070525",
    "author_id": "44196397",

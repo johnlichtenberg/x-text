@@ -1,7 +1,53 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-13T16:53:00Z",
+ "updated_at": "2026-11-13T18:16:02Z",
  "posts": [
+  {
+   "id": "2119790893721178116",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-09T13:55:07.000Z",
+   "lang": "en",
+   "conversation_id": "2119599325873614958",
+   "url": "https://x.com/mattyp/status/2119790893721178116",
+   "reply_to": {
+    "id": "2119613768288424163",
+    "username": "shivsharmss"
+   },
+   "kind": "reply",
+   "text": "@shivsharmss @poteto @elonmusk calling me a bot is not a good way to get my attention\n\nyou should still be able to do this, what is the error you’re seeing",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2119790614145544574",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-09T13:54:00.000Z",
+   "lang": "en",
+   "conversation_id": "2119599325873614958",
+   "url": "https://x.com/mattyp/status/2119790614145544574",
+   "reply_to": {
+    "id": "2119790011810033762",
+    "username": "FugitiveJacket"
+   },
+   "kind": "reply",
+   "text": "@FugitiveJacket @shivsharmss @poteto @elonmusk I am still reading",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   }
+  },
   {
    "id": "2119790440656576671",
    "author_id": "1518984544421965824",
@@ -13461,101 +13507,6 @@
     "quotes": 0
    },
    "partial": true
-  },
-  {
-   "id": "2118109067482964046",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-04T22:32:08.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2118109067482964046",
-   "reply_to": {
-    "id": "2118055599036588312",
-    "username": "Saboo_Shubham_"
-   },
-   "kind": "reply",
-   "text": "@Saboo_Shubham_ @bot nice",
-   "urls": [],
-   "metrics": {
-    "likes": 53,
-    "reposts": 1,
-    "replies": 6,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2118083742048944543",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-04T20:51:30.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118083742048944543",
-   "kind": "repost",
-   "text": "Bot has this bias for action that makes it feel like the most fearless coworker you’ve ever worked with.\n\nSo much work is needless friction, bot finds the path of least resistance and grinds through tasks until they’re complete.\n\nFeels like a new era of productivity.",
-   "urls": [],
-   "metrics": {
-    "likes": 1570,
-    "reposts": 182,
-    "replies": 117,
-    "quotes": 15
-   },
-   "partial": true,
-   "ref": {
-    "id": "2118064051771310169",
-    "author_id": "1276636970",
-    "username": "Baconbrix",
-    "name": "Evan Bacon",
-    "created_at": "2026-11-04T19:33:16.000Z",
-    "quote": {
-     "id": "2118043939592942052",
-     "author_id": "2085838061347217408",
-     "username": "bot",
-     "name": "Grok Bot",
-     "created_at": "2026-11-04T18:13:21.000Z",
-     "text": "Grok Bot can now make phone calls.",
-     "media": [
-      {
-       "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1920x1080/cOs6k3ZkBGObOn6g.mp4",
-       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118043621249433600/img/wbtqZXaA0cWZe1Kd.jpg",
-       "variants": [
-        {
-         "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/480x270/Sxq1Q3rjJgoJ8SAA.mp4",
-         "w": 480,
-         "h": 270,
-         "br": 256000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/640x360/4v94HbmGx7LmoKRK.mp4",
-         "w": 640,
-         "h": 360,
-         "br": 832000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1280x720/yZmAOBMCKTeSLMV7.mp4",
-         "w": 1280,
-         "h": 720,
-         "br": 2176000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2118043621249433600/vid/avc1/1920x1080/cOs6k3ZkBGObOn6g.mp4",
-         "w": 1920,
-         "h": 1080,
-         "br": 10368000
-        }
-       ],
-       "width": 1920,
-       "height": 1080,
-       "duration_ms": 42033
-      }
-     ]
-    }
-   }
   }
  ]
 }

@@ -26,9 +26,19 @@
   </form>
   <nav class="tabs" id="tabs" aria-label="Views"></nav>
   <nav class="accounts" id="accounts" aria-label="Accounts"></nav>
+  <div class="viewswitch" id="viewSwitch">
+    <button type="button" class="viewbtn" id="viewBtn" aria-haspopup="menu" aria-expanded="false" aria-controls="viewMenu" aria-label="Showing All">
+      <span id="viewLabel">All</span><span class="chev" aria-hidden="true"></span>
+    </button>
+    <div class="viewmenu" id="viewMenu" role="menu" aria-label="Show" hidden>
+      <button type="button" role="menuitemradio" data-view="all" aria-checked="true" tabindex="-1"><span>All</span><span class="tick" aria-hidden="true">✓</span></button>
+      <button type="button" role="menuitemradio" data-view="posts" aria-checked="false" tabindex="-1"><span>Posts</span><span class="tick" aria-hidden="true">✓</span></button>
+    </div>
+  </div>
 </header>
 <main>
   <div id="status" class="status" aria-live="polite"></div>
+  <p id="empty" class="empty" hidden>No posts here. Switch to All to see replies and reposts.</p>
   <ol id="feed" class="feed"></ol>
   <button id="more" class="more" hidden>Show more</button>
   <details class="help">

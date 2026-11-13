@@ -655,4 +655,87 @@ assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
   if (!sawPlain) ok(true, "every published video in posts.json has variants; url-only coverage is the fixture");
 }
 
+// All shows every row. Posts keeps posts, quotes, and self-replies, and hides replies to others and reposts.
+{
+  const rows = [
+    P({ id: "2", username: "Ada", name: "Ada", kind: "reply", text: "SELF_THREAD", reply_to: { id: "1", username: "ada" } }),
+    P({ id: "3", username: "Ada", name: "Ada", kind: "reply", text: "REPLY_OTHER", reply_to: { id: "9", username: "Bob" } }),
+    P({ id: "4", username: "ada", name: "Ada", kind: "post", text: "PLAIN_POST" }),
+    P({ id: "5", username: "ada", name: "Ada", kind: "quote", text: "QUOTE_BODY", reply_to: { username: "bob" }, ref: { username: "bob", name: "Bob", text: "QUOTED_ORIG" } }),
+    P({ id: "6", username: "ada", name: "Ada", kind: "repost", text: "REPOST_BODY", ref: { username: "bob", name: "Bob", text: "REPOST_BODY" } }),
+    P({ id: "7", username: "ada", name: "Ada", kind: "reply", text: "REPLY_BARE" }),
+    P({ id: "8", username: "ada", name: "Ada", kind: "repost", text: "REPOST_OF_REPLY", reply_to: { username: "bob" }, ref: { username: "bob", name: "Bob", text: "REPOST_OF_REPLY", kind: "reply" } }),
+    P({ id: "11", username: "ada", name: "Ada", kind: "repost", text: "SELF_REPOST", reply_to: { username: "ada" }, ref: { username: "ada", name: "Ada", text: "SELF_REPOST" } }),
+  ];
+  const posts = R.applyView(rows, "posts");
+  eq(posts.map((p) => p.id).join(), "2,4,5", "Posts keeps the self-reply, the post, and the quote");
+  const postsHtml = R.renderList(posts, rows, following);
+  ok(postsHtml.includes("SELF_THREAD") && postsHtml.includes("PLAIN_POST") && postsHtml.includes("QUOTE_BODY"), "Posts renders the kept rows");
+  ok(!postsHtml.includes("REPLY_OTHER") && !postsHtml.includes("REPLY_BARE") && !postsHtml.includes("REPOST_BODY") && !postsHtml.includes("REPOST_OF_REPLY") && !postsHtml.includes("SELF_REPOST"), "Posts drops other replies and every repost");
+  const all = R.applyView(rows, "all");
+  eq(all.length, rows.length, "All keeps every row");
+  eq(R.applyView(rows, "ALL").length, rows.length, "an unknown view is All");
+  const allHtml = R.renderList(all, rows, following);
+  ok(allHtml.includes("REPLY_OTHER") && allHtml.includes("REPOST_BODY") && allHtml.includes("SELF_REPOST") && allHtml.includes("REPOST_OF_REPLY"), "All renders replies and reposts");
+  assertNoX(postsHtml, "posts view");
+  assertNoX(allHtml, "all view");
+
+  const ordered = [];
+  for (let i = 0; i < 50; i++) ordered.push(P({ id: String(1000 + i), kind: "reply", username: "a", name: "A", text: "HIDE_REPLY_" + i, reply_to: { username: "z" } }));
+  for (let i = 0; i < 10; i++) ordered.push(P({ id: String(2000 + i), kind: "repost", username: "a", name: "A", text: "HIDE_REPOST_" + i, ref: { username: "z", text: "HIDE_REPOST_" + i } }));
+  ordered.push(P({ id: "900", kind: "post", username: "a", name: "A", text: "KEPT_POST" }));
+  ordered.push(P({ id: "901", kind: "quote", username: "a", name: "A", text: "KEPT_QUOTE", ref: { username: "z", text: "q" } }));
+  const visible = R.applyView(ordered, "posts");
+  eq(visible.map((p) => p.text).join(), "KEPT_POST,KEPT_QUOTE", "filtering runs before paging, so a page of replies is not an empty page");
+  eq(visible.slice(0, 50).length, 2, "the first page is the kept rows");
+  ok(R.postsViewEmpty("posts", ordered.length, visible.length) === false, "a non-empty Posts list is not the empty state");
+  ok(R.postsViewEmpty("posts", 4, 0) === true, "Posts with only replies and reposts is empty");
+  ok(R.postsViewEmpty("posts", 0, 0) === false, "a list that was already empty stays the ordinary empty state");
+  ok(R.postsViewEmpty("all", 4, 0) === false, "All does not use the Posts empty state");
+  eq(R.POSTS_EMPTY, "No posts here. Switch to All to see replies and reposts.", "empty Posts copy names replies and reposts");
+  eq(R.VIEW_KEY, "xtext.view", "the view is stored under xtext.view");
+
+  function box(initial) {
+    return {
+      v: initial,
+      getItem(k) { eq(k, "xtext.view", "storage key"); return this.v; },
+      setItem(k, val) { eq(k, "xtext.view", "storage key"); this.v = val; },
+    };
+  }
+  const saved = box(null);
+  const mem = { view: "all" };
+  eq(R.writeView(saved, "POSTS", mem), "posts", "writing normalizes the choice");
+  eq(saved.v, "posts", "a working store keeps Posts");
+  eq(R.readView(saved, { view: "all" }), "posts", "a later load reads Posts back");
+  eq(R.readView(box("nope"), { view: "posts" }), "all", "a junk stored value falls back to All");
+  eq(R.readView(box(null), { view: "posts" }), "posts", "missing storage keeps the in-memory choice");
+
+  const blocked = {
+    v: "all",
+    getItem() { return this.v; },
+    setItem() { throw new Error("storage blocked"); },
+  };
+  const held = { view: "all" };
+  eq(R.readView(blocked, held), "all", "a readable store still supplies All");
+  eq(R.writeView(blocked, "posts", held), "posts", "a failed write still returns Posts");
+  eq(blocked.v, "all", "the failed write does not change storage");
+  eq(R.readView(blocked, held), "posts", "after a failed write the choice stays in memory");
+
+  const throwing = {
+    getItem() { throw new Error("storage blocked"); },
+    setItem() { throw new Error("storage blocked"); },
+  };
+  const soft = { view: "all" };
+  eq(R.readView(throwing, soft), "all", "a store that throws on read falls back to All");
+  eq(R.writeView(throwing, "posts", soft), "posts", "a store that throws on write still accepts Posts");
+  eq(R.readView(throwing, soft), "posts", "the in-memory choice survives a later read");
+
+  const page = fs.readFileSync(path.join(__dirname, "..", "index.html"), "utf8");
+  const css = fs.readFileSync(path.join(__dirname, "..", "style.css"), "utf8");
+  ok(page.includes(R.POSTS_EMPTY), "the empty message is on the page");
+  ok(page.includes('id="viewBtn"') && page.includes('aria-haspopup="menu"') && page.includes('role="menuitemradio"'), "the All / Posts menu is on the page");
+  ok(page.includes('data-view="all"') && page.includes('data-view="posts"'), "both choices are in the menu");
+  ok(css.includes(".viewmenu") && css.includes(".viewbtn"), "the switch uses the page stylesheet");
+}
+
 console.log("render tests passed: " + n);

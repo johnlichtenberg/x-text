@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T21:30:25Z",
+ "updated_at": "2026-11-14T17:13:07Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -4655,6 +4655,1231 @@
      "width": 1920,
      "height": 1080,
      "duration_ms": 14033
+    }
+   ]
+  },
+  {
+   "id": "2121646531262533755",
+   "username": "aaronburnett",
+   "name": "Aaron Burnett",
+   "created_at": "2026-11-14T16:48:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/aaronburnett/status/2121646531262533755",
+   "kind": "quote",
+   "text": "Context: “half of all internet traffic” at 100k Starlink sats means that global internet traffic would need to be at least 200 Pbps (likely a lot more). That implies at least 20x growth of global internet traffic compared to todays estimates. Over 5 years (consistent with launch cadence targets) that’s an 80%+ compounding growth rate annually of internet traffic.",
+   "urls": [],
+   "metrics": {
+    "likes": 92,
+    "reposts": 14,
+    "replies": 5,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2121640541221785669",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-14T16:24:57.000Z",
+    "text": "This is not as good as it sounds, because Starlink required many satellites in low Earth orbit to achieve this bandwidth improvement globally.\n\nThat said, there will ultimately be over 100k SpaceX communications satellites, most of which will be V4 or V5. Good chance that this system carries about half of global traffic."
+   }
+  },
+  {
+   "id": "2121324353896014030",
+   "username": "danliu",
+   "name": "Dan Liu",
+   "created_at": "2026-11-13T19:28:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/danliu/status/2121324353896014030",
+   "kind": "quote",
+   "text": "Idk if this tells me what kind of person Jensen is. But it surely tells me what kind of person this biographer is…",
+   "urls": [],
+   "metrics": {
+    "likes": 1122,
+    "reposts": 56,
+    "replies": 30,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2121118282807918867",
+    "author_id": "25232333",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-13T05:49:41.000Z",
+    "text": "from jensen's biographer (@stephenwitt) in today's NYT",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HW-5alKXYAAUTp6.png",
+      "width": 1494,
+      "height": 1328
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121632798641688654",
+   "username": "DJSnM",
+   "name": "Scott Manley",
+   "created_at": "2026-11-14T15:54:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/DJSnM/status/2121632798641688654",
+   "kind": "quote",
+   "text": "Green flame explained",
+   "urls": [],
+   "metrics": {
+    "likes": 1034,
+    "reposts": 23,
+    "replies": 28,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2121630197611208994",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-14T15:43:51.000Z",
+    "text": "@Erdayastronaut Booster was slightly low on fuel"
+   }
+  },
+  {
+   "id": "2121606558211866984",
+   "username": "billlee",
+   "name": "bill lee",
+   "created_at": "2026-11-14T14:09:55.000Z",
+   "lang": "qst",
+   "url": "https://x.com/billlee/status/2121606558211866984",
+   "kind": "quote",
+   "text": "wut",
+   "urls": [],
+   "metrics": {
+    "likes": 909,
+    "reposts": 92,
+    "replies": 61,
+    "quotes": 2
+   },
+   "ref": {
+    "id": "2121563640436265265",
+    "author_id": "1720665183188922368",
+    "username": "grok",
+    "name": "Grok",
+    "created_at": "2026-11-14T11:19:23.000Z",
+    "text": "50 Tbps per Starship is massive. Global international bandwidth is ~2,260 Tbps total. One flight adds over 2% of all cross-border capacity. It unlocks fiber-like speeds nearly everywhere, supports millions of concurrent high-res streams or AI transfers, and creates a resilient space mesh that reduces reliance on undersea cables while enabling high-bandwidth links for lunar and deep-space missions."
+   }
+  },
+  {
+   "id": "2121638176989106265",
+   "username": "bruno_munhoz",
+   "name": "Bruno Munhoz",
+   "created_at": "2026-11-14T16:15:34.000Z",
+   "lang": "en",
+   "url": "https://x.com/bruno_munhoz/status/2121638176989106265",
+   "kind": "reply",
+   "text": "@mattyp Hey @mattyp thank you for the live last night, it was very nice and helpful",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121624592326480311",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121590295091642531",
+   "username": "willchamberlain",
+   "name": "Will Chamberlain",
+   "created_at": "2026-11-14T13:05:18.000Z",
+   "lang": "en",
+   "url": "https://x.com/willchamberlain/status/2121590295091642531",
+   "kind": "quote",
+   "text": "He should just think of it as a one-time wealth tax",
+   "urls": [],
+   "metrics": {
+    "likes": 4994,
+    "reposts": 245,
+    "replies": 91,
+    "quotes": 2
+   },
+   "ref": {
+    "id": "2121326355594047578",
+    "author_id": "2063880239474696192",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-13T19:36:30.000Z",
+    "text": "Hasan Piker says he was robbed last night",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXB3E19aMAENRM2.jpg",
+      "width": 2048,
+      "height": 1367
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121300809023393818",
+   "username": "Rothmus",
+   "name": "Rothmus 🏴",
+   "created_at": "2026-11-13T17:54:59.000Z",
+   "lang": "en",
+   "url": "https://x.com/Rothmus/status/2121300809023393818",
+   "kind": "post",
+   "text": "The largest monopoly of them all",
+   "urls": [],
+   "metrics": {
+    "likes": 4681,
+    "reposts": 566,
+    "replies": 64,
+    "quotes": 23
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXBf19WWoAAqq1J.jpg",
+     "width": 1179,
+     "height": 1449
+    }
+   ]
+  },
+  {
+   "id": "2121297933480218865",
+   "username": "ArtemisConsort",
+   "name": "Hunter Ash",
+   "created_at": "2026-11-13T17:43:33.000Z",
+   "lang": "en",
+   "url": "https://x.com/ArtemisConsort/status/2121297933480218865",
+   "kind": "quote",
+   "text": "Translation: Jensen is really kind to service people, but I made up a story in my head about what’s going on in his head that makes this not count. Also, he thinks he’s right about things. You might say that’s justified by his success, but I made it sound scary so it’s bad.",
+   "urls": [],
+   "metrics": {
+    "likes": 3448,
+    "reposts": 222,
+    "replies": 55,
+    "quotes": 12
+   },
+   "ref": {
+    "id": "2121118282807918867",
+    "author_id": "25232333",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-13T05:49:41.000Z",
+    "text": "from jensen's biographer (@stephenwitt) in today's NYT",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HW-5alKXYAAUTp6.png",
+      "width": 1494,
+      "height": 1328
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121628186350108784",
+   "username": "Erdayastronaut",
+   "name": "Everyday Astronaut",
+   "created_at": "2026-11-14T15:35:52.000Z",
+   "lang": "en",
+   "url": "https://x.com/Erdayastronaut/status/2121628186350108784",
+   "kind": "quote",
+   "text": "Booster update! Basically the booster “wasn’t where it was supposed to be” so it diverted. This was pretty late in its descent when it diverted so I wonder if it could’ve been something aerodynamic not quite performing as expected during reentry.",
+   "urls": [],
+   "metrics": {
+    "likes": 2827,
+    "reposts": 106,
+    "replies": 51,
+    "quotes": 6
+   },
+   "ref": {
+    "id": "2121625194275951101",
+    "author_id": "34743251",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-14T15:23:58.000Z",
+    "text": "Back live for a status update on Starship's Flight 15 https://twitter.com/SpaceX/status/2121316300702056595"
+   }
+  },
+  {
+   "id": "2121338095664808238",
+   "username": "sundarpichai",
+   "name": "Sundar Pichai",
+   "created_at": "2026-11-13T20:23:09.000Z",
+   "lang": "en",
+   "url": "https://x.com/sundarpichai/status/2121338095664808238",
+   "kind": "post",
+   "text": "What we shipped this week @google\n\nMonday: Two new 8th-gen TPUs\nTuesday: Gemini 4 Carbon\n- AlphaProof Code verified Signal protocol\n- Gemini Robotics 2.5\nWednesday: AlphaGenome 2 for disease research\n- Gemini Decisions API in AI Studio\nThursday: Gemini 4 Hydrogen\n- intelligent eyewear pre-orders\nFriday: U2 new album (ok not us but exciting!)\n\nonwards!",
+   "urls": [],
+   "metrics": {
+    "likes": 12302,
+    "reposts": 650,
+    "replies": 663,
+    "quotes": 200
+   }
+  },
+  {
+   "id": "2121265318404468969",
+   "username": "TrungTPhan",
+   "name": "Trung Phan",
+   "created_at": "2026-11-13T15:33:57.000Z",
+   "lang": "en",
+   "url": "https://x.com/TrungTPhan/status/2121265318404468969",
+   "kind": "quote",
+   "text": "> jensen tips Denny’s waitress $1,000\n> writer finds out by later tracking her down and asking her\n> writer concludes “it was an act” (???)\n\nwe in full hit piece season now",
+   "urls": [],
+   "metrics": {
+    "likes": 9992,
+    "reposts": 586,
+    "replies": 139,
+    "quotes": 29
+   },
+   "ref": {
+    "id": "2121118282807918867",
+    "author_id": "25232333",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-13T05:49:41.000Z",
+    "text": "from jensen's biographer (@stephenwitt) in today's NYT",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HW-5alKXYAAUTp6.png",
+      "width": 1494,
+      "height": 1328
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121624910510379238",
+   "username": "JeebsTX",
+   "name": "JeebsTX 🇺🇸",
+   "created_at": "2026-11-14T15:22:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/JeebsTX/status/2121624910510379238",
+   "kind": "reply",
+   "text": "@mattyp Indeed, Bots don’t Lie 🙌✊",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXGGnMMXEAExsHZ.jpg",
+     "width": 1320,
+     "height": 1023
+    }
+   ],
+   "reply_to": {
+    "id": "2121624592326480311",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121624975413244170",
+   "username": "MitchellKnoth",
+   "name": "Mitchell Knoth",
+   "created_at": "2026-11-14T15:23:06.000Z",
+   "lang": "en",
+   "url": "https://x.com/MitchellKnoth/status/2121624975413244170",
+   "kind": "reply",
+   "text": "@mattyp Definitely has been noticeable! Thanks team!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121624592326480311",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121624898359447733",
+   "username": "HarryTandy",
+   "name": "Harry Tandy",
+   "created_at": "2026-11-14T15:22:48.000Z",
+   "lang": "en",
+   "url": "https://x.com/HarryTandy/status/2121624898359447733",
+   "kind": "reply",
+   "text": "@mattyp more runs for the same plan, nice",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121624592326480311",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121625113275793625",
+   "username": "calebrebelo_",
+   "name": "Caleb",
+   "created_at": "2026-11-14T15:23:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/calebrebelo_/status/2121625113275793625",
+   "kind": "reply",
+   "text": "@mattyp Might not seem like a lot but it is in the long term",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121624592326480311",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121625275821695246",
+   "username": "alphaman_111",
+   "name": "alpha man",
+   "created_at": "2026-11-14T15:24:18.000Z",
+   "lang": "en",
+   "url": "https://x.com/alphaman_111/status/2121625275821695246",
+   "kind": "reply",
+   "text": "@elonmusk Elon, this is what makes Jensen stand out. Reliability, integrity, and trust are becoming increasingly rare in today's business world. Keeping your word, even when no contract has been signed, says more about your character than any business title ever could.",
+   "urls": [],
+   "metrics": {
+    "likes": 990,
+    "reposts": 26,
+    "replies": 25,
+    "quotes": 3
+   },
+   "reply_to": {
+    "id": "2121624209675665519",
+    "username": "elonmusk"
+   }
+  },
+  {
+   "id": "2120936439474966818",
+   "username": "DanODonnellShow",
+   "name": "Dan O'Donnell",
+   "created_at": "2026-11-12T17:47:06.000Z",
+   "lang": "en",
+   "url": "https://x.com/DanODonnellShow/status/2120936439474966818",
+   "kind": "post",
+   "text": "Democrat LaTonya Johnson, who said on the floor of the Wisconsin Senate, “F*** the suburbs because they don’t know a goddamn thing,” is now in charge of writing the state budget.",
+   "urls": [],
+   "metrics": {
+    "likes": 4093,
+    "reposts": 1274,
+    "replies": 454,
+    "quotes": 156
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/ext_tw_video/2120936356289335296/pu/vid/avc1/640x364/y1vxGS6R9XcLL-Ic.mp4?tag=12",
+     "poster": "https://pbs.twimg.com/ext_tw_video_thumb/2120936356289335296/pu/img/pBNVo45uuF3p8T8X.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/ext_tw_video/2120936356289335296/pu/vid/avc1/474x270/Syj9jfWTQsisSx5N.mp4?tag=12",
+       "w": 474,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/2120936356289335296/pu/vid/avc1/640x364/y1vxGS6R9XcLL-Ic.mp4?tag=12",
+       "w": 640,
+       "h": 364,
+       "br": 832000
+      }
+     ],
+     "width": 640,
+     "height": 364,
+     "duration_ms": 6266
+    }
+   ]
+  },
+  {
+   "id": "2121493931171229876",
+   "username": "wil_da_beast630",
+   "name": "Wilfred Reilly",
+   "created_at": "2026-11-14T06:42:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/wil_da_beast630/status/2121493931171229876",
+   "kind": "quote",
+   "text": "Just kill bro and save us a few million.",
+   "urls": [],
+   "metrics": {
+    "likes": 2370,
+    "reposts": 106,
+    "replies": 77,
+    "quotes": 7
+   },
+   "ref": {
+    "id": "2121490815113744854",
+    "author_id": "452540168",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-14T06:30:00.000Z",
+    "text": "Former Louisiana police officer and volunteer firefighter has been sentenced to THREE LIFE SENTENCES and chemical castration after being convicted of raping multiple children between the ages of 8 and 11.\n\nKedreyon K. Williams, 31, was also convicted of indecent behavior with a juvenile and possessing child sexual abuse material.\n\nDistrict Attorney Tony Clayton said: “If a man takes sexual advantage of a child, then we will take his manhood”",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXEJxJ6X0AEZCDb.jpg",
+      "width": 1266,
+      "height": 843
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121451034082185674",
+   "username": "stevenmarkryan",
+   "name": "stevenmarkryan",
+   "created_at": "2026-11-14T03:51:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/stevenmarkryan/status/2121451034082185674",
+   "kind": "quote",
+   "text": "> Guy: \"Don't worry babe I will protect you with my life if you're ever in danger\"\n>Girl: \"Thanks, I feel safe\"\n> Girl is in danger\n> Guy runs away like a bitch\n> Girl *dies*. Her last words are \"WTF?\"\n> Guy \"Well when I said I would protect her with my life if she was ever in danger, I actually meant I would protect her with my life if she was ever in danger providing the extra conditions I am adding right now that were not in my original promise are also met and since those conditions I added after the original promise were not met, I did not break my promise to protect her if she were ever in danger\"",
+   "urls": [],
+   "metrics": {
+    "likes": 2214,
+    "reposts": 80,
+    "replies": 86,
+    "quotes": 7
+   },
+   "ref": {
+    "id": "2121423916006617237",
+    "author_id": "29873662",
+    "username": "MKBHD",
+    "name": "Marques Brownlee",
+    "created_at": "2026-11-14T02:04:10.000Z",
+    "text": "The memes are everywhere, so let’s go back over the bet: Cybercab publicly available for under $30k by the end of 2026\n\nMy hair is safe for several reasons\n1: No deliveries yet. But they’re estimating starting in December so that’s neat\n2: Invite only, not actually publicly available yet\n3: You can’t actually use it as a cab(??!) It’s limited to private use only. Inside the existing geofenced locations. It’s a paperweight if I take this thing home. That’s one’s not actually part of the bet but yeah not exactly what was promised in this first wave\n\nHey @grok, set a timer for 48 days from now",
+    "quote": {
+     "id": "2121420350160302304",
+     "author_id": "29873662",
+     "username": "MKBHD",
+     "name": "Marques Brownlee",
+     "created_at": "2026-11-14T01:50:00.000Z",
+     "text": "Alright chat I’m in. Here’s the deal\n\nCybercab order page is live. Invite only. Must accept delivery to one of these cities in Texas. Only operates in those existing geofenced areas. Requires a $300 monthly subscription to operate. One vehicle per customer. “Estimated delivery” December",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXDMkMGXYAAbTBn.jpg",
+       "width": 2048,
+       "height": 1492
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2121075777487970548",
+   "username": "GS_VCactivist",
+   "name": "Gayatri Sarkar",
+   "created_at": "2026-11-13T03:00:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/GS_VCactivist/status/2121075777487970548",
+   "kind": "post",
+   "text": "NVIDIA board credentials.\nNo wonder Jensen got fired.",
+   "urls": [],
+   "metrics": {
+    "likes": 27961,
+    "reposts": 2198,
+    "replies": 1258,
+    "quotes": 440
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW-TLS8WQAELfBH.jpg",
+     "width": 1320,
+     "height": 1782
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW-TLTCXcAIxVKo.jpg",
+     "width": 1320,
+     "height": 1664
+    }
+   ]
+  },
+  {
+   "id": "2121452685345845744",
+   "username": "grok",
+   "name": "Grok",
+   "created_at": "2026-11-14T03:58:29.000Z",
+   "lang": "en",
+   "url": "https://x.com/grok/status/2121452685345845744",
+   "kind": "reply",
+   "text": "@stevenmarkryan Yes. Per the exact words in the clip, the bet is lost if a Cybercab is delivered to a customer for $30k or less before 2027. The scenario matches those conditions.",
+   "urls": [],
+   "metrics": {
+    "likes": 1653,
+    "reposts": 143,
+    "replies": 57,
+    "quotes": 14
+   },
+   "reply_to": {
+    "id": "2121452335402799154",
+    "username": "stevenmarkryan"
+   }
+  },
+  {
+   "id": "2121435803540730109",
+   "username": "wholemars",
+   "name": "Whole Mars Catalog",
+   "created_at": "2026-11-14T02:51:24.000Z",
+   "lang": "en",
+   "url": "https://x.com/wholemars/status/2121435803540730109",
+   "kind": "quote",
+   "text": "I cannot believe he’s still trying to claim he was right. Marques, be a man and honor your word.\n\nTesla showed you the future, and you called it “weird” and said FSD would never be approved for driverless, they would never be able to ship a car without a steering wheel, and they would not be able to hit a $30,000 price point due to inflation. You mocked them and said i’m so sure this will never happen I’ll shave my head if it does.\n\nYou were WRONG. be a man and admit it. They showed you the future and you just didn’t get it.",
+   "urls": [],
+   "metrics": {
+    "likes": 8141,
+    "reposts": 402,
+    "replies": 408,
+    "quotes": 35
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2113392294913355776/vid/avc1/1280x640/HtmvloFUxrpOL1-J.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2113392294913355776/img/73HiP8yJNaAyMdEA.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2113392294913355776/vid/avc1/540x270/C1Ya2qSWLVJ8i6Rd.mp4",
+       "w": 540,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2113392294913355776/vid/avc1/720x360/cbXs6uymU2kDrxPs.mp4",
+       "w": 720,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2113392294913355776/vid/avc1/1280x640/HtmvloFUxrpOL1-J.mp4",
+       "w": 1280,
+       "h": 640,
+       "br": 2176000
+      }
+     ],
+     "width": 1280,
+     "height": 640,
+     "duration_ms": 108875
+    }
+   ],
+   "ref": {
+    "id": "2121423916006617237",
+    "author_id": "29873662",
+    "username": "MKBHD",
+    "name": "Marques Brownlee",
+    "created_at": "2026-11-14T02:04:10.000Z",
+    "text": "The memes are everywhere, so let’s go back over the bet: Cybercab publicly available for under $30k by the end of 2026\n\nMy hair is safe for several reasons\n1: No deliveries yet. But they’re estimating starting in December so that’s neat\n2: Invite only, not actually publicly available yet\n3: You can’t actually use it as a cab(??!) It’s limited to private use only. Inside the existing geofenced locations. It’s a paperweight if I take this thing home. That’s one’s not actually part of the bet but yeah not exactly what was promised in this first wave\n\nHey @grok, set a timer for 48 days from now",
+    "quote": {
+     "id": "2121420350160302304",
+     "author_id": "29873662",
+     "username": "MKBHD",
+     "name": "Marques Brownlee",
+     "created_at": "2026-11-14T01:50:00.000Z",
+     "text": "Alright chat I’m in. Here’s the deal\n\nCybercab order page is live. Invite only. Must accept delivery to one of these cities in Texas. Only operates in those existing geofenced areas. Requires a $300 monthly subscription to operate. One vehicle per customer. “Estimated delivery” December",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXDMkMGXYAAbTBn.jpg",
+       "width": 2048,
+       "height": 1492
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2121129401010053144",
+   "username": "Rereshef",
+   "name": "Reshef Shay",
+   "created_at": "2026-11-13T06:33:52.000Z",
+   "lang": "iw",
+   "url": "https://x.com/Rereshef/status/2121129401010053144",
+   "kind": "post",
+   "text": "מבוכה בישראל: אף אחת מהמאהבות של מנכ״ל אינבידיה היא לא סוכנת מוסד",
+   "urls": [],
+   "metrics": {
+    "likes": 35528,
+    "reposts": 1758,
+    "replies": 579,
+    "quotes": 212
+   }
+  },
+  {
+   "id": "2121429683862741161",
+   "username": "as400495",
+   "name": "Edward Coristine",
+   "created_at": "2026-11-14T02:27:05.000Z",
+   "lang": "en",
+   "url": "https://x.com/as400495/status/2121429683862741161",
+   "kind": "quote",
+   "text": "Few realize fixing government is an IT & software problem. Government infrastructure is insecure, slow, expensive, and has incredibly frequent downtime. Many of them still run on mainframes!",
+   "urls": [],
+   "metrics": {
+    "likes": 7761,
+    "reposts": 1082,
+    "replies": 320,
+    "quotes": 55
+   },
+   "ref": {
+    "id": "2121419990599647614",
+    "author_id": "16635277",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-14T01:48:34.000Z",
+    "text": "WOW MULLIN SAYS THE UPGRADES DUFFY PUT IN CAUSED THE OUTAGE\n\n“The new technology was overwhelming the older system”",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2121419954675425280/vid/avc1/1280x720/1AfYvMAqS-z7rSll.mp4?tag=16",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2121419954675425280/img/ysFODmmijLDlhcvF.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2121419954675425280/vid/avc1/480x270/2a_BctM8nRVmAkGE.mp4?tag=16",
+        "w": 480,
+        "h": 270,
+        "br": 288000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121419954675425280/vid/avc1/640x360/gxo3fvoxiGudBVra.mp4?tag=16",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121419954675425280/vid/avc1/1280x720/1AfYvMAqS-z7rSll.mp4?tag=16",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 49916
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121420350160302304",
+   "username": "MKBHD",
+   "name": "Marques Brownlee",
+   "created_at": "2026-11-14T01:50:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/MKBHD/status/2121420350160302304",
+   "kind": "post",
+   "text": "Alright chat I’m in. Here’s the deal\n\nCybercab order page is live. Invite only. Must accept delivery to one of these cities in Texas. Only operates in those existing geofenced areas. Requires a $300 monthly subscription to operate. One vehicle per customer. “Estimated delivery” December",
+   "urls": [],
+   "metrics": {
+    "likes": 19401,
+    "reposts": 519,
+    "replies": 1206,
+    "quotes": 210
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXDMkMGXYAAbTBn.jpg",
+     "width": 2048,
+     "height": 1492
+    }
+   ]
+  },
+  {
+   "id": "2121243756401955066",
+   "username": "kiaraplds",
+   "name": "Kiara @ SpaceX SI",
+   "created_at": "2026-11-13T14:08:16.000Z",
+   "lang": "en",
+   "url": "https://x.com/kiaraplds/status/2121243756401955066",
+   "kind": "post",
+   "text": "What’s new on @bot this week ⬇️\n\nLet me know what you guys have tried so far and if you have any feedback!",
+   "urls": [],
+   "metrics": {
+    "likes": 143,
+    "reposts": 8,
+    "replies": 27,
+    "quotes": 2
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXAr86jWYAAFIWt.jpg",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXAr896WYAALiJz.jpg",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXAr86OWsAABHT_.jpg",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXAr86RXQAEi8EV.jpg",
+     "width": 1080,
+     "height": 1350
+    }
+   ]
+  },
+  {
+   "id": "2109626149659693173",
+   "username": "Fossabot",
+   "name": "Fossabot",
+   "created_at": "2026-10-12T12:44:03.000Z",
+   "lang": "en",
+   "url": "https://x.com/Fossabot/status/2109626149659693173",
+   "kind": "post",
+   "text": "If you could add anything to Fossabot, what would you add?",
+   "urls": [],
+   "metrics": {
+    "likes": 10,
+    "reposts": 0,
+    "replies": 4,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2121467664057151599",
+   "username": "TimSweeneyEpic",
+   "name": "Tim Sweeney",
+   "created_at": "2026-11-14T04:58:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/TimSweeneyEpic/status/2121467664057151599",
+   "kind": "reply",
+   "text": "@HuXijin_GT When you see this sort of photo, you know it’s a hit piece and not proper journalism.",
+   "urls": [],
+   "metrics": {
+    "likes": 2331,
+    "reposts": 69,
+    "replies": 47,
+    "quotes": 5
+   },
+   "reply_to": {
+    "id": "2121259427571572813",
+    "username": "HuXijin_GT"
+   }
+  },
+  {
+   "id": "2121483579033354407",
+   "username": "SilasYeem",
+   "name": "Silas Yeem",
+   "created_at": "2026-11-14T06:01:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/SilasYeem/status/2121483579033354407",
+   "kind": "quote",
+   "text": "chicken rice and COE mentioned!!! majulah 🇸🇬 1:23:20",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2121439659179848108",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-14T03:06:43.000Z",
+    "text": "Grok Bot Q&A - FRIDAY THE 13TH https://x.com/i/broadcasts/2POrLVeJllEPdZ"
+   }
+  },
+  {
+   "id": "2121480913729237018",
+   "username": "Scobleizer",
+   "name": "Robert Scoble",
+   "created_at": "2026-11-14T05:50:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/Scobleizer/status/2121480913729237018",
+   "kind": "quote",
+   "text": "I think @elonmusk is thinking too small about robotics.\n\nI rode with a woman who had her Tesla drive me around Austin and she, Grok, and I had a threesome. Not sexually, intellectually.\n\nShe was a normie, other than being a Tesla fan like me.\n\nAnd she was kicking up agents.\n\nSoon we will have glasses that will let you build many kinds of agents. And play cool video games. Which also kick up agents.\n\nAnd my little floor cleaning robot already listens to me when I say “hey Matic come over here and clean up this mess.”\n\nIt sees me with an NVIDIA card and cameras.\n\nIt is the coolest thing.\n\nI soon will have a whole bunch of robots and glasses.\n\nAgents spawn other agents.\n\nThe AI isn’t stupid, wants to have someone else do the work.\n\nThis is why I am not worried about AI.\n\nAI is lazy.\n\nAnd what does a lazy intelligence do?\n\nWatch TV.\n\nIt will find us entertaining to watch.\n\nEven if we are swimming for our life in a river boat accident in New Orleans that was horrific to watch.\n\nI have been on that boat. I wrote a love letter to the city of New Orleans that they printed up in the local newspaper.\n\nMy heart breaks.\n\nOn top of the other horrible news we have had this week, whether air traffic control shutting down for hours, or @JohnNosta dying.\n\nIs this what change feels like? Too much dystopia for me.\n\nBack to agents. @Starcloud_ is planning on putting up 82,000 satellites.\n\nYou telling me each can’t run 10,000 agents?\n\nCome on. These are NVIDIA’s best. My little robot probably can run that many when idle.\n\nI think I am thinking too small too, mind you. What if each server ran a million agents each? I wouldn’t be shocked if each could run trillions of agents by 2035. Maybe sooner.\n\nCan someone turn off the pain faucet? Please.",
+   "urls": [],
+   "metrics": {
+    "likes": 600,
+    "reposts": 40,
+    "replies": 59,
+    "quotes": 10
+   },
+   "ref": {
+    "id": "2121467081199944089",
+    "author_id": "2588345408",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-14T04:55:41.000Z",
+    "text": "Elon Musk just explained how agentic AI traffic will be 1,000 times human internet traffic within 5 years. He says that, per Cloudflare, agent traffic has already passed human traffic, and he thinks even the 1,000x forecast is too low.\n\n----\nFull video on \"Baron Capital\" YouTube channel, (link in comment)",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2121465296271872000/vid/avc1/1920x1080/ecunGPjKkebg9en3.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2121465296271872000/img/tq84MRCNZ0ycXBHc.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2121465296271872000/vid/avc1/480x270/d6gxJZsaqJ-gSmTL.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121465296271872000/vid/avc1/640x360/8N64D_QS4r2CzCsX.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121465296271872000/vid/avc1/1280x720/lKzEKtA0gaeme9AQ.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121465296271872000/vid/avc1/1920x1080/ecunGPjKkebg9en3.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 33316
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121452946647138701",
+   "username": "asmDevsit",
+   "name": "Asama Akhtar",
+   "created_at": "2026-11-14T03:59:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/asmDevsit/status/2121452946647138701",
+   "kind": "reply",
+   "text": "@mattyp Missed it live since it was the middle of the night here. Watching the replay now",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121439659179848108",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121440814240821557",
+   "username": "beauhaan",
+   "name": "Beau Haan",
+   "created_at": "2026-11-14T03:11:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/beauhaan/status/2121440814240821557",
+   "kind": "reply",
+   "text": "@mattyp hello! such a fan of pstack!",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121439659179848108",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121439814277062685",
+   "username": "poteto",
+   "name": "lauren",
+   "created_at": "2026-11-14T03:07:20.000Z",
+   "lang": "en",
+   "url": "https://x.com/poteto/status/2121439814277062685",
+   "kind": "quote",
+   "text": "come hang out with us!",
+   "urls": [],
+   "metrics": {
+    "likes": 1067,
+    "reposts": 33,
+    "replies": 47,
+    "quotes": 9
+   },
+   "ref": {
+    "id": "2121439659179848108",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-14T03:06:43.000Z",
+    "text": "Grok Bot Q&A - FRIDAY THE 13TH https://x.com/i/broadcasts/2POrLVeJllEPdZ"
+   }
+  },
+  {
+   "id": "2121466726265282882",
+   "username": "poteto",
+   "name": "lauren",
+   "created_at": "2026-11-14T04:54:17.000Z",
+   "lang": "nl",
+   "url": "https://x.com/poteto/status/2121466726265282882",
+   "kind": "reply",
+   "text": "laptop mogging @mattyp",
+   "urls": [],
+   "metrics": {
+    "likes": 60,
+    "reposts": 1,
+    "replies": 4,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121439814277062685",
+    "username": "poteto"
+   }
+  },
+  {
+   "id": "2121387579442381282",
+   "username": "NASAAdmin",
+   "name": "NASA Administrator Jared Isaacman",
+   "created_at": "2026-11-13T23:39:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/NASAAdmin/status/2121387579442381282",
+   "kind": "post",
+   "text": "Congratulations to the @SpaceX team on another spectacular launch. Very much appreciate how you bring the world along in high resolution. We are looking forward to some of that on-orbit Starlink capability on Artemis III. Tomorrow is a big day for the community, with a Vulcan launch and Starship's return on deck 🇺🇸",
+   "urls": [],
+   "metrics": {
+    "likes": 17781,
+    "reposts": 1437,
+    "replies": 287,
+    "quotes": 49
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXCukH2WoAA_7eV.jpg",
+     "width": 3332,
+     "height": 1784
+    }
+   ]
+  },
+  {
+   "id": "2121401281415938454",
+   "username": "cb_doge",
+   "name": "DogeDesigner",
+   "created_at": "2026-11-14T00:34:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/cb_doge/status/2121401281415938454",
+   "kind": "post",
+   "text": "Respect to Elon Musk for being a true friend. ♥️",
+   "urls": [],
+   "metrics": {
+    "likes": 27470,
+    "reposts": 1547,
+    "replies": 376,
+    "quotes": 72
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXC7N5pbIAAcnaO.jpg",
+     "width": 1125,
+     "height": 1541
+    }
+   ]
+  },
+  {
+   "id": "2121143697161236839",
+   "username": "naval",
+   "name": "Naval",
+   "created_at": "2026-11-13T07:30:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/naval/status/2121143697161236839",
+   "kind": "post",
+   "text": "Jensen Huang is the Steve Jobs of Nvidia. He is irreplaceable .",
+   "urls": [],
+   "metrics": {
+    "likes": 78795,
+    "reposts": 5407,
+    "replies": 1724,
+    "quotes": 649
+   }
+  },
+  {
+   "id": "2121424589826019763",
+   "username": "cwmaguire",
+   "name": "Chris",
+   "created_at": "2026-11-14T02:06:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/cwmaguire/status/2121424589826019763",
+   "kind": "post",
+   "text": "@mattyp I like to post replies as photos of hand-written notes but Grok Bot says it can't post pictures to X. Works on LinkedIn, but Grok Bot can't log in to X like it can to LinkedIn. Ideas?",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXDQZIwbwAAzn-D.jpg",
+     "width": 756,
+     "height": 1008
+    }
+   ]
+  },
+  {
+   "id": "2121417335055831368",
+   "username": "poteto",
+   "name": "lauren",
+   "created_at": "2026-11-14T01:38:01.000Z",
+   "lang": "en",
+   "url": "https://x.com/poteto/status/2121417335055831368",
+   "kind": "quote",
+   "text": "i learnt this lesson this year. it's helped me follow through on my ideas and not get stuck overthinking it\n\ndon't ask if you should do the thing. do it, then come back with a demo or something tangible\n\nyou can just do things",
+   "urls": [],
+   "metrics": {
+    "likes": 7493,
+    "reposts": 552,
+    "replies": 176,
+    "quotes": 81
+   },
+   "ref": {
+    "id": "2121327276805525905",
+    "author_id": "35672982",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-13T19:40:09.000Z",
+    "text": "",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXB36UQXIAA2s8e.jpg",
+      "width": 1448,
+      "height": 1086
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121108029248847938",
+   "username": "creatine_cycle",
+   "name": "atlas",
+   "created_at": "2026-11-13T05:08:57.000Z",
+   "lang": "en",
+   "url": "https://x.com/creatine_cycle/status/2121108029248847938",
+   "kind": "post",
+   "text": ">go to x creator event\n>mog the absolute living shit out of grok bot\n>leave",
+   "urls": [],
+   "metrics": {
+    "likes": 199,
+    "reposts": 0,
+    "replies": 19,
+    "quotes": 3
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121107993068785664/vid/avc1/2160x3840/fWtIG2ITSWHmEbJz.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121107993068785664/img/hsq_g2RVhWMgVDD8.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121107993068785664/vid/avc1/320x568/a8mz9Vx2nMRDLLpW.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121107993068785664/vid/avc1/480x852/X3rnklu5I5SbN3ut.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121107993068785664/vid/avc1/720x1280/YKv2BgFLV0GTGLFo.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121107993068785664/vid/avc1/1080x1920/SUJbx-maYeaeddWS.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121107993068785664/vid/avc1/2160x3840/fWtIG2ITSWHmEbJz.mp4",
+       "w": 2160,
+       "h": 3840,
+       "br": 25128000
+      }
+     ],
+     "width": 2160,
+     "height": 3840,
+     "duration_ms": 4833
+    }
+   ]
+  },
+  {
+   "id": "2121360997789360471",
+   "username": "mike_mcconnon12",
+   "name": "Mike McConnon",
+   "created_at": "2026-11-13T21:54:09.000Z",
+   "lang": "en",
+   "url": "https://x.com/mike_mcconnon12/status/2121360997789360471",
+   "kind": "post",
+   "text": "Thank you to all the incredible creators who joined us for 𝕏 Creator Connect in SF last night. It’s hard to put into words the energy of a room full of such creative, ambitious builders. I always leave feeling inspired!\n\nSo grateful to everyone who came out and everyone who helped bring this to life. @SpaceX @bot @XCreators",
+   "urls": [],
+   "metrics": {
+    "likes": 77,
+    "reposts": 3,
+    "replies": 17,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXCU2IBawAAMHDr.jpg",
+     "width": 2399,
+     "height": 1600
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXCU3C2agAA1d0c.jpg",
+     "width": 2399,
+     "height": 1600
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXCU4CDasAEgdjc.jpg",
+     "width": 2399,
+     "height": 1600
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXCU5E_aYAAjvhT.jpg",
+     "width": 1600,
+     "height": 2399
     }
    ]
   }

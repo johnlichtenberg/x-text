@@ -1883,19 +1883,18 @@
    "username": "SpaceX",
    "name": "SpaceX",
    "created_at": "2026-11-14T13:53:18.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2121602376532742611",
    "url": "https://x.com/SpaceX/status/2121602376532742611",
    "kind": "post",
-   "text": "Starship in orbit over Africa https://t.co/vwkuBpdrLI",
+   "text": "Starship in orbit over Africa",
    "urls": [],
    "metrics": {
-    "likes": 12674,
-    "reposts": 1421,
+    "likes": 12679,
+    "reposts": 1422,
     "replies": 487,
     "quotes": 188
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
@@ -2139,7 +2138,7 @@
    "conversation_id": null,
    "url": "https://x.com/elonmusk/status/2121501906501566852",
    "kind": "repost",
-   "text": "Liftoff of Starship Flight 15 https://t.co/OWqYkqfUG8",
+   "text": "Liftoff of Starship Flight 15",
    "urls": [],
    "metrics": {
     "likes": 13502,
@@ -2231,7 +2230,57 @@
     "username": "Starlink",
     "name": "Starlink",
     "created_at": "2026-11-13T23:28:05.000Z",
-    "text": "Today’s Starlink payload will add up to 26 Terabits of capacity to the constellation https://t.co/2JnidLkIbD"
+    "text": "Today’s Starlink payload will add up to 26 Terabits of capacity to the constellation",
+    "quote": {
+     "id": "2121384424558453096",
+     "author_id": "34743251",
+     "username": "SpaceX",
+     "name": "SpaceX",
+     "created_at": "2026-11-13T23:27:14.000Z",
+     "text": "Starship is now deploying its payload of 26 @Starlink V3 satellites. This deployment sequence will take ~42 minutes",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2121384344782798848/vid/avc1/3840x2160/IJOrJQHy3MAFu_G2.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2121384344782798848/img/0Ls-onoWK9WSyly7.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2121384344782798848/vid/avc1/480x270/Lsyx7ipiFFPEqyRU.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121384344782798848/vid/avc1/640x360/ERQQEgcjxPjTcEwR.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121384344782798848/vid/avc1/1280x720/vJ0GES4o9gZSQYIa.mp4",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121384344782798848/vid/avc1/1920x1080/t6TWH9GmZqLqmKwk.mp4",
+         "w": 1920,
+         "h": 1080,
+         "br": 10368000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121384344782798848/vid/avc1/3840x2160/IJOrJQHy3MAFu_G2.mp4",
+         "w": 3840,
+         "h": 2160,
+         "br": 25128000
+        }
+       ],
+       "width": 3840,
+       "height": 2160,
+       "duration_ms": 15410
+      }
+     ]
+    }
    }
   },
   {
@@ -2647,8 +2696,8 @@
     "quote": {
      "id": "2121339322385440842",
      "author_id": "2121285661831626752",
-     "username": "",
-     "name": "",
+     "username": "TheJensenLetter",
+     "name": "Stand With Jensen",
      "created_at": "2026-11-13T20:28:01.000Z",
      "text": "Still hard to believe everything that's happened with Jensen.\n\nAfter 33 years of building NVIDIA. I think he deserves a fair process, and we deserve the truth.\n\nI signed this open letter to stand with Jensen. Hope you will too. 💚\n\nhttps://standwithjensen.com\n\n#StandWithJensen"
     }
@@ -2730,8 +2779,8 @@
     "quote": {
      "id": "2121419990599647614",
      "author_id": "16635277",
-     "username": "",
-     "name": "",
+     "username": "Acyn",
+     "name": "Acyn",
      "created_at": "2026-11-14T01:48:34.000Z",
      "text": "WOW MULLIN SAYS THE UPGRADES DUFFY PUT IN CAUSED THE OUTAGE\n\n“The new technology was overwhelming the older system”",
      "media": [
@@ -3355,7 +3404,7 @@
    "text": "Starship and its heatshield are healthy as the vehicle continues to orbit Earth after a spectacular start to its mission nearly 7 hours ago. Teams are continuing to monitor systems ahead of a planned return to launch site catch at Starbase ~22.5 hours after launch",
    "urls": [],
    "metrics": {
-    "likes": 16225,
+    "likes": 16228,
     "reposts": 1607,
     "replies": 430,
     "quotes": 206
@@ -3945,6 +3994,48 @@
     "replies": 184,
     "quotes": 40
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121369577367957504/vid/avc1/3840x2160/i5rYPWECBkVHpdzD.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121369577367957504/img/RFTgo65Y9D0NEwDf.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121369577367957504/vid/avc1/480x270/dhdn9MtiSMT6NI8j.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121369577367957504/vid/avc1/640x360/MvtYt61l2a2raLQf.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121369577367957504/vid/avc1/1280x720/nXqYrKO4Ocg-eACG.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121369577367957504/vid/avc1/1920x1080/RlhrjV9DpPY0fJPm.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121369577367957504/vid/avc1/3840x2160/i5rYPWECBkVHpdzD.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 38550
+    }
+   ],
    "ref": {
     "id": "2121369682976579588",
     "author_id": "34743251",
@@ -4174,10 +4265,10 @@
    "text": "This letter was sent to Nvidia's board today.\n\nA first for @atreidesmgmt\n\nAbsolutely share @altcap belief that this letter outlines minimum acceptable standards.",
    "urls": [],
    "metrics": {
-    "likes": 11389,
-    "reposts": 1378,
-    "replies": 520,
-    "quotes": 177
+    "likes": 12665,
+    "reposts": 1503,
+    "replies": 576,
+    "quotes": 197
    },
    "media": [
     {
@@ -5194,6 +5285,48 @@
     "replies": 82,
     "quotes": 21
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121371892678557696/vid/avc1/3840x2160/SEKoWlWcqDAqcC_3.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121371892678557696/img/jlnHjqaRbTOD8YPM.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121371892678557696/vid/avc1/480x270/ApbTUKFPIkwGy6Ox.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121371892678557696/vid/avc1/640x360/oo4TzG3ItnYtH8Ua.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121371892678557696/vid/avc1/1280x720/cjqg1w0CUCWhw0EQ.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121371892678557696/vid/avc1/1920x1080/5XWhDUiTBSJuU0Yw.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121371892678557696/vid/avc1/3840x2160/SEKoWlWcqDAqcC_3.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 398160
+    }
+   ],
    "ref": {
     "id": "2121372108441931940",
     "author_id": "34743251",
@@ -5770,10 +5903,10 @@
    "text": "@yunta_tsai A petition is underway to reinstate Jensen and I’m signing it too",
    "urls": [],
    "metrics": {
-    "likes": 27502,
-    "reposts": 2583,
-    "replies": 1301,
-    "quotes": 513
+    "likes": 217089,
+    "reposts": 19235,
+    "replies": 7142,
+    "quotes": 2952
    },
    "partial": true,
    "ref": {
@@ -5825,8 +5958,8 @@
    "username": "elonmusk",
    "name": "Elon Musk",
    "created_at": "2026-11-13T20:51:25.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2121242163644412202",
    "url": "https://x.com/elonmusk/status/2121345211959804234",
    "reply_to": {
     "id": "2121242163644412202",
@@ -5836,12 +5969,11 @@
    "text": "@yunta_tsai A petition is underway to reinstate Jensen and I’m signing it too",
    "urls": [],
    "metrics": {
-    "likes": 27502,
-    "reposts": 2583,
-    "replies": 1301,
-    "quotes": 513
-   },
-   "partial": true
+    "likes": 217089,
+    "reposts": 19235,
+    "replies": 7142,
+    "quotes": 2952
+   }
   },
   {
    "id": "2121338654199345238",
@@ -6052,10 +6184,10 @@
     "https://x.com/i/broadcasts/2brajgZlOKRMka"
    ],
    "metrics": {
-    "likes": 11754,
-    "reposts": 2101,
-    "replies": 493,
-    "quotes": 458
+    "likes": 28822,
+    "reposts": 4763,
+    "replies": 1671,
+    "quotes": 1149
    },
    "partial": true,
    "ref": {
@@ -6323,19 +6455,18 @@
    "username": "bot",
    "name": "Grok Bot",
    "created_at": "2026-11-13T19:11:36.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2121320089920430181",
    "url": "https://x.com/bot/status/2121320089920430181",
    "kind": "post",
-   "text": "Grok Bot can now join meetings.\n\nAsk it questions, assign it work, or have it keep track of what your team decides. https://t.co/NqkzAfdPcD",
+   "text": "Grok Bot can now join meetings.\n\nAsk it questions, assign it work, or have it keep track of what your team decides.",
    "urls": [],
    "metrics": {
-    "likes": 3091,
-    "reposts": 239,
-    "replies": 317,
-    "quotes": 169
+    "likes": 6793,
+    "reposts": 492,
+    "replies": 745,
+    "quotes": 407
    },
-   "partial": true,
    "media": [
     {
      "type": "video",
@@ -6704,19 +6835,20 @@
    "username": "SpaceX",
    "name": "SpaceX",
    "created_at": "2026-11-13T18:56:32.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2121316300702056595",
    "url": "https://x.com/SpaceX/status/2121316300702056595",
    "kind": "post",
-   "text": "Watch Starship Flight 15\nhttps://t.co/xvmIH2diNA",
-   "urls": [],
+   "text": "Watch Starship Flight 15\nhttps://x.com/i/broadcasts/2brajgZlOKRMka",
+   "urls": [
+    "https://x.com/i/broadcasts/2brajgZlOKRMka"
+   ],
    "metrics": {
-    "likes": 2972,
-    "reposts": 586,
-    "replies": 169,
-    "quotes": 119
-   },
-   "partial": true
+    "likes": 28822,
+    "reposts": 4763,
+    "replies": 1671,
+    "quotes": 1149
+   }
   },
   {
    "id": "2121310351241486847",
@@ -6828,19 +6960,20 @@
    "username": "SpaceX",
    "name": "SpaceX",
    "created_at": "2026-11-13T16:32:29.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2121280048871473281",
    "url": "https://x.com/SpaceX/status/2121280048871473281",
    "kind": "post",
-   "text": "Boca Chica Beach is not for sale, and SpaceX isn’t attempting to buy it. The beach is an important part of the Rio Grande Valley community, and SpaceX is investing substantial resources to preserve and improve it → https://t.co/bvKDh6ytRN https://t.co/Gv11dYWEQk",
-   "urls": [],
+   "text": "Boca Chica Beach is not for sale, and SpaceX isn’t attempting to buy it. The beach is an important part of the Rio Grande Valley community, and SpaceX is investing substantial resources to preserve and improve it → https://spacex.com/updates#boca-chica-beach",
+   "urls": [
+    "https://spacex.com/updates#boca-chica-beach"
+   ],
    "metrics": {
-    "likes": 3235,
-    "reposts": 315,
-    "replies": 140,
-    "quotes": 41
+    "likes": 10843,
+    "reposts": 1025,
+    "replies": 338,
+    "quotes": 87
    },
-   "partial": true,
    "media": [
     {
      "type": "photo",
@@ -8690,10 +8823,10 @@
    "text": "Ship 42 moves to the Starbase pad ahead of launch",
    "urls": [],
    "metrics": {
-    "likes": 18762,
-    "reposts": 2005,
-    "replies": 668,
-    "quotes": 344
+    "likes": 22774,
+    "reposts": 2464,
+    "replies": 873,
+    "quotes": 490
    },
    "media": [
     {
@@ -9858,19 +9991,18 @@
    "username": "mntruell",
    "name": "Michael Truell",
    "created_at": "2026-11-12T18:38:50.000Z",
-   "lang": null,
-   "conversation_id": null,
+   "lang": "en",
+   "conversation_id": "2120949456518709744",
    "url": "https://x.com/mntruell/status/2120949456518709744",
    "kind": "quote",
-   "text": "Bot can now spot and act on any texts you may have forgotten. https://t.co/AacXuEIsd4",
+   "text": "Bot can now spot and act on any texts you may have forgotten.",
    "urls": [],
    "metrics": {
-    "likes": 746,
-    "reposts": 26,
-    "replies": 39,
-    "quotes": 2
+    "likes": 1474,
+    "reposts": 128,
+    "replies": 90,
+    "quotes": 4
    },
-   "partial": true,
    "ref": {
     "id": "2120946968403095906",
     "author_id": "2085838061347217408",
@@ -10045,10 +10177,10 @@
    "text": "Grok Bot on Mac can now use Messages, Mail, Notes, Reminders, Calendar, Location, and Contacts.",
    "urls": [],
    "metrics": {
-    "likes": 7270,
-    "reposts": 478,
-    "replies": 1154,
-    "quotes": 255
+    "likes": 7802,
+    "reposts": 512,
+    "replies": 1298,
+    "quotes": 277
    },
    "media": [
     {
@@ -11143,10 +11275,10 @@
    "text": "@palladiummag @CityAngelos Communism sucks",
    "urls": [],
    "metrics": {
-    "likes": 11960,
-    "reposts": 1193,
-    "replies": 493,
-    "quotes": 112
+    "likes": 12467,
+    "reposts": 1268,
+    "replies": 516,
+    "quotes": 117
    }
   },
   {
@@ -19343,10 +19475,10 @@
    "text": "I responded to hundreds of you and will continue to monitor comments\n\nI’ll be using @bot to get aggregate feedback to the team\n\nof course, aggregate feedback is no substitute for talking to users.\n\nI will continue to talk with you all. Every response comes from me!",
    "urls": [],
    "metrics": {
-    "likes": 2929,
-    "reposts": 177,
-    "replies": 641,
-    "quotes": 28
+    "likes": 3261,
+    "reposts": 196,
+    "replies": 702,
+    "quotes": 30
    },
    "ref": {
     "id": "2119789494723649662",
@@ -21111,10 +21243,10 @@
    "text": "I responded to hundreds of you and will continue to monitor comments\n\nI’ll be using @bot to get aggregate feedback to the team\n\nof course, aggregate feedback is no substitute for talking to users.\n\nI will continue to talk with you all. Every response comes from me!",
    "urls": [],
    "metrics": {
-    "likes": 2929,
-    "reposts": 177,
-    "replies": 641,
-    "quotes": 28
+    "likes": 3261,
+    "reposts": 196,
+    "replies": 702,
+    "quotes": 30
    },
    "ref": {
     "id": "2119474599708827957",

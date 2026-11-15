@@ -256,16 +256,16 @@
    "text": "we optimized it heavily so it should burn only a little of your usage.\n\ngo invite your e-coworker to the meeting, and let us know what you think!!",
    "urls": [],
    "metrics": {
-    "likes": 678,
-    "reposts": 83,
-    "replies": 64,
-    "quotes": 8
+    "likes": 1284,
+    "reposts": 139,
+    "replies": 83,
+    "quotes": 12
    },
    "ref": {
     "id": "2121394949182930954",
     "author_id": "899564621631299585",
-    "username": "",
-    "name": "",
+    "username": "lingxi",
+    "name": "Lingxi Li",
     "created_at": "2026-11-14T00:09:04.000Z",
     "quote": {
      "id": "2121320089920430181",
@@ -764,8 +764,8 @@
    "ref": {
     "id": "2121303079803089179",
     "author_id": "2338596771",
-    "username": "",
-    "name": "",
+    "username": "SamSokolin",
+    "name": "Sam Sokolin",
     "created_at": "2026-11-13T18:04:00.000Z",
     "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!"
    }
@@ -1028,8 +1028,8 @@
    "ref": {
     "id": "2121303079803089179",
     "author_id": "2338596771",
-    "username": "",
-    "name": "",
+    "username": "SamSokolin",
+    "name": "Sam Sokolin",
     "created_at": "2026-11-13T18:04:00.000Z",
     "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!"
    }
@@ -3038,10 +3038,10 @@
    "text": "Swipe for the full sequence: Super Heavy Booster 22 offshore divert during Starship Flight 15!",
    "urls": [],
    "metrics": {
-    "likes": 13745,
-    "reposts": 1664,
-    "replies": 456,
-    "quotes": 258
+    "likes": 14712,
+    "reposts": 1761,
+    "replies": 476,
+    "quotes": 263
    },
    "media": [
     {
@@ -3114,8 +3114,8 @@
    "ref": {
     "id": "2121383571419976096",
     "author_id": "3072160164",
-    "username": "",
-    "name": "",
+    "username": "johnkrausphotos",
+    "name": "John Kraus",
     "created_at": "2026-11-13T23:23:51.000Z"
    }
   },
@@ -3224,10 +3224,10 @@
    "text": "Prometheus unbound",
    "urls": [],
    "metrics": {
-    "likes": 13179,
-    "reposts": 1268,
-    "replies": 249,
-    "quotes": 106
+    "likes": 20595,
+    "reposts": 2091,
+    "replies": 339,
+    "quotes": 197
    },
    "media": [
     {
@@ -3268,8 +3268,8 @@
    "ref": {
     "id": "2121469429464670376",
     "author_id": "1465432261436788740",
-    "username": "",
-    "name": "",
+    "username": "AtelierMissor_",
+    "name": "Atelier Missor",
     "created_at": "2026-11-14T05:05:01.000Z"
    }
   },
@@ -3898,17 +3898,33 @@
    "text": "Altimeter and Atreides together hold more than $25B in assets.\n\nElon and the founders of Uber, Shopify, Replit, and Vercel have all posted in support of Jensen’s reinstatement at @nvidia.\n\nSo, this has only begun. Anti-Jensen board members will likely face escalating pressure from employees, shareholders, partners, and customers until they step down and reinstate Jensen Huang, who was after all the founder and CEO that built Nvidia into one of the most important companies in world history.",
    "urls": [],
    "metrics": {
-    "likes": 5953,
-    "reposts": 642,
-    "replies": 235,
-    "quotes": 47
+    "likes": 6361,
+    "reposts": 695,
+    "replies": 253,
+    "quotes": 53
    },
    "ref": {
     "id": "2121412678409478247",
     "author_id": "2178012643",
-    "username": "",
-    "name": "",
-    "created_at": "2026-11-14T01:19:31.000Z"
+    "username": "balajis",
+    "name": "Balaji",
+    "created_at": "2026-11-14T01:19:31.000Z",
+    "quote": {
+     "id": "2121401397346521412",
+     "author_id": "340387261",
+     "username": "GavinSBaker",
+     "name": "Gavin Baker",
+     "created_at": "2026-11-14T00:34:41.000Z",
+     "text": "This letter was sent to Nvidia's board today.\n\nA first for @atreidesmgmt\n\nAbsolutely share @altcap belief that this letter outlines minimum acceptable standards.",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXC7U6zaQAA0_D-.jpg",
+       "width": 1088,
+       "height": 1329
+      }
+     ]
+    }
    }
   },
   {
@@ -45891,7 +45907,7 @@
  ],
  "last_run": {
   "status": "no_new",
-  "at": "2026-11-14T17:28:23Z",
+  "at": "2026-11-15T05:53:29Z",
   "new_posts": 0
  }
 }

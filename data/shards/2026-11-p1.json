@@ -193,16 +193,52 @@
    "text": "SECRETARY RUBIO: The ultimate question of our time is whether Americans have a moral right to exist as a distinct nation and a distinct people, and thus to demand a government that defends and pursues our interests above all else.",
    "urls": [],
    "metrics": {
-    "likes": 18193,
-    "reposts": 3323,
-    "replies": 1713,
-    "quotes": 422
+    "likes": 18622,
+    "reposts": 3387,
+    "replies": 1740,
+    "quotes": 426
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121377678607454208/vid/avc1/1920x1080/o-WhmgGRxdZlSxsb.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121377678607454208/img/BUKhYmtLQIaIDCWv.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121377678607454208/vid/avc1/480x270/TPXX4U68fRtu_MFt.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121377678607454208/vid/avc1/640x360/OuyAlluvywco5nbP.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121377678607454208/vid/avc1/1280x720/7_WSET685dmpWu8S.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121377678607454208/vid/avc1/1920x1080/o-WhmgGRxdZlSxsb.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 176543
+    }
+   ],
    "ref": {
     "id": "2121378578939936844",
     "author_id": "9624742",
-    "username": "",
-    "name": "",
+    "username": "StateDept",
+    "name": "Department of State",
     "created_at": "2026-11-13T23:04:01.000Z"
    }
   },
@@ -219,16 +255,16 @@
    "text": "we optimized it heavily so it should burn only a little of your usage.\n\ngo invite your e-coworker to the meeting, and let us know what you think!!",
    "urls": [],
    "metrics": {
-    "likes": 678,
-    "reposts": 83,
-    "replies": 64,
-    "quotes": 8
+    "likes": 1284,
+    "reposts": 139,
+    "replies": 83,
+    "quotes": 12
    },
    "ref": {
     "id": "2121394949182930954",
     "author_id": "899564621631299585",
-    "username": "",
-    "name": "",
+    "username": "lingxi",
+    "name": "Lingxi Li",
     "created_at": "2026-11-14T00:09:04.000Z",
     "quote": {
      "id": "2121320089920430181",
@@ -297,10 +333,18 @@
    "ref": {
     "id": "2121370786208375136",
     "author_id": "1604863807574212611",
-    "username": "",
-    "name": "",
+    "username": "techdevnotes",
+    "name": "Tech Dev Notes",
     "created_at": "2026-11-13T22:33:03.000Z",
-    "text": "Text watermarking is now off by default in the SpaceXSI API"
+    "text": "Text watermarking is now off by default in the SpaceXSI API",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXCfc5MXAAAQCEQ.jpg",
+      "width": 2036,
+      "height": 1572
+     }
+    ]
    }
   },
   {
@@ -419,11 +463,19 @@
    "text": "SpaceX just laid out a major plan to protect and restore the coastline around its launch site\n\nBoca Chica Beach is staying public as Starbase keeps growing\n\nMore than 50 tons of trash already removed through weekly beach cleanups with the City of Starbase\n\nTens of millions of dollars offered to fight erosion, restore the shoreline and keep public access open\n\nOngoing support for conservation groups rescuing sea turtles\n\nThe proposed land purchase covers about 1,200 acres around the launch facility, with Boca Chica Beach and the Texas coastline left out of it\n\nAround 600 of those acres would be permanently protected as sensitive coastal habitat\n\nMoney from the sale would help Texas build new parks and recreation across the Rio Grande Valley\n\nStarbase grows, and the beach stays open to everyone",
    "urls": [],
    "metrics": {
-    "likes": 1737,
-    "reposts": 248,
-    "replies": 115,
-    "quotes": 12
+    "likes": 1789,
+    "reposts": 257,
+    "replies": 117,
+    "quotes": 14
    },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXCPbm2bwAAwV9H.jpg",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
    "ref": {
     "id": "2121353143384682525",
     "author_id": "1818311005698678784",
@@ -711,8 +763,8 @@
    "ref": {
     "id": "2121303079803089179",
     "author_id": "2338596771",
-    "username": "",
-    "name": "",
+    "username": "SamSokolin",
+    "name": "Sam Sokolin",
     "created_at": "2026-11-13T18:04:00.000Z",
     "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!"
    }
@@ -975,8 +1027,8 @@
    "ref": {
     "id": "2121303079803089179",
     "author_id": "2338596771",
-    "username": "",
-    "name": "",
+    "username": "SamSokolin",
+    "name": "Sam Sokolin",
     "created_at": "2026-11-13T18:04:00.000Z",
     "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!"
    }
@@ -2985,10 +3037,10 @@
    "text": "Swipe for the full sequence: Super Heavy Booster 22 offshore divert during Starship Flight 15!",
    "urls": [],
    "metrics": {
-    "likes": 13745,
-    "reposts": 1664,
-    "replies": 456,
-    "quotes": 258
+    "likes": 14712,
+    "reposts": 1761,
+    "replies": 476,
+    "quotes": 263
    },
    "media": [
     {
@@ -3061,8 +3113,8 @@
    "ref": {
     "id": "2121383571419976096",
     "author_id": "3072160164",
-    "username": "",
-    "name": "",
+    "username": "johnkrausphotos",
+    "name": "John Kraus",
     "created_at": "2026-11-13T23:23:51.000Z"
    }
   },
@@ -3171,10 +3223,10 @@
    "text": "Prometheus unbound",
    "urls": [],
    "metrics": {
-    "likes": 13179,
-    "reposts": 1268,
-    "replies": 249,
-    "quotes": 106
+    "likes": 20595,
+    "reposts": 2091,
+    "replies": 339,
+    "quotes": 197
    },
    "media": [
     {
@@ -3215,8 +3267,8 @@
    "ref": {
     "id": "2121469429464670376",
     "author_id": "1465432261436788740",
-    "username": "",
-    "name": "",
+    "username": "AtelierMissor_",
+    "name": "Atelier Missor",
     "created_at": "2026-11-14T05:05:01.000Z"
    }
   },
@@ -3524,11 +3576,19 @@
    "text": "Congratulations to the @SpaceX team on another spectacular launch. Very much appreciate how you bring the world along in high resolution. We are looking forward to some of that on-orbit Starlink capability on Artemis III. Tomorrow is a big day for the community, with a Vulcan launch and Starship's return on deck 🇺🇸",
    "urls": [],
    "metrics": {
-    "likes": 17780,
-    "reposts": 1437,
+    "likes": 17822,
+    "reposts": 1443,
     "replies": 287,
     "quotes": 49
    },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXCukH2WoAA_7eV.jpg",
+     "width": 3332,
+     "height": 1784
+    }
+   ],
    "ref": {
     "id": "2121387579442381282",
     "author_id": "2000593641480605696",
@@ -3837,17 +3897,33 @@
    "text": "Altimeter and Atreides together hold more than $25B in assets.\n\nElon and the founders of Uber, Shopify, Replit, and Vercel have all posted in support of Jensen’s reinstatement at @nvidia.\n\nSo, this has only begun. Anti-Jensen board members will likely face escalating pressure from employees, shareholders, partners, and customers until they step down and reinstate Jensen Huang, who was after all the founder and CEO that built Nvidia into one of the most important companies in world history.",
    "urls": [],
    "metrics": {
-    "likes": 5953,
-    "reposts": 642,
-    "replies": 235,
-    "quotes": 47
+    "likes": 6361,
+    "reposts": 695,
+    "replies": 253,
+    "quotes": 53
    },
    "ref": {
     "id": "2121412678409478247",
     "author_id": "2178012643",
-    "username": "",
-    "name": "",
-    "created_at": "2026-11-14T01:19:31.000Z"
+    "username": "balajis",
+    "name": "Balaji",
+    "created_at": "2026-11-14T01:19:31.000Z",
+    "quote": {
+     "id": "2121401397346521412",
+     "author_id": "340387261",
+     "username": "GavinSBaker",
+     "name": "Gavin Baker",
+     "created_at": "2026-11-14T00:34:41.000Z",
+     "text": "This letter was sent to Nvidia's board today.\n\nA first for @atreidesmgmt\n\nAbsolutely share @altcap belief that this letter outlines minimum acceptable standards.",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXC7U6zaQAA0_D-.jpg",
+       "width": 1088,
+       "height": 1329
+      }
+     ]
+    }
    }
   },
   {
@@ -4097,11 +4173,19 @@
    "text": "This letter was sent to Nvidia's board today.\n\nA first for @atreidesmgmt\n\nAbsolutely share @altcap belief that this letter outlines minimum acceptable standards.",
    "urls": [],
    "metrics": {
-    "likes": 11324,
-    "reposts": 1371,
-    "replies": 516,
-    "quotes": 175
+    "likes": 11389,
+    "reposts": 1378,
+    "replies": 520,
+    "quotes": 177
    },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXC7U6zaQAA0_D-.jpg",
+     "width": 1088,
+     "height": 1329
+    }
+   ],
    "ref": {
     "id": "2121401397346521412",
     "author_id": "340387261",
@@ -4294,11 +4378,47 @@
    "text": "BREAKING: Indian telecom giant Airtel’s Chairman, Sunil Bharti Mittal, praised Elon Musk’s “mind-boggling” achievements, says Starlink V3 is pushing the limits of physics.\n\n“I have to acknowledge what he has done is mind-boggling, @elonmusk. His compute or his connectivity capacity in the space has gone manifold, and it’s happened in the last four or five years under our watch. So the last launch that he made on Starship, the satellites he put up, the V3, they have a capacity of as much as the entire OneWeb capacity. So at one Tbps capacity in a single launch means he’s trying to push, if not break, through the laws of physics, which means a lot of connectivity is going to come from space, and the terrestrial industry needs to be prepared for that.”",
    "urls": [],
    "metrics": {
-    "likes": 4560,
-    "reposts": 613,
+    "likes": 4567,
+    "reposts": 614,
     "replies": 163,
     "quotes": 27
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121299326567862272/vid/avc1/1920x1080/WLz8e8rlBtxkUuQz.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121299326567862272/img/XaN_8_bRSWvw3Jc1.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121299326567862272/vid/avc1/480x270/XxQjU3W4sc1QaUFA.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121299326567862272/vid/avc1/640x360/J24TULSvq-Piztqz.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121299326567862272/vid/avc1/1280x720/AqwBVzQmsmwcxQAj.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121299326567862272/vid/avc1/1920x1080/WLz8e8rlBtxkUuQz.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 46973
+    }
+   ],
    "ref": {
     "id": "2121299443450515494",
     "author_id": "1389913567671975937",

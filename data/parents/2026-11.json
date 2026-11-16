@@ -1,7 +1,123 @@
 {
  "id": "2026-11",
- "updated_at": "2026-11-15T22:16:08Z",
+ "updated_at": "2026-11-16T00:40:31Z",
  "posts": [
+  {
+   "id": "2122062161119994234",
+   "username": "MinaGawargious",
+   "name": "Mina Gawargious",
+   "created_at": "2026-11-15T20:20:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/MinaGawargious/status/2122062161119994234",
+   "kind": "post",
+   "text": "Elon Musk is currently inspecting heat shield tiles on Starship",
+   "urls": [],
+   "metrics": {
+    "likes": 18316,
+    "reposts": 1495,
+    "replies": 501,
+    "quotes": 232
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122061911793569792/vid/avc1/2160x3840/aY9QI5zS0H2qd_ew.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122061911793569792/img/jx4O_jea1h23tZ5x.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911793569792/vid/avc1/320x568/LOg2V_ijqsGRRD5G.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911793569792/vid/avc1/480x852/alMV-xkgNPm34tLB.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911793569792/vid/avc1/720x1280/PBocdKUmsQLPbbP2.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911793569792/vid/avc1/1080x1920/FtJuDKK9K_7OKjrR.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911793569792/vid/avc1/2160x3840/aY9QI5zS0H2qd_ew.mp4",
+       "w": 2160,
+       "h": 3840,
+       "br": 25128000
+      }
+     ],
+     "width": 2160,
+     "height": 3840,
+     "duration_ms": 15813
+    },
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122061911915139072/vid/avc1/2160x3840/h5djnIQEQEcsRfuD.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122061911915139072/img/ubrrEt9pdlUAnqkL.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911915139072/vid/avc1/320x568/r9BNXN5XaHjuVevL.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911915139072/vid/avc1/480x852/PtmW3Of6q_z84yRr.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911915139072/vid/avc1/720x1280/76uV7nwzB6MLOQaA.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911915139072/vid/avc1/1080x1920/X4Kb0WAyLIhUtLWe.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911915139072/vid/avc1/2160x3840/h5djnIQEQEcsRfuD.mp4",
+       "w": 2160,
+       "h": 3840,
+       "br": 25128000
+      }
+     ],
+     "width": 2160,
+     "height": 3840,
+     "duration_ms": 12310
+    }
+   ]
+  },
+  {
+   "id": "2122034531658076417",
+   "username": "ulalaunch",
+   "name": "ULA",
+   "created_at": "2026-11-15T18:30:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/ulalaunch/status/2122034531658076417",
+   "kind": "post",
+   "text": "Based on data received by our Launch Director, we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight and failed to deliver the Amazon mission to orbit.\n\nEvery flight generates data, and every flight teaches us something. Since the anomaly just occurred, we don’t have any specific data yet to understand what occurred today.\n\nULA exists to provide assured access to space for our nation and for the customers who depend on us. That purpose is why we take on some of the hardest missions in spaceflight, and why we hold ourselves to the standard of mission success. Today, we did not meet that standard.\n\nWe will work closely with our customer and other appropriate organizations to find the cause, determine the appropriate corrective action, and return to flight as quickly as possible.\n\nULA is committed to full transparency with our customers, and they will have visibility into the investigation process, which utilizes rigorous methodology and corrective action.\n\nWe will provide further updates when new information becomes available.",
+   "urls": [],
+   "metrics": {
+    "likes": 4980,
+    "reposts": 673,
+    "replies": 623,
+    "quotes": 635
+   }
+  },
   {
    "id": "2122033524857589799",
    "username": "paulg",
@@ -130,6 +246,27 @@
    "reply_to": {
     "id": "2122016027651547485",
     "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121998577819914262",
+   "username": "dhh",
+   "name": "DHH",
+   "created_at": "2026-11-15T16:07:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/dhh/status/2121998577819914262",
+   "kind": "reply",
+   "text": "@matthewstoller This is sad, Matt. You don't have to agree with everything Musk says or does to recognize his completely unique ability to deliver incredible entrepreneurial benefits to the world. From SpaceX to Neuralink to Tesla to Grok. There are a million \"capital allocators\", only one Musk.",
+   "urls": [],
+   "metrics": {
+    "likes": 11621,
+    "reposts": 307,
+    "replies": 128,
+    "quotes": 13
+   },
+   "reply_to": {
+    "id": "2121803929537204575",
+    "username": "matthewstoller"
    }
   },
   {
@@ -656,6 +793,23 @@
     "reposts": 91,
     "replies": 74,
     "quotes": 15
+   }
+  },
+  {
+   "id": "2121731597154316772",
+   "username": "cpenned",
+   "name": "Chris Pennington",
+   "created_at": "2026-11-14T22:26:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/cpenned/status/2121731597154316772",
+   "kind": "post",
+   "text": "What are people using to stream to 𝕏 and YouTube these days?",
+   "urls": [],
+   "metrics": {
+    "likes": 13,
+    "reposts": 0,
+    "replies": 4,
+    "quotes": 0
    }
   },
   {

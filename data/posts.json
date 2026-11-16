@@ -1,8 +1,567 @@
 {
- "updated_at": "2026-11-16T03:04:25Z",
- "count": 1406,
+ "updated_at": "2026-11-16T04:24:11Z",
+ "count": 1423,
  "accounts": 12,
  "posts": [
+  {
+   "id": "2122182627134443947",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T04:19:01.000Z",
+   "lang": "qme",
+   "conversation_id": "2122174254787760534",
+   "url": "https://x.com/elonmusk/status/2122182627134443947",
+   "reply_to": {
+    "id": "2122174254787760534",
+    "username": "JohnLeFevre"
+   },
+   "kind": "reply",
+   "text": "@JohnLeFevre 💯",
+   "urls": [],
+   "metrics": {
+    "likes": 471,
+    "reposts": 19,
+    "replies": 72,
+    "quotes": 1
+   }
+  },
+  {
+   "id": "2122182607391920214",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T04:18:56.000Z",
+   "lang": "en",
+   "conversation_id": "2122182607391920214",
+   "url": "https://x.com/elonmusk/status/2122182607391920214",
+   "kind": "repost",
+   "text": "The SpaceX engineers who caught the rocket don't write LinkedIn thought pieces about leadership.",
+   "urls": [],
+   "metrics": {
+    "likes": 1113,
+    "reposts": 107,
+    "replies": 49,
+    "quotes": 9
+   },
+   "ref": {
+    "id": "2122174254787760534",
+    "author_id": "27434900",
+    "username": "JohnLeFevre",
+    "name": "John LeFevre",
+    "created_at": "2026-11-16T03:45:45.000Z"
+   }
+  },
+  {
+   "id": "2122181244930678796",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T04:13:31.000Z",
+   "lang": "qme",
+   "conversation_id": "2122117749698912556",
+   "url": "https://x.com/elonmusk/status/2122181244930678796",
+   "reply_to": {
+    "id": "2122117749698912556",
+    "username": "AutismCapital"
+   },
+   "kind": "reply",
+   "text": "@AutismCapital 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 490,
+    "reposts": 24,
+    "replies": 93,
+    "quotes": 4
+   }
+  },
+  {
+   "id": "2122181062059037028",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T04:12:48.000Z",
+   "lang": "en",
+   "conversation_id": "2121827093017415989",
+   "url": "https://x.com/elonmusk/status/2122181062059037028",
+   "reply_to": {
+    "id": "2121999936552403345",
+    "username": "MatthewDR"
+   },
+   "kind": "reply",
+   "text": "@MatthewDR @nbcsnl @DarioAmodei @JensenHuang @finkd @sama @peterthiel I’d give them maybe 5/10 for me. They need to try harder.",
+   "urls": [],
+   "metrics": {
+    "likes": 166,
+    "reposts": 10,
+    "replies": 50,
+    "quotes": 1
+   }
+  },
+  {
+   "id": "2122180684949188927",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T04:11:18.000Z",
+   "lang": "en",
+   "conversation_id": "2122052312273403908",
+   "url": "https://x.com/elonmusk/status/2122180684949188927",
+   "reply_to": {
+    "id": "2122052312273403908",
+    "username": "nikitabier"
+   },
+   "kind": "reply",
+   "text": "@nikitabier Fentanyl sure takes out a lot of people",
+   "urls": [],
+   "metrics": {
+    "likes": 640,
+    "reposts": 39,
+    "replies": 123,
+    "quotes": 9
+   }
+  },
+  {
+   "id": "2122179460435001423",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T04:06:26.000Z",
+   "lang": "und",
+   "conversation_id": "2122179460435001423",
+   "url": "https://x.com/elonmusk/status/2122179460435001423",
+   "kind": "repost",
+   "text": "@nbcsnl lol",
+   "urls": [],
+   "metrics": {
+    "likes": 1301,
+    "reposts": 83,
+    "replies": 218,
+    "quotes": 13
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXN-R7rWoAA0DuG.jpg",
+     "width": 1168,
+     "height": 784
+    }
+   ],
+   "ref": {
+    "id": "2122178701039137144",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-16T04:03:25.000Z"
+   }
+  },
+  {
+   "id": "2122178928601137652",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T04:04:19.000Z",
+   "lang": "qme",
+   "conversation_id": "2121803800482807822",
+   "url": "https://x.com/elonmusk/status/2122178928601137652",
+   "reply_to": {
+    "id": "2121803800482807822",
+    "username": "LukeLeisher"
+   },
+   "kind": "reply",
+   "text": "@LukeLeisher 💯😂",
+   "urls": [],
+   "metrics": {
+    "likes": 675,
+    "reposts": 27,
+    "replies": 59,
+    "quotes": 2
+   }
+  },
+  {
+   "id": "2122178893297905713",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T04:04:10.000Z",
+   "lang": "en",
+   "conversation_id": "2122178893297905713",
+   "url": "https://x.com/elonmusk/status/2122178893297905713",
+   "kind": "repost",
+   "text": "The lesson of Icarus is not ‘don’t fly too close to the sun’ it’s ‘make better fucking wings’",
+   "urls": [],
+   "metrics": {
+    "likes": 4044,
+    "reposts": 276,
+    "replies": 76,
+    "quotes": 23
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXIpT24WwAA2NXb.jpg",
+     "width": 560,
+     "height": 600
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXIpT22WcAAC8y-.jpg",
+     "width": 498,
+     "height": 588
+    }
+   ],
+   "ref": {
+    "id": "2121803800482807822",
+    "author_id": "1839268922463498240",
+    "username": "LukeLeisher",
+    "name": "Luke",
+    "created_at": "2026-11-15T03:13:41.000Z"
+   }
+  },
+  {
+   "id": "2122178701039137144",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T04:03:25.000Z",
+   "lang": "und",
+   "conversation_id": "2121827093017415989",
+   "url": "https://x.com/elonmusk/status/2122178701039137144",
+   "reply_to": {
+    "id": "2121827093017415989",
+    "username": "nbcsnl"
+   },
+   "kind": "reply",
+   "text": "@nbcsnl lol",
+   "urls": [],
+   "metrics": {
+    "likes": 1301,
+    "reposts": 83,
+    "replies": 218,
+    "quotes": 13
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXN-R7rWoAA0DuG.jpg",
+     "width": 1168,
+     "height": 784
+    }
+   ]
+  },
+  {
+   "id": "2122173074258731277",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T03:41:03.000Z",
+   "lang": "en",
+   "conversation_id": "2122148745819390245",
+   "url": "https://x.com/elonmusk/status/2122173074258731277",
+   "reply_to": {
+    "id": "2122148745819390245",
+    "username": "Dogetothemoon"
+   },
+   "kind": "reply",
+   "text": "@Dogetothemoon We made some improvements",
+   "urls": [],
+   "metrics": {
+    "likes": 4085,
+    "reposts": 131,
+    "replies": 303,
+    "quotes": 20
+   }
+  },
+  {
+   "id": "2122164976282374286",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T03:08:52.000Z",
+   "lang": "und",
+   "conversation_id": "2122049397617983783",
+   "url": "https://x.com/elonmusk/status/2122164976282374286",
+   "reply_to": {
+    "id": "2122099994438361179",
+    "username": "nandesu"
+   },
+   "kind": "reply",
+   "text": "@nandesu @max_west07 Yes",
+   "urls": [],
+   "metrics": {
+    "likes": 285,
+    "reposts": 19,
+    "replies": 48,
+    "quotes": 6
+   }
+  },
+  {
+   "id": "2122164844107268542",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T03:08:21.000Z",
+   "lang": "en",
+   "conversation_id": "2122164844107268542",
+   "url": "https://x.com/elonmusk/status/2122164844107268542",
+   "kind": "repost",
+   "text": "i’m happy to answer any questions anyone has",
+   "urls": [],
+   "metrics": {
+    "likes": 2246,
+    "reposts": 274,
+    "replies": 245,
+    "quotes": 33
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122049243640635392/vid/avc1/1080x1920/ylTcnkdB5aEq_0mK.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122049243640635392/img/CLhQ16LVn9R9l1JL.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122049243640635392/vid/avc1/320x568/hAN8thGPmP-_qleZ.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122049243640635392/vid/avc1/480x852/gP5iNUVd4kOrGAzy.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122049243640635392/vid/avc1/720x1280/kxCjLPuVmP4rBcNK.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122049243640635392/vid/avc1/1080x1920/ylTcnkdB5aEq_0mK.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 444466
+    }
+   ],
+   "ref": {
+    "id": "2122049397617983783",
+    "author_id": "1691608715193917440",
+    "username": "max_west07",
+    "name": "Max West",
+    "created_at": "2026-11-15T19:29:36.000Z"
+   }
+  },
+  {
+   "id": "2122164455425327419",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T03:06:48.000Z",
+   "lang": "en",
+   "conversation_id": "2122164455425327419",
+   "url": "https://x.com/elonmusk/status/2122164455425327419",
+   "kind": "repost",
+   "text": "Crazy feat of engineering",
+   "urls": [],
+   "metrics": {
+    "likes": 3314,
+    "reposts": 333,
+    "replies": 143,
+    "quotes": 14
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121956642627387392/vid/avc1/1080x1920/lHLvvDAXjYLZbKsa.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121956642627387392/img/9sjDx46S4Z8UJwxX.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121956642627387392/vid/avc1/320x568/gHgtirVIiNx2WVA1.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121956642627387392/vid/avc1/480x852/uoexAf-Oc1gU6Y84.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121956642627387392/vid/avc1/720x1280/EseLLUjHKBFzuWn2.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121956642627387392/vid/avc1/1080x1920/lHLvvDAXjYLZbKsa.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 136066
+    }
+   ],
+   "ref": {
+    "id": "2121957400207130867",
+    "author_id": "1722567099229601792",
+    "username": "punishablepress",
+    "name": "Michael McCarthy",
+    "created_at": "2026-11-15T13:24:02.000Z"
+   }
+  },
+  {
+   "id": "2122164224382447808",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T03:05:53.000Z",
+   "lang": "en",
+   "conversation_id": "2122164224382447808",
+   "url": "https://x.com/elonmusk/status/2122164224382447808",
+   "kind": "quote",
+   "text": "Grok @Bot can do almost anything",
+   "urls": [],
+   "metrics": {
+    "likes": 3123,
+    "reposts": 384,
+    "replies": 651,
+    "quotes": 50
+   },
+   "ref": {
+    "id": "2122033615362302355",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-15T18:26:54.000Z",
+    "text": "Grok Bot made this Starship Flight 15 highlight reel for me. 🚀\n\nIt downloaded the 23-hour livestream, picked out the best moments, edited the clips together, added effects and music, all so quickly.\n\nYou don’t need a video editor anymore. Just ask Grok Bot.",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2122033423560986624/vid/avc1/1080x1080/HlR_PwkJYnfvtOsY.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122033423560986624/img/234q8xWRvwxddD_g.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2122033423560986624/vid/avc1/320x320/GXmKdXXzkBKlwWJo.mp4",
+        "w": 320,
+        "h": 320,
+        "br": 432000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122033423560986624/vid/avc1/540x540/6PDnKNQqulJM4qqX.mp4",
+        "w": 540,
+        "h": 540,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122033423560986624/vid/avc1/720x720/at5E8OOvlve8t3Rf.mp4",
+        "w": 720,
+        "h": 720,
+        "br": 1280000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122033423560986624/vid/avc1/1080x1080/HlR_PwkJYnfvtOsY.mp4",
+        "w": 1080,
+        "h": 1080,
+        "br": 8768000
+       }
+      ],
+      "width": 1080,
+      "height": 1080,
+      "duration_ms": 60000
+     }
+    ]
+   }
+  },
+  {
+   "id": "2122164088726016388",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T03:05:21.000Z",
+   "lang": "en",
+   "conversation_id": "2122164088726016388",
+   "url": "https://x.com/elonmusk/status/2122164088726016388",
+   "kind": "repost",
+   "text": "@elonmusk Great timeline 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 1525,
+    "reposts": 127,
+    "replies": 77,
+    "quotes": 21
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXNiDICaEAAcJo7.jpg",
+     "width": 881,
+     "height": 682
+    }
+   ],
+   "ref": {
+    "id": "2122147680201949253",
+    "author_id": "1446919010487095303",
+    "username": "AntiWokeMemes",
+    "name": "Anti Woke Memes",
+    "created_at": "2026-11-16T02:00:09.000Z"
+   }
+  },
+  {
+   "id": "2122163920680931461",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T03:04:41.000Z",
+   "lang": "qme",
+   "conversation_id": "2122146355074232469",
+   "url": "https://x.com/elonmusk/status/2122163920680931461",
+   "reply_to": {
+    "id": "2122147688431100279",
+    "username": "HeidiBriones"
+   },
+   "kind": "reply",
+   "text": "@HeidiBriones @grokdreama 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 663,
+    "reposts": 10,
+    "replies": 60,
+    "quotes": 3
+   }
+  },
+  {
+   "id": "2122163777454166505",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T03:04:07.000Z",
+   "lang": "en",
+   "conversation_id": "2122146355074232469",
+   "url": "https://x.com/elonmusk/status/2122163777454166505",
+   "reply_to": {
+    "id": "2122146355074232469",
+    "username": "elonmusk"
+   },
+   "kind": "reply",
+   "text": "Just doin some plumbin",
+   "urls": [],
+   "metrics": {
+    "likes": 3454,
+    "reposts": 126,
+    "replies": 386,
+    "quotes": 31
+   }
+  },
   {
    "id": "2122155781785346141",
    "author_id": "44196397",
@@ -51846,8 +52405,8 @@
   }
  ],
  "last_run": {
-  "status": "skipped",
-  "at": "2026-11-16T03:14:24Z",
-  "new_posts": 0
+  "status": "new",
+  "at": "2026-11-16T04:24:34Z",
+  "new_posts": 17
  }
 }

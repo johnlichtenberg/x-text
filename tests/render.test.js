@@ -194,6 +194,141 @@ assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
   ok(html.includes("Text not available.") && html.includes("Elon Musk") && !html.includes("isn't in this archive"), "empty loaded parent");
 }
 
+// Media with no caption is only the toggle. "Text not available." stays when there is neither text nor media.
+{
+  const PHOTO = { type: "photo", url: "https://pbs.twimg.com/media/only-photo.jpg", width: 100, height: 80 };
+  const VIDEO = { type: "video", url: "https://video.twimg.com/tweet_video/only-clip.mp4" };
+  function hiddenMedia(html, label) {
+    ok(html.includes('aria-expanded="false"'), label + " media starts hidden");
+    ok(!html.includes("pbs.twimg.com") && !html.includes("video.twimg.com") && !html.includes("only-photo") && !html.includes("only-clip"), label + " media URL stays out of the page");
+    assertNoX(html, label);
+  }
+
+  const photoOnly = R.renderList([P({ id: "801", text: "", media: [PHOTO] })], [], following);
+  ok(!photoOnly.includes("Text not available.") && photoOnly.includes("Show photo"), "post with media and no text has no missing line");
+  ok(!photoOnly.includes('class="text"'), "post with media and no text omits the text block");
+  hiddenMedia(photoOnly, "photo-only post");
+
+  const videoReply = R.renderList([P({ id: "806", kind: "reply", text: "", media: [VIDEO], reply_to: { username: "bob" } })], [], following);
+  ok(!videoReply.includes("Text not available.") && videoReply.includes("Show video"), "reply with media and no text has no missing line");
+  hiddenMedia(videoReply, "video reply");
+
+  const bare = R.renderList([P({ id: "802", text: "" })], [], following);
+  ok(bare.includes("Text not available."), "post with no text and no media still says text is missing");
+  ok(!bare.includes("Show photo") && !bare.includes("Show video") && !bare.includes("Show GIF"), "empty post has no media toggle");
+  assertNoX(bare, "empty post");
+  const emptyList = R.renderList([P({ id: "803", text: "", media: [] })], [], following);
+  ok(emptyList.includes("Text not available."), "an empty media array is not media");
+  const badMedia = R.renderList([P({ id: "804", text: "", media: "https://pbs.twimg.com/media/x.jpg" })], [], following);
+  ok(badMedia.includes("Text not available.") && !badMedia.includes("Show photo") && !badMedia.includes("pbs.twimg.com"), "non-array media does not hide the missing line");
+
+  const quoted = {
+    id: "811", username: "bob", name: "Bob", created_at: "2026-11-01T00:00:00.000Z", text: "", media: [PHOTO],
+  };
+  const quote = P({ id: "810", kind: "quote", username: "elonmusk", name: "Elon Musk", text: "OUTER_QUOTE_TEXT", ref: quoted });
+  const quoteHtml = R.renderList([quote], [quote], following);
+  ok(quoteHtml.includes("OUTER_QUOTE_TEXT") && quoteHtml.includes("❝ Quoting") && quoteHtml.includes("Bob"), "quoted photo still shows the quote");
+  ok(quoteHtml.includes("Show photo") && !quoteHtml.includes("Text not available."), "quoted original with media and no text has no missing line");
+  hiddenMedia(quoteHtml, "quoted photo");
+
+  const emptyQuoted = { id: "813", username: "bob", name: "Bob", text: "" };
+  const emptyQuote = P({ id: "812", kind: "quote", text: "OUTER_STILL", ref: emptyQuoted });
+  const emptyQuoteHtml = R.renderList([emptyQuote], [emptyQuote], following);
+  ok(emptyQuoteHtml.includes("Text not available.") && emptyQuoteHtml.includes("OUTER_STILL") && emptyQuoteHtml.includes("Bob"), "quoted original with no text and no media still says text is missing");
+  assertNoX(emptyQuoteHtml, "empty quote");
+
+  const nestedMedia = { id: "821", username: "cara", name: "Cara", text: "", media: [VIDEO] };
+  const mid = { id: "822", username: "bob", name: "Bob", text: "NEST_MID", quote: nestedMedia };
+  const nest = P({ id: "820", kind: "quote", text: "NEST_OUTER", ref: mid });
+  const nestHtml = R.renderList([nest], [nest], following);
+  ok(nestHtml.includes("NEST_OUTER") && nestHtml.includes("NEST_MID") && nestHtml.includes("Cara"), "nested quote still shows both authors");
+  ok(nestHtml.includes("Show video") && !nestHtml.includes("Text not available."), "nested quote with media and no text has no missing line");
+  hiddenMedia(nestHtml, "nested video");
+
+  const nestedEmpty = { id: "824", username: "cara", name: "Cara", text: "" };
+  const midEmpty = { id: "825", username: "bob", name: "Bob", text: "NEST_MID_TEXT", quote: nestedEmpty };
+  const nestEmpty = P({ id: "823", kind: "quote", text: "NEST_OUTER_TEXT", ref: midEmpty });
+  const nestEmptyHtml = R.renderList([nestEmpty], [nestEmpty], following);
+  eq(count(nestEmptyHtml, "Text not available."), 1, "nested quote with no text and no media still says text is missing");
+  ok(nestEmptyHtml.includes("NEST_OUTER_TEXT") && nestEmptyHtml.includes("NEST_MID_TEXT"), "nested empty quote keeps the posts that have text");
+
+  const repost = P({
+    id: "830", kind: "repost", username: "elonmusk", name: "Elon Musk", text: "",
+    media: [PHOTO],
+    ref: { id: "831", username: "bob", name: "Bob", created_at: "2026-11-01T00:00:00.000Z" },
+  });
+  const repostHtml = R.renderList([repost], [repost], following);
+  ok(repostHtml.includes("reposted") && repostHtml.includes("Bob") && repostHtml.includes("Show photo") && !repostHtml.includes("Text not available."), "reposted original with media and no text has no missing line");
+  hiddenMedia(repostHtml, "photo repost");
+
+  const repostEmpty = P({
+    id: "832", kind: "repost", username: "elonmusk", name: "Elon Musk", text: "",
+    ref: { id: "833", username: "bob", name: "Bob" },
+  });
+  const repostEmptyHtml = R.renderList([repostEmpty], [repostEmpty], following);
+  ok(repostEmptyHtml.includes("Text not available.") && repostEmptyHtml.includes("Bob") && repostEmptyHtml.includes("reposted"), "reposted original with no text and no media still says text is missing");
+  assertNoX(repostEmptyHtml, "empty repost");
+
+  const ownMedia = P({
+    id: "840", kind: "quote", text: "", media: [VIDEO],
+    ref: { id: "841", username: "bob", name: "Bob", text: "QUOTED_WORDS" },
+  });
+  const ownHtml = R.renderList([ownMedia], [ownMedia], following);
+  ok(ownHtml.includes("QUOTED_WORDS") && ownHtml.includes("Show video") && !ownHtml.includes("Text not available."), "quote with media and no commentary has no missing line");
+  hiddenMedia(ownHtml, "quote commentary");
+
+  const mediaParent = P({
+    id: "850", username: "elonmusk", name: "Elon Musk", text: "", media: [PHOTO],
+    url: "https://x.com/elonmusk/status/850",
+  });
+  const mediaReply = P({
+    id: "851", username: "elonmusk", name: "Elon Musk", kind: "reply", text: "ack",
+    reply_to: { id: "850", username: "elonmusk" },
+  });
+  const parentHtml = open([mediaReply], [mediaReply, mediaParent]);
+  ok(parentHtml.includes("ack") && parentHtml.includes("Elon Musk") && parentHtml.includes("Show photo") && !parentHtml.includes("Text not available."), "parent with media and no text has no missing line");
+  hiddenMedia(parentHtml, "media parent");
+
+  const quotedOnly = { id: "862", username: "bob", name: "Bob", text: "", media: [VIDEO] };
+  const parentQuote = P({
+    id: "860", username: "elonmusk", name: "Elon Musk", kind: "quote", text: "PARENT_QUOTE",
+    ref: quotedOnly, url: "https://x.com/elonmusk/status/860",
+  });
+  const quoteChild = P({
+    id: "861", username: "elonmusk", name: "Elon Musk", kind: "reply", text: "child ack",
+    reply_to: { id: "860", username: "elonmusk" },
+  });
+  const parentQuoteHtml = open([quoteChild], [quoteChild, parentQuote]);
+  ok(parentQuoteHtml.includes("PARENT_QUOTE") && parentQuoteHtml.includes("Show video") && !parentQuoteHtml.includes("Text not available."), "quoted original inside a parent with media and no text has no missing line");
+  hiddenMedia(parentQuoteHtml, "parent quote media");
+
+  const repostParent = P({
+    id: "870", username: "elonmusk", name: "Elon Musk", kind: "repost", text: "",
+    media: [PHOTO], url: "https://x.com/elonmusk/status/870",
+    ref: { id: "871", username: "bob", name: "Bob", created_at: "2026-11-01T00:00:00.000Z" },
+  });
+  const repostChild = P({
+    id: "872", username: "elonmusk", name: "Elon Musk", kind: "reply", text: "saw it",
+    reply_to: { id: "870", username: "elonmusk" },
+  });
+  const repostParentHtml = open([repostChild], [repostChild, repostParent]);
+  ok(repostParentHtml.includes("saw it") && repostParentHtml.includes("Bob") && repostParentHtml.includes("Show photo") && !repostParentHtml.includes("Text not available."), "repost parent with media and no text has no missing line");
+  hiddenMedia(repostParentHtml, "repost parent");
+
+  const blankRepost = P({
+    id: "873", username: "elonmusk", name: "Elon Musk", kind: "repost", text: "",
+    url: "https://x.com/elonmusk/status/873",
+    ref: { id: "874", username: "bob", name: "Bob" },
+  });
+  const blankChild = P({
+    id: "875", username: "elonmusk", name: "Elon Musk", kind: "reply", text: "where",
+    reply_to: { id: "873", username: "elonmusk" },
+  });
+  const blankParentHtml = open([blankChild], [blankChild, blankRepost]);
+  ok(blankParentHtml.includes("Text not available.") && blankParentHtml.includes("Bob") && blankParentHtml.includes("where"), "repost parent with no text and no media still says text is missing");
+  assertNoX(blankParentHtml, "empty repost parent");
+}
+
 // Parent is a repost: show the embedded original, and do not replace it with another archive post.
 {
   const original = P({ id: "8", username: "rocketco", name: "Rocket Co", text: "DO_NOT_PULL_ARCHIVE_ORIGINAL" });

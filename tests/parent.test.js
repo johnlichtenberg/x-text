@@ -101,4 +101,17 @@ const parentSrc = fs.readFileSync(path.join(__dirname, "..", "app.js"), "utf8");
 ok(!parentSrc.includes("No parent yet. It may still be saving"), "the page no longer says the parent lookup gave up");
 ok(parentSrc.includes(parentWait), "the parent poll shows the waiting note");
 
+const photo = { type: "photo", url: "https://pbs.twimg.com/media/parent-only.jpg", width: 40, height: 40 };
+const mediaParent = post("9", { text: "", username: "bob", name: "Bob", media: [photo] });
+const mediaReply = post("10", { kind: "reply", text: "reply", reply_to: { id: "9", username: "bob" } });
+const openedMedia = R.renderList([mediaReply], [mediaReply, mediaParent], [], { shown: ["10"] });
+ok(openedMedia.includes("Show photo") && openedMedia.includes("Bob") && !openedMedia.includes("Text not available."), "opened parent with media and no text omits the missing line");
+ok(!openedMedia.includes("parent-only.jpg") && !openedMedia.includes("pbs.twimg.com"), "opened parent keeps the media URL hidden");
+ok(openedMedia.includes('aria-expanded="false"'), "opened parent media stays hidden");
+ok(!/href\s*=\s*["'][^"']*(?:x\.com|twitter\.com|t\.co)/i.test(openedMedia), "media parent renders no X link");
+const blankParent = post("9", { text: "", username: "bob", name: "Bob" });
+const openedBlank = R.renderList([mediaReply], [mediaReply, blankParent], [], { shown: ["10"] });
+ok(openedBlank.includes("Text not available.") && openedBlank.includes("Bob") && openedBlank.includes("reply"), "opened parent with no text and no media still says text is missing");
+ok(!openedBlank.includes("Show photo") && !openedBlank.includes("Show video"), "blank parent has no media toggle");
+
 console.log("parent tests passed: " + n);

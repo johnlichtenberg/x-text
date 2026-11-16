@@ -1,8 +1,744 @@
 {
- "updated_at": "2026-11-16T00:40:09Z",
- "count": 1392,
+ "updated_at": "2026-11-16T03:04:25Z",
+ "count": 1406,
  "accounts": 12,
  "posts": [
+  {
+   "id": "2122155781785346141",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T02:32:20.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122155781785346141",
+   "kind": "repost",
+   "text": "Morgan Stanley’s Adam Jonas on @SpaceX successfully catching Starship on flight 15:\n\n“In our view, Flight 15 is a historic inflection moment for the company and spaceflight as a whole. SpaceX has recovered three Starship + many hundreds of Falcon 9 boosters in its history, and now others have accomplished the same. However, no entity has ever even attempted to recover a rocket upper stage in history (not counting Space Shuttle) given the intense thermal and mechanical stress of orbital re-entry.\n\nWith an upper stage now recovered intact, SpaceX can conduct a deep inspection of Ship 42 and use the findings to improve future vehicles in a way that was never previously possible. We believe it also helps clear the path to ramping full reuse of both booster and ship, the last major technical milestone before weekly or even daily Starship flights become realistic.\n\nWith a ship catch, SpaceX has materially de-risked the longer-term TAMs across all 3 of its segments.”",
+   "urls": [],
+   "metrics": {
+    "likes": 1723,
+    "reposts": 218,
+    "replies": 99,
+    "quotes": 19
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXNkrvzXwAEUBQy.jpg",
+     "width": 398,
+     "height": 535
+    }
+   ],
+   "ref": {
+    "id": "2122150555078234620",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-16T02:11:34.000Z"
+   }
+  },
+  {
+   "id": "2122155440788099394",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T02:30:59.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122155440788099394",
+   "kind": "post",
+   "text": "Robotaxi life is a hard life. Tesla team empathizes with this guy. https://t.co/HE6NoyNv0r",
+   "urls": [],
+   "metrics": {
+    "likes": 4657,
+    "reposts": 333,
+    "replies": 675,
+    "quotes": 49
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXNpH_gWoAASpaN.jpg",
+     "width": 2048,
+     "height": 1150
+    }
+   ]
+  },
+  {
+   "id": "2122147239573295564",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T01:58:24.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122147239573295564",
+   "reply_to": {
+    "id": "2122095423196213270",
+    "username": "brivael"
+   },
+   "kind": "reply",
+   "text": "@brivael 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 4739,
+    "reposts": 147,
+    "replies": 199,
+    "quotes": 5
+   },
+   "partial": true
+  },
+  {
+   "id": "2122147070132052059",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T01:57:43.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122147070132052059",
+   "kind": "repost",
+   "text": "Joe Rogan praises Tesla FSD, saying his car drives him home at the press of a button.\n\n“I leave the club. I press a button. It just drives me home. I don’t have to think at all. If Tesla licensed that, the whole electric car world would explode because it’s so good.”",
+   "urls": [],
+   "metrics": {
+    "likes": 1607,
+    "reposts": 196,
+    "replies": 102,
+    "quotes": 16
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122050733923250176/vid/avc1/1080x1080/9tpreWUqXWDtlXDw.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122050733923250176/img/ORTBHl4FTjMXgE46.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122050733923250176/vid/avc1/320x320/CxFxm1Mr4TQWTc_D.mp4",
+       "w": 320,
+       "h": 320,
+       "br": 432000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122050733923250176/vid/avc1/540x540/CUscsrzi8BvJOcI3.mp4",
+       "w": 540,
+       "h": 540,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122050733923250176/vid/avc1/720x720/MJLLfp82oV16CNZu.mp4",
+       "w": 720,
+       "h": 720,
+       "br": 1280000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122050733923250176/vid/avc1/1080x1080/9tpreWUqXWDtlXDw.mp4",
+       "w": 1080,
+       "h": 1080,
+       "br": 8768000
+      }
+     ],
+     "width": 1080,
+     "height": 1080,
+     "duration_ms": 41888
+    }
+   ],
+   "ref": {
+    "id": "2122050855499366681",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-15T19:35:24.000Z"
+   }
+  },
+  {
+   "id": "2122146355074232469",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T01:54:53.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122146355074232469",
+   "kind": "post",
+   "text": "Say no to crack https://t.co/uQmtL5s2yh",
+   "urls": [],
+   "metrics": {
+    "likes": 26819,
+    "reposts": 1675,
+    "replies": 2389,
+    "quotes": 317
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXNg3FhWsAA3D8g.jpg",
+     "width": 2048,
+     "height": 2048
+    }
+   ]
+  },
+  {
+   "id": "2122145343693598847",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T01:50:52.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122145343693598847",
+   "kind": "repost",
+   "text": "Jeff Bezos applied capital and engineering to the same industry with Blue Origin, starting in 2000, 2 years before Elon founded SpaceX. He was wealthier for most of that time, with better access to Wall Street.\n\nThe industry incumbents were around much longer than both, applying capital and engineering to the space industry.\n\nElon’s results with SpaceX are far above normal. He raised most of his capital from Silicon Valley, not Wall Street.\n\nCriticizing Elon is not the skill his haters think it is.",
+   "urls": [],
+   "metrics": {
+    "likes": 2328,
+    "reposts": 227,
+    "replies": 68,
+    "quotes": 13
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXM65I6asAAJdBH.jpg",
+     "width": 1178,
+     "height": 1112
+    }
+   ],
+   "ref": {
+    "id": "2122104610643222844",
+    "author_id": "108365454",
+    "username": "WR4NYGov",
+    "name": "Warren Redlich - Chasing Dreams 🇺🇸",
+    "created_at": "2026-11-15T23:09:00.000Z"
+   }
+  },
+  {
+   "id": "2122145276681220436",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T01:50:36.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122145276681220436",
+   "kind": "quote",
+   "text": "I have a very wide distribution of training data https://t.co/QxHW95Nzsk",
+   "urls": [],
+   "metrics": {
+    "likes": 4648,
+    "reposts": 413,
+    "replies": 556,
+    "quotes": 22
+   },
+   "partial": true,
+   "ref": {
+    "id": "2122130157616128377",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-16T00:50:31.000Z",
+    "text": "Former NASA astronaut Garrett Reisman, who spent seven years working with Elon Musk at SpaceX, explains what makes @elonmusk such an extraordinary engineer:\n\n“I mean, I’ve met a lot of super, super smart people, but they’re usually super, super smart on one thing.”\n\n“And he’s able to have conversations with our top engineers about the software and, you know, the most arcane aspects of that. And then he’ll turn to our manufacturing engineers and have discussions about some really esoteric welding process for some crazy alloy.”\n\n“And his ability to do that across all the different technologies that go into rockets and cars and everything else he does. That’s what really impresses me.”\n\n“He’s really the most driven person I think I’ve ever met.”",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2122129718594199552/vid/avc1/1726x1080/f5Lwx24PpLH184Df.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122129718594199552/img/xv7gZiScyXR6K7S6.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2122129718594199552/vid/avc1/430x270/TKqFbcCw-rJfGiP2.mp4",
+        "w": 430,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122129718594199552/vid/avc1/574x360/FW_uDdLPFByvUT4n.mp4",
+        "w": 574,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122129718594199552/vid/avc1/1150x720/L0Xl0RSS8pJuG8mU.mp4",
+        "w": 1150,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122129718594199552/vid/avc1/1726x1080/f5Lwx24PpLH184Df.mp4",
+        "w": 1726,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 1726,
+      "height": 1080,
+      "duration_ms": 398898
+     }
+    ]
+   }
+  },
+  {
+   "id": "2122141959917842487",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T01:37:25.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122141959917842487",
+   "kind": "quote",
+   "text": "That’s how it happened https://t.co/IceeiJGYX6",
+   "urls": [],
+   "metrics": {
+    "likes": 5831,
+    "reposts": 636,
+    "replies": 543,
+    "quotes": 50
+   },
+   "partial": true,
+   "ref": {
+    "id": "2122135949094350967",
+    "author_id": "2066250685512110080",
+    "username": "firesidealpha",
+    "name": "Fireside Alpha",
+    "created_at": "2026-11-16T01:13:32.000Z",
+    "text": "Elon Musk reveals he recruited SpaceX’s first engineers by telling them 'we’re probably going to die', and ended up as chief engineer because no good one would join\n\n“So SpaceX, I started that in mid-2002 expecting to fail. Probably 90% chance of failing.”\n\n“And even when recruiting people, I didn’t try to make out that it would work. I said, we’re probably going to die, but there’s a small chance we might not die, and this is the only way to get people to Mars and advance the state of the art.”\n\n“And then I ended up being chief engineer of the rocket, not because I wanted to, but because I couldn’t hire anyone who was good. None of the good chief engineers would join, because they’re like, this is too risky, you’re going to die. And so I ended up being chief engineer of the rocket.”",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2122135677462880256/vid/avc1/1920x1080/TSs_DWeN4X9csXQq.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122135677462880256/img/kXRuUwK4fHqOxTfA.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2122135677462880256/vid/avc1/480x270/PhqWZaUGohDKAs78.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122135677462880256/vid/avc1/640x360/xrEbkW6i8uyoYZEG.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122135677462880256/vid/avc1/1280x720/73PlLAC2pxc_jRYc.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122135677462880256/vid/avc1/1920x1080/TSs_DWeN4X9csXQq.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 46112
+     }
+    ],
+    "quote": {
+     "id": "2122120160639426895",
+     "author_id": "2066250685512110080",
+     "username": "firesidealpha",
+     "name": "Fireside Alpha",
+     "created_at": "2026-11-16T00:10:48.000Z",
+     "text": "Jeff Bezos on Elon Musk: \"Judging by the results, he must be a very capable leader. There’s no way you could have Tesla and SpaceX without being a capable leader. It’s impossible.\"\n\nC'mon what're we even doing here  https://twitter.com/matthewstoller/status/2121803929537204575",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2122119959283380224/vid/avc1/1920x1080/vHRV0hEH2P4Xi1Hm.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2122119959283380224/img/JbGxstGdiIy4_b2j.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2122119959283380224/vid/avc1/480x270/CSj-eekaw8McdKfH.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122119959283380224/vid/avc1/640x360/jqoGY4776JtTIXPq.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122119959283380224/vid/avc1/1280x720/hZPp4CVw7-fS6wag.mp4",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122119959283380224/vid/avc1/1920x1080/vHRV0hEH2P4Xi1Hm.mp4",
+         "w": 1920,
+         "h": 1080,
+         "br": 10368000
+        }
+       ],
+       "width": 1920,
+       "height": 1080,
+       "duration_ms": 18266
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2122141116195877155",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T01:34:04.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122141116195877155",
+   "kind": "quote",
+   "text": "True https://t.co/S0zqvmvzX5",
+   "urls": [],
+   "metrics": {
+    "likes": 4517,
+    "reposts": 410,
+    "replies": 297,
+    "quotes": 19
+   },
+   "partial": true,
+   "ref": {
+    "id": "2122116272725037236",
+    "author_id": "331865640",
+    "username": "aaronburnett",
+    "name": "Aaron Burnett",
+    "created_at": "2026-11-15T23:55:21.000Z",
+    "text": "Also why the same amount of money (~$15B) to build all of Starbase was used to build an overpass to nowhere for California’s high speed rail. Capital allocation efficiency is a thing.",
+    "quote": {
+     "id": "2122114284779925897",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-11-15T23:47:27.000Z",
+     "text": "Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon.\n\nPerhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably?\n\nAlso, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit?\n\nI am genuinely curious about these questions."
+    }
+   }
+  },
+  {
+   "id": "2122141019894383027",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T01:33:41.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122141019894383027",
+   "kind": "quote",
+   "text": "Starship V4 will be ~70m long, which is roughly a 40% length increase and allows >60% more propellant load.\n\nEngine count will be raised to 9, with 3 more Raptor-Vacuum engines added, and these will be higher thrust V4 engines. https://t.co/VxrFs7FImC",
+   "urls": [],
+   "metrics": {
+    "likes": 13878,
+    "reposts": 1347,
+    "replies": 801,
+    "quotes": 177
+   },
+   "partial": true,
+   "ref": {
+    "id": "2122078470121435372",
+    "author_id": "4375247427",
+    "username": "ApoStructura",
+    "name": "ApoStructura",
+    "created_at": "2026-11-15T21:25:08.000Z",
+    "text": "The scale of Starship:",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXMjHvFWMAAhqHY.jpg",
+      "width": 1800,
+      "height": 1180
+     }
+    ],
+    "quote": {
+     "id": "2121717540359434749",
+     "author_id": "4375247427",
+     "username": "ApoStructura",
+     "name": "ApoStructura",
+     "created_at": "2026-11-14T21:30:55.000Z",
+     "text": "Easily the coolest thing I’ve ever seen",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2121717209051328512/vid/avc1/2302x1290/5Wna3nZHCKRyAm4d.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2121717209051328512/img/hDCMuh6JdEM46uRm.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2121717209051328512/vid/avc1/480x270/z6uOXQgCb6KAct8s.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121717209051328512/vid/avc1/642x360/JTmol35GEsHR-SeK.mp4",
+         "w": 642,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121717209051328512/vid/avc1/1284x720/EcQezqAj8w_oXFmm.mp4",
+         "w": 1284,
+         "h": 720,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121717209051328512/vid/avc1/2302x1290/5Wna3nZHCKRyAm4d.mp4",
+         "w": 2302,
+         "h": 1290,
+         "br": 10368000
+        }
+       ],
+       "width": 2302,
+       "height": 1290,
+       "duration_ms": 90668
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2122138555137110487",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T01:23:53.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122138555137110487",
+   "kind": "quote",
+   "text": "This is the way https://t.co/cptWjSgJ2a",
+   "urls": [],
+   "metrics": {
+    "likes": 7409,
+    "reposts": 611,
+    "replies": 626,
+    "quotes": 46
+   },
+   "partial": true,
+   "ref": {
+    "id": "2122072642509545544",
+    "author_id": "829829626180599808",
+    "username": "OwenSparks",
+    "name": "Owen Sparks",
+    "created_at": "2026-11-15T21:01:58.000Z",
+    "text": "Most CEO's would take a meeting to hear from employees who inspected the ship, but Elon gets up in a boom lift to personally inspect it alongside his team.\n\nZero loss of information, everyone on the same page, and as a result Starship will be further improved upon.",
+    "quote": {
+     "id": "2122058900337840561",
+     "author_id": "38809677",
+     "username": "XanderSky",
+     "name": "Xander Sky",
+     "created_at": "2026-11-15T20:07:22.000Z",
+     "text": "Elon inspecting his masterpiece",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2122058715171868672/vid/avc1/1080x1920/1OYn8WHPJQLxr_C8.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2122058715171868672/img/PvXwEIKTGnEoeON-.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2122058715171868672/vid/avc1/320x568/eZEy-ai6AGh3fnlf.mp4",
+         "w": 320,
+         "h": 568,
+         "br": 632000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122058715171868672/vid/avc1/480x852/3xqhLIhypVO7UQmX.mp4",
+         "w": 480,
+         "h": 852,
+         "br": 950000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122058715171868672/vid/avc1/720x1280/KhLlyFK4LgNCk7Nf.mp4",
+         "w": 720,
+         "h": 1280,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122058715171868672/vid/avc1/1080x1920/1OYn8WHPJQLxr_C8.mp4",
+         "w": 1080,
+         "h": 1920,
+         "br": 10368000
+        }
+       ],
+       "width": 1080,
+       "height": 1920,
+       "duration_ms": 41481
+      },
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2122058715087994880/vid/avc1/1080x1920/AgRp1zHZuMTUIJ0S.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2122058715087994880/img/RTdGpLviKQvRcIUd.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2122058715087994880/vid/avc1/320x568/vDmnZ3ScFwv7BDrd.mp4",
+         "w": 320,
+         "h": 568,
+         "br": 632000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122058715087994880/vid/avc1/480x852/gt3Ne5Hfq-YMa2ON.mp4",
+         "w": 480,
+         "h": 852,
+         "br": 950000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122058715087994880/vid/avc1/720x1280/XJ4ngmOF8AOWxGnO.mp4",
+         "w": 720,
+         "h": 1280,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122058715087994880/vid/avc1/1080x1920/AgRp1zHZuMTUIJ0S.mp4",
+         "w": 1080,
+         "h": 1920,
+         "br": 10368000
+        }
+       ],
+       "width": 1080,
+       "height": 1920,
+       "duration_ms": 15766
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2122138040176894180",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T01:21:50.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122138040176894180",
+   "kind": "quote",
+   "text": "Cool https://t.co/Z0fbkZvcHz",
+   "urls": [],
+   "metrics": {
+    "likes": 3231,
+    "reposts": 263,
+    "replies": 350,
+    "quotes": 22
+   },
+   "partial": true,
+   "ref": {
+    "id": "2121995093204701439",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-15T15:53:49.000Z",
+    "text": "Legacy media headlines after @SpaceX caught Starship:\n\n• CNN: \"SpaceX Starship nails historic ship catch in unprecedented test flight\"\n• Reuters: \"SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets\"\n• Fox: \"SpaceX makes history as Starship spacecraft caught by launch tower for first time\"\n• CNBC: \"SpaceX catches upper stage of Starship rocket in historic first\"\n• NYT: \"SpaceX makes history with successful rocket catch in Texas\"\n• BBC: \"'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth\"\n• NPR: \"SpaceX makes history with Starship catch\"\n• Sky News: \"SpaceX makes unprecedented 'catch' of Starship\"",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXLUoW7XwAEcUQO.jpg",
+      "width": 2562,
+      "height": 3247
+     }
+    ]
+   }
+  },
+  {
+   "id": "2122137991032529140",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T01:21:39.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122137991032529140",
+   "kind": "repost",
+   "text": "Legacy media headlines after @SpaceX caught Starship:\n\n• CNN: \"SpaceX Starship nails historic ship catch in unprecedented test flight\"\n• Reuters: \"SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets\"\n• Fox: \"SpaceX makes history as Starship spacecraft caught by launch tower for first time\"\n• CNBC: \"SpaceX catches upper stage of Starship rocket in historic first\"\n• NYT: \"SpaceX makes history with successful rocket catch in Texas\"\n• BBC: \"'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth\"\n• NPR: \"SpaceX makes history with Starship catch\"\n• Sky News: \"SpaceX makes unprecedented 'catch' of Starship\"",
+   "urls": [],
+   "metrics": {
+    "likes": 6749,
+    "reposts": 469,
+    "replies": 478,
+    "quotes": 79
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXLUoW7XwAEcUQO.jpg",
+     "width": 2562,
+     "height": 3247
+    }
+   ],
+   "ref": {
+    "id": "2121995093204701439",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-15T15:53:49.000Z"
+   }
+  },
+  {
+   "id": "2122127527040712704",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T00:40:04.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122127527040712704",
+   "kind": "quote",
+   "text": "Starlink helps rural schools with education https://t.co/mOb4qjOrri",
+   "urls": [],
+   "metrics": {
+    "likes": 8115,
+    "reposts": 822,
+    "replies": 664,
+    "quotes": 65
+   },
+   "partial": true,
+   "ref": {
+    "id": "2121955840370614708",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-15T13:17:51.000Z",
+    "text": "BREAKING: Every rural municipal school in Rondonópolis, Brazil, now has Starlink internet. 🇧🇷\n\nStudents and teachers can now access digital libraries, educational videos and online learning tools.\n\nSpaceX is bringing a world of knowledge to remote classrooms. ♥️",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2121955796431032320/vid/avc1/720x720/tW2wcWiuNgn-spYw.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2121955796431032320/img/A07_A9kkr1ta7KY5.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2121955796431032320/vid/avc1/320x320/Rx91u0gQ06YP_rgA.mp4",
+        "w": 320,
+        "h": 320,
+        "br": 432000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121955796431032320/vid/avc1/540x540/ViUVowYMXwqdlSg_.mp4",
+        "w": 540,
+        "h": 540,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121955796431032320/vid/avc1/720x720/tW2wcWiuNgn-spYw.mp4",
+        "w": 720,
+        "h": 720,
+        "br": 1280000
+       }
+      ],
+      "width": 720,
+      "height": 720,
+      "duration_ms": 10133
+     }
+    ]
+   }
+  },
   {
    "id": "2122127355502071854",
    "author_id": "44196397",
@@ -51110,8 +51846,8 @@
   }
  ],
  "last_run": {
-  "status": "no_new",
-  "at": "2026-11-16T01:40:34Z",
-  "new_posts": 0
+  "status": "new",
+  "at": "2026-11-16T03:05:30Z",
+  "new_posts": 14
  }
 }

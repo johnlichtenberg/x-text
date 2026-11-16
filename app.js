@@ -204,10 +204,11 @@
       var same = r.id != null && q.id != null && String(r.id) === String(q.id);
       if (!same) nested = refBlock(q, typeof q.text === "string" ? q.text : "", "❝ Quoting", undefined, depth + 1, q);
     }
-    var body = typeof text === "string" && text ? textBlock(text, linkSrc || r) : '<div class="text missing">Text not available.</div>';
+    var shownMedia = media === undefined ? r.media : media;
+    var body = textBody(text, linkSrc || r, shownMedia);
     return '<div class="quote">' + (label ? '<div class="marker">' + label + "</div>" : "") + refMeta(r) +
       articleLine(r.article_title) + body +
-      mediaBlock(media === undefined ? r.media : media, r.username) + nested + "</div>";
+      mediaBlock(shownMedia, r.username) + nested + "</div>";
   }
 
   // Hidden media: only a label button is rendered. The original URL stays in this JS map (never in the DOM).
@@ -363,6 +364,13 @@
     return '<div class="text" id="' + id + '"><span class="pv">' + linkify(pv, src) + '</span><span class="full" hidden>' + linkify(text, src) +
       '</span></div><button type="button" class="expand" aria-expanded="false" aria-controls="' + id + '">Show full post</button>';
   }
+  // Caption when there is one. Media with no text is only the Show photo / Show video toggle.
+  // "Text not available." stays when the item has neither.
+  function textBody(text, src, media) {
+    if (typeof text === "string" && text) return textBlock(text, src);
+    if (Array.isArray(media) && media.length) return "";
+    return '<div class="text missing">Text not available.</div>';
+  }
   function toggleText(btn) {
     var box = $(btn.getAttribute("aria-controls")), open = btn.getAttribute("aria-expanded") !== "true";
     box.querySelector(".pv").hidden = open;
@@ -372,16 +380,14 @@
     if (!open) { var r = btn.getBoundingClientRect(); if (r.top < 0 || r.bottom > window.innerHeight) btn.scrollIntoView({ block: "center" }); }
   }
 
-  // Feed body for one post. forParent uses the same quote/repost embedding and does not look up another reply parent.
-  function postContent(p, forParent) {
+  // Feed body for one post. A parent card uses this same quote/repost embedding and does not look up another reply parent.
+  function postContent(p) {
     if (p.kind === "repost") {
       var ref = p.ref && typeof p.ref === "object" && !Array.isArray(p.ref) ? p.ref : {};
       var r = Object.assign({}, ref, { article_title: p.article_title });
       return refBlock(r, p.text, "", p.media, 0, p);
     }
-    var textHtml = typeof p.text === "string" && p.text ? textBlock(p.text, p)
-      : (forParent ? '<div class="text missing">Text not available.</div>' : textBlock(p.text, p));
-    var html = articleLine(p.article_title) + textHtml + mediaBlock(p.media, p.username);
+    var html = articleLine(p.article_title) + textBody(p.text, p, p.media) + mediaBlock(p.media, p.username);
     if (p.kind === "quote" && p.ref && typeof p.ref === "object" && !Array.isArray(p.ref) && p.ref !== p) html += refBlock(p.ref, p.ref.text, "❝ Quoting", undefined, 0, p.ref);
     return html;
   }
@@ -397,7 +403,7 @@
     else if (parent.reply_to && typeof parent.reply_to === "object" && !Array.isArray(parent.reply_to) && parent.reply_to.username) {
       note = '<div class="marker">↩ Replying to ' + who(parent.reply_to.username) + "</div>";
     }
-    return '<div class="quote parent">' + note + parentHead(parent) + postContent(parent, true) + "</div>";
+    return '<div class="quote parent">' + note + parentHead(parent) + postContent(parent) + "</div>";
   }
   function showParentButton(replyId, parentId, retry) {
     return '<button type="button" class="show-parent" data-reply="' + esc(replyId) + '" data-parent="' + esc(parentId) + '"' +

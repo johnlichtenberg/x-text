@@ -948,6 +948,10 @@
   function runMessage(run, before_n) {
     if (!run) return "Updated · " + plural(Math.max(0, state.posts.length - before_n), "new post");
     if (run.status === "skipped") return "Skipped: refreshed under 10 min ago";
+    if (run.status === "running") {
+      return plural(run.new_posts || 0, "new post") + (run.handle && HANDLE.test(run.handle) ? " from @" + run.handle : "") +
+        " · still checking the other accounts…";
+    }
     if (run.status === "no_new") return "No new posts";
     return plural(run.new_posts != null ? run.new_posts : Math.max(0, state.posts.length - before_n), "new post");
   }
@@ -964,6 +968,23 @@
   }
   function parentTimeoutNote() {
     return "Still loading this parent… a slow lookup can take a few minutes. Reload the page in a minute to see it.";
+  }
+
+  // The account page being viewed, if any, is refreshed first (the relay re-checks the handle).
+  var HANDLE = /^[A-Za-z0-9_]{1,15}$/;
+  function refreshBody(hash) {
+    var h = String(hash || "").replace(/^#\/?/, "").split("?")[0].split("/"), body = { action: "refresh", source: "x-text" };
+    var name = "";
+    try { name = h[0] === "u" && h[1] ? decodeURIComponent(h[1]) : ""; } catch (e) { name = ""; }
+    if (HANDLE.test(name)) body.handle = name;
+    return JSON.stringify(body);
+  }
+  // What a changed index means while polling: "wait" (no change), "partial" (the viewed account's
+  // posts were published early; keep polling for the rest), or "done".
+  function pollStep(doc, beforeRun, beforeUpdated) {
+    if (!doc) return "wait";
+    if (JSON.stringify(doc.last_run || null) === beforeRun && doc.updated_at === beforeUpdated) return "wait";
+    return doc.last_run && doc.last_run.status === "running" ? "partial" : "done";
   }
 
   function startPoll() {
@@ -993,7 +1014,19 @@
         if (text === before) return;
         var doc;
         try { doc = JSON.parse(text); } catch (e) { return; }
-        if (JSON.stringify(doc.last_run || null) === before_run && doc.updated_at === (state.meta && state.meta.updated_at)) return;
+        var step = pollStep(doc, before_run, state.meta && state.meta.updated_at);
+        if (step === "wait") return;
+        if (step === "partial") {
+          // Show the early posts and keep polling; the time limit restarts for the rest of the run.
+          before_run = JSON.stringify(doc.last_run || null);
+          before = text;
+          started = Date.now();
+          inflight = true;
+          return loadAll().then(function () {
+            inflight = false;
+            if (poll) rstatus(runMessage(doc.last_run, before_n));
+          }, function () { inflight = false; });
+        }
         clearInterval(poll); poll = null;
         return loadAll().then(function () { stopPoll(); rstatus(runMessage(doc.last_run, before_n)); });
       }, function () { inflight = false; });
@@ -1005,7 +1038,7 @@
     if (!url) { rstatus("Refresh isn't set up yet"); return; }
     $("refreshBtn").disabled = true;
     rstatus("Sending refresh…");
-    fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ action: "refresh", source: "x-text" }),
+    fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: refreshBody(location.hash),
       cache: "no-store", credentials: "omit", referrerPolicy: "no-referrer" }).then(function (r) {
       if (r.ok) { rstatus("Refreshing…"); startPoll(); }
       else { stopPoll(); rstatus("Refresh failed: HTTP " + r.status + (r.status === 429 ? " (just requested; try again in a few minutes)" : r.status === 502 || r.status === 504 ? " (the Grok Bot webhook did not accept it)" : ""), true); }
@@ -1223,6 +1256,7 @@
       parentClick: P.parentClick, homeShardIds: homeShardIds, shardList: shardList, dataPathOk: dataPathOk,
       indexStamp: indexStamp, pickIndex: pickIndex, keepNewer: keepNewer, statusClass: statusClass,
       pollExpired: pollExpired, refreshTimeoutStatus: refreshTimeoutStatus, parentTimeoutNote: parentTimeoutNote,
+      refreshBody: refreshBody, pollStep: pollStep, runMessage: runMessage,
       pickVideoURL: pickVideoURL, mediaEl: mediaEl, applyView: applyView, readView: readView, writeView: writeView,
       postsViewEmpty: postsViewEmpty, VIEW_KEY: VIEW_KEY, POSTS_EMPTY: POSTS_EMPTY };
   } else boot();

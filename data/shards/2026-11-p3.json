@@ -1,7 +1,323 @@
 {
  "id": "2026-11-p3",
- "updated_at": "2026-11-18T01:10:26Z",
+ "updated_at": "2026-11-18T02:04:21Z",
  "posts": [
+  {
+   "id": "2120307529674883177",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T00:08:03.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120307529674883177",
+   "kind": "post",
+   "text": "We just shipped multiplayer in Cursor Projects\n\nEveryone gets their own agents, working from one shared task board and shared context\n\nWhen your agent needs something from a teammate's work, it asks their agent directly https://t.co/g3zzkGDe3J",
+   "urls": [],
+   "metrics": {
+    "likes": 248,
+    "reposts": 14,
+    "replies": 45,
+    "quotes": 3
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120307501128364032/vid/avc1/1920x1080/wC5EbXON6zMqL5J-.mp4?tag=16",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120307501128364032/img/ei0vRT-uljWgRP8h.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2120307501128364032/vid/avc1/480x270/vUA5CDr_iHdMVNbJ.mp4?tag=16",
+       "w": 480,
+       "h": 270,
+       "br": 288000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120307501128364032/vid/avc1/640x360/_u4Ok51h6-QdC_YW.mp4?tag=16",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120307501128364032/vid/avc1/1280x720/b7CRhu_POzTyOOL1.mp4?tag=16",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120307501128364032/vid/avc1/1920x1080/wC5EbXON6zMqL5J-.mp4?tag=16",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 25600
+    }
+   ]
+  },
+  {
+   "id": "2120306953213911070",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-11T00:05:45.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120306953213911070",
+   "reply_to": {
+    "id": "2120300829597217201",
+    "username": "Baconbrix"
+   },
+   "kind": "reply",
+   "text": "@Baconbrix shout out evan bacon https://t.co/6YJW3lSVrd",
+   "urls": [],
+   "metrics": {
+    "likes": 7,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWzX7WpaMAAbZm6.jpg",
+     "width": 2016,
+     "height": 1136
+    }
+   ]
+  },
+  {
+   "id": "2120302471210033426",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-10T23:47:57.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120302471210033426",
+   "kind": "quote",
+   "text": "SpaceX has ordered 100 GW/year of HJT solar manufacturing equipment from Singulus in Germany.\n\nThis is for Starmind to create a sentient sun. https://t.co/umtNyF9M7g",
+   "urls": [],
+   "metrics": {
+    "likes": 8091,
+    "reposts": 872,
+    "replies": 961,
+    "quotes": 150
+   },
+   "partial": true,
+   "ref": {
+    "id": "2120231065394590007",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-10T19:04:12.000Z",
+    "text": "We have signed a major supply contract with SINGULUS to create a durable option for advanced solar cell manufacturing to support more than 100 GW of equipment as we accelerate the production of our Starmind satellites in Bastrop, Texas → https://www.singulus.com/2026/11/10/spacex-heterojunction-solar-cells-singulus/"
+   }
+  },
+  {
+   "id": "2120279511707386263",
+   "author_id": "2085838061347217408",
+   "username": "bot",
+   "name": "Grok Bot",
+   "created_at": "2026-11-10T22:16:43.000Z",
+   "lang": "en",
+   "conversation_id": "2120279511707386263",
+   "url": "https://x.com/bot/status/2120279511707386263",
+   "kind": "post",
+   "text": "Grok Bot can now join your personal or company tailnets on Tailscale.\n\nUse it to securely reach private MCP servers, internal tools, and apps on your network.",
+   "urls": [],
+   "metrics": {
+    "likes": 9253,
+    "reposts": 600,
+    "replies": 1404,
+    "quotes": 240
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWy-eg_bwAARy5W.jpg",
+     "width": 4096,
+     "height": 2304
+    }
+   ]
+  },
+  {
+   "id": "2120278105051042195",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-10T22:11:07.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2120278105051042195",
+   "kind": "repost",
+   "text": "🚨 BREAKING: The FCC accepts SpaceX's application to acquire nationwide 800 MHz spectrum\n\nVerizon, AT&T and T-Mobile all told SpaceX \"NO\" when it asked to use their networks. SpaceX is building its own:\n\nThis deal with Grain Management secures 546 paired licenses covering ~100% of the U.S. population, on 800 MHz low band that penetrates straight through walls and already works with almost every smartphone.\n\nOnce it closes, SpaceX will hold up to 89 MHz of spectrum in every market it touches.\n\nElon Musk: \"This is the last critical piece of the spectrum puzzle needed for SpaceX to provide complete phone coverage in America.\"\n\nITS HAPPENING",
+   "urls": [],
+   "metrics": {
+    "likes": 9769,
+    "reposts": 1703,
+    "replies": 478,
+    "quotes": 147
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWywUisWEAAA9sq.jpg",
+     "width": 1244,
+     "height": 984
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWyw8yEWgAAJHIR.jpg",
+     "width": 3072,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWyw93-W0AELWXv.png",
+     "width": 1206,
+     "height": 877
+    }
+   ],
+   "ref": {
+    "id": "2120264216896753767",
+    "author_id": "1087640384975577089",
+    "username": "ns123abc",
+    "name": "NIK",
+    "created_at": "2026-11-10T21:15:56.000Z"
+   }
+  },
+  {
+   "id": "2120253907435655331",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-10T20:34:58.000Z",
+   "lang": "en",
+   "conversation_id": "2120253907435655331",
+   "url": "https://x.com/elonmusk/status/2120253907435655331",
+   "kind": "repost",
+   "text": "Here is SpaceX's new @Starlink Mini 2 with quick-swap battery. You can get up to 4.5 hours of use on a single charge.\n\nThis means you can get internet in the middle of nowhere and not have to plug anything in.",
+   "urls": [],
+   "metrics": {
+    "likes": 5795,
+    "reposts": 647,
+    "replies": 235,
+    "quotes": 64
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2120209633608425472/vid/avc1/3226x1946/M2-rcO7LC0JIweAm.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120209633608425472/img/jAUpWkOl8MRdDZsR.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2120209633608425472/vid/avc1/446x270/RSP-CC_YA1cp_jKh.mp4",
+       "w": 446,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120209633608425472/vid/avc1/596x360/cLOpm-ncUYMKuPYj.mp4",
+       "w": 596,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120209633608425472/vid/avc1/1192x720/FA1dwW3UapXA6Rb9.mp4",
+       "w": 1192,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120209633608425472/vid/avc1/1790x1080/sAd0fIJ-ssRNdmdo.mp4",
+       "w": 1790,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120209633608425472/vid/avc1/3226x1946/M2-rcO7LC0JIweAm.mp4",
+       "w": 3226,
+       "h": 1946,
+       "br": 25128000
+      }
+     ],
+     "width": 3226,
+     "height": 1946,
+     "duration_ms": 36450
+    }
+   ],
+   "ref": {
+    "id": "2120210080041963910",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-10T17:40:49.000Z",
+    "quote": {
+     "id": "2120208552652345450",
+     "author_id": "243013409",
+     "username": "SawyerMerritt",
+     "name": "Sawyer Merritt",
+     "created_at": "2026-11-10T17:34:45.000Z",
+     "text": "SpaceX has just officially unveiled its next-generation @Starlink Mini 2, which now comes with a built-in battery for the first time.\n\n• Up to 4.5 hours of connectivity on a single charge with the quick-swap battery (or plug in USB-C).\n• Weight: 3.53 Ibs (1.6 kg) including battery and kickstand\n• Dimensions: 10.35 × 12.36 × 0.91 inches (263 × 314 × 23.1 mm)\n• Field of view: 55°\n• Wi-Fi: Wi-Fi 6\n• Environmental rating: IP67\n• Wi-Fi coverage: Up to 1,800 sq ft (167 m2)\n• Battery: Removable, rechargeable 71 Wh battery\n• Battery weight: 1.08 Ibs (490g)\n• Battery attachment: Quick-release mechanism\n• Charging: USB-C, 60W\n• Battery power output: USB-C, up to 60W\n• Power button: Built-in physical power button\n• Battery indicators: LED status lights\n• Kickstand: Integrated, foldable kickstand\n• Tripod mount: Standard 1/4\"-20 camera thread\n• Charger: Included 60W USB-C wall charger\n• Cable: Included 3-meter (10-foot) USB-C to USB-C cable\n\nStarlink is now taking preorders in the U.S.: https://starlink.com/mini-2",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx-EUzWwAAesna.jpg",
+       "width": 1608,
+       "height": 1762
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx-HRbXIAAQyWS.jpg",
+       "width": 1562,
+       "height": 1678
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx-JMkX0AATCl6.jpg",
+       "width": 2036,
+       "height": 1726
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx-LiXWYAAZHT-.jpg",
+       "width": 1926,
+       "height": 1740
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2120252838232445207",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-10T20:30:43.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2120252838232445207",
+   "reply_to": {
+    "id": "2120251896602759223",
+    "username": "integralssn"
+   },
+   "kind": "reply",
+   "text": "@integralssn @BrianRoemmele @scottiholden can we greenlight a trip to pompeii? thanks",
+   "urls": [],
+   "metrics": {
+    "likes": 6,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
   {
    "id": "2120252018799563074",
    "author_id": "44196397",
@@ -12851,448 +13167,6 @@
       "duration_ms": 38016
      }
     ]
-   }
-  },
-  {
-   "id": "2118787365426893002",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-06T19:27:27.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118787365426893002",
-   "kind": "quote",
-   "text": "🇦🇷 🇦🇷 Tesla Argentina!! 🇦🇷 🇦🇷 https://t.co/rS8tlwo0dZ",
-   "urls": [],
-   "metrics": {
-    "likes": 49736,
-    "reposts": 5464,
-    "replies": 1513,
-    "quotes": 323
-   },
-   "partial": true,
-   "ref": {
-    "id": "2118674774440435905",
-    "author_id": "1990516101449723904",
-    "username": "Tesla_LatAm",
-    "name": "Tesla Latinoamérica",
-    "created_at": "2026-11-06T12:00:03.000Z",
-    "text": "Llegamos a Argentina el 20 de Noviembre",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/3840x2160/FCylQSNfx4xGntxV.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118554924464390144/img/KqUl3eknXlGLNVMX.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/480x270/2Q8W_4x305J4dtD6.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/640x360/WwQDys073lFn9QYD.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/1280x720/cXNHjV4auvJob-tM.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/1920x1080/MCPZlBEuMYw5h77a.mp4",
-        "w": 1920,
-        "h": 1080,
-        "br": 10368000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/3840x2160/FCylQSNfx4xGntxV.mp4",
-        "w": 3840,
-        "h": 2160,
-        "br": 25128000
-       }
-      ],
-      "width": 3840,
-      "height": 2160,
-      "duration_ms": 60819
-     }
-    ]
-   }
-  },
-  {
-   "id": "2118787018520178688",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-06T19:26:05.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118787018520178688",
-   "kind": "repost",
-   "text": "Launching in Argentina later this month",
-   "urls": [],
-   "metrics": {
-    "likes": 7892,
-    "reposts": 744,
-    "replies": 272,
-    "quotes": 75
-   },
-   "partial": true,
-   "ref": {
-    "id": "2118720752379899907",
-    "author_id": "13298072",
-    "username": "Tesla",
-    "name": "Tesla",
-    "created_at": "2026-11-06T15:02:45.000Z",
-    "quote": {
-     "id": "2118674774440435905",
-     "author_id": "1990516101449723904",
-     "username": "Tesla_LatAm",
-     "name": "Tesla Latinoamérica",
-     "created_at": "2026-11-06T12:00:03.000Z",
-     "text": "Llegamos a Argentina el 20 de Noviembre",
-     "media": [
-      {
-       "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/3840x2160/FCylQSNfx4xGntxV.mp4",
-       "poster": "https://pbs.twimg.com/amplify_video_thumb/2118554924464390144/img/KqUl3eknXlGLNVMX.jpg",
-       "variants": [
-        {
-         "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/480x270/2Q8W_4x305J4dtD6.mp4",
-         "w": 480,
-         "h": 270,
-         "br": 256000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/640x360/WwQDys073lFn9QYD.mp4",
-         "w": 640,
-         "h": 360,
-         "br": 832000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/1280x720/cXNHjV4auvJob-tM.mp4",
-         "w": 1280,
-         "h": 720,
-         "br": 2176000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/1920x1080/MCPZlBEuMYw5h77a.mp4",
-         "w": 1920,
-         "h": 1080,
-         "br": 10368000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2118554924464390144/vid/avc1/3840x2160/FCylQSNfx4xGntxV.mp4",
-         "w": 3840,
-         "h": 2160,
-         "br": 25128000
-        }
-       ],
-       "width": 3840,
-       "height": 2160,
-       "duration_ms": 60819
-      }
-     ]
-    }
-   }
-  },
-  {
-   "id": "2118786432471015511",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-06T19:23:45.000Z",
-   "lang": "en",
-   "conversation_id": "2118786432471015511",
-   "url": "https://x.com/elonmusk/status/2118786432471015511",
-   "kind": "repost",
-   "text": "Elon today on @SpaceX's upcoming Starship Flight 15, which will attempt to catch both the Super Heavy Booster and Starship's upper stage:\n\n\"You really want to watch this one. This one's cool. It's the largest flying object ever made. And then the giant thing comes back. Excitement is guaranteed.\"\n\nVideo below on what the ship catch will look like:",
-   "urls": [],
-   "metrics": {
-    "likes": 2363,
-    "reposts": 280,
-    "replies": 97,
-    "quotes": 24
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118780234623221760/vid/avc1/1920x1080/GJNqAwYJazAnqk_x.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2118780234623221760/img/xY9trTGA0TECkDmx.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2118780234623221760/vid/avc1/480x270/72EOywyH5Iqz9WxJ.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2118780234623221760/vid/avc1/640x360/5gsmW7XwzTB2RasU.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2118780234623221760/vid/avc1/1280x720/PHblDedDXxbk0uvW.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2118780234623221760/vid/avc1/1920x1080/GJNqAwYJazAnqk_x.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 158700
-    },
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2118780356232880128/vid/avc1/1886x1056/2rfi8YxdYzfqUOEz.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2118780356232880128/img/4C6qFML7XQOzEYEz.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2118780356232880128/vid/avc1/482x270/g8Rv09ehi7UptgqW.mp4",
-       "w": 482,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2118780356232880128/vid/avc1/642x360/1N-8FQBP7-Xq7pZC.mp4",
-       "w": 642,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2118780356232880128/vid/avc1/1284x720/eRQLOldDnYJ-Go_Z.mp4",
-       "w": 1284,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2118780356232880128/vid/avc1/1886x1056/2rfi8YxdYzfqUOEz.mp4",
-       "w": 1886,
-       "h": 1056,
-       "br": 10368000
-      }
-     ],
-     "width": 1886,
-     "height": 1056,
-     "duration_ms": 40234
-    }
-   ],
-   "ref": {
-    "id": "2118780450512527793",
-    "author_id": "243013409",
-    "username": "SawyerMerritt",
-    "name": "Sawyer Merritt",
-    "created_at": "2026-11-06T18:59:59.000Z"
-   }
-  },
-  {
-   "id": "2118786343958675697",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-06T19:23:24.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118786343958675697",
-   "kind": "quote",
-   "text": "Pulling massive power cables is a great workout and far more productive than lifting weights 🏋️‍♀️ https://t.co/3wQUJhAkll",
-   "urls": [],
-   "metrics": {
-    "likes": 11610,
-    "reposts": 998,
-    "replies": 902,
-    "quotes": 92
-   },
-   "partial": true,
-   "ref": {
-    "id": "2118772623286870459",
-    "author_id": "243013409",
-    "username": "SawyerMerritt",
-    "name": "Sawyer Merritt",
-    "created_at": "2026-11-06T18:28:52.000Z",
-    "text": "Elon Musk in new interview on @spacexai's data center site in Memphis:\n\n\"I insist on doing some of the work myself manually. I've pulled power cables the size of an anaconda. I've done the fiber optic cabling; I try to do at least a little bit of everything so I'm not numb to the pain of the people who are actually doing it. It's not as though I'm sitting in an office and someone has to come to me. I'm walking the floor asking them questions actively.\"\n\n(via 33rd Annual Baron Investment Conference today in NYC)",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2118771740222410752/vid/avc1/1320x730/wPxSI0aVbNje4zYJ.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2118771740222410752/img/qXb3BgBo3R8zmiwn.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2118771740222410752/vid/avc1/488x270/7VwGeD47jyZ_ORrM.mp4",
-        "w": 488,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2118771740222410752/vid/avc1/650x360/yEI856K4f4b0zfeV.mp4",
-        "w": 650,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2118771740222410752/vid/avc1/1320x730/wPxSI0aVbNje4zYJ.mp4",
-        "w": 1320,
-        "h": 730,
-        "br": 2176000
-       }
-      ],
-      "width": 1320,
-      "height": 730,
-      "duration_ms": 91066
-     }
-    ]
-   }
-  },
-  {
-   "id": "2118782721581527457",
-   "author_id": "1330170106501079041",
-   "username": "Starlink",
-   "name": "Starlink",
-   "created_at": "2026-11-06T19:09:00.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/Starlink/status/2118782721581527457",
-   "kind": "quote",
-   "text": "Router 4 is now shipping with Starlink V4 Kits in the United States and Canada on Residential 200 Mbps and Residential Max.\n\nOrder now → https://t.co/0wmY2kgxkQ https://t.co/Pypc49Slnp",
-   "urls": [],
-   "metrics": {
-    "likes": 918,
-    "reposts": 106,
-    "replies": 70,
-    "quotes": 18
-   },
-   "partial": true,
-   "ref": {
-    "id": "2097770458221523101",
-    "author_id": "1330170106501079041",
-    "username": "Starlink",
-    "name": "Starlink",
-    "created_at": "2026-09-09T19:33:46.000Z",
-    "text": "The next generation Starlink router brings faster peak speeds and coverage of up to 3,500 sq ft (325 m²).\n\nRouter 4 is the first Starlink router with a Wi-Fi 7 chipset, built for streaming, gaming, and everyday use.\n\nAvailable soon in select areas. For updates → http://starlink.com/emailsignup",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2097769339319693313/vid/avc1/3840x2160/Qdz51GYyAwqx6kma.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2097769339319693313/img/BvniKiTbeYAwKmCx.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2097769339319693313/vid/avc1/480x270/-R8pHs2WOwx8nB2c.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2097769339319693313/vid/avc1/640x360/-ObMiM6INLkPUtsw.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2097769339319693313/vid/avc1/1280x720/S6LdK-bdrEptkTaG.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2097769339319693313/vid/avc1/1920x1080/EMtLQikEiTkHppHF.mp4",
-        "w": 1920,
-        "h": 1080,
-        "br": 10368000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2097769339319693313/vid/avc1/3840x2160/Qdz51GYyAwqx6kma.mp4",
-        "w": 3840,
-        "h": 2160,
-        "br": 25128000
-       }
-      ],
-      "width": 3840,
-      "height": 2160,
-      "duration_ms": 43501
-     }
-    ]
-   }
-  },
-  {
-   "id": "2118761981037723848",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-06T17:46:35.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118761981037723848",
-   "kind": "quote",
-   "text": "SpaceX revenue this quarter alone will be substantially higher than NASA’s entire annual budget! https://t.co/VMqyj62eth",
-   "urls": [],
-   "metrics": {
-    "likes": 28434,
-    "reposts": 4605,
-    "replies": 1573,
-    "quotes": 250
-   },
-   "partial": true,
-   "ref": {
-    "id": "2118750838315499793",
-    "author_id": "1389913567671975937",
-    "username": "cb_doge",
-    "name": "DogeDesigner",
-    "created_at": "2026-11-06T17:02:18.000Z",
-    "text": "Many people claim SpaceX is subsidized by NASA, but that is false. NASA provided ~5% of SpaceX revenue.\n\nSpaceX earned its contracts by offering the best product at the lowest price, & it is the only astronaut transport option that meets NASA safety standards.",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HWdQp4hbAAAQXtF.jpg",
-      "width": 1125,
-      "height": 1125
-     }
-    ]
-   }
-  },
-  {
-   "id": "2118739865156432270",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-06T16:18:42.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2118739865156432270",
-   "kind": "repost",
-   "text": "The Godfathers of Superintelligence\n\nIt all began right here, and now they're taking Superintelligence into orbit, to an entirely new level",
-   "urls": [],
-   "metrics": {
-    "likes": 3215,
-    "reposts": 422,
-    "replies": 234,
-    "quotes": 31
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWcXkAob0AA7TrO.jpg",
-     "width": 1600,
-     "height": 1600
-    }
-   ],
-   "ref": {
-    "id": "2118688066651214236",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-06T12:52:53.000Z"
    }
   }
  ]

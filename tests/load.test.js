@@ -92,4 +92,27 @@ ok(!appSrc.includes("No response after 3 min"), "the page no longer says the ref
 ok(appSrc.includes(waiting.message), "the refresh poll shows the waiting status");
 eq((appSrc.match(/pollExpired\(started, Date\.now\(\)\)/g) || []).length, 2, "refresh and parent polls share the 3 min limit");
 
+// Refresh sends the viewed account so its posts are fetched and published first.
+eq(R.refreshBody("#/u/elonmusk"), '{"action":"refresh","source":"x-text","handle":"elonmusk"}', "account page sends its handle");
+eq(R.refreshBody("#/u/Some_User1?q=x"), '{"action":"refresh","source":"x-text","handle":"Some_User1"}', "query ignored");
+eq(R.refreshBody("#/"), '{"action":"refresh","source":"x-text"}', "home sends no handle");
+eq(R.refreshBody("#/saved/ai"), '{"action":"refresh","source":"x-text"}', "saved search sends no handle");
+eq(R.refreshBody("#/search?q=from:elonmusk"), '{"action":"refresh","source":"x-text"}', "search sends no handle");
+eq(R.refreshBody("#/u/bad%20name"), '{"action":"refresh","source":"x-text"}', "invalid handle dropped");
+eq(R.refreshBody("#/u/abcdefghijklmnop"), '{"action":"refresh","source":"x-text"}', "16 chars dropped");
+eq(R.refreshBody("#/u/%E0%A4%A"), '{"action":"refresh","source":"x-text"}', "bad escape dropped");
+eq(R.refreshBody(""), '{"action":"refresh","source":"x-text"}', "no hash");
+const run0 = { status: "new", at: "2026-11-17T10:00:00Z", new_posts: 3 };
+const early = { status: "running", at: "2026-11-17T10:05:00Z", new_posts: 2, handle: "elonmusk" };
+const final = { status: "new", at: "2026-11-17T10:06:00Z", new_posts: 5 };
+eq(R.pollStep({ last_run: run0, updated_at: "u0" }, JSON.stringify(run0), "u0"), "wait", "unchanged index waits");
+eq(R.pollStep({ last_run: early, updated_at: "u1" }, JSON.stringify(run0), "u0"), "partial", "early publish keeps polling");
+eq(R.pollStep({ last_run: early, updated_at: "u1" }, JSON.stringify(early), "u1"), "wait", "same early publish waits");
+eq(R.pollStep({ last_run: final, updated_at: "u2" }, JSON.stringify(early), "u1"), "done", "final run finishes");
+eq(R.pollStep({ last_run: { status: "skipped", at: "x" } }, JSON.stringify(run0), "u0"), "done", "skip finishes");
+eq(R.pollStep(null, "null", ""), "wait", "no doc waits");
+eq(R.runMessage(early, 0), "2 new posts from @elonmusk · still checking the other accounts…", "early status names the account");
+eq(R.runMessage({ status: "running", new_posts: 1, handle: "<b>" }, 0), "1 new post · still checking the other accounts…", "bad handle not shown");
+ok(appSrc.includes("body: refreshBody(location.hash)"), "Refresh sends refreshBody");
+
 console.log("load tests passed: " + n);

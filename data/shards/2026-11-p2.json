@@ -1,7 +1,654 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-18T02:04:21Z",
+ "updated_at": "2026-11-18T05:35:47Z",
  "posts": [
+  {
+   "id": "2121627776881230121",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T15:34:14.000Z",
+   "lang": "en",
+   "conversation_id": "2121627776881230121",
+   "url": "https://x.com/elonmusk/status/2121627776881230121",
+   "kind": "quote",
+   "text": "Update on Starship",
+   "urls": [],
+   "metrics": {
+    "likes": 4999,
+    "reposts": 483,
+    "replies": 494,
+    "quotes": 34
+   },
+   "ref": {
+    "id": "2121625194275951101",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-14T15:23:58.000Z",
+    "text": "Back live for a status update on Starship's Flight 15",
+    "quote": {
+     "id": "2121316300702056595",
+     "author_id": "34743251",
+     "username": "SpaceX",
+     "name": "SpaceX",
+     "created_at": "2026-11-13T18:56:32.000Z",
+     "text": "Watch Starship Flight 15\nhttps://x.com/i/broadcasts/2brajgZlOKRMka"
+    }
+   }
+  },
+  {
+   "id": "2121626962414494008",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-14T15:31:00.000Z",
+   "lang": "en",
+   "conversation_id": "2121624592326480311",
+   "url": "https://x.com/mattyp/status/2121626962414494008",
+   "reply_to": {
+    "id": "2121624910510379238",
+    "username": "JeebsTX"
+   },
+   "kind": "reply",
+   "text": "@JeebsTX love to see it",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2121626926347608367",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-14T15:30:51.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2121626926347608367",
+   "reply_to": {
+    "id": "2121624975413244170",
+    "username": "MitchellKnoth"
+   },
+   "kind": "reply",
+   "text": "@MitchellKnoth more on the way!",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2121626898472239205",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-14T15:30:45.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2121626898472239205",
+   "reply_to": {
+    "id": "2121624898359447733",
+    "username": "HarryTandy"
+   },
+   "kind": "reply",
+   "text": "@HarryTandy 🫡",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2121626871230275929",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-14T15:30:38.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2121626871230275929",
+   "reply_to": {
+    "id": "2121625113275793625",
+    "username": "calebrebelo_"
+   },
+   "kind": "reply",
+   "text": "@calebrebelo_ compounding takes time",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2121625874113904645",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T15:26:40.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121625874113904645",
+   "reply_to": {
+    "id": "2121625275821695246",
+    "username": "alphaman_111"
+   },
+   "kind": "reply",
+   "text": "@alphaman_111 💯",
+   "urls": [],
+   "metrics": {
+    "likes": 1080,
+    "reposts": 28,
+    "replies": 76,
+    "quotes": 11
+   },
+   "partial": true
+  },
+  {
+   "id": "2121625731088445896",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T15:26:06.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121625731088445896",
+   "reply_to": {
+    "id": "2121613402846204253",
+    "username": "elonmusk"
+   },
+   "kind": "reply",
+   "text": "https://t.co/eIuxWL3C5E https://t.co/YhLjqqdUSs",
+   "urls": [],
+   "metrics": {
+    "likes": 1192,
+    "reposts": 99,
+    "replies": 99,
+    "quotes": 12
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXGHW0HXsAExxux.jpg",
+     "width": 1177,
+     "height": 1783
+    }
+   ]
+  },
+  {
+   "id": "2121625194275951101",
+   "author_id": "34743251",
+   "username": "SpaceX",
+   "name": "SpaceX",
+   "created_at": "2026-11-14T15:23:58.000Z",
+   "lang": "en",
+   "conversation_id": "2121625194275951101",
+   "url": "https://x.com/SpaceX/status/2121625194275951101",
+   "kind": "quote",
+   "text": "Back live for a status update on Starship's Flight 15",
+   "urls": [],
+   "metrics": {
+    "likes": 3454,
+    "reposts": 374,
+    "replies": 126,
+    "quotes": 30
+   },
+   "ref": {
+    "id": "2121316300702056595",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-13T18:56:32.000Z",
+    "text": "Watch Starship Flight 15\nhttps://x.com/i/broadcasts/2brajgZlOKRMka"
+   }
+  },
+  {
+   "id": "2121624592326480311",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-14T15:21:35.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2121624592326480311",
+   "kind": "quote",
+   "text": "Grok Bot plans have ~7% more usage and up to ~15% more for routine runs!\n\nAwesome work from the team https://t.co/YBnn2r2SDi",
+   "urls": [],
+   "metrics": {
+    "likes": 1100,
+    "reposts": 40,
+    "replies": 110,
+    "quotes": 9
+   },
+   "partial": true,
+   "ref": {
+    "id": "2121303079803089179",
+    "author_id": "2338596771",
+    "username": "SamSokolin",
+    "name": "Sam Sokolin",
+    "created_at": "2026-11-13T18:04:00.000Z",
+    "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!"
+   }
+  },
+  {
+   "id": "2121624209675665519",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T15:20:04.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121624209675665519",
+   "reply_to": {
+    "id": "2121613402846204253",
+    "username": "elonmusk"
+   },
+   "kind": "reply",
+   "text": "If Jensen gave me his word about compute delivery or I asked for components to be accelerated, he always came through.\n\nSure, we’d put together a purchase order at some point later, but I never for a second thought it wouldn’t happen.",
+   "urls": [],
+   "metrics": {
+    "likes": 21468,
+    "reposts": 1295,
+    "replies": 589,
+    "quotes": 116
+   },
+   "partial": true
+  },
+  {
+   "id": "2121617733221818612",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T14:54:20.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121617733221818612",
+   "kind": "repost",
+   "text": "I placed a camera right next to the launch pad to capture starship’s liftoff in slow motion.\n\nCan you spot the moon?",
+   "urls": [],
+   "metrics": {
+    "likes": 4410,
+    "reposts": 558,
+    "replies": 225,
+    "quotes": 29
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121608549499273216/vid/avc1/1080x1920/D7nQSEwDRvE9WWC-.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121608549499273216/img/UkcrThuvmmkGsRFW.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121608549499273216/vid/avc1/320x568/2YYNTuDkFlS0gc_q.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121608549499273216/vid/avc1/480x852/U87ta7C2KOmE6fBA.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121608549499273216/vid/avc1/720x1280/Edgu4Arekm7YQi71.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121608549499273216/vid/avc1/1080x1920/D7nQSEwDRvE9WWC-.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 60300
+    }
+   ],
+   "ref": {
+    "id": "2121608679837368375",
+    "author_id": "2492039959",
+    "username": "AJamesMcCarthy",
+    "name": "Andrew McCarthy",
+    "created_at": "2026-11-14T14:18:21.000Z"
+   }
+  },
+  {
+   "id": "2121615638812918154",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T14:46:00.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121615638812918154",
+   "reply_to": {
+    "id": "2120936439474966818",
+    "username": "DanODonnellShow"
+   },
+   "kind": "reply",
+   "text": "@DanODonnellShow Hmm",
+   "urls": [],
+   "metrics": {
+    "likes": 3505,
+    "reposts": 152,
+    "replies": 211,
+    "quotes": 14
+   },
+   "partial": true
+  },
+  {
+   "id": "2121615415155806253",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T14:45:07.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121615415155806253",
+   "kind": "repost",
+   "text": "BREAKING: SpaceXSI completes MiniHard construction in just ~5 months, with Gun Range targeting a ~4-month build.\n\nAccording to SemiAnalysis, SpaceXSI is roughly halving construction timelines while most comparable projects face 8–12 month builds.\n\n• MiniHard: Construction finished in approximately 5 months.\n\n• Gun Range: The new site just south of the Tennessee–Mississippi state line is targeting approximately 4 months of construction.\n\n• Colossus 1: Its first retrofit delivered 150 MW of capacity in 122 days.\n\n• Colossus 2: A subsequent retrofit delivered 210 MW in just 91 days.\n\n• Project SPAM: Work started October 5, with the first capacity targeted for December.\n\n• Massive expansion: SemiAnalysis projects the Memphis–Mississippi campus will grow from 0.4 GW of IT capacity in January to 2.4 GW by the end of 2026. That would be a sixfold increase in one year.\n\n• Five major projects: The expansion spans Macrohard, MiniHard, Macroharder, Project SPAM and Gun Range.\n\n• Tesla powering the scale: SemiAnalysis reports 1,377 Tesla Megapacks across Colossus 2, providing nearly 6 GWh of battery storage.\n\nThe construction timelines and capacity forecasts are SemiAnalysis estimates, with future milestones still targets.\n\nElon Musk’s teams are bringing extraordinary speed and scale to the infrastructure powering AI.",
+   "urls": [],
+   "metrics": {
+    "likes": 1853,
+    "reposts": 300,
+    "replies": 127,
+    "quotes": 22
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXFkGyqbQAAN11r.jpg",
+     "width": 1125,
+     "height": 1125
+    }
+   ],
+   "ref": {
+    "id": "2121586977795440798",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-14T12:52:07.000Z"
+   }
+  },
+  {
+   "id": "2121614151768248683",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T14:40:06.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121614151768248683",
+   "kind": "repost",
+   "text": "SemiAnalysis’s Dylan Patel says Google’s TPUs are just as good as Nvidia’s in his nightly benchmarks, and without Jensen’s wheeling and dealing Google could take a ton of share\n\n“It’s sort of a three-pronged strategy. One is you have to have the technical progress, and that keeps you winning. The second is that you have to have supply chain prowess, and Jensen’s the only executive in the semiconductor industry that is going out there and drinking and meeting and convincing all of these supply chain companies to invest like they’ve never done before, give him the allocations.”\n\n“Now if all of a sudden there’s no Jensen, and Google’s like, actually, double my allocation. The TPU, from our benchmarking, we test TPUs. We run benchmarks on them on open source models every night. They’re just as good as Nvidia. But Google doesn’t have that DNA of wheeling and dealing with the supply chain, wheeling and dealing with customers. Now if that DNA is gone, the thing that is Jensen is gone, does that now mean Google can just take a ton of share? It’s a real big possibility.”\n\n“Same with AMD. Technically, they’re awesome, but they’re just not able to wheel and deal like Jensen is able to. And that’s been a lot of the reason why they’ve been behind. Of course, the software as well. One of Nvidia’s biggest moats being CUDA, and software is being rapidly displaced by the fact that AI models are so good at writing software.”",
+   "urls": [],
+   "metrics": {
+    "likes": 1483,
+    "reposts": 193,
+    "replies": 74,
+    "quotes": 27
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121069743931273216/vid/avc1/1280x720/560mHfDxIWtfX4er.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121069743931273216/img/ss1Al08xN391-u4Q.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121069743931273216/vid/avc1/480x270/z_6piMdzKl-KlBHA.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121069743931273216/vid/avc1/640x360/159Mtl47gTnYcJNH.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121069743931273216/vid/avc1/1280x720/560mHfDxIWtfX4er.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      }
+     ],
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 67867
+    }
+   ],
+   "ref": {
+    "id": "2121070130935570607",
+    "author_id": "2066250685512110080",
+    "username": "firesidealpha",
+    "name": "Fireside Alpha",
+    "created_at": "2026-11-13T02:38:21.000Z",
+    "quote": {
+     "id": "2120979261851124172",
+     "author_id": "2066250685512110080",
+     "username": "firesidealpha",
+     "name": "Fireside Alpha",
+     "created_at": "2026-11-12T20:37:16.000Z",
+     "text": "Dylan Patel says Nvidia’s next CEO has to hold off OpenAI, Broadcom, Google, Anthropic, Meta, Amazon, and AMD chip teams, who are all 'fucking good'\n\n“It’s not like you’re fighting, no knocks against Palo Alto Networks, but their competitors are not that amazing, versus Nvidia’s fighting an OpenAI chip team, a Broadcom chip team, a Google chip team, an Anthropic chip team, a Meta chip team, Amazon chip team. These guys are fucking good. AMD. They’re all really good, and all these startups.”\n\n“They’re all good. It’s not like they’re incompetent. I think it’s very different. As great as Lisa Su is, she took down Intel, who’s incompetent.”\n\n“What is the person who defined a category and created it and kept all the invaders at bay? It’s very different than being second place or making smart tactical business decisions, innovating on something once there’s already a category established. It’s just very different.”",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2120978578489892864/vid/avc1/1280x720/X0dxgns477lF0wCW.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2120978578489892864/img/AOKU0MeKbKP2lcU0.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2120978578489892864/vid/avc1/480x270/0nlT6YOUkbanXqaq.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2120978578489892864/vid/avc1/640x360/Cguq8xpZ0uzvVzy6.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2120978578489892864/vid/avc1/1280x720/X0dxgns477lF0wCW.mp4",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        }
+       ],
+       "width": 1280,
+       "height": 720,
+       "duration_ms": 49633
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2121613402846204253",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T14:37:07.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121613402846204253",
+   "kind": "quote",
+   "text": "Jensen drove supply chain brilliantly at Nvidia, but many of those deals were a handshake with Jensen, not a written contract.\n\nWithout Jensen, at least some of those critical deals will be lost. https://t.co/2CH1QNPG8x",
+   "urls": [],
+   "metrics": {
+    "likes": 32940,
+    "reposts": 3092,
+    "replies": 1675,
+    "quotes": 382
+   },
+   "partial": true,
+   "ref": {
+    "id": "2121291797473468421",
+    "author_id": "1985918754040233984",
+    "username": "CEOinterview",
+    "name": "CEOInterviews.AI",
+    "created_at": "2026-11-13T17:19:10.000Z",
+    "text": "Dylan Patel says Jensen personally talked tiny suppliers into letting Nvidia buy up their supply, and with him gone Google is already begging them for capacity\n\n\"Jensen had complete foresight and understood the demand required and went to all of these executives, even of tiny companies where they only generate a few hundred million dollars of revenue but they have an important subcomponent.\"\n\n\"He convinced them to let him buy the supply and build it all out...\"\n\n\"And now with Jensen gone, these companies are looking around the market and it's like, well, Google's begging for more capacity from the whole supply chain.\"\n\n\"And without Jensen, can they maintain technology advantages given they're only a year ahead of their biggest competitors? It's not like the gap is massive.\"",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2121291724245106688/vid/avc1/1280x720/UZ64SYcVW5q_uaIP.mp4?tag=16",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2121291724245106688/img/nkPGD926C_3oLnx-.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2121291724245106688/vid/avc1/480x270/tlYpENoJyd-54x9q.mp4?tag=16",
+        "w": 480,
+        "h": 270,
+        "br": 288000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121291724245106688/vid/avc1/640x360/NMijtZdL22H3GrmR.mp4?tag=16",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121291724245106688/vid/avc1/1280x720/UZ64SYcVW5q_uaIP.mp4?tag=16",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 90864
+     }
+    ],
+    "quote": {
+     "id": "2121227504472277409",
+     "author_id": "1985918754040233984",
+     "username": "CEOinterview",
+     "name": "CEOInterviews.AI",
+     "created_at": "2026-11-13T13:03:42.000Z",
+     "text": "Dylan Patel says Alice Huang was telling everyone on WeChat she could get them Nvidia chips in China, and Jensen probably knew\n\n\"I actually don't think she's a spy in the colloquial sense. And I don't think she's a honeypot in the colloquial sense. She is a well-connected individual in the Chinese, you know, business world and family.\"\n\n\"And if you're well connected in China, if you're well connected in America, you will talk to intelligence agencies when they tell you to.\"\n\n[ The CIA was asking me for your personal phone number and I had to tell him to take a hike. ]\n\n\"She was clearly like showing everyone on WeChat she is close to Jensen and can get them chips in China. Jensen, did he know? Probably.\"\n\n\"But like Super Micro didn't have to honeypot Jensen to ship billions of dollars of servers to China, right?\"",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2121227466551463936/vid/avc1/1280x720/kUAlR2O06cjbIQPj.mp4?tag=16",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2121227466551463936/img/jYSTfmX46r6BZG4B.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2121227466551463936/vid/avc1/480x270/TbOtyhkgB2xau84A.mp4?tag=16",
+         "w": 480,
+         "h": 270,
+         "br": 288000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121227466551463936/vid/avc1/640x360/6EhdHBuOD8YFUnpQ.mp4?tag=16",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121227466551463936/vid/avc1/1280x720/kUAlR2O06cjbIQPj.mp4?tag=16",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        }
+       ],
+       "width": 1280,
+       "height": 720,
+       "duration_ms": 91000
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2121611736902197480",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T14:30:30.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121611736902197480",
+   "kind": "repost",
+   "text": "Starship in orbit over Africa",
+   "urls": [],
+   "metrics": {
+    "likes": 12679,
+    "reposts": 1422,
+    "replies": 487,
+    "quotes": 188
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121601548824510464/vid/avc1/3840x2160/3s-tPQrkfVHZ9Tuu.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121601548824510464/img/0aJ8a6jPC3uGzRTu.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121601548824510464/vid/avc1/480x270/6-fHsw1aJtFqDnmS.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121601548824510464/vid/avc1/640x360/uJRkW7sy9Ts7lGe_.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121601548824510464/vid/avc1/1280x720/JnhPz6p6j3svil0t.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121601548824510464/vid/avc1/1920x1080/NGmHGwpl9Ese9-m7.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121601548824510464/vid/avc1/3840x2160/3s-tPQrkfVHZ9Tuu.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 82720
+    }
+   ],
+   "ref": {
+    "id": "2121602376532742611",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-14T13:53:18.000Z"
+   }
+  },
   {
    "id": "2121611711278981147",
    "author_id": "44196397",
@@ -14687,390 +15334,6 @@
    "urls": [],
    "metrics": {
     "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120330983367127424",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:41:14.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120330983367127424",
-   "reply_to": {
-    "id": "2120325243516719604",
-    "username": "Atronikus"
-   },
-   "kind": "reply",
-   "text": "@Atronikus this makes me happy",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120330953147224567",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:41:07.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120330953147224567",
-   "reply_to": {
-    "id": "2120275949963075687",
-    "username": "agustinponcedl"
-   },
-   "kind": "reply",
-   "text": "@agustinponcedl 🫡",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120330934029545692",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:41:03.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120330934029545692",
-   "reply_to": {
-    "id": "2120305164922003644",
-    "username": "pheriwinkle"
-   },
-   "kind": "reply",
-   "text": "@pheriwinkle statistically likely",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120330900005359753",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:40:55.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120330900005359753",
-   "reply_to": {
-    "id": "2120218386026414192",
-    "username": "6ummy"
-   },
-   "kind": "reply",
-   "text": "@6ummy 🫡",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120330881944703078",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:40:50.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120330881944703078",
-   "reply_to": {
-    "id": "2120228430012690901",
-    "username": "HRosenstr"
-   },
-   "kind": "reply",
-   "text": "@HRosenstr thank you for supporting",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120330850713874451",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:40:43.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120330850713874451",
-   "reply_to": {
-    "id": "2120227737575293209",
-    "username": "jaylams0311"
-   },
-   "kind": "reply",
-   "text": "@jaylams0311 love to hear it",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120330822276547001",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:40:36.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120330822276547001",
-   "reply_to": {
-    "id": "2120259973099733318",
-    "username": "Aa9397348"
-   },
-   "kind": "reply",
-   "text": "@Aa9397348 🤘",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120330800881390003",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:40:31.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120330800881390003",
-   "reply_to": {
-    "id": "2120209611508662422",
-    "username": "mchalloner11"
-   },
-   "kind": "reply",
-   "text": "@mchalloner11 thank you!!!",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120330777166843918",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:40:25.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120330777166843918",
-   "reply_to": {
-    "id": "2120215072798560298",
-    "username": "matthewpaco"
-   },
-   "kind": "reply",
-   "text": "@matthewpaco thank YOU!",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120330753452159319",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:40:20.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120330753452159319",
-   "reply_to": {
-    "id": "2120268045138718930",
-    "username": "hacker34"
-   },
-   "kind": "reply",
-   "text": "@hacker34 🫡",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120330731889275382",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:40:14.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120330731889275382",
-   "reply_to": {
-    "id": "2120209580760469826",
-    "username": "johnfitch_"
-   },
-   "kind": "reply",
-   "text": "@johnfitch_ 🫡",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120330659856351355",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:39:57.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120330659856351355",
-   "reply_to": {
-    "id": "2120321435302535491",
-    "username": "joelcomm"
-   },
-   "kind": "reply",
-   "text": "@joelcomm we need human interaction on every call for spam mitigation purposes",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120316794544222515",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T00:44:52.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120316794544222515",
-   "reply_to": {
-    "id": "2120316149154095437",
-    "username": "Jason"
-   },
-   "kind": "reply",
-   "text": "@Jason @milichab 🫡",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120312419159527580",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T00:27:28.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120312419159527580",
-   "reply_to": {
-    "id": "2120312067194343756",
-    "username": "CVR_L0S"
-   },
-   "kind": "reply",
-   "text": "@CVR_L0S nice",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120307817148248364",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T00:09:11.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120307817148248364",
-   "reply_to": {
-    "id": "2120307711200084178",
-    "username": "johnfitch_"
-   },
-   "kind": "reply",
-   "text": "@johnfitch_ 🤘",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120307558598738172",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T00:08:10.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120307558598738172",
-   "reply_to": {
-    "id": "2120305387517964305",
-    "username": "aryamankhawow"
-   },
-   "kind": "reply",
-   "text": "@aryamankhawow @cursor_ai nice",
-   "urls": [],
-   "metrics": {
-    "likes": 4,
     "reposts": 0,
     "replies": 1,
     "quotes": 0

@@ -1,8 +1,591 @@
 {
- "updated_at": "2026-11-18T02:04:21Z",
- "count": 1629,
+ "updated_at": "2026-11-18T05:35:47Z",
+ "count": 1645,
  "accounts": 12,
  "posts": [
+  {
+   "id": "2122925042400895056",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T05:29:06.000Z",
+   "lang": "en",
+   "conversation_id": "2122925042400895056",
+   "url": "https://x.com/elonmusk/status/2122925042400895056",
+   "kind": "post",
+   "text": "It was the smartest of times\nIt was the dumbest of times",
+   "urls": [],
+   "metrics": {
+    "likes": 2256,
+    "reposts": 285,
+    "replies": 530,
+    "quotes": 59
+   }
+  },
+  {
+   "id": "2122924572148199775",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T05:27:14.000Z",
+   "lang": "en",
+   "conversation_id": "2122924572148199775",
+   "url": "https://x.com/elonmusk/status/2122924572148199775",
+   "kind": "repost",
+   "text": "Four Years Ago Today, Elon Musk posted a poll asking 𝕏 if Donald Trump, who was banned by Twitter 1.0 as a sitting President, should be reinstated to the platform.",
+   "urls": [],
+   "metrics": {
+    "likes": 339,
+    "reposts": 51,
+    "replies": 43,
+    "quotes": 2
+   },
+   "ref": {
+    "id": "2122924222984958211",
+    "author_id": "534023",
+    "username": "alx",
+    "name": "ALX 🇺🇸",
+    "created_at": "2026-11-18T05:25:51.000Z"
+   }
+  },
+  {
+   "id": "2122924448861008163",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T05:26:45.000Z",
+   "lang": "en",
+   "conversation_id": "2122924448861008163",
+   "url": "https://x.com/elonmusk/status/2122924448861008163",
+   "kind": "quote",
+   "text": "I wrote this 18 months ago",
+   "urls": [],
+   "metrics": {
+    "likes": 1408,
+    "reposts": 190,
+    "replies": 214,
+    "quotes": 16
+   },
+   "ref": {
+    "id": "1895129237478162621",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2025-02-27T15:09:54.000Z",
+    "text": "To be clear here, the Verizon communication system to air traffic control is breaking down very rapidly. The FAA assessment is single digit months to catastrophic failure, putting air traveler safety at serious risk.\n\nThe Starlink terminals are being sent at NO COST to the taxpayer on an emergency basis to restore air traffic control connectivity.\n\nThe situation is extremely dire."
+   }
+  },
+  {
+   "id": "2122920970411466822",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T05:12:55.000Z",
+   "lang": "en",
+   "conversation_id": "1731828747500704097",
+   "url": "https://x.com/elonmusk/status/2122920970411466822",
+   "reply_to": {
+    "id": "1731918127355556334",
+    "username": "alx"
+   },
+   "kind": "reply",
+   "text": "@alx @KettlebellLife Definitely not 😂\n\nI’m of the view that you can do what you want, so long as it doesn’t materially harm others.",
+   "urls": [],
+   "metrics": {
+    "likes": 381,
+    "reposts": 34,
+    "replies": 86,
+    "quotes": 8
+   }
+  },
+  {
+   "id": "2122920546715537817",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T05:11:14.000Z",
+   "lang": "qme",
+   "conversation_id": "2122299949572648981",
+   "url": "https://x.com/elonmusk/status/2122920546715537817",
+   "reply_to": {
+    "id": "2122299949572648981",
+    "username": "LunarCitizens"
+   },
+   "kind": "reply",
+   "text": "@LunarCitizens 😑",
+   "urls": [],
+   "metrics": {
+    "likes": 676,
+    "reposts": 34,
+    "replies": 134,
+    "quotes": 26
+   }
+  },
+  {
+   "id": "2122900620495704530",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T03:52:04.000Z",
+   "lang": "art",
+   "conversation_id": "2122900620495704530",
+   "url": "https://x.com/elonmusk/status/2122900620495704530",
+   "kind": "quote",
+   "text": "😂",
+   "urls": [],
+   "metrics": {
+    "likes": 16243,
+    "reposts": 1075,
+    "replies": 1156,
+    "quotes": 97
+   },
+   "ref": {
+    "id": "2122674358015684927",
+    "author_id": "2055557582266535936",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-17T12:52:58.000Z",
+    "text": "Elon Musk will return to China and continue creating new memes😂"
+   }
+  },
+  {
+   "id": "2122898321044127878",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T03:42:55.000Z",
+   "lang": "en",
+   "conversation_id": "2122898321044127878",
+   "url": "https://x.com/elonmusk/status/2122898321044127878",
+   "kind": "quote",
+   "text": "Nice shot",
+   "urls": [],
+   "metrics": {
+    "likes": 6638,
+    "reposts": 565,
+    "replies": 452,
+    "quotes": 35
+   },
+   "ref": {
+    "id": "2122794386480386166",
+    "author_id": "3167257102",
+    "username": "Erdayastronaut",
+    "name": "Everyday Astronaut",
+    "created_at": "2026-11-17T20:49:56.000Z",
+    "text": "Watch sound bend light as Super Heavy Booster B22 reenters the atmosphere. This is maybe one of my all-time favorite shots I’ve ever seen of a rocket 👀 incredible tracking shot from @considercosmos from our Flight 15 Super Cut!!!"
+   }
+  },
+  {
+   "id": "2122897540882542782",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T03:39:49.000Z",
+   "lang": "en",
+   "conversation_id": "2122897540882542782",
+   "url": "https://x.com/elonmusk/status/2122897540882542782",
+   "kind": "repost",
+   "text": "The Starbase tower chopsticks catching their first Starship. This unique architecture was designed for full and rapid reusability, enabling repeat launches and landings from the same pad",
+   "urls": [],
+   "metrics": {
+    "likes": 12135,
+    "reposts": 1644,
+    "replies": 405,
+    "quotes": 176
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122813666642825216/vid/avc1/3840x2160/R_ovrsC9lTeNHskU.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122813666642825216/img/0xnS9d7S-MNoi-Gl.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813666642825216/vid/avc1/480x270/D-wvJXw4Lc_TV4Sp.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813666642825216/vid/avc1/640x360/Si0c7P5yiEEnOTjZ.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813666642825216/vid/avc1/1280x720/zwkdxUiJtvwDAoas.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813666642825216/vid/avc1/1920x1080/ttwTYCWAsMmZhE3A.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813666642825216/vid/avc1/3840x2160/R_ovrsC9lTeNHskU.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 150150
+    },
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122813692609732608/vid/avc1/3840x2160/-khvzLRMbQ2Mwcx4.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122813692609732608/img/Bk87Qig5CoEJ3P7u.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813692609732608/vid/avc1/480x270/-kXGdHK7aOb3ZGmv.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813692609732608/vid/avc1/640x360/O-kbt3Q16TKVzXi9.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813692609732608/vid/avc1/1280x720/6bp_Puo_PkLAzodk.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813692609732608/vid/avc1/1920x1080/T9GrLxi-3DqH4Cs8.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813692609732608/vid/avc1/3840x2160/-khvzLRMbQ2Mwcx4.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 150150
+    },
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122813736155013120/vid/avc1/3840x2160/ZGbiqNMAl2XBW3U6.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122813736155013120/img/Ui3aE6jA9qSMZ1uw.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813736155013120/vid/avc1/480x270/CQBNqANgtw6efuMe.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813736155013120/vid/avc1/640x360/0erUkUTY-eDTjAIx.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813736155013120/vid/avc1/1280x720/xEC1o6Axc8XjWwij.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813736155013120/vid/avc1/1920x1080/78O-CYEMUYQmCi1z.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813736155013120/vid/avc1/3840x2160/ZGbiqNMAl2XBW3U6.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 150150
+    },
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122813825518837762/vid/avc1/3840x2160/kYWo9sEQ-Zgx1fyO.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122813825518837762/img/IDRCkdlQhLrQEjTm.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813825518837762/vid/avc1/480x270/sduotuf4iTaq7gEq.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813825518837762/vid/avc1/640x360/oDP3azkZuKOsZDqQ.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813825518837762/vid/avc1/1280x720/sX4PwvWiJum2HNfl.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813825518837762/vid/avc1/1920x1080/tnLQM-9yewBfUsXJ.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122813825518837762/vid/avc1/3840x2160/kYWo9sEQ-Zgx1fyO.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 150150
+    }
+   ],
+   "ref": {
+    "id": "2122814338893332591",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-17T22:09:13.000Z"
+   }
+  },
+  {
+   "id": "2122897415053402206",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T03:39:19.000Z",
+   "lang": "en",
+   "conversation_id": "2122897415053402206",
+   "url": "https://x.com/elonmusk/status/2122897415053402206",
+   "kind": "repost",
+   "text": "After 34 days docked to the @Space_Station, the Dragon spacecraft supporting SpaceX’s 35th  Commercial Resupply Services mission for @NASA is targeted to undock from the orbiting lab as soon as Wednesday, November 18 → https://spacex.com/launches/crs35",
+   "urls": [
+    "https://spacex.com/launches/crs35"
+   ],
+   "metrics": {
+    "likes": 4844,
+    "reposts": 512,
+    "replies": 135,
+    "quotes": 36
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWti_-X0AAhFHX.jpg",
+     "width": 4096,
+     "height": 2301
+    }
+   ],
+   "ref": {
+    "id": "2122793780810264837",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-17T20:47:31.000Z"
+   }
+  },
+  {
+   "id": "2122897388344119452",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T03:39:13.000Z",
+   "lang": "en",
+   "conversation_id": "2122897388344119452",
+   "url": "https://x.com/elonmusk/status/2122897388344119452",
+   "kind": "repost",
+   "text": "Big push underway from the US Supercharger team to open new sites before Thanksgiving travel.\n\nThank you to the utilities and local inspectors keeping energizations of this critical infrastructure on track. https://twitter.com/TeslaCharging/status/2122826507454427399",
+   "urls": [
+    "https://twitter.com/TeslaCharging/status/2122826507454427399"
+   ],
+   "metrics": {
+    "likes": 2131,
+    "reposts": 141,
+    "replies": 70,
+    "quotes": 9
+   },
+   "ref": {
+    "id": "2122839416591057223",
+    "author_id": "946106088",
+    "username": "MdeZegher",
+    "name": "Max",
+    "created_at": "2026-11-17T23:48:52.000Z"
+   }
+  },
+  {
+   "id": "2122897352726131188",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T03:39:05.000Z",
+   "lang": "en",
+   "conversation_id": "2122897352726131188",
+   "url": "https://x.com/elonmusk/status/2122897352726131188",
+   "kind": "repost",
+   "text": "SpaceXSI is committed to helping build and grow the communities our employees live and work in for the better. This includes ensuring revenue from the taxes we pay goes back into the community.\n\nThe City of Memphis is investing $3.26 million of the direct revenue from our supercompute facilities in Memphis toward housing, neighborhood improvements, and other services for local residents, helping them to make critical repairs and improvements to their homes → http://memphistn.gov/city-of-memphis-directs-3-26-million-in-data-center-revenue-back-to-south-memphis-neighborhoods/",
+   "urls": [
+    "http://memphistn.gov/city-of-memphis-directs-3-26-million-in-data-center-revenue-back-to-south-memphis-neighborhoods/"
+   ],
+   "metrics": {
+    "likes": 2006,
+    "reposts": 224,
+    "replies": 48,
+    "quotes": 19
+   },
+   "ref": {
+    "id": "2122790486112948478",
+    "author_id": "1937236128010240001",
+    "username": "SpaceXAIMemphis",
+    "name": "SpaceXAI Memphis",
+    "created_at": "2026-11-17T20:34:26.000Z"
+   }
+  },
+  {
+   "id": "2122897194298839338",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T03:38:27.000Z",
+   "lang": "en",
+   "conversation_id": "2122897194298839338",
+   "url": "https://x.com/elonmusk/status/2122897194298839338",
+   "kind": "repost",
+   "text": "I work on @bot\n\nTag me with whatever annoys you, breaks on you, or you wish it could do. I read all of it and bring the good stuff to our team.\n\nFollow if you want to see what we ship next.",
+   "urls": [],
+   "metrics": {
+    "likes": 3128,
+    "reposts": 159,
+    "replies": 1605,
+    "quotes": 24
+   },
+   "ref": {
+    "id": "2122836100792152411",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-17T23:35:41.000Z"
+   }
+  },
+  {
+   "id": "2122895004045861065",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T03:29:45.000Z",
+   "lang": "en",
+   "conversation_id": "2122895004045861065",
+   "url": "https://x.com/elonmusk/status/2122895004045861065",
+   "kind": "repost",
+   "text": "BREAKING: SpaceX just confirmed that the heat shield tile MrBeast signed and installed on Ship 42 is intact. Even his signature survived.\n\nThe ship circled Earth 14 times during a 22.5-hour flight before returning to Starbase for the first-ever Starship catch.",
+   "urls": [],
+   "metrics": {
+    "likes": 8198,
+    "reposts": 787,
+    "replies": 286,
+    "quotes": 42
+   },
+   "ref": {
+    "id": "2122774565663477771",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-17T19:31:10.000Z"
+   }
+  },
+  {
+   "id": "2122892116271808703",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T03:18:16.000Z",
+   "lang": "en",
+   "conversation_id": "2122892116271808703",
+   "url": "https://x.com/elonmusk/status/2122892116271808703",
+   "kind": "repost",
+   "text": "relative to our (aggressive) expectations\n\nStarship landed on its 2nd commercial flight (we were expecting 6th at the midpoint)\n\nSeems to be refurbishable within weeks (we were expecting months at the midpoint)\n\nAnd is actually truly reuseable (we thought there was a ~5% chance they would never solve re-useability with a heat-shield approach)\n\nAt root, SpaceXSI is growth-governed by asset turns.\n\nRelative to the non-reuseable case, SpaceXSI with a re-useable Starship stack becomes >2x as valuable by 2031 (per our research)\n\nAnd the improved economics suggested by the faster rate of progress on the rocket itself suggests a ~10% increase in 2031 value and revenue relative to our expectations.\n\nAll of this to help explain why the stock is\n\n[checks notes]\n\n~flat since they caught the largest ever object to return from space in the grips of a giant steel set of chopsticks.",
+   "urls": [],
+   "metrics": {
+    "likes": 2081,
+    "reposts": 164,
+    "replies": 79,
+    "quotes": 19
+   },
+   "ref": {
+    "id": "2122812103442764244",
+    "author_id": "760345658",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-17T22:00:20.000Z"
+   }
+  },
+  {
+   "id": "2122891591191089627",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T03:16:11.000Z",
+   "lang": "en",
+   "conversation_id": "2122891591191089627",
+   "url": "https://x.com/elonmusk/status/2122891591191089627",
+   "kind": "repost",
+   "text": "BREAKING: SpaceX CFO Bret Johnsen shares a heartwarming story of Gwynne Shotwell’s visit to Brazil and how @Starlink changed the lives of schoolchildren.\n\n“Gwynne went down when we turned on Starlink service in Brazil, right down by the Amazon, to a community that had never had any connectivity at all and was out there with the head of the school system there … you’re bringing all of the knowledge of the world when you bring the Internet, right? Bringing the Internet to these kids, and it just, it was just very exciting to dramatically change that community.”",
+   "urls": [],
+   "metrics": {
+    "likes": 986,
+    "reposts": 158,
+    "replies": 65,
+    "quotes": 9
+   },
+   "ref": {
+    "id": "2122821710185672735",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-17T22:38:30.000Z"
+   }
+  },
+  {
+   "id": "2122891480729829482",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-18T03:15:45.000Z",
+   "lang": "en",
+   "conversation_id": "2122891480729829482",
+   "url": "https://x.com/elonmusk/status/2122891480729829482",
+   "kind": "quote",
+   "text": "Grok @Bot can do your accounting",
+   "urls": [],
+   "metrics": {
+    "likes": 4206,
+    "reposts": 346,
+    "replies": 703,
+    "quotes": 55
+   },
+   "ref": {
+    "id": "2122771386456551516",
+    "author_id": "2085838061347217408",
+    "username": "bot",
+    "name": "Grok Bot",
+    "created_at": "2026-11-17T19:18:32.000Z",
+    "text": "Five Bots now have full-time roles on our accounting team. We onboard, train, and manage them just like human teammates.\n\nHere's how we built them to handle the order-to-cash process, from provisioning customer accounts to collecting payments.\n\nhttps://x.ai/news/grok-bot-accounting"
+   }
+  },
   {
    "id": "2122872754206912914",
    "author_id": "44196397",
@@ -60877,8 +61460,8 @@
   }
  ],
  "last_run": {
-  "status": "skipped",
-  "at": "2026-11-18T02:06:00Z",
-  "new_posts": 0
+  "status": "running",
+  "at": "2026-11-18T05:35:47Z",
+  "new_posts": 16
  }
 }

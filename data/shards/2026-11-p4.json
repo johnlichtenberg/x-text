@@ -1,7 +1,101 @@
 {
  "id": "2026-11-p4",
- "updated_at": "2026-11-18T05:35:47Z",
+ "updated_at": "2026-11-18T06:22:06Z",
  "posts": [
+  {
+   "id": "2118850366754402621",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-06T23:37:48.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118850366754402621",
+   "kind": "repost",
+   "text": "We may succeed at this attempt, we may also fail, but the likelihood of success in the near term is high. Then we will optimize -> accelerate.",
+   "urls": [],
+   "metrics": {
+    "likes": 3118,
+    "reposts": 228,
+    "replies": 75,
+    "quotes": 7
+   },
+   "partial": true,
+   "ref": {
+    "id": "2118791889633804493",
+    "author_id": "29279483",
+    "username": "edwards345",
+    "name": "Jon Edwards",
+    "created_at": "2026-11-06T19:45:26.000Z",
+    "quote": {
+     "id": "2118732082843435305",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-11-06T15:47:47.000Z",
+     "text": "SpaceX will attempt to catch both the Super Heavy booster and Starship on the upcoming flight.\n\nIf both are successful, it will mark the first time that all parts of an orbital rocket return to Earth intact.\n\nThis is the critical breakthrough needed to make life multiplanetary. https://twitter.com/spacex/status/2118719281038770389"
+    }
+   }
+  },
+  {
+   "id": "2118847971865530569",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-06T23:28:17.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2118847971865530569",
+   "reply_to": {
+    "id": "2118756766754218224",
+    "username": "teej_dv"
+   },
+   "kind": "reply",
+   "text": "@teej_dv this setup but scanning ebooks for training data",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2118842366748749904",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-06T23:06:01.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2118842366748749904",
+   "kind": "repost",
+   "text": "BREAKING: Starlink now helps connect 500+ locomotives and railcars for Rumo, Brazil’s largest freight rail operator. 🇧🇷\n\nAutotrac’s system switches between 4G and Starlink so trains can stay in touch with the control center in real time, even where there’s no cell signal.",
+   "urls": [],
+   "metrics": {
+    "likes": 1632,
+    "reposts": 266,
+    "replies": 108,
+    "quotes": 22
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWeRnQdaoAAIzdS.jpg",
+     "width": 1125,
+     "height": 744
+    }
+   ],
+   "ref": {
+    "id": "2118822261088190714",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-06T21:46:07.000Z"
+   }
+  },
   {
    "id": "2118832578350252327",
    "author_id": "34743251",

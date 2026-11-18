@@ -1,7 +1,80 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-18T05:35:47Z",
+ "updated_at": "2026-11-18T06:22:06Z",
  "posts": [
+  {
+   "id": "2121628463643652153",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T15:36:58.000Z",
+   "lang": "en",
+   "conversation_id": "2121338095664808238",
+   "url": "https://x.com/elonmusk/status/2121628463643652153",
+   "reply_to": {
+    "id": "2121338095664808238",
+    "username": "sundarpichai"
+   },
+   "kind": "reply",
+   "text": "@sundarpichai @Google Nice work!",
+   "urls": [],
+   "metrics": {
+    "likes": 1560,
+    "reposts": 58,
+    "replies": 134,
+    "quotes": 10
+   }
+  },
+  {
+   "id": "2121628295234023654",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T15:36:18.000Z",
+   "lang": "en",
+   "conversation_id": "2121628295234023654",
+   "url": "https://x.com/elonmusk/status/2121628295234023654",
+   "kind": "quote",
+   "text": "Improvements to Grok @Bot efficiency",
+   "urls": [],
+   "metrics": {
+    "likes": 3699,
+    "reposts": 336,
+    "replies": 740,
+    "quotes": 50
+   },
+   "ref": {
+    "id": "2121303079803089179",
+    "author_id": "2338596771",
+    "username": "SamSokolin",
+    "name": "Sam Sokolin",
+    "created_at": "2026-11-13T18:04:00.000Z",
+    "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!"
+   }
+  },
+  {
+   "id": "2121628089629474947",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T15:35:29.000Z",
+   "lang": "en",
+   "conversation_id": "2121265318404468969",
+   "url": "https://x.com/elonmusk/status/2121628089629474947",
+   "reply_to": {
+    "id": "2121265318404468969",
+    "username": "TrungTPhan"
+   },
+   "kind": "reply",
+   "text": "@TrungTPhan That writer is projecting his own mean spirit onto Jensen",
+   "urls": [],
+   "metrics": {
+    "likes": 7535,
+    "reposts": 314,
+    "replies": 325,
+    "quotes": 25
+   }
+  },
   {
    "id": "2121627776881230121",
    "author_id": "44196397",
@@ -15264,78 +15337,6 @@
     "likes": 0,
     "reposts": 0,
     "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120331132705317093",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:41:50.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120331132705317093",
-   "reply_to": {
-    "id": "2120208679290949774",
-    "username": "jasonkrauspb"
-   },
-   "kind": "reply",
-   "text": "@jasonkrauspb thank you!",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120331098580492585",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:41:42.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120331098580492585",
-   "reply_to": {
-    "id": "2120243131996401937",
-    "username": "nickwm"
-   },
-   "kind": "reply",
-   "text": "@nickwm flexxxxx",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120331066322067794",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T01:41:34.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120331066322067794",
-   "reply_to": {
-    "id": "2120238288795509126",
-    "username": "TheKentCalero"
-   },
-   "kind": "reply",
-   "text": "@TheKentCalero I put them on my youtube\n\nhttps://t.co/AgTpPRxAXX",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
     "quotes": 0
    },
    "partial": true

@@ -1,7 +1,1207 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-19T03:51:00Z",
+ "updated_at": "2026-11-19T12:45:42Z",
  "posts": [
+  {
+   "id": "2122004449682166070",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-15T16:31:00.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2122004449682166070",
+   "reply_to": {
+    "id": "2121987330114248728",
+    "username": "tguerich"
+   },
+   "kind": "reply",
+   "text": "@tguerich @bot great feedback",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2122004414001254421",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-15T16:30:51.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2122004414001254421",
+   "reply_to": {
+    "id": "2121992627621138471",
+    "username": "frederickwongpy"
+   },
+   "kind": "quote",
+   "text": "@frederickwongpy we are making improvements, more updates soon https://t.co/ge8l3qKLQ3",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true,
+   "ref": {
+    "id": "2121624592326480311",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-14T15:21:35.000Z",
+    "text": "Grok Bot plans have ~7% more usage and up to ~15% more for routine runs!\n\nAwesome work from the team https://t.co/YBnn2r2SDi",
+    "quote": {
+     "id": "2121303079803089179",
+     "author_id": "2338596771",
+     "username": "SamSokolin",
+     "name": "Sam Sokolin",
+     "created_at": "2026-11-13T18:04:00.000Z",
+     "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!"
+    }
+   }
+  },
+  {
+   "id": "2122004300822172039",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-15T16:30:24.000Z",
+   "lang": "en",
+   "conversation_id": "2121998262110462139",
+   "url": "https://x.com/mattyp/status/2122004300822172039",
+   "reply_to": {
+    "id": "2121998262110462139",
+    "username": "arthurmrie"
+   },
+   "kind": "quote",
+   "text": "@arthurmrie @bot we are steadily making progress, more updates soon",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2121624592326480311",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-14T15:21:35.000Z",
+    "text": "Grok Bot plans have ~7% more usage and up to ~15% more for routine runs!\n\nAwesome work from the team",
+    "quote": {
+     "id": "2121303079803089179",
+     "author_id": "2338596771",
+     "username": "SamSokolin",
+     "name": "Sam Sokolin",
+     "created_at": "2026-11-13T18:04:00.000Z",
+     "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!"
+    }
+   }
+  },
+  {
+   "id": "2122001927861158109",
+   "author_id": "34743251",
+   "username": "SpaceX",
+   "name": "SpaceX",
+   "created_at": "2026-11-15T16:20:59.000Z",
+   "lang": "en",
+   "conversation_id": "2122001927861158109",
+   "url": "https://x.com/SpaceX/status/2122001927861158109",
+   "kind": "post",
+   "text": "New level unlocked → https://starshipthegame.spacex.com",
+   "urls": [
+    "https://starshipthegame.spacex.com"
+   ],
+   "metrics": {
+    "likes": 6694,
+    "reposts": 774,
+    "replies": 336,
+    "quotes": 154
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXLdNxPWYAA_aIB.jpg",
+     "width": 1024,
+     "height": 1024
+    }
+   ]
+  },
+  {
+   "id": "2121994700500652190",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-15T15:52:16.000Z",
+   "lang": "en",
+   "conversation_id": "2121733376730173930",
+   "url": "https://x.com/mattyp/status/2121994700500652190",
+   "reply_to": {
+    "id": "2121993458596626834",
+    "username": "JoshPhillips"
+   },
+   "kind": "reply",
+   "text": "@JoshPhillips @alexmichael @poteto I need a clip of this",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2121896179944349736",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T09:20:46.000Z",
+   "lang": "en",
+   "conversation_id": "2121896179944349736",
+   "url": "https://x.com/elonmusk/status/2121896179944349736",
+   "kind": "repost",
+   "text": "It's here. Claudia's \"ALLOW ALWAYS\" world premiere. Made by a guy with ALS, a brain implant, and too many AI friends. 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 5757,
+    "reposts": 817,
+    "replies": 454,
+    "quotes": 154
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2116944868530593792/vid/avc1/1920x1080/HEPqyV3I3jvSXpDO.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2116944868530593792/img/M69u2lKFwoF605cU.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2116944868530593792/vid/avc1/480x270/kyuSzVy_NntS_5of.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2116944868530593792/vid/avc1/640x360/GqojcrIlYFYmiQFc.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2116944868530593792/vid/avc1/1280x720/ISd_dUf4tDPSIGqv.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2116944868530593792/vid/avc1/1920x1080/HEPqyV3I3jvSXpDO.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 196022
+    }
+   ],
+   "ref": {
+    "id": "2117044016621748292",
+    "author_id": "1906446987991621632",
+    "username": "Cyborg21",
+    "name": "Kenneth Shock",
+    "created_at": "2026-11-02T00:00:00.000Z"
+   }
+  },
+  {
+   "id": "2121884943529959468",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T08:36:07.000Z",
+   "lang": "en",
+   "conversation_id": "2121884943529959468",
+   "url": "https://x.com/elonmusk/status/2121884943529959468",
+   "kind": "repost",
+   "text": "SpaceX is preparing for its 15th Starship launch from South Texas, with spectators gathering just across the street from the 400-foot rocket ahead of Friday’s planned test flight.\n\nThe test is a key step in SpaceX’s goal of making Starship fully reusable for future missions, including expanding its Starlink network and eventually carrying astronauts to the Moon and Mars, @JasonAllenLive reports.",
+   "urls": [],
+   "metrics": {
+    "likes": 2532,
+    "reposts": 273,
+    "replies": 126,
+    "quotes": 11
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121344260804935680/vid/avc1/1080x1920/to3Ol1N3stLZ6Du2.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121344260804935680/img/0oNILTr6jjaOyO-y.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121344260804935680/vid/avc1/320x568/lbsRck5IRSEgvCDX.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121344260804935680/vid/avc1/480x852/D97i2HJ5QxcnO4uA.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121344260804935680/vid/avc1/720x1280/MxX5vU3x6NwsH0AD.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121344260804935680/vid/avc1/1080x1920/to3Ol1N3stLZ6Du2.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 119279
+    }
+   ],
+   "ref": {
+    "id": "2121344495266455814",
+    "author_id": "15012486",
+    "username": "CBSNews",
+    "name": "CBS News",
+    "created_at": "2026-11-13T20:48:35.000Z"
+   }
+  },
+  {
+   "id": "2121882242125529493",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T08:25:23.000Z",
+   "lang": "und",
+   "conversation_id": "2121715283085897894",
+   "url": "https://x.com/elonmusk/status/2121882242125529493",
+   "reply_to": {
+    "id": "2121715283085897894",
+    "username": "skorusARK"
+   },
+   "kind": "reply",
+   "text": "@skorusARK Yes",
+   "urls": [],
+   "metrics": {
+    "likes": 5354,
+    "reposts": 157,
+    "replies": 286,
+    "quotes": 13
+   }
+  },
+  {
+   "id": "2121879376853602768",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T08:14:00.000Z",
+   "lang": "ca",
+   "conversation_id": "2121810298713546778",
+   "url": "https://x.com/elonmusk/status/2121879376853602768",
+   "reply_to": {
+    "id": "2121810298713546778",
+    "username": "anabology"
+   },
+   "kind": "reply",
+   "text": "@anabology Human superintelligence\n\nMentats",
+   "urls": [],
+   "metrics": {
+    "likes": 13582,
+    "reposts": 559,
+    "replies": 673,
+    "quotes": 131
+   }
+  },
+  {
+   "id": "2121878866801107098",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T08:11:59.000Z",
+   "lang": "en",
+   "conversation_id": "2121877487290585384",
+   "url": "https://x.com/elonmusk/status/2121878866801107098",
+   "reply_to": {
+    "id": "2121877487290585384",
+    "username": "willdepue"
+   },
+   "kind": "reply",
+   "text": "@willdepue The sky is not even close to the limit",
+   "urls": [],
+   "metrics": {
+    "likes": 21912,
+    "reposts": 995,
+    "replies": 723,
+    "quotes": 122
+   }
+  },
+  {
+   "id": "2121878725675622837",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T08:11:25.000Z",
+   "lang": "en",
+   "conversation_id": "2121878725675622837",
+   "url": "https://x.com/elonmusk/status/2121878725675622837",
+   "kind": "repost",
+   "text": "If you have kids, I highly recommend taking them to a launch. You can watch from the Margaritaville, the town beach or many other viewing locations open to the public.\n\nSad to miss this one, great day for 🇺🇸",
+   "urls": [],
+   "metrics": {
+    "likes": 5631,
+    "reposts": 348,
+    "replies": 158,
+    "quotes": 19
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXIRpk5bcAIQTBZ.jpg",
+     "width": 1100,
+     "height": 688
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXIRpk2acAAKmE4.jpg",
+     "width": 1027,
+     "height": 1369
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXIRplBbEAANLeO.jpg",
+     "width": 1330,
+     "height": 748
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXIRpk1a8AA-DLX.jpg",
+     "width": 1122,
+     "height": 748
+    }
+   ],
+   "ref": {
+    "id": "2121777788797718785",
+    "author_id": "340387261",
+    "username": "GavinSBaker",
+    "name": "Gavin Baker",
+    "created_at": "2026-11-15T01:30:20.000Z"
+   }
+  },
+  {
+   "id": "2121877552171999280",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T08:06:45.000Z",
+   "lang": "en",
+   "conversation_id": "2121877552171999280",
+   "url": "https://x.com/elonmusk/status/2121877552171999280",
+   "kind": "repost",
+   "text": "Starship Flight 15 mission in one timelapse\n\nLaunched from the tower → around Earth 14 times → caught by the tower",
+   "urls": [],
+   "metrics": {
+    "likes": 11910,
+    "reposts": 1755,
+    "replies": 219,
+    "quotes": 145
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121816451107704832/vid/avc1/1920x1080/8kdf7xm-xcKGODSZ.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121816451107704832/img/4c66BuirH98dNiRM.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121816451107704832/vid/avc1/480x270/0JP9wX2hHIPWpenO.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121816451107704832/vid/avc1/640x360/Dds4H60dUqOJspjw.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121816451107704832/vid/avc1/1280x720/FcAqPMqgkApAXzfk.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121816451107704832/vid/avc1/1920x1080/8kdf7xm-xcKGODSZ.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 214314
+    }
+   ],
+   "ref": {
+    "id": "2121817193579163893",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-15T04:06:55.000Z"
+   }
+  },
+  {
+   "id": "2121876378052436213",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T08:02:05.000Z",
+   "lang": "en",
+   "conversation_id": "2121876378052436213",
+   "url": "https://x.com/elonmusk/status/2121876378052436213",
+   "kind": "repost",
+   "text": "MADE ON EARTH\n\nBY HUMANS",
+   "urls": [],
+   "metrics": {
+    "likes": 3705,
+    "reposts": 351,
+    "replies": 97,
+    "quotes": 39
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121783795518967809/vid/avc1/1920x1080/Wmc0KVuTRF0a7w_x.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121783795518967809/img/mWBLKOQey2jYAaux.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121783795518967809/vid/avc1/480x270/nvFzN_yS2t7sdbD2.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121783795518967809/vid/avc1/640x360/YpIOURR5eUG5EGaB.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121783795518967809/vid/avc1/1280x720/MjpNzOI244yGQJLK.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121783795518967809/vid/avc1/1920x1080/Wmc0KVuTRF0a7w_x.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 42000
+    }
+   ],
+   "ref": {
+    "id": "2121783840695787904",
+    "author_id": "1650509966388731904",
+    "username": "anabology",
+    "name": "anabology",
+    "created_at": "2026-11-15T01:54:23.000Z",
+    "quote": {
+     "id": "2121717876608381383",
+     "author_id": "3840",
+     "username": "Jason",
+     "name": "@jason",
+     "created_at": "2026-11-14T21:32:16.000Z",
+     "text": "Best remix / AI slop / music video / inspo / whatever o the StarShip landing gets $420.69 in XMONEY! https://twitter.com/Jason/status/2121716690148880437"
+    }
+   }
+  },
+  {
+   "id": "2121876044366201235",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T08:00:46.000Z",
+   "lang": "en",
+   "conversation_id": "2121876044366201235",
+   "url": "https://x.com/elonmusk/status/2121876044366201235",
+   "kind": "repost",
+   "text": "After careful consideration I’ve decided I’m quite bullish on civilization\n\nKARDASHEV II HERE WE COME!",
+   "urls": [],
+   "metrics": {
+    "likes": 12582,
+    "reposts": 1077,
+    "replies": 331,
+    "quotes": 103
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121719416966508544/vid/avc1/1080x1920/FH_ZZl5c_Dxy05Q6.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121719416966508544/img/H1zsxa4bKYvYU0kn.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121719416966508544/vid/avc1/320x568/1sBP0OWARuU3vUz7.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121719416966508544/vid/avc1/480x852/PrfzrzqfN1BmspM4.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121719416966508544/vid/avc1/720x1280/oYR0-UAtjdRIh6Gy.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121719416966508544/vid/avc1/1080x1920/FH_ZZl5c_Dxy05Q6.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 38916
+    }
+   ],
+   "ref": {
+    "id": "2121719522549973133",
+    "author_id": "2492039959",
+    "username": "AJamesMcCarthy",
+    "name": "Andrew McCarthy",
+    "created_at": "2026-11-14T21:38:48.000Z"
+   }
+  },
+  {
+   "id": "2121875758704370144",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T07:59:38.000Z",
+   "lang": "en",
+   "conversation_id": "2121875758704370144",
+   "url": "https://x.com/elonmusk/status/2121875758704370144",
+   "kind": "quote",
+   "text": "5 years ago",
+   "urls": [],
+   "metrics": {
+    "likes": 44453,
+    "reposts": 3889,
+    "replies": 1731,
+    "quotes": 212
+   },
+   "ref": {
+    "id": "2121750619816095753",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-14T23:42:22.000Z",
+    "text": "Elon posted this in 2021.\n\nNow a Starship has returned from orbit straight into giant robot chopsticks.\n\nWhat a time to be alive.",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2121750115656536064/vid/avc1/1000x1000/aN36TaPFPP7rVkis.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2121750115656536064/img/ZFBIgfivMXxrQz3P.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2121750115656536064/vid/avc1/320x320/HOasE1fhaD24DYZO.mp4",
+        "w": 320,
+        "h": 320,
+        "br": 432000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121750115656536064/vid/avc1/540x540/lLdGmNLGpvUQBK37.mp4",
+        "w": 540,
+        "h": 540,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121750115656536064/vid/avc1/720x720/nmFUQp9hsNQMOK7p.mp4",
+        "w": 720,
+        "h": 720,
+        "br": 1280000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121750115656536064/vid/avc1/1000x1000/aN36TaPFPP7rVkis.mp4",
+        "w": 1000,
+        "h": 1000,
+        "br": 8768000
+       }
+      ],
+      "width": 1000,
+      "height": 1000,
+      "duration_ms": 73640
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121875600906592260",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T07:59:00.000Z",
+   "lang": "en",
+   "conversation_id": "2121875600906592260",
+   "url": "https://x.com/elonmusk/status/2121875600906592260",
+   "kind": "quote",
+   "text": "This gives a clear sense of the catch maneuver",
+   "urls": [],
+   "metrics": {
+    "likes": 28780,
+    "reposts": 2998,
+    "replies": 1332,
+    "quotes": 137
+   },
+   "ref": {
+    "id": "2121773282919649324",
+    "author_id": "3072160164",
+    "username": "johnkrausphotos",
+    "name": "John Kraus",
+    "created_at": "2026-11-15T01:12:25.000Z",
+    "text": "Ship 42 returns to Starbase, Texas for the first-ever Starship tower catch during Flight 15! I have dreamt of creating this image for years... and today it became real.\n\nCongrats, SpaceX team!",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXINgdXWoAAxi9y.jpg",
+      "width": 833,
+      "height": 1250
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121875411843830203",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T07:58:15.000Z",
+   "lang": "en",
+   "conversation_id": "2121875411843830203",
+   "url": "https://x.com/elonmusk/status/2121875411843830203",
+   "kind": "repost",
+   "text": "Ship 42 returns to Starbase, Texas for the first-ever Starship tower catch during Flight 15! I have dreamt of creating this image for years... and today it became real.\n\nCongrats, SpaceX team!",
+   "urls": [],
+   "metrics": {
+    "likes": 23163,
+    "reposts": 3070,
+    "replies": 482,
+    "quotes": 296
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXINgdXWoAAxi9y.jpg",
+     "width": 833,
+     "height": 1250
+    }
+   ],
+   "ref": {
+    "id": "2121773282919649324",
+    "author_id": "3072160164",
+    "username": "johnkrausphotos",
+    "name": "John Kraus",
+    "created_at": "2026-11-15T01:12:25.000Z"
+   }
+  },
+  {
+   "id": "2121875382614085666",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T07:58:08.000Z",
+   "lang": "en",
+   "conversation_id": "2121875382614085666",
+   "url": "https://x.com/elonmusk/status/2121875382614085666",
+   "kind": "repost",
+   "text": "In my opinion... we have achieved AGI.\n\nWithout a shadow of a doubt.\n\nThe combination of Grok Bot + Opus/Fable + Argon is a do-anything digital stack.\n\nWhatever Fable/Opus suck at, Argon is an incredible filler. And vice-versa. Grok Bot orchestrates them all.\n\nOverpowered.",
+   "urls": [],
+   "metrics": {
+    "likes": 2247,
+    "reposts": 164,
+    "replies": 151,
+    "quotes": 18
+   },
+   "ref": {
+    "id": "2121821420137423101",
+    "author_id": "17862108",
+    "username": "farzyness",
+    "name": "Farzad 🇺🇸 🇮🇷",
+    "created_at": "2026-11-15T04:23:42.000Z"
+   }
+  },
+  {
+   "id": "2121875056817328621",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T07:56:50.000Z",
+   "lang": "en",
+   "conversation_id": "2121875056817328621",
+   "url": "https://x.com/elonmusk/status/2121875056817328621",
+   "kind": "quote",
+   "text": "Great day",
+   "urls": [],
+   "metrics": {
+    "likes": 15212,
+    "reposts": 1156,
+    "replies": 1103,
+    "quotes": 87
+   },
+   "ref": {
+    "id": "2121773351093895413",
+    "author_id": "1482581556",
+    "username": "demishassabis",
+    "name": "Demis Hassabis",
+    "created_at": "2026-11-15T01:12:42.000Z",
+    "text": "One of the coolest things I've ever seen!! Loved the thunderclap as the starship dropped out of the heavens, before the catch. True alien tech. Huge congrats @elonmusk and the @SpaceX team! the whole stack is now proven out. Ad Astra!  🚀",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXINYhaWIAAXIXG.jpg",
+      "width": 1200,
+      "height": 1600
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121869641568112819",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T07:35:19.000Z",
+   "lang": "en",
+   "conversation_id": "2121869641568112819",
+   "url": "https://x.com/elonmusk/status/2121869641568112819",
+   "kind": "repost",
+   "text": "Amidst all the chaos that happened in the past few days, this makes me feel proud of humanity.",
+   "urls": [],
+   "metrics": {
+    "likes": 2897,
+    "reposts": 220,
+    "replies": 97,
+    "quotes": 6
+   },
+   "ref": {
+    "id": "2121750430619480211",
+    "author_id": "21211490",
+    "username": "DannyLimanseta",
+    "name": "Danny Limanseta",
+    "created_at": "2026-11-14T23:41:37.000Z",
+    "quote": {
+     "id": "2121719522549973133",
+     "author_id": "2492039959",
+     "username": "AJamesMcCarthy",
+     "name": "Andrew McCarthy",
+     "created_at": "2026-11-14T21:38:48.000Z",
+     "text": "After careful consideration I’ve decided I’m quite bullish on civilization\n\nKARDASHEV II HERE WE COME!",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2121719416966508544/vid/avc1/1080x1920/FH_ZZl5c_Dxy05Q6.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2121719416966508544/img/H1zsxa4bKYvYU0kn.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2121719416966508544/vid/avc1/320x568/1sBP0OWARuU3vUz7.mp4",
+         "w": 320,
+         "h": 568,
+         "br": 632000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121719416966508544/vid/avc1/480x852/PrfzrzqfN1BmspM4.mp4",
+         "w": 480,
+         "h": 852,
+         "br": 950000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121719416966508544/vid/avc1/720x1280/oYR0-UAtjdRIh6Gy.mp4",
+         "w": 720,
+         "h": 1280,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121719416966508544/vid/avc1/1080x1920/FH_ZZl5c_Dxy05Q6.mp4",
+         "w": 1080,
+         "h": 1920,
+         "br": 10368000
+        }
+       ],
+       "width": 1080,
+       "height": 1920,
+       "duration_ms": 38916
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2121869348491157768",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T07:34:09.000Z",
+   "lang": "es",
+   "conversation_id": "2121869348491157768",
+   "url": "https://x.com/elonmusk/status/2121869348491157768",
+   "kind": "repost",
+   "text": "Wow, así se vio el catch de la Ship vista desde Matamoros, México. FUE UNA LOCURAAA 🚀❤️ #Starship #SpaceX",
+   "urls": [],
+   "metrics": {
+    "likes": 9746,
+    "reposts": 926,
+    "replies": 164,
+    "quotes": 61
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121749265898754048/vid/avc1/1080x1920/TEZaC-bo3pM7oFV4.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121749265898754048/img/LBFeCuxuOh_5ew-g.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121749265898754048/vid/avc1/320x568/0ucXHxKKtb1KYqNv.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121749265898754048/vid/avc1/480x852/XixgTDPRbj5zXig_.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121749265898754048/vid/avc1/720x1280/PKBLPjrvngYiIB9X.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121749265898754048/vid/avc1/1080x1920/TEZaC-bo3pM7oFV4.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 25867
+    }
+   ],
+   "ref": {
+    "id": "2121751082531463566",
+    "author_id": "1941239624",
+    "username": "Pedroascenbell",
+    "name": "Pedro Ascenbell 🚀",
+    "created_at": "2026-11-14T23:44:12.000Z"
+   }
+  },
+  {
+   "id": "2121866340055019918",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T07:22:12.000Z",
+   "lang": "en",
+   "conversation_id": "2121866340055019918",
+   "url": "https://x.com/elonmusk/status/2121866340055019918",
+   "kind": "repost",
+   "text": "Do you believe now?",
+   "urls": [],
+   "metrics": {
+    "likes": 32359,
+    "reposts": 2430,
+    "replies": 967,
+    "quotes": 341
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GZxUqVYWsA8Bd2R.jpg",
+     "width": 1800,
+     "height": 900
+    }
+   ],
+   "ref": {
+    "id": "1845443103362040248",
+    "author_id": "1279551125264445448",
+    "username": "rookisaacman",
+    "name": "Jared Isaacman",
+    "created_at": "2024-10-13T12:34:57.000Z"
+   }
+  },
+  {
+   "id": "2121866298502049890",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T07:22:02.000Z",
+   "lang": "en",
+   "conversation_id": "2121866298502049890",
+   "url": "https://x.com/elonmusk/status/2121866298502049890",
+   "kind": "repost",
+   "text": "I’m lost for words",
+   "urls": [],
+   "metrics": {
+    "likes": 38376,
+    "reposts": 3928,
+    "replies": 788,
+    "quotes": 439
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121717306753531904/vid/avc1/2160x3840/2dQwberrWJrQe01p.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121717306753531904/img/zV9aCETRdYJxFfxf.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121717306753531904/vid/avc1/320x568/oDOx9e-M04AgTaNy.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121717306753531904/vid/avc1/480x852/jQkPpXOXK8tvVRSe.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121717306753531904/vid/avc1/720x1280/B_O4Ew7yjNEuFXxt.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121717306753531904/vid/avc1/1080x1920/NvTxuFMxTLg8n5Jy.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121717306753531904/vid/avc1/2160x3840/2dQwberrWJrQe01p.mp4",
+       "w": 2160,
+       "h": 3840,
+       "br": 25128000
+      }
+     ],
+     "width": 2160,
+     "height": 3840,
+     "duration_ms": 38040
+    }
+   ],
+   "ref": {
+    "id": "2121717584085045677",
+    "author_id": "1273671260074106883",
+    "username": "_MaxQ_",
+    "name": "Max Evans",
+    "created_at": "2026-11-14T21:31:06.000Z"
+   }
+  },
+  {
+   "id": "2121802527524164015",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T03:08:38.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121802527524164015",
+   "kind": "quote",
+   "text": "Will the future that you want https://t.co/kkSV08AUuv",
+   "urls": [],
+   "metrics": {
+    "likes": 28841,
+    "reposts": 2323,
+    "replies": 1439,
+    "quotes": 189
+   },
+   "partial": true,
+   "ref": {
+    "id": "2121769886770778182",
+    "author_id": "437179266",
+    "username": "Geiger_Capital",
+    "name": "Geiger Capital",
+    "created_at": "2026-11-15T00:58:56.000Z",
+    "text": "Choose your path Western man.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXIKd3-W8AAVH8q.jpg",
+      "width": 1023,
+      "height": 1208
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXIKd4FXYAAlGVc.jpg",
+      "width": 1018,
+      "height": 1152
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121802386880753924",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T03:08:04.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121802386880753924",
+   "kind": "repost",
+   "text": "Choose your path Western man.",
+   "urls": [],
+   "metrics": {
+    "likes": 14265,
+    "reposts": 1426,
+    "replies": 254,
+    "quotes": 93
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXIKd3-W8AAVH8q.jpg",
+     "width": 1023,
+     "height": 1208
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXIKd4FXYAAlGVc.jpg",
+     "width": 1018,
+     "height": 1152
+    }
+   ],
+   "ref": {
+    "id": "2121769886770778182",
+    "author_id": "437179266",
+    "username": "Geiger_Capital",
+    "name": "Geiger Capital",
+    "created_at": "2026-11-15T00:58:56.000Z"
+   }
+  },
+  {
+   "id": "2121791568055320994",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T02:25:05.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121791568055320994",
+   "reply_to": {
+    "id": "2121770885191483723",
+    "username": "yunta_tsai"
+   },
+   "kind": "reply",
+   "text": "@yunta_tsai As foretold by the great prophet, Douglas Adams",
+   "urls": [],
+   "metrics": {
+    "likes": 4388,
+    "reposts": 245,
+    "replies": 395,
+    "quotes": 48
+   },
+   "partial": true
+  },
+  {
+   "id": "2121791280208581035",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T02:23:56.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121791280208581035",
+   "kind": "repost",
+   "text": "Everything has changed.",
+   "urls": [],
+   "metrics": {
+    "likes": 7862,
+    "reposts": 607,
+    "replies": 240,
+    "quotes": 43
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXIOCRDWYAImAjG.jpg",
+     "width": 1454,
+     "height": 1279
+    }
+   ],
+   "ref": {
+    "id": "2121773877395181778",
+    "author_id": "2492039959",
+    "username": "AJamesMcCarthy",
+    "name": "Andrew McCarthy",
+    "created_at": "2026-11-15T01:14:47.000Z"
+   }
+  },
+  {
+   "id": "2121782101074735364",
+   "author_id": "1917716982465716227",
+   "username": "StarbaseTX",
+   "name": "StarbaseTX",
+   "created_at": "2026-11-15T01:47:28.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/StarbaseTX/status/2121782101074735364",
+   "kind": "repost",
+   "text": "On Friday, November 13, Starship lifted off from Starbase, Texas on its 15th flight.\n\nOn Saturday, November 14, Starship returned to Starbase, Texas, and changed everything → https://spacex.com/launches/starship-flight-15",
+   "urls": [
+    "https://spacex.com/launches/starship-flight-15"
+   ],
+   "metrics": {
+    "likes": 19257,
+    "reposts": 2632,
+    "replies": 655,
+    "quotes": 316
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXHr6a-XcAAS9QG.jpg",
+     "width": 3456,
+     "height": 2160
+    }
+   ],
+   "ref": {
+    "id": "2121738348804857963",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-14T22:53:37.000Z"
+   }
+  },
   {
    "id": "2121780861289042321",
    "author_id": "1518984544421965824",
@@ -15251,1098 +16451,6 @@
     "reposts": 7911,
     "replies": 4863,
     "quotes": 2419
-   },
-   "partial": true
-  },
-  {
-   "id": "2120638269994263035",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T22:02:17.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120638269994263035",
-   "kind": "repost",
-   "text": "Thanks to @elonmusk & @SpaceX, the City of Memphis finished its Fiscal Year ahead of budget for the first time in a long time.\n\nThe City is tracking roughly $5.6 million ahead for the current year.\n\nMemphis Mayor Paul Young said this week that SpaceX generated $54 million in taxes for the City and County this year.",
-   "urls": [],
-   "metrics": {
-    "likes": 8945,
-    "reposts": 1751,
-    "replies": 273,
-    "quotes": 63
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HW3yi_GW4AEq3KV.jpg",
-     "width": 1320,
-     "height": 1068
-    }
-   ],
-   "ref": {
-    "id": "2120617686887801175",
-    "author_id": "240504013",
-    "username": "KatieMiller",
-    "name": "Katie Miller",
-    "created_at": "2026-11-11T20:40:30.000Z"
-   }
-  },
-  {
-   "id": "2120624917762990545",
-   "author_id": "13298072",
-   "username": "Tesla",
-   "name": "Tesla",
-   "created_at": "2026-11-11T21:09:14.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/Tesla/status/2120624917762990545",
-   "reply_to": {
-    "id": "2120624916068515996",
-    "username": "Tesla"
-   },
-   "kind": "reply",
-   "text": "Lots of goodies:\n– Winter Holiday Sweater\n– Winter Holiday Scarf – Winter Holiday Beanie\n– Winter Holiday Tee\n– Kids Holiday Tee\n– Holiday Dog Mode Baby Box Set\n– Holiday Cat Mode Baby Box Set\n– Winter Holiday Dog Sweater\n– Winter Holiday Blanket\n– Tesla Holiday Mug Tesla",
-   "urls": [],
-   "metrics": {
-    "likes": 551,
-    "reposts": 68,
-    "replies": 44,
-    "quotes": 5
-   },
-   "partial": true
-  },
-  {
-   "id": "2120624916068515996",
-   "author_id": "13298072",
-   "username": "Tesla",
-   "name": "Tesla",
-   "created_at": "2026-11-11T21:09:13.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/Tesla/status/2120624916068515996",
-   "kind": "post",
-   "text": "Holiday Collection now live on Tesla Shop 🎅🎄\n\nhttps://t.co/voHkzt3HBD https://t.co/T8T1HiwLBH",
-   "urls": [],
-   "metrics": {
-    "likes": 3566,
-    "reposts": 362,
-    "replies": 252,
-    "quotes": 76
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120620709043154944/vid/avc1/3840x2160/n4ECusws_qvIE0kc.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120620709043154944/img/d_hWUouTZaKu9101.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2120620709043154944/vid/avc1/480x270/KEH7ZMtlOJWX0LYI.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120620709043154944/vid/avc1/640x360/A65xVdeRnYWJ4w34.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120620709043154944/vid/avc1/1280x720/PutVxDjmoVPPfeU_.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120620709043154944/vid/avc1/1920x1080/Av70AIj_8636DPy0.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120620709043154944/vid/avc1/3840x2160/n4ECusws_qvIE0kc.mp4",
-       "w": 3840,
-       "h": 2160,
-       "br": 25128000
-      }
-     ],
-     "width": 3840,
-     "height": 2160,
-     "duration_ms": 16234
-    }
-   ]
-  },
-  {
-   "id": "2120613346596761630",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T20:23:15.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120613346596761630",
-   "kind": "repost",
-   "text": "@TheFlintFace @IterIntellectus 100GW in space is roughly equal to 800GW on Earth.\n\nMoreover, solar on Earth must be paired with massive batteries to continue powering compute at night and supplemented with combustion or nuclear power during winter.\n\nThese are not the same at all.",
-   "urls": [],
-   "metrics": {
-    "likes": 2536,
-    "reposts": 263,
-    "replies": 284,
-    "quotes": 39
-   },
-   "partial": true,
-   "ref": {
-    "id": "2120613240707420280",
-    "author_id": "44196397",
-    "username": "elonmusk",
-    "name": "Elon Musk",
-    "created_at": "2026-11-11T20:22:50.000Z"
-   }
-  },
-  {
-   "id": "2120613240707420280",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T20:22:50.000Z",
-   "lang": "en",
-   "conversation_id": "2120513787602075837",
-   "url": "https://x.com/elonmusk/status/2120613240707420280",
-   "reply_to": {
-    "id": "2120546871990976832",
-    "username": "TheFlintFace"
-   },
-   "kind": "reply",
-   "text": "@TheFlintFace @IterIntellectus 100GW in space is roughly equal to 800GW on Earth.\n\nMoreover, solar on Earth must be paired with massive batteries to continue powering compute at night and supplemented with combustion or nuclear power during winter.\n\nThese are not the same at all.",
-   "urls": [],
-   "metrics": {
-    "likes": 2536,
-    "reposts": 263,
-    "replies": 284,
-    "quotes": 39
-   }
-  },
-  {
-   "id": "2120607852687683842",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T20:01:25.000Z",
-   "lang": "en",
-   "conversation_id": "2120607852687683842",
-   "url": "https://x.com/mattyp/status/2120607852687683842",
-   "kind": "repost",
-   "text": "Introducing Grok Bot 1.0. AI teammates that work alongside your whole team.\n\nShare Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful.",
-   "urls": [],
-   "metrics": {
-    "likes": 14784,
-    "reposts": 1293,
-    "replies": 2679,
-    "quotes": 987
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/480x270/-EA45RM1UgIL5ANG.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/640x360/mw2mvdvgA9cxD2z7.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1280x720/grA3hzlYxZVXWgDr.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 79100
-    }
-   ],
-   "ref": {
-    "id": "2120582957782200586",
-    "author_id": "2085838061347217408",
-    "username": "bot",
-    "name": "Grok Bot",
-    "created_at": "2026-11-11T18:22:30.000Z"
-   }
-  },
-  {
-   "id": "2120598044853014716",
-   "author_id": "1330170106501079041",
-   "username": "Starlink",
-   "name": "Starlink",
-   "created_at": "2026-11-11T19:22:27.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/Starlink/status/2120598044853014716",
-   "kind": "post",
-   "text": "Home in rural Oklahoma is where this veteran and his wife enjoy the things that matter most.\n\nWith Starlink, they can stream, study, and stay connected with family and friends, reliably and seamlessly.\n\nDiscover their story this Veterans Day. https://t.co/dJDhgku0iK",
-   "urls": [],
-   "metrics": {
-    "likes": 352,
-    "reposts": 62,
-    "replies": 24,
-    "quotes": 4
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120597007647793152/vid/avc1/3840x2160/9S5PAQb2irZtnLk6.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120597007647793152/img/5tx-Fc-p7Zm6P25z.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2120597007647793152/vid/avc1/480x270/Lxvt5egXAPtewj4m.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120597007647793152/vid/avc1/640x360/vy9t5nzL8-8cDPI4.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120597007647793152/vid/avc1/1280x720/-IgoD72h7KiA0xDu.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120597007647793152/vid/avc1/1920x1080/Jel6xQAudb2nXvgj.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120597007647793152/vid/avc1/3840x2160/9S5PAQb2irZtnLk6.mp4",
-       "w": 3840,
-       "h": 2160,
-       "br": 25128000
-      }
-     ],
-     "width": 3840,
-     "height": 2160,
-     "duration_ms": 90090
-    }
-   ]
-  },
-  {
-   "id": "2120593710107029687",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T19:05:13.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120593710107029687",
-   "reply_to": {
-    "id": "2120513787602075837",
-    "username": "IterIntellectus"
-   },
-   "kind": "reply",
-   "text": "@IterIntellectus Actually, we’re aiming for 1TW/year from Earth, rising to over 1PW/year from the Moon.\n\nThat’s why I say that if we achieve this outcome, SpaceX will obviously be worth more than Earth, because space is so staggeringly enormous!",
-   "urls": [],
-   "metrics": {
-    "likes": 6248,
-    "reposts": 526,
-    "replies": 417,
-    "quotes": 96
-   },
-   "partial": true
-  },
-  {
-   "id": "2120592775813255535",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T19:01:31.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120592775813255535",
-   "reply_to": {
-    "id": "2120581319189270544",
-    "username": "zerohedge"
-   },
-   "kind": "reply",
-   "text": "@zerohedge SpaceX has a chance of going about half the GW next year of actually usable compute.\n\n“Actually usable” is an important metric. It takes us ~2 months working 24/7 to get a large compute cluster working reliably. I’d guess closer to 6 months for others.",
-   "urls": [],
-   "metrics": {
-    "likes": 2692,
-    "reposts": 224,
-    "replies": 139,
-    "quotes": 23
-   },
-   "partial": true
-  },
-  {
-   "id": "2120591950961353125",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T18:58:14.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120591950961353125",
-   "kind": "post",
-   "text": "Person for scale https://t.co/6XGX98l38L",
-   "urls": [],
-   "metrics": {
-    "likes": 11464,
-    "reposts": 955,
-    "replies": 1294,
-    "quotes": 141
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HW3bG9vagAAwCcq.jpg",
-     "width": 1176,
-     "height": 784
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HW3bG9vbAAARZza.jpg",
-     "width": 942,
-     "height": 2048
-    }
-   ]
-  },
-  {
-   "id": "2120590521253126183",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T18:52:33.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120590521253126183",
-   "kind": "quote",
-   "text": "Starship Super Heavy rocket booster moved to launch pad https://t.co/Sn5VN93bww",
-   "urls": [],
-   "metrics": {
-    "likes": 6581,
-    "reposts": 730,
-    "replies": 577,
-    "quotes": 69
-   },
-   "partial": true,
-   "ref": {
-    "id": "2120220290219208884",
-    "author_id": "34743251",
-    "username": "SpaceX",
-    "name": "SpaceX",
-    "created_at": "2026-11-10T18:21:23.000Z",
-    "text": "Super Heavy moved to the launch pad at Starbase. Booster 22 is the first Super Heavy V3 booster planned to return to the launch site for catch and was used for final catch testing upon arrival, including a suspended squeeze test at catch height",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HWyJCAYXcAAFtkn.jpg",
-      "width": 1920,
-      "height": 1280
-     },
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HWyJD07XwAANxuA.jpg",
-      "width": 1920,
-      "height": 1280
-     },
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HWyJFLKWIAAOuYn.jpg",
-      "width": 1920,
-      "height": 1280
-     },
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HWyJGbQXcAAwXqr.jpg",
-      "width": 1920,
-      "height": 1280
-     }
-    ]
-   }
-  },
-  {
-   "id": "2120589832963711162",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T18:49:49.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120589832963711162",
-   "kind": "quote",
-   "text": "Tesla Megapacks are designed to ensure grid stability, so that you never have a blackout https://t.co/vc8MCLNB00",
-   "urls": [],
-   "metrics": {
-    "likes": 7217,
-    "reposts": 837,
-    "replies": 729,
-    "quotes": 59
-   },
-   "partial": true,
-   "ref": {
-    "id": "2120320369282437219",
-    "author_id": "1618601297510383616",
-    "username": "Tesla_Megapack",
-    "name": "Tesla Megapack",
-    "created_at": "2026-11-11T00:59:04.000Z",
-    "text": "Tesla's Controller-Hardware-In-the-Loop (CHIL) is key to bringing Megapack sites online faster\n\nCHIL allows us to simulate the entire site in real time before it’s connected to the grid. We can see how the site will respond to faults, frequency changes or if a tree were to fall on a power line.\n\nCHIL validated 444 grid-forming Megapacks at Melbourne Renewable Energy Hub before grid connection, delivering 600 MW / 1.6 GWh of storage months ahead of schedule",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120314908789309440/vid/avc1/3840x2160/huhT0QlKIss9CyM4.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120314908789309440/img/YUtiKL7khDLrLOrT.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2120314908789309440/vid/avc1/480x270/03512UzYYZAQnXkW.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120314908789309440/vid/avc1/640x360/TGbUcRPHhuUSsfRW.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120314908789309440/vid/avc1/1280x720/OIwaSgLHUaEyeaDz.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120314908789309440/vid/avc1/1920x1080/WouP-ybq8DdbRxbm.mp4",
-        "w": 1920,
-        "h": 1080,
-        "br": 10368000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120314908789309440/vid/avc1/3840x2160/huhT0QlKIss9CyM4.mp4",
-        "w": 3840,
-        "h": 2160,
-        "br": 25128000
-       }
-      ],
-      "width": 3840,
-      "height": 2160,
-      "duration_ms": 145562
-     }
-    ]
-   }
-  },
-  {
-   "id": "2120584928983441826",
-   "author_id": "1661523610111193088",
-   "username": "SpaceXSI",
-   "name": "SpaceX Super Intelligence",
-   "created_at": "2026-11-11T18:30:20.000Z",
-   "lang": "en",
-   "conversation_id": "2120584928983441826",
-   "url": "https://x.com/SpaceXSI/status/2120584928983441826",
-   "kind": "post",
-   "text": "Introducing Grok Bot 1.0.\n\nBots can be shared and are more collaborative and capable than ever.",
-   "urls": [],
-   "metrics": {
-    "likes": 8498,
-    "reposts": 759,
-    "replies": 399,
-    "quotes": 179
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120584648887603200/vid/avc1/1920x1080/_5-Mr3wCmHhH2dyV.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120584648887603200/img/7fJTC0_ehG0tmNNk.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2120584648887603200/vid/avc1/480x270/pdql7MHxbgju_kFS.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120584648887603200/vid/avc1/640x360/qAYhrsRHzNpTrI47.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120584648887603200/vid/avc1/1280x720/bT2zmCAI9Tbcjnxt.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120584648887603200/vid/avc1/1920x1080/_5-Mr3wCmHhH2dyV.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 79100
-    }
-   ]
-  },
-  {
-   "id": "2120584703082446863",
-   "author_id": "34743251",
-   "username": "SpaceX",
-   "name": "SpaceX",
-   "created_at": "2026-11-11T18:29:26.000Z",
-   "lang": "en",
-   "conversation_id": "2120584703082446863",
-   "url": "https://x.com/SpaceX/status/2120584703082446863",
-   "kind": "post",
-   "text": "Thank you to all those who have served, including the veterans we're proud to call members of the SpaceX family. Happy Veterans Day!",
-   "urls": [],
-   "metrics": {
-    "likes": 14495,
-    "reposts": 1461,
-    "replies": 351,
-    "quotes": 84
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HW3S_BLb0AEYAQd.jpg",
-     "width": 3760,
-     "height": 3152
-    }
-   ]
-  },
-  {
-   "id": "2120584535423565889",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T18:28:46.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120584535423565889",
-   "kind": "quote",
-   "text": "Hire Grok @Bot as a colleague and give it your hardest tasks! https://t.co/yYTjZPGTiC",
-   "urls": [],
-   "metrics": {
-    "likes": 6943,
-    "reposts": 597,
-    "replies": 1036,
-    "quotes": 119
-   },
-   "partial": true,
-   "ref": {
-    "id": "2120582957782200586",
-    "author_id": "2085838061347217408",
-    "username": "bot",
-    "name": "Grok Bot",
-    "created_at": "2026-11-11T18:22:30.000Z",
-    "text": "Introducing Grok Bot 1.0. AI teammates that work alongside your whole team.\n\nShare Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful.",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/480x270/-EA45RM1UgIL5ANG.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/640x360/mw2mvdvgA9cxD2z7.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1280x720/grA3hzlYxZVXWgDr.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
-        "w": 1920,
-        "h": 1080,
-        "br": 10368000
-       }
-      ],
-      "width": 1920,
-      "height": 1080,
-      "duration_ms": 79100
-     }
-    ]
-   }
-  },
-  {
-   "id": "2120584325431456095",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T18:27:56.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120584325431456095",
-   "reply_to": {
-    "id": "2120562729820061856",
-    "username": "ChrisJBakke"
-   },
-   "kind": "reply",
-   "text": "@ChrisJBakke Fair point tbh",
-   "urls": [],
-   "metrics": {
-    "likes": 5947,
-    "reposts": 112,
-    "replies": 213,
-    "quotes": 15
-   },
-   "partial": true
-  },
-  {
-   "id": "2120583986116427980",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T18:26:35.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120583986116427980",
-   "reply_to": {
-    "id": "2120405949014028506",
-    "username": "yunta_tsai"
-   },
-   "kind": "reply",
-   "text": "@yunta_tsai 😂",
-   "urls": [],
-   "metrics": {
-    "likes": 1319,
-    "reposts": 57,
-    "replies": 129,
-    "quotes": 6
-   },
-   "partial": true
-  },
-  {
-   "id": "2120582957782200586",
-   "author_id": "2085838061347217408",
-   "username": "bot",
-   "name": "Grok Bot",
-   "created_at": "2026-11-11T18:22:30.000Z",
-   "lang": "en",
-   "conversation_id": "2120582957782200586",
-   "url": "https://x.com/bot/status/2120582957782200586",
-   "kind": "post",
-   "text": "Introducing Grok Bot 1.0. AI teammates that work alongside your whole team.\n\nShare Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful.",
-   "urls": [],
-   "metrics": {
-    "likes": 14784,
-    "reposts": 1293,
-    "replies": 2679,
-    "quotes": 987
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/480x270/-EA45RM1UgIL5ANG.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/640x360/mw2mvdvgA9cxD2z7.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1280x720/grA3hzlYxZVXWgDr.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120580701489889280/vid/avc1/1920x1080/BDhW_GY4lPxCEeGk.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 79100
-    }
-   ]
-  },
-  {
-   "id": "2120582866413514912",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T18:22:08.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120582866413514912",
-   "kind": "quote",
-   "text": "Bernie is the meme https://t.co/F5TcWiKSaE https://t.co/oin99XbPgU",
-   "urls": [],
-   "metrics": {
-    "likes": 9514,
-    "reposts": 1101,
-    "replies": 1206,
-    "quotes": 250
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HW3S4DpaAAAReGN.jpg",
-     "width": 680,
-     "height": 383
-    }
-   ],
-   "ref": {
-    "id": "2118712057088647405",
-    "author_id": "18071459",
-    "username": "MarkSimoneNY",
-    "name": "MARK SIMONE",
-    "created_at": "2026-11-06T14:28:12.000Z",
-    "text": "You might not want to take Bernie too seriously on tech issues.",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HWctYw0XgAAu3F4.jpg",
-      "width": 1200,
-      "height": 1006
-     }
-    ]
-   }
-  },
-  {
-   "id": "2120580467682656670",
-   "author_id": "2085838061347217408",
-   "username": "bot",
-   "name": "Grok Bot",
-   "created_at": "2026-11-11T18:12:36.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/bot/status/2120580467682656670",
-   "kind": "quote",
-   "text": "Order groceries, snacks, and essentials end-to-end with Bot and Gopuff https://t.co/SepNiXSJ4a",
-   "urls": [],
-   "metrics": {
-    "likes": 1065,
-    "reposts": 86,
-    "replies": 49,
-    "quotes": 17
-   },
-   "partial": true,
-   "ref": {
-    "id": "2120534503710228780",
-    "author_id": "707549284",
-    "username": "gopuff",
-    "name": "Gopuff",
-    "created_at": "2026-11-11T15:09:57.000Z",
-    "text": "Ask @bot. Get it delivered.\n\nGopuff is now built directly into Grok Bot. Our inventory. Our network. Your door in as fast as 15 minutes.\n\nLive now.",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120534360730357760/vid/avc1/1920x1080/nfIOV3w3P98-cF3y.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120534360730357760/img/CY0a6PvHadCbX7NA.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2120534360730357760/vid/avc1/480x270/BNm1MEJ1fpBXTt0H.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120534360730357760/vid/avc1/640x360/paeNgZ5k7KUvjiXk.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120534360730357760/vid/avc1/1280x720/ygzaZm28iU_DcClU.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120534360730357760/vid/avc1/1920x1080/nfIOV3w3P98-cF3y.mp4",
-        "w": 1920,
-        "h": 1080,
-        "br": 10368000
-       }
-      ],
-      "width": 1920,
-      "height": 1080,
-      "duration_ms": 38200
-     }
-    ]
-   }
-  },
-  {
-   "id": "2120572482642162037",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T17:40:52.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120572482642162037",
-   "reply_to": {
-    "id": "2120212693131116650",
-    "username": "BalazsOrban_HU"
-   },
-   "kind": "reply",
-   "text": "@BalazsOrban_HU @WebSummit They’re all getting paid by NGOs",
-   "urls": [],
-   "metrics": {
-    "likes": 10684,
-    "reposts": 831,
-    "replies": 307,
-    "quotes": 19
-   },
-   "partial": true
-  },
-  {
-   "id": "2120572352073433380",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T17:40:21.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120572352073433380",
-   "reply_to": {
-    "id": "2120561304247083448",
-    "username": "aaronburnett"
-   },
-   "kind": "reply",
-   "text": "@aaronburnett We would be happy to take the compute back. No problem.\n\nBut I think the opposite is going to happen.",
-   "urls": [],
-   "metrics": {
-    "likes": 5823,
-    "reposts": 288,
-    "replies": 271,
-    "quotes": 65
-   },
-   "partial": true
-  },
-  {
-   "id": "2120570459335131606",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T17:32:50.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120570459335131606",
-   "reply_to": {
-    "id": "2120565056429814073",
-    "username": "elonmusk"
-   },
-   "kind": "reply",
-   "text": "This is not the smartest move from a profit-maximizing standpoint btw, but there must be some room in this world for sentimentality or what’s the point?",
-   "urls": [],
-   "metrics": {
-    "likes": 20409,
-    "reposts": 814,
-    "replies": 1539,
-    "quotes": 179
-   },
-   "partial": true
-  },
-  {
-   "id": "2120569919599448418",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T17:30:41.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120569919599448418",
-   "reply_to": {
-    "id": "2120561643432391151",
-    "username": "Fitzg1290x"
-   },
-   "kind": "reply",
-   "text": "@Fitzg1290x @KatieMiller 😂",
-   "urls": [],
-   "metrics": {
-    "likes": 1188,
-    "reposts": 26,
-    "replies": 69,
-    "quotes": 6
-   },
-   "partial": true
-  },
-  {
-   "id": "2120565589945290827",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T17:13:29.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120565589945290827",
-   "reply_to": {
-    "id": "2120523393909109198",
-    "username": "XFreeze"
-   },
-   "kind": "reply",
-   "text": "@XFreeze Much appreciated, Mississippi ❤️",
-   "urls": [],
-   "metrics": {
-    "likes": 6160,
-    "reposts": 266,
-    "replies": 230,
-    "quotes": 22
-   },
-   "partial": true
-  },
-  {
-   "id": "2120565179276832797",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T17:11:51.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120565179276832797",
-   "kind": "quote",
-   "text": "Tesla self-driving now approved in Finland https://t.co/AkjWBSf4p8",
-   "urls": [],
-   "metrics": {
-    "likes": 14750,
-    "reposts": 1236,
-    "replies": 1289,
-    "quotes": 152
-   },
-   "partial": true,
-   "ref": {
-    "id": "2120400770952745439",
-    "author_id": "1620480811303866369",
-    "username": "teslaeurope",
-    "name": "Tesla Europe, Middle East & Africa",
-    "created_at": "2026-11-11T06:18:33.000Z",
-    "text": "Now approved in Finland 🇫🇮\n\nRollout begins soon",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120400638517649408/vid/avc1/3840x2160/DNJBCXQD-ZSvXUla.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120400638517649408/img/pv6JcEDdbtzA2f2N.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2120400638517649408/vid/avc1/480x270/b7swPh4uElbIM5wg.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120400638517649408/vid/avc1/640x360/_VmU6c1ZRB86jlJB.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120400638517649408/vid/avc1/1280x720/bAN-DymfbWRSu9uH.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120400638517649408/vid/avc1/1920x1080/Cjz5_FEzmLzn2T54.mp4",
-        "w": 1920,
-        "h": 1080,
-        "br": 10368000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120400638517649408/vid/avc1/3840x2160/DNJBCXQD-ZSvXUla.mp4",
-        "w": 3840,
-        "h": 2160,
-        "br": 25128000
-       }
-      ],
-      "width": 3840,
-      "height": 2160,
-      "duration_ms": 25876
-     }
-    ]
-   }
-  },
-  {
-   "id": "2120565056429814073",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-11T17:11:22.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2120565056429814073",
-   "kind": "post",
-   "text": "In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027",
-   "urls": [],
-   "metrics": {
-    "likes": 26368,
-    "reposts": 1609,
-    "replies": 1893,
-    "quotes": 371
-   },
-   "partial": true
-  },
-  {
-   "id": "2120527630730768768",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T14:42:39.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120527630730768768",
-   "reply_to": {
-    "id": "2120424529482883327",
-    "username": "Baconbrix"
-   },
-   "kind": "reply",
-   "text": "@Baconbrix @kristaletz @spacexai @grok bro 😩",
-   "urls": [],
-   "metrics": {
-    "likes": 4,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
    },
    "partial": true
   }

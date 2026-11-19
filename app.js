@@ -477,7 +477,10 @@
     else if (p.reply_to) marker = '<div class="marker">↩ Replying to ' + who(p.reply_to && p.reply_to.username) + "</div>";
     var head = '<div class="meta"><span class="name">' + esc(p.name) + "</span>" + handleHtml(p.username) + timeHtml(p.created_at) + "</div>";
     var context = (p.kind !== "repost" && p.reply_to) ? parentSlot(p) : "";
-    return '<li class="post">' + marker + context + head + postContent(p) +
+    var openThread = !!(state.thread && state.thread[String(p.id)] && context);
+    // An open thread is oldest-first. The leaf's "Replying to" stays with the leaf, under that thread.
+    var top = openThread ? context + marker : marker + context;
+    return '<li class="post">' + top + head + postContent(p) +
       '<div class="foot"><span>' + num(m.replies) + " replies</span><span>" + num(m.reposts) + " reposts</span><span>" +
       num(m.likes) + " likes</span></div></li>";
   }
@@ -1182,8 +1185,15 @@
         delete state.threadLoading[view];
         var again = (state.byId || {})[view];
         var d2 = again ? P.threadClick(again, state.archive || allPosts(), state.parents, Date.now(), retry) : { effect: "stop" };
+        if (!state.thread[view]) { render(false); return; }
         if (d2.effect === "enqueue") queueThread(view, d2.pair);
         else render(false);
+      }, function () {
+        // A failed shard load must not leave the button hidden, or block the next try.
+        delete state.threadLoading[view];
+        delete state.parentScan["t" + view];
+        if (state.thread[view]) state.threadNotes[view] = "Couldn't load earlier posts.";
+        render(false);
       });
       return;
     }
@@ -1259,14 +1269,25 @@
 
   function stopParentPoll() { if (parentPoll) { clearInterval(parentPoll); parentPoll = null; } }
 
+  // One poll watches every pair still in flight. A later batch must not drop a thread walk:
+  // the loading line hides its button, so a replaced poll never recovers.
+  var parentPollPairs = [], parentPollStarted = 0;
+  function samePair(a, b) { return a && b && a.reply_id === b.reply_id && a.parent_id === b.parent_id; }
   function startParentPoll(pairs) {
-    var started = Date.now(), inflight = false, lastPages = 0;
-    stopParentPoll();
+    var merged = parentPollPairs.filter(pairPending), added = false;
+    (pairs || []).forEach(function (p) {
+      if (!merged.some(function (q) { return samePair(q, p); })) { merged.push(p); added = true; }
+    });
+    parentPollPairs = merged;
+    if (!parentPollPairs.length) { stopParentPoll(); return; }
+    if (!parentPoll || added) parentPollStarted = Date.now();
+    if (parentPoll) return;
+    var inflight = false, lastPages = 0;
     parentPoll = setInterval(function () {
-      var expired = false;
+      var list = parentPollPairs, expired = false, started = parentPollStarted;
       if (pollExpired(started, Date.now())) {
         var note = parentTimeoutNote();
-        pairs.forEach(function (pair) {
+        list.forEach(function (pair) {
           if (!state.loading[pair.reply_id]) return;
           delete state.loading[pair.reply_id];
           state.notes[pair.reply_id] = note;
@@ -1274,16 +1295,19 @@
         });
       }
       if (Date.now() - started > THREAD_POLL_LIMIT_MS) {
-        pairs.forEach(function (pair) {
+        list.forEach(function (pair) {
+          var bucket = threadWait[pairKey(pair)];
           threadViews(pair).forEach(function (v) {
             if (!state.threadLoading[v]) return;
             delete state.threadLoading[v];
+            if (bucket) delete bucket[v];
             state.threadNotes[v] = threadTimeoutNote();
             expired = true;
           });
+          if (bucket && !Object.keys(bucket).length) delete threadWait[pairKey(pair)];
         });
       }
-      if (!pairs.some(pairPending)) { stopParentPoll(); render(false); return; }
+      if (!list.some(pairPending)) { parentPollPairs = []; stopParentPoll(); render(false); return; }
       if (expired) render(false);
       if (inflight) return;
       inflight = true;
@@ -1293,8 +1317,8 @@
         inflight = false;
         if (!parentPoll) return;
         var waiting = false;
-        pairs.forEach(function (pair) { if (pairPending(pair) && pairWaiting(pair)) waiting = true; });
-        if (!waiting) stopParentPoll();
+        parentPollPairs.forEach(function (pair) { if (pairPending(pair) && pairWaiting(pair)) waiting = true; });
+        if (!waiting) { parentPollPairs = []; stopParentPoll(); }
         if (changed || !waiting) render(false); // a long thread shows each published step
       }, function () { inflight = false; });
     }, 1000);

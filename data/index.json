@@ -3,8 +3,8 @@
  "post_count": 1673,
  "accounts": 12,
  "last_run": {
-  "status": "running",
-  "at": "2026-11-19T03:47:48Z",
+  "status": "new",
+  "at": "2026-11-19T03:48:53Z",
   "new_posts": 25
  },
  "shards": [
@@ -48,8 +48,8 @@
   {
    "id": "2026-11",
    "file": "parents/2026-11.json",
-   "count": 372,
-   "newest_id": "2122852394505511145",
+   "count": 377,
+   "newest_id": "2123226341726376324",
    "oldest_id": "2118954119134359767"
   },
   {
@@ -74,5 +74,5 @@
    "oldest_id": "1731918127355556334"
   }
  ],
- "version": "94ea28780007eae250396e15be9fbfc7acdfba923d4ac5a808318a77c32a0b9e"
+ "version": "9a626f5481132cc9e51d91fb6de50f29d96cabb4188b1fc1ff2bf71c0cb71f56"
 }

@@ -1,7 +1,184 @@
 {
  "id": "2026-11",
- "updated_at": "2026-11-18T05:36:34Z",
+ "updated_at": "2026-11-19T03:48:43Z",
  "posts": [
+  {
+   "id": "2123226341726376324",
+   "username": "shaunmmaguire",
+   "name": "Shaun Maguire",
+   "created_at": "2026-11-19T01:26:22.000Z",
+   "lang": "en",
+   "url": "https://x.com/shaunmmaguire/status/2123226341726376324",
+   "kind": "quote",
+   "text": "People do not yet understand:\n\n1) Starship is one of the most important technologies in the history of mankind\n\n2) @SpaceX’s ship catch last weekend all but guarantees the concept works\n\n3) almost all inference compute will be in space (launched by Starship)",
+   "urls": [],
+   "metrics": {
+    "likes": 2668,
+    "reposts": 156,
+    "replies": 63,
+    "quotes": 11
+   },
+   "ref": {
+    "id": "2123220899264679988",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-19T01:04:44.000Z",
+    "text": "Catching the ship was the last major piece of the puzzle https://twitter.com/xfreeze/status/2123209734463648240"
+   }
+  },
+  {
+   "id": "2123203404365480234",
+   "username": "firesidealpha",
+   "name": "Fireside Alpha",
+   "created_at": "2026-11-18T23:55:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/firesidealpha/status/2123203404365480234",
+   "kind": "quote",
+   "text": "Elon Musk reveals Grok 4.8 is in the RL phase, and that what users get from Grok Bot is at times different versions of Grok being tested for usefulness\n\n“So this is kind of a long answer, but we are working on Grok 4.8 right now. It’s in the RL phase. And we do sort of periodic soft releases under Grok Bot.”\n\n“So what you’ll experience with Grok Bot at times is actually various versions of Grok under the hood that we’re testing to determine its usefulness. Is it solving the user’s problem? And then using that data, whether it did or did not solve the problem, to improve Grok.”\n\n“So we’ve got a good data flywheel to keep making Grok Bot better and better over time.”",
+   "urls": [],
+   "metrics": {
+    "likes": 529,
+    "reposts": 36,
+    "replies": 23,
+    "quotes": 6
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123203177302589440/vid/avc1/1280x720/ZIeVyu4sP6U4CjQH.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123203177302589440/img/uTZuGCtMrKWmio_D.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123203177302589440/vid/avc1/480x270/BFjoaBQxRzdXrOox.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123203177302589440/vid/avc1/640x360/5U9eUkrc9N7JHAdJ.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123203177302589440/vid/avc1/1280x720/ZIeVyu4sP6U4CjQH.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      }
+     ],
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 48800
+    }
+   ],
+   "ref": {
+    "id": "2123203029449236953",
+    "author_id": "2066250685512110080",
+    "username": "firesidealpha",
+    "name": "Fireside Alpha",
+    "created_at": "2026-11-18T23:53:44.000Z",
+    "text": "Elon Musk says xAI might now have “the best training stack software in the world” after rewriting everything from scratch over six to eight months\n\n“And this meant rewriting the entire training, RL and inference stack from scratch, versus using JAX and SGLang, which is sort of kind of freeware from Google, more or less, but not as good as what they’ve got internally by far. So you just can’t build world class AI using mediocre freeware, to state the obvious.”\n\n“So we’ve been rewriting the entire training stack. When I say the entire training stack, I mean everything. We’re using primarily C and some C++, because we wanna get as close to the bare metal as possible in order to extract the highest performance from the hardware. The more layers of software abstraction that you have, the less performant your code will be. And it also tends to be more of a black box, where you’re not quite sure what’s going on with the third-party software.”\n\n“So now this is happening very fast by normal standards. It’s sort of happening over the course of maybe six to eight months. And now I feel we’ve actually got the software to be very good. I think we might have the best training stack software in the world, and you’ll see the dividends of that, the fruit of that, in the models that come out.”",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2123202938982277120/vid/avc1/1280x720/xvW9wYVdv-2_XKMf.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123202938982277120/img/V-W4Wv1uvXYHQgKC.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2123202938982277120/vid/avc1/480x270/Osw4rUkN6D6FHC2Y.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123202938982277120/vid/avc1/640x360/HUNPaoxcMoP80hXQ.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123202938982277120/vid/avc1/1280x720/xvW9wYVdv-2_XKMf.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 81900
+     }
+    ]
+   }
+  },
+  {
+   "id": "2123202151300448721",
+   "username": "C_3C_3",
+   "name": "C3",
+   "created_at": "2026-11-18T23:50:14.000Z",
+   "lang": "en",
+   "url": "https://x.com/C_3C_3/status/2123202151300448721",
+   "kind": "post",
+   "text": "What happened…\n\nElon: Do not use Starlink to kill.\n\nZelensky: I used Starlink to kill.\n\nLegacy Media: Elon is evil for stopping Zelensky from using Starlink to kill.\n\nDemocrats: We must investigate Elon for stopping Zelensky from using Starlink to kill.\n\nIt’s really that simple.",
+   "urls": [],
+   "metrics": {
+    "likes": 14301,
+    "reposts": 1845,
+    "replies": 224,
+    "quotes": 61
+   }
+  },
+  {
+   "id": "2123168218743554465",
+   "username": "demishassabis",
+   "name": "Demis Hassabis",
+   "created_at": "2026-11-18T21:35:24.000Z",
+   "lang": "en",
+   "url": "https://x.com/demishassabis/status/2123168218743554465",
+   "kind": "post",
+   "text": "Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro & Ultra users now!! We think you’ll enjoy this model. Alchemy at its finest… 🧪",
+   "urls": [],
+   "metrics": {
+    "likes": 6763,
+    "reposts": 444,
+    "replies": 276,
+    "quotes": 124
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcAo5FbEAAB1wx.png",
+     "width": 3840,
+     "height": 3342
+    }
+   ]
+  },
+  {
+   "id": "2123167780988125621",
+   "username": "sundarpichai",
+   "name": "Sundar Pichai",
+   "created_at": "2026-11-18T21:33:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/sundarpichai/status/2123167780988125621",
+   "kind": "post",
+   "text": "Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.\n\nBegins rolling out today in the Gemini API in @GoogleAIStudio, Gemini for business, for paid Google AI Pro and Ultra subscribers in Google @Antigravity, and for Google AI Pro and Ultra subscribers in the @GeminiApp.",
+   "urls": [],
+   "metrics": {
+    "likes": 10273,
+    "reposts": 829,
+    "replies": 524,
+    "quotes": 421
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXb9cQabgAAOkkn.png",
+     "width": 3840,
+     "height": 3342
+    }
+   ]
+  },
   {
    "id": "2122852394505511145",
    "username": "frantzfries",

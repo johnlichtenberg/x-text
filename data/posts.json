@@ -16,11 +16,19 @@
    "text": "Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro & Ultra users now!! We think you’ll enjoy this model. Alchemy at its finest… 🧪",
    "urls": [],
    "metrics": {
-    "likes": 6756,
+    "likes": 6763,
     "reposts": 444,
     "replies": 276,
     "quotes": 124
    },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcAo5FbEAAB1wx.png",
+     "width": 3840,
+     "height": 3342
+    }
+   ],
    "ref": {
     "id": "2123168218743554465",
     "author_id": "1482581556",
@@ -62,22 +70,42 @@
    "conversation_id": "2123244195746119926",
    "url": "https://x.com/elonmusk/status/2123244195746119926",
    "kind": "repost",
-   "text": "60,000 deliveries. ありがとう❤️ https://twitter.com/teslajapan/status/2122645005215088882",
-   "urls": [
-    "https://twitter.com/teslajapan/status/2122645005215088882"
-   ],
+   "text": "60,000 deliveries. ありがとう❤️",
+   "urls": [],
    "metrics": {
-    "likes": 1900,
-    "reposts": 163,
+    "likes": 1905,
+    "reposts": 164,
     "replies": 47,
     "quotes": 3
    },
    "ref": {
     "id": "2122873047602675832",
     "author_id": "1201427034754318337",
-    "username": "",
-    "name": "",
-    "created_at": "2026-11-18T02:02:30.000Z"
+    "username": "Tesla_Asia",
+    "name": "Tesla Asia",
+    "created_at": "2026-11-18T02:02:30.000Z",
+    "quote": {
+     "id": "2122645005215088882",
+     "author_id": "197801736",
+     "username": "teslajapan",
+     "name": "Tesla Japan",
+     "created_at": "2026-11-17T10:56:20.000Z",
+     "text": "多くのお客様に支えられて、国内60,000台目のテスラをお届けしました。テスラを選んでくださった皆さまに心から感謝いたします。\nこれからも日本のお客様の声に耳を傾け、乗るたびに心が動く体験をつくっていきます。",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXUmPY-bkAAGAyF.jpg",
+       "width": 4096,
+       "height": 2731
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXUmTwLaAAALoU4.jpg",
+       "width": 4096,
+       "height": 2731
+      }
+     ]
+    }
    }
   },
   {
@@ -93,11 +121,19 @@
    "text": "Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.\n\nBegins rolling out today in the Gemini API in @GoogleAIStudio, Gemini for business, for paid Google AI Pro and Ultra subscribers in Google @Antigravity, and for Google AI Pro and Ultra subscribers in the @GeminiApp.",
    "urls": [],
    "metrics": {
-    "likes": 10263,
-    "reposts": 828,
+    "likes": 10273,
+    "reposts": 829,
     "replies": 524,
-    "quotes": 420
+    "quotes": 421
    },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXb9cQabgAAOkkn.png",
+     "width": 3840,
+     "height": 3342
+    }
+   ],
    "ref": {
     "id": "2123167780988125621",
     "author_id": "14130366",
@@ -142,11 +178,47 @@
    "text": "Elon Musk says SpaceX’s StarMind orbital AI satellite is a “much easier” engineering problem than Starlink V3:\n\n“I’m not sure why people think that making an AI satellite would be hard, given that SpaceX already has over 11,000 satellites in orbit, which is, I think, twice as much as the rest of the world combined.”\n\n“The StarMind satellite, which is the name for our overall compute system, is simpler, not harder than, say, the Starlink V3 communication satellite, which is an incredibly complex orbital radio station.”\n\n“It’s got the most advanced phased array antennas that have ever been made, far more advanced than anything that any military has at any price.”\n\n“Compared to that, the AI satellite is much, much easier, because it really just consists of a very large array of solar panels and a radiator.”\n\n“You’re gonna have about five times as much solar panel area as you will have radiator area. And that’s just basic physics.”\n\n“Then you have the star computer at the center, which would be physically about a quarter of the size of, say, a Vera Rubin NVL rack while having all of the capability of a Vera Rubin NVL72.”\n\n“I can’t emphasize enough that the StarMind satellite is a much easier technical problem than Starlink V3 communication satellite. I’m not saying it’s trivial, but it’s not as hard as what we’re already doing.”",
    "urls": [],
    "metrics": {
-    "likes": 1350,
+    "likes": 1359,
     "reposts": 180,
-    "replies": 62,
+    "replies": 63,
     "quotes": 17
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123241557268766720/vid/avc1/1920x1080/QiEmOP8JuaAAKXh0.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123241557268766720/img/YEZ5zFthOFuLZRZc.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123241557268766720/vid/avc1/480x270/N0y31sD0f5Ce1UUW.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123241557268766720/vid/avc1/640x360/ILFsapiS3smgFS1n.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123241557268766720/vid/avc1/1280x720/_81WW_uf51WbDXOq.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123241557268766720/vid/avc1/1920x1080/QiEmOP8JuaAAKXh0.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 209766
+    }
+   ],
    "ref": {
     "id": "2123242707560857836",
     "author_id": "1085225533623783424",
@@ -168,11 +240,47 @@
    "text": "Elon Musk says Neuralink’s next product, Blindsight, will enable people who are completely blind to see:\n\n“Our next product is what we call Blindsight.”\n\n“Blindsight is a neural implant that interfaces directly with the visual cortex and enables people who are completely blind to see.”\n\n“You’re wearing glasses or something like that that have a camera. That camera is transmitting to the Neuralink device that then transfers the signals to your visual cortex.”\n\n“Enabling someone who is completely blind, meaning blind in both eyes or lost the optic nerve, potentially someone who has been blind from birth, to see.”",
    "urls": [],
    "metrics": {
-    "likes": 2482,
-    "reposts": 375,
+    "likes": 2485,
+    "reposts": 376,
     "replies": 206,
     "quotes": 44
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123229376443764736/vid/avc1/1920x1080/qnwhGb28020U4CyZ.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123229376443764736/img/OrEp4pwP4L_nlG5R.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123229376443764736/vid/avc1/480x270/OAm7loi3EhmftzJe.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123229376443764736/vid/avc1/640x360/vVOlLVta9NfmOj_t.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123229376443764736/vid/avc1/1280x720/7bGpcfC-RhqfBg9q.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123229376443764736/vid/avc1/1920x1080/qnwhGb28020U4CyZ.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 43908
+    }
+   ],
    "ref": {
     "id": "2123229499626287113",
     "author_id": "1085225533623783424",
@@ -194,8 +302,8 @@
    "text": "What happened…\n\nElon: Do not use Starlink to kill.\n\nZelensky: I used Starlink to kill.\n\nLegacy Media: Elon is evil for stopping Zelensky from using Starlink to kill.\n\nDemocrats: We must investigate Elon for stopping Zelensky from using Starlink to kill.\n\nIt’s really that simple.",
    "urls": [],
    "metrics": {
-    "likes": 14235,
-    "reposts": 1843,
+    "likes": 14301,
+    "reposts": 1845,
     "replies": 224,
     "quotes": 61
    },
@@ -243,11 +351,19 @@
    "text": "All 26 Starlink V3 satellites launched on Starship Flight 15 are now operational\n\nThose 26 satellites added 26 Tbps of downlink and 4.2 Tbps of uplink capacity to the Starlink network\n\nA typical Falcon 9 V2 Mini launch adds about 2.59 Tbps, so one Starship launch delivered the capacity of 10 Falcon 9 launches\n\nAll 4 Starlink launches in October added 10.4 Tbps combined. Flight 15 added 2.5x that in a single flight\n\nStarlink now has 11,210 active satellites delivering 946.7 Tbps of downlink capacity, and Starship is just getting started",
    "urls": [],
    "metrics": {
-    "likes": 1757,
+    "likes": 1759,
     "reposts": 214,
     "replies": 66,
     "quotes": 23
    },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbXUUTakAAK0nl.jpg",
+     "width": 2285,
+     "height": 1690
+    }
+   ],
    "ref": {
     "id": "2123121040322920458",
     "author_id": "1818311005698678784",
@@ -280,7 +396,37 @@
     "username": "XFreeze",
     "name": "X Freeze",
     "created_at": "2026-11-19T00:54:26.000Z",
-    "text": "Elon Musk just shared an ambitious timeline for Terafab, which is being designed to become the largest building on Earth at 100 million square feet\n\nAnd the first test chip is targeted for June 2027\n\n\"Terafab is still in its infancy, obviously. We only announced it earlier this year, but we've already recruited quite a strong team, and we're looking for more great engineers to join the Terafab project. It is one of the most exciting projects in the world: to create the largest, most advanced chip fabrication facility on Earth. In fact, it'll be the largest building of any kind on Earth. We expect it to ultimately be 100 million square feet, densely packed with the most advanced equipment in the world\n\nWe'll use relatively standard equipment at first, but then we'll be pushing suppliers to do special versions of the machines. In some cases, we may make our own machine if we feel that has to be done in order to improve the production process\n\nSo yes, I think it's going quite well. We expect to have the research fab in operation and hopefully make our first test chip around June of next year. So I guess we're about eight or nine months away from that. And if all goes well, we will achieve volume production towards the end of 2028, at least for phase one of Terafab. And then we'll go to phase two and onwards. But I think you'll see some very rapid evolution in the way that chips are made\""
+    "text": "Elon Musk just shared an ambitious timeline for Terafab, which is being designed to become the largest building on Earth at 100 million square feet\n\nAnd the first test chip is targeted for June 2027\n\n\"Terafab is still in its infancy, obviously. We only announced it earlier this year, but we've already recruited quite a strong team, and we're looking for more great engineers to join the Terafab project. It is one of the most exciting projects in the world: to create the largest, most advanced chip fabrication facility on Earth. In fact, it'll be the largest building of any kind on Earth. We expect it to ultimately be 100 million square feet, densely packed with the most advanced equipment in the world\n\nWe'll use relatively standard equipment at first, but then we'll be pushing suppliers to do special versions of the machines. In some cases, we may make our own machine if we feel that has to be done in order to improve the production process\n\nSo yes, I think it's going quite well. We expect to have the research fab in operation and hopefully make our first test chip around June of next year. So I guess we're about eight or nine months away from that. And if all goes well, we will achieve volume production towards the end of 2028, at least for phase one of Terafab. And then we'll go to phase two and onwards. But I think you'll see some very rapid evolution in the way that chips are made\"",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2123218252184850432/vid/avc1/1280x720/U69R3AmOYnrS8bSU.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123218252184850432/img/k4kCmXS2-msZQ4Zl.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2123218252184850432/vid/avc1/480x270/Z_yytD8_7bo9-A2B.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123218252184850432/vid/avc1/640x360/axAchwdkOxVITLar.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123218252184850432/vid/avc1/1280x720/U69R3AmOYnrS8bSU.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 112245
+     }
+    ]
    }
   },
   {
@@ -319,7 +465,7 @@
    "text": "People do not yet understand:\n\n1) Starship is one of the most important technologies in the history of mankind\n\n2) @SpaceX’s ship catch last weekend all but guarantees the concept works\n\n3) almost all inference compute will be in space (launched by Starship)",
    "urls": [],
    "metrics": {
-    "likes": 2662,
+    "likes": 2668,
     "reposts": 156,
     "replies": 63,
     "quotes": 11
@@ -376,8 +522,8 @@
    "text": "Catching the ship was the last major piece of the puzzle",
    "urls": [],
    "metrics": {
-    "likes": 10150,
-    "reposts": 1081,
+    "likes": 10187,
+    "reposts": 1084,
     "replies": 912,
     "quotes": 106
    },
@@ -387,7 +533,37 @@
     "username": "XFreeze",
     "name": "X Freeze",
     "created_at": "2026-11-19T00:20:22.000Z",
-    "text": "Elon Musk on why the historic Starship catch is a much bigger milestone than most people realize\n\n“Catching the ship was the final major piece”\n\nSpaceX has now achieved:\n\n• 3 successful Super Heavy booster catches\n• A booster that was reflown and caught again\n• The FIRST EVER Starship upper-stage catch\n• Ship 42 returning from orbit in good enough condition to be reflown with only minor repairs\n\nFor the first time, SpaceX has demonstrated that both stages of Starship can return and be recovered by the launch tower\n\nAnd Elon confirmed that Ship 42 will likely be preserved for public display because of its historic achievement\n\n“No one has ever taken a stage like that and created a truly reusable upper stage and certainly not brought it back to land propulsively while being caught by giant chopsticks”\n\nNow look at what full and rapid reusability is expected to unlock:\n\n• Up to 100 TIMES lower cost of accessing space\n• The potential to deliver MILLIONS OF TONS of payload to orbit annually\n• A transportation system where both stages return, refuel, and fly again\n\nThat's the scale of what SpaceX is building\n\nStarship has already demonstrated the recovery of both stages. The next step is turning recovery into routine, rapid reuse\n\nAnd that's what will fundamentally change the economics of spaceflight"
+    "text": "Elon Musk on why the historic Starship catch is a much bigger milestone than most people realize\n\n“Catching the ship was the final major piece”\n\nSpaceX has now achieved:\n\n• 3 successful Super Heavy booster catches\n• A booster that was reflown and caught again\n• The FIRST EVER Starship upper-stage catch\n• Ship 42 returning from orbit in good enough condition to be reflown with only minor repairs\n\nFor the first time, SpaceX has demonstrated that both stages of Starship can return and be recovered by the launch tower\n\nAnd Elon confirmed that Ship 42 will likely be preserved for public display because of its historic achievement\n\n“No one has ever taken a stage like that and created a truly reusable upper stage and certainly not brought it back to land propulsively while being caught by giant chopsticks”\n\nNow look at what full and rapid reusability is expected to unlock:\n\n• Up to 100 TIMES lower cost of accessing space\n• The potential to deliver MILLIONS OF TONS of payload to orbit annually\n• A transportation system where both stages return, refuel, and fly again\n\nThat's the scale of what SpaceX is building\n\nStarship has already demonstrated the recovery of both stages. The next step is turning recovery into routine, rapid reuse\n\nAnd that's what will fundamentally change the economics of spaceflight",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2123209390165819392/vid/avc1/1280x720/_AvNdCGqaJJWbE8x.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123209390165819392/img/AbQkQIBwMIK9V0Z-.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2123209390165819392/vid/avc1/480x270/SCl2Tc731jja3-ka.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123209390165819392/vid/avc1/640x360/Zi6xBSzaq_qVGG7o.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123209390165819392/vid/avc1/1280x720/_AvNdCGqaJJWbE8x.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 145900
+     }
+    ]
    }
   },
   {
@@ -403,11 +579,47 @@
    "text": "Elon Musk reveals how Starlink saved Ukraine from collapse, and sets the record straight on claims he throttled it:\n\n“There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, prepositioned ahead of the Russian invasion.”\n\n“When Russia invaded, they disabled all communications, all cell towers, all fiber cables, and every satellite communication system. There was one system they could not disable, and that was Starlink.”\n\n“If they had not had Starlink, their entire line would have collapsed because they had no communication system, and Russia would have won. Now, does that sound like a pro-Russian action to you?”\n\n“Even to this present day, Starlink provides the backbone of communications for the Ukrainian military and for Ukraine more broadly. If we were to turn off Starlink, the entire Ukrainian front would collapse immediately.”\n\n“From the beginning, I said that Starlink is a civilian system. It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the US government.”\n\n“In the Starlink system, there is a speed limit. That speed limit is the speed of the fastest road speed limit in Ukraine, which I think is about 80 miles an hour.”\n\n“Do not ask me as a private individual to make kill decisions that sometimes result in the loss of innocent lives, not just soldiers. That is not my position to do. And yet we’ve been pressed relentlessly to do that, which I think is outrageous.”\n\n“Those are the rules that have been in place since the beginning, for years. Now people pressure me to change it, but I’m not changing it.”",
    "urls": [],
    "metrics": {
-    "likes": 3947,
-    "reposts": 681,
-    "replies": 149,
+    "likes": 3954,
+    "reposts": 685,
+    "replies": 150,
     "quotes": 42
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/1920x1080/ED8hYL7-VWQCpzhP.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123201619491995648/img/FaJZ5nsceNLQtb3a.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/480x270/1P7G49hUcQp4pRJx.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/640x360/cRBK-WQXeY3kNhqq.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/1280x720/CHIJvmHk_v4_iTkZ.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/1920x1080/ED8hYL7-VWQCpzhP.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 207005
+    }
+   ],
    "ref": {
     "id": "2123202170250240283",
     "author_id": "1085225533623783424",
@@ -440,7 +652,43 @@
     "username": "KanekoaTheGreat",
     "name": "KanekoaTheGreat",
     "created_at": "2026-11-18T23:50:19.000Z",
-    "text": "Elon Musk reveals how Starlink saved Ukraine from collapse, and sets the record straight on claims he throttled it:\n\n“There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, prepositioned ahead of the Russian invasion.”\n\n“When Russia invaded, they disabled all communications, all cell towers, all fiber cables, and every satellite communication system. There was one system they could not disable, and that was Starlink.”\n\n“If they had not had Starlink, their entire line would have collapsed because they had no communication system, and Russia would have won. Now, does that sound like a pro-Russian action to you?”\n\n“Even to this present day, Starlink provides the backbone of communications for the Ukrainian military and for Ukraine more broadly. If we were to turn off Starlink, the entire Ukrainian front would collapse immediately.”\n\n“From the beginning, I said that Starlink is a civilian system. It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the US government.”\n\n“In the Starlink system, there is a speed limit. That speed limit is the speed of the fastest road speed limit in Ukraine, which I think is about 80 miles an hour.”\n\n“Do not ask me as a private individual to make kill decisions that sometimes result in the loss of innocent lives, not just soldiers. That is not my position to do. And yet we’ve been pressed relentlessly to do that, which I think is outrageous.”\n\n“Those are the rules that have been in place since the beginning, for years. Now people pressure me to change it, but I’m not changing it.”"
+    "text": "Elon Musk reveals how Starlink saved Ukraine from collapse, and sets the record straight on claims he throttled it:\n\n“There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, prepositioned ahead of the Russian invasion.”\n\n“When Russia invaded, they disabled all communications, all cell towers, all fiber cables, and every satellite communication system. There was one system they could not disable, and that was Starlink.”\n\n“If they had not had Starlink, their entire line would have collapsed because they had no communication system, and Russia would have won. Now, does that sound like a pro-Russian action to you?”\n\n“Even to this present day, Starlink provides the backbone of communications for the Ukrainian military and for Ukraine more broadly. If we were to turn off Starlink, the entire Ukrainian front would collapse immediately.”\n\n“From the beginning, I said that Starlink is a civilian system. It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the US government.”\n\n“In the Starlink system, there is a speed limit. That speed limit is the speed of the fastest road speed limit in Ukraine, which I think is about 80 miles an hour.”\n\n“Do not ask me as a private individual to make kill decisions that sometimes result in the loss of innocent lives, not just soldiers. That is not my position to do. And yet we’ve been pressed relentlessly to do that, which I think is outrageous.”\n\n“Those are the rules that have been in place since the beginning, for years. Now people pressure me to change it, but I’m not changing it.”",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/1920x1080/ED8hYL7-VWQCpzhP.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123201619491995648/img/FaJZ5nsceNLQtb3a.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/480x270/1P7G49hUcQp4pRJx.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/640x360/cRBK-WQXeY3kNhqq.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/1280x720/CHIJvmHk_v4_iTkZ.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/1920x1080/ED8hYL7-VWQCpzhP.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 207005
+     }
+    ]
    }
   },
   {
@@ -461,11 +709,47 @@
     "replies": 79,
     "quotes": 14
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123211790318505985/vid/avc1/1920x1080/PQFpEv5qq5o7ua2y.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123211790318505985/img/RWaIGokeCYqSlHWS.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123211790318505985/vid/avc1/480x270/OFYUXgVYFHmeqYBa.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123211790318505985/vid/avc1/640x360/H4h4PkKf4D3JF1qd.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123211790318505985/vid/avc1/1280x720/znmj9b599ZpjtNbi.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123211790318505985/vid/avc1/1920x1080/PQFpEv5qq5o7ua2y.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 83800
+    }
+   ],
    "ref": {
     "id": "2123212558438134157",
     "author_id": "1508426880860704771",
-    "username": "",
-    "name": "",
+    "username": "wallstengine",
+    "name": "Wall St Engine",
     "created_at": "2026-11-19T00:31:35.000Z"
    }
   },
@@ -479,10 +763,8 @@
    "conversation_id": "2123216635326816526",
    "url": "https://x.com/elonmusk/status/2123216635326816526",
    "kind": "repost",
-   "text": "My recap from witnessing the most important engineering feat I've ever seen at @SpaceX : https://twitter.com/ARKInvest/status/2123133508319133759",
-   "urls": [
-    "https://twitter.com/ARKInvest/status/2123133508319133759"
-   ],
+   "text": "My recap from witnessing the most important engineering feat I've ever seen at @SpaceX :",
+   "urls": [],
    "metrics": {
     "likes": 1150,
     "reposts": 134,
@@ -492,9 +774,53 @@
    "ref": {
     "id": "2123169794967183595",
     "author_id": "2263452746",
-    "username": "",
-    "name": "",
-    "created_at": "2026-11-18T21:41:40.000Z"
+    "username": "TashaARK",
+    "name": "Tasha Keeney",
+    "created_at": "2026-11-18T21:41:40.000Z",
+    "quote": {
+     "id": "2123133508319133759",
+     "author_id": "2398137084",
+     "username": "ARKInvest",
+     "name": "ARK Invest",
+     "created_at": "2026-11-18T19:17:28.000Z",
+     "text": "SpaceX has caught boosters before. So why is catching the rocket such a big deal? @TashaARK explains what she saw live at Starbase.",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2123131731754602496/vid/avc1/1920x1080/FTTOkWeUM79MNo8r.mp4",
+       "poster": "https://pbs.twimg.com/media/HXbhWmCWIAEdape.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2123131731754602496/vid/avc1/480x270/xJoB9ga7WDFfxwDN.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2123131731754602496/vid/avc1/640x360/GpxICFqBY9hHXgam.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2123131731754602496/vid/avc1/1280x720/h-CGdDIE1hGWUyW0.mp4",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2123131731754602496/vid/avc1/1920x1080/FTTOkWeUM79MNo8r.mp4",
+         "w": 1920,
+         "h": 1080,
+         "br": 10368000
+        }
+       ],
+       "width": 3840,
+       "height": 2160,
+       "duration_ms": 250116
+      }
+     ]
+    }
    }
   },
   {
@@ -508,21 +834,87 @@
    "url": "https://x.com/elonmusk/status/2123216563478356137",
    "kind": "repost",
    "text": "Elon Musk reveals over 30 people now have a Neuralink, some use it to feed themselves with a robot arm, and he's confident it will eventually let people with spinal injuries walk again\n\n\"Yeah. So Neuralink, by the way, is obviously, as you mentioned, a private company, much, much smaller. I mean, it's just several hundred people. We now have, I think, over 30 people that have received the Neuralink device. So they have a Neuralink in their head.\"\n\n\"Our focus initially was giving people who are tetraplegics, quadriplegics, the ability to control their phone or their computer or a robot arm just by thinking. So we call that product Telepathy. So just by thinking, you can control a computer or a robot arm. Some of our customers will literally control a robot arm, and they will actually feed themselves. It gives them the power. I mean, imagine you're tetraplegic. You can't do anything. You can't feed yourself. But now, just by thinking, with the robot arm, you can actually feed yourself with the robot arm.\"\n\n\"And how much better… These things that we take for granted are life-changing. And down the road, we feel at this point confident in saying that we'll be able to bridge the signals from the brain, from the motor and sensory cortex, past where the neural damage is from a broken neck or spine, and enable people to walk again.\"",
-   "urls": [
-    "https://twitter.com/firesidealpha/status/2123208511169396990"
-   ],
+   "urls": [],
    "metrics": {
-    "likes": 1395,
+    "likes": 1397,
     "reposts": 208,
     "replies": 68,
     "quotes": 20
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123210382193889280/vid/avc1/1280x720/Ivr9KYSmuz6bp22H.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123210382193889280/img/izNxmRAXZsO8VXmA.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123210382193889280/vid/avc1/480x270/-4ORqoUolOFv28QV.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123210382193889280/vid/avc1/640x360/eEhfswlLwNgg8Jkf.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123210382193889280/vid/avc1/1280x720/Ivr9KYSmuz6bp22H.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      }
+     ],
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 85366
+    }
+   ],
    "ref": {
     "id": "2123210477954367708",
     "author_id": "2066250685512110080",
     "username": "firesidealpha",
     "name": "Fireside Alpha",
-    "created_at": "2026-11-19T00:23:19.000Z"
+    "created_at": "2026-11-19T00:23:19.000Z",
+    "quote": {
+     "id": "2123208511169396990",
+     "author_id": "2066250685512110080",
+     "username": "firesidealpha",
+     "name": "Fireside Alpha",
+     "created_at": "2026-11-19T00:15:31.000Z",
+     "text": "Elon Musk reveals some of his best data center builders came from In-N-Out, because aces \"making epic burgers all day long… are gonna do a damn good job of network cables\"\n\n\"And then we have an in-house team, not just contractors. We have contractors too, but we have an in-house team, which we call sort of ArmyX, that is productionizing the building of the data centers.\"\n\n\"And doing the basic principles of productionizing things, which is where you break the tasks down into things that are easily trainable within a few days. So you don't need people that have, say, been doing networking cables for their whole life. You divide the tasks into things where you can train someone new who may have been, like, a Starbucks barista, or stocking shelves at Target. But by the way, people who are good baristas or good at stocking shelves are great workers. And also, hire someone from In-N-Out.\"\n\n\"Those are some of our best people. They've never done data centers before. But let me tell you, if you get some aces out of In-N-Out who have been making epic burgers all day long, perfectly, they're gonna do a damn good job of network cables.\"",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2123208249541287936/vid/avc1/1280x720/oF7qjndHqLKmSfSN.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2123208249541287936/img/szH9lhf-3bSBkOeD.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2123208249541287936/vid/avc1/480x270/QzZdorZvKuWXR-8z.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2123208249541287936/vid/avc1/640x360/b1G9ILQjq-fbgM9V.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2123208249541287936/vid/avc1/1280x720/oF7qjndHqLKmSfSN.mp4",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        }
+       ],
+       "width": 1280,
+       "height": 720,
+       "duration_ms": 68400
+      }
+     ]
+    }
    }
   },
   {
@@ -538,11 +930,47 @@
    "text": "🚨 BOOM: Elon Musk just walked into the New York Times DealBook Summit and made the interviewer SQUIRM.\n\nAsked about immigration, Musk said Europe needs to stop massive ILLEGAL immigration.\n\nSmall boats keep landing with unvetted people, and \"in some cases\" they \"do terrible things\" to the people who live there.\n\nThen he got to the \"right-wing\" label. \"If that's a right-wing view, then I guess so.\"\n\nHe added that OBAMA AND HILLARY \"would say exactly what I've said. Like, you can literally look at their speeches.\"\n\nThe interviewer laughed nervously and covered his mouth. 🤣\n\nSecuring your border used to be common sense.\n\nThe Democrats moved, not us.",
    "urls": [],
    "metrics": {
-    "likes": 2801,
-    "reposts": 508,
+    "likes": 2806,
+    "reposts": 510,
     "replies": 112,
     "quotes": 15
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123194300125061120/vid/avc1/1920x1080/JiMCpAiEklUs-FCo.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123194300125061120/img/1zUC-VV7CIhGpWOg.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123194300125061120/vid/avc1/480x270/7dO9QFxg1qSnIbA2.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123194300125061120/vid/avc1/640x360/g5C7VkLFMWufw2dG.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123194300125061120/vid/avc1/1280x720/4dWrvHIt4cSTpuTS.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123194300125061120/vid/avc1/1920x1080/JiMCpAiEklUs-FCo.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 72333
+    }
+   ],
    "ref": {
     "id": "2123197134262477285",
     "author_id": "1355721251180961792",
@@ -564,11 +992,47 @@
    "text": "Elon Musk predicts 100% of superintelligence compute will be in space, and says Tesla and SpaceX would “probably” be better together:\n\n“If you look into the future, orbital compute is really going to be where things scale to.”\n\n“In the future, the amount of superintelligence compute that is on Earth will round down to 0% and superintelligence compute in space will round up to 100%.”\n\n“Now remember these words, because that sounds like a preposterous thing to say.”\n\n“I think superintelligence compute [on Earth] will be less than 0.4% of compute. Therefore, orbital compute will round up to 100%. And I think this is a relatively easy prediction to make, and it’s simply a matter of time before that happens.”\n\nWould Tesla and SpaceX be better together?\n\n“Probably yes. Now, this is not like let’s merge the companies no matter what. These require shareholder votes, which may or may not succeed, at least in the case of Tesla.”\n\n“I can’t just drag them into a non-economic merger that is bad for them, because I’ll obviously get sued.”\n\n“It really is just a question of, do SpaceX and Tesla execute better together and create more value than if they’re apart?”",
    "urls": [],
    "metrics": {
-    "likes": 1073,
+    "likes": 1076,
     "reposts": 154,
     "replies": 53,
     "quotes": 6
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123211932421550080/vid/avc1/1920x1080/FX9uQ2wWqOGgY6Y0.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123211932421550080/img/PVLMMW40WUj7DDJd.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123211932421550080/vid/avc1/480x270/ooHZjIp8yt-dPqly.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123211932421550080/vid/avc1/640x360/uZj52b4OoPGI1lCy.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123211932421550080/vid/avc1/1280x720/PhUzOOn-Hw-Z9aFN.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123211932421550080/vid/avc1/1920x1080/FX9uQ2wWqOGgY6Y0.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 117214
+    }
+   ],
    "ref": {
     "id": "2123212134175949267",
     "author_id": "1085225533623783424",
@@ -590,11 +1054,47 @@
    "text": "Here's Elon Musk's full interview at DealBook Summit today:\n\n0:00 Opening Remarks\n0:31 Jensen Huang Situation\n2:44 Jensen Like Jordan\n3:41 Would Hire Jensen\n5:43 Midterms Loss Reaction\n6:25 Balance Of Power\n8:45 No Pardon Needed\n10:30 Politics Involvement\n12:07 Not MAGA Views\n14:58 Starlink Saved Ukraine\n21:30 Zelensky Not Truthful\n22:02 Starlink Vs Starshield\n23:35 Power Of One Person\n24:16 Rules Unchanged\n26:17 Open Source Rockets\n27:51 Starlink Funds Starship\n29:59 Multiplanetary Future\n32:22 Direct To Cell Plan\n35:53 SpaceX Tesla Merger\n39:31 No Merger Bonus\n40:51 Model YL Demand\n41:12 Cybercab And AVs\n42:44 Anthropic Compute Deal\n45:11 Feeling At Peace",
    "urls": [],
    "metrics": {
-    "likes": 3261,
+    "likes": 3267,
     "reposts": 712,
     "replies": 183,
     "quotes": 80
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123202242782351360/vid/avc1/1920x1080/wbWda7qv8ABj993H.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123202242782351360/img/YfWBzIf1AziSUmof.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123202242782351360/vid/avc1/480x270/JFkYuCXJdPRY9gaN.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123202242782351360/vid/avc1/640x360/EaHIPvrz1jJTUGQ5.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123202242782351360/vid/avc1/1280x720/5r12_-_1oVbbCQIZ.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123202242782351360/vid/avc1/1920x1080/wbWda7qv8ABj993H.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 2735611
+    }
+   ],
    "ref": {
     "id": "2123205279009677430",
     "author_id": "1389913567671975937",
@@ -616,11 +1116,47 @@
    "text": "Elon Musk responds to Democrats calling for his imprisonment: “It was like prison first, crime later.”\n\n“I don’t think I need a pardon, by the way, because I haven’t committed any crimes.”\n\n“A number of Democrats… said that I should go to prison. And then they asked him, but for what crime? And he couldn’t name a crime.”\n\n“He wants me to go to prison. It was like prison first, crime later.”\n\n“The guy’s trying to channel Beria from like Stalin, where it’s like, show me the man, I’ll show you the crime type of thing. I’m like, come on, guys, this is a little over the top.”\n\n“There are definitely a few people grumpy about my funding in this past election. But hopefully in this country, you still need to do an actual crime before you go to prison.”\n\n“It really needs to be first crime, then prison. Not the other way around. I mean, what country are we living in here?”",
    "urls": [],
    "metrics": {
-    "likes": 4045,
-    "reposts": 542,
+    "likes": 4053,
+    "reposts": 545,
     "replies": 159,
     "quotes": 28
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123208026933075968/vid/avc1/1920x1080/_OnTdgxXmzVmGwiI.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123208026933075968/img/vhrtk_g2Nv191ybI.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123208026933075968/vid/avc1/480x270/QE1UkNTe-8960QDU.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123208026933075968/vid/avc1/640x360/WqafX5THU4cD3vnC.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123208026933075968/vid/avc1/1280x720/baCKHZmv439zAvXq.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123208026933075968/vid/avc1/1920x1080/_OnTdgxXmzVmGwiI.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 89512
+    }
+   ],
    "ref": {
     "id": "2123208280550084816",
     "author_id": "1085225533623783424",
@@ -642,11 +1178,47 @@
    "text": "Elon Musk reveals what really drives him to make humanity a star-faring civilization: “It’s life insurance, but for everything.”\n\n“If you simply look at the fossil record and look at how many extinction events have happened, which is a lot, then you know that this is simply a matter of time. It’s a when, not an if.”\n\n“It’s important to have insurance for life as a whole. It’s life insurance, but for everything.”\n\nBut what motivates him even more:\n\n“I want to envision a future that’s exciting, that we’re out there exploring new frontiers, going to new star systems, and make science fiction not just fiction forever.”\n\n“We should boldly go like Star Trek, boldly go where no one’s gone before. And perhaps we find some long dead alien civilizations, or perhaps we find actual aliens we could talk to.”\n\n“You know how you can figure out if something’s really cool about the future? Just ask your kid, and they’ll tell you.”\n\n“Life cannot just be about solving one miserable problem after another. There have to be things that excite you and inspire you about the future, that make you happy when you wake up in the morning.”\n\n“You can’t wait to see what happens next. And being a star-faring civilization is one of those things.”",
    "urls": [],
    "metrics": {
-    "likes": 1324,
+    "likes": 1328,
     "reposts": 230,
     "replies": 83,
     "quotes": 22
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123209379927453696/vid/avc1/1920x1080/WRG9GnuBuspKy8jT.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123209379927453696/img/QrwL8kTfsNy5AidV.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123209379927453696/vid/avc1/480x270/i8Q6Uxk91baawUPa.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123209379927453696/vid/avc1/640x360/RmYyKWjSggRe9acf.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123209379927453696/vid/avc1/1280x720/ITNWO9W9y3cOtM-H.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123209379927453696/vid/avc1/1920x1080/WRG9GnuBuspKy8jT.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 120302
+    }
+   ],
    "ref": {
     "id": "2123209664687132901",
     "author_id": "1085225533623783424",
@@ -62418,8 +62990,8 @@
   }
  ],
  "last_run": {
-  "status": "running",
-  "at": "2026-11-19T03:47:48Z",
+  "status": "new",
+  "at": "2026-11-19T03:48:53Z",
   "new_posts": 25
  }
 }

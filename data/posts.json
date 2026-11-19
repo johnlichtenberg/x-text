@@ -1,8 +1,660 @@
 {
- "updated_at": "2026-11-18T06:22:24Z",
- "count": 1648,
+ "updated_at": "2026-11-19T03:47:47Z",
+ "count": 1673,
  "accounts": 12,
  "posts": [
+  {
+   "id": "2123244574785388546",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T02:38:49.000Z",
+   "lang": "en",
+   "conversation_id": "2123244574785388546",
+   "url": "https://x.com/elonmusk/status/2123244574785388546",
+   "kind": "repost",
+   "text": "Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro & Ultra users now!! We think you’ll enjoy this model. Alchemy at its finest… 🧪",
+   "urls": [],
+   "metrics": {
+    "likes": 6756,
+    "reposts": 444,
+    "replies": 276,
+    "quotes": 124
+   },
+   "ref": {
+    "id": "2123168218743554465",
+    "author_id": "1482581556",
+    "username": "demishassabis",
+    "name": "Demis Hassabis",
+    "created_at": "2026-11-18T21:35:24.000Z"
+   }
+  },
+  {
+   "id": "2123244563074846733",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T02:38:46.000Z",
+   "lang": "en",
+   "conversation_id": "2123168218743554465",
+   "url": "https://x.com/elonmusk/status/2123244563074846733",
+   "reply_to": {
+    "id": "2123168218743554465",
+    "username": "demishassabis"
+   },
+   "kind": "reply",
+   "text": "@demishassabis Impressive",
+   "urls": [],
+   "metrics": {
+    "likes": 1302,
+    "reposts": 55,
+    "replies": 123,
+    "quotes": 8
+   }
+  },
+  {
+   "id": "2123244195746119926",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T02:37:18.000Z",
+   "lang": "ja",
+   "conversation_id": "2123244195746119926",
+   "url": "https://x.com/elonmusk/status/2123244195746119926",
+   "kind": "repost",
+   "text": "60,000 deliveries. ありがとう❤️ https://twitter.com/teslajapan/status/2122645005215088882",
+   "urls": [
+    "https://twitter.com/teslajapan/status/2122645005215088882"
+   ],
+   "metrics": {
+    "likes": 1900,
+    "reposts": 163,
+    "replies": 47,
+    "quotes": 3
+   },
+   "ref": {
+    "id": "2122873047602675832",
+    "author_id": "1201427034754318337",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-18T02:02:30.000Z"
+   }
+  },
+  {
+   "id": "2123244141400481974",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T02:37:05.000Z",
+   "lang": "en",
+   "conversation_id": "2123244141400481974",
+   "url": "https://x.com/elonmusk/status/2123244141400481974",
+   "kind": "repost",
+   "text": "Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.\n\nBegins rolling out today in the Gemini API in @GoogleAIStudio, Gemini for business, for paid Google AI Pro and Ultra subscribers in Google @Antigravity, and for Google AI Pro and Ultra subscribers in the @GeminiApp.",
+   "urls": [],
+   "metrics": {
+    "likes": 10263,
+    "reposts": 828,
+    "replies": 524,
+    "quotes": 420
+   },
+   "ref": {
+    "id": "2123167780988125621",
+    "author_id": "14130366",
+    "username": "sundarpichai",
+    "name": "Sundar Pichai",
+    "created_at": "2026-11-18T21:33:40.000Z"
+   }
+  },
+  {
+   "id": "2123244135754899779",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T02:37:04.000Z",
+   "lang": "en",
+   "conversation_id": "2123167780988125621",
+   "url": "https://x.com/elonmusk/status/2123244135754899779",
+   "reply_to": {
+    "id": "2123167780988125621",
+    "username": "sundarpichai"
+   },
+   "kind": "reply",
+   "text": "@sundarpichai @GoogleAIStudio Impressive progress",
+   "urls": [],
+   "metrics": {
+    "likes": 904,
+    "reposts": 46,
+    "replies": 91,
+    "quotes": 4
+   }
+  },
+  {
+   "id": "2123243377907175651",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T02:34:03.000Z",
+   "lang": "en",
+   "conversation_id": "2123243377907175651",
+   "url": "https://x.com/elonmusk/status/2123243377907175651",
+   "kind": "repost",
+   "text": "Elon Musk says SpaceX’s StarMind orbital AI satellite is a “much easier” engineering problem than Starlink V3:\n\n“I’m not sure why people think that making an AI satellite would be hard, given that SpaceX already has over 11,000 satellites in orbit, which is, I think, twice as much as the rest of the world combined.”\n\n“The StarMind satellite, which is the name for our overall compute system, is simpler, not harder than, say, the Starlink V3 communication satellite, which is an incredibly complex orbital radio station.”\n\n“It’s got the most advanced phased array antennas that have ever been made, far more advanced than anything that any military has at any price.”\n\n“Compared to that, the AI satellite is much, much easier, because it really just consists of a very large array of solar panels and a radiator.”\n\n“You’re gonna have about five times as much solar panel area as you will have radiator area. And that’s just basic physics.”\n\n“Then you have the star computer at the center, which would be physically about a quarter of the size of, say, a Vera Rubin NVL rack while having all of the capability of a Vera Rubin NVL72.”\n\n“I can’t emphasize enough that the StarMind satellite is a much easier technical problem than Starlink V3 communication satellite. I’m not saying it’s trivial, but it’s not as hard as what we’re already doing.”",
+   "urls": [],
+   "metrics": {
+    "likes": 1350,
+    "reposts": 180,
+    "replies": 62,
+    "quotes": 17
+   },
+   "ref": {
+    "id": "2123242707560857836",
+    "author_id": "1085225533623783424",
+    "username": "KanekoaTheGreat",
+    "name": "KanekoaTheGreat",
+    "created_at": "2026-11-19T02:31:24.000Z"
+   }
+  },
+  {
+   "id": "2123232559547183243",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T01:51:04.000Z",
+   "lang": "en",
+   "conversation_id": "2123232559547183243",
+   "url": "https://x.com/elonmusk/status/2123232559547183243",
+   "kind": "repost",
+   "text": "Elon Musk says Neuralink’s next product, Blindsight, will enable people who are completely blind to see:\n\n“Our next product is what we call Blindsight.”\n\n“Blindsight is a neural implant that interfaces directly with the visual cortex and enables people who are completely blind to see.”\n\n“You’re wearing glasses or something like that that have a camera. That camera is transmitting to the Neuralink device that then transfers the signals to your visual cortex.”\n\n“Enabling someone who is completely blind, meaning blind in both eyes or lost the optic nerve, potentially someone who has been blind from birth, to see.”",
+   "urls": [],
+   "metrics": {
+    "likes": 2482,
+    "reposts": 375,
+    "replies": 206,
+    "quotes": 44
+   },
+   "ref": {
+    "id": "2123229499626287113",
+    "author_id": "1085225533623783424",
+    "username": "KanekoaTheGreat",
+    "name": "KanekoaTheGreat",
+    "created_at": "2026-11-19T01:38:55.000Z"
+   }
+  },
+  {
+   "id": "2123231924420579393",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T01:48:33.000Z",
+   "lang": "en",
+   "conversation_id": "2123231924420579393",
+   "url": "https://x.com/elonmusk/status/2123231924420579393",
+   "kind": "repost",
+   "text": "What happened…\n\nElon: Do not use Starlink to kill.\n\nZelensky: I used Starlink to kill.\n\nLegacy Media: Elon is evil for stopping Zelensky from using Starlink to kill.\n\nDemocrats: We must investigate Elon for stopping Zelensky from using Starlink to kill.\n\nIt’s really that simple.",
+   "urls": [],
+   "metrics": {
+    "likes": 14235,
+    "reposts": 1843,
+    "replies": 224,
+    "quotes": 61
+   },
+   "ref": {
+    "id": "2123202151300448721",
+    "author_id": "2327400218",
+    "username": "C_3C_3",
+    "name": "C3",
+    "created_at": "2026-11-18T23:50:14.000Z"
+   }
+  },
+  {
+   "id": "2123231880086774019",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T01:48:22.000Z",
+   "lang": "und",
+   "conversation_id": "2123202151300448721",
+   "url": "https://x.com/elonmusk/status/2123231880086774019",
+   "reply_to": {
+    "id": "2123202151300448721",
+    "username": "C_3C_3"
+   },
+   "kind": "reply",
+   "text": "@C_3C_3 Yes",
+   "urls": [],
+   "metrics": {
+    "likes": 12370,
+    "reposts": 409,
+    "replies": 272,
+    "quotes": 12
+   }
+  },
+  {
+   "id": "2123229444794118516",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T01:38:41.000Z",
+   "lang": "en",
+   "conversation_id": "2123229444794118516",
+   "url": "https://x.com/elonmusk/status/2123229444794118516",
+   "kind": "repost",
+   "text": "All 26 Starlink V3 satellites launched on Starship Flight 15 are now operational\n\nThose 26 satellites added 26 Tbps of downlink and 4.2 Tbps of uplink capacity to the Starlink network\n\nA typical Falcon 9 V2 Mini launch adds about 2.59 Tbps, so one Starship launch delivered the capacity of 10 Falcon 9 launches\n\nAll 4 Starlink launches in October added 10.4 Tbps combined. Flight 15 added 2.5x that in a single flight\n\nStarlink now has 11,210 active satellites delivering 946.7 Tbps of downlink capacity, and Starship is just getting started",
+   "urls": [],
+   "metrics": {
+    "likes": 1757,
+    "reposts": 214,
+    "replies": 66,
+    "quotes": 23
+   },
+   "ref": {
+    "id": "2123121040322920458",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-18T18:27:56.000Z"
+   }
+  },
+  {
+   "id": "2123229344936173890",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T01:38:18.000Z",
+   "lang": "en",
+   "conversation_id": "2123229344936173890",
+   "url": "https://x.com/elonmusk/status/2123229344936173890",
+   "kind": "quote",
+   "text": "Looking for hardcore engineers to join Terafab!",
+   "urls": [],
+   "metrics": {
+    "likes": 8439,
+    "reposts": 1054,
+    "replies": 1210,
+    "quotes": 111
+   },
+   "ref": {
+    "id": "2123218308027863259",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-19T00:54:26.000Z",
+    "text": "Elon Musk just shared an ambitious timeline for Terafab, which is being designed to become the largest building on Earth at 100 million square feet\n\nAnd the first test chip is targeted for June 2027\n\n\"Terafab is still in its infancy, obviously. We only announced it earlier this year, but we've already recruited quite a strong team, and we're looking for more great engineers to join the Terafab project. It is one of the most exciting projects in the world: to create the largest, most advanced chip fabrication facility on Earth. In fact, it'll be the largest building of any kind on Earth. We expect it to ultimately be 100 million square feet, densely packed with the most advanced equipment in the world\n\nWe'll use relatively standard equipment at first, but then we'll be pushing suppliers to do special versions of the machines. In some cases, we may make our own machine if we feel that has to be done in order to improve the production process\n\nSo yes, I think it's going quite well. We expect to have the research fab in operation and hopefully make our first test chip around June of next year. So I guess we're about eight or nine months away from that. And if all goes well, we will achieve volume production towards the end of 2028, at least for phase one of Terafab. And then we'll go to phase two and onwards. But I think you'll see some very rapid evolution in the way that chips are made\""
+   }
+  },
+  {
+   "id": "2123229108029227489",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T01:37:21.000Z",
+   "lang": "en",
+   "conversation_id": "2123226341726376324",
+   "url": "https://x.com/elonmusk/status/2123229108029227489",
+   "reply_to": {
+    "id": "2123226341726376324",
+    "username": "shaunmmaguire"
+   },
+   "kind": "reply",
+   "text": "@shaunmmaguire @SpaceX True",
+   "urls": [],
+   "metrics": {
+    "likes": 2624,
+    "reposts": 91,
+    "replies": 151,
+    "quotes": 5
+   }
+  },
+  {
+   "id": "2123229086487400502",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T01:37:16.000Z",
+   "lang": "en",
+   "conversation_id": "2123229086487400502",
+   "url": "https://x.com/elonmusk/status/2123229086487400502",
+   "kind": "repost",
+   "text": "People do not yet understand:\n\n1) Starship is one of the most important technologies in the history of mankind\n\n2) @SpaceX’s ship catch last weekend all but guarantees the concept works\n\n3) almost all inference compute will be in space (launched by Starship)",
+   "urls": [],
+   "metrics": {
+    "likes": 2662,
+    "reposts": 156,
+    "replies": 63,
+    "quotes": 11
+   },
+   "ref": {
+    "id": "2123226341726376324",
+    "author_id": "143134601",
+    "username": "shaunmmaguire",
+    "name": "Shaun Maguire",
+    "created_at": "2026-11-19T01:26:22.000Z",
+    "quote": {
+     "id": "2123220899264679988",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-11-19T01:04:44.000Z",
+     "text": "Catching the ship was the last major piece of the puzzle https://twitter.com/xfreeze/status/2123209734463648240"
+    }
+   }
+  },
+  {
+   "id": "2123226994246828250",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T01:28:57.000Z",
+   "lang": "en",
+   "conversation_id": "2123203404365480234",
+   "url": "https://x.com/elonmusk/status/2123226994246828250",
+   "reply_to": {
+    "id": "2123203404365480234",
+    "username": "firesidealpha"
+   },
+   "kind": "reply",
+   "text": "@firesidealpha “Grok 4.8” is currently several different model variants in beta. We’re not yet sure which of the variants will go to wide release.",
+   "urls": [],
+   "metrics": {
+    "likes": 1905,
+    "reposts": 101,
+    "replies": 218,
+    "quotes": 26
+   }
+  },
+  {
+   "id": "2123220899264679988",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T01:04:44.000Z",
+   "lang": "en",
+   "conversation_id": "2123220899264679988",
+   "url": "https://x.com/elonmusk/status/2123220899264679988",
+   "kind": "quote",
+   "text": "Catching the ship was the last major piece of the puzzle",
+   "urls": [],
+   "metrics": {
+    "likes": 10150,
+    "reposts": 1081,
+    "replies": 912,
+    "quotes": 106
+   },
+   "ref": {
+    "id": "2123209734463648240",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-19T00:20:22.000Z",
+    "text": "Elon Musk on why the historic Starship catch is a much bigger milestone than most people realize\n\n“Catching the ship was the final major piece”\n\nSpaceX has now achieved:\n\n• 3 successful Super Heavy booster catches\n• A booster that was reflown and caught again\n• The FIRST EVER Starship upper-stage catch\n• Ship 42 returning from orbit in good enough condition to be reflown with only minor repairs\n\nFor the first time, SpaceX has demonstrated that both stages of Starship can return and be recovered by the launch tower\n\nAnd Elon confirmed that Ship 42 will likely be preserved for public display because of its historic achievement\n\n“No one has ever taken a stage like that and created a truly reusable upper stage and certainly not brought it back to land propulsively while being caught by giant chopsticks”\n\nNow look at what full and rapid reusability is expected to unlock:\n\n• Up to 100 TIMES lower cost of accessing space\n• The potential to deliver MILLIONS OF TONS of payload to orbit annually\n• A transportation system where both stages return, refuel, and fly again\n\nThat's the scale of what SpaceX is building\n\nStarship has already demonstrated the recovery of both stages. The next step is turning recovery into routine, rapid reuse\n\nAnd that's what will fundamentally change the economics of spaceflight"
+   }
+  },
+  {
+   "id": "2123220601154466066",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T01:03:33.000Z",
+   "lang": "en",
+   "conversation_id": "2123220601154466066",
+   "url": "https://x.com/elonmusk/status/2123220601154466066",
+   "kind": "repost",
+   "text": "Elon Musk reveals how Starlink saved Ukraine from collapse, and sets the record straight on claims he throttled it:\n\n“There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, prepositioned ahead of the Russian invasion.”\n\n“When Russia invaded, they disabled all communications, all cell towers, all fiber cables, and every satellite communication system. There was one system they could not disable, and that was Starlink.”\n\n“If they had not had Starlink, their entire line would have collapsed because they had no communication system, and Russia would have won. Now, does that sound like a pro-Russian action to you?”\n\n“Even to this present day, Starlink provides the backbone of communications for the Ukrainian military and for Ukraine more broadly. If we were to turn off Starlink, the entire Ukrainian front would collapse immediately.”\n\n“From the beginning, I said that Starlink is a civilian system. It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the US government.”\n\n“In the Starlink system, there is a speed limit. That speed limit is the speed of the fastest road speed limit in Ukraine, which I think is about 80 miles an hour.”\n\n“Do not ask me as a private individual to make kill decisions that sometimes result in the loss of innocent lives, not just soldiers. That is not my position to do. And yet we’ve been pressed relentlessly to do that, which I think is outrageous.”\n\n“Those are the rules that have been in place since the beginning, for years. Now people pressure me to change it, but I’m not changing it.”",
+   "urls": [],
+   "metrics": {
+    "likes": 3947,
+    "reposts": 681,
+    "replies": 149,
+    "quotes": 42
+   },
+   "ref": {
+    "id": "2123202170250240283",
+    "author_id": "1085225533623783424",
+    "username": "KanekoaTheGreat",
+    "name": "KanekoaTheGreat",
+    "created_at": "2026-11-18T23:50:19.000Z"
+   }
+  },
+  {
+   "id": "2123220589657944265",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T01:03:30.000Z",
+   "lang": "qst",
+   "conversation_id": "2123220589657944265",
+   "url": "https://x.com/elonmusk/status/2123220589657944265",
+   "kind": "quote",
+   "text": "Yes",
+   "urls": [],
+   "metrics": {
+    "likes": 4454,
+    "reposts": 547,
+    "replies": 468,
+    "quotes": 32
+   },
+   "ref": {
+    "id": "2123202170250240283",
+    "author_id": "1085225533623783424",
+    "username": "KanekoaTheGreat",
+    "name": "KanekoaTheGreat",
+    "created_at": "2026-11-18T23:50:19.000Z",
+    "text": "Elon Musk reveals how Starlink saved Ukraine from collapse, and sets the record straight on claims he throttled it:\n\n“There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, prepositioned ahead of the Russian invasion.”\n\n“When Russia invaded, they disabled all communications, all cell towers, all fiber cables, and every satellite communication system. There was one system they could not disable, and that was Starlink.”\n\n“If they had not had Starlink, their entire line would have collapsed because they had no communication system, and Russia would have won. Now, does that sound like a pro-Russian action to you?”\n\n“Even to this present day, Starlink provides the backbone of communications for the Ukrainian military and for Ukraine more broadly. If we were to turn off Starlink, the entire Ukrainian front would collapse immediately.”\n\n“From the beginning, I said that Starlink is a civilian system. It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the US government.”\n\n“In the Starlink system, there is a speed limit. That speed limit is the speed of the fastest road speed limit in Ukraine, which I think is about 80 miles an hour.”\n\n“Do not ask me as a private individual to make kill decisions that sometimes result in the loss of innocent lives, not just soldiers. That is not my position to do. And yet we’ve been pressed relentlessly to do that, which I think is outrageous.”\n\n“Those are the rules that have been in place since the beginning, for years. Now people pressure me to change it, but I’m not changing it.”"
+   }
+  },
+  {
+   "id": "2123216714188107804",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T00:48:06.000Z",
+   "lang": "en",
+   "conversation_id": "2123216714188107804",
+   "url": "https://x.com/elonmusk/status/2123216714188107804",
+   "kind": "repost",
+   "text": "Elon Musk says SpaceX aims to bring online over 1 GW of terrestrial AI compute per month by the end of 2027.\n\nIts current pace is ~0.5 GW a month, equivalent to roughly 220,000 Nvidia GB300s plus CPUs, networking and cooling, measured at the power-plant level.",
+   "urls": [],
+   "metrics": {
+    "likes": 1187,
+    "reposts": 151,
+    "replies": 79,
+    "quotes": 14
+   },
+   "ref": {
+    "id": "2123212558438134157",
+    "author_id": "1508426880860704771",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-19T00:31:35.000Z"
+   }
+  },
+  {
+   "id": "2123216635326816526",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T00:47:47.000Z",
+   "lang": "en",
+   "conversation_id": "2123216635326816526",
+   "url": "https://x.com/elonmusk/status/2123216635326816526",
+   "kind": "repost",
+   "text": "My recap from witnessing the most important engineering feat I've ever seen at @SpaceX : https://twitter.com/ARKInvest/status/2123133508319133759",
+   "urls": [
+    "https://twitter.com/ARKInvest/status/2123133508319133759"
+   ],
+   "metrics": {
+    "likes": 1150,
+    "reposts": 134,
+    "replies": 35,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2123169794967183595",
+    "author_id": "2263452746",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-18T21:41:40.000Z"
+   }
+  },
+  {
+   "id": "2123216563478356137",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T00:47:30.000Z",
+   "lang": "en",
+   "conversation_id": "2123216563478356137",
+   "url": "https://x.com/elonmusk/status/2123216563478356137",
+   "kind": "repost",
+   "text": "Elon Musk reveals over 30 people now have a Neuralink, some use it to feed themselves with a robot arm, and he's confident it will eventually let people with spinal injuries walk again\n\n\"Yeah. So Neuralink, by the way, is obviously, as you mentioned, a private company, much, much smaller. I mean, it's just several hundred people. We now have, I think, over 30 people that have received the Neuralink device. So they have a Neuralink in their head.\"\n\n\"Our focus initially was giving people who are tetraplegics, quadriplegics, the ability to control their phone or their computer or a robot arm just by thinking. So we call that product Telepathy. So just by thinking, you can control a computer or a robot arm. Some of our customers will literally control a robot arm, and they will actually feed themselves. It gives them the power. I mean, imagine you're tetraplegic. You can't do anything. You can't feed yourself. But now, just by thinking, with the robot arm, you can actually feed yourself with the robot arm.\"\n\n\"And how much better… These things that we take for granted are life-changing. And down the road, we feel at this point confident in saying that we'll be able to bridge the signals from the brain, from the motor and sensory cortex, past where the neural damage is from a broken neck or spine, and enable people to walk again.\"",
+   "urls": [
+    "https://twitter.com/firesidealpha/status/2123208511169396990"
+   ],
+   "metrics": {
+    "likes": 1395,
+    "reposts": 208,
+    "replies": 68,
+    "quotes": 20
+   },
+   "ref": {
+    "id": "2123210477954367708",
+    "author_id": "2066250685512110080",
+    "username": "firesidealpha",
+    "name": "Fireside Alpha",
+    "created_at": "2026-11-19T00:23:19.000Z"
+   }
+  },
+  {
+   "id": "2123216469895020839",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T00:47:08.000Z",
+   "lang": "en",
+   "conversation_id": "2123216469895020839",
+   "url": "https://x.com/elonmusk/status/2123216469895020839",
+   "kind": "repost",
+   "text": "🚨 BOOM: Elon Musk just walked into the New York Times DealBook Summit and made the interviewer SQUIRM.\n\nAsked about immigration, Musk said Europe needs to stop massive ILLEGAL immigration.\n\nSmall boats keep landing with unvetted people, and \"in some cases\" they \"do terrible things\" to the people who live there.\n\nThen he got to the \"right-wing\" label. \"If that's a right-wing view, then I guess so.\"\n\nHe added that OBAMA AND HILLARY \"would say exactly what I've said. Like, you can literally look at their speeches.\"\n\nThe interviewer laughed nervously and covered his mouth. 🤣\n\nSecuring your border used to be common sense.\n\nThe Democrats moved, not us.",
+   "urls": [],
+   "metrics": {
+    "likes": 2801,
+    "reposts": 508,
+    "replies": 112,
+    "quotes": 15
+   },
+   "ref": {
+    "id": "2123197134262477285",
+    "author_id": "1355721251180961792",
+    "username": "GuntherEagleman",
+    "name": "Gunther Eagleman™",
+    "created_at": "2026-11-18T23:30:18.000Z"
+   }
+  },
+  {
+   "id": "2123216337602486308",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T00:46:36.000Z",
+   "lang": "en",
+   "conversation_id": "2123216337602486308",
+   "url": "https://x.com/elonmusk/status/2123216337602486308",
+   "kind": "repost",
+   "text": "Elon Musk predicts 100% of superintelligence compute will be in space, and says Tesla and SpaceX would “probably” be better together:\n\n“If you look into the future, orbital compute is really going to be where things scale to.”\n\n“In the future, the amount of superintelligence compute that is on Earth will round down to 0% and superintelligence compute in space will round up to 100%.”\n\n“Now remember these words, because that sounds like a preposterous thing to say.”\n\n“I think superintelligence compute [on Earth] will be less than 0.4% of compute. Therefore, orbital compute will round up to 100%. And I think this is a relatively easy prediction to make, and it’s simply a matter of time before that happens.”\n\nWould Tesla and SpaceX be better together?\n\n“Probably yes. Now, this is not like let’s merge the companies no matter what. These require shareholder votes, which may or may not succeed, at least in the case of Tesla.”\n\n“I can’t just drag them into a non-economic merger that is bad for them, because I’ll obviously get sued.”\n\n“It really is just a question of, do SpaceX and Tesla execute better together and create more value than if they’re apart?”",
+   "urls": [],
+   "metrics": {
+    "likes": 1073,
+    "reposts": 154,
+    "replies": 53,
+    "quotes": 6
+   },
+   "ref": {
+    "id": "2123212134175949267",
+    "author_id": "1085225533623783424",
+    "username": "KanekoaTheGreat",
+    "name": "KanekoaTheGreat",
+    "created_at": "2026-11-19T00:29:54.000Z"
+   }
+  },
+  {
+   "id": "2123215952326390100",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T00:45:05.000Z",
+   "lang": "en",
+   "conversation_id": "2123215952326390100",
+   "url": "https://x.com/elonmusk/status/2123215952326390100",
+   "kind": "repost",
+   "text": "Here's Elon Musk's full interview at DealBook Summit today:\n\n0:00 Opening Remarks\n0:31 Jensen Huang Situation\n2:44 Jensen Like Jordan\n3:41 Would Hire Jensen\n5:43 Midterms Loss Reaction\n6:25 Balance Of Power\n8:45 No Pardon Needed\n10:30 Politics Involvement\n12:07 Not MAGA Views\n14:58 Starlink Saved Ukraine\n21:30 Zelensky Not Truthful\n22:02 Starlink Vs Starshield\n23:35 Power Of One Person\n24:16 Rules Unchanged\n26:17 Open Source Rockets\n27:51 Starlink Funds Starship\n29:59 Multiplanetary Future\n32:22 Direct To Cell Plan\n35:53 SpaceX Tesla Merger\n39:31 No Merger Bonus\n40:51 Model YL Demand\n41:12 Cybercab And AVs\n42:44 Anthropic Compute Deal\n45:11 Feeling At Peace",
+   "urls": [],
+   "metrics": {
+    "likes": 3261,
+    "reposts": 712,
+    "replies": 183,
+    "quotes": 80
+   },
+   "ref": {
+    "id": "2123205279009677430",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-19T00:02:40.000Z"
+   }
+  },
+  {
+   "id": "2123215712856785209",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T00:44:08.000Z",
+   "lang": "en",
+   "conversation_id": "2123215712856785209",
+   "url": "https://x.com/elonmusk/status/2123215712856785209",
+   "kind": "repost",
+   "text": "Elon Musk responds to Democrats calling for his imprisonment: “It was like prison first, crime later.”\n\n“I don’t think I need a pardon, by the way, because I haven’t committed any crimes.”\n\n“A number of Democrats… said that I should go to prison. And then they asked him, but for what crime? And he couldn’t name a crime.”\n\n“He wants me to go to prison. It was like prison first, crime later.”\n\n“The guy’s trying to channel Beria from like Stalin, where it’s like, show me the man, I’ll show you the crime type of thing. I’m like, come on, guys, this is a little over the top.”\n\n“There are definitely a few people grumpy about my funding in this past election. But hopefully in this country, you still need to do an actual crime before you go to prison.”\n\n“It really needs to be first crime, then prison. Not the other way around. I mean, what country are we living in here?”",
+   "urls": [],
+   "metrics": {
+    "likes": 4045,
+    "reposts": 542,
+    "replies": 159,
+    "quotes": 28
+   },
+   "ref": {
+    "id": "2123208280550084816",
+    "author_id": "1085225533623783424",
+    "username": "KanekoaTheGreat",
+    "name": "KanekoaTheGreat",
+    "created_at": "2026-11-19T00:14:36.000Z"
+   }
+  },
+  {
+   "id": "2123215119987753433",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T00:41:46.000Z",
+   "lang": "en",
+   "conversation_id": "2123215119987753433",
+   "url": "https://x.com/elonmusk/status/2123215119987753433",
+   "kind": "repost",
+   "text": "Elon Musk reveals what really drives him to make humanity a star-faring civilization: “It’s life insurance, but for everything.”\n\n“If you simply look at the fossil record and look at how many extinction events have happened, which is a lot, then you know that this is simply a matter of time. It’s a when, not an if.”\n\n“It’s important to have insurance for life as a whole. It’s life insurance, but for everything.”\n\nBut what motivates him even more:\n\n“I want to envision a future that’s exciting, that we’re out there exploring new frontiers, going to new star systems, and make science fiction not just fiction forever.”\n\n“We should boldly go like Star Trek, boldly go where no one’s gone before. And perhaps we find some long dead alien civilizations, or perhaps we find actual aliens we could talk to.”\n\n“You know how you can figure out if something’s really cool about the future? Just ask your kid, and they’ll tell you.”\n\n“Life cannot just be about solving one miserable problem after another. There have to be things that excite you and inspire you about the future, that make you happy when you wake up in the morning.”\n\n“You can’t wait to see what happens next. And being a star-faring civilization is one of those things.”",
+   "urls": [],
+   "metrics": {
+    "likes": 1324,
+    "reposts": 230,
+    "replies": 83,
+    "quotes": 22
+   },
+   "ref": {
+    "id": "2123209664687132901",
+    "author_id": "1085225533623783424",
+    "username": "KanekoaTheGreat",
+    "name": "KanekoaTheGreat",
+    "created_at": "2026-11-19T00:20:06.000Z"
+   }
+  },
   {
    "id": "2122936375762936124",
    "author_id": "44196397",
@@ -61766,8 +62418,8 @@
   }
  ],
  "last_run": {
-  "status": "new",
-  "at": "2026-11-18T06:22:43Z",
-  "new_posts": 3
+  "status": "running",
+  "at": "2026-11-19T03:47:48Z",
+  "new_posts": 25
  }
 }

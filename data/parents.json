@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T12:46:26Z",
+ "updated_at": "2026-11-19T13:33:44Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -10841,6 +10841,46 @@
     "created_at": "2026-11-18T11:38:03.000Z",
     "text": "Is the Thucydides Trap ever avoidable?\n\nI wish it were, but, inevitably, the most interesting outcome is the most likely."
    }
+  },
+  {
+   "id": "2123277762307969220",
+   "username": "willcb",
+   "name": "will brown",
+   "created_at": "2026-11-19T04:50:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/willcb/status/2123277762307969220",
+   "kind": "reply",
+   "text": "the mid-tier model, Neon, remains their best and most expensive at $15. the cheapest model, Hydrogen, is fast and performant at $7.50, while the most powerful model, Carbon, is premium-priced at $10.",
+   "urls": [],
+   "metrics": {
+    "likes": 518,
+    "reposts": 5,
+    "replies": 5,
+    "quotes": 1
+   },
+   "reply_to": {
+    "id": "2123275881145930216",
+    "username": "willcb"
+   },
+   "conversation_id": "2123275881145930216"
+  },
+  {
+   "id": "2123275881145930216",
+   "username": "willcb",
+   "name": "will brown",
+   "created_at": "2026-11-19T04:43:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/willcb/status/2123275881145930216",
+   "kind": "post",
+   "text": "tomorrow DeepMind will be dropping Gemini 4 Sodium, a fast yet powerful frontier model which costs just $11.75/M (introductory pricing, raises to $16.50 soon) and is their best model for various things and stuff, rivaling Argon, Carbon, Hydrogen, and Neon in several situations",
+   "urls": [],
+   "metrics": {
+    "likes": 4096,
+    "reposts": 111,
+    "replies": 256,
+    "quotes": 203
+   },
+   "conversation_id": "2123275881145930216"
   }
  ],
  "missing": []

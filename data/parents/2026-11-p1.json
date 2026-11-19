@@ -1,6 +1,6 @@
 {
  "id": "2026-11-p1",
- "updated_at": "2026-11-19T12:46:26Z",
+ "updated_at": "2026-11-19T13:33:44Z",
  "posts": [
   {
    "id": "2123310415111131622",
@@ -41,6 +41,46 @@
     "id": "2123277762307969220",
     "username": "willcb"
    }
+  },
+  {
+   "id": "2123277762307969220",
+   "username": "willcb",
+   "name": "will brown",
+   "created_at": "2026-11-19T04:50:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/willcb/status/2123277762307969220",
+   "kind": "reply",
+   "text": "the mid-tier model, Neon, remains their best and most expensive at $15. the cheapest model, Hydrogen, is fast and performant at $7.50, while the most powerful model, Carbon, is premium-priced at $10.",
+   "urls": [],
+   "metrics": {
+    "likes": 518,
+    "reposts": 5,
+    "replies": 5,
+    "quotes": 1
+   },
+   "reply_to": {
+    "id": "2123275881145930216",
+    "username": "willcb"
+   },
+   "conversation_id": "2123275881145930216"
+  },
+  {
+   "id": "2123275881145930216",
+   "username": "willcb",
+   "name": "will brown",
+   "created_at": "2026-11-19T04:43:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/willcb/status/2123275881145930216",
+   "kind": "post",
+   "text": "tomorrow DeepMind will be dropping Gemini 4 Sodium, a fast yet powerful frontier model which costs just $11.75/M (introductory pricing, raises to $16.50 soon) and is their best model for various things and stuff, rivaling Argon, Carbon, Hydrogen, and Neon in several situations",
+   "urls": [],
+   "metrics": {
+    "likes": 4096,
+    "reposts": 111,
+    "replies": 256,
+    "quotes": 203
+   },
+   "conversation_id": "2123275881145930216"
   },
   {
    "id": "2123226341726376324",
@@ -10633,50 +10673,6 @@
     "id": "2119829774063509820",
     "username": "carlhancock"
    }
-  },
-  {
-   "id": "2119949070462800185",
-   "username": "cradrrat",
-   "name": "cradrrat",
-   "created_at": "2026-11-10T00:23:39.000Z",
-   "lang": "en",
-   "url": "https://x.com/cradrrat/status/2119949070462800185",
-   "kind": "post",
-   "text": "Can we have an update on when to expect Grok 4.8 please @elonmusk",
-   "urls": [],
-   "metrics": {
-    "likes": 2436,
-    "reposts": 36,
-    "replies": 45,
-    "quotes": 7
-   }
-  },
-  {
-   "id": "2119853915785277859",
-   "username": "cfdownes_",
-   "name": "Charlie Downes",
-   "created_at": "2026-11-09T18:05:33.000Z",
-   "lang": "en",
-   "url": "https://x.com/cfdownes_/status/2119853915785277859",
-   "kind": "post",
-   "text": "We are not conservatives.\n\nWe do not believe in the system. We want to tear it down, and in its place build one that puts our people first.\n\nWe are revolutionaries.",
-   "urls": [],
-   "metrics": {
-    "likes": 9471,
-    "reposts": 1229,
-    "replies": 249,
-    "quotes": 85
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119852832362811392/vid/avc1/1920x872/6uYokz69RqWN4dBj.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2119852832362811392/img/_ElOIivhRvu8OTwh.jpg",
-     "width": 1920,
-     "height": 872,
-     "duration_ms": 87133
-    }
-   ]
   }
  ]
 }

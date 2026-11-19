@@ -354,7 +354,8 @@ assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
   const html = open([row], [row, mid, grand]);
   ok(html.includes("PARENT_REPLY_TEXT") && html.includes("@granduser"), "parent reply text and marker");
   ok(!html.includes("GRAND_TEXT"), "grandparent text is not pulled in");
-  eq(count(html, 'class="quote parent"'), 1, "no nested parent card");
+  eq(count(html, 'class="quote parent'), 1, "no nested parent card");
+  ok(html.includes('class="show-thread" data-thread="5"') && html.includes('class="quote parent threadable" data-thread="5"'), "a parent that is a reply offers the thread");
 }
 
 // Two replies that point at each other stay one level deep.
@@ -364,7 +365,7 @@ assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
   const html = open([a, b], [a, b]);
   eq(count(html, "AAA_TEXT"), 2, "A text is the post plus B's parent card");
   eq(count(html, "BBB_TEXT"), 2, "B text is the post plus A's parent card");
-  eq(count(html, 'class="quote parent"'), 2, "cycle does not nest parent cards");
+  eq(count(html, 'class="quote parent'), 2, "cycle does not nest parent cards");
   uniqueControls(html, "cycle");
 }
 
@@ -871,6 +872,44 @@ assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
   ok(page.includes('id="viewBtn"') && page.includes('aria-haspopup="menu"') && page.includes('role="menuitemradio"'), "the All / Posts menu is on the page");
   ok(page.includes('data-view="all"') && page.includes('data-view="posts"'), "both choices are in the menu");
   ok(css.includes(".viewmenu") && css.includes(".viewbtn"), "the switch uses the page stylesheet");
+}
+
+// Thread view: tapping a parent that is itself a reply shows every saved ancestor, oldest first.
+{
+  const root = P({ id: "90", username: "willcb", name: "Will", text: "ROOT_TEXT" });
+  const a2 = P({ id: "91", username: "willcb", name: "Will", kind: "reply", text: "A2_TEXT", reply_to: { id: "90", username: "willcb" } });
+  const a1 = P({ id: "92", username: "willcb", name: "Will", kind: "reply", text: "A1_TEXT", reply_to: { id: "91", username: "willcb" } });
+  const row = P({ id: "93", username: "elonmusk", name: "Elon", kind: "reply", text: "ELON_TEXT", conversation_id: "90", reply_to: { id: "92", username: "willcb" } });
+  const full = R.renderList([row], [row], [], { shown: ["93"], thread: ["93"], parents: { posts: [a1, a2, root], missing: [] } });
+  const iRoot = full.indexOf("ROOT_TEXT"), iA2 = full.indexOf("A2_TEXT"), iA1 = full.indexOf("A1_TEXT"), iRow = full.indexOf("ELON_TEXT");
+  ok(iRoot > 0 && iRoot < iA2 && iA2 < iA1 && iA1 < iRow, "oldest at top, direct parent last, then the reply");
+  eq(count(full, 'class="quote parent"'), 3, "one card per ancestor");
+  ok(!full.includes("Load earlier posts") && !full.includes("isn't available") && full.includes("hide-thread"), "root reached: no status line");
+  eq(count(full, "Replying to"), 3, "each reply card keeps its own Replying to line (2 ancestors + the reply)");
+  ok(!/x\.com|t\.co\//.test(full), "no x.com or t.co links in the thread");
+
+  const partial = R.renderList([row], [row], [], { shown: ["93"], thread: ["93"], parents: { posts: [a1, root], missing: [] } });
+  ok(partial.includes("ROOT_TEXT") && partial.includes("A1_TEXT") && !partial.includes("A2_TEXT"), "gap: root and saved ancestors still show");
+  ok(partial.includes('class="show-thread" data-thread="93">Load earlier posts'), "gap offers Load earlier posts");
+  ok(partial.indexOf("ROOT_TEXT") < partial.indexOf("Load earlier posts") && partial.indexOf("Load earlier posts") < partial.indexOf("A1_TEXT"), "gap sits between the root and the saved ancestors");
+  const loading = R.renderList([row], [row], [], { shown: ["93"], thread: ["93"], threadLoading: ["93"], parents: { posts: [a1], missing: [] } });
+  ok(loading.includes("Loading earlier posts") && !loading.includes("Load earlier posts<"), "loading state");
+  const noted = R.renderList([row], [row], [], { shown: ["93"], thread: ["93"], threadNotes: { "93": "NOTE_X" }, parents: { posts: [a1], missing: [] } });
+  ok(noted.includes("NOTE_X") && noted.includes("Load earlier posts"), "a failed fetch shows its note and the button");
+
+  const gone = R.renderList([row], [row], [], { shown: ["93"], thread: ["93"], parents: { posts: [a1], missing: [{ id: "91", at: "2099-01-01T00:00:00Z", reason: "protected" }] } });
+  ok(gone.includes("protected account") && !gone.includes("Load earlier posts") && !gone.includes("Try again"), "protected ancestor state");
+  const deleted = R.renderList([row], [row], [], { shown: ["93"], thread: ["93"], parents: { posts: [a1], missing: [{ id: "91", at: "2020-01-01T00:00:00Z", reason: "deleted" }] } });
+  ok(deleted.includes("was deleted") && deleted.includes('data-retry="1"'), "a stale miss can be retried");
+
+  const closed = R.renderList([row], [row], [], { shown: ["93"], parents: { posts: [a1, a2, root], missing: [] } });
+  ok(closed.includes("A1_TEXT") && !closed.includes("A2_TEXT") && closed.includes("Show earlier posts"), "closed thread shows only the parent");
+
+  const media = P({ id: "94", username: "willcb", name: "Will", kind: "reply", text: "MEDIA_ANC", reply_to: { id: "90", username: "willcb" },
+    media: [{ type: "photo", url: "https://pbs.twimg.com/media/abc.jpg", width: 10, height: 10 }] });
+  const r2 = P({ id: "95", username: "elonmusk", name: "Elon", kind: "reply", text: "R2", reply_to: { id: "94", username: "willcb" } });
+  const withMedia = R.renderList([r2], [r2], [], { shown: ["95"], thread: ["95"], parents: { posts: [media, root], missing: [] } });
+  ok(!/<img[^>]+src=/.test(withMedia), "ancestor media stays hidden until tapped");
 }
 
 console.log("render tests passed: " + n);

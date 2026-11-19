@@ -56,6 +56,15 @@ button.show-parent { padding: 0 4px; border: 0; background: none; color: var(--a
 button.show-parent:hover { text-decoration: underline; }
 button.show-parent:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
 button.show-parent:disabled { opacity: .5; }
+/* Thread above a reply: tap a parent that is itself a reply. Oldest post first. */
+.quote.parent.threadable { cursor: pointer; }
+.thread { margin: 6px 0; }
+.thread > .quote.parent { margin: 6px 0; }
+.thread-gap { margin: 4px 0; padding-left: 10px; border-left: 3px dotted var(--muted); }
+button.show-thread, button.hide-thread { display: inline-block; margin: 2px 8px 2px 0; min-height: 44px; line-height: 44px; padding: 0 4px; border: 0; background: none; color: var(--accent); font: inherit; font-size: 14px; font-weight: 600; cursor: pointer; -webkit-tap-highlight-color: transparent; }
+button.hide-thread { color: var(--muted); }
+button.show-thread:hover, button.hide-thread:hover { text-decoration: underline; }
+button.show-thread:focus-visible, button.hide-thread:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
 .quote .text.missing, .article { color: var(--muted); font-style: italic; }
 .article { font-size: 14px; margin: 2px 0; }
 .expand { display: block; min-height: 44px; margin: 0 0 2px; padding: 0 4px; border: 0; background: none; color: var(--accent);

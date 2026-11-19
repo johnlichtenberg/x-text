@@ -7,6 +7,7 @@
   var NEGATIVE_MS = 24 * 60 * 60 * 1000;
   var MAX_PAIRS = 5;
   var MAX_QUEUE = 20;
+  var MAX_DEPTH = 40; // ancestors shown above one reply; parent.py caps the cache the same way
 
   function isId(s) { return typeof s === "string" && ID.test(s); }
 
@@ -86,6 +87,49 @@
     return { effect: "stop" };
   }
 
+  // Thread view: every ancestor above reply, nearest first, from the archive and the parent
+  // cache only (no network). end says why the walk stopped: "root" (top of the thread),
+  // "fetch" (next ancestor not saved yet; end.reply_id/parent_id is the pair to ask for),
+  // "unavailable" (deleted or protected), "cap" (MAX_DEPTH reached) or "unlinked".
+  // root is the conversation's first post when it is saved but not reached by the walk.
+  function chain(reply, archivePosts, raw, now) {
+    now = now == null ? Date.now() : now;
+    var arch = index(archivePosts), cache = index(doc(raw).posts), miss = missingIndex(raw);
+    var out = [], seen = {}, cur = reply, rootId = "", end = null;
+    if (!reply || typeof reply !== "object") return { ancestors: [], end: { kind: "root" }, root: null };
+    if (isId(reply.id)) seen[reply.id] = 1;
+    while (!end) {
+      if (!rootId && isId(cur.conversation_id) && cur.conversation_id !== cur.id) rootId = cur.conversation_id;
+      if (!cur.reply_to) { end = { kind: "root" }; break; }
+      var t = target(cur);
+      if (!t || !t.id || t.id === cur.id) { end = { kind: "unlinked", username: t ? t.username : "" }; break; }
+      if (seen[t.id]) { end = { kind: "root" }; break; }
+      var pair = { reply_id: cur.id, parent_id: t.id, username: t.username };
+      if (out.length >= MAX_DEPTH) { end = Object.assign({ kind: "cap" }, pair); break; }
+      var next = arch[t.id] || cache[t.id];
+      if (next) { seen[t.id] = 1; out.push(next); cur = next; continue; }
+      var m = miss[t.id];
+      if (m) { end = Object.assign({ kind: "unavailable", retry: retryDue(m, now), reason: m.reason || "unavailable" }, pair); break; }
+      end = Object.assign({ kind: "fetch" }, pair);
+    }
+    var root = null;
+    if (end.kind !== "root" && rootId && !seen[rootId]) root = arch[rootId] || cache[rootId] || null;
+    return { ancestors: out, end: end, root: root };
+  }
+
+  // Thread click. Like parentClick, only "enqueue" may contact the relay, and only for the
+  // first ancestor that is not saved yet (the routine then walks the rest of the chain).
+  function threadClick(reply, archivePosts, raw, now, retry) {
+    var e = chain(reply, archivePosts, raw, now).end;
+    if (e.kind === "fetch" && isId(e.reply_id) && isId(e.parent_id)) {
+      return { effect: "enqueue", pair: { reply_id: e.reply_id, parent_id: e.parent_id, retry: false } };
+    }
+    if (e.kind === "unavailable" && retry && e.retry && isId(e.reply_id) && isId(e.parent_id)) {
+      return { effect: "enqueue", pair: { reply_id: e.reply_id, parent_id: e.parent_id, retry: true } };
+    }
+    return { effect: "reveal" };
+  }
+
   function pushPair(queue, pair) {
     queue = Array.isArray(queue) ? queue.slice() : [];
     if (!pair || !isId(pair.reply_id) || !isId(pair.parent_id) || pair.reply_id === pair.parent_id) return queue;
@@ -139,7 +183,8 @@
     isId: isId, target: target, doc: doc, index: index, classify: classify, parentClick: parentClick,
     pushPair: pushPair, takeBatch: takeBatch, requestBody: requestBody, webhookBody: webhookBody,
     parentURL: parentURL, pairAllowed: pairAllowed, retryDue: retryDue, relayEffect: relayEffect,
-    NEGATIVE_MS: NEGATIVE_MS, MAX_PAIRS: MAX_PAIRS,
+    chain: chain, threadClick: threadClick,
+    NEGATIVE_MS: NEGATIVE_MS, MAX_PAIRS: MAX_PAIRS, MAX_DEPTH: MAX_DEPTH,
   };
   if (typeof module !== "undefined" && module.exports) module.exports = api;
   else root.XParent = api;

@@ -114,4 +114,38 @@ const openedBlank = R.renderList([mediaReply], [mediaReply, blankParent], [], { 
 ok(openedBlank.includes("Text not available.") && openedBlank.includes("Bob") && openedBlank.includes("reply"), "opened parent with no text and no media still says text is missing");
 ok(!openedBlank.includes("Show photo") && !openedBlank.includes("Show video"), "blank parent has no media toggle");
 
+// Thread chain: nearest first, end reasons, depth cap, and the only pair a click may ask for.
+{
+  const mk = (id, up, extra) => post(id, Object.assign({ kind: "reply", reply_to: { id: up, username: "w" } }, extra));
+  const r = mk("100", "101", { conversation_id: "90" });
+  const c1 = P.chain(r, [r], { posts: [mk("101", "102"), mk("102", "103"), post("90")] }, now);
+  eq(c1.ancestors.map((p) => p.id).join(), "101,102", "nearest first");
+  eq(c1.end.kind, "fetch", "next ancestor not saved");
+  eq(c1.end.reply_id + ">" + c1.end.parent_id, "102>103", "pair names the saved child and its parent");
+  eq(c1.root && c1.root.id, "90", "saved root shown above the gap");
+  const d1 = P.threadClick(r, [r], { posts: [mk("101", "102"), mk("102", "103")] }, now, false);
+  eq(d1.effect, "enqueue", "gap may ask");
+  eq(JSON.stringify(P.requestBody([d1.pair])), '{"pairs":[{"reply_id":"102","parent_id":"103","retry":false}]}', "request is that pair only");
+  const done = P.chain(r, [r], { posts: [mk("101", "90"), post("90")] }, now);
+  eq(done.end.kind, "root", "walk ends at the root");
+  eq(done.root, null, "root is in ancestors, not repeated");
+  eq(P.threadClick(r, [r], { posts: [mk("101", "90"), post("90")] }, now, false).effect, "reveal", "saved thread stays local");
+  const prot = P.chain(r, [r], { posts: [mk("101", "102")], missing: [{ id: "102", at: "2026-11-06T23:00:00Z", reason: "protected" }] }, now);
+  eq(prot.end.kind + ":" + prot.end.reason + ":" + prot.end.retry, "unavailable:protected:false", "fresh miss");
+  eq(P.threadClick(r, [r], { posts: [mk("101", "102")], missing: [{ id: "102", at: "2026-11-06T23:00:00Z", reason: "protected" }] }, now, true).effect, "reveal", "fresh miss does not ask even on retry");
+  const stale = { posts: [mk("101", "102")], missing: [{ id: "102", at: "2026-11-01T00:00:00Z", reason: "deleted" }] };
+  eq(P.threadClick(r, [r], stale, now, true).pair.retry, true, "stale miss retries only on an explicit Try again");
+  eq(P.threadClick(r, [r], stale, now, false).effect, "reveal", "stale miss without retry stays local");
+  const archived = P.chain(r, [r, mk("101", "102")], { posts: [post("102")] }, now);
+  eq(archived.ancestors.map((p) => p.id).join() + ":" + archived.end.kind, "101,102:root", "archive and cache rows mix");
+  const loop = P.chain(r, [r], { posts: [mk("101", "102"), mk("102", "101")] }, now);
+  eq(loop.end.kind, "root", "a reply cycle stops");
+  const rows = [];
+  for (let i = 1; i <= P.MAX_DEPTH + 5; i++) rows.push(mk(String(1000 + i), String(1000 + i + 1)));
+  const deep = P.chain(mk("1000", "1001"), [], { posts: rows }, now);
+  eq(deep.ancestors.length, P.MAX_DEPTH, "depth cap");
+  eq(deep.end.kind, "cap", "cap end");
+  eq(P.threadClick(mk("1000", "1001"), [], { posts: rows }, now, false).effect, "reveal", "cap does not ask");
+}
+
 console.log("parent tests passed: " + n);

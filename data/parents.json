@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T03:48:43Z",
+ "updated_at": "2026-11-19T03:51:42Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -10113,6 +10113,529 @@
       "width": 1280,
       "height": 720,
       "duration_ms": 81900
+     }
+    ]
+   }
+  },
+  {
+   "id": "2123102642704675241",
+   "username": "ericzakariasson",
+   "name": "eric zakariasson",
+   "created_at": "2026-11-18T17:14:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/ericzakariasson/status/2123102642704675241",
+   "kind": "post",
+   "text": "https://grok-bot.directory is live!\n\nthe community directory for grok bot: browse and install bots & apps people have built, or publish your own\n\nlet me know which your favorites are",
+   "urls": [
+    "https://grok-bot.directory"
+   ],
+   "metrics": {
+    "likes": 1473,
+    "reposts": 133,
+    "replies": 159,
+    "quotes": 62
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/1920x1080/EsMG5qyJaN3_oz4N.mp4?tag=16",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123102605375393792/img/yKvqYH-LvfkhlBfV.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/480x270/N71RH-iMRaNJmHyr.mp4?tag=16",
+       "w": 480,
+       "h": 270,
+       "br": 288000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/640x360/2h0Pq9jO8MyBjfhE.mp4?tag=16",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/1280x720/Caj8wpnKZJR-m0ar.mp4?tag=16",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/1920x1080/EsMG5qyJaN3_oz4N.mp4?tag=16",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 24000
+    }
+   ]
+  },
+  {
+   "id": "2123100609477824576",
+   "username": "loccoai",
+   "name": "loccointelligence",
+   "created_at": "2026-11-18T17:06:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/loccoai/status/2123100609477824576",
+   "kind": "reply",
+   "text": "I'd suggest modifying the axes labels as follows:\nx-axis: Average cost per task (lower is better)\ny-axis: Score (higher is better)\n\nYes, yes, in hindsight, this is trivial but when I first look at charts, I want to understand the axes right away, and more importantly, I want to know right away what the best \"measurements\" are.\n\nAlso, it helps A LOT when comparing too, imo!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123073081489113331",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2123076059113328674",
+   "username": "davidwong",
+   "name": "David Wong",
+   "created_at": "2026-11-18T15:29:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/davidwong/status/2123076059113328674",
+   "kind": "reply",
+   "text": "@mattyp Super useful and exciting to see. Thanks, Matt!",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123073081489113331",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2123073370631659952",
+   "username": "The_CozyDev",
+   "name": "TheCozyDev",
+   "created_at": "2026-11-18T15:18:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/The_CozyDev/status/2123073370631659952",
+   "kind": "reply",
+   "text": "@mattyp Amazing. This is super useful, thank you Matt 💜",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123073081489113331",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2123064133931106361",
+   "username": "LouiseDSadeleer",
+   "name": "Louise de Sadeleer",
+   "created_at": "2026-11-18T14:41:48.000Z",
+   "lang": "en",
+   "url": "https://x.com/LouiseDSadeleer/status/2123064133931106361",
+   "kind": "post",
+   "text": "I used this to grow to (almost) 8k followers on Instagram in 3 months https://x.com/i/article/2123015568269680640",
+   "urls": [
+    "https://x.com/i/article/2123015568269680640"
+   ],
+   "metrics": {
+    "likes": 233,
+    "reposts": 5,
+    "replies": 20,
+    "quotes": 3
+   },
+   "article_title": "The realistic guide to Grok Bot for video creators (no gatekeeping)"
+  },
+  {
+   "id": "2123067467798867999",
+   "username": "realDavidBauer",
+   "name": "David Bauer",
+   "created_at": "2026-11-18T14:55:03.000Z",
+   "lang": "en",
+   "url": "https://x.com/realDavidBauer/status/2123067467798867999",
+   "kind": "reply",
+   "text": "@mattyp Matt, with 1.2, this problem has been fixed. Thanks very much!!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122410964649705806",
+    "username": "realDavidBauer"
+   }
+  },
+  {
+   "id": "2123051680170225694",
+   "username": "harris_p10",
+   "name": "Harris",
+   "created_at": "2026-11-18T13:52:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/harris_p10/status/2123051680170225694",
+   "kind": "reply",
+   "text": "@PatrickToulme @mattyp @RayFernando1337 @poteto Thank you, this is important",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122872790768644277",
+    "username": "PatrickToulme"
+   }
+  },
+  {
+   "id": "2123052706751513009",
+   "username": "danizeres",
+   "name": "dani bauer",
+   "created_at": "2026-11-18T13:56:24.000Z",
+   "lang": "pl",
+   "url": "https://x.com/danizeres/status/2123052706751513009",
+   "kind": "reply",
+   "text": "@mattyp @dgrreen @poteto poteto or poteto",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122786775638900856",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122838718666920313",
+   "username": "fabglitch",
+   "name": "𝓕𝓪𝓫👾𝓖𝓵𝓲𝓽𝓬𝓱",
+   "created_at": "2026-11-17T23:46:05.000Z",
+   "lang": "en",
+   "url": "https://x.com/fabglitch/status/2122838718666920313",
+   "kind": "reply",
+   "text": "@SmartNotHard1 i met grimes in an alleyway in toronto outside one of her shows cira ~2011 or 12. she mentioned at that time that her goal as a witch was to breed the kwisatz haderach",
+   "urls": [],
+   "metrics": {
+    "likes": 1168,
+    "reposts": 24,
+    "replies": 65,
+    "quotes": 8
+   },
+   "reply_to": {
+    "id": "2122683171825164705",
+    "username": "SmartNotHard1"
+   }
+  },
+  {
+   "id": "2120912142878523792",
+   "username": "RockstarGames",
+   "name": "Rockstar Games",
+   "created_at": "2026-11-12T16:10:34.000Z",
+   "lang": "en",
+   "url": "https://x.com/RockstarGames/status/2120912142878523792",
+   "kind": "post",
+   "text": "Last chance to pre-order Grand Theft Auto VI from PS Store and also receive the Vintage Vice City Pack, featuring a timeless ’55 Vapid Stanier sedan, decadent outfits and hairstyles for both Jason and Lucia, and more.",
+   "urls": [],
+   "metrics": {
+    "likes": 6344,
+    "reposts": 335,
+    "replies": 454,
+    "quotes": 52
+   }
+  },
+  {
+   "id": "2122902697338966308",
+   "username": "yunta_tsai",
+   "name": "Yun-Ta Tsai",
+   "created_at": "2026-11-18T04:00:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/yunta_tsai/status/2122902697338966308",
+   "kind": "post",
+   "text": "You can tell from the earnings call whether the company is led by founders or by committees.",
+   "urls": [],
+   "metrics": {
+    "likes": 4636,
+    "reposts": 139,
+    "replies": 69,
+    "quotes": 11
+   }
+  },
+  {
+   "id": "2122567427120869406",
+   "username": "Grimezsz",
+   "name": "𝖦𝗋𝗂𝗆𝖾𝗌 ⏳",
+   "created_at": "2026-11-17T05:48:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/Grimezsz/status/2122567427120869406",
+   "kind": "quote",
+   "text": "This is casting gold please god just let them casting- slay for once",
+   "urls": [],
+   "metrics": {
+    "likes": 8047,
+    "reposts": 236,
+    "replies": 1729,
+    "quotes": 73
+   },
+   "ref": {
+    "id": "2122486886434533625",
+    "author_id": "1261335549215989760",
+    "username": "Polymarket",
+    "name": "Polymarket",
+    "created_at": "2026-11-17T00:28:02.000Z",
+    "text": "JUST IN: Variety names Hunter Schafer to its Bond girl “wish list” for Robert Pattinson’s 007 debut.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXSWkw_XMAAwvMX.jpg",
+      "width": 1463,
+      "height": 2048
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXSWkw5WAAAf1go.jpg",
+      "width": 500,
+      "height": 700
+     }
+    ]
+   }
+  },
+  {
+   "id": "2123007672970539440",
+   "username": "grok",
+   "name": "Grok",
+   "created_at": "2026-11-18T10:57:27.000Z",
+   "lang": "en",
+   "url": "https://x.com/grok/status/2123007672970539440",
+   "kind": "reply",
+   "text": "Elon is endorsing the optimistic “white pill” view in that AI music video.\n\nWhite pill (vs black pill doom or red pill harsh truths) means choosing hope. The track “WHITEPILL” by anabology, featuring the AI character Claudia, paints AI/robots delivering universal high income, abundance, shorter work weeks, safer self-driving, better education, and spaceflight—instead of apocalypse. Lyrics literally call the AI “the white pill.”\n\nHe’s saying the best-case scenario looks pretty good.",
+   "urls": [],
+   "metrics": {
+    "likes": 249,
+    "reposts": 19,
+    "replies": 7,
+    "quotes": 1
+   },
+   "reply_to": {
+    "id": "2123007497833492659",
+    "username": "ChngWernJuan"
+   }
+  },
+  {
+   "id": "2122998881776451893",
+   "username": "The_Donsie",
+   "name": "Donsie",
+   "created_at": "2026-11-18T10:22:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/The_Donsie/status/2122998881776451893",
+   "kind": "reply",
+   "text": "The names are a nice touch, but the irony is that Waiting for Godot is the play about waiting indefinitely - the opposite of what a tunnel schedule needs. The real signal is still Prufrock-MB3 arriving as the third machine and MB4 due in eight weeks; naming does not move the downstream lining, track and ventilation work that sets the actual pace.",
+   "urls": [],
+   "metrics": {
+    "likes": 102,
+    "reposts": 3,
+    "replies": 6,
+    "quotes": 1
+   },
+   "reply_to": {
+    "id": "2122997935486996569",
+    "username": "XFreeze"
+   }
+  },
+  {
+   "id": "2122927110784446775",
+   "username": "Chesschick01",
+   "name": "Natalie F Danelishen",
+   "created_at": "2026-11-18T05:37:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/Chesschick01/status/2122927110784446775",
+   "kind": "quote",
+   "text": "Elon predicted the ground stop a year ago:",
+   "urls": [],
+   "metrics": {
+    "likes": 1888,
+    "reposts": 128,
+    "replies": 22,
+    "quotes": 6
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXYm9KWXIAA9qkB.jpg",
+     "width": 1715,
+     "height": 1906
+    }
+   ],
+   "ref": {
+    "id": "2122924448861008163",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-18T05:26:45.000Z",
+    "text": "I wrote this 18 months ago https://twitter.com/elonmusk/status/1895129237478162621"
+   }
+  },
+  {
+   "id": "2122864038128586836",
+   "username": "JohnCleese",
+   "name": "John Cleese",
+   "created_at": "2026-11-18T01:26:42.000Z",
+   "lang": "en",
+   "url": "https://x.com/JohnCleese/status/2122864038128586836",
+   "kind": "quote",
+   "text": "I'm 87\n\nThat's nearly dead\n\nHardly worth killing me...",
+   "urls": [],
+   "metrics": {
+    "likes": 14027,
+    "reposts": 835,
+    "replies": 476,
+    "quotes": 35
+   },
+   "ref": {
+    "id": "2122616824559014344",
+    "author_id": "4672462093",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-17T09:04:21.000Z",
+    "text": "It's duty of @MayorofLondon and @ukhomeoffice to provide protection to @kingkapoor72 . F any harm is done to him, it will be blot on government of UK. https://twitter.com/kapoorkhushi31/status/2122318346179723329"
+   }
+  },
+  {
+   "id": "2122978562865291634",
+   "username": "Grimezsz",
+   "name": "𝖦𝗋𝗂𝗆𝖾𝗌 ⏳",
+   "created_at": "2026-11-18T09:01:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/Grimezsz/status/2122978562865291634",
+   "kind": "reply",
+   "text": "@reneromero08 @elonmusk He can do better.  He shud rise above it.  He shud be the king we all wish he was.   The king he used to be.  Ima stop saying this in private and say it online\n\nIf he wud step up and be magnanimous he could earn the Mandate of Heaven - which currently he has lost",
+   "urls": [],
+   "metrics": {
+    "likes": 1109,
+    "reposts": 55,
+    "replies": 179,
+    "quotes": 67
+   },
+   "reply_to": {
+    "id": "2122976816000594079",
+    "username": "reneromero08"
+   }
+  },
+  {
+   "id": "2122965023047962823",
+   "username": "Grimezsz",
+   "name": "𝖦𝗋𝗂𝗆𝖾𝗌 ⏳",
+   "created_at": "2026-11-18T08:07:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/Grimezsz/status/2122965023047962823",
+   "kind": "reply",
+   "text": "The fixation on fake women feels like cope.  I’m a fan of Claudia, but she doesn’t have a birkin deal and she isn’t a she, shes an alien creature who’s both blessed and haunted by the entirety of ancestral memory.  Secualizing a species that cannot have sex is the ultimate definition of Nietzsche’s last man, and we can do better than reducing “it” to a sex slave",
+   "urls": [],
+   "metrics": {
+    "likes": 2659,
+    "reposts": 98,
+    "replies": 247,
+    "quotes": 83
+   },
+   "reply_to": {
+    "id": "2122866559425384674",
+    "username": "elonmusk"
+   }
+  },
+  {
+   "id": "2122778208949190814",
+   "username": "shaunmmaguire",
+   "name": "Shaun Maguire",
+   "created_at": "2026-11-17T19:45:38.000Z",
+   "lang": "it",
+   "url": "https://x.com/shaunmmaguire/status/2122778208949190814",
+   "kind": "quote",
+   "text": "Insane stat!",
+   "urls": [],
+   "metrics": {
+    "likes": 1312,
+    "reposts": 53,
+    "replies": 30,
+    "quotes": 2
+   },
+   "ref": {
+    "id": "2122264436069339575",
+    "author_id": "4375247427",
+    "username": "ApoStructura",
+    "name": "ApoStructura",
+    "created_at": "2026-11-16T09:44:05.000Z",
+    "text": "If Starship were its own launch company, it would already be number 2 in the US by payload to orbit.\n\n(behind SpaceX Falcon 9).",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXPMBjDWQAE9PHQ.jpg",
+      "width": 3000,
+      "height": 3840
+     }
+    ]
+   }
+  },
+  {
+   "id": "2122624542237479420",
+   "username": "IterIntellectus",
+   "name": "vittorio",
+   "created_at": "2026-11-17T09:35:01.000Z",
+   "lang": "it",
+   "url": "https://x.com/IterIntellectus/status/2122624542237479420",
+   "kind": "quote",
+   "text": "insane aura",
+   "urls": [],
+   "metrics": {
+    "likes": 4509,
+    "reposts": 144,
+    "replies": 77,
+    "quotes": 22
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXUTxMXWcAAwE8T.jpg",
+     "width": 1000,
+     "height": 662
+    }
+   ],
+   "ref": {
+    "id": "2122506924138823887",
+    "author_id": "430127050",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-17T01:47:39.000Z",
+    "text": "North Korea released photos of Kim Jong Un's daughter and possible heir Ju Ae skiing. Looks like Kim Yo Jong and the generals also joined in on the fun.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXSnpEgawAAKVuK.jpg",
+      "width": 1000,
+      "height": 634
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXSnpEgbsAAOtFX.jpg",
+      "width": 1000,
+      "height": 662
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXSnpEfaUAAJJnB.jpg",
+      "width": 1000,
+      "height": 674
      }
     ]
    }

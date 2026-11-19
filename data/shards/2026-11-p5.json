@@ -1,0 +1,867 @@
+{
+ "id": "2026-11-p5",
+ "updated_at": "2026-11-19T03:51:00Z",
+ "posts": [
+  {
+   "id": "2116989721557577914",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T20:24:16.000Z",
+   "lang": "en",
+   "conversation_id": "2116989721557577914",
+   "url": "https://x.com/elonmusk/status/2116989721557577914",
+   "kind": "repost",
+   "text": "But all of my progressive academic colleagues assured us that X would fail because Elon is mean, no?",
+   "urls": [],
+   "metrics": {
+    "likes": 2500,
+    "reposts": 332,
+    "replies": 97,
+    "quotes": 8
+   },
+   "ref": {
+    "id": "2116912508401545425",
+    "author_id": "116579971",
+    "username": "GadSaad",
+    "name": "Gad Saad",
+    "created_at": "2026-11-01T15:17:26.000Z",
+    "quote": {
+     "id": "2116872470963892248",
+     "author_id": "1389913567671975937",
+     "username": "cb_doge",
+     "name": "DogeDesigner",
+     "created_at": "2026-11-01T12:38:21.000Z",
+     "text": "BREAKING: 𝕏 beats Instagram, Reddit, Facebook and TikTok in average website visit duration, according to Similarweb’s September 2026 data.\n\n𝕏 is winning. People stay longer where the conversation matters.",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2116872421353656320/vid/avc1/1000x1000/MfaCEC_F_u63qO8t.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2116872421353656320/img/6_j_q2nQYP9T1eZC.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2116872421353656320/vid/avc1/320x320/RaYZ_65a67Snc2P-.mp4",
+         "w": 320,
+         "h": 320,
+         "br": 432000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2116872421353656320/vid/avc1/540x540/GWpMbDdJ9NHN95Zp.mp4",
+         "w": 540,
+         "h": 540,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2116872421353656320/vid/avc1/720x720/k66YGlX8hiZCHuBa.mp4",
+         "w": 720,
+         "h": 720,
+         "br": 1280000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2116872421353656320/vid/avc1/1000x1000/MfaCEC_F_u63qO8t.mp4",
+         "w": 1000,
+         "h": 1000,
+         "br": 8768000
+        }
+       ],
+       "width": 1000,
+       "height": 1000,
+       "duration_ms": 9920
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2116989604104392969",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T20:23:48.000Z",
+   "lang": "en",
+   "conversation_id": "2116989604104392969",
+   "url": "https://x.com/elonmusk/status/2116989604104392969",
+   "kind": "quote",
+   "text": "Grok @Bot will research gifts that your friends and family would love and buy them",
+   "urls": [],
+   "metrics": {
+    "likes": 3301,
+    "reposts": 429,
+    "replies": 617,
+    "quotes": 83
+   },
+   "ref": {
+    "id": "2116643253726683590",
+    "author_id": "922955517030408192",
+    "username": "venturetwins",
+    "name": "Justine Moore",
+    "created_at": "2026-10-31T21:27:31.000Z",
+    "text": "Last week, I told my Grok @bot to surprise me with a gift.\n\nI said it could use up to $100 from my X Money account, and asked it to consider my tweets + our conversations to pick a good present.\n\nLook what arrived today! Even included a Halloween surprise 🎃",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HV_TdWQawAA5W1B.jpg",
+      "width": 1600,
+      "height": 1225
+     }
+    ]
+   }
+  },
+  {
+   "id": "2116988321931088110",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T20:18:42.000Z",
+   "lang": "en",
+   "conversation_id": "2116926625657024819",
+   "url": "https://x.com/elonmusk/status/2116988321931088110",
+   "reply_to": {
+    "id": "2116926625657024819",
+    "username": "chamath"
+   },
+   "kind": "reply",
+   "text": "@chamath Interesting",
+   "urls": [],
+   "metrics": {
+    "likes": 1518,
+    "reposts": 64,
+    "replies": 143,
+    "quotes": 9
+   }
+  },
+  {
+   "id": "2116988302268199089",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T20:18:37.000Z",
+   "lang": "en",
+   "conversation_id": "2116988302268199089",
+   "url": "https://x.com/elonmusk/status/2116988302268199089",
+   "kind": "repost",
+   "text": "He who shapes power, data centers, chips and models into an economically feasible endpoint, disproportionately shapes AI/SI right now.\n\nWhy?\n\nPower is THE binding constraint in AI/SI. Few really have it.\n\nData centers don’t work without power. This is not about promises of power tomorrow. Or forecasted power in 2028. Power TODAY.\n\nChips can’t operate profitably unless installed in a functional data center. If you can install chips, it’s because you’ve solved the power problem.\n\nModels aren’t economically viable unless run on cost effective infrastructure which requires a functional data center with low input costs and reliable management. This can’t happen without power.\n\nAI/SI ROI doesn’t pencil unless models generate profitable outputs which necessarily needs functional data centers as the critical input. Again, power.\n\nErgo, he who can shape data centers, chips and models together into a tightly coordinated stack is someone who has solved power.\n\nSolving power allows you to disproportionately shape AI/SI right now.",
+   "urls": [],
+   "metrics": {
+    "likes": 4068,
+    "reposts": 381,
+    "replies": 371,
+    "quotes": 110
+   },
+   "ref": {
+    "id": "2116926625657024819",
+    "author_id": "3291691",
+    "username": "chamath",
+    "name": "Chamath Palihapitiya",
+    "created_at": "2026-11-01T16:13:32.000Z",
+    "quote": {
+     "id": "2116596535433871630",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-10-31T18:21:53.000Z",
+     "text": "@XFreeze There will be a total of around 1.2M Blackwells at Colossus 2 by end of year"
+    }
+   }
+  },
+  {
+   "id": "2116987796896227505",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T20:16:37.000Z",
+   "lang": "en",
+   "conversation_id": "2116963534181388336",
+   "url": "https://x.com/elonmusk/status/2116987796896227505",
+   "reply_to": {
+    "id": "2116963534181388336",
+    "username": "gailalfaratx"
+   },
+   "kind": "reply",
+   "text": "@gailalfaratx Don’t worry, you won’t regret it",
+   "urls": [],
+   "metrics": {
+    "likes": 3372,
+    "reposts": 156,
+    "replies": 323,
+    "quotes": 25
+   }
+  },
+  {
+   "id": "2116987539886325935",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T20:15:35.000Z",
+   "lang": "qme",
+   "conversation_id": "2116985908268572975",
+   "url": "https://x.com/elonmusk/status/2116987539886325935",
+   "reply_to": {
+    "id": "2116986860069069053",
+    "username": "dad_4_ever"
+   },
+   "kind": "reply",
+   "text": "@dad_4_ever 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 2329,
+    "reposts": 26,
+    "replies": 53,
+    "quotes": 4
+   }
+  },
+  {
+   "id": "2116987355370246639",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T20:14:51.000Z",
+   "lang": "en",
+   "conversation_id": "2116985908268572975",
+   "url": "https://x.com/elonmusk/status/2116987355370246639",
+   "reply_to": {
+    "id": "2116986646382219496",
+    "username": "IfindRetards"
+   },
+   "kind": "reply",
+   "text": "@IfindRetards Seriously",
+   "urls": [],
+   "metrics": {
+    "likes": 4763,
+    "reposts": 73,
+    "replies": 98,
+    "quotes": 10
+   }
+  },
+  {
+   "id": "2116986769774374981",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T20:12:32.000Z",
+   "lang": "en",
+   "conversation_id": "2116986769774374981",
+   "url": "https://x.com/elonmusk/status/2116986769774374981",
+   "kind": "repost",
+   "text": "AnakinCore keeps hitting",
+   "urls": [],
+   "metrics": {
+    "likes": 6096,
+    "reposts": 558,
+    "replies": 1,
+    "quotes": 98
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2116302509337935872/vid/avc1/750x1114/Vn8YeUZ3l9eqm3RO.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2116302509337935872/img/4lXOyajJcHzZzFSY.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2116302509337935872/vid/avc1/320x474/l6o4KMyU703v_CK4.mp4",
+       "w": 320,
+       "h": 474,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2116302509337935872/vid/avc1/480x712/oJZg--QG2ECoBLQK.mp4",
+       "w": 480,
+       "h": 712,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2116302509337935872/vid/avc1/750x1114/Vn8YeUZ3l9eqm3RO.mp4",
+       "w": 750,
+       "h": 1114,
+       "br": 2176000
+      }
+     ],
+     "width": 750,
+     "height": 1114,
+     "duration_ms": 30346
+    }
+   ],
+   "ref": {
+    "id": "2116934482515083564",
+    "author_id": "3840",
+    "username": "Jason",
+    "name": "@jason",
+    "created_at": "2026-11-01T16:44:46.000Z"
+   }
+  },
+  {
+   "id": "2116985908268572975",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T20:09:06.000Z",
+   "lang": "en",
+   "conversation_id": "2116985908268572975",
+   "url": "https://x.com/elonmusk/status/2116985908268572975",
+   "kind": "post",
+   "text": "The people deserve to have their RAM too!",
+   "urls": [],
+   "metrics": {
+    "likes": 56721,
+    "reposts": 3454,
+    "replies": 2157,
+    "quotes": 428
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWELdnLWkAAT83A.jpg",
+     "width": 2048,
+     "height": 1196
+    }
+   ]
+  },
+  {
+   "id": "2116982386688950545",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T19:55:07.000Z",
+   "lang": "en",
+   "conversation_id": "2116961974315876588",
+   "url": "https://x.com/elonmusk/status/2116982386688950545",
+   "reply_to": {
+    "id": "2116961974315876588",
+    "username": "spencerpratt"
+   },
+   "kind": "reply",
+   "text": "@spencerpratt SNL does seem to be trending in the right direction",
+   "urls": [],
+   "metrics": {
+    "likes": 5654,
+    "reposts": 144,
+    "replies": 217,
+    "quotes": 7
+   }
+  },
+  {
+   "id": "2116970675814482091",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T19:08:35.000Z",
+   "lang": "en",
+   "conversation_id": "2116970675814482091",
+   "url": "https://x.com/elonmusk/status/2116970675814482091",
+   "kind": "repost",
+   "text": "Having spent a long time watching Elon Musk, and having talked with him, I believe I understand what he understood before almost anyone else. And it's something every one of us needs to understand now.\n\nWestern civilization is not one civilization among many. It is the one that gave the world freedom of thought, modern science and the dignity of the individual. And it is under attack. Not by peoples, but by ideologies that want it dead.\n\nIf it dies, the world will not become more just. It will become poorer, more brutal and darker. For everyone, including those who hate it.\n\nWhy? Because civilizations are not interchangeable. We were told that any culture could be blended with any other, like mixing colors, and that the result would always be harmonious. It isn't true. A society where women are equal to men cannot coexist without friction with a worldview in which a woman's testimony is worth half a man's. A society where you can criticize God, change your religion or have none cannot absorb, without fracturing, a worldview in which apostasy is paid for with your life.\n\nEvery people has its own genius and moves at its own pace. But not all values are equal, and you cannot build a nation on laws that contradict each other. Saying so is not racist. Racism is about blood. I am talking about laws, customs and values. And those values belong to no race: a Japanese, a Senegalese or an Iranian can make them his own, and millions have. That is exactly why they are worth defending.\n\nLet's remember where they come from.\n\nIt all begins in Greece. In Athens, for the first time, men decide that truth does not descend from a throne but is sought through reason, and that a city governs itself through debate. Socrates chooses death rather than give up thinking freely. At Salamis, a handful of free cities stops the greatest empire in the world.\n\nThen comes Rome. Rome invents law that binds everyone, the citizen who holds rights, the Republic. And one immense idea: you can become Roman without being born Roman. You become Roman by adopting its laws.\n\nChristianity adds the most revolutionary idea in history: every human being, slave and emperor alike, has infinite worth.\n\nThen France. The cathedrals, those ships of stone our ancestors built over centuries for descendants they would never see. Descartes, Pascal, Voltaire. The Declaration of the Rights of Man. And Napoleon, who gives France the Civil Code, the lycées, and one simple principle: careers open to talent. Murat, the son of an innkeeper, ends up a Marshal of the Empire and King of Naples. The Civil Code spreads across much of Europe and still shapes the law of dozens of countries today.\n\nAnd this civilization goes on to abolish slavery, which had been practiced on every continent since the dawn of time, to push back the plague, smallpox and the night itself, and to set foot on the Moon.\n\nPeoples of the West, be proud of this history. Proud does not mean blind. Every civilization has committed crimes: conquest, slavery, war. Ours is the one that went furthest in examining its own faults, to the point of abolishing what it had once practiced. This capacity to question itself is its greatest strength. And that is exactly the strength now being turned against it.\n\nBecause for decades, this magnificent system has been getting hacked. Not by an army. By an alliance of two forces that have nothing in common except one enemy: us.\n\nThe first is communism. It lost the economic war, lost the Cold War, lost history's verdict with its tens of millions of dead. But it never lost the universities. It survived by changing costumes: class struggle became the struggle of the oppressed against their oppressors, and the West was declared guilty of everything. It taught our children to be ashamed of their ancestors, their borders and their culture. It is the root cause, because before you can bring down a civilization, you have to take away its will to defend itself.\n\nThe second is political Islam. I am not talking about Muslims, many of whom came here precisely to escape this ideology and are its first victims. I am talking about a political project that wants to place religious law above civil law. It has no doubts. It feels no shame. It rushes into the void the first one dug.\n\nOne disarms. The other advances.\n\nAnd let no one on the left believe they will stay in control. History has already staged this play. In 1978, Michel Foucault was enthusing over the Iranian revolution. Iran's communist party, the Tudeh, backed Khomeini and called on Iranians to vote for his Islamic constitution. By 1983, its leaders had been arrested, the party banned, and its chiefs paraded on television to confess their “crimes.” In 1988, thousands of political prisoners were executed, communist activists among them. The second always ends up devouring the first. Useful idiots are only useful for a while.\n\nSo here is my call to every Western people. To the French, the Italians, the Poles, the Germans, the Spanish, the Americans, to all of you.\n\nWe are at a turning point. What we do in the next ten years will decide what our grandchildren are allowed to say, believe, write and love.\n\nI am not asking you to die for the West. I am asking you for something harder: to live for it.\n\nLearn its history and pass it on. Have children. Speak without fear, even when they call you every name in the book. Vote, get involved, run for office. Build companies, schools, factories, families. Refuse the shame they are trying to inject into you. And stop surrendering anything that makes us who we are: freedom of thought, equality before the law, the dignity of every person.\n\nThe historian Arnold Toynbee understood it: civilizations are not murdered, they commit suicide. And those who think they can let the West fall without paying the price should remember the Iranian communists. They helped tear down what they despised, and then they were next.\n\nThe Greeks at Salamis were outnumbered. They won because they knew what they were defending. We are the heirs of Athens, Rome, Notre-Dame and the Civil Code. It is no accident that the rockets that will carry humanity to Mars are being built in a free civilization.\n\nIt is time to prove ourselves worthy of what we were given.\n\nThe West is worth defending. And no one will defend it for us.",
+   "urls": [],
+   "metrics": {
+    "likes": 13078,
+    "reposts": 4347,
+    "replies": 744,
+    "quotes": 434
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWCH1kXXIAAig2R.jpg",
+     "width": 1055,
+     "height": 1491
+    }
+   ],
+   "ref": {
+    "id": "2116841241241436458",
+    "author_id": "1874492187070615552",
+    "username": "brivael",
+    "name": "Brivael Le Pogam",
+    "created_at": "2026-11-01T10:34:15.000Z"
+   }
+  },
+  {
+   "id": "2116970572592861616",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T19:08:10.000Z",
+   "lang": "en",
+   "conversation_id": "2116970572592861616",
+   "url": "https://x.com/elonmusk/status/2116970572592861616",
+   "kind": "quote",
+   "text": "True",
+   "urls": [],
+   "metrics": {
+    "likes": 4592,
+    "reposts": 545,
+    "replies": 549,
+    "quotes": 31
+   },
+   "ref": {
+    "id": "2116909323670482979",
+    "author_id": "331865640",
+    "username": "aaronburnett",
+    "name": "Aaron Burnett",
+    "created_at": "2026-11-01T15:04:47.000Z",
+    "text": "I believe that not using AI when modeling should be considered negligence. In the near future 1-2 years, this opinion will be considered obvious.\n\nlike FSD for investment decision making. You can absolutely model by hand if you so choose, but it’s not the smart decision. Every institution will have to grapple with this truth in the coming months.",
+    "quote": {
+     "id": "2116360413113729122",
+     "author_id": "1611916938585817088",
+     "username": "WaterworldCapi1",
+     "name": "Waterworld Capital",
+     "created_at": "2026-10-31T02:43:37.000Z",
+     "text": "Idiot VC discovers making up stuff in excel (via Claude)..to be fair he is just putting in numbers Elon is saying that make zero sense. https://twitter.com/shaunmmaguire/status/2116261542052454704"
+    }
+   }
+  },
+  {
+   "id": "2116969891945414749",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T19:05:28.000Z",
+   "lang": "en",
+   "conversation_id": "2116568452999811499",
+   "url": "https://x.com/elonmusk/status/2116969891945414749",
+   "reply_to": {
+    "id": "2116568452999811499",
+    "username": "KyleReidhead"
+   },
+   "kind": "reply",
+   "text": "@KyleReidhead Interesting",
+   "urls": [],
+   "metrics": {
+    "likes": 1483,
+    "reposts": 73,
+    "replies": 170,
+    "quotes": 9
+   }
+  },
+  {
+   "id": "2116969654849868192",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T19:04:31.000Z",
+   "lang": "en",
+   "conversation_id": "2116969654849868192",
+   "url": "https://x.com/elonmusk/status/2116969654849868192",
+   "kind": "quote",
+   "text": "Talarico will vote to trans your kids",
+   "urls": [],
+   "metrics": {
+    "likes": 53014,
+    "reposts": 8783,
+    "replies": 5755,
+    "quotes": 499
+   },
+   "ref": {
+    "id": "2116923224063664354",
+    "author_id": "1841988608825466880",
+    "username": "america",
+    "name": "America",
+    "created_at": "2026-11-01T16:00:01.000Z",
+    "text": "Texas Democrat James Talarico: “What would Jesus do if he visited the Texas legislature? I think he would tell us: 'Blessed are the trans children'…”",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2072357782624288768/vid/avc1/1920x1080/Zi9CT1XMsSQG9zfe.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2072357782624288768/img/sW-CGsithRE8gZus.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2072357782624288768/vid/avc1/480x270/-duHRh_iTzAF6b8B.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2072357782624288768/vid/avc1/640x360/lCxiXwsxlTit-4pO.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2072357782624288768/vid/avc1/1280x720/rgozT_QtRBYkrYv9.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2072357782624288768/vid/avc1/1920x1080/Zi9CT1XMsSQG9zfe.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 14047
+     }
+    ]
+   }
+  },
+  {
+   "id": "2116969019303432203",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T19:02:00.000Z",
+   "lang": "en",
+   "conversation_id": "2116968674590441904",
+   "url": "https://x.com/elonmusk/status/2116969019303432203",
+   "reply_to": {
+    "id": "2116968674590441904",
+    "username": "elonmusk"
+   },
+   "kind": "reply",
+   "text": "38,000 foot air gap!",
+   "urls": [],
+   "metrics": {
+    "likes": 2845,
+    "reposts": 215,
+    "replies": 212,
+    "quotes": 14
+   }
+  },
+  {
+   "id": "2116968674590441904",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T19:00:38.000Z",
+   "lang": "en",
+   "conversation_id": "2116968674590441904",
+   "url": "https://x.com/elonmusk/status/2116968674590441904",
+   "kind": "quote",
+   "text": "“Best way to sandbox an AI,” said Musk. “Put it on a Delta flight: No escape is possible.”",
+   "urls": [],
+   "metrics": {
+    "likes": 9976,
+    "reposts": 662,
+    "replies": 568,
+    "quotes": 76
+   },
+   "ref": {
+    "id": "2116955860073414760",
+    "author_id": "1087640384975577089",
+    "username": "ns123abc",
+    "name": "NIK",
+    "created_at": "2026-11-01T18:09:42.000Z",
+    "text": "be Greg Brockman\ngo to White House dinner to beg your enemies for compute\n\n> \"h-hey Elon... got any spare compute bro?\"\n\nElon calls you out in front of the entire room: \"DUDE, you stole my charity! You can't be a huge dick then ask for favors, hello?\"\n\nSergey Brin: “He was asking me for compute too. How many grown men do you know that keep a diary? If I did I’d burn it.”\n\nLMAOOOOOOOO",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWDuTByXwAAZCrE.jpg",
+      "width": 1200,
+      "height": 800
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWDuTCAWsAAtyqk.jpg",
+      "width": 1053,
+      "height": 1200
+     }
+    ]
+   }
+  },
+  {
+   "id": "2116966775523053954",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T18:53:05.000Z",
+   "lang": "zxx",
+   "conversation_id": "2116966775523053954",
+   "url": "https://x.com/elonmusk/status/2116966775523053954",
+   "kind": "repost",
+   "text": "https://x.com/i/article/2116710127222812673",
+   "urls": [
+    "https://x.com/i/article/2116710127222812673"
+   ],
+   "metrics": {
+    "likes": 1100,
+    "reposts": 157,
+    "replies": 52,
+    "quotes": 16
+   },
+   "article_title": "Gun Range and Spam: SpaceX's Two Massive New AI Data Centers",
+   "ref": {
+    "id": "2116720147113058754",
+    "author_id": "261388832",
+    "username": "CernBasher",
+    "name": "Cern Basher",
+    "created_at": "2026-11-01T02:33:04.000Z"
+   }
+  },
+  {
+   "id": "2116963658559627604",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T18:40:42.000Z",
+   "lang": "en",
+   "conversation_id": "2116963658559627604",
+   "url": "https://x.com/elonmusk/status/2116963658559627604",
+   "kind": "repost",
+   "text": "Democrat Haley Stevens after endorsing Republican Mike Rogers over Abdul El-Sayed: “My vote for Senate will be for Mike Rogers because we have to stand with country. We can't stand with hate, we can't stand with Hasan Piker... I stood with my party and I was booed off the stage.”",
+   "urls": [],
+   "metrics": {
+    "likes": 6703,
+    "reposts": 1246,
+    "replies": 287,
+    "quotes": 62
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2116950114551857152/vid/avc1/1280x720/zdDnzSgUJ2P2kLbD.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2116950114551857152/img/Tygp7A7XySlar8gH.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2116950114551857152/vid/avc1/480x270/zlLe7525-KLt94Zr.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2116950114551857152/vid/avc1/640x360/MaL7PpRrcD73ma8P.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2116950114551857152/vid/avc1/1280x720/zdDnzSgUJ2P2kLbD.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      }
+     ],
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 84683
+    }
+   ],
+   "ref": {
+    "id": "2116954200575779303",
+    "author_id": "1841988608825466880",
+    "username": "america",
+    "name": "America",
+    "created_at": "2026-11-01T18:03:07.000Z"
+   }
+  },
+  {
+   "id": "2116963596462600249",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T18:40:27.000Z",
+   "lang": "en",
+   "conversation_id": "2116963596462600249",
+   "url": "https://x.com/elonmusk/status/2116963596462600249",
+   "kind": "quote",
+   "text": "Starlink saves lives",
+   "urls": [],
+   "metrics": {
+    "likes": 12616,
+    "reposts": 1469,
+    "replies": 1229,
+    "quotes": 106
+   },
+   "ref": {
+    "id": "2116885685743321273",
+    "author_id": "1995073863693275137",
+    "username": "AmandaLovesElon",
+    "name": "AmandaLovesElon",
+    "created_at": "2026-11-01T13:30:51.000Z",
+    "text": "✨️🚀Starlink saves lives, and this time it was right here in Britain. 🇬🇧✨️🚀\n\n🔥A walker fell into a hornets' nest down a steep bank in Cumbria. The rescuers had no mobile signal, but Starlink got the call through, and the walker is safe.\n\n✝️\"My help cometh from the LORD, which made heaven and earth.\" Psalm 121:2 (KJV)\n\nThank you @SpaceX @elonmusk 🙏\nImage: SpaceX",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWCwT4aWIAAgmLw.jpg",
+      "width": 680,
+      "height": 426
+     }
+    ]
+   }
+  },
+  {
+   "id": "2116961866681590246",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T18:33:34.000Z",
+   "lang": "en",
+   "conversation_id": "2116961866681590246",
+   "url": "https://x.com/elonmusk/status/2116961866681590246",
+   "kind": "repost",
+   "text": "@Grummz Most important of all",
+   "urls": [],
+   "metrics": {
+    "likes": 4288,
+    "reposts": 210,
+    "replies": 312,
+    "quotes": 45
+   },
+   "ref": {
+    "id": "2116589708180640207",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-10-31T17:54:45.000Z"
+   }
+  },
+  {
+   "id": "2116961340950753492",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T18:31:29.000Z",
+   "lang": "en",
+   "conversation_id": "2116961340950753492",
+   "url": "https://x.com/elonmusk/status/2116961340950753492",
+   "kind": "repost",
+   "text": "HAPPENING NOW: Congresswoman Haley Stevens joins Mike Rogers at church in Detroit this morning.\n\nWe have a state to save, Michigan.",
+   "urls": [],
+   "metrics": {
+    "likes": 10549,
+    "reposts": 1373,
+    "replies": 912,
+    "quotes": 374
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWDYDiYWUAArQrf.jpg",
+     "width": 1536,
+     "height": 2048
+    }
+   ],
+   "ref": {
+    "id": "2116929399820022102",
+    "author_id": "1671235200582287362",
+    "username": "abbyronson",
+    "name": "Abby Ronson",
+    "created_at": "2026-11-01T16:24:34.000Z"
+   }
+  },
+  {
+   "id": "2116934869171499489",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-01T16:46:18.000Z",
+   "lang": "en",
+   "conversation_id": "2116608133976166581",
+   "url": "https://x.com/mattyp/status/2116934869171499489",
+   "reply_to": {
+    "id": "2116932925996376444",
+    "username": "LLMJunky"
+   },
+   "kind": "reply",
+   "text": "@LLMJunky @anitakirkovska All models are still accessible - we made changes to credits that were included with your plan.\n\nIf you have other feedback I'm happy to hear it",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2116909238731800803",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-01T15:04:27.000Z",
+   "lang": "en",
+   "conversation_id": "2116895266955530741",
+   "url": "https://x.com/mattyp/status/2116909238731800803",
+   "reply_to": {
+    "id": "2116895266955530741",
+    "username": "konstipaulus"
+   },
+   "kind": "reply",
+   "text": "@konstipaulus nice",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2116890148474351711",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T13:48:35.000Z",
+   "lang": "en",
+   "conversation_id": "2116890148474351711",
+   "url": "https://x.com/elonmusk/status/2116890148474351711",
+   "kind": "repost",
+   "text": "SpaceX just guided to a $35B quarter! The CFO sees $33B to $37B in Q1 2027 revenue, up from $14.6B this quarter. That's more than double in just two quarters.\n\n• SI revenue was $7.56B, up 830%, and it's now bigger than Starlink\n\n• 13 GW of compute expected by the end of 2027\n\n• Grok Bot has 800K paid weekly users, more than doubling in a month\n\n• Starship Flight 15 will try to catch both stages in mid-November\n\n• Starlink is in talks for 80,000+ US cell sites\n\nSo why did $SPCX stock drop?  👇",
+   "urls": [],
+   "metrics": {
+    "likes": 2610,
+    "reposts": 340,
+    "replies": 149,
+    "quotes": 15
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2114740885745528832/vid/avc1/1280x720/MgJN7SyS8W9rWCeY.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2114740885745528832/img/0t5192RfN6EZpKUi.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2114740885745528832/vid/avc1/480x270/Pkg_NbRxk1HZsAAx.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2114740885745528832/vid/avc1/640x360/PtrWlgGvD3VghmdD.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2114740885745528832/vid/avc1/1280x720/MgJN7SyS8W9rWCeY.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      }
+     ],
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 1311904
+    }
+   ],
+   "ref": {
+    "id": "2114750149062987864",
+    "author_id": "15527242",
+    "username": "herbertong",
+    "name": "Herbert Ong",
+    "created_at": "2026-10-26T16:05:00.000Z"
+   }
+  },
+  {
+   "id": "2116685766273413157",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-01T00:16:27.000Z",
+   "lang": "en",
+   "conversation_id": "2116608133976166581",
+   "url": "https://x.com/mattyp/status/2116685766273413157",
+   "reply_to": {
+    "id": "2116608133976166581",
+    "username": "anitakirkovska"
+   },
+   "kind": "reply",
+   "text": "@anitakirkovska grok bot can fire off cursor cloud agents with any model you’d like",
+   "urls": [],
+   "metrics": {
+    "likes": 171,
+    "reposts": 2,
+    "replies": 25,
+    "quotes": 1
+   }
+  }
+ ]
+}

@@ -1,7 +1,388 @@
 {
  "id": "2026-11-p5",
- "updated_at": "2026-11-20T00:58:53Z",
+ "updated_at": "2026-11-20T00:59:24Z",
  "posts": [
+  {
+   "id": "2117360990119506022",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-02T20:59:33.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2117360990119506022",
+   "kind": "quote",
+   "text": "This is the way https://t.co/cM11gKhplP",
+   "urls": [],
+   "metrics": {
+    "likes": 3919,
+    "reposts": 385,
+    "replies": 876,
+    "quotes": 51
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117285679961096683",
+    "author_id": "1325862778603769856",
+    "username": "JasonBud",
+    "name": "Jason Ginsberg",
+    "created_at": "2026-11-02T16:00:18.000Z",
+    "text": "Treat Grok Bot like a teammate and give @bot an ambitious task you’d normally give to a new hire.",
+    "quote": {
+     "id": "2116900809388511586",
+     "author_id": "18745381",
+     "username": "scottbillows",
+     "name": "Scott Billows",
+     "created_at": "2026-11-01T14:30:57.000Z",
+     "text": "We closed our first deal with Grok @bot this week 🚀\n\nMy business has a very traditional sales cycle that often takes months to cultivate and close. We pointed Grok Bot at our tools and it surfaced past prospects/customers for my AE’s to reach out to. Two weeks in we have our first closed/won deal.\n\nWithout Grok Bot we most likely would not have reached out to this past customer. With Grok Bot it pulled this customer from the haystack and surfaced it to my AE who simply reached out, pitched and closed.\n\nIt’s absolutely amazing! Thank you @elonmusk.\nThank you @mattyp for showing us what can be done with Grok Bot."
+    }
+   }
+  },
+  {
+   "id": "2117354145980231861",
+   "author_id": "13298072",
+   "username": "Tesla",
+   "name": "Tesla",
+   "created_at": "2026-11-02T20:32:21.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/Tesla/status/2117354145980231861",
+   "kind": "repost",
+   "text": "FSD reacted before I even saw it!",
+   "urls": [],
+   "metrics": {
+    "likes": 603,
+    "reposts": 54,
+    "replies": 25,
+    "quotes": 6
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117066562397949952/vid/avc1/724x510/dzMXv7PFgevBePVO.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117066562397949952/img/sggPjyupJJd9s7eh.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2117066562397949952/vid/avc1/382x270/OUl54v4oOS32zIDa.mp4",
+       "w": 382,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2117066562397949952/vid/avc1/510x360/nfJNwcGbJ4K8k0cB.mp4",
+       "w": 510,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2117066562397949952/vid/avc1/724x510/dzMXv7PFgevBePVO.mp4",
+       "w": 724,
+       "h": 510,
+       "br": 2176000
+      }
+     ],
+     "width": 724,
+     "height": 510,
+     "duration_ms": 7166
+    }
+   ],
+   "ref": {
+    "id": "2117066703561515106",
+    "author_id": "3086071",
+    "username": "lonseidman",
+    "name": "Lon Seidman",
+    "created_at": "2026-11-02T01:30:09.000Z"
+   }
+  },
+  {
+   "id": "2117349540168876334",
+   "author_id": "2085838061347217408",
+   "username": "bot",
+   "name": "Grok Bot",
+   "created_at": "2026-11-02T20:14:03.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/bot/status/2117349540168876334",
+   "kind": "post",
+   "text": "Our team built a Team Bot that gives everyone at the company on-demand access to a data scientist.\n\nPMs use Data Bot to investigate product usage, marketers use it to measure campaign results, and teams across the company use it to build dashboards and track key metrics. https://t.co/dM5b5z1XUF",
+   "urls": [],
+   "metrics": {
+    "likes": 1583,
+    "reposts": 98,
+    "replies": 354,
+    "quotes": 42
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWJPCGsaAAAOf8O.jpg",
+     "width": 2816,
+     "height": 1832
+    }
+   ]
+  },
+  {
+   "id": "2117348262768210177",
+   "author_id": "1917716982465716227",
+   "username": "StarbaseTX",
+   "name": "StarbaseTX",
+   "created_at": "2026-11-02T20:08:58.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/StarbaseTX/status/2117348262768210177",
+   "kind": "post",
+   "text": "SpaceX is proud to sponsor the Brownsville Police Officers' Association's 40th Annual Surf Fishing Tournament at Boca Chica Beach!\n\nSaturday, Nov 7 | 6:00am – 2:00pm | Boca Chica Beach\n\nExpect prizes, live music, family activities and Learn to Fish sessions. Tickets are $25 at https://t.co/OMI5xRRQbq",
+   "urls": [],
+   "metrics": {
+    "likes": 391,
+    "reposts": 46,
+    "replies": 3,
+    "quotes": 2
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWJVBbmXsAApkqh.jpg",
+     "width": 2048,
+     "height": 1463
+    }
+   ]
+  },
+  {
+   "id": "2117337349281796505",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T19:25:36.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117337349281796505",
+   "reply_to": {
+    "id": "2117337019487789091",
+    "username": "sethpascale"
+   },
+   "kind": "reply",
+   "text": "@sethpascale thanks seth!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2117322639295602699",
+   "author_id": "2085838061347217408",
+   "username": "bot",
+   "name": "Grok Bot",
+   "created_at": "2026-11-02T18:27:09.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/bot/status/2117322639295602699",
+   "kind": "repost",
+   "text": "Last week our marketing team aggressively started using Grok Bot.\n\nWhat I'm seeing 👇️\n\n1/ No more agencies. Agencies for webflow, design, motion, etc will move in-house (via managing agents that do the same work).\n\n2/ Demand-gen programs fully run by agents. This means paid search, paid social, AEO/SEO.\n\n3/ A system having MCP access is no longer the constraint because of browser use. Agents just log in and use the same products.\n\n4/ ICs need to become great at management. Managing a fleet of agents is more similar to managing people than it is delegating tasks to Claude. Everyone needs manager training.\n\nWe're going to see an explosion of usage in the next two months.",
+   "urls": [],
+   "metrics": {
+    "likes": 369,
+    "reposts": 18,
+    "replies": 71,
+    "quotes": 11
+   },
+   "partial": true,
+   "ref": {
+    "id": "2117312824829411683",
+    "author_id": "362823866",
+    "username": "marty_kausas",
+    "name": "Marty Kausas",
+    "created_at": "2026-11-02T17:48:09.000Z"
+   }
+  },
+  {
+   "id": "2117313579955494951",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T17:51:09.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117313579955494951",
+   "reply_to": {
+    "id": "2117312834824786373",
+    "username": "vatsaishere"
+   },
+   "kind": "reply",
+   "text": "@vatsaishere https://t.co/IOa7V3VC3F\n\nBoom!",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2117312007997362506",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T17:44:55.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117312007997362506",
+   "reply_to": {
+    "id": "2117303528142303421",
+    "username": "Theseus_23"
+   },
+   "kind": "reply",
+   "text": "@Theseus_23 I will continue to drop easter eggs until someone notices",
+   "urls": [],
+   "metrics": {
+    "likes": 31,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2117311847858921690",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T17:44:16.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117311847858921690",
+   "reply_to": {
+    "id": "2117303820955099141",
+    "username": "DocLibertarian"
+   },
+   "kind": "reply",
+   "text": "@DocLibertarian fair and we will work to improve our comms",
+   "urls": [],
+   "metrics": {
+    "likes": 98,
+    "reposts": 0,
+    "replies": 7,
+    "quotes": 1
+   },
+   "partial": true
+  },
+  {
+   "id": "2117311783757357057",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T17:44:01.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117311783757357057",
+   "reply_to": {
+    "id": "2117308916556333279",
+    "username": "hopes_revenge"
+   },
+   "kind": "reply",
+   "text": "@hopes_revenge lowkey I track my steps in plod every week",
+   "urls": [],
+   "metrics": {
+    "likes": 7,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2117305055129051285",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T17:17:17.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2117305055129051285",
+   "reply_to": {
+    "id": "2117304603415097813",
+    "username": "diopfode"
+   },
+   "kind": "reply",
+   "text": "@diopfode no",
+   "urls": [],
+   "metrics": {
+    "likes": 153,
+    "reposts": 0,
+    "replies": 11,
+    "quotes": 1
+   },
+   "partial": true
+  },
+  {
+   "id": "2117302664799396177",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-02T17:07:47.000Z",
+   "lang": "en",
+   "conversation_id": "2117302664799396177",
+   "url": "https://x.com/mattyp/status/2117302664799396177",
+   "kind": "post",
+   "text": "What's New in Grok Bot\n\n00:14 Shopping cards\n00:27 Product pages\n00:39 Order tracking\n00:53 Payments\n01:33 Custom modes\n01:52 Team Bot logins and setup\n02:09 Share and find Team Bots\n02:51 Connector asks in Slack\n03:12 Contacts in Vault\n03:31 Rapid fire",
+   "urls": [],
+   "metrics": {
+    "likes": 3563,
+    "reposts": 252,
+    "replies": 385,
+    "quotes": 98
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2117284064025772032/vid/avc1/3840x2160/Ir2RKulro-fYPEch.mp4",
+     "poster": "https://pbs.twimg.com/media/HWIcU5pbIAIQ15R.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2117284064025772032/vid/avc1/480x270/suYsQD1EuEtN69Yt.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2117284064025772032/vid/avc1/640x360/NUa3_ZjKq7mAn9g8.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2117284064025772032/vid/avc1/1280x720/LDb61XZVhQhz1y9N.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2117284064025772032/vid/avc1/1920x1080/WdkB7l3f2vGO0BaU.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2117284064025772032/vid/avc1/3840x2160/Ir2RKulro-fYPEch.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 265045
+    }
+   ]
+  },
   {
    "id": "2117278493369135588",
    "author_id": "44196397",

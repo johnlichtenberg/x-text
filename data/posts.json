@@ -1,8 +1,391 @@
 {
- "updated_at": "2026-11-19T12:45:42Z",
- "count": 1755,
+ "updated_at": "2026-11-20T00:58:53Z",
+ "count": 1769,
  "accounts": 12,
  "posts": [
+  {
+   "id": "2123567211768053852",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-20T00:00:51.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2123567211768053852",
+   "kind": "repost",
+   "text": "Today I invited my Grok @bot to some meetings. (I just asked it to join. Simple as that). This is more than just a note taker. You can ask questions based on the conversation, summary, recap, advice, research. Im actually seeing the benefit",
+   "urls": [],
+   "metrics": {
+    "likes": 807,
+    "reposts": 84,
+    "replies": 69,
+    "quotes": 9
+   },
+   "partial": true,
+   "ref": {
+    "id": "2123540123815964810",
+    "author_id": "271871022",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-19T22:13:13.000Z"
+   }
+  },
+  {
+   "id": "2123565895318683695",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T23:55:38.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2123565895318683695",
+   "kind": "repost",
+   "text": "Elon Musk explains why SpaceX catching Starship achieves the \"holy grail of rocketry,\" and can cut the cost of access to space by 100x:\n\nIn 2025, SpaceX launched 2,200 tons to orbit, more than 80% of the global total.\n\nElon Musk's goal with Starship is 1,000,000 tons to orbit per https://t.co/9xoUzm0Rji",
+   "urls": [],
+   "metrics": {
+    "likes": 1688,
+    "reposts": 284,
+    "replies": 102,
+    "quotes": 25
+   },
+   "partial": true,
+   "ref": {
+    "id": "2123553886925664397",
+    "author_id": "1085225533623783424",
+    "username": "KanekoaTheGreat",
+    "name": "KanekoaTheGreat",
+    "created_at": "2026-11-19T23:07:55.000Z"
+   }
+  },
+  {
+   "id": "2123475464043786417",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T17:56:17.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2123475464043786417",
+   "kind": "quote",
+   "text": "You can create an entire company made of Grok Bots! https://t.co/qLl5REpV2h",
+   "urls": [],
+   "metrics": {
+    "likes": 14057,
+    "reposts": 1307,
+    "replies": 2133,
+    "quotes": 203
+   },
+   "partial": true,
+   "ref": {
+    "id": "2123417350234136746",
+    "author_id": "1324183584282939392",
+    "username": "Texas_Twins_Dad",
+    "name": "Texas Twins Dad",
+    "created_at": "2026-11-19T14:05:22.000Z",
+    "text": "I wake up in the morning, and Grok Bot has already opened multiple PRs, run the tests, and merged them. Having Grok Bot is like hiring a team that never sleeps."
+   }
+  },
+  {
+   "id": "2123467827826897089",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T17:25:56.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2123467827826897089",
+   "kind": "repost",
+   "text": "Dario Amodei on SpaceX compute: “We’re finding that compute to be high quality. We’re enjoying working with SpaceX”\n\nSORKIN: “One of the partners that I spoke to yesterday was Elon Musk, and you use him for compute. And there’s been some speculation that when those contracts come https://t.co/yUT8UVWMvg https://t.co/fsHLtfx74Z",
+   "urls": [],
+   "metrics": {
+    "likes": 1979,
+    "reposts": 216,
+    "replies": 74,
+    "quotes": 8
+   },
+   "partial": true,
+   "ref": {
+    "id": "2123458524999307387",
+    "author_id": "2066250685512110080",
+    "username": "firesidealpha",
+    "name": "Fireside Alpha",
+    "created_at": "2026-11-19T16:48:58.000Z"
+   }
+  },
+  {
+   "id": "2123465611145544179",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T17:17:08.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2123465611145544179",
+   "kind": "repost",
+   "text": "Haven't tried Grok Bot making a phone call yet? Watch this, then give it a try. Live transcripts is a seriously useful tool.\n https://t.co/rsR4i5SH4r",
+   "urls": [],
+   "metrics": {
+    "likes": 906,
+    "reposts": 120,
+    "replies": 74,
+    "quotes": 8
+   },
+   "partial": true,
+   "ref": {
+    "id": "2123450561509138521",
+    "author_id": "1324183584282939392",
+    "username": "Texas_Twins_Dad",
+    "name": "Texas Twins Dad",
+    "created_at": "2026-11-19T16:17:20.000Z"
+   }
+  },
+  {
+   "id": "2123462926375821793",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T17:06:28.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2123462926375821793",
+   "kind": "repost",
+   "text": "BREAKING: Elon Musk visited Tesla's Giga Shanghai today to personally thank the China and Asia-Pacific teams 🇨🇳\n\nHe flew in from Shenzhen and talked about FSD and Optimus.\n\n\"Let's make the future look like the future.\" – Elon Musk https://t.co/jMjiuT1qlN",
+   "urls": [],
+   "metrics": {
+    "likes": 16693,
+    "reposts": 2096,
+    "replies": 530,
+    "quotes": 125
+   },
+   "partial": true,
+   "ref": {
+    "id": "2123410726111134071",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-19T13:39:02.000Z"
+   }
+  },
+  {
+   "id": "2123462109359132941",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T17:03:13.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2123462109359132941",
+   "kind": "repost",
+   "text": "People usually see the one deal and think that’s the whole thing, but the ones who know realize that it’s years of work, micro victories and failures stacked on top of one another. It’s really the manifestation of trust. The folks that trusted us, our vision and our thesis, and",
+   "urls": [],
+   "metrics": {
+    "likes": 5793,
+    "reposts": 340,
+    "replies": 392,
+    "quotes": 61
+   },
+   "partial": true,
+   "ref": {
+    "id": "2123444817602748717",
+    "author_id": "19058681",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-19T15:54:30.000Z"
+   }
+  },
+  {
+   "id": "2123461544180683105",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T17:00:58.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2123461544180683105",
+   "reply_to": {
+    "id": "2123146581071593629",
+    "username": "hddndoors"
+   },
+   "kind": "reply",
+   "text": "@hddndoors 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 12296,
+    "reposts": 191,
+    "replies": 375,
+    "quotes": 21
+   },
+   "partial": true
+  },
+  {
+   "id": "2123461388852936747",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T17:00:21.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2123461388852936747",
+   "reply_to": {
+    "id": "2123288418381922493",
+    "username": "profstonge"
+   },
+   "kind": "reply",
+   "text": "@profstonge 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 9107,
+    "reposts": 218,
+    "replies": 343,
+    "quotes": 42
+   },
+   "partial": true
+  },
+  {
+   "id": "2123461205675147509",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T16:59:38.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2123461205675147509",
+   "kind": "repost",
+   "text": "BREAKING: Anthropic CEO Dario Amodei praises SpaceX and says his company is enjoying working with SpaceX.\n\n“We're finding that compute to be high quality. We're enjoying working with SpaceX.” https://t.co/8ZGObMbqGg",
+   "urls": [],
+   "metrics": {
+    "likes": 4507,
+    "reposts": 420,
+    "replies": 162,
+    "quotes": 45
+   },
+   "partial": true,
+   "ref": {
+    "id": "2123454575038677045",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-19T16:33:17.000Z"
+   }
+  },
+  {
+   "id": "2123460320890933281",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T16:56:07.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2123460320890933281",
+   "reply_to": {
+    "id": "2123392520117997749",
+    "username": "zerohedge"
+   },
+   "kind": "reply",
+   "text": "@zerohedge Interesting",
+   "urls": [],
+   "metrics": {
+    "likes": 1653,
+    "reposts": 82,
+    "replies": 168,
+    "quotes": 11
+   },
+   "partial": true
+  },
+  {
+   "id": "2123456016499241207",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T16:39:00.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2123456016499241207",
+   "reply_to": {
+    "id": "2123186840400482424",
+    "username": "Grummz"
+   },
+   "kind": "reply",
+   "text": "@Grummz 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 14194,
+    "reposts": 265,
+    "replies": 329,
+    "quotes": 27
+   },
+   "partial": true
+  },
+  {
+   "id": "2123455680682082645",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T16:37:40.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2123455680682082645",
+   "kind": "repost",
+   "text": "Starlink Mobile is now live in Mongolia! Our complementary layer of coverage enables customers to stay connected on their phones across the country's vast geography from the Gobi Desert to mountains and grassy plains. https://t.co/uh0uW2PQOM",
+   "urls": [],
+   "metrics": {
+    "likes": 1311,
+    "reposts": 156,
+    "replies": 72,
+    "quotes": 7
+   },
+   "partial": true,
+   "ref": {
+    "id": "2123447242249932955",
+    "author_id": "16642547",
+    "username": "SRBednarek",
+    "name": "Stephanie Bednarek",
+    "created_at": "2026-11-19T16:04:08.000Z",
+    "quote": {
+     "id": "2122545422103384397",
+     "author_id": "2846720958",
+     "username": "MobicomOfficial",
+     "name": "mobicom",
+     "created_at": "2026-11-17T04:20:38.000Z",
+     "text": "mobispace — Connecting beyond limits...\n\nMobicom Corporation, in partnership with Starlink Mobile, has officially launched mobispace. @Starlink\n\nMobispace is a new service that uses Starlink’s satellite technology to help users stay connected on their phones in areas where traditional mobile network coverage is unavailable. Coverage works best with a clear view of the sky. (Please note that the  service is not available in areas near the border.)\n\nService features:\nSend and receive SMS messages\nUse data (Access selected apps at limited speeds)\n\nHow to activate?\nActivate the service through the mobispace menu in the mobicom app, or text “space” to 592.\n\n🎁 Activate before December 1 and use the service free for the first month!\n\nPlease note:\nTo use the service, your mobile device must support 4G or above, and Data Roaming must be enabled.\n\n🔗 Learn more: https://www.mobicom.mn/service/r7bu306ve7bq2fvjy3nt842e\n\n📍 Darkhad Valley, northwestern Khuvsgul Province",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXTBoKebMAEOO4z.jpg",
+       "width": 3277,
+       "height": 4096
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "2123453686110122414",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-19T16:29:45.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2123453686110122414",
+   "kind": "repost",
+   "text": "🚨 马斯克来上海了！好羡慕上海特斯拉的员工啊！🤣🚀\n\n老马晚上直接从深圳飞到上海，前往特斯拉工厂与中国员工见面，还一起拍了大合照！\n\n哈哈哈哈，这次老马终于站在 C 位了！😂\n\n现场他还分享了一段很有意义的话： https://t.co/eAslOwRw03",
+   "urls": [],
+   "metrics": {
+    "likes": 2337,
+    "reposts": 203,
+    "replies": 169,
+    "quotes": 29
+   },
+   "partial": true,
+   "ref": {
+    "id": "2123424019022299469",
+    "author_id": "2027533690532990980",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-19T14:31:52.000Z"
+   }
+  },
   {
    "id": "2123338817805664576",
    "author_id": "44196397",
@@ -66169,8 +66552,9 @@
   }
  ],
  "last_run": {
-  "status": "new",
-  "at": "2026-11-19T12:46:39Z",
-  "new_posts": 28
+  "status": "running",
+  "at": "2026-11-20T00:58:54Z",
+  "new_posts": 14,
+  "handle": "elonmusk"
  }
 }

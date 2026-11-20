@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-19T03:46:38Z",
- "count": 12,
+ "updated_at": "2026-11-20T16:23:56Z",
+ "count": 14,
  "users": [
   {
    "id": "2085838061347217408",
@@ -8,8 +8,8 @@
    "name": "Grok Bot",
    "description": "AI teammates that you can give real work to.",
    "verified": true,
-   "followers": 555311,
-   "posts_total": 99417
+   "followers": 557732,
+   "posts_total": 102509
   },
   {
    "id": "44196397",
@@ -17,8 +17,26 @@
    "name": "Elon Musk",
    "description": "https://t.co/ZdBx5WABYx",
    "verified": false,
-   "followers": 240511256,
-   "posts_total": 112442
+   "followers": 240489078,
+   "posts_total": 112508
+  },
+  {
+   "id": "505835394",
+   "username": "ericzakariasson",
+   "name": "eric zakariasson",
+   "description": "tinkering @spacexsi, prev @cursor_ai",
+   "verified": false,
+   "followers": 100643,
+   "posts_total": 7501
+  },
+  {
+   "id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "description": "@bot at @spacexsi (tag me and ill fix it)",
+   "verified": false,
+   "followers": 27631,
+   "posts_total": 9727
   },
   {
    "id": "81712767",
@@ -26,7 +44,7 @@
    "name": "Lee Robinson",
    "description": "Product at SpaceX. Previously Cursor and Vercel/Next.js. Helping build @bot.",
    "verified": false,
-   "followers": 306721,
+   "followers": 307004,
    "posts_total": 16878
   },
   {
@@ -35,8 +53,8 @@
    "name": "matt palmer",
    "description": "cursor & @bot at @spacexsi",
    "verified": false,
-   "followers": 133607,
-   "posts_total": 10889
+   "followers": 133934,
+   "posts_total": 10894
   },
   {
    "id": "2755860644",
@@ -44,7 +62,7 @@
    "name": "Michael Truell",
    "description": "AI Products @SpaceXSI",
    "verified": false,
-   "followers": 235126,
+   "followers": 235104,
    "posts_total": 297
   },
   {
@@ -53,8 +71,8 @@
    "name": "SpaceX",
    "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
    "verified": true,
-   "followers": 41955811,
-   "posts_total": 11996
+   "followers": 41953872,
+   "posts_total": 11998
   },
   {
    "id": "1661523610111193088",
@@ -62,7 +80,7 @@
    "name": "SpaceX Super Intelligence",
    "description": "",
    "verified": true,
-   "followers": 2091153,
+   "followers": 2091311,
    "posts_total": 409
   },
   {
@@ -71,8 +89,8 @@
    "name": "StarbaseTX",
    "description": "Located on the southern tip of Texas, Starbase is the newest city in the Rio Grande Valley",
    "verified": true,
-   "followers": 67045,
-   "posts_total": 79
+   "followers": 67091,
+   "posts_total": 80
   },
   {
    "id": "1330170106501079041",
@@ -80,8 +98,8 @@
    "name": "Starlink",
    "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
    "verified": true,
-   "followers": 1917527,
-   "posts_total": 1181
+   "followers": 1918741,
+   "posts_total": 1182
   },
   {
    "id": "13298072",
@@ -89,8 +107,8 @@
    "name": "Tesla",
    "description": "Electric vehicles, giant batteries & solar, SI & robotics",
    "verified": true,
-   "followers": 24913422,
-   "posts_total": 10710
+   "followers": 24912418,
+   "posts_total": 10714
   },
   {
    "id": "1703837979788128256",
@@ -98,7 +116,7 @@
    "name": "Tesla Recruiting",
    "description": "Hard problems, meaningful work – join us!",
    "verified": true,
-   "followers": 31040,
+   "followers": 31039,
    "posts_total": 50
   },
   {
@@ -107,7 +125,7 @@
    "name": "Tesla Super Intelligence",
    "description": "",
    "verified": true,
-   "followers": 528071,
+   "followers": 528122,
    "posts_total": 264
   }
  ]

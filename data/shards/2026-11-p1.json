@@ -1,7 +1,41 @@
 {
  "id": "2026-11-p1",
- "updated_at": "2026-11-20T16:23:13Z",
+ "updated_at": "2026-11-20T16:23:56Z",
  "posts": [
+  {
+   "id": "2123814401346298037",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-20T16:23:06.000Z",
+   "lang": "en",
+   "conversation_id": "2123814401346298037",
+   "url": "https://x.com/elonmusk/status/2123814401346298037",
+   "kind": "repost",
+   "text": "Morgan Stanley: SpaceX\n\nMorgan Stanley's latest report indicates that a single fully loaded Starship launch could generate approximately $400 million in annualized revenue for Starlink, with a revenue payback period of about 13 weeks and an EBIT payback period of about 19 weeks, surpassing even the profitability efficiency of the emerging neocloud business.\n\nThis calculation is based on each Starship carrying 50 Starlink V3 satellites, with each satellite generating approximately $8 million in annualized incremental revenue. Assuming a variable cost of about $100 million per launch by 2030—comprising $60 million in launch costs and $40 million in payload costs—the payback period for Starship investments would be quite substantial.\n\n$SPCX",
+   "urls": [],
+   "metrics": {
+    "likes": 342,
+    "reposts": 67,
+    "replies": 21,
+    "quotes": 7
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXiUAHDXwAA7x9C.jpg",
+     "width": 1200,
+     "height": 625
+    }
+   ],
+   "ref": {
+    "id": "2123778402289144240",
+    "author_id": "1650268779786452992",
+    "username": "pequityresearch",
+    "name": "P Equity Research 📰",
+    "created_at": "2026-11-20T14:00:03.000Z"
+   }
+  },
   {
    "id": "2123813520244605100",
    "author_id": "44196397",
@@ -15,10 +49,10 @@
    "text": "𝕏 is the global town square",
    "urls": [],
    "metrics": {
-    "likes": 827,
-    "reposts": 102,
-    "replies": 211,
-    "quotes": 12
+    "likes": 970,
+    "reposts": 116,
+    "replies": 254,
+    "quotes": 16
    },
    "ref": {
     "id": "2123605506799595620",
@@ -42,11 +76,53 @@
    "text": "Starlink just secured another major spectrum expansion in Brazil, and the authorization is now OFFICIAL 🇧🇷\n\nBrazil's telecom regulator Anatel published Act No. 14,179 on November 19, formally adding new radio-frequency bands to Starlink's existing satellite authorization\n\nHere's what was approved:\n\n• 5 new uplink frequency sub-bands\n• 4 new downlink frequency sub-bands\n• Additional spectrum across Ku, Ka and Q/V bands\n• Authorization covering ALL of Brazil\n• Non-exclusive use for the remaining term of Starlink's existing authorization\n• Approved by Anatel's board in October and formally published November 19\n\nThe authorization is held by Space Exploration Holdings, with Starlink Brazil Holding serving as its local representative\n\nThese additional frequencies are an important part of expanding Starlink's satellite communications capacity and supporting its next-generation network\n\nAnd with Starlink V3 satellites bringing dramatically more bandwidth per satellite, securing additional spectrum is very important\n\nBrazil is already a major market for Starlink, and SpaceX is continuing to build the regulatory foundation for its future expansion\n\nStep by step, Starlink is securing the infrastructure and spectrum needed to keep scaling across Brazil",
    "urls": [],
    "metrics": {
-    "likes": 855,
-    "reposts": 136,
-    "replies": 73,
-    "quotes": 23
+    "likes": 885,
+    "reposts": 139,
+    "replies": 76,
+    "quotes": 24
    },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123696229561540608/vid/avc1/3456x2160/4diFX2AinwseQpFM.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123696229561540608/img/VI_04MjsSw8P4cs9.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123696229561540608/vid/avc1/432x270/XOS0GJ2Qp-nHCH8H.mp4",
+       "w": 432,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123696229561540608/vid/avc1/576x360/SDUrLMFrPzGihF-q.mp4",
+       "w": 576,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123696229561540608/vid/avc1/1152x720/jD4M3xCmRv4Fz6pf.mp4",
+       "w": 1152,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123696229561540608/vid/avc1/1728x1080/QUKNUsTupdTqQni-.mp4",
+       "w": 1728,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123696229561540608/vid/avc1/3456x2160/4diFX2AinwseQpFM.mp4",
+       "w": 3456,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3456,
+     "height": 2160,
+     "duration_ms": 15018
+    }
+   ],
    "ref": {
     "id": "2123696355554316764",
     "author_id": "1818311005698678784",
@@ -68,8 +144,8 @@
    "text": "Members of the Starship production team with Starship 42 before its launch",
    "urls": [],
    "metrics": {
-    "likes": 2677,
-    "reposts": 317,
+    "likes": 2736,
+    "reposts": 319,
     "replies": 165,
     "quotes": 37
    },
@@ -79,6 +155,12 @@
      "url": "https://pbs.twimg.com/media/HXlJcyAXcAABal7.jpg",
      "width": 2731,
      "height": 4096
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlJeEtWQAAyCHO.jpg",
+     "width": 4096,
+     "height": 2731
     }
    ],
    "ref": {
@@ -102,11 +184,19 @@
    "text": "Back in 2019, Elon Musk stood on an empty field in Shanghai and broke ground on Tesla’s first factory in China\n\nLess than a year later, the first China-made Model 3s were being delivered\n\nThen in January 2020, Elon returned to launch the Model Y program and celebrated with the team on stage\n\nFast forward to 2026\n\nGiga Shanghai has become one of the most important factories in Tesla’s entire global operation\n\n• 851,732 vehicles produced for wholesale in 2025\n• 810,889 already through October 2026\n• 95% of last year’s entire volume in just 10 months\n• +21.4% YoY through October\n• 420,984 vehicles exported through October\n• Exports up more than 100% YoY\n• More than half of Shanghai’s 2026 wholesale volume now going overseas\n• Tesla’s biggest global export hub\n\nAnd on November 19, Elon returned to Shanghai again to personally thank Tesla’s China and APAC teams\n\nFrom an empty construction site in 2019…\n\nTo hundreds of thousands of vehicles every year, supplying markets around the world\n\nGiga Shanghai is one of the clearest examples of how quickly Tesla can turn an empty field into global industrial infrastructure",
    "urls": [],
    "metrics": {
-    "likes": 668,
+    "likes": 690,
     "reposts": 116,
     "replies": 65,
-    "quotes": 3
+    "quotes": 4
    },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXjKSVEbUAAg-RG.jpg",
+     "width": 3000,
+     "height": 2400
+    }
+   ],
    "ref": {
     "id": "2123669662768812123",
     "author_id": "1818311005698678784",
@@ -114,6 +204,39 @@
     "name": "X Freeze",
     "created_at": "2026-11-20T06:47:58.000Z"
    }
+  },
+  {
+   "id": "2123809508187078839",
+   "author_id": "34743251",
+   "username": "SpaceX",
+   "name": "SpaceX",
+   "created_at": "2026-11-20T16:03:39.000Z",
+   "lang": "en",
+   "conversation_id": "2123809508187078839",
+   "url": "https://x.com/SpaceX/status/2123809508187078839",
+   "kind": "post",
+   "text": "Members of the Starship production team with Starship 42 before its launch",
+   "urls": [],
+   "metrics": {
+    "likes": 2736,
+    "reposts": 319,
+    "replies": 165,
+    "quotes": 37
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlJcyAXcAABal7.jpg",
+     "width": 2731,
+     "height": 4096
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlJeEtWQAAyCHO.jpg",
+     "width": 4096,
+     "height": 2731
+    }
+   ]
   },
   {
    "id": "2123808936562442708",
@@ -132,7 +255,7 @@
    "text": "@matteosalvinimi @mitgov_it Thank you, much appreciated! 🇮🇹 ❤️",
    "urls": [],
    "metrics": {
-    "likes": 561,
+    "likes": 573,
     "reposts": 45,
     "replies": 64,
     "quotes": 6
@@ -151,8 +274,8 @@
    "text": "Sono orgoglioso di annunciare un’altra importante novità per la mobilità in Italia.\n\nIl @mitgov_it, dopo puntuale verifica tecnica di fattibilità, ha dato il via libera all’omologazione provvisoria del sistema di guida assistita Tesla Assisted Driving, anticipando il processo di riconoscimento comunitario, attualmente in fase di definizione.\n\nUn altro passo avanti verso l’innovazione, la tecnologia e la mobilità del futuro, sempre mettendo al primo posto la sicurezza dei cittadini.",
    "urls": [],
    "metrics": {
-    "likes": 2490,
-    "reposts": 287,
+    "likes": 2499,
+    "reposts": 288,
     "replies": 394,
     "quotes": 64
    },
@@ -181,9 +304,9 @@
    "text": "@cb_doge ?\n\nWe aren’t serving open source models",
    "urls": [],
    "metrics": {
-    "likes": 876,
-    "reposts": 65,
-    "replies": 127,
+    "likes": 891,
+    "reposts": 67,
+    "replies": 128,
     "quotes": 15
    }
   },
@@ -200,9 +323,9 @@
    "text": "This came home from Kindergarten today.\n\nMy work is done here. 🦃 🇺🇸🚀💪",
    "urls": [],
    "metrics": {
-    "likes": 2873,
-    "reposts": 174,
-    "replies": 150,
+    "likes": 2934,
+    "reposts": 179,
+    "replies": 151,
     "quotes": 26
    },
    "media": [
@@ -238,8 +361,8 @@
    "text": "@KTmBoyle ❤️",
    "urls": [],
    "metrics": {
-    "likes": 1213,
-    "reposts": 42,
+    "likes": 1253,
+    "reposts": 43,
     "replies": 146,
     "quotes": 9
    }
@@ -257,7 +380,7 @@
    "text": "Approvata la guida autonoma di Tesla in Italia: è il primo dei grandi Paesi europei ad approvarla. Complimenti al sindaco di Roma Gualtieri, che per primo l'ha provata in città (ci siamo divertiti!), al ministro Salvini per la decisione lungimirante di approvarla al Presidente Meloni per il supporto verso le nuove tecnologie e all'opposizione di Azione di Carlo Calenda per aver fatto proposte costruttive affinché ciò avvenisse. Orgoglio 🇮🇹🇺🇸",
    "urls": [],
    "metrics": {
-    "likes": 3061,
+    "likes": 3062,
     "reposts": 323,
     "replies": 218,
     "quotes": 34
@@ -283,11 +406,19 @@
    "text": "BREAKING: SpaceX provided food, water and mobile Starlink units to emergency crews responding to flooding in Cocoa Beach, Florida.\n\nThe city has publicly thanked SpaceX for supporting its teams as essential staff work around the clock to keep residents safe and essential services running.\n\nWith City Hall closed following heavy rainfall, SpaceX is helping crews stay supplied and connected in the field throughout the response.",
    "urls": [],
    "metrics": {
-    "likes": 6490,
-    "reposts": 1210,
+    "likes": 6497,
+    "reposts": 1212,
     "replies": 296,
     "quotes": 60
    },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXgkZXTbAAEKXZj.jpg",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
    "ref": {
     "id": "2123487251732869558",
     "author_id": "1389913567671975937",
@@ -309,9 +440,9 @@
    "text": "Yes",
    "urls": [],
    "metrics": {
-    "likes": 7024,
+    "likes": 7031,
     "reposts": 635,
-    "replies": 1119,
+    "replies": 1120,
     "quotes": 65
    },
    "ref": {
@@ -320,7 +451,23 @@
     "username": "IterIntellectus",
     "name": "vittorio",
     "created_at": "2026-11-19T16:44:15.000Z",
-    "text": "it's pretty clear that if you want to have any meaningful conversation about tech you have to be on X https://twitter.com/i/status/2123417259456544922"
+    "text": "it's pretty clear that if you want to have any meaningful conversation about tech you have to be on X",
+    "quote": {
+     "id": "2123417259456544922",
+     "author_id": "777600100189081600",
+     "username": "MitcheIl",
+     "name": "Mitchell",
+     "created_at": "2026-11-19T14:05:00.000Z",
+     "text": "The biggest tech companies and the socials they dominate:",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXMDUAzWgAARq-3.jpg",
+       "width": 2001,
+       "height": 2048
+      }
+     ]
+    }
    }
   },
   {
@@ -336,7 +483,7 @@
    "text": "The magnitude of the consumer surplus for AI tools is mind boggling. My Grok subscription has probably already saved (made?) me more money than I am ever likely to spend on it.",
    "urls": [],
    "metrics": {
-    "likes": 1151,
+    "likes": 1152,
     "reposts": 98,
     "replies": 78,
     "quotes": 10
@@ -362,11 +509,19 @@
    "text": "Elon Musk’s Boring Company has signed a 40-year agreement with Nashville International Airport, advancing the Music City Loop connection between the airport and downtown.\n\n• The Boring Company will fully fund construction, operations and maintenance, with no capital investment required from the airport authority.\n\n• All-electric underground rides designed to bypass road traffic and make airport trips faster.\n\n• A planned passenger station just 22 feet from the terminal entrance.\n\n• Approximately $343 million in projected airport revenue over a potential 50-year term, including extensions.\n\n• Two machines already tunneling beneath Nashville, with a third preparing to launch.\n\nA major milestone for The Boring Company, and a step closer to a faster, more convenient airport connection for Nashville.",
    "urls": [],
    "metrics": {
-    "likes": 6689,
+    "likes": 6699,
     "reposts": 1181,
     "replies": 266,
     "quotes": 80
    },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXfPeb4bsAAZvih.jpg",
+     "width": 1638,
+     "height": 2048
+    }
+   ],
    "ref": {
     "id": "2123393880506966264",
     "author_id": "1389913567671975937",
@@ -388,10 +543,10 @@
    "text": "Tesla’s AI, running on our little AI4 computer, can now reach Torment II in Diablo",
    "urls": [],
    "metrics": {
-    "likes": 20849,
-    "reposts": 1194,
-    "replies": 1750,
-    "quotes": 246
+    "likes": 20871,
+    "reposts": 1195,
+    "replies": 1752,
+    "quotes": 242
    }
   },
   {
@@ -430,11 +585,37 @@
    "text": "Great to have Elon at Giga Shanghai!\n\nDuring his brief visit to China, Elon made a special stop to thank our teams across Asia in person. Our Giga Shanghai team had a little something for him, too — a special gift designed and crafted by the team right here at the factory, using leftover materials from production.\n\nThe energy on the floor was unmistakable. From the latest progress in superintelligence to the team’s achievements, there was plenty to celebrate — and even more to look forward to.\n\nLet’s make the future look like the future. 🚀",
    "urls": [],
    "metrics": {
-    "likes": 4124,
-    "reposts": 396,
+    "likes": 4132,
+    "reposts": 397,
     "replies": 179,
     "quotes": 42
    },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXjOnonbwAAU_Rf.jpg",
+     "width": 4000,
+     "height": 2667
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXjOnosbYAAQ7SD.jpg",
+     "width": 4000,
+     "height": 2667
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXjOnohbQAAXB6M.jpg",
+     "width": 4096,
+     "height": 2304
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXjOnomaQAEiGIw.jpg",
+     "width": 4096,
+     "height": 2731
+    }
+   ],
    "ref": {
     "id": "2123674470351310910",
     "author_id": "1201427034754318337",
@@ -456,9 +637,9 @@
    "text": "This is not AI 😂",
    "urls": [],
    "metrics": {
-    "likes": 42978,
-    "reposts": 3310,
-    "replies": 5201,
+    "likes": 43026,
+    "reposts": 3312,
+    "replies": 5206,
     "quotes": 382
    },
    "ref": {
@@ -467,7 +648,43 @@
     "username": "XFreeze",
     "name": "X Freeze",
     "created_at": "2026-11-19T15:32:07.000Z",
-    "text": "Back in January 2020, Elon Musk celebrated with the Tesla China team by dancing on stage at Giga Shanghai\n\nTesla had just started delivering its first China-made Model 3s to customers, only 357 days after construction began\n\nElon personally thanked the team for their incredible hard work and kicked off the Model Y program in China\n\nOne of the most iconic and unforgettable moments from Tesla's early days in Shanghai....and that dance is still hilarious to watch 🥰"
+    "text": "Back in January 2020, Elon Musk celebrated with the Tesla China team by dancing on stage at Giga Shanghai\n\nTesla had just started delivering its first China-made Model 3s to customers, only 357 days after construction began\n\nElon personally thanked the team for their incredible hard work and kicked off the Model Y program in China\n\nOne of the most iconic and unforgettable moments from Tesla's early days in Shanghai....and that dance is still hilarious to watch 🥰",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2123438982054936576/vid/avc1/1080x1080/paumj-OTD5iwkuFQ.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123438982054936576/img/rJyvhOLbP_2S8j4R.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2123438982054936576/vid/avc1/320x320/alTIlLSyv0hi6wqm.mp4",
+        "w": 320,
+        "h": 320,
+        "br": 432000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123438982054936576/vid/avc1/540x540/wxdbjCsPLQ4G2n_n.mp4",
+        "w": 540,
+        "h": 540,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123438982054936576/vid/avc1/720x720/gcFFrcIr9lDU_Kg8.mp4",
+        "w": 720,
+        "h": 720,
+        "br": 1280000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123438982054936576/vid/avc1/1080x1080/paumj-OTD5iwkuFQ.mp4",
+        "w": 1080,
+        "h": 1080,
+        "br": 8768000
+       }
+      ],
+      "width": 1080,
+      "height": 1080,
+      "duration_ms": 82477
+     }
+    ]
    }
   },
   {
@@ -483,7 +700,7 @@
    "text": "In retrospect, barely needing to drive came long before barely needing to code, a testament to Tesla engineering.\n\n10/10 was two years ago (Sonnet 3.5), and the Robotaxi service (Opus 4) began last year.\n\nBut I couldn’t remember the last time I needed to babysit the steering wheel.",
    "urls": [],
    "metrics": {
-    "likes": 2324,
+    "likes": 2325,
     "reposts": 199,
     "replies": 111,
     "quotes": 16
@@ -513,7 +730,7 @@
    "text": "@fermatslibrary Better to build colonies on a substrate, like the Moon or Mars, but this will be one of the later approaches",
    "urls": [],
    "metrics": {
-    "likes": 6435,
+    "likes": 6436,
     "reposts": 566,
     "replies": 606,
     "quotes": 58
@@ -534,7 +751,7 @@
     "http://x.com/SpaceX/status/2121629958036492590"
    ],
    "metrics": {
-    "likes": 11715,
+    "likes": 11717,
     "reposts": 1190,
     "replies": 388,
     "quotes": 125
@@ -611,7 +828,7 @@
    "text": "The Boring Company and Metropolitan Nashville Airport Authority have signed a 40-year agreement for a Music City Loop station. Great user experience - less than 10 minutes from downtown to a station located 22 feet from the terminal entrance.\n\nThanks so much to @Fly_Nashville for the great partnership.",
    "urls": [],
    "metrics": {
-    "likes": 3945,
+    "likes": 3947,
     "reposts": 405,
     "replies": 161,
     "quotes": 43
@@ -628,7 +845,15 @@
      "username": "cb_doge",
      "name": "DogeDesigner",
      "created_at": "2026-11-19T12:32:06.000Z",
-     "text": "Elon Musk’s Boring Company has signed a 40-year agreement with Nashville International Airport, advancing the Music City Loop connection between the airport and downtown.\n\n• The Boring Company will fully fund construction, operations and maintenance, with no capital investment required from the airport authority.\n\n• All-electric underground rides designed to bypass road traffic and make airport trips faster.\n\n• A planned passenger station just 22 feet from the terminal entrance.\n\n• Approximately $343 million in projected airport revenue over a potential 50-year term, including extensions.\n\n• Two machines already tunneling beneath Nashville, with a third preparing to launch.\n\nA major milestone for The Boring Company, and a step closer to a faster, more convenient airport connection for Nashville."
+     "text": "Elon Musk’s Boring Company has signed a 40-year agreement with Nashville International Airport, advancing the Music City Loop connection between the airport and downtown.\n\n• The Boring Company will fully fund construction, operations and maintenance, with no capital investment required from the airport authority.\n\n• All-electric underground rides designed to bypass road traffic and make airport trips faster.\n\n• A planned passenger station just 22 feet from the terminal entrance.\n\n• Approximately $343 million in projected airport revenue over a potential 50-year term, including extensions.\n\n• Two machines already tunneling beneath Nashville, with a third preparing to launch.\n\nA major milestone for The Boring Company, and a step closer to a faster, more convenient airport connection for Nashville.",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXfPeb4bsAAZvih.jpg",
+       "width": 1638,
+       "height": 2048
+      }
+     ]
     }
    }
   },
@@ -16057,69 +16282,6 @@
     "replies": 386,
     "quotes": 31
    }
-  },
-  {
-   "id": "2122155781785346141",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-16T02:32:20.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2122155781785346141",
-   "kind": "repost",
-   "text": "Morgan Stanley’s Adam Jonas on @SpaceX successfully catching Starship on flight 15:\n\n“In our view, Flight 15 is a historic inflection moment for the company and spaceflight as a whole. SpaceX has recovered three Starship + many hundreds of Falcon 9 boosters in its history, and now others have accomplished the same. However, no entity has ever even attempted to recover a rocket upper stage in history (not counting Space Shuttle) given the intense thermal and mechanical stress of orbital re-entry.\n\nWith an upper stage now recovered intact, SpaceX can conduct a deep inspection of Ship 42 and use the findings to improve future vehicles in a way that was never previously possible. We believe it also helps clear the path to ramping full reuse of both booster and ship, the last major technical milestone before weekly or even daily Starship flights become realistic.\n\nWith a ship catch, SpaceX has materially de-risked the longer-term TAMs across all 3 of its segments.”",
-   "urls": [],
-   "metrics": {
-    "likes": 1723,
-    "reposts": 218,
-    "replies": 99,
-    "quotes": 19
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXNkrvzXwAEUBQy.jpg",
-     "width": 398,
-     "height": 535
-    }
-   ],
-   "ref": {
-    "id": "2122150555078234620",
-    "author_id": "243013409",
-    "username": "SawyerMerritt",
-    "name": "Sawyer Merritt",
-    "created_at": "2026-11-16T02:11:34.000Z"
-   }
-  },
-  {
-   "id": "2122155440788099394",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-16T02:30:59.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2122155440788099394",
-   "kind": "post",
-   "text": "Robotaxi life is a hard life. Tesla team empathizes with this guy. https://t.co/HE6NoyNv0r",
-   "urls": [],
-   "metrics": {
-    "likes": 4657,
-    "reposts": 333,
-    "replies": 675,
-    "quotes": 49
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXNpH_gWoAASpaN.jpg",
-     "width": 2048,
-     "height": 1150
-    }
-   ]
   }
  ]
 }

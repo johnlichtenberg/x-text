@@ -1,7 +1,70 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-20T16:23:13Z",
+ "updated_at": "2026-11-20T16:23:56Z",
  "posts": [
+  {
+   "id": "2122155781785346141",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T02:32:20.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122155781785346141",
+   "kind": "repost",
+   "text": "Morgan Stanley’s Adam Jonas on @SpaceX successfully catching Starship on flight 15:\n\n“In our view, Flight 15 is a historic inflection moment for the company and spaceflight as a whole. SpaceX has recovered three Starship + many hundreds of Falcon 9 boosters in its history, and now others have accomplished the same. However, no entity has ever even attempted to recover a rocket upper stage in history (not counting Space Shuttle) given the intense thermal and mechanical stress of orbital re-entry.\n\nWith an upper stage now recovered intact, SpaceX can conduct a deep inspection of Ship 42 and use the findings to improve future vehicles in a way that was never previously possible. We believe it also helps clear the path to ramping full reuse of both booster and ship, the last major technical milestone before weekly or even daily Starship flights become realistic.\n\nWith a ship catch, SpaceX has materially de-risked the longer-term TAMs across all 3 of its segments.”",
+   "urls": [],
+   "metrics": {
+    "likes": 1723,
+    "reposts": 218,
+    "replies": 99,
+    "quotes": 19
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXNkrvzXwAEUBQy.jpg",
+     "width": 398,
+     "height": 535
+    }
+   ],
+   "ref": {
+    "id": "2122150555078234620",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-16T02:11:34.000Z"
+   }
+  },
+  {
+   "id": "2122155440788099394",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-16T02:30:59.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122155440788099394",
+   "kind": "post",
+   "text": "Robotaxi life is a hard life. Tesla team empathizes with this guy. https://t.co/HE6NoyNv0r",
+   "urls": [],
+   "metrics": {
+    "likes": 4657,
+    "reposts": 333,
+    "replies": 675,
+    "quotes": 49
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXNpH_gWoAASpaN.jpg",
+     "width": 2048,
+     "height": 1150
+    }
+   ]
+  },
   {
    "id": "2122147239573295564",
    "author_id": "44196397",
@@ -16363,133 +16426,6 @@
     "username": "SpaceX",
     "name": "SpaceX",
     "created_at": "2026-11-12T16:09:52.000Z"
-   }
-  },
-  {
-   "id": "2120919383572984044",
-   "author_id": "1917716982465716227",
-   "username": "StarbaseTX",
-   "name": "StarbaseTX",
-   "created_at": "2026-11-12T16:39:20.000Z",
-   "lang": "en",
-   "conversation_id": "2120919383572984044",
-   "url": "https://x.com/StarbaseTX/status/2120919383572984044",
-   "kind": "repost",
-   "text": "SpaceX builds the infrastructure of the future. And we’re committed to making sure the communities where we build share in the benefits → https://spacex.com/updates#building-the-future",
-   "urls": [
-    "https://spacex.com/updates#building-the-future"
-   ],
-   "metrics": {
-    "likes": 7340,
-    "reposts": 792,
-    "replies": 293,
-    "quotes": 104
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/1920x1080/sECpn3JMW3Gsjb_N.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120911444208189440/img/uD7jY3T9oXVnglYZ.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/480x270/XVQSiyRsi8D1UOG6.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/640x360/WHhockHvjpIGSfQJ.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/1280x720/X9wJ7FQL0GCBepXw.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/1920x1080/sECpn3JMW3Gsjb_N.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 18059
-    }
-   ],
-   "ref": {
-    "id": "2120911599749697879",
-    "author_id": "34743251",
-    "username": "SpaceX",
-    "name": "SpaceX",
-    "created_at": "2026-11-12T16:08:24.000Z"
-   }
-  },
-  {
-   "id": "2120912138772369758",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-12T16:10:33.000Z",
-   "lang": "en",
-   "conversation_id": "2120912138772369758",
-   "url": "https://x.com/elonmusk/status/2120912138772369758",
-   "kind": "quote",
-   "text": "SpaceX community benefits",
-   "urls": [],
-   "metrics": {
-    "likes": 18340,
-    "reposts": 2276,
-    "replies": 2006,
-    "quotes": 154
-   },
-   "ref": {
-    "id": "2120911599749697879",
-    "author_id": "34743251",
-    "username": "SpaceX",
-    "name": "SpaceX",
-    "created_at": "2026-11-12T16:08:24.000Z",
-    "text": "SpaceX builds the infrastructure of the future. And we’re committed to making sure the communities where we build share in the benefits → https://spacex.com/updates#building-the-future",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/1920x1080/sECpn3JMW3Gsjb_N.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120911444208189440/img/uD7jY3T9oXVnglYZ.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/480x270/XVQSiyRsi8D1UOG6.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/640x360/WHhockHvjpIGSfQJ.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/1280x720/X9wJ7FQL0GCBepXw.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2120911444208189440/vid/avc1/1920x1080/sECpn3JMW3Gsjb_N.mp4",
-        "w": 1920,
-        "h": 1080,
-        "br": 10368000
-       }
-      ],
-      "width": 1920,
-      "height": 1080,
-      "duration_ms": 18059
-     }
-    ]
    }
   }
  ]

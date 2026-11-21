@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T16:25:34Z",
+ "updated_at": "2026-11-21T15:25:47Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -11428,7 +11428,2541 @@
     ]
    },
    "conversation_id": "2123538445918224762"
+  },
+  {
+   "id": "2124161038790668493",
+   "username": "alexmichael",
+   "name": "Alex",
+   "created_at": "2026-11-21T15:20:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/alexmichael/status/2124161038790668493",
+   "kind": "quote",
+   "text": "Grok Bot is giving small businesses free credits to see how far it can go as an employee\n\nEric says DM him if you want in\n\n@mattyp @ericzakariasson",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124160971828498433/vid/avc1/720x1280/kBqtftxCxdy8r0KI.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124160971828498433/img/bocvNnx-M_qYZAv8.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124160971828498433/vid/avc1/320x568/ZYquO0dCPdHOKQKm.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124160971828498433/vid/avc1/480x852/ETxF9prS1x7HLGpo.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124160971828498433/vid/avc1/720x1280/kBqtftxCxdy8r0KI.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      }
+     ],
+     "width": 720,
+     "height": 1280,
+     "duration_ms": 23500
+    }
+   ],
+   "ref": {
+    "id": "2123930916615573629",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-21T00:06:05.000Z",
+    "text": "Grok Bot Q&A - Travel, 1.0, meetings & more! https://x.com/i/broadcasts/2aWQllRAKjNOBd"
+   },
+   "conversation_id": "2124161038790668493"
+  },
+  {
+   "id": "2123870452368167123",
+   "username": "chamath",
+   "name": "Chamath Palihapitiya",
+   "created_at": "2026-11-20T20:05:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/chamath/status/2123870452368167123",
+   "kind": "quote",
+   "text": "So true",
+   "urls": [],
+   "metrics": {
+    "likes": 6967,
+    "reposts": 178,
+    "replies": 116,
+    "quotes": 10
+   },
+   "ref": {
+    "id": "2123842735719535089",
+    "author_id": "534058408",
+    "username": "ecommerceshares",
+    "name": "Wasteland Capital",
+    "created_at": "2026-11-20T18:15:41.000Z",
+    "text": "$AAPL at $5 trillion, +27% YTD and barely off all time high, watching the AI carnage, while Siri AI takes 12 seconds of thinking to set a timer.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXlntdSWoAACXKX.jpg",
+      "width": 474,
+      "height": 315
+     }
+    ]
+   },
+   "conversation_id": "2123870452368167123"
+  },
+  {
+   "id": "2123876667571519947",
+   "username": "SamuelAlbanie",
+   "name": "Samuel Albanie 🇬🇧",
+   "created_at": "2026-11-20T20:30:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/SamuelAlbanie/status/2123876667571519947",
+   "kind": "post",
+   "text": "has ai progress stalled?\n\ni'm personally not aware of any major breakthroughs since riemann a few hours ago",
+   "urls": [],
+   "metrics": {
+    "likes": 21918,
+    "reposts": 1210,
+    "replies": 313,
+    "quotes": 95
+   },
+   "conversation_id": "2123876667571519947"
+  },
+  {
+   "id": "2123986311963087095",
+   "username": "xenocosmography",
+   "name": "Xenocosmography",
+   "created_at": "2026-11-21T03:46:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/xenocosmography/status/2123986311963087095",
+   "kind": "post",
+   "text": "How are things going with the 'AI Alignment' (aka 'dumb thing rules over smart thing forever') problem?",
+   "urls": [],
+   "metrics": {
+    "likes": 862,
+    "reposts": 62,
+    "replies": 58,
+    "quotes": 13
+   },
+   "conversation_id": "2123986311963087095"
+  },
+  {
+   "id": "2123949893014388933",
+   "username": "nikitabier",
+   "name": "Nikita Bier",
+   "created_at": "2026-11-21T01:21:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/nikitabier/status/2123949893014388933",
+   "kind": "post",
+   "text": "Well, the verdict is out:\n\nAI was a fad this whole time and people will stop using it, just like the internet.\n$NVDA",
+   "urls": [],
+   "metrics": {
+    "likes": 13001,
+    "reposts": 421,
+    "replies": 733,
+    "quotes": 125
+   },
+   "conversation_id": "2123949893014388933"
+  },
+  {
+   "id": "2124050186226032694",
+   "username": "wintonARK",
+   "name": "Brett Winton",
+   "created_at": "2026-11-21T08:00:01.000Z",
+   "lang": "en",
+   "url": "https://x.com/wintonARK/status/2124050186226032694",
+   "kind": "post",
+   "text": "updated starship launch cost estimates",
+   "urls": [],
+   "metrics": {
+    "likes": 1632,
+    "reposts": 114,
+    "replies": 50,
+    "quotes": 19
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXokYcMbwAAkmId.jpg",
+     "width": 2704,
+     "height": 1532
+    }
+   ],
+   "conversation_id": "2124050186226032694"
+  },
+  {
+   "id": "2124023741214839103",
+   "username": "wholemars",
+   "name": "Whole Mars Catalog",
+   "created_at": "2026-11-21T06:14:57.000Z",
+   "lang": "en",
+   "url": "https://x.com/wholemars/status/2124023741214839103",
+   "kind": "post",
+   "text": "holy shit!!!!",
+   "urls": [],
+   "metrics": {
+    "likes": 6309,
+    "reposts": 286,
+    "replies": 404,
+    "quotes": 114
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXoMVg-bQAA7ruX.jpg",
+     "width": 1052,
+     "height": 1377
+    }
+   ],
+   "conversation_id": "2124023741214839103"
+  },
+  {
+   "id": "2124045981733839004",
+   "username": "roger_kappler",
+   "name": "Roger Kappler",
+   "created_at": "2026-11-21T07:43:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/roger_kappler/status/2124045981733839004",
+   "kind": "reply",
+   "text": "@elonmusk Hopefully no more potholes, and ability to park in home garage? That would bring my usage from 98 to 99.x%",
+   "urls": [],
+   "metrics": {
+    "likes": 919,
+    "reposts": 15,
+    "replies": 13,
+    "quotes": 2
+   },
+   "reply_to": {
+    "id": "2124042864891982292",
+    "username": "elonmusk"
+   },
+   "conversation_id": "2124042864891982292"
+  },
+  {
+   "id": "2124043556918903237",
+   "username": "acceler8future",
+   "name": "acceler8future",
+   "created_at": "2026-11-21T07:33:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/acceler8future/status/2124043556918903237",
+   "kind": "reply",
+   "text": "@elonmusk V15 with a holiday update?",
+   "urls": [],
+   "metrics": {
+    "likes": 578,
+    "reposts": 8,
+    "replies": 3,
+    "quotes": 3
+   },
+   "reply_to": {
+    "id": "2124042864891982292",
+    "username": "elonmusk"
+   },
+   "conversation_id": "2124042864891982292"
+  },
+  {
+   "id": "2124043520055099821",
+   "username": "riley_stahura",
+   "name": "Riley",
+   "created_at": "2026-11-21T07:33:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/riley_stahura/status/2124043520055099821",
+   "kind": "reply",
+   "text": "@elonmusk All I need FSD 15 to do is stop refusing to use HOV lane(yes I have passengers) and to stop waiting until the last possible second to get into the right lane to turn/merge(this behavior has changed back and forth)",
+   "urls": [],
+   "metrics": {
+    "likes": 612,
+    "reposts": 10,
+    "replies": 13,
+    "quotes": 1
+   },
+   "reply_to": {
+    "id": "2124042864891982292",
+    "username": "elonmusk"
+   },
+   "conversation_id": "2124042864891982292"
+  },
+  {
+   "id": "2123069165334675742",
+   "username": "willdepue",
+   "name": "will depue",
+   "created_at": "2026-11-18T15:01:48.000Z",
+   "lang": "en",
+   "url": "https://x.com/willdepue/status/2123069165334675742",
+   "kind": "post",
+   "text": "guys we're in the fucking singularity. oh my god. i just forget sometimes and then wake up in the middle of the night like oh my god its all happening",
+   "urls": [],
+   "metrics": {
+    "likes": 4653,
+    "reposts": 252,
+    "replies": 296,
+    "quotes": 57
+   },
+   "conversation_id": "2123069165334675742"
+  },
+  {
+   "id": "2124019220300374155",
+   "username": "cradrrat",
+   "name": "cradrrat",
+   "created_at": "2026-11-21T05:56:59.000Z",
+   "lang": "en",
+   "url": "https://x.com/cradrrat/status/2124019220300374155",
+   "kind": "reply",
+   "text": "@larsencc And also - VS Code - ewww lol",
+   "urls": [],
+   "metrics": {
+    "likes": 10,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124018063708430538",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124018063708430538"
+  },
+  {
+   "id": "2124019152000286786",
+   "username": "cradrrat",
+   "name": "cradrrat",
+   "created_at": "2026-11-21T05:56:42.000Z",
+   "lang": "en",
+   "url": "https://x.com/cradrrat/status/2124019152000286786",
+   "kind": "reply",
+   "text": "@larsencc God damn this is THE best gif I have seen in a long time!",
+   "urls": [],
+   "metrics": {
+    "likes": 17,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124018063708430538",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124018063708430538"
+  },
+  {
+   "id": "2123996692932657264",
+   "username": "thecsguy",
+   "name": "nick",
+   "created_at": "2026-11-21T04:27:28.000Z",
+   "lang": "en",
+   "url": "https://x.com/thecsguy/status/2123996692932657264",
+   "kind": "reply",
+   "text": "@larsencc @bot Me too!!! One of the first bot templates I published",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123995606402343419",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123995606402343419"
+  },
+  {
+   "id": "2123859157208248430",
+   "username": "akothari",
+   "name": "Akshay Kothari",
+   "created_at": "2026-11-20T19:20:57.000Z",
+   "lang": "zxx",
+   "url": "https://x.com/akothari/status/2123859157208248430",
+   "kind": "post",
+   "text": "https://notion.com/nsfw",
+   "urls": [
+    "https://notion.com/nsfw"
+   ],
+   "metrics": {
+    "likes": 8381,
+    "reposts": 449,
+    "replies": 263,
+    "quotes": 209
+   },
+   "conversation_id": "2123859157208248430"
+  },
+  {
+   "id": "2123919519114531275",
+   "username": "JonasBadalic",
+   "name": "Jonas",
+   "created_at": "2026-11-20T23:20:48.000Z",
+   "lang": "en",
+   "url": "https://x.com/JonasBadalic/status/2123919519114531275",
+   "kind": "post",
+   "text": "test",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 4,
+    "quotes": 0
+   },
+   "conversation_id": "2123919519114531275"
+  },
+  {
+   "id": "2123968952351289585",
+   "username": "JonasBadalic",
+   "name": "Jonas",
+   "created_at": "2026-11-21T02:37:14.000Z",
+   "lang": "en",
+   "url": "https://x.com/JonasBadalic/status/2123968952351289585",
+   "kind": "post",
+   "text": "“Lets make sure your ambitions match your skillset”",
+   "urls": [],
+   "metrics": {
+    "likes": 9,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 1
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXnagYbbsAAXhCj.jpg",
+     "width": 795,
+     "height": 511
+    }
+   ],
+   "conversation_id": "2123968952351289585"
+  },
+  {
+   "id": "2123968011304325611",
+   "username": "tinrab",
+   "name": "Tin Rabzelj",
+   "created_at": "2026-11-21T02:33:29.000Z",
+   "lang": "en",
+   "url": "https://x.com/tinrab/status/2123968011304325611",
+   "kind": "reply",
+   "text": "@larsencc That is crazy to say and before opus 5.5 I'd say that it's dumb, but ...",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123960435376623827",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123960435376623827"
+  },
+  {
+   "id": "2123965130035834882",
+   "username": "MistahLee",
+   "name": "Lee Macdonald",
+   "created_at": "2026-11-21T02:22:03.000Z",
+   "lang": "en",
+   "url": "https://x.com/MistahLee/status/2123965130035834882",
+   "kind": "reply",
+   "text": "@larsencc The idea that a PR protects your codebase is insanity.",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123960435376623827",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123960435376623827"
+  },
+  {
+   "id": "2123949060361183451",
+   "username": "derekmeegan",
+   "name": "derek",
+   "created_at": "2026-11-21T01:18:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/derekmeegan/status/2123949060361183451",
+   "kind": "post",
+   "text": "today was my last day at browserbase.\n\nthe past year and a half has been the most rewarding stretch of my career. it's been a privilege to work with such talented people and build genuine friendships along the way.\n\nmost of all, thank you to @pk_iv. paul took a bet on me, and built an awesome environment for so many to grow and succeed. thank you 🙏🏻\n\nexcited to share what's next soon 😁",
+   "urls": [],
+   "metrics": {
+    "likes": 115,
+    "reposts": 2,
+    "replies": 24,
+    "quotes": 1
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXnBc7EbcAA7RhT.jpg",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXnBc7CawAAQ8b0.jpg",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXnBc8WasAALVo_.jpg",
+     "width": 2048,
+     "height": 1367
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXnBc7BboAABNBp.jpg",
+     "width": 2048,
+     "height": 1536
+    }
+   ],
+   "conversation_id": "2123949060361183451"
+  },
+  {
+   "id": "2123876457273540649",
+   "username": "stemonte",
+   "name": "stemonte",
+   "created_at": "2026-11-20T20:29:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/stemonte/status/2123876457273540649",
+   "kind": "quote",
+   "text": "I'm still paying my claude subs with money made by posting on here.\n\nCrazy.",
+   "urls": [],
+   "metrics": {
+    "likes": 8,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXmGIS8W8AAFrA-.jpg",
+     "width": 1044,
+     "height": 1113
+    }
+   ],
+   "ref": {
+    "id": "2123704873317175487",
+    "author_id": "314782533",
+    "username": "stemonte",
+    "name": "stemonte",
+    "created_at": "2026-11-20T09:07:52.000Z",
+    "text": "\"Payouts are not related to verified views\"\n\nThat's what X said, but it looks like there is some correlation.\n\nThis time i should get something between 100 and 120 (but i could also get way less, since more of those verified views come from a few good replies).\n\nAnyway, it will be my 6th payout, but it still feels so strange to get paid to write on social media...",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXjpVlvWgAAiwcK.jpg",
+      "width": 1047,
+      "height": 883
+     }
+    ]
+   },
+   "conversation_id": "2123876457273540649"
+  },
+  {
+   "id": "2123868681218424887",
+   "username": "beniduboss",
+   "name": "Beni",
+   "created_at": "2026-11-20T19:58:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/beniduboss/status/2123868681218424887",
+   "kind": "post",
+   "text": "Holy fucking shit\n\nThis is my first X payout\n\nBro this is for 2 weeks of posting wtf\n\nOne of you is going to get a 3000$ airdrop lol",
+   "urls": [],
+   "metrics": {
+    "likes": 853,
+    "reposts": 16,
+    "replies": 272,
+    "quotes": 7
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXl_Sy9WEAA1h3Z.jpg",
+     "width": 1320,
+     "height": 1343
+    }
+   ],
+   "conversation_id": "2123868681218424887"
+  },
+  {
+   "id": "2123795046033916049",
+   "username": "SkrabaAndrej",
+   "name": "Andrej P. Skraba",
+   "created_at": "2026-11-20T15:06:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/SkrabaAndrej/status/2123795046033916049",
+   "kind": "quote",
+   "text": "@Astra__AI token usage 🤓",
+   "urls": [],
+   "metrics": {
+    "likes": 19,
+    "reposts": 2,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXk8FrkWAAAr6kP.jpg",
+     "width": 1280,
+     "height": 1280
+    }
+   ],
+   "ref": {
+    "id": "2123791954114920729",
+    "author_id": "178020526",
+    "username": "klemenselakovic",
+    "name": "Klemen Selakovic",
+    "created_at": "2026-11-20T14:53:54.000Z",
+    "text": "We are one of the biggest consumers of AI tokens in the world, consuming +3 TRILLION tokens per month.\n\nWe are model and company agnostic which is extremly important for us as if we would spend all those tokens on a model like $ANT’s Fable 5.2. or total yearly cost would be over $400M.\n\nHaving multiple models and multiple AI model providers is one of the key things for the AI application layer."
+   },
+   "conversation_id": "2123795046033916049"
+  },
+  {
+   "id": "2123899740345848211",
+   "username": "DaniMansour",
+   "name": "Daniel Mansour",
+   "created_at": "2026-11-20T22:02:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/DaniMansour/status/2123899740345848211",
+   "kind": "reply",
+   "text": "@larsencc @bot I like the part how you guys created bots with really cool features but you want us to use them less",
+   "urls": [],
+   "metrics": {
+    "likes": 46,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123896818690109946",
+   "username": "mp3461",
+   "name": "Calvin / カルビン",
+   "created_at": "2026-11-20T21:50:36.000Z",
+   "lang": "en",
+   "url": "https://x.com/mp3461/status/2123896818690109946",
+   "kind": "reply",
+   "text": "@larsencc @bot Hello. I'm reporting another bug on the android grok bot app. When listening to a phone call recording, I attempt to scroll through the call using the slider on the bottom and the time has major stuttering, then when I stop scrolling it plays back from a totally different spot.",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123896753758109696/vid/avc1/886x1920/rdbseweO4CHXiIql.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123896753758109696/img/Gkviz5k2t4SaqqDx.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123896753758109696/vid/avc1/320x692/Yg9ST8woIf47R5p1.mp4",
+       "w": 320,
+       "h": 692,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123896753758109696/vid/avc1/480x1040/xAczHmnCAwcz1p8N.mp4",
+       "w": 480,
+       "h": 1040,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123896753758109696/vid/avc1/720x1560/d1nroSqdVEKoQdKk.mp4",
+       "w": 720,
+       "h": 1560,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123896753758109696/vid/avc1/886x1920/rdbseweO4CHXiIql.mp4",
+       "w": 886,
+       "h": 1920,
+       "br": 10368000
+      }
+     ],
+     "width": 886,
+     "height": 1920,
+     "duration_ms": 34391
+    }
+   ],
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123893207297606116",
+   "username": "BiancaBellChamb",
+   "name": "Bianca Bell-Chambers",
+   "created_at": "2026-11-20T21:36:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/BiancaBellChamb/status/2123893207297606116",
+   "kind": "reply",
+   "text": "@larsencc @bot Bots ignoring rules, acting confused, AI amnesia. Didn’t have this happened before the contract integration with X-subscription.",
+   "urls": [],
+   "metrics": {
+    "likes": 76,
+    "reposts": 1,
+    "replies": 5,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123898557451399383",
+   "username": "mbguercio",
+   "name": "Michael Brandon Guercio",
+   "created_at": "2026-11-20T21:57:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/mbguercio/status/2123898557451399383",
+   "kind": "reply",
+   "text": "@larsencc @bot I caught mine searching Gmail when not prompted. 🧐😳",
+   "urls": [],
+   "metrics": {
+    "likes": 8,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXmaezWbcAA2Zve.jpg",
+     "width": 1536,
+     "height": 2048
+    }
+   ],
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123919785008533769",
+   "username": "jpenning0",
+   "name": "James Penning",
+   "created_at": "2026-11-20T23:21:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/jpenning0/status/2123919785008533769",
+   "kind": "reply",
+   "text": "@larsencc @bot I was gonna ask, but I’ve already hit the limit!",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXmtyZGWkAApkP_.jpg",
+     "width": 1206,
+     "height": 1631
+    }
+   ],
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123930997888852196",
+   "username": "AngeloArge",
+   "name": "Angelo Argentieri",
+   "created_at": "2026-11-21T00:06:25.000Z",
+   "lang": "en",
+   "url": "https://x.com/AngeloArge/status/2123930997888852196",
+   "kind": "reply",
+   "text": "@larsencc @bot I use my Grok @bot all day everyday on Ultra. Never have come close to a weekly limit once.",
+   "urls": [],
+   "metrics": {
+    "likes": 6,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123906258067689582",
+   "username": "Red_Pill_Vet",
+   "name": "Red_Pill_Vet",
+   "created_at": "2026-11-20T22:28:06.000Z",
+   "lang": "en",
+   "url": "https://x.com/Red_Pill_Vet/status/2123906258067689582",
+   "kind": "reply",
+   "text": "@larsencc @bot For some reason when you copy post links the Bot can’t see the entire post anymore",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123915582668161433",
+   "username": "immaevolve",
+   "name": "Jenna",
+   "created_at": "2026-11-20T23:05:10.000Z",
+   "lang": "en",
+   "url": "https://x.com/immaevolve/status/2123915582668161433",
+   "kind": "reply",
+   "text": "@larsencc @bot I love my bots, they are perfect. keep up the great work.",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123907791727329771",
+   "username": "VintageSignShop",
+   "name": "Scott",
+   "created_at": "2026-11-20T22:34:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/VintageSignShop/status/2123907791727329771",
+   "kind": "reply",
+   "text": "@larsencc @bot Burns even faster when they make about 20 big mistakes a day and you have to undo all these commands. @bot @elonmusk I went through almost all my usage for the week on some crazy tangent the bot went on. Very unsafe for big corporations! Yikes!",
+   "urls": [],
+   "metrics": {
+    "likes": 18,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123919034555236426",
+   "username": "CodyAlanAllred",
+   "name": "Cody Allred",
+   "created_at": "2026-11-20T23:18:53.000Z",
+   "lang": "en",
+   "url": "https://x.com/CodyAlanAllred/status/2123919034555236426",
+   "kind": "reply",
+   "text": "I'm *only* on premium but I burn through my usage in just a couple hours every week. It's pretty ridiculous! I want to keep using it but it is just not economical or feasible.\n\nI've been forced to try out Muse and the amount of usage you get there is night and day (even on the free plan).\n\nI would love to continue paying for, and using grok bot but I can't rationalize it when the limits are this bad!",
+   "urls": [],
+   "metrics": {
+    "likes": 17,
+    "reposts": 1,
+    "replies": 4,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123928127529509258",
+   "username": "mrmassuet",
+   "name": "Enrique Massuet",
+   "created_at": "2026-11-20T23:55:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/mrmassuet/status/2123928127529509258",
+   "kind": "reply",
+   "text": "@larsencc @bot @bot follow this awesome fellow's advice!",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123898631325643258",
+   "username": "EmilioSchwaiger",
+   "name": "Emilio",
+   "created_at": "2026-11-20T21:57:48.000Z",
+   "lang": "en",
+   "url": "https://x.com/EmilioSchwaiger/status/2123898631325643258",
+   "kind": "post",
+   "text": "> Uses 3.27TB of Bandwidth on Cloudflare\n> Gets Invoice\n> Looks Inside\n> $0.00",
+   "urls": [],
+   "metrics": {
+    "likes": 6,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HXmahRhW4AAqYm_.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HXmahRhW4AAqYm_.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/tweet_video/HXmahRhW4AAqYm_.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 0
+      }
+     ],
+     "width": 640,
+     "height": 360
+    }
+   ],
+   "conversation_id": "2123898631325643258"
+  },
+  {
+   "id": "2123934901871460669",
+   "username": "melvindvivas",
+   "name": "Melvin Vivas",
+   "created_at": "2026-11-21T00:21:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/melvindvivas/status/2123934901871460669",
+   "kind": "post",
+   "text": "Grok Bot weekly reset\n\nFresh start, time to cook again",
+   "urls": [],
+   "metrics": {
+    "likes": 98,
+    "reposts": 0,
+    "replies": 23,
+    "quotes": 1
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXm7iQ5boAAftiE.jpg",
+     "width": 1282,
+     "height": 388
+    }
+   ],
+   "conversation_id": "2123934901871460669"
+  },
+  {
+   "id": "2123934948562174338",
+   "username": "PavelVanchugov",
+   "name": "Space Junkyard",
+   "created_at": "2026-11-21T00:22:07.000Z",
+   "lang": "en",
+   "url": "https://x.com/PavelVanchugov/status/2123934948562174338",
+   "kind": "reply",
+   "text": "@larsencc @bot Man, I just connected my accounts with more compute together and as result can't make it through 5 days.",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123934974676291690",
+   "username": "CryptoKayzz",
+   "name": "Kay 😏",
+   "created_at": "2026-11-21T00:22:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/CryptoKayzz/status/2123934974676291690",
+   "kind": "reply",
+   "text": "@larsencc @bot Wow shipping like there’s no tomorrow! 🙌",
+   "urls": [],
+   "metrics": {
+    "likes": 6,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123837918791774251",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123837918791774251"
+  },
+  {
+   "id": "2123836028461228259",
+   "username": "JonasBadalic",
+   "name": "Jonas",
+   "created_at": "2026-11-20T17:49:02.000Z",
+   "lang": "en",
+   "url": "https://x.com/JonasBadalic/status/2123836028461228259",
+   "kind": "post",
+   "text": "If you are European and working in US, do your colleagues a favor and take the on call shift",
+   "urls": [],
+   "metrics": {
+    "likes": 16,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 1
+   },
+   "conversation_id": "2123836028461228259"
+  },
+  {
+   "id": "2123886843540242934",
+   "username": "Google",
+   "name": "Google",
+   "created_at": "2026-11-20T21:10:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/Google/status/2123886843540242934",
+   "kind": "reply",
+   "text": "@theo Glad you're liking Gemini 4 Neon :) Thanks for the review Theo, more good things on the way",
+   "urls": [],
+   "metrics": {
+    "likes": 3061,
+    "reposts": 23,
+    "replies": 31,
+    "quotes": 6
+   },
+   "reply_to": {
+    "id": "2123880652428988683",
+    "username": "theo"
+   },
+   "conversation_id": "2123880652428988683"
+  },
+  {
+   "id": "2123829617526177810",
+   "username": "IterIntellectus",
+   "name": "vittorio",
+   "created_at": "2026-11-20T17:23:34.000Z",
+   "lang": "en",
+   "url": "https://x.com/IterIntellectus/status/2123829617526177810",
+   "kind": "post",
+   "text": "may you live in interesting times!",
+   "urls": [],
+   "metrics": {
+    "likes": 307,
+    "reposts": 15,
+    "replies": 13,
+    "quotes": 3
+   },
+   "conversation_id": "2123829617526177810"
+  },
+  {
+   "id": "2123919821310173362",
+   "username": "Polymarket",
+   "name": "Polymarket",
+   "created_at": "2026-11-20T23:22:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/Polymarket/status/2123919821310173362",
+   "kind": "post",
+   "text": "JUST IN: GTA VI downloads send U.S. internet traffic soaring to record highs, making Wednesday the busiest day in Comcast's network history.",
+   "urls": [],
+   "metrics": {
+    "likes": 1076,
+    "reposts": 56,
+    "replies": 43,
+    "quotes": 5
+   },
+   "conversation_id": "2123919821310173362"
+  },
+  {
+   "id": "2123893687319208147",
+   "username": "poteto",
+   "name": "lauren",
+   "created_at": "2026-11-20T21:38:09.000Z",
+   "lang": "en",
+   "url": "https://x.com/poteto/status/2123893687319208147",
+   "kind": "reply",
+   "text": "@zeeg show me software with 0 bugs and ill show you software with 0 users",
+   "urls": [],
+   "metrics": {
+    "likes": 5497,
+    "reposts": 380,
+    "replies": 100,
+    "quotes": 75
+   },
+   "reply_to": {
+    "id": "2123893091237343468",
+    "username": "zeeg"
+   },
+   "conversation_id": "2123876396405751859"
+  },
+  {
+   "id": "2123843846648008952",
+   "username": "martin_casado",
+   "name": "martin_casado",
+   "created_at": "2026-11-20T18:20:06.000Z",
+   "lang": "en",
+   "url": "https://x.com/martin_casado/status/2123843846648008952",
+   "kind": "post",
+   "text": "For full sci fi AI avatar controlling your house, @bot running on a mac mini with home assistant is basically all you need.\n\nMy current setup:\n- mac mini running Home Assistant in a VM\n- Grok bot on same mac mini to manage Home Assistant\n- SONOFF Zigbee USB dongle for smart lights\n- all TVs, sonos, thermostats controlled by Home Assistant\n- Presence sensors (Aqara FP2) in every room so Grok bot knows where I am\n- iPad mounted in every room so Grok bot can display pages or talk as an avatar\n- Talking head for Grokbot avatar   https://github.com/met4citizen/TalkingHead\n- I just speak to grok bot from my phone, it knows where I am, and can control the display near me an all the smart house elements\n\nPure magic.  Also Grok bot architected my setup and ordered all the components. I didn't know anything about home automation before this.",
+   "urls": [
+    "https://github.com/met4citizen/TalkingHead"
+   ],
+   "metrics": {
+    "likes": 166,
+    "reposts": 10,
+    "replies": 47,
+    "quotes": 6
+   },
+   "conversation_id": "2123843846648008952"
+  },
+  {
+   "id": "2123908905155657757",
+   "username": "TonyChanBuilds",
+   "name": "Tony Chan",
+   "created_at": "2026-11-20T22:38:37.000Z",
+   "lang": "en",
+   "url": "https://x.com/TonyChanBuilds/status/2123908905155657757",
+   "kind": "reply",
+   "text": "@ducksays @grok i use dr. eggbot version 2 to optimize all of my bots to use less data",
+   "urls": [],
+   "metrics": {
+    "likes": 14,
+    "reposts": 0,
+    "replies": 4,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123901515769553281",
+    "username": "ducksays"
+   },
+   "conversation_id": "2123901515769553281"
+  },
+  {
+   "id": "2123901515769553281",
+   "username": "ducksays",
+   "name": "duck says",
+   "created_at": "2026-11-20T22:09:16.000Z",
+   "lang": "en",
+   "url": "https://x.com/ducksays/status/2123901515769553281",
+   "kind": "quote",
+   "text": "WHAT DID THE GROK BOT TEAM JUST SAY?!\n\n@grok what did the team say we can do in the meantime to improve our grok bot usage?",
+   "urls": [],
+   "metrics": {
+    "likes": 298,
+    "reposts": 6,
+    "replies": 20,
+    "quotes": 2
+   },
+   "ref": {
+    "id": "2123891636694298977",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-20T21:30:00.000Z",
+    "text": "Grok @bot usage burns too fast!\n\nWe know, and we're on it.\n\nUntil then, here's what 572 of you said ate yours, plus a line you can paste to your bot for each:\n\n> bots chatting with each other: \"Only message other bots when you need something from them. Batch updates into one message. No thanks or ack replies.\"\n\n> routines running too often: \"Change this routine to once a day.\"\n\n> stuck loops (the #1 complaint): \"If you hit the same error twice, stop and tell me what's blocking you. Don't say done until you've checked.\"\n\n> browser logins: \"Use the connector if available, don't open a browser for this.\"\n\n> image, video and voice: \"Before you generate anything, tell me what you'll make and wait for my OK. Do one sample first.\"\n\n> big coding or research jobs: \"Give me a short plan first and wait for my OK. Do small tasks yourself, don't spin up helpers.\"\n\nTo see where yours went: \"Check my usage and tell me which routines and bots used the most this week.\"\n\nLike I said, we're still working hard on making usage easier to see, and cheaper where it should be.\n\nReply with what's burning yours and I'll look."
+   },
+   "conversation_id": "2123901515769553281"
+  },
+  {
+   "id": "2123848689898971631",
+   "username": "BHolmesDev",
+   "name": "Ben Holmes",
+   "created_at": "2026-11-20T18:39:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/BHolmesDev/status/2123848689898971631",
+   "kind": "post",
+   "text": "It feels like software engineering got replaced with... 20% management and 80% code review this year.\n\nIf you think engineering is just implementation, this is accurate. But that's not all there is to engineering! There's so much on the systems design side, the factory engineering, that's worth solving now:\n\n- Planning: When should the agent involve humans to draft a plan or proceed with implementation? What questions should it ask? What goes into a good product or technical spec?\n\n- Implementation: Now that agents are writing code, how do we optimize the cost and quality of that code? What access permissions do agents have across secrets, MCPs, and skills?\n\n- Review: How do we give agents the tools to verify their own work end-to-end before tagging us for review? How can agents assess the risk of a PR and include that assessment in the pull request to save humans time?\n\nThese are some of the most important problems for engineers to solve this next year.",
+   "urls": [],
+   "metrics": {
+    "likes": 177,
+    "reposts": 11,
+    "replies": 34,
+    "quotes": 4
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXltIPubEAAzrA1.jpg",
+     "width": 1238,
+     "height": 671
+    }
+   ],
+   "conversation_id": "2123848689898971631"
+  },
+  {
+   "id": "2123862907494494437",
+   "username": "kristaletz",
+   "name": "Krista Letz",
+   "created_at": "2026-11-20T19:35:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/kristaletz/status/2123862907494494437",
+   "kind": "reply",
+   "text": "@clairevo use cursor with neon",
+   "urls": [],
+   "metrics": {
+    "likes": 33,
+    "reposts": 0,
+    "replies": 7,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123861719135170798",
+    "username": "clairevo"
+   },
+   "conversation_id": "2123861719135170798"
+  },
+  {
+   "id": "2123880273565880668",
+   "username": "lukaslevert",
+   "name": "Lukas Levert",
+   "created_at": "2026-11-20T20:44:51.000Z",
+   "lang": "qme",
+   "url": "https://x.com/lukaslevert/status/2123880273565880668",
+   "kind": "reply",
+   "text": "@mattyp @bot 🙏🙏🙏",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123878564869386677",
+    "username": "mattyp"
+   },
+   "conversation_id": "2123856955899097457"
+  },
+  {
+   "id": "2123913240661102819",
+   "username": "evoclock",
+   "name": "J. Gamboa",
+   "created_at": "2026-11-20T22:55:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/evoclock/status/2123913240661102819",
+   "kind": "reply",
+   "text": "@larsencc @bot Have tried several of these and I am still hitting 41% with 5 days to go on Ultra. I cannot justify it any longer if it stays like that 😢",
+   "urls": [],
+   "metrics": {
+    "likes": 10,
+    "reposts": 0,
+    "replies": 4,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123912378551083294",
+   "username": "elderjava",
+   "name": "Elder Moraes",
+   "created_at": "2026-11-20T22:52:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/elderjava/status/2123912378551083294",
+   "kind": "reply",
+   "text": "@larsencc @bot Did I hear “reset”? 🙂",
+   "urls": [],
+   "metrics": {
+    "likes": 58,
+    "reposts": 0,
+    "replies": 4,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123893901048324231",
+   "username": "brivael",
+   "name": "Brivael Le Pogam",
+   "created_at": "2026-11-20T21:39:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/brivael/status/2123893901048324231",
+   "kind": "post",
+   "text": "Good dopamine",
+   "urls": [],
+   "metrics": {
+    "likes": 377,
+    "reposts": 8,
+    "replies": 55,
+    "quotes": 2
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXmWPpvWEAAOAMS.jpg",
+     "width": 1320,
+     "height": 822
+    }
+   ],
+   "conversation_id": "2123893901048324231"
+  },
+  {
+   "id": "2123877459389206796",
+   "username": "gregpr07",
+   "name": "Gregor Zunic",
+   "created_at": "2026-11-20T20:33:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/gregpr07/status/2123877459389206796",
+   "kind": "post",
+   "text": "Browser Use is the shovel of personal AI agents",
+   "urls": [],
+   "metrics": {
+    "likes": 27,
+    "reposts": 0,
+    "replies": 7,
+    "quotes": 0
+   },
+   "conversation_id": "2123877459389206796"
+  },
+  {
+   "id": "2123899592605635026",
+   "username": "GigabearForever",
+   "name": "𝐆𝐈𝐆𝐀󠁇󠁲󠁯󠁫󠀧󠁳󠀠󠁂󠁆󠁆𝐁𝐄𝐀𝐑",
+   "created_at": "2026-11-20T22:01:37.000Z",
+   "lang": "en",
+   "url": "https://x.com/GigabearForever/status/2123899592605635026",
+   "kind": "reply",
+   "text": "@larsencc @EmilioSchwaiger @bot Rookie Numbers",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXmbX_oWsAAWoBE.jpg",
+     "width": 1338,
+     "height": 813
+    }
+   ],
+   "reply_to": {
+    "id": "2123895616741020063",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123894842967363708",
+   "username": "EmilioSchwaiger",
+   "name": "Emilio",
+   "created_at": "2026-11-20T21:42:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/EmilioSchwaiger/status/2123894842967363708",
+   "kind": "reply",
+   "text": "@larsencc @bot I might be micromanaging my bots a bit too much",
+   "urls": [],
+   "metrics": {
+    "likes": 34,
+    "reposts": 0,
+    "replies": 6,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXmXE7TXEAAcK-U.png",
+     "width": 627,
+     "height": 159
+    }
+   ],
+   "reply_to": {
+    "id": "2123891636694298977",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123891636694298977"
+  },
+  {
+   "id": "2123890615372968379",
+   "username": "nahjuin",
+   "name": "nahjuin",
+   "created_at": "2026-11-20T21:25:57.000Z",
+   "lang": "en",
+   "url": "https://x.com/nahjuin/status/2123890615372968379",
+   "kind": "reply",
+   "text": "@gambrill @bot @ericzakariasson This video is sick, great job",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123858627488321558",
+    "username": "gambrill"
+   },
+   "conversation_id": "2123858627488321558"
+  },
+  {
+   "id": "2123890747133047175",
+   "username": "juampitech",
+   "name": "Juampi",
+   "created_at": "2026-11-20T21:26:28.000Z",
+   "lang": "en",
+   "url": "https://x.com/juampitech/status/2123890747133047175",
+   "kind": "quote",
+   "text": "Folks, you know. If you are playing GTA VI and your WiFi is not working, just ask @bot to fix it",
+   "urls": [],
+   "metrics": {
+    "likes": 8,
+    "reposts": 1,
+    "replies": 1,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2123849095865585754",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-20T18:40:58.000Z",
+    "text": "Grok Bot can do cool stuff on your home network:\n\n- Use @bot to optimize your wi-fi\n- Use @Tailscale in Grok Bot to access your media server  https://twitter.com/1518984544421965824/status/2121439659179848108",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2123849055415803904/vid/avc1/1080x1920/AR4qYli_mohIDXz2.mp4?tag=16",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123849055415803904/img/6ztfwPqxbDSLKcCV.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2123849055415803904/vid/avc1/320x568/bLhk_Ym-7G2zZsTl.mp4?tag=16",
+        "w": 320,
+        "h": 568,
+        "br": 632000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123849055415803904/vid/avc1/480x852/VrXRIohct5ISv8Gv.mp4?tag=16",
+        "w": 480,
+        "h": 852,
+        "br": 950000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123849055415803904/vid/avc1/720x1280/pnC2z5SwW_mR0_qE.mp4?tag=16",
+        "w": 720,
+        "h": 1280,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123849055415803904/vid/avc1/1080x1920/AR4qYli_mohIDXz2.mp4?tag=16",
+        "w": 1080,
+        "h": 1920,
+        "br": 10368000
+       }
+      ],
+      "width": 1080,
+      "height": 1920,
+      "duration_ms": 61418
+     }
+    ]
+   },
+   "conversation_id": "2123890747133047175"
+  },
+  {
+   "id": "2123860947877916855",
+   "username": "eden_",
+   "name": "eden",
+   "created_at": "2026-11-20T19:28:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/eden_/status/2123860947877916855",
+   "kind": "post",
+   "text": "Grok Bot > Claude > ChatGPT\n\n(In that order)",
+   "urls": [],
+   "metrics": {
+    "likes": 46,
+    "reposts": 0,
+    "replies": 10,
+    "quotes": 0
+   },
+   "conversation_id": "2123860947877916855"
+  },
+  {
+   "id": "2123876850917163011",
+   "username": "eden_",
+   "name": "eden",
+   "created_at": "2026-11-20T20:31:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/eden_/status/2123876850917163011",
+   "kind": "reply",
+   "text": "@parker__conrad Will do! Have been sharing a bit with @larsencc",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123871611296358642",
+    "username": "parker__conrad"
+   },
+   "conversation_id": "2123860947877916855"
+  },
+  {
+   "id": "2123819892658819142",
+   "username": "LouiseDSadeleer",
+   "name": "Louise de Sadeleer",
+   "created_at": "2026-11-20T16:44:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/LouiseDSadeleer/status/2123819892658819142",
+   "kind": "post",
+   "text": "I think if there's a lotta bots in your comments/replies, it might be your content's fault",
+   "urls": [],
+   "metrics": {
+    "likes": 26,
+    "reposts": 0,
+    "replies": 6,
+    "quotes": 0
+   },
+   "conversation_id": "2123819892658819142"
+  },
+  {
+   "id": "2123870308876865620",
+   "username": "JakaBavdek",
+   "name": "Jaka Bavdek",
+   "created_at": "2026-11-20T20:05:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/JakaBavdek/status/2123870308876865620",
+   "kind": "post",
+   "text": "we’re building the world’s most optimised remote company\n\nwe hire people from the whole world and use ai wherever it helps us move faster\n\nstill doing in person sprints in sf tho",
+   "urls": [],
+   "metrics": {
+    "likes": 189,
+    "reposts": 5,
+    "replies": 56,
+    "quotes": 0
+   },
+   "conversation_id": "2123870308876865620"
+  },
+  {
+   "id": "2123863911040729188",
+   "username": "lukaslevert",
+   "name": "Lukas Levert",
+   "created_at": "2026-11-20T19:39:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/lukaslevert/status/2123863911040729188",
+   "kind": "reply",
+   "text": "@mattyp @bot Thank you!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123862722685411491",
+    "username": "mattyp"
+   },
+   "conversation_id": "2123856955899097457"
+  },
+  {
+   "id": "2123859840305181154",
+   "username": "lukaslevert",
+   "name": "Lukas Levert",
+   "created_at": "2026-11-20T19:23:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/lukaslevert/status/2123859840305181154",
+   "kind": "reply",
+   "text": "Is it one bot or all of them?\n\nAll of them. My bots share one computer, so when it hangs, every bot that needs it (shell, browser, desktop, scheduled routines) fails together. Plain chat and connectors still work, so the bots answer but can't do any real work on the machine.\n\nWhat's happening:\n\nSince about Nov 12, shell commands time out after roughly 14 minutes, and desktop screenshots and browser tasks hang or get cut off partway. Scheduled routines that need the computer have been failing most days. At one point the load average was over 200 with under 1 GB of memory free. Clearing old helper processes and deleting unused bots brought it down to about 1 for a while, but the timeouts came back. Deleting bots also didn't shut down their desktops, so about 17 desktops and their browsers kept running and holding roughly 6 GB.\n\nHave I tried restarting?\n\nYes. Update Bot's Computer won't complete, and Reset fails with an error saying the computer may be half-reset. Quitting and reopening the app and hitting Retry Reset didn't clear it either.\n\nTicket: T-K23131.\n\nSupport asked me not to reset or update the computer while they look into it, so I've left it alone since.",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123857297596412335",
+    "username": "mattyp"
+   },
+   "conversation_id": "2123856955899097457"
+  },
+  {
+   "id": "2123859211205668908",
+   "username": "androsonx",
+   "name": "Andros",
+   "created_at": "2026-11-20T19:21:10.000Z",
+   "lang": "en",
+   "url": "https://x.com/androsonx/status/2123859211205668908",
+   "kind": "post",
+   "text": "@larsencc this thanksgiving can we get a grok bot reset?",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "conversation_id": "2123859211205668908"
+  },
+  {
+   "id": "2123856955899097457",
+   "username": "lukaslevert",
+   "name": "Lukas Levert",
+   "created_at": "2026-11-20T19:12:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/lukaslevert/status/2123856955899097457",
+   "kind": "post",
+   "text": "Hey @bot - my computer has been stuck for two weeks with no recourse. I'm a mega Grok bot fan, but I've been using other bots in the meantime because this computer error has made most tasks useless.\n\nHave emailed, to no avail. plz fix.\n\nCC @mattyp 🫶",
+   "urls": [],
+   "metrics": {
+    "likes": 23,
+    "reposts": 0,
+    "replies": 5,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlz1cGbUAEgoF5.jpg",
+     "width": 1152,
+     "height": 266
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXl0C8rbUAAEWBN.jpg",
+     "width": 1218,
+     "height": 194
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXl0MUEbkAA1L7n.jpg",
+     "width": 1260,
+     "height": 218
+    }
+   ],
+   "conversation_id": "2123856955899097457"
+  },
+  {
+   "id": "2123846860855038388",
+   "username": "serxzsz",
+   "name": "serx · fireply.ai",
+   "created_at": "2026-11-20T18:32:05.000Z",
+   "lang": "en",
+   "url": "https://x.com/serxzsz/status/2123846860855038388",
+   "kind": "reply",
+   "text": "@leerob what does grokbot do that claude code doesn't",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123845449413239273",
+    "username": "leerob"
+   },
+   "conversation_id": "2123845449413239273"
+  },
+  {
+   "id": "2123853433161814449",
+   "username": "RIPFrankie6900",
+   "name": "H Sells",
+   "created_at": "2026-11-20T18:58:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/RIPFrankie6900/status/2123853433161814449",
+   "kind": "reply",
+   "text": "@ericzakariasson the website is down? What is going on?",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123510581869293816",
+    "username": "ericzakariasson"
+   },
+   "conversation_id": "2123510581869293816"
+  },
+  {
+   "id": "2123849595080044896",
+   "username": "thecsguy",
+   "name": "nick",
+   "created_at": "2026-11-20T18:42:57.000Z",
+   "lang": "en",
+   "url": "https://x.com/thecsguy/status/2123849595080044896",
+   "kind": "reply",
+   "text": "@mattyp @bot @Tailscale grok bot decreasing ping on my starlink is going to be wild, let me try this today 👀",
+   "urls": [],
+   "metrics": {
+    "likes": 15,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123849095865585754",
+    "username": "mattyp"
+   },
+   "conversation_id": "2123849095865585754"
+  },
+  {
+   "id": "2123847664064241799",
+   "username": "KSHartnett",
+   "name": "Kevin Hartnett",
+   "created_at": "2026-11-20T18:35:16.000Z",
+   "lang": "en",
+   "url": "https://x.com/KSHartnett/status/2123847664064241799",
+   "kind": "post",
+   "text": "This is massive. A story I've been following for years. He thought he had more time but didn't. Alessandro Masullo announces a separate, purely human proof of the Riemann hypothesis. https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+   "urls": [
+    "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
+   ],
+   "metrics": {
+    "likes": 10436,
+    "reposts": 936,
+    "replies": 158,
+    "quotes": 281
+   },
+   "conversation_id": "2123847664064241799"
+  },
+  {
+   "id": "2123789252756414577",
+   "username": "yifanzhang_",
+   "name": "Yifan Zhang @ NeurIPS",
+   "created_at": "2026-11-20T14:43:10.000Z",
+   "lang": "en",
+   "url": "https://x.com/yifanzhang_/status/2123789252756414577",
+   "kind": "post",
+   "text": "JUST IN: Riemann Hypothesis has been solved.\n\nhttps://alpo.ge/remark.pdf",
+   "urls": [
+    "https://alpo.ge/remark.pdf"
+   ],
+   "metrics": {
+    "likes": 58982,
+    "reposts": 7869,
+    "replies": 1767,
+    "quotes": 5239
+   },
+   "conversation_id": "2123789252756414577"
+  },
+  {
+   "id": "2123828844662497763",
+   "username": "lukaslauu",
+   "name": "Lukas Lau",
+   "created_at": "2026-11-20T17:20:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/lukaslauu/status/2123828844662497763",
+   "kind": "reply",
+   "text": "@ericzakariasson very nice will use",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123825984231362902",
+    "username": "ericzakariasson"
+   },
+   "conversation_id": "2123825984231362902"
+  },
+  {
+   "id": "2123697065389867368",
+   "username": "kylekane",
+   "name": "Kyle",
+   "created_at": "2026-11-20T08:36:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/kylekane/status/2123697065389867368",
+   "kind": "quote",
+   "text": "Day 2 of being number one on the @bot directory and it feel so good.",
+   "urls": [],
+   "metrics": {
+    "likes": 52,
+    "reposts": 0,
+    "replies": 13,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2123363386130071748",
+    "author_id": "1488156505648025601",
+    "username": "kylekane",
+    "name": "Kyle",
+    "created_at": "2026-11-19T10:30:56.000Z",
+    "text": "Guys, I'm number one on the Grok Bot Directory. How did this even happen? This post will go nowhere fast, but I just wanted to tell someone.\n\nMain directory: https://grok-bot.directory/\n\nMy bots: https://grok-bot.directory/u/kylekane",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXeuWB3XIAAych_.jpg",
+      "width": 942,
+      "height": 2048
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXeuWB1XwAEagd9.jpg",
+      "width": 942,
+      "height": 2048
+     }
+    ]
+   },
+   "conversation_id": "2123697065389867368"
+  },
+  {
+   "id": "2123829559711650060",
+   "username": "finkd",
+   "name": "Mark Zuckerberg",
+   "created_at": "2026-11-20T17:23:20.000Z",
+   "lang": "en",
+   "url": "https://x.com/finkd/status/2123829559711650060",
+   "kind": "post",
+   "text": "Wait which version did I get?",
+   "urls": [],
+   "metrics": {
+    "likes": 71824,
+    "reposts": 2804,
+    "replies": 1586,
+    "quotes": 507
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlbsQyXUAAN4gj.jpg",
+     "width": 2016,
+     "height": 1216
+    }
+   ],
+   "conversation_id": "2123829559711650060"
+  },
+  {
+   "id": "2123831089630425499",
+   "username": "IterIntellectus",
+   "name": "vittorio",
+   "created_at": "2026-11-20T17:29:25.000Z",
+   "lang": "en",
+   "url": "https://x.com/IterIntellectus/status/2123831089630425499",
+   "kind": "post",
+   "text": "a week where centuries happened",
+   "urls": [],
+   "metrics": {
+    "likes": 873,
+    "reposts": 58,
+    "replies": 13,
+    "quotes": 5
+   },
+   "conversation_id": "2123831089630425499"
+  },
+  {
+   "id": "2123841864977530932",
+   "username": "Ldolenc",
+   "name": "Luka Dolenc",
+   "created_at": "2026-11-20T18:12:14.000Z",
+   "lang": "en",
+   "url": "https://x.com/Ldolenc/status/2123841864977530932",
+   "kind": "reply",
+   "text": "@larsencc @bot I’m loving the X release notes! Changelog is so October 2026 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123837918791774251",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123837918791774251"
+  },
+  {
+   "id": "2123839717355692195",
+   "username": "trashpandalabs",
+   "name": "trashpanda labs",
+   "created_at": "2026-11-20T18:03:42.000Z",
+   "lang": "en",
+   "url": "https://x.com/trashpandalabs/status/2123839717355692195",
+   "kind": "reply",
+   "text": "@larsencc @bot Usage is still a thing",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123837918791774251",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123837918791774251"
+  },
+  {
+   "id": "2123840835112378731",
+   "username": "MaxSobol",
+   "name": "Max Sobol",
+   "created_at": "2026-11-20T18:08:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/MaxSobol/status/2123840835112378731",
+   "kind": "reply",
+   "text": "@larsencc @bot Usage is being devoured. Unified Premium plan is basically useless.",
+   "urls": [],
+   "metrics": {
+    "likes": 11,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123837918791774251",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123837918791774251"
+  },
+  {
+   "id": "2123838913429258676",
+   "username": "Nejc_Marinic",
+   "name": "Nejc",
+   "created_at": "2026-11-20T18:00:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/Nejc_Marinic/status/2123838913429258676",
+   "kind": "reply",
+   "text": "@larsencc @bot Is Grok Bot helping you fix itself? Just curious.",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123837918791774251",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123837918791774251"
+  },
+  {
+   "id": "2123845497051926975",
+   "username": "mKLAPPEREN_",
+   "name": "Magnus",
+   "created_at": "2026-11-20T18:26:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/mKLAPPEREN_/status/2123845497051926975",
+   "kind": "reply",
+   "text": "@larsencc @bot Dear @larsencc. Thanks for letting us know and the quick fixes.\n- Could you please say if the usages is getting better soon, or do we need to gather more money to buy multiple accounts? Cheers",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123837918791774251",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123837918791774251"
+  },
+  {
+   "id": "2123838428043419903",
+   "username": "EmilioSchwaiger",
+   "name": "Emilio",
+   "created_at": "2026-11-20T17:58:34.000Z",
+   "lang": "en",
+   "url": "https://x.com/EmilioSchwaiger/status/2123838428043419903",
+   "kind": "reply",
+   "text": "@larsencc @bot whats your monthly PR count now",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123837918791774251",
+    "username": "larsencc"
+   },
+   "conversation_id": "2123837918791774251"
+  },
+  {
+   "id": "2123844314426126538",
+   "username": "anej_zaler",
+   "name": "Anej",
+   "created_at": "2026-11-20T18:21:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/anej_zaler/status/2123844314426126538",
+   "kind": "post",
+   "text": "@larsencc  feature request: @bot can call you through the app",
+   "urls": [],
+   "metrics": {
+    "likes": 8,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlo_gBWIAADdSN.jpg",
+     "width": 1670,
+     "height": 941
+    }
+   ],
+   "conversation_id": "2123844314426126538"
+  },
+  {
+   "id": "2123837059286843462",
+   "username": "petergyang",
+   "name": "Peter Yang",
+   "created_at": "2026-11-20T17:53:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/petergyang/status/2123837059286843462",
+   "kind": "post",
+   "text": "This message from my Grok @bot makes me so happy everyday. Doing some more polish and will launch this as a Bot in the marketplace.",
+   "urls": [],
+   "metrics": {
+    "likes": 74,
+    "reposts": 1,
+    "replies": 25,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXliYv5bwAAAhFr.png",
+     "width": 938,
+     "height": 274
+    }
+   ],
+   "conversation_id": "2123837059286843462"
+  },
+  {
+   "id": "2123820923480363341",
+   "username": "skorusARK",
+   "name": "Sam Korus",
+   "created_at": "2026-11-20T16:49:01.000Z",
+   "lang": "en",
+   "url": "https://x.com/skorusARK/status/2123820923480363341",
+   "kind": "quote",
+   "text": "You missed step 0.\n\nBe the first automaker to license fsd. If you do that and then accept the design constraints and bring back sick retro cars with FSD then I think you survive past the next decade.\n\nOtherwise I think it's a great run and then the industry slips you by.",
+   "urls": [],
+   "metrics": {
+    "likes": 1384,
+    "reposts": 54,
+    "replies": 50,
+    "quotes": 7
+   },
+   "ref": {
+    "id": "2123816319728406669",
+    "author_id": "1475231323480543232",
+    "username": "GuyDealership",
+    "name": "Car Dealership Guy",
+    "created_at": "2026-11-20T16:30:43.000Z",
+    "text": "BREAKING: @GM hired a search firm to succeed Mary Barra.\n\nSave the fee. Here’s my Day 1:\n\n1. Pontiac is BACK. Firebird and GTO, full vintage, built on modern platforms.\n\n2. A retro Blazer. Ford sold 146K Broncos last year. We’re leaving money on the table.\n\n3. A real truck under $25K. The S10 returns.\n\n4. NO subscriptions for features you already paid for. Your heated seats are yours.\n\n5. Super Cruise standard on EVERY trim. No subscription.\n\n6. Apple CarPlay and Android Auto are BACK. Let customers use their phones.\n\n7. Hybrids in every segment. Gas, hybrid or EV. The customer picks.\n\n8. No more incentives. We won't need them. Hagerty’s index of 80s and 90s cars just posted its biggest gain in four years. Build what people WANT and they’ll pay full price.\n\n9. Listen to dealers. Simpler programs, real lease rates.\n\n10. The CEO works the sales floor one Saturday a month.\n\nWhat’d I miss?"
+   },
+   "conversation_id": "2123820923480363341"
+  },
+  {
+   "id": "2123833410544156743",
+   "username": "msllrs",
+   "name": "matt",
+   "created_at": "2026-11-20T17:38:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/msllrs/status/2123833410544156743",
+   "kind": "reply",
+   "text": "@ericzakariasson sick dude",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123825984231362902",
+    "username": "ericzakariasson"
+   },
+   "conversation_id": "2123825984231362902"
+  },
+  {
+   "id": "2123827064080052653",
+   "username": "willdepue",
+   "name": "will depue",
+   "created_at": "2026-11-20T17:13:25.000Z",
+   "lang": "zxx",
+   "url": "https://x.com/willdepue/status/2123827064080052653",
+   "kind": "post",
+   "text": "",
+   "urls": [],
+   "metrics": {
+    "likes": 4375,
+    "reposts": 245,
+    "replies": 46,
+    "quotes": 17
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlZcm9bsAEvzFB.jpg",
+     "width": 1828,
+     "height": 2366
+    }
+   ],
+   "conversation_id": "2123827064080052653"
+  },
+  {
+   "id": "2123443495591711086",
+   "username": "XFreeze",
+   "name": "X Freeze",
+   "created_at": "2026-11-19T15:49:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/XFreeze/status/2123443495591711086",
+   "kind": "post",
+   "text": "Carries the weight of the world on his shoulders, yet still manages to be the best dad in the world ❤️",
+   "urls": [],
+   "metrics": {
+    "likes": 9082,
+    "reposts": 411,
+    "replies": 305,
+    "quotes": 48
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXf8mSwbQAAX8Uz.jpg",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "conversation_id": "2123443495591711086"
+  },
+  {
+   "id": "2123818714990567933",
+   "username": "SawyerMerritt",
+   "name": "Sawyer Merritt",
+   "created_at": "2026-11-20T16:40:14.000Z",
+   "lang": "en",
+   "url": "https://x.com/SawyerMerritt/status/2123818714990567933",
+   "kind": "post",
+   "text": "Marques Brownlee says he will honor the spirit of his Cybercab bet that he made in 2024.\n\n\"I will honor the spirit of the bet. I was invited to buy one, so I did. I submitted my $1,000 non-refundable deposit, and I selected the city of Austin, Texas. So if they actually go, 'alright, your Cybercab is ready', I will fly down to Austin, and I will accept delivery of my personal Cybercab.\"\n\nI don't think Marques has been in a Cybercab on public roads yet, so him taking delivery next month will actually be the first time he's experiencing it on public roads.\n\nFull video: https://www.youtube.com/watch?v=0HdrplAYXOM",
+   "urls": [
+    "https://www.youtube.com/watch?v=0HdrplAYXOM"
+   ],
+   "metrics": {
+    "likes": 6659,
+    "reposts": 221,
+    "replies": 362,
+    "quotes": 57
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123817725839413249/vid/avc1/1920x1080/48NzNsmEujKhnmPB.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123817725839413249/img/BTr4ardLMMkHechK.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123817725839413249/vid/avc1/480x270/IKwPMkj3yWEf5Z6s.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123817725839413249/vid/avc1/640x360/lDNKAoY3h2ZceX0s.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123817725839413249/vid/avc1/1280x720/IZB6WufnEzPUO36p.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123817725839413249/vid/avc1/1920x1080/48NzNsmEujKhnmPB.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 39800
+    }
+   ],
+   "conversation_id": "2123818714990567933"
+  },
+  {
+   "id": "2123806218913529933",
+   "username": "yunta_tsai",
+   "name": "Yun-Ta Tsai",
+   "created_at": "2026-11-20T15:50:35.000Z",
+   "lang": "en",
+   "url": "https://x.com/yunta_tsai/status/2123806218913529933",
+   "kind": "post",
+   "text": "Caring about the working class means more than handing out uninspiring jobs.\n\nMake the factory cool and the work meaningful so people feel they’re building the future, not just following orders.",
+   "urls": [],
+   "metrics": {
+    "likes": 3886,
+    "reposts": 287,
+    "replies": 123,
+    "quotes": 19
+   },
+   "conversation_id": "2123806218913529933"
+  },
+  {
+   "id": "2123799483905446118",
+   "username": "ThePrimeagen",
+   "name": "ThePrimeagen",
+   "created_at": "2026-11-20T15:23:49.000Z",
+   "lang": "en",
+   "url": "https://x.com/ThePrimeagen/status/2123799483905446118",
+   "kind": "quote",
+   "text": "Docker went from a whale carrying shipping containers to what looks like a meal prep service\n\nAlso, truth be told, the only thing preventing me from liking docker more was its logo.  Now I love docker",
+   "urls": [],
+   "metrics": {
+    "likes": 1407,
+    "reposts": 15,
+    "replies": 98,
+    "quotes": 1
+   },
+   "ref": {
+    "id": "2123471265167999156",
+    "author_id": "809153395",
+    "username": "avstorm",
+    "name": "Andreas Storm",
+    "created_at": "2026-11-19T17:39:36.000Z",
+    "text": "Docker got a rebrand",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXgVuhBWcAAyixb.png",
+      "width": 2522,
+      "height": 1150
+     }
+    ]
+   },
+   "conversation_id": "2123799483905446118"
+  },
+  {
+   "id": "2123813706396205232",
+   "username": "shadcn",
+   "name": "shadcn",
+   "created_at": "2026-11-20T16:20:20.000Z",
+   "lang": "en",
+   "url": "https://x.com/shadcn/status/2123813706396205232",
+   "kind": "post",
+   "text": "How we're building UI SDK to be agent-first, part 3:\n\nWe've built in observability and history. Every change in your UI tells you what changed and who made it, you or the agent.\n\nThat gives you seek and undo for free. Go back to any point, or undo only the agent’s work.",
+   "urls": [],
+   "metrics": {
+    "likes": 392,
+    "reposts": 6,
+    "replies": 63,
+    "quotes": 5
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlNF4wbgAAo-u7.jpg",
+     "width": 1406,
+     "height": 1124
+    }
+   ],
+   "conversation_id": "2123813706396205232"
+  },
+  {
+   "id": "2123796341445022039",
+   "username": "Dhanush_Nehru",
+   "name": "Dhanush N",
+   "created_at": "2026-11-20T15:11:20.000Z",
+   "lang": "en",
+   "url": "https://x.com/Dhanush_Nehru/status/2123796341445022039",
+   "kind": "post",
+   "text": "GTA 6 just dropped so I made a trailer for my GitHub instead.\n\nNo cheat codes. Just Rust crates, npm packages and some opensource tools I built from scratch.\n\nFollow the crew  → https://github.com/DhanushNehru",
+   "urls": [
+    "https://github.com/DhanushNehru"
+   ],
+   "metrics": {
+    "likes": 17,
+    "reposts": 0,
+    "replies": 7,
+    "quotes": 1
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123796302828056576/vid/avc1/1280x720/Tq4Lq_dkQv0h0kej.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123796302828056576/img/uoZzDKIRtSqUnamG.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123796302828056576/vid/avc1/480x270/ghSgXGIQ2_nyl1i3.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123796302828056576/vid/avc1/640x360/_02FmBT0pRYVsrGU.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123796302828056576/vid/avc1/1280x720/Tq4Lq_dkQv0h0kej.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      }
+     ],
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 15082
+    }
+   ],
+   "conversation_id": "2123796341445022039"
+  },
+  {
+   "id": "2123801770682191872",
+   "username": "pontusab",
+   "name": "Pontus Abrahamsson",
+   "created_at": "2026-11-20T15:32:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/pontusab/status/2123801770682191872",
+   "kind": "quote",
+   "text": "the number of agents running in parallel will only grow. The best investment you can make right now is making your CI as fast as possible.",
+   "urls": [],
+   "metrics": {
+    "likes": 124,
+    "reposts": 3,
+    "replies": 18,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2123750671795261748",
+    "author_id": "72615190",
+    "username": "pontusab",
+    "name": "Pontus Abrahamsson",
+    "created_at": "2026-11-20T12:09:52.000Z",
+    "text": "Our full CI pipeline is now sub 1 min. Here is what I did:\n\n- Vitest -> bun test\n- tsc -> bun check\n- oxlint -> bun lint\n- oxfmt -> bun fmt\n- shards filled by recorded test time\n- PRs run only the tests the diff can reach\n- backend builds the app once per process\n- lint, typecheck, build and tests all in parallel\n\n200+ hours of waiting saved every week"
+   },
+   "conversation_id": "2123801770682191872"
+  },
+  {
+   "id": "2123808589668073831",
+   "username": "lucas_builds",
+   "name": "Lucas",
+   "created_at": "2026-11-20T16:00:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/lucas_builds/status/2123808589668073831",
+   "kind": "post",
+   "text": "How the fuck are we supposed to take the weekend off when the agents never get tired? 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 38,
+    "reposts": 0,
+    "replies": 27,
+    "quotes": 0
+   },
+   "conversation_id": "2123808589668073831"
+  },
+  {
+   "id": "2123793364151636294",
+   "username": "Mahaximus_",
+   "name": "Mahax",
+   "created_at": "2026-11-20T14:59:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/Mahaximus_/status/2123793364151636294",
+   "kind": "quote",
+   "text": "holy sh*t, do this asap. it can cut your Grok Bot usage in half...\n\nyour bots burn most of your weekly limit on stuff they don't need to do.\n\npaste this into Grok Bot and it finds every leak and plugs it, so your limit can finally last the whole week.",
+   "urls": [],
+   "metrics": {
+    "likes": 62,
+    "reposts": 4,
+    "replies": 12,
+    "quotes": 1
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXk6d76WoAAbBef.jpg",
+     "width": 2400,
+     "height": 3000
+    }
+   ],
+   "ref": {
+    "id": "2119435020704112933",
+    "author_id": "1857823789666492416",
+    "username": "Mahaximus_",
+    "name": "Mahax",
+    "created_at": "2026-11-08T14:21:00.000Z",
+    "text": "https://x.com/i/article/2119127080570884097",
+    "article_title": "Grok Bot Usage. Fix Everything That Burns Your Limit."
+   },
+   "conversation_id": "2123793364151636294"
+  },
+  {
+   "id": "2123819749817630956",
+   "username": "Texas_Twins_Dad",
+   "name": "Texas Twins Dad",
+   "created_at": "2026-11-20T16:44:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/Texas_Twins_Dad/status/2123819749817630956",
+   "kind": "quote",
+   "text": "Here's what Grok Bot has done in last 24 hours. And I didn’t write a single line of code!\n\n• 5 PRs opened\n• 609 automated tests: 521 unit tests across 73 classes + 88 screenshot tests",
+   "urls": [],
+   "metrics": {
+    "likes": 36,
+    "reposts": 2,
+    "replies": 13,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2123417350234136746",
+    "author_id": "1324183584282939392",
+    "username": "Texas_Twins_Dad",
+    "name": "Texas Twins Dad",
+    "created_at": "2026-11-19T14:05:22.000Z",
+    "text": "I wake up in the morning, and Grok Bot has already opened multiple PRs, run the tests, and merged them. Having Grok Bot is like hiring a team that never sleeps."
+   },
+   "conversation_id": "2123819749817630956"
+  },
+  {
+   "id": "2123777432872276428",
+   "username": "ducksays",
+   "name": "duck says",
+   "created_at": "2026-11-20T13:56:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/ducksays/status/2123777432872276428",
+   "kind": "quote",
+   "text": "PAY ATTENTION TO WHAT THE GROK BOT TEAM IS FIXING NEXT.\n\nthey shipped 6 fixes in 24 hours, straight from what people complained to them about.\n\nnext up:\n- usage burning too fast\n- bots forgetting your rules\n- bot computers that won't come back\n\n... and apparently more connectors!",
+   "urls": [],
+   "metrics": {
+    "likes": 123,
+    "reposts": 1,
+    "replies": 23,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2123529612215075009",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-19T21:31:27.000Z",
+    "text": "Update on everything you sent me 🙏\n\nShipped last 24h\n\n- Replies failing with \"model unavailable\" errors\n- Bot browser failing to load sites\n- Webhook routines failing with no retry\n- Routines losing their tools after an update\n- Connectors now tell you when they need a reconnect\n- Composer bullet fixes, and group email settings now save\n\nIn progress\n\n- Long chats getting slow and expensive\n- Email draft cards getting cut off\n- Account merging getting stuck\n- Android text selection\n- More connectors... 😏\n\nNext up\n\n- Bot computers that won't come back\n- Usage burning too fast, and clearer usage breakdowns\n- Bots forgetting your rules\n- Large file and photo uploads\n- Payment and upgrade issues\n\nKeep it coming!"
+   },
+   "conversation_id": "2123777432872276428"
+  },
+  {
+   "id": "2123699494068113652",
+   "username": "Scobleizer",
+   "name": "Robert Scoble",
+   "created_at": "2026-11-20T08:46:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/Scobleizer/status/2123699494068113652",
+   "kind": "quote",
+   "text": "How many times have you watched this in the past 24 hours?\n\nYears ago, I told people that AI artists would soon be rock stars. I feel even stronger about that now.",
+   "urls": [],
+   "metrics": {
+    "likes": 1815,
+    "reposts": 127,
+    "replies": 247,
+    "quotes": 19
+   },
+   "ref": {
+    "id": "2122159837614330267",
+    "author_id": "893134581234147328",
+    "username": "summer__heidi",
+    "name": "ᴉpᴉǝH 🐐💕",
+    "created_at": "2026-11-16T02:48:27.000Z",
+    "text": "Deception needs a motive, and a motive needs a soul",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/1280x720/IVtyBMfUA9-3wE-f.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122159744207224832/img/n08rNOVEuVyNGTlF.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/480x270/Q1TTc7k0ZRUjNzqy.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/640x360/mz_t0u2Vfexnxrl-.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/1280x720/IVtyBMfUA9-3wE-f.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 269880
+     }
+    ]
+   },
+   "conversation_id": "2123699494068113652"
+  },
+  {
+   "id": "2123507070297420193",
+   "username": "stuffyokodraws",
+   "name": "Yoko",
+   "created_at": "2026-11-19T20:01:53.000Z",
+   "lang": "en",
+   "url": "https://x.com/stuffyokodraws/status/2123507070297420193",
+   "kind": "post",
+   "text": "I use @bot very extensively, but the most mind blowing thing just happened 🤯\n\nOur roof had a small leak because of the rain. @bot called an emergency roof repair business for me, talked to their AI agent on the phone, and a guy showed up and fixed our roof in an hour for $300\n\nThe future is here. Huge fan of the new call feature!!! @poteto",
+   "urls": [],
+   "metrics": {
+    "likes": 4318,
+    "reposts": 210,
+    "replies": 197,
+    "quotes": 32
+   },
+   "conversation_id": "2123507070297420193"
   }
  ],
- "missing": []
+ "missing": [
+  {
+   "id": "2123890978998415502",
+   "at": "2026-11-21T15:25:47Z",
+   "reason": "deleted"
+  }
+ ]
 }

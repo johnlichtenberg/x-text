@@ -912,4 +912,60 @@ assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
   ok(!/<img[^>]+src=/.test(withMedia), "ancestor media stays hidden until tapped");
 }
 
+// Thread view from a reposted or quoted original (or nested quote) that is itself a reply.
+{
+  const rp = P({ id: "300", username: "elonmusk", name: "Elon", kind: "repost", text: "KEITH_TEXT",
+    ref: { id: "301", username: "kcoleman", name: "Keith", conversation_id: "299", reply_to: { id: "302", username: "willcb" },
+      quote: { id: "303", username: "nikitabier", name: "Nikita", text: "@AutismCapital NIKITA_TEXT", conversation_id: "298",
+        reply_to: { id: "304", username: "AutismCapital" } } } });
+  const closed = R.renderList([rp], [rp], [], {});
+  ok(closed.includes('class="show-thread" data-thread="r301">Show earlier posts'), "reposted original that is a reply offers its thread");
+  ok(closed.includes('class="show-thread" data-thread="r303">Show earlier posts'), "nested quote that is a reply offers its thread");
+  ok(closed.includes("Replying to") && closed.includes("@willcb") && closed.includes("@AutismCapital"), "originals show who they reply to");
+  ok(!closed.includes('data-thread="300"') && !closed.includes("hide-thread"), "the repost itself is not a reply; threads start closed");
+  ok(!/x\.com|t\.co\//.test(closed), "no x.com or t.co links on ref thread controls");
+
+  const k2 = P({ id: "305", username: "willcb", name: "Will", kind: "reply", text: "K2_TEXT", reply_to: { id: "299", username: "willcb" } });
+  const k1 = P({ id: "302", username: "willcb", name: "Will", kind: "reply", text: "K1_TEXT", reply_to: { id: "305", username: "willcb" },
+    media: [{ type: "photo", url: "https://pbs.twimg.com/media/k1.jpg", width: 10, height: 10 }] });
+  const kroot = P({ id: "299", username: "willcb", name: "Will", text: "KROOT_TEXT" });
+  const open = R.renderList([rp], [rp], [], { thread: ["r301"], parents: { posts: [k1, k2, kroot], missing: [] } });
+  const iR = open.indexOf("KROOT_TEXT"), i2 = open.indexOf("K2_TEXT"), i1 = open.indexOf("K1_TEXT"), iK = open.indexOf("KEITH_TEXT");
+  ok(iR > 0 && iR < i2 && i2 < i1 && i1 < iK, "ref thread: oldest first, then the reposted original");
+  ok(open.includes('class="hide-thread" data-thread="r301">Hide earlier posts'), "open ref thread offers Hide earlier posts");
+  ok(!open.includes("Load earlier posts"), "root reached: no gap");
+  ok(open.includes('data-thread="r303"'), "the nested quote keeps its own control while the outer thread is open");
+  ok(!/<img[^>]+src=/.test(open), "ref thread media stays hidden until tapped");
+  ok(!/x\.com|t\.co\//.test(open), "no x.com or t.co links in a ref thread");
+
+  const gap = R.renderList([rp], [rp], [], { thread: ["r303"], parents: { posts: [], missing: [] } });
+  ok(gap.includes('class="show-thread" data-thread="r303">Load earlier posts'), "unsaved nested-quote parent: Load earlier posts");
+  const loading = R.renderList([rp], [rp], [], { thread: ["r303"], threadLoading: ["r303"], parents: { posts: [], missing: [] } });
+  ok(loading.includes("Loading earlier posts"), "ref thread loading state");
+  const gone = R.renderList([rp], [rp], [], { thread: ["r303"], parents: { posts: [], missing: [{ id: "304", at: "2099-01-01T00:00:00Z", reason: "protected" }] } });
+  ok(gone.includes("protected account"), "ref thread unavailable state");
+
+  // Same pair the relay and parent.py allow: (original id, its parent id).
+  const d = R.threadClick({ id: "303", reply_to: { id: "304" } }, [rp], { posts: [], missing: [] }, Date.now(), false);
+  ok(d.effect === "enqueue" && d.pair.reply_id === "303" && d.pair.parent_id === "304", "ref thread asks for (original, parent)");
+  ok(R.isView("r303") && R.isView("303") && !R.isView("r30x") && !R.isView("x303") && !R.isView("r"), "view ids are strict");
+
+  // A quote post whose quoted original is a reply.
+  const qp = P({ id: "320", username: "elonmusk", name: "Elon", kind: "quote", text: "MY_TAKE",
+    ref: { id: "321", username: "nikitabier", name: "Nikita", text: "Q_TEXT", reply_to: { id: "322" } } });
+  const qh = R.renderList([qp], [qp], [], {});
+  ok(qh.includes('data-thread="r321">Show earlier posts') && qh.includes("Replying to a post"), "quoted reply without a username");
+  const plain = P({ id: "330", username: "a", kind: "quote", text: "x", ref: { id: "331", username: "b", text: "y" } });
+  const ph = R.renderList([plain], [plain], [], {});
+  ok(!ph.includes("show-thread") && !ph.includes("Replying to"), "a quoted non-reply has no thread control");
+  const selfRef = P({ id: "340", username: "a", kind: "quote", text: "x", ref: { id: "341", text: "y", reply_to: { id: "341" } } });
+  ok(!R.renderList([selfRef], [selfRef], [], {}).includes("show-thread"), "a ref replying to itself has no thread control");
+
+  // Originals inside an open thread get no nested controls (no recursion).
+  const ancQ = P({ id: "352", username: "w", kind: "quote", text: "ANCQ", reply_to: { id: "351" }, ref: { id: "360", text: "z", reply_to: { id: "361" } } });
+  const leaf = P({ id: "353", username: "e", kind: "reply", text: "LEAF", reply_to: { id: "352" } });
+  const th = R.renderList([leaf], [leaf], [], { shown: ["353"], thread: ["353"], parents: { posts: [ancQ], missing: [] } });
+  ok(th.includes("ANCQ") && !th.includes('data-thread="r360"'), "no ref thread control inside an open thread");
+}
+
 console.log("render tests passed: " + n);

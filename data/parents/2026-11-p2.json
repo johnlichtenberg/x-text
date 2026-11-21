@@ -447,7 +447,8 @@
       "height": 2160,
       "duration_ms": 25876
      }
-    ]
+    ],
+    "conversation_id": "2120400770952745439"
    }
   },
   {
@@ -663,7 +664,8 @@
       "height": 1080,
       "duration_ms": 250816
      }
-    ]
+    ],
+    "conversation_id": "2118021605544833173"
    }
   },
   {
@@ -1854,7 +1856,8 @@
     "username": "WSJbusiness",
     "name": "WSJ Business News",
     "created_at": "2026-11-11T01:00:31.000Z",
-    "text": "Masayoshi Son’s SoftBank reserved enough gas turbines to generate the power of six Hoover Dams. It cost the company billions of dollars in losses. https://on.wsj.com/4AkINFX"
+    "text": "Masayoshi Son’s SoftBank reserved enough gas turbines to generate the power of six Hoover Dams. It cost the company billions of dollars in losses. https://on.wsj.com/4AkINFX",
+    "conversation_id": "2120320733561672164"
    }
   },
   {
@@ -1947,7 +1950,8 @@
       "height": 720,
       "duration_ms": 448746
      }
-    ]
+    ],
+    "conversation_id": "2120206234804727821"
    }
   },
   {
@@ -1982,7 +1986,8 @@
       "height": 720,
       "duration_ms": 448746
      }
-    ]
+    ],
+    "conversation_id": "2120206234804727821"
    }
   },
   {
@@ -2537,7 +2542,12 @@
     "username": "elonmusk",
     "name": "Elon Musk",
     "created_at": "2026-11-10T10:22:36.000Z",
-    "text": "@Dimdv99 @tetsuoai Not as good. Opus 5.5 is a masterpiece.\n\nBut Grok 5 should exceed Opus 5.5 and maybe that happens in 2 or 3 months, with continued acceleration thereafter."
+    "text": "@Dimdv99 @tetsuoai Not as good. Opus 5.5 is a masterpiece.\n\nBut Grok 5 should exceed Opus 5.5 and maybe that happens in 2 or 3 months, with continued acceleration thereafter.",
+    "reply_to": {
+     "id": "2120097824851570997",
+     "username": "Dimdv99"
+    },
+    "conversation_id": "2120089786266628276"
    }
   },
   {
@@ -2583,7 +2593,12 @@
     "username": "elonmusk",
     "name": "Elon Musk",
     "created_at": "2026-11-10T09:35:59.000Z",
-    "text": "We have dumped JAX/SGLang and rewritten the entire RL and inference stack from scratch in C/C++, which took some extra time.\n\nTraining (aka pre-training) is done. Lot of cleanup was needed on the SFT data to get that mostly right. Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes.\n\nGrok 4.8 will bear no resemblance to 4.7 (thankfully). It is not yet incredible, but, this time, the foundations are built right, so I expect it to evolve to be something special."
+    "text": "We have dumped JAX/SGLang and rewritten the entire RL and inference stack from scratch in C/C++, which took some extra time.\n\nTraining (aka pre-training) is done. Lot of cleanup was needed on the SFT data to get that mostly right. Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes.\n\nGrok 4.8 will bear no resemblance to 4.7 (thankfully). It is not yet incredible, but, this time, the foundations are built right, so I expect it to evolve to be something special.",
+    "reply_to": {
+     "id": "2119949070462800185",
+     "username": "cradrrat"
+    },
+    "conversation_id": "2119949070462800185"
    }
   },
   {

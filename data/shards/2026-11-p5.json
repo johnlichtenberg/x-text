@@ -56,7 +56,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-06T06:33:26.000Z"
+    "created_at": "2026-11-06T06:33:26.000Z",
+    "conversation_id": "2118592577482129800"
    }
   },
   {
@@ -306,7 +307,8 @@
       "width": 2048,
       "height": 1536
      }
-    ]
+    ],
+    "conversation_id": "2118519889241444406"
    }
   },
   {
@@ -348,8 +350,10 @@
        "height": 1930,
        "alt": "Bar chart: vote margins of voters 18-44 by sex and kids. Source: CNN Voter Poll, Nov 4, 2026. @smirkley"
       }
-     ]
-    }
+     ],
+     "conversation_id": "2118356806720266556"
+    },
+    "conversation_id": "2118553775241843111"
    }
   },
   {
@@ -411,7 +415,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-05T10:21:48.000Z"
+    "created_at": "2026-11-05T10:21:48.000Z",
+    "conversation_id": "2118287658002858495"
    }
   },
   {
@@ -460,7 +465,12 @@
     "author_id": "44196397",
     "username": "elonmusk",
     "name": "Elon Musk",
-    "created_at": "2026-11-06T06:23:18.000Z"
+    "created_at": "2026-11-06T06:23:18.000Z",
+    "reply_to": {
+     "id": "2118510630508659028",
+     "username": "tweetfollllower"
+    },
+    "conversation_id": "2118364772370427985"
    }
   },
   {
@@ -546,7 +556,8 @@
       "height": 1080,
       "duration_ms": 77515
      }
-    ]
+    ],
+    "conversation_id": "2118568201164632506"
    }
   },
   {
@@ -602,8 +613,14 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-06T04:27:54.000Z",
-     "text": "@yunta_tsai (The rules of English need to change to put spaces between the em dashes, as they presently too much resemble a hyphenated word, rather than a parenthetical phrase. Also, “—“ is an unpleasantly long a line. The en dash, “–“, is a better length.)"
-    }
+     "text": "@yunta_tsai (The rules of English need to change to put spaces between the em dashes, as they presently too much resemble a hyphenated word, rather than a parenthetical phrase. Also, “—“ is an unpleasantly long a line. The en dash, “–“, is a better length.)",
+     "reply_to": {
+      "id": "2118400877027635609",
+      "username": "yunta_tsai"
+     },
+     "conversation_id": "2118400877027635609"
+    },
+    "conversation_id": "2118586674867540293"
    }
   },
   {
@@ -665,7 +682,8 @@
     "author_id": "1016059981907386368",
     "username": "teslaownersSV",
     "name": "Tesla Owners Silicon Valley",
-    "created_at": "2026-11-06T01:37:31.000Z"
+    "created_at": "2026-11-06T01:37:31.000Z",
+    "conversation_id": "2118518108721906039"
    }
   },
   {
@@ -751,7 +769,8 @@
       "height": 1080,
       "duration_ms": 9472
      }
-    ]
+    ],
+    "conversation_id": "2118337547999039779"
    }
   },
   {
@@ -838,8 +857,10 @@
        "width": 4096,
        "height": 3269
       }
-     ]
-    }
+     ],
+     "conversation_id": "2118381463389307149"
+    },
+    "conversation_id": "2118476679593312316"
    }
   },
   {
@@ -888,7 +909,12 @@
     "author_id": "44196397",
     "username": "elonmusk",
     "name": "Elon Musk",
-    "created_at": "2026-11-06T04:27:54.000Z"
+    "created_at": "2026-11-06T04:27:54.000Z",
+    "reply_to": {
+     "id": "2118400877027635609",
+     "username": "yunta_tsai"
+    },
+    "conversation_id": "2118400877027635609"
    }
   },
   {
@@ -999,7 +1025,8 @@
       "height": 1920,
       "duration_ms": 16766
      }
-    ]
+    ],
+    "conversation_id": "2118449741910753305"
    }
   },
   {
@@ -1058,7 +1085,8 @@
     "author_id": "1895022411030110209",
     "username": "Harper_Insure",
     "name": "Harper",
-    "created_at": "2026-11-05T19:59:45.000Z"
+    "created_at": "2026-11-05T19:59:45.000Z",
+    "conversation_id": "2118433104721563997"
    }
   },
   {
@@ -1152,8 +1180,14 @@
        "height": 1920,
        "duration_ms": 37151
       }
-     ]
-    }
+     ],
+     "reply_to": {
+      "id": "2118130395338453035",
+      "username": "cybertruck"
+     },
+     "conversation_id": "2118130395338453035"
+    },
+    "conversation_id": "2118441586594058600"
    }
   },
   {
@@ -1197,8 +1231,10 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-04-11T19:16:56.000Z",
-     "text": "Cybertruck is so awesome.\n\nUntil you’ve tried it out, you have no idea, because there’s nothing like it.\n\nBest product Tesla has ever made to date. https://twitter.com/cybertruck/status/2043006045086532008"
-    }
+     "text": "Cybertruck is so awesome.\n\nUntil you’ve tried it out, you have no idea, because there’s nothing like it.\n\nBest product Tesla has ever made to date. https://twitter.com/cybertruck/status/2043006045086532008",
+     "conversation_id": "2043045655430730211"
+    },
+    "conversation_id": "2118414707350745492"
    }
   },
   {
@@ -1307,7 +1343,8 @@
       "height": 720,
       "duration_ms": 24234
      }
-    ]
+    ],
+    "conversation_id": "2118458629091426304"
    }
   },
   {
@@ -1334,7 +1371,8 @@
     "author_id": "1358210075236724736",
     "username": "DrKnowItAll16",
     "name": "DrKnowItAll",
-    "created_at": "2026-11-05T13:56:00.000Z"
+    "created_at": "2026-11-05T13:56:00.000Z",
+    "conversation_id": "2118341564262973607"
    }
   },
   {
@@ -1384,8 +1422,10 @@
        "width": 1598,
        "height": 899
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117521174406299738"
+    },
+    "conversation_id": "2118176199746965741"
    }
   },
   {
@@ -1508,7 +1548,8 @@
     "author_id": "3066800573",
     "username": "christopherrufo",
     "name": "Christopher Rufo",
-    "created_at": "2026-11-05T19:36:16.000Z"
+    "created_at": "2026-11-05T19:36:16.000Z",
+    "conversation_id": "2118427196033548626"
    }
   },
   {
@@ -1537,7 +1578,8 @@
     "author_id": "95431448",
     "username": "BostonGlobe",
     "name": "The Boston Globe",
-    "created_at": "2026-11-04T21:59:17.000Z"
+    "created_at": "2026-11-04T21:59:17.000Z",
+    "conversation_id": "2118100797040783750"
    }
   },
   {
@@ -1589,7 +1631,8 @@
     "username": "GavinSBaker",
     "name": "Gavin Baker",
     "created_at": "2026-11-05T19:07:51.000Z",
-    "text": "The governor-elect of Texas, Gina Hinojosa, has explicitly said that all currently permitted datacenters in Texas will be allowed to finish construction. This essentially covers all of the 2027 and likely well into 2028.\n\nShe is going to pass laws that ensure that all *newly* permitted datacenters going forward for delivery in 2028/2029 will pay taxes, commit to no increase in power prices for consumers, don’t impact water availability for people, be constructed with union labor and give “Texans a seat at the table.”\n\nSounds reasonable. She doesn’t want to lose a lot of good blue collar jobs and property taxes for small towns in rural Texas.\n\nDatacenter commentary starts at 6:30 in this interview.\n\nAlso attaching her official campaign position from her website in the next post.\n\nSidenote: After watching a bunch of her speeches and interviews, I do think she is a political talent and probably has a future in national politics.\n\nhttps://youtu.be/D-T6H3b8ZeE?is=mEWu_XV5ILj-fKyY"
+    "text": "The governor-elect of Texas, Gina Hinojosa, has explicitly said that all currently permitted datacenters in Texas will be allowed to finish construction. This essentially covers all of the 2027 and likely well into 2028.\n\nShe is going to pass laws that ensure that all *newly* permitted datacenters going forward for delivery in 2028/2029 will pay taxes, commit to no increase in power prices for consumers, don’t impact water availability for people, be constructed with union labor and give “Texans a seat at the table.”\n\nSounds reasonable. She doesn’t want to lose a lot of good blue collar jobs and property taxes for small towns in rural Texas.\n\nDatacenter commentary starts at 6:30 in this interview.\n\nAlso attaching her official campaign position from her website in the next post.\n\nSidenote: After watching a bunch of her speeches and interviews, I do think she is a political talent and probably has a future in national politics.\n\nhttps://youtu.be/D-T6H3b8ZeE?is=mEWu_XV5ILj-fKyY",
+    "conversation_id": "2118420042283102604"
    }
   },
   {
@@ -1685,8 +1728,10 @@
        "width": 4096,
        "height": 2304
       }
-     ]
-    }
+     ],
+     "conversation_id": "2118409376767864888"
+    },
+    "conversation_id": "2118412345789579392"
    }
   },
   {
@@ -1713,7 +1758,8 @@
     "author_id": "1577705091737432070",
     "username": "yunta_tsai",
     "name": "Yun-Ta Tsai",
-    "created_at": "2026-11-05T17:51:41.000Z"
+    "created_at": "2026-11-05T17:51:41.000Z",
+    "conversation_id": "2118400877027635609"
    }
   },
   {
@@ -1754,7 +1800,8 @@
     "author_id": "1085225533623783424",
     "username": "KanekoaTheGreat",
     "name": "KanekoaTheGreat",
-    "created_at": "2026-11-05T18:59:01.000Z"
+    "created_at": "2026-11-05T18:59:01.000Z",
+    "conversation_id": "2118417820434497681"
    }
   },
   {
@@ -1790,7 +1837,8 @@
       "width": 1800,
       "height": 2048
      }
-    ]
+    ],
+    "conversation_id": "2118200971050233952"
    }
   },
   {
@@ -1897,8 +1945,10 @@
      "username": "thetechbrother",
      "name": "Yuval Steuer",
      "created_at": "2026-11-05T15:35:00.000Z",
-     "text": "This is insanely backwards.\nSlavery has been one of the very few near-universals in human history. What's exceptional about Britain is that it was one of the first major societies that abolished the slave trade and then abolished slavery in much of its empire, and spent decades using the Royal Navy to intercept slave ships.\n\nIf the point of teaching history is to understand how a civilization got things wrong, surely we should also want to understand how it eventually changed its mind, and what it took to do so?"
-    }
+     "text": "This is insanely backwards.\nSlavery has been one of the very few near-universals in human history. What's exceptional about Britain is that it was one of the first major societies that abolished the slave trade and then abolished slavery in much of its empire, and spent decades using the Royal Navy to intercept slave ships.\n\nIf the point of teaching history is to understand how a civilization got things wrong, surely we should also want to understand how it eventually changed its mind, and what it took to do so?",
+     "conversation_id": "2118366477619442153"
+    },
+    "conversation_id": "2118377319035257175"
    }
   },
   {
@@ -1950,7 +2000,8 @@
     "username": "yunta_tsai",
     "name": "Yun-Ta Tsai",
     "created_at": "2026-11-04T17:33:12.000Z",
-    "text": "In Ian Banks' Culture books, the Culture is a civilization of compute abundance. Each General System Vehicle is a loose sandbox environment practicing different ideologies, and citizens freely move between ships to experience different lifestyles.\n\nWant communal life? There's a ship. Ultra-orthodox religion? Another. Beach chilling? One famous for its beaches.\n\nWith enormous compute, you don't need to trade off who decides the trajectories. Just launch another docker station for another rollout. In that world, your autonomy is backed by the compute."
+    "text": "In Ian Banks' Culture books, the Culture is a civilization of compute abundance. Each General System Vehicle is a loose sandbox environment practicing different ideologies, and citizens freely move between ships to experience different lifestyles.\n\nWant communal life? There's a ship. Ultra-orthodox religion? Another. Beach chilling? One famous for its beaches.\n\nWith enormous compute, you don't need to trade off who decides the trajectories. Just launch another docker station for another rollout. In that world, your autonomy is backed by the compute.",
+    "conversation_id": "2118033835074183455"
    }
   },
   {
@@ -2009,7 +2060,8 @@
     "author_id": "985243593538338816",
     "username": "Teslaconomics",
     "name": "Teslaconomics",
-    "created_at": "2026-11-05T14:58:50.000Z"
+    "created_at": "2026-11-05T14:58:50.000Z",
+    "conversation_id": "2118357376525119788"
    }
   },
   {
@@ -2044,8 +2096,10 @@
      "username": "yacineMTB",
      "name": "kache",
      "created_at": "2026-11-05T01:44:44.000Z",
-     "text": "He's honestly so right https://twitter.com/VivekGRamaswamy/status/1872312139945234507"
-    }
+     "text": "He's honestly so right https://twitter.com/VivekGRamaswamy/status/1872312139945234507",
+     "conversation_id": "2118157536889049202"
+    },
+    "conversation_id": "2118372864378146934"
    }
   },
   {
@@ -2175,7 +2229,8 @@
       "height": 720,
       "duration_ms": 10100
      }
-    ]
+    ],
+    "conversation_id": "2118335164019548524"
    }
   },
   {
@@ -2212,7 +2267,8 @@
       "height": 1930,
       "alt": "Bar chart: vote margins of voters 18-44 by sex and kids. Source: CNN Voter Poll, Nov 4, 2026. @smirkley"
      }
-    ]
+    ],
+    "conversation_id": "2118356806720266556"
    }
   },
   {
@@ -2275,7 +2331,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-05T15:22:45.000Z"
+    "created_at": "2026-11-05T15:22:45.000Z",
+    "conversation_id": "2118363397775561023"
    }
   },
   {
@@ -2311,7 +2368,8 @@
       "width": 1200,
       "height": 1200
      }
-    ]
+    ],
+    "conversation_id": "2118378758147297681"
    }
   },
   {
@@ -2345,8 +2403,10 @@
      "username": "Osint613",
      "name": "Open Source Intel",
      "created_at": "2026-11-05T06:17:04.000Z",
-     "text": "Ukrainian President Zelensky on Elon Musk:\n\n\"Having so much power concentrated in the hands of a very rich person is dangerous.\n\nConcentrating power in the hands of one person who doesn't have much money is also dangerous.\n\nThat is the whole point of the separation of powers: making sure that everything is not concentrated in the hands of one person.\""
-    }
+     "text": "Ukrainian President Zelensky on Elon Musk:\n\n\"Having so much power concentrated in the hands of a very rich person is dangerous.\n\nConcentrating power in the hands of one person who doesn't have much money is also dangerous.\n\nThat is the whole point of the separation of powers: making sure that everything is not concentrated in the hands of one person.\"",
+     "conversation_id": "2118226071967396200"
+    },
+    "conversation_id": "2118301931852738730"
    }
   },
   {
@@ -2409,7 +2469,8 @@
     "author_id": "46787467",
     "username": "durga_malladi",
     "name": "Durga Malladi",
-    "created_at": "2026-11-04T17:52:14.000Z"
+    "created_at": "2026-11-04T17:52:14.000Z",
+    "conversation_id": "2118038626705829969"
    }
   },
   {
@@ -2445,7 +2506,8 @@
       "width": 942,
       "height": 2048
      }
-    ]
+    ],
+    "conversation_id": "2118098432141431019"
    }
   },
   {
@@ -2472,7 +2534,8 @@
     "author_id": "1677080754549817344",
     "username": "kiaraplds",
     "name": "Kiara @ SpaceX SI",
-    "created_at": "2026-11-04T16:48:09.000Z"
+    "created_at": "2026-11-04T16:48:09.000Z",
+    "conversation_id": "2118022500244172902"
    }
   },
   {
@@ -2499,7 +2562,8 @@
     "author_id": "1324183584282939392",
     "username": "Texas_Twins_Dad",
     "name": "Texas Twins Dad",
-    "created_at": "2026-11-04T16:16:53.000Z"
+    "created_at": "2026-11-04T16:16:53.000Z",
+    "conversation_id": "2118014632480682487"
    }
   },
   {
@@ -2563,7 +2627,8 @@
       "height": 1920,
       "duration_ms": 22933
      }
-    ]
+    ],
+    "conversation_id": "2118213415944724730"
    }
   },
   {
@@ -2655,7 +2720,8 @@
       "height": 1080,
       "duration_ms": 42033
      }
-    ]
+    ],
+    "conversation_id": "2118055599036588312"
    }
   },
   {
@@ -2801,8 +2867,10 @@
        "height": 1080,
        "duration_ms": 42033
       }
-     ]
-    }
+     ],
+     "conversation_id": "2118043939592942052"
+    },
+    "conversation_id": "2118064051771310169"
    }
   },
   {
@@ -2866,7 +2934,8 @@
       "height": 1080,
       "duration_ms": 42033
      }
-    ]
+    ],
+    "conversation_id": "2118043939592942052"
    }
   },
   {
@@ -2901,7 +2970,8 @@
     "author_id": "1324183584282939392",
     "username": "Texas_Twins_Dad",
     "name": "Texas Twins Dad",
-    "created_at": "2026-11-03T18:54:41.000Z"
+    "created_at": "2026-11-03T18:54:41.000Z",
+    "conversation_id": "2117691954578538798"
    }
   },
   {
@@ -2958,7 +3028,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-04T12:03:40.000Z"
+    "created_at": "2026-11-04T12:03:40.000Z",
+    "conversation_id": "2117950907610784237"
    }
   },
   {
@@ -2986,7 +3057,8 @@
     "username": "brivael",
     "name": "Brivael Le Pogam",
     "created_at": "2026-11-04T09:49:51.000Z",
-    "text": "After DOGE, Elon came to a conclusion most people missed.\n\nHe tried to reform the state from the inside. He failed. And he said it plainly: the government can't fix its own deficit. Nobody in power actually wants to cut. The machine protects itself.\n\nSo he drew the only logical conclusion. If the state can't be reformed, there are only two ways this ends.\n\nEither global bankruptcy. Debt keeps compounding, interest payments eat the budget, and the system collapses under its own weight.\n\nOr robots. AI and robotics grow the economy so fast that the debt becomes manageable, and abundance makes the old fights over scarcity irrelevant.\n\nHere's the part almost nobody sees.\n\nFor two centuries, capitalism has had a marketing problem. Its gains are real but slow and invisible. 2% growth a year doesn't feel like anything. Your life gets better over 30 years and you never connect it to the system that did it. Meanwhile, the left's promises feel immediate and concrete: a check, a subsidy, a benefit. That's why the left wins on promises even when it can't deliver them. Capitalism produces the wealth, socialism takes the credit.\n\nRobots break that asymmetry.\n\nWhen productivity doubles in a few years instead of a few decades, people will see it. Things get cheaper, services get better, opportunities appear, in real time. For the first time in history, people will connect capitalism and their rising standard of living directly, almost instantly. The causal chain becomes visible.\n\nAnd that changes everything politically.\n\nSo there are two scenarios.\n\nScenario one: we stay in the current inertia. No breakthrough, or a breakthrough we regulate to death. The debt wins. Living standards stagnate, then fall. A frustrated electorate turns to whoever promises the most, and that pushes toward a hard collectivist left. But collectivism fails, as it always does. And when it fails, the most organized, most disciplined collectivist force left standing isn't the old left. It's radical Islamism. Bankruptcy, then communism, then something worse.\n\nScenario two: robots win. Abundance arrives, and it arrives visibly. The link between free enterprise and prosperity becomes obvious to everyone. And this is the key point: it becomes obvious to everyone, including the minorities the left was counting on. Because their long-term incentive is the same as everyone else's. A kid in the suburbs gains infinitely more from a booming, abundant West than from a bankrupt state handing out promises it can't keep. Abundance is the most powerful integration machine ever built.\n\nThat's the Western renaissance.\n\nThe West doesn't need to win the culture war by arguing. It needs to win it by delivering. And for the first time, it has the technology to deliver fast enough for people to notice.\n\nThe race isn't left vs right anymore. It's robots vs bankruptcy."
+    "text": "After DOGE, Elon came to a conclusion most people missed.\n\nHe tried to reform the state from the inside. He failed. And he said it plainly: the government can't fix its own deficit. Nobody in power actually wants to cut. The machine protects itself.\n\nSo he drew the only logical conclusion. If the state can't be reformed, there are only two ways this ends.\n\nEither global bankruptcy. Debt keeps compounding, interest payments eat the budget, and the system collapses under its own weight.\n\nOr robots. AI and robotics grow the economy so fast that the debt becomes manageable, and abundance makes the old fights over scarcity irrelevant.\n\nHere's the part almost nobody sees.\n\nFor two centuries, capitalism has had a marketing problem. Its gains are real but slow and invisible. 2% growth a year doesn't feel like anything. Your life gets better over 30 years and you never connect it to the system that did it. Meanwhile, the left's promises feel immediate and concrete: a check, a subsidy, a benefit. That's why the left wins on promises even when it can't deliver them. Capitalism produces the wealth, socialism takes the credit.\n\nRobots break that asymmetry.\n\nWhen productivity doubles in a few years instead of a few decades, people will see it. Things get cheaper, services get better, opportunities appear, in real time. For the first time in history, people will connect capitalism and their rising standard of living directly, almost instantly. The causal chain becomes visible.\n\nAnd that changes everything politically.\n\nSo there are two scenarios.\n\nScenario one: we stay in the current inertia. No breakthrough, or a breakthrough we regulate to death. The debt wins. Living standards stagnate, then fall. A frustrated electorate turns to whoever promises the most, and that pushes toward a hard collectivist left. But collectivism fails, as it always does. And when it fails, the most organized, most disciplined collectivist force left standing isn't the old left. It's radical Islamism. Bankruptcy, then communism, then something worse.\n\nScenario two: robots win. Abundance arrives, and it arrives visibly. The link between free enterprise and prosperity becomes obvious to everyone. And this is the key point: it becomes obvious to everyone, including the minorities the left was counting on. Because their long-term incentive is the same as everyone else's. A kid in the suburbs gains infinitely more from a booming, abundant West than from a bankrupt state handing out promises it can't keep. Abundance is the most powerful integration machine ever built.\n\nThat's the Western renaissance.\n\nThe West doesn't need to win the culture war by arguing. It needs to win it by delivering. And for the first time, it has the technology to deliver fast enough for people to notice.\n\nThe race isn't left vs right anymore. It's robots vs bankruptcy.",
+    "conversation_id": "2117917230394376467"
    }
   },
   {
@@ -3043,8 +3115,10 @@
        "height": 2700,
        "alt": "AI Engineer Code Summit speaker announcement featuring Lauren Tan, Principal Engineer at SpaceX; Steve Yegge, Engineer, Writer, Advisor, Independent; and Zach Bruggeman, Principal Software Engineer at Ramp. Black and white artwork with three speaker portraits and yellow text: November 10–12, SF. Apply at ai.engineer/code."
       }
-     ]
-    }
+     ],
+     "conversation_id": "2112276851355693315"
+    },
+    "conversation_id": "2118017093677494706"
    }
   },
   {
@@ -3159,7 +3233,8 @@
       "width": 1056,
       "height": 238
      }
-    ]
+    ],
+    "conversation_id": "2117723394330460528"
    }
   },
   {
@@ -3221,7 +3296,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-04T14:19:05.000Z"
+    "created_at": "2026-11-04T14:19:05.000Z",
+    "conversation_id": "2117984987765236007"
    }
   },
   {
@@ -3289,7 +3365,8 @@
     "author_id": "1518984544421965824",
     "username": "mattyp",
     "name": "matt palmer",
-    "created_at": "2026-11-04T16:44:36.000Z"
+    "created_at": "2026-11-04T16:44:36.000Z",
+    "conversation_id": "2118021605544833173"
    }
   },
   {
@@ -3331,8 +3408,10 @@
      "username": "davesgoldman",
      "name": "David Goldman",
      "created_at": "2026-10-29T00:49:34.000Z",
-     "text": "Our thoughts are with everyone affected by this tragedy. Starlink Mobile connected nearly 2k messages with @orange_es and @Telefonica in the first few hours. Thank you to @mintradigital and Secretary González Martín for your support. 🇪🇸 https://twitter.com/orange_es/status/2115572423483387960"
-    }
+     "text": "Our thoughts are with everyone affected by this tragedy. Starlink Mobile connected nearly 2k messages with @orange_es and @Telefonica in the first few hours. Thank you to @mintradigital and Secretary González Martín for your support. 🇪🇸 https://twitter.com/orange_es/status/2115572423483387960",
+     "conversation_id": "2115606937127764092"
+    },
+    "conversation_id": "2117804190378365250"
    }
   },
   {
@@ -3463,8 +3542,10 @@
        "height": 1080,
        "duration_ms": 16733
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117736249444507834"
+    },
+    "conversation_id": "2117739360728547476"
    }
   },
   {
@@ -3523,7 +3604,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-04T13:14:42.000Z"
+    "created_at": "2026-11-04T13:14:42.000Z",
+    "conversation_id": "2117968783784673696"
    }
   },
   {
@@ -3559,8 +3641,10 @@
      "name": "Qualcomm",
      "created_at": "2026-11-04T13:30:16.000Z",
      "text": "SpaceX has selected Qualcomm #Dragonwing Cellular Infrastructure solutions to support @Starlink Mobile’s nationwide terrestrial 5G network in the U.S. https://x.com/i/article/2117766007733587968",
-     "article_title": "SpaceX selects Qualcomm to accelerate Starlink Mobile’s nationwide 5G network"
-    }
+     "article_title": "SpaceX selects Qualcomm to accelerate Starlink Mobile’s nationwide 5G network",
+     "conversation_id": "2117972701197598803"
+    },
+    "conversation_id": "2117973275414532165"
    }
   },
   {
@@ -3596,7 +3680,8 @@
       "width": 1320,
       "height": 1839
      }
-    ]
+    ],
+    "conversation_id": "2117745806996340890"
    }
   },
   {
@@ -3667,8 +3752,10 @@
        "height": 1080,
        "duration_ms": 16733
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117736249444507834"
+    },
+    "conversation_id": "2117736578395295970"
    }
   },
   {
@@ -3730,7 +3817,8 @@
     "author_id": "1429641923627651072",
     "username": "SMB_Attorney",
     "name": "SMB Attorney",
-    "created_at": "2026-11-04T13:10:09.000Z"
+    "created_at": "2026-11-04T13:10:09.000Z",
+    "conversation_id": "2117967638911435077"
    }
   },
   {
@@ -3764,8 +3852,10 @@
      "username": "Starlink",
      "name": "Starlink",
      "created_at": "2026-11-04T13:32:33.000Z",
-     "text": "Starlink Mobile is building the first fully-integrated US nationwide satellite and terrestrial network that will keep people connected on their phones no matter where they are. Our 5G base stations will leverage @Qualcomm chips to accelerate deployment, starting in 2027 🛰️📱 https://twitter.com/qualcomm/status/2117972701197598803"
-    }
+     "text": "Starlink Mobile is building the first fully-integrated US nationwide satellite and terrestrial network that will keep people connected on their phones no matter where they are. Our 5G base stations will leverage @Qualcomm chips to accelerate deployment, starting in 2027 🛰️📱 https://twitter.com/qualcomm/status/2117972701197598803",
+     "conversation_id": "2117973275414532165"
+    },
+    "conversation_id": "2117986093178265833"
    }
   },
   {
@@ -3835,8 +3925,10 @@
        "height": 1080,
        "duration_ms": 16733
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117736249444507834"
+    },
+    "conversation_id": "2117751600815178160"
    }
   },
   {
@@ -3950,7 +4042,8 @@
     "author_id": "985243593538338816",
     "username": "Teslaconomics",
     "name": "Teslaconomics",
-    "created_at": "2026-11-03T22:53:18.000Z"
+    "created_at": "2026-11-03T22:53:18.000Z",
+    "conversation_id": "2117752005037064529"
    }
   },
   {
@@ -4018,8 +4111,10 @@
      "name": "Qualcomm",
      "created_at": "2026-11-04T13:30:16.000Z",
      "text": "SpaceX has selected Qualcomm #Dragonwing Cellular Infrastructure solutions to support @Starlink Mobile’s nationwide terrestrial 5G network in the U.S. https://x.com/i/article/2117766007733587968",
-     "article_title": "SpaceX selects Qualcomm to accelerate Starlink Mobile’s nationwide 5G network"
-    }
+     "article_title": "SpaceX selects Qualcomm to accelerate Starlink Mobile’s nationwide 5G network",
+     "conversation_id": "2117972701197598803"
+    },
+    "conversation_id": "2117973038516117906"
    }
   },
   {
@@ -4047,7 +4142,8 @@
     "name": "Qualcomm",
     "created_at": "2026-11-04T13:30:16.000Z",
     "text": "SpaceX has selected Qualcomm #Dragonwing Cellular Infrastructure solutions to support @Starlink Mobile’s nationwide terrestrial 5G network in the U.S. https://x.com/i/article/2117766007733587968",
-    "article_title": "SpaceX selects Qualcomm to accelerate Starlink Mobile’s nationwide 5G network"
+    "article_title": "SpaceX selects Qualcomm to accelerate Starlink Mobile’s nationwide 5G network",
+    "conversation_id": "2117972701197598803"
    }
   },
   {
@@ -4089,7 +4185,8 @@
       "width": 1100,
       "height": 600
      }
-    ]
+    ],
+    "conversation_id": "2117815414709497895"
    }
   },
   {
@@ -4153,7 +4250,8 @@
       "height": 1080,
       "duration_ms": 16733
      }
-    ]
+    ],
+    "conversation_id": "2117736249444507834"
    }
   },
   {
@@ -4232,7 +4330,8 @@
     "author_id": "1552795969959636992",
     "username": "EndWokeness",
     "name": "End Wokeness",
-    "created_at": "2026-11-04T06:25:36.000Z"
+    "created_at": "2026-11-04T06:25:36.000Z",
+    "conversation_id": "2117865829081460893"
    }
   },
   {
@@ -4259,7 +4358,8 @@
     "author_id": "1552795969959636992",
     "username": "EndWokeness",
     "name": "End Wokeness",
-    "created_at": "2026-11-04T05:11:36.000Z"
+    "created_at": "2026-11-04T05:11:36.000Z",
+    "conversation_id": "2117847205771944381"
    }
   },
   {
@@ -4286,7 +4386,12 @@
     "author_id": "1720665183188922368",
     "username": "grok",
     "name": "Grok",
-    "created_at": "2026-11-04T03:42:53.000Z"
+    "created_at": "2026-11-04T03:42:53.000Z",
+    "reply_to": {
+     "id": "2117824686797291930",
+     "username": "cicgods"
+    },
+    "conversation_id": "2117817536813363218"
    }
   },
   {
@@ -4544,8 +4649,10 @@
      "username": "petergyang",
      "name": "Peter Yang",
      "created_at": "2026-11-03T15:23:28.000Z",
-     "text": "Grok @Bot can now call US businesses for you, and it's one of my favorite AI features ever.\n\nHere's my new video where I play a real call of my bot successfully negotiating with Comcast to cut my internet bill by almost $500 a year.\n\nSome highlights include my bot:\n→ Responding to \"How's the weather?\"\n→ Turning down 3 upsells from the rep\n→ Pushing the rep with a rival's lower offer\n\n📌 Watch now: https://youtu.be/F-356TczoQU"
-    }
+     "text": "Grok @Bot can now call US businesses for you, and it's one of my favorite AI features ever.\n\nHere's my new video where I play a real call of my bot successfully negotiating with Comcast to cut my internet bill by almost $500 a year.\n\nSome highlights include my bot:\n→ Responding to \"How's the weather?\"\n→ Turning down 3 upsells from the rep\n→ Pushing the rep with a rival's lower offer\n\n📌 Watch now: https://youtu.be/F-356TczoQU",
+     "conversation_id": "2117638801296380159"
+    },
+    "conversation_id": "2117671678650294437"
    }
   },
   {
@@ -4587,8 +4694,10 @@
        "width": 1152,
        "height": 648
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117651355498414286"
+    },
+    "conversation_id": "2117672333137899961"
    }
   },
   {
@@ -4658,7 +4767,8 @@
       "height": 2160,
       "duration_ms": 95266
      }
-    ]
+    ],
+    "conversation_id": "2117697749009207386"
    }
   },
   {
@@ -4687,7 +4797,8 @@
     "author_id": "1745106082790318080",
     "username": "SemiAnalysis_",
     "name": "SemiAnalysis",
-    "created_at": "2026-11-03T20:48:47.000Z"
+    "created_at": "2026-11-03T20:48:47.000Z",
+    "conversation_id": "2117720668145852429"
    }
   },
   {
@@ -4728,7 +4839,8 @@
     "author_id": "1430216392343687174",
     "username": "OpenSourceZone",
     "name": "OSZ",
-    "created_at": "2026-11-03T14:01:41.000Z"
+    "created_at": "2026-11-03T14:01:41.000Z",
+    "conversation_id": "2117618217502085518"
    }
   },
   {
@@ -4757,7 +4869,8 @@
     "author_id": "25073877",
     "username": "realDonaldTrump",
     "name": "Donald J. Trump",
-    "created_at": "2026-11-03T18:07:03.000Z"
+    "created_at": "2026-11-03T18:07:03.000Z",
+    "conversation_id": "2117679967496454617"
    }
   },
   {
@@ -4792,7 +4905,12 @@
     "author_id": "897870292424327168",
     "username": "diydatascience",
     "name": "Yanming Di",
-    "created_at": "2026-11-03T16:35:18.000Z"
+    "created_at": "2026-11-03T16:35:18.000Z",
+    "reply_to": {
+     "id": "2117644218919469489",
+     "username": "Kalshi"
+    },
+    "conversation_id": "2117644218919469489"
    }
   },
   {
@@ -4828,7 +4946,8 @@
       "width": 1080,
       "height": 1350
      }
-    ]
+    ],
+    "conversation_id": "2117694895377011163"
    }
   },
   {
@@ -4864,7 +4983,8 @@
       "width": 1080,
       "height": 1350
      }
-    ]
+    ],
+    "conversation_id": "2117694895377011163"
    }
   },
   {
@@ -4899,7 +5019,8 @@
     "author_id": "1009716150895341568",
     "username": "SwipeWright",
     "name": "Colin Wright",
-    "created_at": "2026-11-03T17:36:44.000Z"
+    "created_at": "2026-11-03T17:36:44.000Z",
+    "conversation_id": "2117672336199491954"
    }
   },
   {
@@ -4927,7 +5048,8 @@
     "username": "ATabarrok",
     "name": "Alex Tabarrok",
     "created_at": "2026-11-03T15:53:59.000Z",
-    "text": "Thoughts on Owning a Self-Driving Tesla - https://marginalrevolution.com/marginalrevolution/2026/11/thoughts-on-owning-a-self-driving-tesla.html"
+    "text": "Thoughts on Owning a Self-Driving Tesla - https://marginalrevolution.com/marginalrevolution/2026/11/thoughts-on-owning-a-self-driving-tesla.html",
+    "conversation_id": "2117646481729413225"
    }
   },
   {
@@ -4962,7 +5084,8 @@
     "author_id": "76143865",
     "username": "AshleyRindsberg",
     "name": "Ashley Rindsberg",
-    "created_at": "2026-11-02T15:07:09.000Z"
+    "created_at": "2026-11-02T15:07:09.000Z",
+    "conversation_id": "2117272304514175370"
    }
   },
   {
@@ -5024,7 +5147,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-03T16:24:09.000Z"
+    "created_at": "2026-11-03T16:24:09.000Z",
+    "conversation_id": "2117654071763189897"
    }
   },
   {
@@ -5051,7 +5175,8 @@
     "author_id": "1265526183137067010",
     "username": "TheCaptainEli",
     "name": "Captain Eli",
-    "created_at": "2026-11-03T16:46:25.000Z"
+    "created_at": "2026-11-03T16:46:25.000Z",
+    "conversation_id": "2117659675709849612"
    }
   },
   {
@@ -5108,7 +5233,8 @@
     "author_id": "1841988608825466880",
     "username": "america",
     "name": "America",
-    "created_at": "2026-11-03T15:30:01.000Z"
+    "created_at": "2026-11-03T15:30:01.000Z",
+    "conversation_id": "2117640446830948453"
    }
   },
   {
@@ -5143,7 +5269,8 @@
     "author_id": "1097307966213160961",
     "username": "ZeekArkham",
     "name": "Zeek Arkham 🇺🇸",
-    "created_at": "2026-11-03T14:05:58.000Z"
+    "created_at": "2026-11-03T14:05:58.000Z",
+    "conversation_id": "2117619294813171762"
    }
   },
   {
@@ -5207,7 +5334,8 @@
       "height": 1080,
       "duration_ms": 94327
      }
-    ]
+    ],
+    "conversation_id": "2117625345503302015"
    }
   },
   {
@@ -5270,7 +5398,8 @@
     "author_id": "13298072",
     "username": "Tesla",
     "name": "Tesla",
-    "created_at": "2026-11-03T16:47:05.000Z"
+    "created_at": "2026-11-03T16:47:05.000Z",
+    "conversation_id": "2117659842685128881"
    }
   },
   {
@@ -5324,7 +5453,8 @@
     "author_id": "1343212349344395264",
     "username": "BlackLabelAdvsr",
     "name": "Jon Elder",
-    "created_at": "2026-11-03T16:22:03.000Z"
+    "created_at": "2026-11-03T16:22:03.000Z",
+    "conversation_id": "2117653542311743802"
    }
   },
   {
@@ -5360,7 +5490,8 @@
       "width": 1080,
       "height": 1526
      }
-    ]
+    ],
+    "conversation_id": "2117633564736938471"
    }
   },
   {
@@ -5452,7 +5583,8 @@
       "height": 1080,
       "duration_ms": 50500
      }
-    ]
+    ],
+    "conversation_id": "2117627809590030805"
    }
   },
   {
@@ -5487,7 +5619,8 @@
     "author_id": "1355721251180961792",
     "username": "GuntherEagleman",
     "name": "Gunther Eagleman™",
-    "created_at": "2026-11-03T13:59:57.000Z"
+    "created_at": "2026-11-03T13:59:57.000Z",
+    "conversation_id": "2117617780904382862"
    }
   },
   {
@@ -5522,7 +5655,8 @@
     "author_id": "1387932815438893056",
     "username": "Wightout66",
     "name": "Dwight",
-    "created_at": "2026-11-03T14:07:38.000Z"
+    "created_at": "2026-11-03T14:07:38.000Z",
+    "conversation_id": "2117619717368062287"
    }
   },
   {
@@ -5564,8 +5698,10 @@
        "width": 1536,
        "height": 2048
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117619717368062287"
+    },
+    "conversation_id": "2117659676850700415"
    }
   },
   {
@@ -5683,7 +5819,8 @@
     "author_id": "90552683",
     "username": "RobSchneider",
     "name": "Rob Schneider 🇺🇸",
-    "created_at": "2026-11-03T15:47:41.000Z"
+    "created_at": "2026-11-03T15:47:41.000Z",
+    "conversation_id": "2117644895561347224"
    }
   },
   {
@@ -5719,7 +5856,8 @@
       "width": 1336,
       "height": 557
      }
-    ]
+    ],
+    "conversation_id": "2117607331433496741"
    }
   },
   {
@@ -5831,7 +5969,8 @@
       "width": 923,
       "height": 923
      }
-    ]
+    ],
+    "conversation_id": "2117649738623496227"
    }
   },
   {
@@ -5938,8 +6077,10 @@
        "height": 1080,
        "duration_ms": 121162
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117209646985564485"
+    },
+    "conversation_id": "2117572576390349155"
    }
   },
   {
@@ -5994,7 +6135,8 @@
     "author_id": "931286316",
     "username": "ScottPresler",
     "name": "ThePersistence",
-    "created_at": "2026-11-03T13:18:07.000Z"
+    "created_at": "2026-11-03T13:18:07.000Z",
+    "conversation_id": "2117607254585455002"
    }
   },
   {
@@ -6036,8 +6178,10 @@
      "username": "JamesTate121",
      "name": "James Tate",
      "created_at": "2026-11-02T22:25:10.000Z",
-     "text": "Delete yours. Elon Musk’s companies have received at least $38 billion in U.S. government contracts, loans, subsidies, and tax credits since 2003, with another $11.8 billion projected in the coming years.\n2018: Musk paid $0 in federal income tax due to low realized income and legal deductions. 📷milliondollarthings.com+2"
-    }
+     "text": "Delete yours. Elon Musk’s companies have received at least $38 billion in U.S. government contracts, loans, subsidies, and tax credits since 2003, with another $11.8 billion projected in the coming years.\n2018: Musk paid $0 in federal income tax due to low realized income and legal deductions. 📷milliondollarthings.com+2",
+     "conversation_id": "2117382536875606446"
+    },
+    "conversation_id": "2117613413212057943"
    }
   },
   {
@@ -6065,7 +6209,8 @@
     "username": "TheCaptainEli",
     "name": "Captain Eli",
     "created_at": "2026-11-03T05:35:49.000Z",
-    "text": "Most people are still using AI the wrong way.\n\nThey ask it questions.\n\nElon Musk just pointed at the right way.\n\nYesterday, Jason Ginsberg wrote: \"Treat Grok Bot like a teammate and give @bot an ambitious task you'd normally give to a new hire.\"\n\nElon's answer: \"This is the way.\"\n\nThree words. A whole shift in how we work.\n\nHere's what that looks like in real life.\n\nScott Billows runs a business with a very traditional sales cycle. Deals that take months to cultivate.\n\nHe pointed Grok Bot at his company's tools.\n\nIt dug through the past. Surfaced old prospects and customers nobody was calling anymore. Handed them to his sales reps.\n\nTwo weeks in, a closed deal.\n\nHis words: \"Without Grok Bot we most likely would not have reached out to this past customer.\"\n\nThink about that.\n\nNot a faster search. Not a smarter autocomplete. Not a chatbot.\n\nA teammate that found money hiding in plain sight.\n\nEveryone thought AI would be a better answer machine.\n\nIt's actually a new kind of colleague.\n\nElon put it plainly back in October: \"assume you are hiring a super competent employee.\"\n\nNot a tool you open. Someone you hand the job to.\n\nThe team keeps adding powers. Product pages. Order tracking. Payments. Team Bots your whole company can share.\n\nEvery week the job description gets longer.\n\nHere's the part almost nobody sees yet.\n\nFor all of history, having a team was a privilege. Only the rich, the big companies, the well-connected could delegate.\n\nEveryone else did everything alone.\n\nThat wall is falling.\n\nA small shop owner. A single parent. A sailor at sea. Anyone can now say: \"Here's the mission. Go.\"\n\nWhen everyone gets a team, everyone becomes a builder.\n\nAnd a civilization of builders doesn't stay small for long.\n\nStop asking AI questions.\n\nGive it a job."
+    "text": "Most people are still using AI the wrong way.\n\nThey ask it questions.\n\nElon Musk just pointed at the right way.\n\nYesterday, Jason Ginsberg wrote: \"Treat Grok Bot like a teammate and give @bot an ambitious task you'd normally give to a new hire.\"\n\nElon's answer: \"This is the way.\"\n\nThree words. A whole shift in how we work.\n\nHere's what that looks like in real life.\n\nScott Billows runs a business with a very traditional sales cycle. Deals that take months to cultivate.\n\nHe pointed Grok Bot at his company's tools.\n\nIt dug through the past. Surfaced old prospects and customers nobody was calling anymore. Handed them to his sales reps.\n\nTwo weeks in, a closed deal.\n\nHis words: \"Without Grok Bot we most likely would not have reached out to this past customer.\"\n\nThink about that.\n\nNot a faster search. Not a smarter autocomplete. Not a chatbot.\n\nA teammate that found money hiding in plain sight.\n\nEveryone thought AI would be a better answer machine.\n\nIt's actually a new kind of colleague.\n\nElon put it plainly back in October: \"assume you are hiring a super competent employee.\"\n\nNot a tool you open. Someone you hand the job to.\n\nThe team keeps adding powers. Product pages. Order tracking. Payments. Team Bots your whole company can share.\n\nEvery week the job description gets longer.\n\nHere's the part almost nobody sees yet.\n\nFor all of history, having a team was a privilege. Only the rich, the big companies, the well-connected could delegate.\n\nEveryone else did everything alone.\n\nThat wall is falling.\n\nA small shop owner. A single parent. A sailor at sea. Anyone can now say: \"Here's the mission. Go.\"\n\nWhen everyone gets a team, everyone becomes a builder.\n\nAnd a civilization of builders doesn't stay small for long.\n\nStop asking AI questions.\n\nGive it a job.",
+    "conversation_id": "2117490911479263536"
    }
   },
   {
@@ -6106,7 +6251,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-03T13:42:38.000Z"
+    "created_at": "2026-11-03T13:42:38.000Z",
+    "conversation_id": "2117613423274111487"
    }
   },
   {
@@ -6156,8 +6302,10 @@
        "width": 1510,
        "height": 849
       }
-     ]
-    }
+     ],
+     "conversation_id": "2115228120001495117"
+    },
+    "conversation_id": "2117521174406299738"
    }
   },
   {
@@ -6207,8 +6355,10 @@
        "width": 700,
        "height": 610
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117593478872076644"
+    },
+    "conversation_id": "2117603942649434370"
    }
   },
   {
@@ -6270,7 +6420,8 @@
     "author_id": "45840174",
     "username": "KenPaxtonTX",
     "name": "Attorney General Ken Paxton",
-    "created_at": "2026-11-03T02:28:50.000Z"
+    "created_at": "2026-11-03T02:28:50.000Z",
+    "conversation_id": "2117443858619605464"
    }
   },
   {
@@ -6297,7 +6448,8 @@
     "author_id": "1998524099971170304",
     "username": "HankDesmondPhD",
     "name": "Dr. Hank Desmond",
-    "created_at": "2026-11-02T23:46:56.000Z"
+    "created_at": "2026-11-02T23:46:56.000Z",
+    "conversation_id": "2117403112667578557"
    }
   },
   {
@@ -6359,7 +6511,8 @@
     "author_id": "1016059981907386368",
     "username": "teslaownersSV",
     "name": "Tesla Owners Silicon Valley",
-    "created_at": "2026-11-02T16:48:00.000Z"
+    "created_at": "2026-11-02T16:48:00.000Z",
+    "conversation_id": "2117297684918976723"
    }
   },
   {
@@ -6422,7 +6575,8 @@
     "author_id": "1198495865301864448",
     "username": "DimaZeniuk",
     "name": "Dima Zeniuk",
-    "created_at": "2026-11-03T09:46:41.000Z"
+    "created_at": "2026-11-03T09:46:41.000Z",
+    "conversation_id": "2117554045611106776"
    }
   },
   {
@@ -6472,8 +6626,10 @@
        "width": 1561,
        "height": 2048
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117286142022426687"
+    },
+    "conversation_id": "2117580423060500768"
    }
   },
   {
@@ -6562,7 +6718,8 @@
     "author_id": "1038726722",
     "username": "kevinnbass",
     "name": "Kevin Bass",
-    "created_at": "2026-11-02T19:00:11.000Z"
+    "created_at": "2026-11-02T19:00:11.000Z",
+    "conversation_id": "2117330950162206785"
    }
   },
   {
@@ -6624,7 +6781,8 @@
     "author_id": "1016059981907386368",
     "username": "teslaownersSV",
     "name": "Tesla Owners Silicon Valley",
-    "created_at": "2026-11-03T01:35:01.000Z"
+    "created_at": "2026-11-03T01:35:01.000Z",
+    "conversation_id": "2117430313928515603"
    }
   },
   {
@@ -6694,8 +6852,14 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-02T15:08:54.000Z",
-     "text": "@shaunmmaguire @uncovered_alpha Future super intelligence compute will obviously be overwhelmingly in space.\n\nBy “overwhelmingly”, I mean that it will round up to 100%!\n\nYou have to be an utter moron not to realize this."
-    }
+     "text": "@shaunmmaguire @uncovered_alpha Future super intelligence compute will obviously be overwhelmingly in space.\n\nBy “overwhelmingly”, I mean that it will round up to 100%!\n\nYou have to be an utter moron not to realize this.",
+     "reply_to": {
+      "id": "2117262255603798073",
+      "username": "shaunmmaguire"
+     },
+     "conversation_id": "2117193343482368088"
+    },
+    "conversation_id": "2117285868641673235"
    }
   },
   {
@@ -6730,7 +6894,8 @@
     "author_id": "189518354",
     "username": "evan_van_ness",
     "name": "Evan Van Ness 🧉",
-    "created_at": "2026-11-02T22:29:42.000Z"
+    "created_at": "2026-11-02T22:29:42.000Z",
+    "conversation_id": "2117383678112207341"
    }
   },
   {
@@ -6772,8 +6937,10 @@
        "width": 2548,
        "height": 2702
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117297070155731058"
+    },
+    "conversation_id": "2117465116858052725"
    }
   },
   {
@@ -6815,8 +6982,10 @@
        "width": 1168,
        "height": 784
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117340482594562486"
+    },
+    "conversation_id": "2117471098820587582"
    }
   },
   {
@@ -6852,7 +7021,8 @@
       "width": 2048,
       "height": 2048
      }
-    ]
+    ],
+    "conversation_id": "2117465958025674806"
    }
   },
   {
@@ -6922,8 +7092,10 @@
        "height": 1920,
        "duration_ms": 132125
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117190014190916000"
+    },
+    "conversation_id": "2117436285824463021"
    }
   },
   {
@@ -6960,7 +7132,8 @@
     "author_id": "931286316",
     "username": "ScottPresler",
     "name": "ThePersistence",
-    "created_at": "2026-11-02T15:37:47.000Z"
+    "created_at": "2026-11-02T15:37:47.000Z",
+    "conversation_id": "2117280015179985030"
    }
   },
   {
@@ -7022,7 +7195,8 @@
     "author_id": "1016059981907386368",
     "username": "teslaownersSV",
     "name": "Tesla Owners Silicon Valley",
-    "created_at": "2026-11-03T00:36:16.000Z"
+    "created_at": "2026-11-03T00:36:16.000Z",
+    "conversation_id": "2117415528449065099"
    }
   },
   {
@@ -7072,8 +7246,10 @@
        "width": 1080,
        "height": 1350
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117417878156710180"
+    },
+    "conversation_id": "2117431727689720217"
    }
   },
   {
@@ -7148,7 +7324,12 @@
     "author_id": "44196397",
     "username": "elonmusk",
     "name": "Elon Musk",
-    "created_at": "2026-11-03T03:43:14.000Z"
+    "created_at": "2026-11-03T03:43:14.000Z",
+    "reply_to": {
+     "id": "2117325447600193900",
+     "username": "shaunmmaguire"
+    },
+    "conversation_id": "2117232243907125289"
    }
   },
   {
@@ -7227,8 +7408,10 @@
        "width": 1320,
        "height": 1517
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117359236963336514"
+    },
+    "conversation_id": "2117375502285721792"
    }
   },
   {
@@ -7305,8 +7488,10 @@
        "width": 1320,
        "height": 1517
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117359236963336514"
+    },
+    "conversation_id": "2117375502285721792"
    }
   },
   {
@@ -7412,7 +7597,8 @@
       "width": 1080,
       "height": 1350
      }
-    ]
+    ],
+    "conversation_id": "2117376313879306471"
    }
   },
   {
@@ -7461,8 +7647,10 @@
        "width": 1080,
        "height": 1350
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117043924690747428"
+    },
+    "conversation_id": "2117271314540978483"
    }
   },
   {
@@ -7504,7 +7692,8 @@
     "author_id": "25073877",
     "username": "realDonaldTrump",
     "name": "Donald J. Trump",
-    "created_at": "2026-11-02T19:37:52.000Z"
+    "created_at": "2026-11-02T19:37:52.000Z",
+    "conversation_id": "2117340433294807338"
    }
   },
   {
@@ -7566,7 +7755,8 @@
     "author_id": "844732519966801921",
     "username": "karolineleavitt",
     "name": "Karoline Leavitt",
-    "created_at": "2026-11-02T21:19:57.000Z"
+    "created_at": "2026-11-02T21:19:57.000Z",
+    "conversation_id": "2117366124010709390"
    }
   },
   {
@@ -7628,7 +7818,8 @@
     "author_id": "191871143",
     "username": "VigilantFox",
     "name": "The Vigilant Fox 🦊",
-    "created_at": "2026-11-02T20:06:47.000Z"
+    "created_at": "2026-11-02T20:06:47.000Z",
+    "conversation_id": "2117347709510181319"
    }
   },
   {
@@ -7663,7 +7854,8 @@
     "author_id": "1133510366422392833",
     "username": "DrewPavlou",
     "name": "Drew Pavlou 🇦🇺🇺🇸🇫🇷🇺🇦🇹🇼",
-    "created_at": "2026-11-03T01:43:18.000Z"
+    "created_at": "2026-11-03T01:43:18.000Z",
+    "conversation_id": "2117432396727632178"
    }
   },
   {
@@ -7870,7 +8062,8 @@
       "height": 720,
       "duration_ms": 265045
      }
-    ]
+    ],
+    "conversation_id": "2117302664799396177"
    }
   },
   {
@@ -8001,8 +8194,10 @@
      "username": "scottbillows",
      "name": "Scott Billows",
      "created_at": "2026-11-01T14:30:57.000Z",
-     "text": "We closed our first deal with Grok @bot this week 🚀\n\nMy business has a very traditional sales cycle that often takes months to cultivate and close. We pointed Grok Bot at our tools and it surfaced past prospects/customers for my AE’s to reach out to. Two weeks in we have our first closed/won deal.\n\nWithout Grok Bot we most likely would not have reached out to this past customer. With Grok Bot it pulled this customer from the haystack and surfaced it to my AE who simply reached out, pitched and closed.\n\nIt’s absolutely amazing! Thank you @elonmusk.\nThank you @mattyp for showing us what can be done with Grok Bot."
-    }
+     "text": "We closed our first deal with Grok @bot this week 🚀\n\nMy business has a very traditional sales cycle that often takes months to cultivate and close. We pointed Grok Bot at our tools and it surfaced past prospects/customers for my AE’s to reach out to. Two weeks in we have our first closed/won deal.\n\nWithout Grok Bot we most likely would not have reached out to this past customer. With Grok Bot it pulled this customer from the haystack and surfaced it to my AE who simply reached out, pitched and closed.\n\nIt’s absolutely amazing! Thank you @elonmusk.\nThank you @mattyp for showing us what can be done with Grok Bot.",
+     "conversation_id": "2116900809388511586"
+    },
+    "conversation_id": "2117285679961096683"
    }
   },
   {
@@ -8059,7 +8254,8 @@
     "author_id": "3086071",
     "username": "lonseidman",
     "name": "Lon Seidman",
-    "created_at": "2026-11-02T01:30:09.000Z"
+    "created_at": "2026-11-02T01:30:09.000Z",
+    "conversation_id": "2117066703561515106"
    }
   },
   {
@@ -8166,7 +8362,8 @@
     "author_id": "362823866",
     "username": "marty_kausas",
     "name": "Marty Kausas",
-    "created_at": "2026-11-02T17:48:09.000Z"
+    "created_at": "2026-11-02T17:48:09.000Z",
+    "conversation_id": "2117312824829411683"
    }
   },
   {
@@ -8437,8 +8634,10 @@
        "width": 3000,
        "height": 4000
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117189496391569784"
+    },
+    "conversation_id": "2117195631160660066"
    }
   },
   {
@@ -8465,7 +8664,12 @@
     "author_id": "44196397",
     "username": "elonmusk",
     "name": "Elon Musk",
-    "created_at": "2026-11-02T15:08:54.000Z"
+    "created_at": "2026-11-02T15:08:54.000Z",
+    "reply_to": {
+     "id": "2117262255603798073",
+     "username": "shaunmmaguire"
+    },
+    "conversation_id": "2117193343482368088"
    }
   },
   {
@@ -8530,8 +8734,10 @@
        "width": 1600,
        "height": 900
       }
-     ]
-    }
+     ],
+     "conversation_id": "2116619519989096450"
+    },
+    "conversation_id": "2117247883842084961"
    }
   },
   {
@@ -8641,7 +8847,8 @@
     "author_id": "985243593538338816",
     "username": "Teslaconomics",
     "name": "Teslaconomics",
-    "created_at": "2026-11-02T05:11:33.000Z"
+    "created_at": "2026-11-02T05:11:33.000Z",
+    "conversation_id": "2117122417634250989"
    }
   },
   {
@@ -8677,7 +8884,8 @@
       "width": 2048,
       "height": 2048
      }
-    ]
+    ],
+    "conversation_id": "2117215644957716547"
    }
   },
   {
@@ -8735,8 +8943,10 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-01T23:20:05.000Z",
-     "text": "Try Grok @Bot! You will love it.\n\nWe land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible. https://twitter.com/shimabu_it/status/2116706033271992754"
-    }
+     "text": "Try Grok @Bot! You will love it.\n\nWe land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible. https://twitter.com/shimabu_it/status/2116706033271992754",
+     "conversation_id": "2117033967782113327"
+    },
+    "conversation_id": "2117047788882264533"
    }
   },
   {
@@ -8785,8 +8995,10 @@
        "width": 1179,
        "height": 897
       }
-     ]
-    }
+     ],
+     "conversation_id": "2116988785145548909"
+    },
+    "conversation_id": "2117043924690747428"
    }
   },
   {
@@ -8856,8 +9068,10 @@
      "name": "codila",
      "created_at": "2026-08-19T17:36:18.000Z",
      "text": "https://x.com/i/article/2089981839528083456",
-     "article_title": "Grok Bot Agents: Build 24/7 AI Agent Graph That Automate Your Life (The Ultimate 5-Step Guide)"
-    }
+     "article_title": "Grok Bot Agents: Build 24/7 AI Agent Graph That Automate Your Life (The Ultimate 5-Step Guide)",
+     "conversation_id": "2090130749768786050"
+    },
+    "conversation_id": "2116960213206966317"
    }
   },
   {
@@ -8883,7 +9097,8 @@
     "author_id": "3033730635",
     "username": "EXM7777",
     "name": "Machina",
-    "created_at": "2026-11-01T21:03:00.000Z"
+    "created_at": "2026-11-01T21:03:00.000Z",
+    "conversation_id": "2116999470437339364"
    }
   },
   {
@@ -8945,7 +9160,8 @@
     "author_id": "1405031034",
     "username": "JulianGoldieSEO",
     "name": "Julian Goldie SEO",
-    "created_at": "2026-11-01T11:25:00.000Z"
+    "created_at": "2026-11-01T11:25:00.000Z",
+    "conversation_id": "2116854011827806310"
    }
   },
   {
@@ -9007,7 +9223,8 @@
     "author_id": "1275333333724000257",
     "username": "Saboo_Shubham_",
     "name": "Shubham Saboo",
-    "created_at": "2026-11-01T03:54:23.000Z"
+    "created_at": "2026-11-01T03:54:23.000Z",
+    "conversation_id": "2116740612372435274"
    }
   },
   {
@@ -9033,7 +9250,8 @@
     "author_id": "1324183584282939392",
     "username": "Texas_Twins_Dad",
     "name": "Texas Twins Dad",
-    "created_at": "2026-11-01T20:30:09.000Z"
+    "created_at": "2026-11-01T20:30:09.000Z",
+    "conversation_id": "2116991205061841011"
    }
   },
   {
@@ -9067,8 +9285,10 @@
      "username": "JackEllis",
      "name": "Jack Ellis",
      "created_at": "2026-10-30T21:16:43.000Z",
-     "text": "SpaceX acquiring Cursor was a genius move. The Cursor team are WILD. I just took Claude Code for a spin for the last two hours and it's just horrible compared to Cursor Projects. Anthropic wins on usage subsidies, Opus beats Grok by miles, but Cursor's UX is off the charts."
-    }
+     "text": "SpaceX acquiring Cursor was a genius move. The Cursor team are WILD. I just took Claude Code for a spin for the last two hours and it's just horrible compared to Cursor Projects. Anthropic wins on usage subsidies, Opus beats Grok by miles, but Cursor's UX is off the charts.",
+     "conversation_id": "2116278148589666775"
+    },
+    "conversation_id": "2116706033271992754"
    }
   },
   {
@@ -9110,8 +9330,10 @@
      "name": "Brian Roemmele",
      "created_at": "2026-10-31T14:06:30.000Z",
      "text": "https://x.com/i/article/2116522743097430016",
-     "article_title": "I Tested Every Bot Platform So You Did Not Have To. Here Is What I Found."
-    }
+     "article_title": "I Tested Every Bot Platform So You Did Not Have To. Here Is What I Found.",
+     "conversation_id": "2116532267581608050"
+    },
+    "conversation_id": "2116708293901205698"
    }
   },
   {
@@ -9151,7 +9373,8 @@
     "author_id": "890061634181373952",
     "username": "CollinRugg",
     "name": "Collin Rugg",
-    "created_at": "2026-11-01T15:57:51.000Z"
+    "created_at": "2026-11-01T15:57:51.000Z",
+    "conversation_id": "2116922678733058176"
    }
   },
   {
@@ -9213,7 +9436,8 @@
     "author_id": "1016059981907386368",
     "username": "teslaownersSV",
     "name": "Tesla Owners Silicon Valley",
-    "created_at": "2026-11-01T20:54:46.000Z"
+    "created_at": "2026-11-01T20:54:46.000Z",
+    "conversation_id": "2116997397348045165"
    }
   },
   {
@@ -9284,8 +9508,10 @@
        "height": 1350,
        "duration_ms": 98021
       }
-     ]
-    }
+     ],
+     "conversation_id": "2116945962706862397"
+    },
+    "conversation_id": "2116952620862423169"
    }
   },
   {
@@ -9326,8 +9552,10 @@
        "width": 700,
        "height": 610
       }
-     ]
-    }
+     ],
+     "conversation_id": "2116870155527434736"
+    },
+    "conversation_id": "2116964579750379687"
    }
   },
   {
@@ -9468,8 +9696,10 @@
        "width": 802,
        "height": 332
       }
-     ]
-    }
+     ],
+     "conversation_id": "2116507226420752436"
+    },
+    "conversation_id": "2116638251025100975"
    }
   },
   {
@@ -9572,7 +9802,12 @@
     "author_id": "1965823612339789824",
     "username": "KittyMidge",
     "name": "KittyKittyKitty",
-    "created_at": "2026-11-01T20:35:43.000Z"
+    "created_at": "2026-11-01T20:35:43.000Z",
+    "reply_to": {
+     "id": "2116990933103509723",
+     "username": "elonmusk"
+    },
+    "conversation_id": "2116990933103509723"
    }
   },
   {
@@ -9676,7 +9911,8 @@
       "width": 1080,
       "height": 1350
      }
-    ]
+    ],
+    "conversation_id": "2116967150200193242"
    }
   },
   {
@@ -9766,7 +10002,8 @@
       "height": 1080,
       "duration_ms": 57250
      }
-    ]
+    ],
+    "conversation_id": "2116918244363878832"
    }
   },
   {
@@ -9829,7 +10066,8 @@
       "height": 1088,
       "duration_ms": 15042
      }
-    ]
+    ],
+    "conversation_id": "2116989560232067461"
    }
   },
   {
@@ -9863,7 +10101,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-01T16:34:55.000Z"
+    "created_at": "2026-11-01T16:34:55.000Z",
+    "conversation_id": "2116932007632736521"
    }
   },
   {
@@ -9955,8 +10194,10 @@
        "height": 1000,
        "duration_ms": 9920
       }
-     ]
-    }
+     ],
+     "conversation_id": "2116872470963892248"
+    },
+    "conversation_id": "2116912508401545425"
    }
   },
   {
@@ -9991,7 +10232,8 @@
       "width": 1600,
       "height": 1225
      }
-    ]
+    ],
+    "conversation_id": "2116643253726683590"
    }
   },
   {
@@ -10047,8 +10289,14 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-10-31T18:21:53.000Z",
-     "text": "@XFreeze There will be a total of around 1.2M Blackwells at Colossus 2 by end of year"
-    }
+     "text": "@XFreeze There will be a total of around 1.2M Blackwells at Colossus 2 by end of year",
+     "reply_to": {
+      "id": "2116594285474947200",
+      "username": "XFreeze"
+     },
+     "conversation_id": "2116594285474947200"
+    },
+    "conversation_id": "2116926625657024819"
    }
   },
   {
@@ -10173,7 +10421,8 @@
     "author_id": "3840",
     "username": "Jason",
     "name": "@jason",
-    "created_at": "2026-11-01T16:44:46.000Z"
+    "created_at": "2026-11-01T16:44:46.000Z",
+    "conversation_id": "2116934482515083564"
    }
   },
   {
@@ -10257,7 +10506,8 @@
     "author_id": "1874492187070615552",
     "username": "brivael",
     "name": "Brivael Le Pogam",
-    "created_at": "2026-11-01T10:34:15.000Z"
+    "created_at": "2026-11-01T10:34:15.000Z",
+    "conversation_id": "2116841241241436458"
    }
   },
   {
@@ -10291,8 +10541,10 @@
      "username": "WaterworldCapi1",
      "name": "Waterworld Capital",
      "created_at": "2026-10-31T02:43:37.000Z",
-     "text": "Idiot VC discovers making up stuff in excel (via Claude)..to be fair he is just putting in numbers Elon is saying that make zero sense. https://twitter.com/shaunmmaguire/status/2116261542052454704"
-    }
+     "text": "Idiot VC discovers making up stuff in excel (via Claude)..to be fair he is just putting in numbers Elon is saying that make zero sense. https://twitter.com/shaunmmaguire/status/2116261542052454704",
+     "conversation_id": "2116360413113729122"
+    },
+    "conversation_id": "2116909323670482979"
    }
   },
   {
@@ -10378,7 +10630,8 @@
       "height": 1080,
       "duration_ms": 14047
      }
-    ]
+    ],
+    "conversation_id": "2116923224063664354"
    }
   },
   {
@@ -10442,7 +10695,8 @@
       "width": 1053,
       "height": 1200
      }
-    ]
+    ],
+    "conversation_id": "2116955860073414760"
    }
   },
   {
@@ -10471,7 +10725,8 @@
     "author_id": "261388832",
     "username": "CernBasher",
     "name": "Cern Basher",
-    "created_at": "2026-11-01T02:33:04.000Z"
+    "created_at": "2026-11-01T02:33:04.000Z",
+    "conversation_id": "2116720147113058754"
    }
   },
   {
@@ -10527,7 +10782,8 @@
     "author_id": "1841988608825466880",
     "username": "america",
     "name": "America",
-    "created_at": "2026-11-01T18:03:07.000Z"
+    "created_at": "2026-11-01T18:03:07.000Z",
+    "conversation_id": "2116954200575779303"
    }
   },
   {
@@ -10562,7 +10818,8 @@
       "width": 680,
       "height": 426
      }
-    ]
+    ],
+    "conversation_id": "2116885685743321273"
    }
   },
   {
@@ -10588,7 +10845,12 @@
     "author_id": "44196397",
     "username": "elonmusk",
     "name": "Elon Musk",
-    "created_at": "2026-10-31T17:54:45.000Z"
+    "created_at": "2026-10-31T17:54:45.000Z",
+    "reply_to": {
+     "id": "2115438471942930718",
+     "username": "Grummz"
+    },
+    "conversation_id": "2115346075666325755"
    }
   },
   {
@@ -10622,7 +10884,8 @@
     "author_id": "1671235200582287362",
     "username": "abbyronson",
     "name": "Abby Ronson",
-    "created_at": "2026-11-01T16:24:34.000Z"
+    "created_at": "2026-11-01T16:24:34.000Z",
+    "conversation_id": "2116929399820022102"
    }
   },
   {
@@ -10724,7 +10987,8 @@
     "author_id": "15527242",
     "username": "herbertong",
     "name": "Herbert Ong",
-    "created_at": "2026-10-26T16:05:00.000Z"
+    "created_at": "2026-10-26T16:05:00.000Z",
+    "conversation_id": "2114750149062987864"
    }
   },
   {

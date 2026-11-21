@@ -36,7 +36,12 @@
     "author_id": "1872160058",
     "username": "Boca_Bill_R",
     "name": "Bill R",
-    "created_at": "2026-11-17T16:30:38.000Z"
+    "created_at": "2026-11-17T16:30:38.000Z",
+    "reply_to": {
+     "id": "2122363744806199373",
+     "username": "MrBeast"
+    },
+    "conversation_id": "2122331104241725767"
    }
   },
   {
@@ -63,7 +68,8 @@
     "author_id": "2070631956824698880",
     "username": "JensenHuang",
     "name": "Jensen Huang",
-    "created_at": "2026-11-17T16:18:12.000Z"
+    "created_at": "2026-11-17T16:18:12.000Z",
+    "conversation_id": "2122726005219737649"
    }
   },
   {
@@ -90,7 +96,8 @@
     "author_id": "1981270038817693696",
     "username": "Da7_Tech",
     "name": "Da7em",
-    "created_at": "2026-11-17T14:13:26.000Z"
+    "created_at": "2026-11-17T14:13:26.000Z",
+    "conversation_id": "2122694607335235839"
    }
   },
   {
@@ -159,7 +166,8 @@
     "author_id": "541882699",
     "username": "andst7",
     "name": "Andrea Stroppa 🐺 Claudius Nero's Legion 🐺",
-    "created_at": "2026-11-16T09:20:44.000Z"
+    "created_at": "2026-11-16T09:20:44.000Z",
+    "conversation_id": "2122258555788984676"
    }
   },
   {
@@ -209,8 +217,10 @@
        "width": 1324,
        "height": 650
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122315418287116460"
+    },
+    "conversation_id": "2122495096209678677"
    }
   },
   {
@@ -280,8 +290,14 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-15T23:47:27.000Z",
-     "text": "Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon.\n\nPerhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably?\n\nAlso, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit?\n\nI am genuinely curious about these questions."
-    }
+     "text": "Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon.\n\nPerhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably?\n\nAlso, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit?\n\nI am genuinely curious about these questions.",
+     "reply_to": {
+      "id": "2121998577819914262",
+      "username": "dhh"
+     },
+     "conversation_id": "2121803929537204575"
+    },
+    "conversation_id": "2122305474054029695"
    }
   },
   {
@@ -396,7 +412,8 @@
     "username": "SpaceX",
     "name": "SpaceX",
     "created_at": "2026-11-12T16:10:20.000Z",
-    "text": "SpaceX has committed $220 million to expand water and wastewater infrastructure for Brownsville and Cameron County -- the largest private contribution to Brownsville’s water future in the city’s history.\n\nThis investment addresses one of the region’s most urgent challenges: securing a reliable, sustainable supply of drinking water for generations to come"
+    "text": "SpaceX has committed $220 million to expand water and wastewater infrastructure for Brownsville and Cameron County -- the largest private contribution to Brownsville’s water future in the city’s history.\n\nThis investment addresses one of the region’s most urgent challenges: securing a reliable, sustainable supply of drinking water for generations to come",
+    "conversation_id": "2120912086989426746"
    }
   },
   {
@@ -547,8 +564,10 @@
        "height": 720,
        "duration_ms": 394176
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122343944889483583"
+    },
+    "conversation_id": "2122365160308547836"
    }
   },
   {
@@ -606,8 +625,14 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-15T23:47:27.000Z",
-     "text": "Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon.\n\nPerhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably?\n\nAlso, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit?\n\nI am genuinely curious about these questions."
-    }
+     "text": "Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon.\n\nPerhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably?\n\nAlso, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit?\n\nI am genuinely curious about these questions.",
+     "reply_to": {
+      "id": "2121998577819914262",
+      "username": "dhh"
+     },
+     "conversation_id": "2121803929537204575"
+    },
+    "conversation_id": "2122513599998677298"
    }
   },
   {
@@ -694,7 +719,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-17T11:59:22.000Z"
+    "created_at": "2026-11-17T11:59:22.000Z",
+    "conversation_id": "2122660866311197015"
    }
   },
   {
@@ -758,8 +784,10 @@
        "height": 720,
        "duration_ms": 28733
       }
-     ]
-    }
+     ],
+     "conversation_id": "2120952356825137367"
+    },
+    "conversation_id": "2122385976085344524"
    }
   },
   {
@@ -788,7 +816,8 @@
     "author_id": "20402945",
     "username": "CNBC",
     "name": "CNBC",
-    "created_at": "2026-11-16T15:29:18.000Z"
+    "created_at": "2026-11-16T15:29:18.000Z",
+    "conversation_id": "2122351312213843987"
    }
   },
   {
@@ -871,7 +900,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-17T11:16:31.000Z"
+    "created_at": "2026-11-17T11:16:31.000Z",
+    "conversation_id": "2122650084794048574"
    }
   },
   {
@@ -913,8 +943,14 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-17T02:09:08.000Z",
-     "text": "@semafor @jonkarl South Africa is now super racist against Whites and Asians"
-    }
+     "text": "@semafor @jonkarl South Africa is now super racist against Whites and Asians",
+     "reply_to": {
+      "id": "2122422016418406793",
+      "username": "semafor"
+     },
+     "conversation_id": "2122422016418406793"
+    },
+    "conversation_id": "2122597466034028975"
    }
   },
   {
@@ -949,7 +985,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-17T07:44:40.000Z"
+    "created_at": "2026-11-17T07:44:40.000Z",
+    "conversation_id": "2122596768051548482"
    }
   },
   {
@@ -1020,8 +1057,10 @@
        "height": 1080,
        "duration_ms": 196022
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117044016621748292"
+    },
+    "conversation_id": "2122381867512918510"
    }
   },
   {
@@ -1091,8 +1130,10 @@
        "height": 1080,
        "duration_ms": 196022
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117044016621748292"
+    },
+    "conversation_id": "2122381867512918510"
    }
   },
   {
@@ -1162,8 +1203,10 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-17T06:26:47.000Z",
-     "text": "Relentless reinforcement learning must feel like Edge of Tomorrow to superintelligence"
-    }
+     "text": "Relentless reinforcement learning must feel like Edge of Tomorrow to superintelligence",
+     "conversation_id": "2122577169863885235"
+    },
+    "conversation_id": "2122578000487256086"
    }
   },
   {
@@ -1321,7 +1364,12 @@
     "author_id": "44196397",
     "username": "elonmusk",
     "name": "Elon Musk",
-    "created_at": "2026-11-17T07:14:09.000Z"
+    "created_at": "2026-11-17T07:14:09.000Z",
+    "reply_to": {
+     "id": "2122577137609912605",
+     "username": "XFreeze"
+    },
+    "conversation_id": "2122577137609912605"
    }
   },
   {
@@ -1379,7 +1427,8 @@
     "author_id": "1577705091737432070",
     "username": "yunta_tsai",
     "name": "Yun-Ta Tsai",
-    "created_at": "2026-11-17T05:33:27.000Z"
+    "created_at": "2026-11-17T05:33:27.000Z",
+    "conversation_id": "2122563749668167851"
    }
   },
   {
@@ -1442,7 +1491,8 @@
       "height": 1080,
       "duration_ms": 77500
      }
-    ]
+    ],
+    "conversation_id": "2122452622519230711"
    }
   },
   {
@@ -1615,8 +1665,10 @@
        "height": 1852,
        "duration_ms": 92523
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121364370257219697"
+    },
+    "conversation_id": "2121840684294611324"
    }
   },
   {
@@ -1643,7 +1695,8 @@
     "username": "parkersmith",
     "name": "Parker Smith",
     "created_at": "2026-11-17T02:41:25.000Z",
-    "text": "👋 Looking to get some feedback from folks automating most of their work with Bot, in exchange for some credits.\n\nIf this is you, please reply to this thread with how you use Bot and DM me your email!"
+    "text": "👋 Looking to get some feedback from folks automating most of their work with Bot, in exchange for some credits.\n\nIf this is you, please reply to this thread with how you use Bot and DM me your email!",
+    "conversation_id": "2122520453604372990"
    }
   },
   {
@@ -1690,8 +1743,10 @@
        "width": 1179,
        "height": 2156
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122425656013427044"
+    },
+    "conversation_id": "2122433424010924139"
    }
   },
   {
@@ -1732,8 +1787,10 @@
        "width": 4096,
        "height": 2359
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122363982627389528"
+    },
+    "conversation_id": "2122366870187851813"
    }
   },
   {
@@ -1769,7 +1826,8 @@
     "author_id": "1283514442337128454",
     "username": "AndrThie",
     "name": "André Thierig",
-    "created_at": "2026-11-16T16:19:39.000Z"
+    "created_at": "2026-11-16T16:19:39.000Z",
+    "conversation_id": "2122363982627389528"
    }
   },
   {
@@ -1796,7 +1854,8 @@
     "username": "congressdj",
     "name": "DJ",
     "created_at": "2026-11-16T22:19:26.000Z",
-    "text": "Grok Bot just got off a 90 minute phone call with AT&T handling a complex issue for me. Unfortunately, that’s the time limit for Grok Bot calls.\n\nHowever.\n\nAT&T called me back and the agent was STUNNED that she had been talking to a bot for 90minutes. She’d had other bots call before, but “nothing like this”. She downloaded Grok Bot while talking to me.\n\nThis sh— is gonna change the world."
+    "text": "Grok Bot just got off a 90 minute phone call with AT&T handling a complex issue for me. Unfortunately, that’s the time limit for Grok Bot calls.\n\nHowever.\n\nAT&T called me back and the agent was STUNNED that she had been talking to a bot for 90minutes. She’d had other bots call before, but “nothing like this”. She downloaded Grok Bot while talking to me.\n\nThis sh— is gonna change the world.",
+    "conversation_id": "2122454524468056263"
    }
   },
   {
@@ -1881,7 +1940,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-17T01:53:33.000Z"
+    "created_at": "2026-11-17T01:53:33.000Z",
+    "conversation_id": "2122508406879895871"
    }
   },
   {
@@ -1943,7 +2003,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-17T03:16:45.000Z"
+    "created_at": "2026-11-17T03:16:45.000Z",
+    "conversation_id": "2122529345902350362"
    }
   },
   {
@@ -2006,7 +2067,8 @@
       "height": 1080,
       "duration_ms": 209166
      }
-    ]
+    ],
+    "conversation_id": "2122378146120880429"
    }
   },
   {
@@ -2062,7 +2124,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-16T20:16:16.000Z"
+    "created_at": "2026-11-16T20:16:16.000Z",
+    "conversation_id": "2122423529769763225"
    }
   },
   {
@@ -2188,7 +2251,8 @@
     "author_id": "2651190312",
     "username": "BrendanCarrFCC",
     "name": "Brendan Carr",
-    "created_at": "2026-11-16T23:05:34.000Z"
+    "created_at": "2026-11-16T23:05:34.000Z",
+    "conversation_id": "2122466131894231467"
    }
   },
   {
@@ -2237,7 +2301,8 @@
     "author_id": "314817096",
     "username": "RealOtisCrune",
     "name": "Otis Crune 🇺🇲🌎🚀",
-    "created_at": "2026-11-16T16:01:58.000Z"
+    "created_at": "2026-11-16T16:01:58.000Z",
+    "conversation_id": "2122359530705358859"
    }
   },
   {
@@ -2264,7 +2329,8 @@
     "username": "RealOtisCrune",
     "name": "Otis Crune 🇺🇲🌎🚀",
     "created_at": "2026-11-16T16:01:58.000Z",
-    "text": "For many on the left, SpaceX exists in a bizzare quantum superposition of cognitive dissonance.\n\nSpaceX is simultaneously both a shameless valueless con job AND critical national infrastructure so essential that it must be nationalized."
+    "text": "For many on the left, SpaceX exists in a bizzare quantum superposition of cognitive dissonance.\n\nSpaceX is simultaneously both a shameless valueless con job AND critical national infrastructure so essential that it must be nationalized.",
+    "conversation_id": "2122359530705358859"
    }
   },
   {
@@ -2326,7 +2392,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-17T00:43:47.000Z"
+    "created_at": "2026-11-17T00:43:47.000Z",
+    "conversation_id": "2122490851129774345"
    }
   },
   {
@@ -2359,8 +2426,14 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-15T23:47:27.000Z",
-     "text": "Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon.\n\nPerhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably?\n\nAlso, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit?\n\nI am genuinely curious about these questions."
-    }
+     "text": "Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon.\n\nPerhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably?\n\nAlso, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit?\n\nI am genuinely curious about these questions.",
+     "reply_to": {
+      "id": "2121998577819914262",
+      "username": "dhh"
+     },
+     "conversation_id": "2121803929537204575"
+    },
+    "conversation_id": "2122373284813742579"
    }
   },
   {
@@ -2488,8 +2561,10 @@
        "height": 1080,
        "duration_ms": 34300
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122346187152077278"
+    },
+    "conversation_id": "2122362057018216869"
    }
   },
   {
@@ -2523,7 +2598,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-16T17:39:31.000Z"
+    "created_at": "2026-11-16T17:39:31.000Z",
+    "conversation_id": "2122384078683111829"
    }
   },
   {
@@ -2608,7 +2684,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-16T19:56:32.000Z"
+    "created_at": "2026-11-16T19:56:32.000Z",
+    "conversation_id": "2122418561985749454"
    }
   },
   {
@@ -2676,7 +2753,8 @@
     "author_id": "2085838061347217408",
     "username": "bot",
     "name": "Grok Bot",
-    "created_at": "2026-11-16T17:49:14.000Z"
+    "created_at": "2026-11-16T17:49:14.000Z",
+    "conversation_id": "2122386524297974128"
    }
   },
   {
@@ -2718,7 +2796,8 @@
     "author_id": "1317327383628705793",
     "username": "ArthurMacwaters",
     "name": "Arthur MacWaters",
-    "created_at": "2026-11-17T00:25:36.000Z"
+    "created_at": "2026-11-17T00:25:36.000Z",
+    "conversation_id": "2122486274040951096"
    }
   },
   {
@@ -2782,7 +2861,8 @@
     "author_id": "34743251",
     "username": "SpaceX",
     "name": "SpaceX",
-    "created_at": "2026-11-16T21:49:17.000Z"
+    "created_at": "2026-11-16T21:49:17.000Z",
+    "conversation_id": "2122446937286971592"
    }
   },
   {
@@ -2861,7 +2941,8 @@
     "author_id": "1881451105454002176",
     "username": "RapidResponse47",
     "name": "Rapid Response 47",
-    "created_at": "2026-11-16T20:05:02.000Z"
+    "created_at": "2026-11-16T20:05:02.000Z",
+    "conversation_id": "2122420702686961667"
    }
   },
   {
@@ -3018,8 +3099,10 @@
        "height": 2160,
        "duration_ms": 29679
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122427170328883425"
+    },
+    "conversation_id": "2122429483391324638"
    }
   },
   {
@@ -3089,7 +3172,8 @@
     "author_id": "1330170106501079041",
     "username": "Starlink",
     "name": "Starlink",
-    "created_at": "2026-11-16T21:45:56.000Z"
+    "created_at": "2026-11-16T21:45:56.000Z",
+    "conversation_id": "2122446093648875712"
    }
   },
   {
@@ -3117,7 +3201,8 @@
     "author_id": "92356429",
     "username": "DJSnM",
     "name": "Scott Manley",
-    "created_at": "2026-11-16T18:22:33.000Z"
+    "created_at": "2026-11-16T18:22:33.000Z",
+    "conversation_id": "2122394910359990321"
    }
   },
   {
@@ -3175,7 +3260,12 @@
       "width": 1152,
       "height": 1383
      }
-    ]
+    ],
+    "reply_to": {
+     "id": "2122394910359990321",
+     "username": "DJSnM"
+    },
+    "conversation_id": "2122394910359990321"
    }
   },
   {
@@ -3201,7 +3291,8 @@
     "author_id": "3840",
     "username": "Jason",
     "name": "@jason",
-    "created_at": "2026-11-16T17:27:46.000Z"
+    "created_at": "2026-11-16T17:27:46.000Z",
+    "conversation_id": "2122381122474520707"
    }
   },
   {
@@ -3309,7 +3400,8 @@
     "author_id": "34743251",
     "username": "SpaceX",
     "name": "SpaceX",
-    "created_at": "2026-11-16T20:30:44.000Z"
+    "created_at": "2026-11-16T20:30:44.000Z",
+    "conversation_id": "2122427170328883425"
    }
   },
   {
@@ -3418,7 +3510,8 @@
       "height": 2160,
       "duration_ms": 29679
      }
-    ]
+    ],
+    "conversation_id": "2122427170328883425"
    }
   },
   {
@@ -3453,7 +3546,8 @@
       "width": 1080,
       "height": 1350
      }
-    ]
+    ],
+    "conversation_id": "2122334905833308170"
    }
   },
   {
@@ -3546,7 +3640,8 @@
     "author_id": "1330170106501079041",
     "username": "Starlink",
     "name": "Starlink",
-    "created_at": "2026-11-16T21:45:56.000Z"
+    "created_at": "2026-11-16T21:45:56.000Z",
+    "conversation_id": "2122446093648875712"
    }
   },
   {
@@ -3618,7 +3713,8 @@
     "author_id": "1626031857614848000",
     "username": "WallenElia",
     "name": "Elia Wallen",
-    "created_at": "2026-11-16T17:25:41.000Z"
+    "created_at": "2026-11-16T17:25:41.000Z",
+    "conversation_id": "2122380597452837359"
    }
   },
   {
@@ -3675,7 +3771,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-16T15:20:21.000Z"
+    "created_at": "2026-11-16T15:20:21.000Z",
+    "conversation_id": "2122349057712750988"
    }
   },
   {
@@ -3710,7 +3807,8 @@
     "author_id": "18856867",
     "username": "zerohedge",
     "name": "zerohedge",
-    "created_at": "2026-11-16T20:58:36.000Z"
+    "created_at": "2026-11-16T20:58:36.000Z",
+    "conversation_id": "2122434181904924817"
    }
   },
   {
@@ -3795,7 +3893,11 @@
     "username": "elonmusk",
     "name": "Elon Musk",
     "created_at": "2025-02-27T19:24:35.000Z",
-    "text": "Correction: the ancient system that is rapidly declining in capability was made L3Harris. The new system that is not yet operational is from Verizon."
+    "text": "Correction: the ancient system that is rapidly declining in capability was made L3Harris. The new system that is not yet operational is from Verizon.",
+    "reply_to": {
+     "id": "1895129237478162621",
+     "username": "elonmusk"
+    }
    }
   },
   {
@@ -3917,7 +4019,8 @@
     "author_id": "194694215",
     "username": "zebulgar",
     "name": "delian",
-    "created_at": "2026-11-16T20:25:52.000Z"
+    "created_at": "2026-11-16T20:25:52.000Z",
+    "conversation_id": "2122425945990840499"
    }
   },
   {
@@ -3944,7 +4047,8 @@
     "author_id": "76945873",
     "username": "AlanMamedi",
     "name": "Alan Mamedi",
-    "created_at": "2026-11-16T14:43:32.000Z"
+    "created_at": "2026-11-16T14:43:32.000Z",
+    "conversation_id": "2122339794113953836"
    }
   },
   {
@@ -4282,7 +4386,8 @@
     "author_id": "34743251",
     "username": "SpaceX",
     "name": "SpaceX",
-    "created_at": "2026-11-16T15:45:20.000Z"
+    "created_at": "2026-11-16T15:45:20.000Z",
+    "conversation_id": "2122355344576037338"
    }
   },
   {
@@ -4352,7 +4457,8 @@
       "height": 720,
       "duration_ms": 394176
      }
-    ]
+    ],
+    "conversation_id": "2122343944889483583"
    }
   },
   {
@@ -4462,7 +4568,8 @@
       "height": 2160,
       "duration_ms": 55530
      }
-    ]
+    ],
+    "conversation_id": "2122368004298068305"
    }
   },
   {
@@ -4522,7 +4629,8 @@
       "width": 1365,
       "height": 2048
      }
-    ]
+    ],
+    "conversation_id": "2122394007754125484"
    }
   },
   {
@@ -4585,7 +4693,8 @@
     "author_id": "250414171",
     "username": "nelkboys",
     "name": "Nelk Boys",
-    "created_at": "2026-11-16T16:57:30.000Z"
+    "created_at": "2026-11-16T16:57:30.000Z",
+    "conversation_id": "2122373508064034895"
    }
   },
   {
@@ -4627,7 +4736,8 @@
       "width": 1206,
       "height": 1766
      }
-    ]
+    ],
+    "conversation_id": "2122035748648202492"
    }
   },
   {
@@ -5807,7 +5917,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-16T14:31:52.000Z"
+    "created_at": "2026-11-16T14:31:52.000Z",
+    "conversation_id": "2122336858415989037"
    }
   },
   {
@@ -5890,7 +6001,8 @@
     "author_id": "4375247427",
     "username": "ApoStructura",
     "name": "ApoStructura",
-    "created_at": "2026-11-16T09:44:05.000Z"
+    "created_at": "2026-11-16T09:44:05.000Z",
+    "conversation_id": "2122264436069339575"
    }
   },
   {
@@ -5973,7 +6085,8 @@
     "author_id": "1853866883851620352",
     "username": "robotaxi",
     "name": "Robotaxi",
-    "created_at": "2026-11-16T07:44:54.000Z"
+    "created_at": "2026-11-16T07:44:54.000Z",
+    "conversation_id": "2122234442328740005"
    }
   },
   {
@@ -6025,7 +6138,8 @@
     "username": "mark_k",
     "name": "Mark Kretschmann",
     "created_at": "2026-11-15T14:35:32.000Z",
-    "text": "Grok's text watermarking is now off by default in the SpaceXSI API.\n\nElon Musk confirmed it and went further. He says text watermarking with Grok is only on where the law requires it or a user asks for it.\n\nSo if you build on Grok, your output won't carry a hidden watermark unless you switch it on or a law requires one."
+    "text": "Grok's text watermarking is now off by default in the SpaceXSI API.\n\nElon Musk confirmed it and went further. He says text watermarking with Grok is only on where the law requires it or a user asks for it.\n\nSo if you build on Grok, your output won't carry a hidden watermark unless you switch it on or a law requires one.",
+    "conversation_id": "2121975392554619298"
    }
   },
   {
@@ -6052,7 +6166,8 @@
     "author_id": "1679697114144841730",
     "username": "SonoranAstro",
     "name": "Brent (Starship Appreciator)",
-    "created_at": "2026-11-15T19:57:46.000Z"
+    "created_at": "2026-11-15T19:57:46.000Z",
+    "conversation_id": "2122056486428008850"
    }
   },
   {
@@ -6129,8 +6244,10 @@
        "height": 2160,
        "duration_ms": 92720
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121715216597827756"
+    },
+    "conversation_id": "2122041454822363204"
    }
   },
   {
@@ -6166,7 +6283,8 @@
       "width": 1200,
       "height": 675
      }
-    ]
+    ],
+    "conversation_id": "2122186676164587648"
    }
   },
   {
@@ -6305,8 +6423,10 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2014-03-05T14:46:12.000Z",
-     "text": "About to testify before Senate against ULA (Lockheed and Boeing) monopoly contract for national security launches"
-    }
+     "text": "About to testify before Senate against ULA (Lockheed and Boeing) monopoly contract for national security launches",
+     "conversation_id": "441223153768226816"
+    },
+    "conversation_id": "2122193972722573371"
    }
   },
   {
@@ -6414,7 +6534,8 @@
       "width": 1236,
       "height": 1219
      }
-    ]
+    ],
+    "conversation_id": "2122156579520946435"
    }
   },
   {
@@ -6514,7 +6635,8 @@
     "username": "elonmusk",
     "name": "Elon Musk",
     "created_at": "2014-03-05T14:46:12.000Z",
-    "text": "About to testify before Senate against ULA (Lockheed and Boeing) monopoly contract for national security launches"
+    "text": "About to testify before Senate against ULA (Lockheed and Boeing) monopoly contract for national security launches",
+    "conversation_id": "441223153768226816"
    }
   },
   {
@@ -6563,7 +6685,8 @@
     "author_id": "27434900",
     "username": "JohnLeFevre",
     "name": "John LeFevre",
-    "created_at": "2026-11-16T03:45:45.000Z"
+    "created_at": "2026-11-16T03:45:45.000Z",
+    "conversation_id": "2122174254787760534"
    }
   },
   {
@@ -6666,7 +6789,12 @@
     "author_id": "44196397",
     "username": "elonmusk",
     "name": "Elon Musk",
-    "created_at": "2026-11-16T04:03:25.000Z"
+    "created_at": "2026-11-16T04:03:25.000Z",
+    "reply_to": {
+     "id": "2121827093017415989",
+     "username": "nbcsnl"
+    },
+    "conversation_id": "2121827093017415989"
    }
   },
   {
@@ -6729,7 +6857,8 @@
     "author_id": "1839268922463498240",
     "username": "LukeLeisher",
     "name": "Luke",
-    "created_at": "2026-11-15T03:13:41.000Z"
+    "created_at": "2026-11-15T03:13:41.000Z",
+    "conversation_id": "2121803800482807822"
    }
   },
   {
@@ -6868,7 +6997,8 @@
     "author_id": "1691608715193917440",
     "username": "max_west07",
     "name": "Max West",
-    "created_at": "2026-11-15T19:29:36.000Z"
+    "created_at": "2026-11-15T19:29:36.000Z",
+    "conversation_id": "2122049397617983783"
    }
   },
   {
@@ -6930,7 +7060,8 @@
     "author_id": "1722567099229601792",
     "username": "punishablepress",
     "name": "Michael McCarthy",
-    "created_at": "2026-11-15T13:24:02.000Z"
+    "created_at": "2026-11-15T13:24:02.000Z",
+    "conversation_id": "2121957400207130867"
    }
   },
   {
@@ -6993,7 +7124,8 @@
       "height": 1080,
       "duration_ms": 60000
      }
-    ]
+    ],
+    "conversation_id": "2122033615362302355"
    }
   },
   {
@@ -7027,7 +7159,12 @@
     "author_id": "1446919010487095303",
     "username": "AntiWokeMemes",
     "name": "Anti Woke Memes",
-    "created_at": "2026-11-16T02:00:09.000Z"
+    "created_at": "2026-11-16T02:00:09.000Z",
+    "reply_to": {
+     "id": "2122146355074232469",
+     "username": "elonmusk"
+    },
+    "conversation_id": "2122146355074232469"
    }
   },
   {
@@ -7108,7 +7245,8 @@
     "author_id": "243013409",
     "username": "SawyerMerritt",
     "name": "Sawyer Merritt",
-    "created_at": "2026-11-16T02:11:34.000Z"
+    "created_at": "2026-11-16T02:11:34.000Z",
+    "conversation_id": "2122150555078234620"
    }
   },
   {
@@ -7223,7 +7361,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-15T19:35:24.000Z"
+    "created_at": "2026-11-15T19:35:24.000Z",
+    "conversation_id": "2122050855499366681"
    }
   },
   {
@@ -7286,7 +7425,8 @@
     "author_id": "108365454",
     "username": "WR4NYGov",
     "name": "Warren Redlich - Chasing Dreams 🇺🇸",
-    "created_at": "2026-11-15T23:09:00.000Z"
+    "created_at": "2026-11-15T23:09:00.000Z",
+    "conversation_id": "2122104610643222844"
    }
   },
   {
@@ -7350,7 +7490,8 @@
       "height": 1080,
       "duration_ms": 398898
      }
-    ]
+    ],
+    "conversation_id": "2122130157616128377"
    }
   },
   {
@@ -7457,8 +7598,10 @@
        "height": 1080,
        "duration_ms": 18266
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122120160639426895"
+    },
+    "conversation_id": "2122135949094350967"
    }
   },
   {
@@ -7493,8 +7636,14 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-15T23:47:27.000Z",
-     "text": "Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon.\n\nPerhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably?\n\nAlso, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit?\n\nI am genuinely curious about these questions."
-    }
+     "text": "Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon.\n\nPerhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably?\n\nAlso, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit?\n\nI am genuinely curious about these questions.",
+     "reply_to": {
+      "id": "2121998577819914262",
+      "username": "dhh"
+     },
+     "conversation_id": "2121803929537204575"
+    },
+    "conversation_id": "2122116272725037236"
    }
   },
   {
@@ -7573,8 +7722,10 @@
        "height": 1290,
        "duration_ms": 90668
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121717540359434749"
+    },
+    "conversation_id": "2122078470121435372"
    }
   },
   {
@@ -7679,8 +7830,10 @@
        "height": 1920,
        "duration_ms": 15766
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122058900337840561"
+    },
+    "conversation_id": "2122072642509545544"
    }
   },
   {
@@ -7716,7 +7869,8 @@
       "width": 2562,
       "height": 3247
      }
-    ]
+    ],
+    "conversation_id": "2121995093204701439"
    }
   },
   {
@@ -7751,7 +7905,8 @@
     "author_id": "243013409",
     "username": "SawyerMerritt",
     "name": "Sawyer Merritt",
-    "created_at": "2026-11-15T15:53:49.000Z"
+    "created_at": "2026-11-15T15:53:49.000Z",
+    "conversation_id": "2121995093204701439"
    }
   },
   {
@@ -7809,7 +7964,8 @@
       "height": 720,
       "duration_ms": 10133
      }
-    ]
+    ],
+    "conversation_id": "2121955840370614708"
    }
   },
   {
@@ -7843,7 +7999,8 @@
     "author_id": "243013409",
     "username": "SawyerMerritt",
     "name": "Sawyer Merritt",
-    "created_at": "2026-11-15T23:55:23.000Z"
+    "created_at": "2026-11-15T23:55:23.000Z",
+    "conversation_id": "2122116284628320705"
    }
   },
   {
@@ -7869,7 +8026,12 @@
     "author_id": "44196397",
     "username": "elonmusk",
     "name": "Elon Musk",
-    "created_at": "2026-11-15T23:47:27.000Z"
+    "created_at": "2026-11-15T23:47:27.000Z",
+    "reply_to": {
+     "id": "2121998577819914262",
+     "username": "dhh"
+    },
+    "conversation_id": "2121803929537204575"
    }
   },
   {
@@ -7960,7 +8122,8 @@
     "author_id": "3072160164",
     "username": "johnkrausphotos",
     "name": "John Kraus",
-    "created_at": "2026-11-15T21:55:57.000Z"
+    "created_at": "2026-11-15T21:55:57.000Z",
+    "conversation_id": "2122086227709202668"
    }
   },
   {
@@ -7994,7 +8157,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-15T22:55:08.000Z"
+    "created_at": "2026-11-15T22:55:08.000Z",
+    "conversation_id": "2122101122072793431"
    }
   },
   {
@@ -8109,8 +8273,10 @@
        "height": 3840,
        "duration_ms": 12310
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122062161119994234"
+    },
+    "conversation_id": "2122106864049717637"
    }
   },
   {
@@ -8173,7 +8339,8 @@
       "height": 1080,
       "duration_ms": 10000
      }
-    ]
+    ],
+    "conversation_id": "2122106773222154332"
    }
   },
   {
@@ -8281,7 +8448,8 @@
     "author_id": "1936293441987641344",
     "username": "MinaGawargious",
     "name": "Mina Gawargious",
-    "created_at": "2026-11-15T20:20:19.000Z"
+    "created_at": "2026-11-15T20:20:19.000Z",
+    "conversation_id": "2122062161119994234"
    }
   },
   {
@@ -8413,7 +8581,8 @@
       "height": 1080,
       "duration_ms": 51916
      }
-    ]
+    ],
+    "conversation_id": "2121999050627301617"
    }
   },
   {
@@ -8455,8 +8624,10 @@
        "width": 2732,
        "height": 4096
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121995127166210076"
+    },
+    "conversation_id": "2122035716763062681"
    }
   },
   {
@@ -8525,7 +8696,8 @@
       "height": 3072,
       "duration_ms": 33200
      }
-    ]
+    ],
+    "conversation_id": "2122060889901748577"
    }
   },
   {
@@ -8589,7 +8761,8 @@
       "height": 1648,
       "duration_ms": 24866
      }
-    ]
+    ],
+    "conversation_id": "2121729721180574127"
    }
   },
   {
@@ -8618,7 +8791,8 @@
     "author_id": "24405165",
     "username": "jamesdouma",
     "name": "jimmah",
-    "created_at": "2026-11-15T18:56:44.000Z"
+    "created_at": "2026-11-15T18:56:44.000Z",
+    "conversation_id": "2122041125171298662"
    }
   },
   {
@@ -8653,7 +8827,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-15T15:00:26.000Z"
+    "created_at": "2026-11-15T15:00:26.000Z",
+    "conversation_id": "2121981656882122993"
    }
   },
   {
@@ -8712,7 +8887,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-15T12:07:18.000Z"
+    "created_at": "2026-11-15T12:07:18.000Z",
+    "conversation_id": "2121938086292770850"
    }
   },
   {
@@ -8772,7 +8948,8 @@
       "width": 2048,
       "height": 2048
      }
-    ]
+    ],
+    "conversation_id": "2121954541818310835"
    }
   },
   {
@@ -8807,7 +8984,8 @@
     "author_id": "183749519",
     "username": "paulg",
     "name": "Paul Graham",
-    "created_at": "2026-11-15T18:26:32.000Z"
+    "created_at": "2026-11-15T18:26:32.000Z",
+    "conversation_id": "2122033524857589799"
    }
   },
   {
@@ -8867,7 +9045,8 @@
       "width": 1125,
       "height": 1125
      }
-    ]
+    ],
+    "conversation_id": "2121945425985101854"
    }
   },
   {
@@ -8967,8 +9146,10 @@
        "height": 2160,
        "duration_ms": 92720
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121715216597827756"
+    },
+    "conversation_id": "2121960724943823205"
    }
   },
   {
@@ -9299,8 +9480,10 @@
      "username": "SamSokolin",
      "name": "Sam Sokolin",
      "created_at": "2026-11-13T18:04:00.000Z",
-     "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!"
-    }
+     "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!",
+     "conversation_id": "2121303079803089179"
+    },
+    "conversation_id": "2121624592326480311"
    }
   },
   {
@@ -9338,8 +9521,10 @@
      "username": "SamSokolin",
      "name": "Sam Sokolin",
      "created_at": "2026-11-13T18:04:00.000Z",
-     "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!"
-    }
+     "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!",
+     "conversation_id": "2121303079803089179"
+    },
+    "conversation_id": "2121624592326480311"
    }
   },
   {
@@ -9453,7 +9638,8 @@
     "author_id": "1906446987991621632",
     "username": "Cyborg21",
     "name": "Kenneth Shock",
-    "created_at": "2026-11-02T00:00:00.000Z"
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "conversation_id": "2117044016621748292"
    }
   },
   {
@@ -9515,7 +9701,8 @@
     "author_id": "15012486",
     "username": "CBSNews",
     "name": "CBS News",
-    "created_at": "2026-11-13T20:48:35.000Z"
+    "created_at": "2026-11-13T20:48:35.000Z",
+    "conversation_id": "2121344495266455814"
    }
   },
   {
@@ -9636,7 +9823,8 @@
     "author_id": "340387261",
     "username": "GavinSBaker",
     "name": "Gavin Baker",
-    "created_at": "2026-11-15T01:30:20.000Z"
+    "created_at": "2026-11-15T01:30:20.000Z",
+    "conversation_id": "2121777788797718785"
    }
   },
   {
@@ -9698,7 +9886,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-15T04:06:55.000Z"
+    "created_at": "2026-11-15T04:06:55.000Z",
+    "conversation_id": "2121817193579163893"
    }
   },
   {
@@ -9767,8 +9956,10 @@
      "username": "Jason",
      "name": "@jason",
      "created_at": "2026-11-14T21:32:16.000Z",
-     "text": "Best remix / AI slop / music video / inspo / whatever o the StarShip landing gets $420.69 in XMONEY! https://twitter.com/Jason/status/2121716690148880437"
-    }
+     "text": "Best remix / AI slop / music video / inspo / whatever o the StarShip landing gets $420.69 in XMONEY! https://twitter.com/Jason/status/2121716690148880437",
+     "conversation_id": "2121717876608381383"
+    },
+    "conversation_id": "2121783840695787904"
    }
   },
   {
@@ -9830,7 +10021,8 @@
     "author_id": "2492039959",
     "username": "AJamesMcCarthy",
     "name": "Andrew McCarthy",
-    "created_at": "2026-11-14T21:38:48.000Z"
+    "created_at": "2026-11-14T21:38:48.000Z",
+    "conversation_id": "2121719522549973133"
    }
   },
   {
@@ -9893,7 +10085,8 @@
       "height": 1000,
       "duration_ms": 73640
      }
-    ]
+    ],
+    "conversation_id": "2121750619816095753"
    }
   },
   {
@@ -9928,7 +10121,8 @@
       "width": 833,
       "height": 1250
      }
-    ]
+    ],
+    "conversation_id": "2121773282919649324"
    }
   },
   {
@@ -9962,7 +10156,8 @@
     "author_id": "3072160164",
     "username": "johnkrausphotos",
     "name": "John Kraus",
-    "created_at": "2026-11-15T01:12:25.000Z"
+    "created_at": "2026-11-15T01:12:25.000Z",
+    "conversation_id": "2121773282919649324"
    }
   },
   {
@@ -9988,7 +10183,8 @@
     "author_id": "17862108",
     "username": "farzyness",
     "name": "Farzad 🇺🇸 🇮🇷",
-    "created_at": "2026-11-15T04:23:42.000Z"
+    "created_at": "2026-11-15T04:23:42.000Z",
+    "conversation_id": "2121821420137423101"
    }
   },
   {
@@ -10023,7 +10219,8 @@
       "width": 1200,
       "height": 1600
      }
-    ]
+    ],
+    "conversation_id": "2121773351093895413"
    }
   },
   {
@@ -10092,8 +10289,10 @@
        "height": 1920,
        "duration_ms": 38916
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121719522549973133"
+    },
+    "conversation_id": "2121750430619480211"
    }
   },
   {
@@ -10155,7 +10354,8 @@
     "author_id": "1941239624",
     "username": "Pedroascenbell",
     "name": "Pedro Ascenbell 🚀",
-    "created_at": "2026-11-14T23:44:12.000Z"
+    "created_at": "2026-11-14T23:44:12.000Z",
+    "conversation_id": "2121751082531463566"
    }
   },
   {
@@ -10189,7 +10389,8 @@
     "author_id": "1279551125264445448",
     "username": "rookisaacman",
     "name": "Jared Isaacman",
-    "created_at": "2024-10-13T12:34:57.000Z"
+    "created_at": "2024-10-13T12:34:57.000Z",
+    "conversation_id": "1845443103362040248"
    }
   },
   {
@@ -10257,7 +10458,8 @@
     "author_id": "1273671260074106883",
     "username": "_MaxQ_",
     "name": "Max Evans",
-    "created_at": "2026-11-14T21:31:06.000Z"
+    "created_at": "2026-11-14T21:31:06.000Z",
+    "conversation_id": "2121717584085045677"
    }
   },
   {
@@ -10299,7 +10501,8 @@
       "width": 1018,
       "height": 1152
      }
-    ]
+    ],
+    "conversation_id": "2121769886770778182"
    }
   },
   {
@@ -10340,7 +10543,8 @@
     "author_id": "437179266",
     "username": "Geiger_Capital",
     "name": "Geiger Capital",
-    "created_at": "2026-11-15T00:58:56.000Z"
+    "created_at": "2026-11-15T00:58:56.000Z",
+    "conversation_id": "2121769886770778182"
    }
   },
   {
@@ -10399,7 +10603,8 @@
     "author_id": "2492039959",
     "username": "AJamesMcCarthy",
     "name": "Andrew McCarthy",
-    "created_at": "2026-11-15T01:14:47.000Z"
+    "created_at": "2026-11-15T01:14:47.000Z",
+    "conversation_id": "2121773877395181778"
    }
   },
   {
@@ -10436,7 +10641,8 @@
     "author_id": "34743251",
     "username": "SpaceX",
     "name": "SpaceX",
-    "created_at": "2026-11-14T22:53:37.000Z"
+    "created_at": "2026-11-14T22:53:37.000Z",
+    "conversation_id": "2121738348804857963"
    }
   },
   {
@@ -10487,7 +10693,8 @@
     "author_id": "1773217467558744064",
     "username": "robinebers",
     "name": "Robin Ebers",
-    "created_at": "2026-11-14T17:30:05.000Z"
+    "created_at": "2026-11-14T17:30:05.000Z",
+    "conversation_id": "2121656933002408008"
    }
   },
   {
@@ -10553,8 +10760,10 @@
      "username": "lingxi",
      "name": "Lingxi Li",
      "created_at": "2026-11-14T00:09:04.000Z",
-     "text": "we optimized it heavily so it should burn only a little of your usage.\n\ngo invite your e-coworker to the meeting, and let us know what you think!! https://twitter.com/bot/status/2121320089920430181"
-    }
+     "text": "we optimized it heavily so it should burn only a little of your usage.\n\ngo invite your e-coworker to the meeting, and let us know what you think!! https://twitter.com/bot/status/2121320089920430181",
+     "conversation_id": "2121394949182930954"
+    },
+    "conversation_id": "2121587902841020922"
    }
   },
   {
@@ -10626,8 +10835,10 @@
      "name": "Ichigo",
      "created_at": "2026-10-08T14:05:53.000Z",
      "text": "https://x.com/i/article/2108184114876592128",
-     "article_title": "Grok Bot Can Now Search X: Build Your Own AI Research Desk in 12 Steps"
-    }
+     "article_title": "Grok Bot Can Now Search X: Build Your Own AI Research Desk in 12 Steps",
+     "conversation_id": "2108197189948166648"
+    },
+    "conversation_id": "2121664393725227299"
    }
   },
   {
@@ -10656,7 +10867,8 @@
     "author_id": "15726728",
     "username": "SciGuySpace",
     "name": "Eric Berger",
-    "created_at": "2026-11-15T00:44:14.000Z"
+    "created_at": "2026-11-15T00:44:14.000Z",
+    "conversation_id": "2121766186492805263"
    }
   },
   {
@@ -10691,7 +10903,8 @@
     "author_id": "3072160164",
     "username": "johnkrausphotos",
     "name": "John Kraus",
-    "created_at": "2026-11-15T00:25:56.000Z"
+    "created_at": "2026-11-15T00:25:56.000Z",
+    "conversation_id": "2121761584804503927"
    }
   },
   {
@@ -10762,8 +10975,10 @@
        "height": 1920,
        "duration_ms": 29279
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121724160904671621"
+    },
+    "conversation_id": "2121754217954382037"
    }
   },
   {
@@ -10950,8 +11165,10 @@
        "height": 2160,
        "duration_ms": 92720
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121715216597827756"
+    },
+    "conversation_id": "2121725076919717899"
    }
   },
   {
@@ -11015,7 +11232,8 @@
       "height": 1350,
       "duration_ms": 35446
      }
-    ]
+    ],
+    "conversation_id": "2121719723805258178"
    }
   },
   {
@@ -11091,8 +11309,10 @@
        "height": 2160,
        "duration_ms": 92720
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121715216597827756"
+    },
+    "conversation_id": "2121718457771377001"
    }
   },
   {
@@ -11127,7 +11347,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-14T22:32:46.000Z"
+    "created_at": "2026-11-14T22:32:46.000Z",
+    "conversation_id": "2121733104499077522"
    }
   },
   {
@@ -11164,7 +11385,8 @@
     "author_id": "34743251",
     "username": "SpaceX",
     "name": "SpaceX",
-    "created_at": "2026-11-14T22:53:37.000Z"
+    "created_at": "2026-11-14T22:53:37.000Z",
+    "conversation_id": "2121738348804857963"
    }
   },
   {
@@ -11198,8 +11420,10 @@
      "username": "willdepue",
      "name": "will depue",
      "created_at": "2026-11-14T21:31:32.000Z",
-     "text": "THEY FUCKING DID IT. THEY FUCKING DID IT. OH MY GOD https://twitter.com/willdepue/status/2121716405553009085"
-    }
+     "text": "THEY FUCKING DID IT. THEY FUCKING DID IT. OH MY GOD https://twitter.com/willdepue/status/2121716405553009085",
+     "conversation_id": "2121717694877626686"
+    },
+    "conversation_id": "2121718147854279127"
    }
   },
   {
@@ -11268,7 +11492,8 @@
     "author_id": "33792634",
     "username": "andrewrsorkin",
     "name": "Andrew Ross Sorkin",
-    "created_at": "2026-11-14T23:21:18.000Z"
+    "created_at": "2026-11-14T23:21:18.000Z",
+    "conversation_id": "2121745318618571231"
    }
   },
   {
@@ -11383,7 +11608,8 @@
     "author_id": "2000593641480605696",
     "username": "NASAAdmin",
     "name": "NASA Administrator Jared Isaacman",
-    "created_at": "2026-11-14T21:23:56.000Z"
+    "created_at": "2026-11-14T21:23:56.000Z",
+    "conversation_id": "2121715782350504106"
    }
   },
   {
@@ -11418,7 +11644,8 @@
     "author_id": "3072160164",
     "username": "johnkrausphotos",
     "name": "John Kraus",
-    "created_at": "2026-11-14T22:39:35.000Z"
+    "created_at": "2026-11-14T22:39:35.000Z",
+    "conversation_id": "2121734817524109692"
    }
   },
   {
@@ -11599,7 +11826,8 @@
     "author_id": "243013409",
     "username": "SawyerMerritt",
     "name": "Sawyer Merritt",
-    "created_at": "2026-11-14T21:30:24.000Z"
+    "created_at": "2026-11-14T21:30:24.000Z",
+    "conversation_id": "2121717407890964796"
    }
   },
   {
@@ -11668,7 +11896,8 @@
     "author_id": "44196397",
     "username": "elonmusk",
     "name": "Elon Musk",
-    "created_at": "2026-11-14T22:05:41.000Z"
+    "created_at": "2026-11-14T22:05:41.000Z",
+    "conversation_id": "2121726288968720709"
    }
   },
   {
@@ -11727,7 +11956,8 @@
     "author_id": "3072160164",
     "username": "johnkrausphotos",
     "name": "John Kraus",
-    "created_at": "2026-11-14T21:38:12.000Z"
+    "created_at": "2026-11-14T21:38:12.000Z",
+    "conversation_id": "2121719372339454408"
    }
   },
   {
@@ -11905,7 +12135,8 @@
     "author_id": "34743251",
     "username": "SpaceX",
     "name": "SpaceX",
-    "created_at": "2026-11-14T21:21:41.000Z"
+    "created_at": "2026-11-14T21:21:41.000Z",
+    "conversation_id": "2121715216597827756"
    }
   },
   {
@@ -12340,7 +12571,8 @@
     "username": "SpaceX",
     "name": "SpaceX",
     "created_at": "2026-11-13T18:56:32.000Z",
-    "text": "Watch Starship Flight 15\nhttps://x.com/i/broadcasts/2brajgZlOKRMka"
+    "text": "Watch Starship Flight 15\nhttps://x.com/i/broadcasts/2brajgZlOKRMka",
+    "conversation_id": "2121316300702056595"
    }
   },
   {
@@ -12367,7 +12599,8 @@
     "author_id": "133188015",
     "username": "adeoressi",
     "name": "Adeo Ressi",
-    "created_at": "2026-11-14T17:48:40.000Z"
+    "created_at": "2026-11-14T17:48:40.000Z",
+    "conversation_id": "2121661606824419580"
    }
   },
   {
@@ -12402,7 +12635,8 @@
     "author_id": "3072160164",
     "username": "johnkrausphotos",
     "name": "John Kraus",
-    "created_at": "2026-11-14T19:22:41.000Z"
+    "created_at": "2026-11-14T19:22:41.000Z",
+    "conversation_id": "2121685266448429281"
    }
   },
   {
@@ -12430,7 +12664,8 @@
     "username": "poteto",
     "name": "lauren",
     "created_at": "2026-11-14T18:36:10.000Z",
-    "text": "my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality\n\nhttps://youtu.be/O_zcc6Xl12g"
+    "text": "my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality\n\nhttps://youtu.be/O_zcc6Xl12g",
+    "conversation_id": "2121673563489140863"
    }
   },
   {
@@ -12500,7 +12735,8 @@
       "height": 2160,
       "duration_ms": 86720
      }
-    ]
+    ],
+    "conversation_id": "2121684113526858011"
    }
   },
   {
@@ -12589,7 +12825,8 @@
     "username": "SpaceX",
     "name": "SpaceX",
     "created_at": "2026-11-13T18:56:32.000Z",
-    "text": "Watch Starship Flight 15\nhttps://x.com/i/broadcasts/2brajgZlOKRMka"
+    "text": "Watch Starship Flight 15\nhttps://x.com/i/broadcasts/2brajgZlOKRMka",
+    "conversation_id": "2121316300702056595"
    }
   },
   {
@@ -12649,7 +12886,8 @@
       "width": 1638,
       "height": 2048
      }
-    ]
+    ],
+    "conversation_id": "2121565736267293173"
    }
   },
   {
@@ -12683,8 +12921,10 @@
      "username": "mattyp",
      "name": "matt palmer",
      "created_at": "2026-11-14T03:06:43.000Z",
-     "text": "Grok Bot Q&A - FRIDAY THE 13TH https://x.com/i/broadcasts/2POrLVeJllEPdZ"
-    }
+     "text": "Grok Bot Q&A - FRIDAY THE 13TH https://x.com/i/broadcasts/2POrLVeJllEPdZ",
+     "conversation_id": "2121439659179848108"
+    },
+    "conversation_id": "2121652448443953424"
    }
   },
   {
@@ -12856,8 +13096,10 @@
        "height": 2160,
        "duration_ms": 16069
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121394268652839309"
+    },
+    "conversation_id": "2121635970114064752"
    }
   },
   {
@@ -12907,7 +13149,12 @@
     "author_id": "44196397",
     "username": "elonmusk",
     "name": "Elon Musk",
-    "created_at": "2026-11-14T16:24:57.000Z"
+    "created_at": "2026-11-14T16:24:57.000Z",
+    "reply_to": {
+     "id": "2121606558211866984",
+     "username": "billlee"
+    },
+    "conversation_id": "2121606558211866984"
    }
   },
   {
@@ -13010,7 +13257,8 @@
       "height": 720,
       "duration_ms": 15066
      }
-    ]
+    ],
+    "conversation_id": "2121643690913644780"
    }
   },
   {
@@ -13036,7 +13284,12 @@
     "author_id": "44196397",
     "username": "elonmusk",
     "name": "Elon Musk",
-    "created_at": "2026-11-14T16:56:20.000Z"
+    "created_at": "2026-11-14T16:56:20.000Z",
+    "reply_to": {
+     "id": "2121632798641688654",
+     "username": "DJSnM"
+    },
+    "conversation_id": "2121632798641688654"
    }
   },
   {
@@ -13121,7 +13374,8 @@
     "author_id": "9624742",
     "username": "StateDept",
     "name": "Department of State",
-    "created_at": "2026-11-13T23:04:01.000Z"
+    "created_at": "2026-11-13T23:04:01.000Z",
+    "conversation_id": "2121378578939936844"
    }
   },
   {
@@ -13190,8 +13444,10 @@
        "height": 1080,
        "duration_ms": 28666
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121320089920430181"
+    },
+    "conversation_id": "2121394949182930954"
    }
   },
   {
@@ -13226,7 +13482,8 @@
       "width": 2036,
       "height": 1572
      }
-    ]
+    ],
+    "conversation_id": "2121370786208375136"
    }
   },
   {
@@ -13305,8 +13562,13 @@
      "username": "grok",
      "name": "Grok",
      "created_at": "2026-11-14T11:19:23.000Z",
-     "text": "50 Tbps per Starship is massive. Global international bandwidth is ~2,260 Tbps total. One flight adds over 2% of all cross-border capacity. It unlocks fiber-like speeds nearly everywhere, supports millions of concurrent high-res streams or AI transfers, and creates a resilient space mesh that reduces reliance on undersea cables while enabling high-bandwidth links for lunar and deep-space missions."
-    }
+     "text": "50 Tbps per Starship is massive. Global international bandwidth is ~2,260 Tbps total. One flight adds over 2% of all cross-border capacity. It unlocks fiber-like speeds nearly everywhere, supports millions of concurrent high-res streams or AI transfers, and creates a resilient space mesh that reduces reliance on undersea cables while enabling high-bandwidth links for lunar and deep-space missions.",
+     "reply_to": {
+      "id": "2121563458533839075"
+     },
+     "conversation_id": "2121563458533839075"
+    },
+    "conversation_id": "2121606558211866984"
    }
   },
   {
@@ -13363,7 +13625,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-13T21:22:56.000Z"
+    "created_at": "2026-11-13T21:22:56.000Z",
+    "conversation_id": "2121353143384682525"
    }
   },
   {
@@ -13431,7 +13694,8 @@
     "author_id": "34743251",
     "username": "SpaceX",
     "name": "SpaceX",
-    "created_at": "2026-11-14T15:41:42.000Z"
+    "created_at": "2026-11-14T15:41:42.000Z",
+    "conversation_id": "2121629656868614213"
    }
   },
   {
@@ -13648,7 +13912,8 @@
     "username": "SamSokolin",
     "name": "Sam Sokolin",
     "created_at": "2026-11-13T18:04:00.000Z",
-    "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!"
+    "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!",
+    "conversation_id": "2121303079803089179"
    }
   },
   {
@@ -13705,8 +13970,10 @@
      "username": "SpaceX",
      "name": "SpaceX",
      "created_at": "2026-11-13T18:56:32.000Z",
-     "text": "Watch Starship Flight 15\nhttps://x.com/i/broadcasts/2brajgZlOKRMka"
-    }
+     "text": "Watch Starship Flight 15\nhttps://x.com/i/broadcasts/2brajgZlOKRMka",
+     "conversation_id": "2121316300702056595"
+    },
+    "conversation_id": "2121625194275951101"
    }
   },
   {
@@ -13884,7 +14151,8 @@
     "username": "SpaceX",
     "name": "SpaceX",
     "created_at": "2026-11-13T18:56:32.000Z",
-    "text": "Watch Starship Flight 15\nhttps://x.com/i/broadcasts/2brajgZlOKRMka"
+    "text": "Watch Starship Flight 15\nhttps://x.com/i/broadcasts/2brajgZlOKRMka",
+    "conversation_id": "2121316300702056595"
    }
   },
   {
@@ -13912,7 +14180,8 @@
     "username": "SamSokolin",
     "name": "Sam Sokolin",
     "created_at": "2026-11-13T18:04:00.000Z",
-    "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!"
+    "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!",
+    "conversation_id": "2121303079803089179"
    }
   },
   {
@@ -13999,7 +14268,8 @@
     "author_id": "2492039959",
     "username": "AJamesMcCarthy",
     "name": "Andrew McCarthy",
-    "created_at": "2026-11-14T14:18:21.000Z"
+    "created_at": "2026-11-14T14:18:21.000Z",
+    "conversation_id": "2121608679837368375"
    }
   },
   {
@@ -14058,7 +14328,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-14T12:52:07.000Z"
+    "created_at": "2026-11-14T12:52:07.000Z",
+    "conversation_id": "2121586977795440798"
    }
   },
   {
@@ -14152,8 +14423,10 @@
        "height": 720,
        "duration_ms": 49633
       }
-     ]
-    }
+     ],
+     "conversation_id": "2120979261851124172"
+    },
+    "conversation_id": "2121070130935570607"
    }
   },
   {
@@ -14248,8 +14521,10 @@
        "height": 720,
        "duration_ms": 91000
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121227504472277409"
+    },
+    "conversation_id": "2121291797473468421"
    }
   },
   {
@@ -14318,7 +14593,8 @@
     "author_id": "34743251",
     "username": "SpaceX",
     "name": "SpaceX",
-    "created_at": "2026-11-14T13:53:18.000Z"
+    "created_at": "2026-11-14T13:53:18.000Z",
+    "conversation_id": "2121602376532742611"
    }
   },
   {
@@ -14388,7 +14664,8 @@
       "height": 2160,
       "duration_ms": 82720
      }
-    ]
+    ],
+    "conversation_id": "2121602376532742611"
    }
   },
   {
@@ -14458,8 +14735,14 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-13T20:51:25.000Z",
-     "text": "@yunta_tsai A petition is underway to reinstate Jensen and I’m signing it too"
-    }
+     "text": "@yunta_tsai A petition is underway to reinstate Jensen and I’m signing it too",
+     "reply_to": {
+      "id": "2121242163644412202",
+      "username": "yunta_tsai"
+     },
+     "conversation_id": "2121242163644412202"
+    },
+    "conversation_id": "2121358030747078974"
    }
   },
   {
@@ -14522,7 +14805,8 @@
     "author_id": "1745106082790318080",
     "username": "SemiAnalysis_",
     "name": "SemiAnalysis",
-    "created_at": "2026-11-14T04:37:35.000Z"
+    "created_at": "2026-11-14T04:37:35.000Z",
+    "conversation_id": "2121462524281282700"
    }
   },
   {
@@ -14628,8 +14912,10 @@
        "height": 851,
        "duration_ms": 24137
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121168799198310435"
+    },
+    "conversation_id": "2121493879870677332"
    }
   },
   {
@@ -14692,7 +14978,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-13T22:28:12.000Z"
+    "created_at": "2026-11-13T22:28:12.000Z",
+    "conversation_id": "2121369567058674079"
    }
   },
   {
@@ -14755,7 +15042,8 @@
     "author_id": "2492039959",
     "username": "AJamesMcCarthy",
     "name": "Andrew McCarthy",
-    "created_at": "2026-11-13T23:26:07.000Z"
+    "created_at": "2026-11-13T23:26:07.000Z",
+    "conversation_id": "2121384142474760511"
    }
   },
   {
@@ -14879,7 +15167,8 @@
     "author_id": "1906446987991621632",
     "username": "Cyborg21",
     "name": "Kenneth Shock",
-    "created_at": "2026-11-02T00:00:00.000Z"
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "conversation_id": "2117044016621748292"
    }
   },
   {
@@ -14949,8 +15238,10 @@
        "height": 1080,
        "duration_ms": 196022
       }
-     ]
-    }
+     ],
+     "conversation_id": "2117044016621748292"
+    },
+    "conversation_id": "2121548642805026939"
    }
   },
   {
@@ -15059,7 +15350,8 @@
     "author_id": "34743251",
     "username": "SpaceX",
     "name": "SpaceX",
-    "created_at": "2026-11-14T02:58:12.000Z"
+    "created_at": "2026-11-14T02:58:12.000Z",
+    "conversation_id": "2121437515819159871"
    }
   },
   {
@@ -15160,8 +15452,10 @@
        "height": 2160,
        "duration_ms": 15410
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121384424558453096"
+    },
+    "conversation_id": "2121384634760220952"
    }
   },
   {
@@ -15250,7 +15544,8 @@
     "author_id": "889509325886173186",
     "username": "GS_VCactivist",
     "name": "Gayatri Sarkar",
-    "created_at": "2026-11-13T03:00:47.000Z"
+    "created_at": "2026-11-13T03:00:47.000Z",
+    "conversation_id": "2121075777487970548"
    }
   },
   {
@@ -15325,7 +15620,11 @@
     "author_id": "1720665183188922368",
     "username": "grok",
     "name": "Grok",
-    "created_at": "2026-11-14T03:58:29.000Z"
+    "created_at": "2026-11-14T03:58:29.000Z",
+    "reply_to": {
+     "id": "2121452335402799154",
+     "username": "stevenmarkryan"
+    }
    }
   },
   {
@@ -15352,7 +15651,8 @@
     "author_id": "1265526183137067010",
     "username": "TheCaptainEli",
     "name": "Captain Eli",
-    "created_at": "2026-11-14T06:17:00.000Z"
+    "created_at": "2026-11-14T06:17:00.000Z",
+    "conversation_id": "2121487543837294607"
    }
   },
   {
@@ -15387,7 +15687,8 @@
     "author_id": "1874492187070615552",
     "username": "brivael",
     "name": "Brivael Le Pogam",
-    "created_at": "2026-11-13T22:22:17.000Z"
+    "created_at": "2026-11-13T22:22:17.000Z",
+    "conversation_id": "2121368078080782619"
    }
   },
   {
@@ -15475,8 +15776,10 @@
      "username": "MKBHD",
      "name": "Marques Brownlee",
      "created_at": "2026-11-14T02:04:10.000Z",
-     "text": "The memes are everywhere, so let’s go back over the bet: Cybercab publicly available for under $30k by the end of 2026\n\nMy hair is safe for several reasons\n1: No deliveries yet. But they’re estimating starting in December so that’s neat\n2: Invite only, not actually publicly available yet\n3: You can’t actually use it as a cab(??!) It’s limited to private use only. Inside the existing geofenced locations. It’s a paperweight if I take this thing home. That’s one’s not actually part of the bet but yeah not exactly what was promised in this first wave\n\nHey @grok, set a timer for 48 days from now"
-    }
+     "text": "The memes are everywhere, so let’s go back over the bet: Cybercab publicly available for under $30k by the end of 2026\n\nMy hair is safe for several reasons\n1: No deliveries yet. But they’re estimating starting in December so that’s neat\n2: Invite only, not actually publicly available yet\n3: You can’t actually use it as a cab(??!) It’s limited to private use only. Inside the existing geofenced locations. It’s a paperweight if I take this thing home. That’s one’s not actually part of the bet but yeah not exactly what was promised in this first wave\n\nHey @grok, set a timer for 48 days from now",
+     "conversation_id": "2121423916006617237"
+    },
+    "conversation_id": "2121435803540730109"
    }
   },
   {
@@ -15511,7 +15814,8 @@
     "author_id": "1263491240336769026",
     "username": "wholemars",
     "name": "Whole Mars Catalog",
-    "created_at": "2026-11-14T06:10:32.000Z"
+    "created_at": "2026-11-14T06:10:32.000Z",
+    "conversation_id": "2121485915444908456"
    }
   },
   {
@@ -15546,7 +15850,8 @@
     "author_id": "982657186311671809",
     "username": "YveK22",
     "name": "Yvonne Kussmann",
-    "created_at": "2026-11-13T09:15:45.000Z"
+    "created_at": "2026-11-13T09:15:45.000Z",
+    "conversation_id": "2121170139513049547"
    }
   },
   {
@@ -15580,8 +15885,10 @@
      "username": "TheJensenLetter",
      "name": "Stand With Jensen",
      "created_at": "2026-11-13T20:28:01.000Z",
-     "text": "Still hard to believe everything that's happened with Jensen.\n\nAfter 33 years of building NVIDIA. I think he deserves a fair process, and we deserve the truth.\n\nI signed this open letter to stand with Jensen. Hope you will too. 💚\n\nhttps://standwithjensen.com\n\n#StandWithJensen"
-    }
+     "text": "Still hard to believe everything that's happened with Jensen.\n\nAfter 33 years of building NVIDIA. I think he deserves a fair process, and we deserve the truth.\n\nI signed this open letter to stand with Jensen. Hope you will too. 💚\n\nhttps://standwithjensen.com\n\n#StandWithJensen",
+     "conversation_id": "2121339322385440842"
+    },
+    "conversation_id": "2121462697787342932"
    }
   },
   {
@@ -15693,8 +16000,10 @@
        "height": 720,
        "duration_ms": 49916
       }
-     ]
-    }
+     ],
+     "conversation_id": "2121419990599647614"
+    },
+    "conversation_id": "2121429683862741161"
    }
   },
   {
@@ -15758,7 +16067,8 @@
       "height": 1080,
       "duration_ms": 51533
      }
-    ]
+    ],
+    "conversation_id": "2121379746063978497"
    }
   },
   {
@@ -15869,7 +16179,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-13T08:14:51.000Z"
+    "created_at": "2026-11-13T08:14:51.000Z",
+    "conversation_id": "2121154814998626325"
    }
   },
   {
@@ -15932,7 +16243,8 @@
     "author_id": "700967888719626241",
     "username": "holdonyourrope",
     "name": "大表哥 | 链上金狗",
-    "created_at": "2026-11-14T03:08:46.000Z"
+    "created_at": "2026-11-14T03:08:46.000Z",
+    "conversation_id": "2121440174559330394"
    }
   },
   {
@@ -16046,7 +16358,8 @@
     "author_id": "3072160164",
     "username": "johnkrausphotos",
     "name": "John Kraus",
-    "created_at": "2026-11-13T23:23:51.000Z"
+    "created_at": "2026-11-13T23:23:51.000Z",
+    "conversation_id": "2121383571419976096"
    }
   },
   {
@@ -16115,7 +16428,8 @@
       "height": 2160,
       "duration_ms": 317440
      }
-    ]
+    ],
+    "conversation_id": "2121479482582441991"
    }
   },
   {
@@ -16200,7 +16514,8 @@
     "author_id": "1465432261436788740",
     "username": "AtelierMissor_",
     "name": "Atelier Missor",
-    "created_at": "2026-11-14T05:05:01.000Z"
+    "created_at": "2026-11-14T05:05:01.000Z",
+    "conversation_id": "2121469429464670376"
    }
   },
   {

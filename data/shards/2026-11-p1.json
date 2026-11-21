@@ -104,7 +104,8 @@
     "author_id": "534058408",
     "username": "ecommerceshares",
     "name": "Wasteland Capital",
-    "created_at": "2026-11-20T18:15:41.000Z"
+    "created_at": "2026-11-20T18:15:41.000Z",
+    "conversation_id": "2123842735719535089"
    }
   },
   {
@@ -291,8 +292,10 @@
        "height": 720,
        "duration_ms": 119400
       }
-     ]
-    }
+     ],
+     "conversation_id": "2123890949029818800"
+    },
+    "conversation_id": "2124043559536152707"
    }
   },
   {
@@ -327,8 +330,10 @@
      "username": "TeslaSI",
      "name": "Tesla Super Intelligence",
      "created_at": "2026-11-21T05:02:32.000Z",
-     "text": "XV"
-    }
+     "text": "XV",
+     "conversation_id": "2124005518746480996"
+    },
+    "conversation_id": "2124007636643549466"
    }
   },
   {
@@ -383,7 +388,8 @@
     "author_id": "68746721",
     "username": "fchollet",
     "name": "François Chollet",
-    "created_at": "2026-11-20T21:56:34.000Z"
+    "created_at": "2026-11-20T21:56:34.000Z",
+    "conversation_id": "2123898321647571442"
    }
   },
   {
@@ -441,7 +447,8 @@
       "height": 720,
       "duration_ms": 8433
      }
-    ]
+    ],
+    "conversation_id": "2123837679049777538"
    }
   },
   {
@@ -499,7 +506,8 @@
       "height": 1350,
       "duration_ms": 45500
      }
-    ]
+    ],
+    "conversation_id": "2123792729130041703"
    }
   },
   {
@@ -568,7 +576,8 @@
     "author_id": "34743251",
     "username": "SpaceX",
     "name": "SpaceX",
-    "created_at": "2026-11-21T04:22:16.000Z"
+    "created_at": "2026-11-21T04:22:16.000Z",
+    "conversation_id": "2123995383625924847"
    }
   },
   {
@@ -637,7 +646,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-21T09:06:51.000Z"
+    "created_at": "2026-11-21T09:06:51.000Z",
+    "conversation_id": "2124067003636080641"
    }
   },
   {
@@ -671,8 +681,10 @@
      "username": "mattyp",
      "name": "matt palmer",
      "created_at": "2026-11-14T03:06:43.000Z",
-     "text": "Grok Bot Q&A - FRIDAY THE 13TH https://x.com/i/broadcasts/2POrLVeJllEPdZ"
-    }
+     "text": "Grok Bot Q&A - FRIDAY THE 13TH https://x.com/i/broadcasts/2POrLVeJllEPdZ",
+     "conversation_id": "2121439659179848108"
+    },
+    "conversation_id": "2123849095865585754"
    }
   },
   {
@@ -713,7 +725,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-20T16:27:54.000Z"
+    "created_at": "2026-11-20T16:27:54.000Z",
+    "conversation_id": "2123815607993073888"
    }
   },
   {
@@ -747,8 +760,14 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-21T08:05:23.000Z",
-     "text": "@roger_kappler Yeah.\n\nThe new user interface will re-render reality in a mind-bending way. Hard to describe, but it’s awesome."
-    }
+     "text": "@roger_kappler Yeah.\n\nThe new user interface will re-render reality in a mind-bending way. Hard to describe, but it’s awesome.",
+     "reply_to": {
+      "id": "2124045981733839004",
+      "username": "roger_kappler"
+     },
+     "conversation_id": "2124042864891982292"
+    },
+    "conversation_id": "2124057656398958873"
    }
   },
   {
@@ -812,8 +831,10 @@
        "height": 720,
        "duration_ms": 119400
       }
-     ]
-    }
+     ],
+     "conversation_id": "2123890949029818800"
+    },
+    "conversation_id": "2123897428743180771"
    }
   },
   {
@@ -855,8 +876,10 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-21T07:31:32.000Z",
-     "text": "True https://twitter.com/sethdillon/status/2123836980060357056"
-    }
+     "text": "True https://twitter.com/sethdillon/status/2123836980060357056",
+     "conversation_id": "2124043015941767630"
+    },
+    "conversation_id": "2124044033886728272"
    }
   },
   {
@@ -925,7 +948,8 @@
     "author_id": "1853866883851620352",
     "username": "robotaxi",
     "name": "Robotaxi",
-    "created_at": "2026-11-20T03:46:10.000Z"
+    "created_at": "2026-11-20T03:46:10.000Z",
+    "conversation_id": "2123623911556563283"
    }
   },
   {
@@ -960,7 +984,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-21T07:47:45.000Z"
+    "created_at": "2026-11-21T07:47:45.000Z",
+    "conversation_id": "2124047095460245567"
    }
   },
   {
@@ -1190,7 +1215,8 @@
       "height": 2160,
       "duration_ms": 20000
      }
-    ]
+    ],
+    "conversation_id": "2124030861653999815"
    }
   },
   {
@@ -1224,8 +1250,10 @@
      "username": "realtalkstruth",
      "name": "American Citizen 🇺🇸",
      "created_at": "2026-11-20T15:56:57.000Z",
-     "text": "Need input here…is Grok Bot worth $30 a month?"
-    }
+     "text": "Need input here…is Grok Bot worth $30 a month?",
+     "conversation_id": "2123807818621108596"
+    },
+    "conversation_id": "2123836980060357056"
    }
   },
   {
@@ -1300,8 +1328,18 @@
      "username": "nikitabier",
      "name": "Nikita Bier",
      "created_at": "2026-08-13T19:58:33.000Z",
-     "text": "@AutismCapital @IterIntellectus It is not possible to game -- since the action has to take place on a post served in Home Timeline. Directly navigating to a post (i.e., coordinating via groupchat) has no ranking impact.\n\nAnd users cannot manufacture a post to show up in their Timeline in any reproducible way."
-    }
+     "text": "@AutismCapital @IterIntellectus It is not possible to game -- since the action has to take place on a post served in Home Timeline. Directly navigating to a post (i.e., coordinating via groupchat) has no ranking impact.\n\nAnd users cannot manufacture a post to show up in their Timeline in any reproducible way.",
+     "reply_to": {
+      "id": "2087985780321051022",
+      "username": "AutismCapital"
+     },
+     "conversation_id": "2087978849090805956"
+    },
+    "reply_to": {
+     "id": "2087991833922273559",
+     "username": "aakashgupta"
+    },
+    "conversation_id": "2087991833922273559"
    }
   },
   {
@@ -1383,7 +1421,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-20T09:45:33.000Z"
+    "created_at": "2026-11-20T09:45:33.000Z",
+    "conversation_id": "2123714352905859195"
    }
   },
   {
@@ -1417,7 +1456,12 @@
     "author_id": "2339384384",
     "username": "reflex_division",
     "name": "refle𝕏 🔍",
-    "created_at": "2026-11-20T18:43:57.000Z"
+    "created_at": "2026-11-20T18:43:57.000Z",
+    "reply_to": {
+     "id": "2123845867526574261",
+     "username": "elonmusk"
+    },
+    "conversation_id": "2123845867526574261"
    }
   },
   {
@@ -1474,7 +1518,8 @@
       "height": 720,
       "duration_ms": 119400
      }
-    ]
+    ],
+    "conversation_id": "2123890949029818800"
    }
   },
   {
@@ -1624,7 +1669,8 @@
     "author_id": "1396867709481127937",
     "username": "danielcberk",
     "name": "Daniel Berk",
-    "created_at": "2026-11-20T14:01:49.000Z"
+    "created_at": "2026-11-20T14:01:49.000Z",
+    "conversation_id": "2123778844423332306"
    }
   },
   {
@@ -1651,7 +1697,8 @@
     "username": "TeslaSI",
     "name": "Tesla Super Intelligence",
     "created_at": "2026-11-21T05:02:32.000Z",
-    "text": "XV"
+    "text": "XV",
+    "conversation_id": "2124005518746480996"
    }
   },
   {
@@ -1820,8 +1867,10 @@
      "name": "Melvin Vivas",
      "created_at": "2026-11-21T02:30:13.000Z",
      "text": "https://x.com/i/article/2123957496574517248",
-     "article_title": "I Made $9K in 3 Months on X. Here's How I Built My Own Content Team Using Grok Bot"
-    }
+     "article_title": "I Made $9K in 3 Months on X. Here's How I Built My Own Content Team Using Grok Bot",
+     "conversation_id": "2123967187522367709"
+    },
+    "conversation_id": "2123968426435834164"
    }
   },
   {
@@ -2038,8 +2087,10 @@
        "width": 4096,
        "height": 2731
       }
-     ]
-    }
+     ],
+     "conversation_id": "2123917635058328025"
+    },
+    "conversation_id": "2123966183430926742"
    }
   },
   {
@@ -2122,8 +2173,10 @@
      "username": "mattpocockuk",
      "name": "Matt Pocock",
      "created_at": "2026-11-20T15:19:28.000Z",
-     "text": "Prompt of the day (a long one):\n\nTake a look at every code comment in <my codebase | this section of the code>.\n\nCategorise each comment as:\n\n- Tautology: simply repeats what is already visible from the code\n- Excuse: many comments allow the agent to get away with a hacky implementation, which then gets propagated through the code\n- Stale: references code or implementation information that is no longer relevant\n- Decision Record: documents an important, non-obvious decision about the code\n\nFor each comment, take this action:\n\n- Tautology/Stale: delete the comment\n- Excuse: delete the comment and file an issue to fix the hacky implementation\n- Decision Record: move it into an ADR\n\nOnce this is done:\n\n- Create a lint rule banning comments for <my codebase | this section of the code>\n- Take a ratchet approach, assuming not all comments will be deleted this PR\n- Create a /delete-comment skill in this repository so we can repeat this process later\n- Estimate for me how many lines of code we'll shed by deleting all comments\n\n---\n\nI'm sold - comments considered harmful"
-    }
+     "text": "Prompt of the day (a long one):\n\nTake a look at every code comment in <my codebase | this section of the code>.\n\nCategorise each comment as:\n\n- Tautology: simply repeats what is already visible from the code\n- Excuse: many comments allow the agent to get away with a hacky implementation, which then gets propagated through the code\n- Stale: references code or implementation information that is no longer relevant\n- Decision Record: documents an important, non-obvious decision about the code\n\nFor each comment, take this action:\n\n- Tautology/Stale: delete the comment\n- Excuse: delete the comment and file an issue to fix the hacky implementation\n- Decision Record: move it into an ADR\n\nOnce this is done:\n\n- Create a lint rule banning comments for <my codebase | this section of the code>\n- Take a ratchet approach, assuming not all comments will be deleted this PR\n- Create a /delete-comment skill in this repository so we can repeat this process later\n- Estimate for me how many lines of code we'll shed by deleting all comments\n\n---\n\nI'm sold - comments considered harmful",
+     "conversation_id": "2123798388227403983"
+    },
+    "conversation_id": "2123898792487576021"
    }
   },
   {
@@ -2667,7 +2720,8 @@
     "username": "mattyp",
     "name": "matt palmer",
     "created_at": "2026-11-21T00:06:05.000Z",
-    "text": "Grok Bot Q&A - Travel, 1.0, meetings & more! https://x.com/i/broadcasts/2aWQllRAKjNOBd"
+    "text": "Grok Bot Q&A - Travel, 1.0, meetings & more! https://x.com/i/broadcasts/2aWQllRAKjNOBd",
+    "conversation_id": "2123930916615573629"
    }
   },
   {
@@ -3141,7 +3195,8 @@
       "width": 1200,
       "height": 1600
      }
-    ]
+    ],
+    "conversation_id": "2120578498423373996"
    }
   },
   {
@@ -3646,7 +3701,8 @@
       "height": 1080,
       "duration_ms": 2717333
      }
-    ]
+    ],
+    "conversation_id": "2108650243365736855"
    }
   },
   {
@@ -3843,7 +3899,8 @@
     "username": "mattyp",
     "name": "matt palmer",
     "created_at": "2026-11-14T03:06:43.000Z",
-    "text": "Grok Bot Q&A - FRIDAY THE 13TH https://x.com/i/broadcasts/2POrLVeJllEPdZ"
+    "text": "Grok Bot Q&A - FRIDAY THE 13TH https://x.com/i/broadcasts/2POrLVeJllEPdZ",
+    "conversation_id": "2121439659179848108"
    }
   },
   {
@@ -3950,7 +4007,8 @@
     "author_id": "20749410",
     "username": "finkd",
     "name": "Mark Zuckerberg",
-    "created_at": "2026-11-20T17:23:20.000Z"
+    "created_at": "2026-11-20T17:23:20.000Z",
+    "conversation_id": "2123829559711650060"
    }
   },
   {
@@ -4034,7 +4092,8 @@
       "width": 4096,
       "height": 2746
      }
-    ]
+    ],
+    "conversation_id": "2123840024747946383"
    }
   },
   {
@@ -4134,7 +4193,8 @@
     "username": "Nate_Esparza",
     "name": "Nate Esparza",
     "created_at": "2026-11-19T19:54:37.000Z",
-    "text": "The fact that anyone can post here and reach the sharpest minds on the planet is a superpower only 𝕏 has"
+    "text": "The fact that anyone can post here and reach the sharpest minds on the planet is a superpower only 𝕏 has",
+    "conversation_id": "2123505242696564952"
    }
   },
   {
@@ -4273,8 +4333,10 @@
        "width": 1080,
        "height": 1440
       }
-     ]
-    }
+     ],
+     "conversation_id": "2123824597456019562"
+    },
+    "conversation_id": "2123844228380049409"
    }
   },
   {
@@ -4370,7 +4432,8 @@
     "username": "quxiaoyin",
     "name": "Xiaoyin Qu",
     "created_at": "2026-11-17T07:33:59.000Z",
-    "text": "Damn I am using grokbot more than Claude code now. I’m a power user of Claude code burning 3-5B tokens a day."
+    "text": "Damn I am using grokbot more than Claude code now. I’m a power user of Claude code burning 3-5B tokens a day.",
+    "conversation_id": "2122594080530338205"
    }
   },
   {
@@ -4492,8 +4555,10 @@
      "name": "Ichigo",
      "created_at": "2026-10-08T14:05:53.000Z",
      "text": "https://x.com/i/article/2108184114876592128",
-     "article_title": "Grok Bot Can Now Search X: Build Your Own AI Research Desk in 12 Steps"
-    }
+     "article_title": "Grok Bot Can Now Search X: Build Your Own AI Research Desk in 12 Steps",
+     "conversation_id": "2108197189948166648"
+    },
+    "conversation_id": "2123491469403316387"
    }
   },
   {
@@ -4545,7 +4610,8 @@
     "username": "larsencc",
     "name": "Larsen Cundric",
     "created_at": "2026-11-17T23:35:41.000Z",
-    "text": "I work on @bot\n\nTag me with whatever annoys you, breaks on you, or you wish it could do. I read all of it and bring the good stuff to our team.\n\nFollow if you want to see what we ship next."
+    "text": "I work on @bot\n\nTag me with whatever annoys you, breaks on you, or you wish it could do. I read all of it and bring the good stuff to our team.\n\nFollow if you want to see what we ship next.",
+    "conversation_id": "2122836100792152411"
    }
   },
   {
@@ -4574,7 +4640,8 @@
     "author_id": "2832427459",
     "username": "poteto",
     "name": "lauren",
-    "created_at": "2026-11-20T17:03:58.000Z"
+    "created_at": "2026-11-20T17:03:58.000Z",
+    "conversation_id": "2123824683862855898"
    }
   },
   {
@@ -4694,8 +4761,10 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-20T17:17:07.000Z",
-     "text": "Made with Grok @Bot\nhttps://m.youtube.com/watch?v=NkzscDL6VlE&ra=m"
-    }
+     "text": "Made with Grok @Bot\nhttps://m.youtube.com/watch?v=NkzscDL6VlE&ra=m",
+     "conversation_id": "2123827993382687217"
+    },
+    "conversation_id": "2123830701166645603"
    }
   },
   {
@@ -5091,7 +5160,8 @@
     "author_id": "893134581234147328",
     "username": "summer__heidi",
     "name": "ᴉpᴉǝH 🐐💕",
-    "created_at": "2026-11-16T02:48:27.000Z"
+    "created_at": "2026-11-16T02:48:27.000Z",
+    "conversation_id": "2122159837614330267"
    }
   },
   {
@@ -5164,7 +5234,8 @@
     "author_id": "11348282",
     "username": "NASA",
     "name": "NASA",
-    "created_at": "2026-11-20T16:45:38.000Z"
+    "created_at": "2026-11-20T16:45:38.000Z",
+    "conversation_id": "2123820070803542306"
    }
   },
   {
@@ -5222,7 +5293,8 @@
       "height": 720,
       "duration_ms": 37404
      }
-    ]
+    ],
+    "conversation_id": "2123771069354152204"
    }
   },
   {
@@ -5258,7 +5330,8 @@
       "width": 2048,
       "height": 2048
      }
-    ]
+    ],
+    "conversation_id": "2123741477238890516"
    }
   },
   {
@@ -5327,7 +5400,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-20T09:18:08.000Z"
+    "created_at": "2026-11-20T09:18:08.000Z",
+    "conversation_id": "2123707452915065128"
    }
   },
   {
@@ -5377,7 +5451,8 @@
     "author_id": "1252691385095868417",
     "username": "stuffyokodraws",
     "name": "Yoko",
-    "created_at": "2026-11-19T20:01:53.000Z"
+    "created_at": "2026-11-19T20:01:53.000Z",
+    "conversation_id": "2123507070297420193"
    }
   },
   {
@@ -5411,7 +5486,8 @@
     "author_id": "1650268779786452992",
     "username": "pequityresearch",
     "name": "P Equity Research 📰",
-    "created_at": "2026-11-20T14:00:03.000Z"
+    "created_at": "2026-11-20T14:00:03.000Z",
+    "conversation_id": "2123778402289144240"
    }
   },
   {
@@ -5438,7 +5514,8 @@
     "username": "zerohedge",
     "name": "zerohedge",
     "created_at": "2026-11-20T02:33:02.000Z",
-    "text": "\"X has become a much more powerful force in driving tech investor sentiment over the past few years. Honestly, besides Bloomberg, it’s my most important resource. I literally started a new section of my daily email a few weeks ago called SchilskyX where I screenshot and respond to Tweets. It’s that important. One important issue to note: the FinTwit community of influencers is VERY small. We’re talking less than 50 people that drive a preponderance of sentiment. Most investors and sell siders can’t tweet – so only a small number of FinTwit influencers with any sort of respectability drive much of the debate.\" - JPMorgan's Mark Schilsky"
+    "text": "\"X has become a much more powerful force in driving tech investor sentiment over the past few years. Honestly, besides Bloomberg, it’s my most important resource. I literally started a new section of my daily email a few weeks ago called SchilskyX where I screenshot and respond to Tweets. It’s that important. One important issue to note: the FinTwit community of influencers is VERY small. We’re talking less than 50 people that drive a preponderance of sentiment. Most investors and sell siders can’t tweet – so only a small number of FinTwit influencers with any sort of respectability drive much of the debate.\" - JPMorgan's Mark Schilsky",
+    "conversation_id": "2123605506799595620"
    }
   },
   {
@@ -5506,7 +5583,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-20T08:34:02.000Z"
+    "created_at": "2026-11-20T08:34:02.000Z",
+    "conversation_id": "2123696355554316764"
    }
   },
   {
@@ -5546,7 +5624,8 @@
     "author_id": "34743251",
     "username": "SpaceX",
     "name": "SpaceX",
-    "created_at": "2026-11-20T16:03:39.000Z"
+    "created_at": "2026-11-20T16:03:39.000Z",
+    "conversation_id": "2123809508187078839"
    }
   },
   {
@@ -5580,7 +5659,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-20T06:47:58.000Z"
+    "created_at": "2026-11-20T06:47:58.000Z",
+    "conversation_id": "2123669662768812123"
    }
   },
   {
@@ -5662,7 +5742,8 @@
     "author_id": "270839361",
     "username": "matteosalvinimi",
     "name": "Matteo Salvini",
-    "created_at": "2026-11-20T11:26:47.000Z"
+    "created_at": "2026-11-20T11:26:47.000Z",
+    "conversation_id": "2123739830194512067"
    }
   },
   {
@@ -5719,7 +5800,8 @@
     "author_id": "78822934",
     "username": "KTmBoyle",
     "name": "Katherine Boyle",
-    "created_at": "2026-11-19T22:29:40.000Z"
+    "created_at": "2026-11-19T22:29:40.000Z",
+    "conversation_id": "2123544262398951695"
    }
   },
   {
@@ -5768,7 +5850,8 @@
     "author_id": "541882699",
     "username": "andst7",
     "name": "Andrea Stroppa 🐺 Claudius Nero's Legion 🐺",
-    "created_at": "2026-11-20T11:19:57.000Z"
+    "created_at": "2026-11-20T11:19:57.000Z",
+    "conversation_id": "2123738109330223565"
    }
   },
   {
@@ -5802,7 +5885,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-19T18:43:07.000Z"
+    "created_at": "2026-11-19T18:43:07.000Z",
+    "conversation_id": "2123487251732869558"
    }
   },
   {
@@ -5844,8 +5928,10 @@
        "width": 2001,
        "height": 2048
       }
-     ]
-    }
+     ],
+     "conversation_id": "2123417259456544922"
+    },
+    "conversation_id": "2123457337776046251"
    }
   },
   {
@@ -5871,7 +5957,8 @@
     "author_id": "24405165",
     "username": "jamesdouma",
     "name": "jimmah",
-    "created_at": "2026-11-20T03:20:28.000Z"
+    "created_at": "2026-11-20T03:20:28.000Z",
+    "conversation_id": "2123617446590570679"
    }
   },
   {
@@ -5905,7 +5992,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-19T12:32:06.000Z"
+    "created_at": "2026-11-19T12:32:06.000Z",
+    "conversation_id": "2123393880506966264"
    }
   },
   {
@@ -5999,7 +6087,8 @@
     "author_id": "1201427034754318337",
     "username": "Tesla_Asia",
     "name": "Tesla Asia",
-    "created_at": "2026-11-20T07:07:04.000Z"
+    "created_at": "2026-11-20T07:07:04.000Z",
+    "conversation_id": "2123674470351310910"
    }
   },
   {
@@ -6062,7 +6151,8 @@
       "height": 1080,
       "duration_ms": 82477
      }
-    ]
+    ],
+    "conversation_id": "2123439181720612879"
    }
   },
   {
@@ -6088,7 +6178,8 @@
     "author_id": "1577705091737432070",
     "username": "yunta_tsai",
     "name": "Yun-Ta Tsai",
-    "created_at": "2026-11-20T02:23:03.000Z"
+    "created_at": "2026-11-20T02:23:03.000Z",
+    "conversation_id": "2123602995200024895"
    }
   },
   {
@@ -6166,8 +6257,10 @@
        "width": 1600,
        "height": 1200
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122753423837978698"
+    },
+    "conversation_id": "2123516375805379040"
    }
   },
   {
@@ -6231,8 +6324,10 @@
        "width": 1638,
        "height": 2048
       }
-     ]
-    }
+     ],
+     "conversation_id": "2123393880506966264"
+    },
+    "conversation_id": "2123538445918224762"
    }
   },
   {
@@ -6258,7 +6353,8 @@
     "author_id": "271871022",
     "username": "debs_obrien",
     "name": "Debbie O'Brien",
-    "created_at": "2026-11-19T22:13:13.000Z"
+    "created_at": "2026-11-19T22:13:13.000Z",
+    "conversation_id": "2123540123815964810"
    }
   },
   {
@@ -6320,7 +6416,8 @@
     "author_id": "1085225533623783424",
     "username": "KanekoaTheGreat",
     "name": "KanekoaTheGreat",
-    "created_at": "2026-11-19T23:07:55.000Z"
+    "created_at": "2026-11-19T23:07:55.000Z",
+    "conversation_id": "2123553886925664397"
    }
   },
   {
@@ -6403,8 +6500,10 @@
        "width": 1600,
        "height": 1200
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122753423837978698"
+    },
+    "conversation_id": "2123516375805379040"
    }
   },
   {
@@ -6559,7 +6658,8 @@
       "width": 1600,
       "height": 1200
      }
-    ]
+    ],
+    "conversation_id": "2122753423837978698"
    }
   },
   {
@@ -6628,7 +6728,8 @@
       "height": 2026,
       "duration_ms": 30055
      }
-    ]
+    ],
+    "conversation_id": "2123458263522107564"
    }
   },
   {
@@ -6724,7 +6825,8 @@
     "username": "Texas_Twins_Dad",
     "name": "Texas Twins Dad",
     "created_at": "2026-11-19T14:05:22.000Z",
-    "text": "I wake up in the morning, and Grok Bot has already opened multiple PRs, run the tests, and merged them. Having Grok Bot is like hiring a team that never sleeps."
+    "text": "I wake up in the morning, and Grok Bot has already opened multiple PRs, run the tests, and merged them. Having Grok Bot is like hiring a team that never sleeps.",
+    "conversation_id": "2123417350234136746"
    }
   },
   {
@@ -6823,8 +6925,10 @@
        "height": 720,
        "duration_ms": 74074
       }
-     ]
-    }
+     ],
+     "conversation_id": "2123457728282869817"
+    },
+    "conversation_id": "2123458524999307387"
    }
   },
   {
@@ -6892,7 +6996,8 @@
     "author_id": "1324183584282939392",
     "username": "Texas_Twins_Dad",
     "name": "Texas Twins Dad",
-    "created_at": "2026-11-19T16:17:20.000Z"
+    "created_at": "2026-11-19T16:17:20.000Z",
+    "conversation_id": "2123450561509138521"
    }
   },
   {
@@ -6926,7 +7031,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-19T13:39:02.000Z"
+    "created_at": "2026-11-19T13:39:02.000Z",
+    "conversation_id": "2123410726111134071"
    }
   },
   {
@@ -6952,7 +7058,8 @@
     "author_id": "19058681",
     "username": "aplusk",
     "name": "ashton kutcher",
-    "created_at": "2026-11-19T15:54:30.000Z"
+    "created_at": "2026-11-19T15:54:30.000Z",
+    "conversation_id": "2123444817602748717"
    }
   },
   {
@@ -7060,7 +7167,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-19T16:33:17.000Z"
+    "created_at": "2026-11-19T16:33:17.000Z",
+    "conversation_id": "2123454575038677045"
    }
   },
   {
@@ -7147,8 +7255,10 @@
        "width": 3277,
        "height": 4096
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122545422103384397"
+    },
+    "conversation_id": "2123447242249932955"
    }
   },
   {
@@ -7188,7 +7298,8 @@
     "author_id": "2027533690532990980",
     "username": "gaooofy",
     "name": "高飞Felix",
-    "created_at": "2026-11-19T14:31:52.000Z"
+    "created_at": "2026-11-19T14:31:52.000Z",
+    "conversation_id": "2123424019022299469"
    }
   },
   {
@@ -7365,7 +7476,8 @@
     "author_id": "2832427459",
     "username": "poteto",
     "name": "lauren",
-    "created_at": "2026-11-18T21:00:54.000Z"
+    "created_at": "2026-11-18T21:00:54.000Z",
+    "conversation_id": "2123159537016533493"
    }
   },
   {
@@ -7428,7 +7540,8 @@
     "author_id": "1016059981907386368",
     "username": "teslaownersSV",
     "name": "Tesla Owners Silicon Valley",
-    "created_at": "2026-11-19T06:56:25.000Z"
+    "created_at": "2026-11-19T06:56:25.000Z",
+    "conversation_id": "2123309405013987713"
    }
   },
   {
@@ -7492,7 +7605,8 @@
       "height": 1080,
       "duration_ms": 82883
      }
-    ]
+    ],
+    "conversation_id": "2123335780852744499"
    }
   },
   {
@@ -7527,7 +7641,8 @@
     "author_id": "2509387159",
     "username": "ashen_one",
     "name": "ashen",
-    "created_at": "2026-11-18T09:04:01.000Z"
+    "created_at": "2026-11-18T09:04:01.000Z",
+    "conversation_id": "2122979126290329952"
    }
   },
   {
@@ -7585,7 +7700,8 @@
       "height": 720,
       "duration_ms": 73500
      }
-    ]
+    ],
+    "conversation_id": "2123059516749029756"
    }
   },
   {
@@ -7619,8 +7735,10 @@
      "username": "larsencc",
      "name": "Larsen Cundric",
      "created_at": "2026-11-17T23:35:41.000Z",
-     "text": "I work on @bot\n\nTag me with whatever annoys you, breaks on you, or you wish it could do. I read all of it and bring the good stuff to our team.\n\nFollow if you want to see what we ship next."
-    }
+     "text": "I work on @bot\n\nTag me with whatever annoys you, breaks on you, or you wish it could do. I read all of it and bring the good stuff to our team.\n\nFollow if you want to see what we ship next.",
+     "conversation_id": "2122836100792152411"
+    },
+    "conversation_id": "2123189115147759725"
    }
   },
   {
@@ -7707,7 +7825,8 @@
     "author_id": "763094579491008512",
     "username": "EricLDaugh",
     "name": "Eric Daugherty",
-    "created_at": "2026-11-18T23:26:49.000Z"
+    "created_at": "2026-11-18T23:26:49.000Z",
+    "conversation_id": "2123196259318034475"
    }
   },
   {
@@ -7784,8 +7903,10 @@
        "height": 2160,
        "duration_ms": 227041
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122721430596997348"
+    },
+    "conversation_id": "2123126893331300680"
    }
   },
   {
@@ -7813,7 +7934,8 @@
     "username": "chat",
     "name": "XChat",
     "created_at": "2026-11-18T19:22:47.000Z",
-    "text": "To continue optimizing the X experience, support for legacy groups on XChat will be ending this Friday.\n\nAll unencrypted conversations will become encrypted, and group members not on XChat by Friday will need to sign up for XChat to be reincluded in those conversations."
+    "text": "To continue optimizing the X experience, support for legacy groups on XChat will be ending this Friday.\n\nAll unencrypted conversations will become encrypted, and group members not on XChat by Friday will need to sign up for XChat to be reincluded in those conversations.",
+    "conversation_id": "2123134844540448943"
    }
   },
   {
@@ -7879,8 +8001,10 @@
        "width": 1080,
        "height": 1080
       }
-     ]
-    }
+     ],
+     "conversation_id": "2123082315718853021"
+    },
+    "conversation_id": "2123119244380717562"
    }
   },
   {
@@ -7943,7 +8067,8 @@
     "author_id": "17033995",
     "username": "Nasdaq",
     "name": "Nasdaq",
-    "created_at": "2026-11-18T17:14:55.000Z"
+    "created_at": "2026-11-18T17:14:55.000Z",
+    "conversation_id": "2123102665752158402"
    }
   },
   {
@@ -8028,8 +8153,10 @@
        "height": 2160,
        "duration_ms": 20000
       }
-     ]
-    }
+     ],
+     "conversation_id": "2123094261566734489"
+    },
+    "conversation_id": "2123103002181706058"
    }
   },
   {
@@ -8088,7 +8215,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-18T16:57:59.000Z"
+    "created_at": "2026-11-18T16:57:59.000Z",
+    "conversation_id": "2123098403882319946"
    }
   },
   {
@@ -8116,7 +8244,8 @@
     "username": "willdepue",
     "name": "will depue",
     "created_at": "2026-11-18T15:01:48.000Z",
-    "text": "guys we're in the fucking singularity. oh my god. i just forget sometimes and then wake up in the middle of the night like oh my god its all happening"
+    "text": "guys we're in the fucking singularity. oh my god. i just forget sometimes and then wake up in the middle of the night like oh my god its all happening",
+    "conversation_id": "2123069165334675742"
    }
   },
   {
@@ -8171,7 +8300,8 @@
     "author_id": "1106321031566893057",
     "username": "jimfarley98",
     "name": "Jim Farley",
-    "created_at": "2026-11-18T18:00:03.000Z"
+    "created_at": "2026-11-18T18:00:03.000Z",
+    "conversation_id": "2123114023810166928"
    }
   },
   {
@@ -8230,7 +8360,8 @@
     "author_id": "1505909833190592519",
     "username": "SpaceInvestor_D",
     "name": "Space Investor",
-    "created_at": "2026-11-19T00:29:13.000Z"
+    "created_at": "2026-11-19T00:29:13.000Z",
+    "conversation_id": "2123211962289176891"
    }
   },
   {
@@ -8265,7 +8396,8 @@
     "author_id": "2075784577973424128",
     "username": "marsrepublica",
     "name": "samuel",
-    "created_at": "2026-11-19T04:39:41.000Z"
+    "created_at": "2026-11-19T04:39:41.000Z",
+    "conversation_id": "2123274994952065291"
    }
   },
   {
@@ -8359,8 +8491,10 @@
        "height": 1080,
        "duration_ms": 35966
       }
-     ]
-    }
+     ],
+     "conversation_id": "2123121401762918718"
+    },
+    "conversation_id": "2123121516070232288"
    }
   },
   {
@@ -8465,7 +8599,8 @@
       "height": 720,
       "duration_ms": 44611
      }
-    ]
+    ],
+    "conversation_id": "2123268230768939328"
    }
   },
   {
@@ -8521,7 +8656,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-18T12:42:14.000Z"
+    "created_at": "2026-11-18T12:42:14.000Z",
+    "conversation_id": "2123034041452745036"
    }
   },
   {
@@ -8548,7 +8684,11 @@
     "username": "elonmusk",
     "name": "Elon Musk",
     "created_at": "2022-10-03T23:41:33.000Z",
-    "text": "@Kasparov63 We gave Starlinks to Ukraine & lost $80M+ in doing so, while putting SpaceX & myself at serious risk of Russian cyberattack.\n\nWhat have you done besides tweet?"
+    "text": "@Kasparov63 We gave Starlinks to Ukraine & lost $80M+ in doing so, while putting SpaceX & myself at serious risk of Russian cyberattack.\n\nWhat have you done besides tweet?",
+    "reply_to": {
+     "id": "1576977846437924865"
+    },
+    "conversation_id": "1576977846437924865"
    }
   },
   {
@@ -8582,7 +8722,8 @@
     "author_id": "1482581556",
     "username": "demishassabis",
     "name": "Demis Hassabis",
-    "created_at": "2026-11-18T21:35:24.000Z"
+    "created_at": "2026-11-18T21:35:24.000Z",
+    "conversation_id": "2123168218743554465"
    }
   },
   {
@@ -8652,8 +8793,10 @@
        "width": 4096,
        "height": 2731
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122645005215088882"
+    },
+    "conversation_id": "2122873047602675832"
    }
   },
   {
@@ -8687,7 +8830,8 @@
     "author_id": "14130366",
     "username": "sundarpichai",
     "name": "Sundar Pichai",
-    "created_at": "2026-11-18T21:33:40.000Z"
+    "created_at": "2026-11-18T21:33:40.000Z",
+    "conversation_id": "2123167780988125621"
    }
   },
   {
@@ -8772,7 +8916,8 @@
     "author_id": "1085225533623783424",
     "username": "KanekoaTheGreat",
     "name": "KanekoaTheGreat",
-    "created_at": "2026-11-19T02:31:24.000Z"
+    "created_at": "2026-11-19T02:31:24.000Z",
+    "conversation_id": "2123242707560857836"
    }
   },
   {
@@ -8834,7 +8979,8 @@
     "author_id": "1085225533623783424",
     "username": "KanekoaTheGreat",
     "name": "KanekoaTheGreat",
-    "created_at": "2026-11-19T01:38:55.000Z"
+    "created_at": "2026-11-19T01:38:55.000Z",
+    "conversation_id": "2123229499626287113"
    }
   },
   {
@@ -8860,7 +9006,8 @@
     "author_id": "2327400218",
     "username": "C_3C_3",
     "name": "C3",
-    "created_at": "2026-11-18T23:50:14.000Z"
+    "created_at": "2026-11-18T23:50:14.000Z",
+    "conversation_id": "2123202151300448721"
    }
   },
   {
@@ -8917,7 +9064,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-18T18:27:56.000Z"
+    "created_at": "2026-11-18T18:27:56.000Z",
+    "conversation_id": "2123121040322920458"
    }
   },
   {
@@ -8974,7 +9122,8 @@
       "height": 720,
       "duration_ms": 112245
      }
-    ]
+    ],
+    "conversation_id": "2123218308027863259"
    }
   },
   {
@@ -9030,8 +9179,10 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-19T01:04:44.000Z",
-     "text": "Catching the ship was the last major piece of the puzzle https://twitter.com/xfreeze/status/2123209734463648240"
-    }
+     "text": "Catching the ship was the last major piece of the puzzle https://twitter.com/xfreeze/status/2123209734463648240",
+     "conversation_id": "2123220899264679988"
+    },
+    "conversation_id": "2123226341726376324"
    }
   },
   {
@@ -9111,7 +9262,8 @@
       "height": 720,
       "duration_ms": 145900
      }
-    ]
+    ],
+    "conversation_id": "2123209734463648240"
    }
   },
   {
@@ -9173,7 +9325,8 @@
     "author_id": "1085225533623783424",
     "username": "KanekoaTheGreat",
     "name": "KanekoaTheGreat",
-    "created_at": "2026-11-18T23:50:19.000Z"
+    "created_at": "2026-11-18T23:50:19.000Z",
+    "conversation_id": "2123202170250240283"
    }
   },
   {
@@ -9236,7 +9389,8 @@
       "height": 1080,
       "duration_ms": 207005
      }
-    ]
+    ],
+    "conversation_id": "2123202170250240283"
    }
   },
   {
@@ -9298,7 +9452,8 @@
     "author_id": "1508426880860704771",
     "username": "wallstengine",
     "name": "Wall St Engine",
-    "created_at": "2026-11-19T00:31:35.000Z"
+    "created_at": "2026-11-19T00:31:35.000Z",
+    "conversation_id": "2123212558438134157"
    }
   },
   {
@@ -9367,8 +9522,10 @@
        "height": 2160,
        "duration_ms": 250116
       }
-     ]
-    }
+     ],
+     "conversation_id": "2123133508319133759"
+    },
+    "conversation_id": "2123169794967183595"
    }
   },
   {
@@ -9461,8 +9618,10 @@
        "height": 720,
        "duration_ms": 68400
       }
-     ]
-    }
+     ],
+     "conversation_id": "2123208511169396990"
+    },
+    "conversation_id": "2123210477954367708"
    }
   },
   {
@@ -9524,7 +9683,8 @@
     "author_id": "1355721251180961792",
     "username": "GuntherEagleman",
     "name": "Gunther Eagleman™",
-    "created_at": "2026-11-18T23:30:18.000Z"
+    "created_at": "2026-11-18T23:30:18.000Z",
+    "conversation_id": "2123197134262477285"
    }
   },
   {
@@ -9586,7 +9746,8 @@
     "author_id": "1085225533623783424",
     "username": "KanekoaTheGreat",
     "name": "KanekoaTheGreat",
-    "created_at": "2026-11-19T00:29:54.000Z"
+    "created_at": "2026-11-19T00:29:54.000Z",
+    "conversation_id": "2123212134175949267"
    }
   },
   {
@@ -9648,7 +9809,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-19T00:02:40.000Z"
+    "created_at": "2026-11-19T00:02:40.000Z",
+    "conversation_id": "2123205279009677430"
    }
   },
   {
@@ -9710,7 +9872,8 @@
     "author_id": "1085225533623783424",
     "username": "KanekoaTheGreat",
     "name": "KanekoaTheGreat",
-    "created_at": "2026-11-19T00:14:36.000Z"
+    "created_at": "2026-11-19T00:14:36.000Z",
+    "conversation_id": "2123208280550084816"
    }
   },
   {
@@ -9772,7 +9935,8 @@
     "author_id": "1085225533623783424",
     "username": "KanekoaTheGreat",
     "name": "KanekoaTheGreat",
-    "created_at": "2026-11-19T00:20:06.000Z"
+    "created_at": "2026-11-19T00:20:06.000Z",
+    "conversation_id": "2123209664687132901"
    }
   },
   {
@@ -9807,7 +9971,8 @@
     "author_id": "331865640",
     "username": "aaronburnett",
     "name": "Aaron Burnett",
-    "created_at": "2026-11-18T23:37:30.000Z"
+    "created_at": "2026-11-18T23:37:30.000Z",
+    "conversation_id": "2123198945992044926"
    }
   },
   {
@@ -9870,7 +10035,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-19T00:21:59.000Z"
+    "created_at": "2026-11-19T00:21:59.000Z",
+    "conversation_id": "2123210139595608495"
    }
   },
   {
@@ -9979,7 +10145,8 @@
     "author_id": "1346535293449428992",
     "username": "TeslaCharging",
     "name": "Tesla Charging",
-    "created_at": "2026-11-18T19:38:02.000Z"
+    "created_at": "2026-11-18T19:38:02.000Z",
+    "conversation_id": "2123138680466616411"
    }
   },
   {
@@ -10007,7 +10174,8 @@
     "username": "outerspacetoday",
     "name": "Outer Space Today",
     "created_at": "2026-11-18T16:55:00.000Z",
-    "text": "JUST IN: Texas officials have rejected SpaceX's request to advance a property tax break for a proposed $24 billion data center and power plant near Starbase.\n\nCameron County commissioners voted Tuesday against moving forward with a proposed tax abatement for the project, which would occupy approximately 444 acres near Brownsville, Texas.\n\nAccording to the company's application, the development would include:\n\n• A $24 billion proposed capital investment.\n\n• A natural gas-fired power plant and advanced computing campus.\n\n• Approximately 500 new jobs.\n\n• An estimated $13.8 billion in taxable property value during its first year.\n\nThe vote prevents the requested tax incentive from advancing to a planned public hearing, but does not prohibit SpaceX from proceeding with the development.\n\nThe decision comes as SpaceX $SPCX continues expanding its industrial and technology infrastructure around Starbase, its South Texas rocket manufacturing and launch complex."
+    "text": "JUST IN: Texas officials have rejected SpaceX's request to advance a property tax break for a proposed $24 billion data center and power plant near Starbase.\n\nCameron County commissioners voted Tuesday against moving forward with a proposed tax abatement for the project, which would occupy approximately 444 acres near Brownsville, Texas.\n\nAccording to the company's application, the development would include:\n\n• A $24 billion proposed capital investment.\n\n• A natural gas-fired power plant and advanced computing campus.\n\n• Approximately 500 new jobs.\n\n• An estimated $13.8 billion in taxable property value during its first year.\n\nThe vote prevents the requested tax incentive from advancing to a planned public hearing, but does not prohibit SpaceX from proceeding with the development.\n\nThe decision comes as SpaceX $SPCX continues expanding its industrial and technology infrastructure around Starbase, its South Texas rocket manufacturing and launch complex.",
+    "conversation_id": "2123097652363759701"
    }
   },
   {
@@ -10101,7 +10269,8 @@
       "height": 2160,
       "duration_ms": 9966
      }
-    ]
+    ],
+    "conversation_id": "2123130830562423103"
    }
   },
   {
@@ -10135,8 +10304,10 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-18T01:55:59.000Z",
-     "text": "True, Starship launches are incredibly exciting https://twitter.com/cb_doge/status/2122826833163112639"
-    }
+     "text": "True, Starship launches are incredibly exciting https://twitter.com/cb_doge/status/2122826833163112639",
+     "conversation_id": "2122871410561593384"
+    },
+    "conversation_id": "2123145363544772871"
    }
   },
   {
@@ -10165,7 +10336,8 @@
     "name": "lauren",
     "created_at": "2026-11-18T21:00:54.000Z",
     "text": "I think a lot of people aren't using Grok Bot to its full potential, because knowing how to automate things is actually quite a difficult skill to learn. I wrote this post to break down how I approach automating anything with Grok Bot! https://x.com/i/article/2122921713864171520",
-    "article_title": "Automate Anything with Grok Bot"
+    "article_title": "Automate Anything with Grok Bot",
+    "conversation_id": "2123159537016533493"
    }
   },
   {
@@ -10207,8 +10379,10 @@
        "width": 3277,
        "height": 4096
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122545422103384397"
+    },
+    "conversation_id": "2123132631596556767"
    }
   },
   {
@@ -10255,7 +10429,8 @@
     "author_id": "34743251",
     "username": "SpaceX",
     "name": "SpaceX",
-    "created_at": "2026-11-18T16:56:22.000Z"
+    "created_at": "2026-11-18T16:56:22.000Z",
+    "conversation_id": "2123097995679867195"
    }
   },
   {
@@ -10319,7 +10494,8 @@
       "height": 1080,
       "duration_ms": 1901667
      }
-    ]
+    ],
+    "conversation_id": "2123026399787184615"
    }
   },
   {
@@ -10382,7 +10558,8 @@
     "author_id": "17862108",
     "username": "farzyness",
     "name": "Farzad 🇺🇸 🇮🇷",
-    "created_at": "2026-11-18T12:11:52.000Z"
+    "created_at": "2026-11-18T12:11:52.000Z",
+    "conversation_id": "2123026399787184615"
    }
   },
   {
@@ -10417,7 +10594,8 @@
       "width": 3277,
       "height": 4096
      }
-    ]
+    ],
+    "conversation_id": "2122545422103384397"
    }
   },
   {
@@ -10536,7 +10714,8 @@
     "author_id": "17033995",
     "username": "Nasdaq",
     "name": "Nasdaq",
-    "created_at": "2026-11-18T17:14:55.000Z"
+    "created_at": "2026-11-18T17:14:55.000Z",
+    "conversation_id": "2123102665752158402"
    }
   },
   {
@@ -10620,7 +10799,8 @@
       "width": 1080,
       "height": 1080
      }
-    ]
+    ],
+    "conversation_id": "2123082315718853021"
    }
   },
   {
@@ -10958,7 +11138,8 @@
     "username": "SmartNotHard1",
     "name": "Mogul",
     "created_at": "2026-11-17T13:28:00.000Z",
-    "text": "Elon Musk and Grimes found each other because they both independently made the same obscure joke about an AI thought experiment called Roko's Basilisk. Neither of them knew the other had made it. When they discovered the coincidence, Elon DM'd her. Their first real conversation lasted four hours.\n\nRoko's Basilisk is a philosophical thought experiment about a future AI that punishes anyone who didn't help create it. It's the kind of idea that maybe a few thousand people on Earth find interesting, let alone funny. Elon had tweeted a joke about it. Grimes had made a music video referencing it. Neither one was aware of the other's version.\n\nWhen someone pointed out the overlap, Elon messaged her. The conversation that followed wasn't flirting. It was two people discovering that their brains worked in the same strange way. AI, simulation theory, the future of consciousness, music as mathematics. Grimes later said she had never met anyone who could follow her thoughts at the speed she was thinking them.\n\nTheir first public appearance together was the 2018 Met Gala. They arrived together and the internet lost its mind because nobody could figure out how the richest man in tech and an experimental musician from Montreal ended up in the same universe.\n\nThe answer was simpler than anyone expected. They were both the kind of person who makes jokes about obscure AI philosophy at 2am and thinks that's normal. They didn't find each other through fame or fortune. They found each other through a thought experiment that maybe a thousand other people on Earth would have understood.\n\nThe rarest kind of connection isn't physical attraction. It's finding someone whose mind works like yours in a world that doesn't understand either of you."
+    "text": "Elon Musk and Grimes found each other because they both independently made the same obscure joke about an AI thought experiment called Roko's Basilisk. Neither of them knew the other had made it. When they discovered the coincidence, Elon DM'd her. Their first real conversation lasted four hours.\n\nRoko's Basilisk is a philosophical thought experiment about a future AI that punishes anyone who didn't help create it. It's the kind of idea that maybe a few thousand people on Earth find interesting, let alone funny. Elon had tweeted a joke about it. Grimes had made a music video referencing it. Neither one was aware of the other's version.\n\nWhen someone pointed out the overlap, Elon messaged her. The conversation that followed wasn't flirting. It was two people discovering that their brains worked in the same strange way. AI, simulation theory, the future of consciousness, music as mathematics. Grimes later said she had never met anyone who could follow her thoughts at the speed she was thinking them.\n\nTheir first public appearance together was the 2018 Met Gala. They arrived together and the internet lost its mind because nobody could figure out how the richest man in tech and an experimental musician from Montreal ended up in the same universe.\n\nThe answer was simpler than anyone expected. They were both the kind of person who makes jokes about obscure AI philosophy at 2am and thinks that's normal. They didn't find each other through fame or fortune. They found each other through a thought experiment that maybe a thousand other people on Earth would have understood.\n\nThe rarest kind of connection isn't physical attraction. It's finding someone whose mind works like yours in a world that doesn't understand either of you.",
+    "conversation_id": "2122683171825164705"
    }
   },
   {
@@ -11059,7 +11240,8 @@
     "author_id": "1028515474710114305",
     "username": "HalcyonHypnotic",
     "name": "Hypnotic",
-    "created_at": "2026-11-18T04:48:11.000Z"
+    "created_at": "2026-11-18T04:48:11.000Z",
+    "conversation_id": "2122914742100517144"
    }
   },
   {
@@ -11222,8 +11404,10 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-18T09:36:31.000Z",
-     "text": "The machines of @boringcompany were named after:\n\nWaiting for Godot\nA Line-storm Song\nThe Love Song of J. Alfred Prufrock"
-    }
+     "text": "The machines of @boringcompany were named after:\n\nWaiting for Godot\nA Line-storm Song\nThe Love Song of J. Alfred Prufrock",
+     "conversation_id": "2122987306923733063"
+    },
+    "conversation_id": "2122997935486996569"
    }
   },
   {
@@ -11295,8 +11479,10 @@
        "width": 2048,
        "height": 1152
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122936119448764559"
+    },
+    "conversation_id": "2122951806548340804"
    }
   },
   {
@@ -11354,7 +11540,8 @@
       "height": 720,
       "duration_ms": 269880
      }
-    ]
+    ],
+    "conversation_id": "2122159837614330267"
    }
   },
   {
@@ -11512,7 +11699,8 @@
       "height": 720,
       "duration_ms": 234791
      }
-    ]
+    ],
+    "conversation_id": "2122598664187023768"
    }
   },
   {
@@ -11548,7 +11736,8 @@
       "width": 2500,
       "height": 1875
      }
-    ]
+    ],
+    "conversation_id": "2122924757461160119"
    }
   },
   {
@@ -11575,7 +11764,8 @@
     "author_id": "1265526183137067010",
     "username": "TheCaptainEli",
     "name": "Captain Eli",
-    "created_at": "2026-11-17T15:17:18.000Z"
+    "created_at": "2026-11-17T15:17:18.000Z",
+    "conversation_id": "2122710679022965024"
    }
   },
   {
@@ -11635,8 +11825,10 @@
      "username": "elonmusk",
      "name": "Elon Musk",
      "created_at": "2026-11-18T05:26:45.000Z",
-     "text": "I wrote this 18 months ago https://twitter.com/elonmusk/status/1895129237478162621"
-    }
+     "text": "I wrote this 18 months ago https://twitter.com/elonmusk/status/1895129237478162621",
+     "conversation_id": "2122924448861008163"
+    },
+    "conversation_id": "2122937091218981083"
    }
   },
   {
@@ -11715,7 +11907,8 @@
     "author_id": "44196397",
     "username": "elonmusk",
     "name": "Elon Musk",
-    "created_at": "2026-11-18T06:13:07.000Z"
+    "created_at": "2026-11-18T06:13:07.000Z",
+    "conversation_id": "2122936119448764559"
    }
   },
   {
@@ -11766,7 +11959,8 @@
     "author_id": "44196397",
     "username": "elonmusk",
     "name": "Elon Musk",
-    "created_at": "2026-11-18T05:29:06.000Z"
+    "created_at": "2026-11-18T05:29:06.000Z",
+    "conversation_id": "2122925042400895056"
    }
   },
   {
@@ -11856,7 +12050,8 @@
     "author_id": "31263848",
     "username": "stevenmarkryan",
     "name": "stevenmarkryan",
-    "created_at": "2026-11-18T04:15:00.000Z"
+    "created_at": "2026-11-18T04:15:00.000Z",
+    "conversation_id": "2122906392969232791"
    }
   },
   {
@@ -11909,7 +12104,8 @@
     "author_id": "534023",
     "username": "alx",
     "name": "ALX 🇺🇸",
-    "created_at": "2026-11-18T05:25:51.000Z"
+    "created_at": "2026-11-18T05:25:51.000Z",
+    "conversation_id": "2122924222984958211"
    }
   },
   {
@@ -11957,8 +12153,10 @@
        "width": 2048,
        "height": 1080
       }
-     ]
-    }
+     ],
+     "conversation_id": "1895122491732877599"
+    },
+    "conversation_id": "1895129237478162621"
    }
   },
   {
@@ -12067,7 +12265,8 @@
       "height": 972,
       "duration_ms": 60927
      }
-    ]
+    ],
+    "conversation_id": "2122674358015684927"
    }
   },
   {
@@ -12136,7 +12335,8 @@
       "height": 3840,
       "duration_ms": 30334
      }
-    ]
+    ],
+    "conversation_id": "2122794386480386166"
    }
   },
   {
@@ -12324,7 +12524,8 @@
     "author_id": "34743251",
     "username": "SpaceX",
     "name": "SpaceX",
-    "created_at": "2026-11-17T22:09:13.000Z"
+    "created_at": "2026-11-17T22:09:13.000Z",
+    "conversation_id": "2122814338893332591"
    }
   },
   {
@@ -12360,7 +12561,8 @@
     "author_id": "34743251",
     "username": "SpaceX",
     "name": "SpaceX",
-    "created_at": "2026-11-17T20:47:31.000Z"
+    "created_at": "2026-11-17T20:47:31.000Z",
+    "conversation_id": "2122793780810264837"
    }
   },
   {
@@ -12401,8 +12603,10 @@
        "width": 5554,
        "height": 4068
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122826507454427399"
+    },
+    "conversation_id": "2122839416591057223"
    }
   },
   {
@@ -12430,7 +12634,8 @@
     "author_id": "1937236128010240001",
     "username": "SpaceXAIMemphis",
     "name": "SpaceXAI Memphis",
-    "created_at": "2026-11-17T20:34:26.000Z"
+    "created_at": "2026-11-17T20:34:26.000Z",
+    "conversation_id": "2122790486112948478"
    }
   },
   {
@@ -12456,7 +12661,8 @@
     "author_id": "1899375311680372736",
     "username": "larsencc",
     "name": "Larsen Cundric",
-    "created_at": "2026-11-17T23:35:41.000Z"
+    "created_at": "2026-11-17T23:35:41.000Z",
+    "conversation_id": "2122836100792152411"
    }
   },
   {
@@ -12512,7 +12718,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-17T19:31:10.000Z"
+    "created_at": "2026-11-17T19:31:10.000Z",
+    "conversation_id": "2122774565663477771"
    }
   },
   {
@@ -12538,7 +12745,8 @@
     "author_id": "760345658",
     "username": "wintonARK",
     "name": "Brett Winton",
-    "created_at": "2026-11-17T22:00:20.000Z"
+    "created_at": "2026-11-17T22:00:20.000Z",
+    "conversation_id": "2122812103442764244"
    }
   },
   {
@@ -12600,7 +12808,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-17T22:38:30.000Z"
+    "created_at": "2026-11-17T22:38:30.000Z",
+    "conversation_id": "2122821710185672735"
    }
   },
   {
@@ -12627,7 +12836,8 @@
     "username": "bot",
     "name": "Grok Bot",
     "created_at": "2026-11-17T19:18:32.000Z",
-    "text": "Five Bots now have full-time roles on our accounting team. We onboard, train, and manage them just like human teammates.\n\nHere's how we built them to handle the order-to-cash process, from provisioning customer accounts to collecting payments.\n\nhttps://x.ai/news/grok-bot-accounting"
+    "text": "Five Bots now have full-time roles on our accounting team. We onboard, train, and manage them just like human teammates.\n\nHere's how we built them to handle the order-to-cash process, from provisioning customer accounts to collecting payments.\n\nhttps://x.ai/news/grok-bot-accounting",
+    "conversation_id": "2122771386456551516"
    }
   },
   {
@@ -12690,7 +12900,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-17T22:21:13.000Z"
+    "created_at": "2026-11-17T22:21:13.000Z",
+    "conversation_id": "2122817361296371897"
    }
   },
   {
@@ -12726,7 +12937,8 @@
       "width": 1125,
       "height": 1125
      }
-    ]
+    ],
+    "conversation_id": "2122772667606716641"
    }
   },
   {
@@ -12790,7 +13002,8 @@
       "height": 1080,
       "duration_ms": 61038
      }
-    ]
+    ],
+    "conversation_id": "2122826833163112639"
    }
   },
   {
@@ -12847,7 +13060,8 @@
     "author_id": "1133510366422392833",
     "username": "DrewPavlou",
     "name": "Drew Pavlou 🇦🇺🇺🇸🇫🇷🇺🇦🇹🇼",
-    "created_at": "2026-11-17T22:31:10.000Z"
+    "created_at": "2026-11-17T22:31:10.000Z",
+    "conversation_id": "2122819863056122136"
    }
   },
   {
@@ -12911,7 +13125,8 @@
       "height": 1080,
       "duration_ms": 243590
      }
-    ]
+    ],
+    "conversation_id": "2122289604866802011"
    }
   },
   {
@@ -12946,8 +13161,10 @@
      "name": "Tesla Megapack",
      "created_at": "2026-11-17T17:06:57.000Z",
      "text": "https://x.com/i/article/2122734886062813184",
-     "article_title": "The Future Runs on Powercore "
-    }
+     "article_title": "The Future Runs on Powercore ",
+     "conversation_id": "2122738271256211706"
+    },
+    "conversation_id": "2122747456836587939"
    }
   },
   {
@@ -13371,7 +13588,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-17T19:54:45.000Z"
+    "created_at": "2026-11-17T19:54:45.000Z",
+    "conversation_id": "2122780502277140508"
    }
   },
   {
@@ -13457,7 +13675,8 @@
       "height": 1080,
       "duration_ms": 44944
      }
-    ]
+    ],
+    "conversation_id": "2122791853502185953"
    }
   },
   {
@@ -13507,7 +13726,8 @@
     "username": "TomorrowXSummit",
     "name": "TomorrowX Summit",
     "created_at": "2026-11-17T19:07:27.000Z",
-    "text": "TomorrowX Summit 2026 — Day 1 Live https://x.com/i/broadcasts/2vyAYPmBoeMQWZ"
+    "text": "TomorrowX Summit 2026 — Day 1 Live https://x.com/i/broadcasts/2vyAYPmBoeMQWZ",
+    "conversation_id": "2122768596627526062"
    }
   },
   {
@@ -13564,7 +13784,8 @@
     "author_id": "1937236128010240001",
     "username": "SpaceXAIMemphis",
     "name": "SpaceXAI Memphis",
-    "created_at": "2026-11-17T20:34:26.000Z"
+    "created_at": "2026-11-17T20:34:26.000Z",
+    "conversation_id": "2122790486112948478"
    }
   },
   {
@@ -13673,7 +13894,8 @@
     "username": "mattyp",
     "name": "matt palmer",
     "created_at": "2026-11-14T03:06:43.000Z",
-    "text": "Grok Bot Q&A - FRIDAY THE 13TH https://x.com/i/broadcasts/2POrLVeJllEPdZ"
+    "text": "Grok Bot Q&A - FRIDAY THE 13TH https://x.com/i/broadcasts/2POrLVeJllEPdZ",
+    "conversation_id": "2121439659179848108"
    }
   },
   {
@@ -13751,7 +13973,8 @@
     "author_id": "1321920913328107520",
     "username": "MAGAGEM1",
     "name": "Megagem 💎",
-    "created_at": "2026-11-17T01:13:10.000Z"
+    "created_at": "2026-11-17T01:13:10.000Z",
+    "conversation_id": "2122498243699655165"
    }
   },
   {
@@ -13779,7 +14002,8 @@
     "author_id": "13298072",
     "username": "Tesla",
     "name": "Tesla",
-    "created_at": "2026-11-17T16:00:01.000Z"
+    "created_at": "2026-11-17T16:00:01.000Z",
+    "conversation_id": "2122721430596997348"
    }
   },
   {
@@ -13813,7 +14037,8 @@
     "author_id": "2492039959",
     "username": "AJamesMcCarthy",
     "name": "Andrew McCarthy",
-    "created_at": "2026-11-17T15:30:51.000Z"
+    "created_at": "2026-11-17T15:30:51.000Z",
+    "conversation_id": "2122714087998292030"
    }
   },
   {
@@ -13870,7 +14095,8 @@
     "author_id": "1604863807574212611",
     "username": "techdevnotes",
     "name": "Tech Dev Notes",
-    "created_at": "2026-11-17T18:18:05.000Z"
+    "created_at": "2026-11-17T18:18:05.000Z",
+    "conversation_id": "2122756172591812708"
    }
   },
   {
@@ -13904,8 +14130,10 @@
      "username": "SawyerMerritt",
      "name": "Sawyer Merritt",
      "created_at": "2026-11-17T14:11:46.000Z",
-     "text": "Delta Airlines CEO: \"We've been out with a great product from Viasat, which we've got two new satellites in the sky. It's not Starlink caliber but it's pretty darn close.\"\n\nIt's not even remotely close to Starlink 😂😂 https://twitter.com/SawyerMerritt/status/2122693736781975647"
-    }
+     "text": "Delta Airlines CEO: \"We've been out with a great product from Viasat, which we've got two new satellites in the sky. It's not Starlink caliber but it's pretty darn close.\"\n\nIt's not even remotely close to Starlink 😂😂 https://twitter.com/SawyerMerritt/status/2122693736781975647",
+     "conversation_id": "2122694187015393367"
+    },
+    "conversation_id": "2122697537693872373"
    }
   },
   {
@@ -13940,7 +14168,8 @@
     "author_id": "1389913567671975937",
     "username": "cb_doge",
     "name": "DogeDesigner",
-    "created_at": "2026-11-17T17:53:24.000Z"
+    "created_at": "2026-11-17T17:53:24.000Z",
+    "conversation_id": "2122749962547270102"
    }
   },
   {
@@ -14126,8 +14355,10 @@
        "height": 2160,
        "duration_ms": 79204
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122721563493744771"
+    },
+    "conversation_id": "2122724413036761244"
    }
   },
   {
@@ -14185,7 +14416,8 @@
       "height": 720,
       "duration_ms": 22990
      }
-    ]
+    ],
+    "conversation_id": "2122737419388879267"
    }
   },
   {
@@ -14278,7 +14510,8 @@
     "author_id": "1618601297510383616",
     "username": "Tesla_Megapack",
     "name": "Tesla Megapack",
-    "created_at": "2026-11-17T16:00:33.000Z"
+    "created_at": "2026-11-17T16:00:33.000Z",
+    "conversation_id": "2122721563493744771"
    }
   },
   {
@@ -14354,8 +14587,10 @@
        "height": 2160,
        "duration_ms": 79204
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122721563493744771"
+    },
+    "conversation_id": "2122733232894468308"
    }
   },
   {
@@ -14424,7 +14659,8 @@
       "height": 2160,
       "duration_ms": 79204
      }
-    ]
+    ],
+    "conversation_id": "2122721563493744771"
    }
   },
   {
@@ -14500,8 +14736,10 @@
        "height": 2160,
        "duration_ms": 79204
       }
-     ]
-    }
+     ],
+     "conversation_id": "2122721563493744771"
+    },
+    "conversation_id": "2122732163942752316"
    }
   },
   {
@@ -14584,7 +14822,8 @@
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-17T16:07:38.000Z"
+    "created_at": "2026-11-17T16:07:38.000Z",
+    "conversation_id": "2122723345225617654"
    }
   }
  ]

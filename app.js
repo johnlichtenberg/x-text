@@ -186,6 +186,40 @@
     if (!parent || parent === p || parent.id !== t.id) return null;
     return parent;
   }
+  // Thread views: a feed reply uses its own id; a quoted/reposted original (or nested quote) that
+  // is itself a reply uses "r" + the original's id, so it never shares state with a feed post.
+  var REF_VIEW = /^r([0-9]{1,25})$/;
+  function isView(v) { return P.isId(v) || (typeof v === "string" && REF_VIEW.test(v)); }
+  function refTarget(x) {
+    var t = replyTarget(x);
+    return t && t.id && x && String(x.id) !== t.id ? t : null;
+  }
+  // Originals that are replies, by id, from the loaded archive and parent cache (ids and links only).
+  var refCache = { a: null, p: null, map: null };
+  function refIndex() {
+    var a = state.archive || allPosts(), par = state.parents;
+    if (refCache.map && refCache.a === a && refCache.p === par) return refCache.map;
+    var map = {};
+    function add(p) {
+      var r = p && p.ref;
+      if (!r || typeof r !== "object" || Array.isArray(r)) return;
+      [r, r.quote].forEach(function (x) {
+        if (!x || typeof x !== "object" || Array.isArray(x) || !P.isId(x.id) || map[x.id] || !refTarget(x)) return;
+        map[x.id] = { id: x.id, reply_to: x.reply_to, conversation_id: x.conversation_id };
+      });
+    }
+    (a || []).forEach(add);
+    ((par && par.posts) || []).forEach(add);
+    refCache = { a: a, p: par, map: map };
+    return map;
+  }
+  function threadPost(view) {
+    if (P.isId(view)) return (state.byId || {})[view] || null;
+    var m = typeof view === "string" ? REF_VIEW.exec(view) : null;
+    return m ? refIndex()[m[1]] || null : null;
+  }
+  // No thread controls on originals inside an open thread (keeps nesting to one level).
+  var refThreadOff = 0;
   // Author of a quoted or reposted original: name and @username. Followed accounts link in-site.
   function refMeta(r) {
     var u = r.username || "";
@@ -207,7 +241,17 @@
     }
     var shownMedia = media === undefined ? r.media : media;
     var body = textBody(text, linkSrc || r, shownMedia);
-    return '<div class="quote">' + (label ? '<div class="marker">' + label + "</div>" : "") + refMeta(r) +
+    // An original that is itself a reply: "Replying to" plus Show / Hide earlier posts.
+    var t = refTarget(r), note = "", thread = "";
+    if (t) note = '<div class="marker">↩ Replying to ' + who(t.username) + "</div>";
+    if (t && !refThreadOff && P.isId(String(r.id))) {
+      var view = "r" + r.id;
+      thread = state.thread[view]
+        ? threadBlock({ id: String(r.id), reply_to: r.reply_to, conversation_id: r.conversation_id }, view)
+        : '<div class="ref-thread">' + threadButton(view, false, "Show earlier posts") + "</div>";
+    }
+    var lead = t && state.thread["r" + r.id] && thread ? thread + note : note + thread;
+    return '<div class="quote">' + (label ? '<div class="marker">' + label + "</div>" : "") + lead + refMeta(r) +
       articleLine(r.article_title) + body +
       mediaBlock(shownMedia, r.username) + nested + "</div>";
   }
@@ -425,9 +469,13 @@
   // Whole thread above a feed reply, oldest first, ending with its direct parent. Each card
   // keeps its own "Replying to" line. Only saved posts are shown; the top line says why the
   // walk stopped (loading, unavailable, depth cap) when the first post of the thread isn't reached.
-  function threadBlock(p) {
+  function threadBlock(p, view) {
+    refThreadOff++;
+    try { return threadHtml(p, view); } finally { refThreadOff--; }
+  }
+  function threadHtml(p, view) {
     var c = P.chain(p, state.archive || allPosts(), state.parents, Date.now());
-    var id = String(p.id), e = c.end, status = "";
+    var id = view || String(p.id), e = c.end, status = "";
     if (e.kind === "fetch") {
       if (state.threadLoading[id]) status = '<div class="text missing">Loading earlier posts…</div>';
       else status = (state.threadNotes[id] ? '<div class="text missing">' + esc(state.threadNotes[id]) + "</div>" : "") + threadButton(id, false, "Load earlier posts");
@@ -753,7 +801,7 @@
       if (b.classList.contains("show-thread")) { onShowThread(b.getAttribute("data-thread"), b.getAttribute("data-retry") === "1"); return; }
       if (b.classList.contains("hide-thread")) {
         var hid = b.getAttribute("data-thread");
-        if (P.isId(hid)) { delete state.thread[hid]; render(false); }
+        if (isView(hid)) { delete state.thread[hid]; render(false); }
         return;
       }
       if (b.classList.contains("show-parent")) { onShowParent(b); return; }
@@ -1160,7 +1208,7 @@
   function pairKey(pair) { return pair.reply_id + ">" + pair.parent_id; }
   function threadViews(pair) { return Object.keys(threadWait[pairKey(pair)] || {}); }
   function threadDone(view) {
-    var post = (state.byId || {})[view];
+    var post = threadPost(view);
     if (!post) return true;
     return P.chain(post, state.archive || [], state.parents, Date.now()).end.kind !== "fetch";
   }
@@ -1168,8 +1216,8 @@
     return "Still loading earlier posts… a long thread can take a few minutes. Reload the page in a minute to see them.";
   }
   function onShowThread(view, retry) {
-    if (!P.isId(view)) return;
-    var post = (state.byId || {})[view];
+    if (!isView(view)) return;
+    var post = threadPost(view);
     if (!post) return;
     state.thread[view] = 1;
     if (state.threadLoading[view]) { render(false); return; }
@@ -1183,7 +1231,7 @@
       render(false);
       ensureShards().then(function () {
         delete state.threadLoading[view];
-        var again = (state.byId || {})[view];
+        var again = threadPost(view);
         var d2 = again ? P.threadClick(again, state.archive || allPosts(), state.parents, Date.now(), retry) : { effect: "stop" };
         if (!state.thread[view]) { render(false); return; }
         if (d2.effect === "enqueue") queueThread(view, d2.pair);
@@ -1397,9 +1445,9 @@
     (opts.loading || []).forEach(function (id) { if (P.isId(id)) state.loading[id] = 1; });
     state.notes = opts.notes || {};
     state.thread = {};
-    (opts.thread || []).forEach(function (id) { if (P.isId(id)) state.thread[id] = 1; });
+    (opts.thread || []).forEach(function (id) { if (isView(id)) state.thread[id] = 1; });
     state.threadLoading = {};
-    (opts.threadLoading || []).forEach(function (id) { if (P.isId(id)) state.threadLoading[id] = 1; });
+    (opts.threadLoading || []).forEach(function (id) { if (isView(id)) state.threadLoading[id] = 1; });
     state.threadNotes = opts.threadNotes || {};
     mediaStore = {};
     mid = 0;
@@ -1427,7 +1475,7 @@
       parentClick: P.parentClick, homeShardIds: homeShardIds, shardList: shardList, dataPathOk: dataPathOk,
       indexStamp: indexStamp, pickIndex: pickIndex, keepNewer: keepNewer, statusClass: statusClass,
       pollExpired: pollExpired, refreshTimeoutStatus: refreshTimeoutStatus, parentTimeoutNote: parentTimeoutNote,
-      threadTimeoutNote: threadTimeoutNote, threadClick: P.threadClick,
+      threadTimeoutNote: threadTimeoutNote, threadClick: P.threadClick, isView: isView,
       refreshBody: refreshBody, pollStep: pollStep, runMessage: runMessage,
       pickVideoURL: pickVideoURL, mediaEl: mediaEl, applyView: applyView, readView: readView, writeView: writeView,
       postsViewEmpty: postsViewEmpty, VIEW_KEY: VIEW_KEY, POSTS_EMPTY: POSTS_EMPTY };

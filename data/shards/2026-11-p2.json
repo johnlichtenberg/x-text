@@ -1,7 +1,1045 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-21T15:25:10Z",
+ "updated_at": "2026-11-22T19:50:35Z",
  "posts": [
+  {
+   "id": "2122787262912184790",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-17T20:21:37.000Z",
+   "lang": "en",
+   "conversation_id": "2122786775638900856",
+   "url": "https://x.com/mattyp/status/2122787262912184790",
+   "reply_to": {
+    "id": "2122786775638900856",
+    "username": "mattyp"
+   },
+   "kind": "reply",
+   "text": "thank you lauren for educating me 🙏",
+   "urls": [],
+   "metrics": {
+    "likes": 53,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2122787213528465467",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-17T20:21:25.000Z",
+   "lang": "qme",
+   "conversation_id": "2122786775638900856",
+   "url": "https://x.com/mattyp/status/2122787213528465467",
+   "reply_to": {
+    "id": "2122786860644876347",
+    "username": "AugustLittell"
+   },
+   "kind": "reply",
+   "text": "@AugustLittell @poteto 🍠",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2122786775638900856",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-17T20:19:41.000Z",
+   "lang": "en",
+   "conversation_id": "2122786775638900856",
+   "url": "https://x.com/mattyp/status/2122786775638900856",
+   "kind": "quote",
+   "text": "How to pronounce \"poteto\", straight from @poteto",
+   "urls": [],
+   "metrics": {
+    "likes": 1223,
+    "reposts": 57,
+    "replies": 68,
+    "quotes": 23
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122786744328388608/vid/avc1/1080x1920/PqNpOXsKhNj-LLT_.mp4?tag=16",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122786744328388608/img/UXQq50Rfn-oS-naT.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122786744328388608/vid/avc1/320x568/OKaLJGnTm9juQZPw.mp4?tag=16",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122786744328388608/vid/avc1/480x852/BEYdbecYqmIYmseL.mp4?tag=16",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122786744328388608/vid/avc1/720x1280/KCufX1vgKBXYpvfK.mp4?tag=16",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122786744328388608/vid/avc1/1080x1920/PqNpOXsKhNj-LLT_.mp4?tag=16",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 29141
+    }
+   ],
+   "ref": {
+    "id": "2121439659179848108",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-14T03:06:43.000Z",
+    "text": "Grok Bot Q&A - FRIDAY THE 13TH https://x.com/i/broadcasts/2POrLVeJllEPdZ",
+    "conversation_id": "2121439659179848108"
+   }
+  },
+  {
+   "id": "2122775202564346357",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-17T19:33:42.000Z",
+   "lang": "en",
+   "conversation_id": "2122637866329366530",
+   "url": "https://x.com/mattyp/status/2122775202564346357",
+   "reply_to": {
+    "id": "2122637866329366530",
+    "username": "christianreber"
+   },
+   "kind": "reply",
+   "text": "@christianreber I had life zero long before grok bot",
+   "urls": [],
+   "metrics": {
+    "likes": 60,
+    "reposts": 0,
+    "replies": 6,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2122771386456551516",
+   "author_id": "2085838061347217408",
+   "username": "bot",
+   "name": "Grok Bot",
+   "created_at": "2026-11-17T19:18:32.000Z",
+   "lang": "en",
+   "conversation_id": "2122771386456551516",
+   "url": "https://x.com/bot/status/2122771386456551516",
+   "kind": "post",
+   "text": "Five Bots now have full-time roles on our accounting team. We onboard, train, and manage them just like human teammates.\n\nHere's how we built them to handle the order-to-cash process, from provisioning customer accounts to collecting payments.\n\nhttps://x.ai/news/grok-bot-accounting",
+   "urls": [
+    "https://x.ai/news/grok-bot-accounting"
+   ],
+   "metrics": {
+    "likes": 4955,
+    "reposts": 344,
+    "replies": 341,
+    "quotes": 79
+   }
+  },
+  {
+   "id": "2122763840735862889",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T18:48:33.000Z",
+   "lang": "es",
+   "conversation_id": "2122763840735862889",
+   "url": "https://x.com/elonmusk/status/2122763840735862889",
+   "kind": "repost",
+   "text": "Socialism vs Capitalism",
+   "urls": [],
+   "metrics": {
+    "likes": 18680,
+    "reposts": 2921,
+    "replies": 595,
+    "quotes": 184
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXSg5rLa8AEBNGt.jpg",
+     "width": 800,
+     "height": 1066
+    }
+   ],
+   "ref": {
+    "id": "2122498243699655165",
+    "author_id": "1321920913328107520",
+    "username": "MAGAGEM1",
+    "name": "Megagem 💎",
+    "created_at": "2026-11-17T01:13:10.000Z",
+    "conversation_id": "2122498243699655165"
+   }
+  },
+  {
+   "id": "2122759967413567648",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T18:33:09.000Z",
+   "lang": "en",
+   "conversation_id": "2122759967413567648",
+   "url": "https://x.com/elonmusk/status/2122759967413567648",
+   "kind": "repost",
+   "text": "Tesla’s Annual Meeting is coming up on December 3 & we need your vote\n\nVoting is quick & easy – you can vote online, by mail, by QR code or by phone\n\n@Tesla_Optimus can show you how\n\nhttps://VoteTesla.com",
+   "urls": [
+    "https://VoteTesla.com"
+   ],
+   "metrics": {
+    "likes": 4514,
+    "reposts": 605,
+    "replies": 279,
+    "quotes": 85
+   },
+   "ref": {
+    "id": "2122721430596997348",
+    "author_id": "13298072",
+    "username": "Tesla",
+    "name": "Tesla",
+    "created_at": "2026-11-17T16:00:01.000Z",
+    "conversation_id": "2122721430596997348"
+   }
+  },
+  {
+   "id": "2122759422799958111",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T18:31:00.000Z",
+   "lang": "en",
+   "conversation_id": "2122759422799958111",
+   "url": "https://x.com/elonmusk/status/2122759422799958111",
+   "kind": "repost",
+   "text": "I combined 15 of my launch/catch photos to create this: A composite image telling the story of this historic event.\n\nI titled it \"Dreams of Martian Skies\". Suddenly that dream feels a bit more real.\n\nGet the Print and read more info about how it was captured 👇",
+   "urls": [],
+   "metrics": {
+    "likes": 6527,
+    "reposts": 810,
+    "replies": 211,
+    "quotes": 57
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVjC0qb0AABSIf.jpg",
+     "width": 2000,
+     "height": 2500
+    }
+   ],
+   "ref": {
+    "id": "2122714087998292030",
+    "author_id": "2492039959",
+    "username": "AJamesMcCarthy",
+    "name": "Andrew McCarthy",
+    "created_at": "2026-11-17T15:30:51.000Z",
+    "conversation_id": "2122714087998292030"
+   }
+  },
+  {
+   "id": "2122758986483269956",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T18:29:15.000Z",
+   "lang": "en",
+   "conversation_id": "2122736510063542373",
+   "url": "https://x.com/elonmusk/status/2122758986483269956",
+   "reply_to": {
+    "id": "2122736510063542373",
+    "username": "IterIntellectus"
+   },
+   "kind": "reply",
+   "text": "@IterIntellectus We did do a soft rollout to some Bot users, but still have another week or two of polish before general release",
+   "urls": [],
+   "metrics": {
+    "likes": 3716,
+    "reposts": 166,
+    "replies": 325,
+    "quotes": 55
+   }
+  },
+  {
+   "id": "2122757555030241324",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T18:23:34.000Z",
+   "lang": "en",
+   "conversation_id": "2122757555030241324",
+   "url": "https://x.com/elonmusk/status/2122757555030241324",
+   "kind": "repost",
+   "text": "SpaceXSI has released a blog: Building an accounting team with Grok Bot",
+   "urls": [],
+   "metrics": {
+    "likes": 1236,
+    "reposts": 139,
+    "replies": 59,
+    "quotes": 6
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWLeSDXMAEz9pj.jpg",
+     "width": 1834,
+     "height": 1688
+    }
+   ],
+   "ref": {
+    "id": "2122756172591812708",
+    "author_id": "1604863807574212611",
+    "username": "techdevnotes",
+    "name": "Tech Dev Notes",
+    "created_at": "2026-11-17T18:18:05.000Z",
+    "conversation_id": "2122756172591812708"
+   }
+  },
+  {
+   "id": "2122757100434780301",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T18:21:46.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122757100434780301",
+   "kind": "repost",
+   "text": "Not \"pretty darn close\".\n\nStarlink:\n~100 Mbps down\n~20 Mbps up,\nLatency ~30 ms\n\nViaSat:\n~`10 Mbps down\n~2 Mbps up\nLatency > 600 ms as the floor (can't get better).\n\nOrder of magnitude difference.",
+   "urls": [],
+   "metrics": {
+    "likes": 4207,
+    "reposts": 352,
+    "replies": 145,
+    "quotes": 20
+   },
+   "partial": true,
+   "ref": {
+    "id": "2122697537693872373",
+    "author_id": "12681842",
+    "username": "pbeisel",
+    "name": "phil beisel",
+    "created_at": "2026-11-17T14:25:05.000Z",
+    "quote": {
+     "id": "2122694187015393367",
+     "author_id": "243013409",
+     "username": "SawyerMerritt",
+     "name": "Sawyer Merritt",
+     "created_at": "2026-11-17T14:11:46.000Z",
+     "text": "Delta Airlines CEO: \"We've been out with a great product from Viasat, which we've got two new satellites in the sky. It's not Starlink caliber but it's pretty darn close.\"\n\nIt's not even remotely close to Starlink 😂😂 https://twitter.com/SawyerMerritt/status/2122693736781975647",
+     "conversation_id": "2122694187015393367"
+    },
+    "conversation_id": "2122697537693872373"
+   }
+  },
+  {
+   "id": "2122750913991631109",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T17:57:11.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122750913991631109",
+   "kind": "repost",
+   "text": "Delta’s CEO said today, “We’ve been the leader in free, fast Wi-Fi,” and claimed customers don’t pick airlines based on Wi-Fi.\n\nThe reality tells a completely different story. His own loyal customers are switching to airlines with Starlink 👇",
+   "urls": [],
+   "metrics": {
+    "likes": 2066,
+    "reposts": 299,
+    "replies": 175,
+    "quotes": 22
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWF1lcbMAAagOZ.jpg",
+     "width": 1125,
+     "height": 1125
+    }
+   ],
+   "ref": {
+    "id": "2122749962547270102",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-17T17:53:24.000Z",
+    "conversation_id": "2122749962547270102"
+   }
+  },
+  {
+   "id": "2122750790708154666",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T17:56:41.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122750790708154666",
+   "reply_to": {
+    "id": "2122726072898691292",
+    "username": "Marko_Poly"
+   },
+   "kind": "reply",
+   "text": "@Marko_Poly @grok @bot Grok 4.8 has not rolled out for general use yet, just some trials behind the scenes",
+   "urls": [],
+   "metrics": {
+    "likes": 3706,
+    "reposts": 156,
+    "replies": 268,
+    "quotes": 37
+   },
+   "partial": true
+  },
+  {
+   "id": "2122750317729054724",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T17:54:49.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122750317729054724",
+   "reply_to": {
+    "id": "2122731885977858475",
+    "username": "wholemars"
+   },
+   "kind": "reply",
+   "text": "@wholemars No, this has been planned for 3+ years",
+   "urls": [],
+   "metrics": {
+    "likes": 5583,
+    "reposts": 195,
+    "replies": 161,
+    "quotes": 17
+   },
+   "partial": true
+  },
+  {
+   "id": "2122750109435793716",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T17:53:59.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122750109435793716",
+   "reply_to": {
+    "id": "2122703044760719786",
+    "username": "GuyDealership"
+   },
+   "kind": "reply",
+   "text": "@GuyDealership True",
+   "urls": [],
+   "metrics": {
+    "likes": 2096,
+    "reposts": 89,
+    "replies": 127,
+    "quotes": 8
+   },
+   "partial": true
+  },
+  {
+   "id": "2122748468644983172",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T17:47:28.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122748468644983172",
+   "kind": "repost",
+   "text": "Tesla has officially unveiled its first-ever transformer called Powercore, enabling fully off-grid data centers.\n\n• Solid state medium voltage transformer, inverter & breaker\n• Peak efficiency: 98.86%\n• Power: 9 MVA 7.4 MW. Grid-forming support for 10MVA of peak power.\n• AC Voltage: 10 kV - 35 kV\n• DC Voltage: 800 Vdc - 2000 Vdc\n• 25-year warranty\n• Make Tesla Megablock even better\n• Powers 800 Vdc data centers\n• Accelerates 1500 to 2000 Vdc solar\n• Made in America\n• Operating 2027",
+   "urls": [],
+   "metrics": {
+    "likes": 8811,
+    "reposts": 844,
+    "replies": 230,
+    "quotes": 64
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVtR5vWsAARKi6.jpg",
+     "width": 1750,
+     "height": 1888
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVtWuUWMAAodSn.jpg",
+     "width": 3424,
+     "height": 1906
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVtZDbXAAEH0eM.jpg",
+     "width": 3408,
+     "height": 1914
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVtb0oXAAAWInx.jpg",
+     "width": 3110,
+     "height": 1858
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVtfuBWsAAUY01.jpg",
+     "width": 2592,
+     "height": 1784
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVugX7W4AAK6Dc.jpg",
+     "width": 3362,
+     "height": 1886
+    }
+   ],
+   "ref": {
+    "id": "2122724413036761244",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-17T16:11:53.000Z",
+    "quote": {
+     "id": "2122721563493744771",
+     "author_id": "1618601297510383616",
+     "username": "Tesla_Megapack",
+     "name": "Tesla Megapack",
+     "created_at": "2026-11-17T16:00:33.000Z",
+     "text": "Introducing Powercore\n\nSolid state medium voltage transformer, inverter and breaker – reliable, safe and secure\n\n7.4 MW/9 MVA continuously at 34.5 kVac w/ grid-forming support for 10MVA of peak power\n\nMade in America. Operating 2027",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/3840x2160/YY2LMLdWtrJMChzJ.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2122719734345113600/img/pqueTjxHujyH75Kf.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/480x270/M82wbHMU1E7ZnSuC.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/640x360/irc7_xVUXcUczBNz.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/1280x720/uW91WpqLb0U8AsAp.mp4",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/1920x1080/Zfgt0TljhetTAVba.mp4",
+         "w": 1920,
+         "h": 1080,
+         "br": 10368000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/3840x2160/YY2LMLdWtrJMChzJ.mp4",
+         "w": 3840,
+         "h": 2160,
+         "br": 25128000
+        }
+       ],
+       "width": 3840,
+       "height": 2160,
+       "duration_ms": 79204
+      }
+     ],
+     "conversation_id": "2122721563493744771"
+    },
+    "conversation_id": "2122724413036761244"
+   }
+  },
+  {
+   "id": "2122747622662222010",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T17:44:06.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122747622662222010",
+   "kind": "quote",
+   "text": "Starlink saves lives https://t.co/j21iGhH6DS",
+   "urls": [],
+   "metrics": {
+    "likes": 13504,
+    "reposts": 1703,
+    "replies": 1149,
+    "quotes": 116
+   },
+   "partial": true,
+   "ref": {
+    "id": "2122737419388879267",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-17T17:03:33.000Z",
+    "text": "Starlink helped save four sailors’ lives after a whale collision left their yacht sinking in the South Pacific. ♥️\n\nA yacht suffered severe damage around 250 nautical miles north of Norfolk Island.\n\nAs water poured in, the crew activated emergency beacons. Their Starlink connection helped them to speak with New Zealand’s rescue centre and coordinate help.\n\nA Royal New Zealand Air Force aircraft located them, and the cargo ship Sofrana Surville rescued all four after they abandoned the yacht for a life raft.\n\nStarlink helped keep a vital connection alive during their fight for survival. All four made it home.",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2122737373662629888/vid/avc1/720x720/vhIXwd4gnsrPKINC.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122737373662629888/img/fqR_yu6F6bMS2znL.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2122737373662629888/vid/avc1/320x320/QcSCpSpA3reQDuuk.mp4",
+        "w": 320,
+        "h": 320,
+        "br": 432000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122737373662629888/vid/avc1/540x540/ieAfnLj87mpKpqzf.mp4",
+        "w": 540,
+        "h": 540,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122737373662629888/vid/avc1/720x720/vhIXwd4gnsrPKINC.mp4",
+        "w": 720,
+        "h": 720,
+        "br": 1280000
+       }
+      ],
+      "width": 720,
+      "height": 720,
+      "duration_ms": 22990
+     }
+    ],
+    "conversation_id": "2122737419388879267"
+   }
+  },
+  {
+   "id": "2122734611776373039",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T16:52:24.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122734611776373039",
+   "reply_to": {
+    "id": "2122734293101478153",
+    "username": "yunta_tsai"
+   },
+   "kind": "reply",
+   "text": "@yunta_tsai @grok",
+   "urls": [],
+   "metrics": {
+    "likes": 2447,
+    "reposts": 78,
+    "replies": 255,
+    "quotes": 12
+   },
+   "partial": true
+  },
+  {
+   "id": "2122734462509412821",
+   "author_id": "13298072",
+   "username": "Tesla",
+   "name": "Tesla",
+   "created_at": "2026-11-17T16:51:49.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/Tesla/status/2122734462509412821",
+   "kind": "repost",
+   "text": "Introducing Powercore\n\nSolid state medium voltage transformer, inverter and breaker – reliable, safe and secure\n\n7.4 MW/9 MVA continuously at 34.5 kVac w/ grid-forming support for 10MVA of peak power\n\nMade in America. Operating 2027",
+   "urls": [],
+   "metrics": {
+    "likes": 11399,
+    "reposts": 1158,
+    "replies": 330,
+    "quotes": 345
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/3840x2160/YY2LMLdWtrJMChzJ.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122719734345113600/img/pqueTjxHujyH75Kf.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/480x270/M82wbHMU1E7ZnSuC.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/640x360/irc7_xVUXcUczBNz.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/1280x720/uW91WpqLb0U8AsAp.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/1920x1080/Zfgt0TljhetTAVba.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/3840x2160/YY2LMLdWtrJMChzJ.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 79204
+    }
+   ],
+   "ref": {
+    "id": "2122721563493744771",
+    "author_id": "1618601297510383616",
+    "username": "Tesla_Megapack",
+    "name": "Tesla Megapack",
+    "created_at": "2026-11-17T16:00:33.000Z",
+    "conversation_id": "2122721563493744771"
+   }
+  },
+  {
+   "id": "2122734448412385668",
+   "author_id": "13298072",
+   "username": "Tesla",
+   "name": "Tesla",
+   "created_at": "2026-11-17T16:51:45.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/Tesla/status/2122734448412385668",
+   "kind": "repost",
+   "text": "Advanced solid state transformers at scale from Tesla",
+   "urls": [],
+   "metrics": {
+    "likes": 14879,
+    "reposts": 1552,
+    "replies": 985,
+    "quotes": 118
+   },
+   "partial": true,
+   "ref": {
+    "id": "2122733232894468308",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-17T16:46:55.000Z",
+    "quote": {
+     "id": "2122721563493744771",
+     "author_id": "1618601297510383616",
+     "username": "Tesla_Megapack",
+     "name": "Tesla Megapack",
+     "created_at": "2026-11-17T16:00:33.000Z",
+     "text": "Introducing Powercore\n\nSolid state medium voltage transformer, inverter and breaker – reliable, safe and secure\n\n7.4 MW/9 MVA continuously at 34.5 kVac w/ grid-forming support for 10MVA of peak power\n\nMade in America. Operating 2027",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/3840x2160/YY2LMLdWtrJMChzJ.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2122719734345113600/img/pqueTjxHujyH75Kf.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/480x270/M82wbHMU1E7ZnSuC.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/640x360/irc7_xVUXcUczBNz.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/1280x720/uW91WpqLb0U8AsAp.mp4",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/1920x1080/Zfgt0TljhetTAVba.mp4",
+         "w": 1920,
+         "h": 1080,
+         "br": 10368000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/3840x2160/YY2LMLdWtrJMChzJ.mp4",
+         "w": 3840,
+         "h": 2160,
+         "br": 25128000
+        }
+       ],
+       "width": 3840,
+       "height": 2160,
+       "duration_ms": 79204
+      }
+     ],
+     "conversation_id": "2122721563493744771"
+    },
+    "conversation_id": "2122733232894468308"
+   }
+  },
+  {
+   "id": "2122733232894468308",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T16:46:55.000Z",
+   "lang": "en",
+   "conversation_id": "2122733232894468308",
+   "url": "https://x.com/elonmusk/status/2122733232894468308",
+   "kind": "quote",
+   "text": "Advanced solid state transformers at scale from Tesla",
+   "urls": [],
+   "metrics": {
+    "likes": 14879,
+    "reposts": 1552,
+    "replies": 985,
+    "quotes": 118
+   },
+   "ref": {
+    "id": "2122721563493744771",
+    "author_id": "1618601297510383616",
+    "username": "Tesla_Megapack",
+    "name": "Tesla Megapack",
+    "created_at": "2026-11-17T16:00:33.000Z",
+    "text": "Introducing Powercore\n\nSolid state medium voltage transformer, inverter and breaker – reliable, safe and secure\n\n7.4 MW/9 MVA continuously at 34.5 kVac w/ grid-forming support for 10MVA of peak power\n\nMade in America. Operating 2027",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/3840x2160/YY2LMLdWtrJMChzJ.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122719734345113600/img/pqueTjxHujyH75Kf.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/480x270/M82wbHMU1E7ZnSuC.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/640x360/irc7_xVUXcUczBNz.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/1280x720/uW91WpqLb0U8AsAp.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/1920x1080/Zfgt0TljhetTAVba.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/3840x2160/YY2LMLdWtrJMChzJ.mp4",
+        "w": 3840,
+        "h": 2160,
+        "br": 25128000
+       }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 79204
+     }
+    ],
+    "conversation_id": "2122721563493744771"
+   }
+  },
+  {
+   "id": "2122732817188782341",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T16:45:16.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122732817188782341",
+   "kind": "repost",
+   "text": "Yes! This is sorely needed.",
+   "urls": [],
+   "metrics": {
+    "likes": 1510,
+    "reposts": 147,
+    "replies": 36,
+    "quotes": 3
+   },
+   "partial": true,
+   "ref": {
+    "id": "2122732163942752316",
+    "author_id": "24405165",
+    "username": "jamesdouma",
+    "name": "jimmah",
+    "created_at": "2026-11-17T16:42:40.000Z",
+    "quote": {
+     "id": "2122721563493744771",
+     "author_id": "1618601297510383616",
+     "username": "Tesla_Megapack",
+     "name": "Tesla Megapack",
+     "created_at": "2026-11-17T16:00:33.000Z",
+     "text": "Introducing Powercore\n\nSolid state medium voltage transformer, inverter and breaker – reliable, safe and secure\n\n7.4 MW/9 MVA continuously at 34.5 kVac w/ grid-forming support for 10MVA of peak power\n\nMade in America. Operating 2027",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/3840x2160/YY2LMLdWtrJMChzJ.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2122719734345113600/img/pqueTjxHujyH75Kf.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/480x270/M82wbHMU1E7ZnSuC.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/640x360/irc7_xVUXcUczBNz.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/1280x720/uW91WpqLb0U8AsAp.mp4",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/1920x1080/Zfgt0TljhetTAVba.mp4",
+         "w": 1920,
+         "h": 1080,
+         "br": 10368000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/3840x2160/YY2LMLdWtrJMChzJ.mp4",
+         "w": 3840,
+         "h": 2160,
+         "br": 25128000
+        }
+       ],
+       "width": 3840,
+       "height": 2160,
+       "duration_ms": 79204
+      }
+     ],
+     "conversation_id": "2122721563493744771"
+    },
+    "conversation_id": "2122732163942752316"
+   }
+  },
+  {
+   "id": "2122732660514836877",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-17T16:44:39.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2122732660514836877",
+   "reply_to": {
+    "id": "2122718075032400281",
+    "username": "poteto"
+   },
+   "kind": "reply",
+   "text": "@poteto @quxiaoyin nice",
+   "urls": [],
+   "metrics": {
+    "likes": 35,
+    "reposts": 0,
+    "replies": 4,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2122732568927961222",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-17T16:44:17.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2122732568927961222",
+   "reply_to": {
+    "id": "2122716177680028111",
+    "username": "paulgb"
+   },
+   "kind": "reply",
+   "text": "@paulgb paul how do you feel about JavaScript these days?",
+   "urls": [],
+   "metrics": {
+    "likes": 19,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2122732511012831675",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-17T16:44:03.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2122732511012831675",
+   "kind": "repost",
+   "text": "SpaceX just provided another $30 MILLION to help secure Brownsville's water future\n\nThat brings the total to $70 MILLION already deposited toward its massive $220 MILLION commitment to water and wastewater infrastructure in South Texas\n\nHere's what the investment will support:\n\n• Expanding drinking water infrastructure across Brownsville and Cameron County\n• Recovering and treating wastewater for reuse as drinking water\n• Expanding groundwater treatment facilities and adding new wells\n• Adding approximately 18 MILLION gallons of water capacity per day\n• Reducing the region's dependence on the Rio Grande\n\nAnd this isn't just about supporting SpaceX's growing operations at Starbase\n\nThese projects are designed to provide a more reliable, sustainable water supply for local communities for generations to come\n\nSpaceX isn't just building the future of spaceflight in South Texas\n\nIt's also helping build the infrastructure that communities on Earth depend on",
+   "urls": [],
+   "metrics": {
+    "likes": 1666,
+    "reposts": 258,
+    "replies": 95,
+    "quotes": 20
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVtn6XaQAEtyN3.jpg",
+     "width": 2400,
+     "height": 3000
+    }
+   ],
+   "ref": {
+    "id": "2122723345225617654",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-17T16:07:38.000Z",
+    "conversation_id": "2122723345225617654"
+   }
+  },
   {
    "id": "2122729380648501303",
    "author_id": "34743251",
@@ -15689,1032 +16727,6 @@
     "name": "Brivael Le Pogam",
     "created_at": "2026-11-13T22:22:17.000Z",
     "conversation_id": "2121368078080782619"
-   }
-  },
-  {
-   "id": "2121495305288122807",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:47:50.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2121495305288122807",
-   "reply_to": {
-    "id": "2121435803540730109",
-    "username": "wholemars"
-   },
-   "kind": "reply",
-   "text": "@wholemars He’s a chicken",
-   "urls": [],
-   "metrics": {
-    "likes": 16508,
-    "reposts": 513,
-    "replies": 726,
-    "quotes": 96
-   },
-   "partial": true
-  },
-  {
-   "id": "2121495269820825684",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:47:42.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2121495269820825684",
-   "kind": "repost",
-   "text": "I cannot believe he’s still trying to claim he was right. Marques, be a man and honor your word.\n\nTesla showed you the future, and you called it “weird” and said FSD would never be approved for driverless, they would never be able to ship a car without a steering wheel, and they would not be able to hit a $30,000 price point due to inflation. You mocked them and said i’m so sure this will never happen I’ll shave my head if it does.\n\nYou were WRONG. be a man and admit it. They showed you the future and you just didn’t get it.",
-   "urls": [],
-   "metrics": {
-    "likes": 8141,
-    "reposts": 402,
-    "replies": 408,
-    "quotes": 35
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2113392294913355776/vid/avc1/1280x640/HtmvloFUxrpOL1-J.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2113392294913355776/img/73HiP8yJNaAyMdEA.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2113392294913355776/vid/avc1/540x270/C1Ya2qSWLVJ8i6Rd.mp4",
-       "w": 540,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2113392294913355776/vid/avc1/720x360/cbXs6uymU2kDrxPs.mp4",
-       "w": 720,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2113392294913355776/vid/avc1/1280x640/HtmvloFUxrpOL1-J.mp4",
-       "w": 1280,
-       "h": 640,
-       "br": 2176000
-      }
-     ],
-     "width": 1280,
-     "height": 640,
-     "duration_ms": 108875
-    }
-   ],
-   "ref": {
-    "id": "2121435803540730109",
-    "author_id": "1263491240336769026",
-    "username": "wholemars",
-    "name": "Whole Mars Catalog",
-    "created_at": "2026-11-14T02:51:24.000Z",
-    "quote": {
-     "id": "2121423916006617237",
-     "author_id": "29873662",
-     "username": "MKBHD",
-     "name": "Marques Brownlee",
-     "created_at": "2026-11-14T02:04:10.000Z",
-     "text": "The memes are everywhere, so let’s go back over the bet: Cybercab publicly available for under $30k by the end of 2026\n\nMy hair is safe for several reasons\n1: No deliveries yet. But they’re estimating starting in December so that’s neat\n2: Invite only, not actually publicly available yet\n3: You can’t actually use it as a cab(??!) It’s limited to private use only. Inside the existing geofenced locations. It’s a paperweight if I take this thing home. That’s one’s not actually part of the bet but yeah not exactly what was promised in this first wave\n\nHey @grok, set a timer for 48 days from now",
-     "conversation_id": "2121423916006617237"
-    },
-    "conversation_id": "2121435803540730109"
-   }
-  },
-  {
-   "id": "2121495080372769072",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:46:57.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2121495080372769072",
-   "kind": "repost",
-   "text": "What's happening at Starbase, Texas is truly incredible.\n\nDeep in south Texas, Musk and his team have pulled in some of the most brilliant people on Earth to make space travel as normal and boring as air travel.\n\nThe energy there is just insane. It feels like a modern day Manhattan project, but built for peace not war.\n\nThe building pictured below is the actual factory where they build Starship, like a car factory for spaceships. You probably wouldn't have guessed it, since it looks like a nice office building. Most factories are cold and industrial but Starfactory feels warm, clean, with design touches that make you feel like you're in Silicon Valley.\n\nThere's something really special happening here. I envy everyone who gets to work here and live here. Most people never get a chance to devote themselves to something so meaningful, something that potentially bends the river of human history. It kind of feels like a college town, except everyone's building spaceships instead of going to class.",
-   "urls": [],
-   "metrics": {
-    "likes": 1860,
-    "reposts": 187,
-    "replies": 71,
-    "quotes": 6
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXEFygWWkAAPFRM.jpg",
-     "width": 4096,
-     "height": 3072
-    }
-   ],
-   "ref": {
-    "id": "2121485915444908456",
-    "author_id": "1263491240336769026",
-    "username": "wholemars",
-    "name": "Whole Mars Catalog",
-    "created_at": "2026-11-14T06:10:32.000Z",
-    "conversation_id": "2121485915444908456"
-   }
-  },
-  {
-   "id": "2121494726650257690",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:45:32.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2121494726650257690",
-   "kind": "repost",
-   "text": "Guten Morgen zusammen,\nheute vor elf Jahren, am 13. November 2015, verübten mehrere Attentäter im Namen des Islams, organisierte Anschläge in Paris. Der Horror dauerte über 4 Stunden und forderte 130 Todesopfer sowie knapp 700 Verletzte.\n\nZuerst sprengte sich gegen 21.17 Uhr ein Selbstmordattentäter in der Nähe des Stadion Stade de France in die Luft und riss dabei einen Menschen mit in den Tod. Der Attentäter wollte eigentlich ins Stadion gelangen. Hier fand gerade ein Freundschaftsspiel zwischen der Deutschen und Französischen Fußballnationalmannschaft vor 80.000 Zuschauern statt. Sein Sprengstoffgürtel wurde jedoch von einem Sicherheitsmann entdeckt, worauf der Attentäter flüchtete. Ein weiterer Sprengstoffattentäter versuchte fast zeitglich ins Stadion zu gelangen, scheiterte ebenfalls und sprengte sich am Toreingang H in die Luft, zum Glück ohne weitere unschuldige Menschen mitzureißen. Beide Attentäter trugen einen gefälschten syrischen Pass mit sich, und beide sollen im Oktober als Flüchtlinge in Griechenland registriert worden sein. Da die Pässe gefälscht waren, ist die Identität der Beiden bis heute nicht bekannt.\n\nBeinah zeitgleich fuhr ein sogenanntes Hit-Team in einem Seat Leon vor eine Bar in einem Pariser Stadtteil. Sie feuerten dort mit Kalaschnikows auf die Gäste, die im Außenbereich saßen. Anschließend schossen sie auf Gäste eines gegenüberliegenden Restaurants. Insgesamt 15 Menschen verloren ihr Leben dort. Nach diesem Anschlag fuhren die Attentäter weiter, erschossen in einem Auto einen Mann und in einem Café, einem Waschsalon und in einem Restaurant noch vier Menschen. Anschließend begaben sich die Attentäter zur Bar \"La Belle Équipe\". Sie erschossen dort weitere 19 Menschen. 15 Menschen wurden teils schwer verletzt. Ein Selbstmordattentäter sprengte sich in einem Café in die Luft. Die Bombe detonierte unvollständig, weswegen hier keine weiteren Todesopfer zu beklagen waren, 15 Menschen wurden jedoch teils schwer verletzt.\n\nRund eine halbe Stunde nach dem ersten Attentat am Stadion begann der Horror im Bataclan Theater, wo gerade die US-Band Eagles of Death Metal ein Konzert vor rund 1.500 Zuschauern gab. Zwei Attentäter erschossen zuerst zwei Radfahrer vor dem Theater.\nAnschließend drangen sie in das Gebäude ein und schossen mit Kalaschnikows -Gewehren zehn Minuten lang auf die Konzertbesucher. Zusätzlich warfen sie Handgranaten in die Menschenmenge. Einen Angreifer konnten zwei Polizisten töten, mussten sich aber dann wieder zurückziehen und auf Verstärkung warten. Zwei weitere Attentäter nahmen Geiseln und verschanzten sich im Gebäude. Um 0:50 Uhr erfolgte der Zugriff durch die Polizei. Die beiden Attentäter sprengten sich dabei in die Luft. 3 Stunden dauerte das Massaker im Bataclan Theater. 89 Menschen verloren dabei ihr Leben.\n\nDer IS bekannte sich später zu den Anschlägen. Einige der Attentäter kamen als Flüchtlinge getarnt nach Europa. Der mutmaßliche Bombenbauer war zusammen mit zwei weiteren Attentätern kurze Zeit in Ulm. Sie stiegen dort in einem Hotel in der Stadt ab, und wurden dort von einem weiteren Attentäter abgeholt.\n\nZeugenaussagen von Menschen, die diese Hölle überlebt haben:\n\n„Wir dachten zuerst, es seien Knallkörper. Dann sah es hinten im Saal nach Funken aus. Rasch wurde klar, dass es sich um Mündungsfeuer handelte. Drei Männer mit Gewehren schossen den Zuschauern in den Rücken und stürmten weiter, in die Menge schießend.“\n\n„Das Trio war unvermummt, mit kurzen Bärten. Einer befahl den über tausend Zuschauern, sich auf den Boden zu legen. In akzentfreiem Französisch erklärte er: Ihr habt in Syrien unsere Brüder getötet, jetzt sind wir hier.“\n\n„Sie sagten, wenn ihr euch bewegt, töten wir euch. Sie erschossen die auf dem Boden liegenden Leute trotzdem.“\n„Sie töteten, töteten, töteten. Ich war von Toten umgeben. Ich weiß nicht, wie ich überlebt habe.“\n\n„Sie waren schwarz gekleidet. Einer hatte ein sehr jungenhaftes Gesicht, und er ging seelenruhig zur Sache. Er ging sehr methodisch zu Werke, töteten eiskalt einen nach dem anderen.“\n\n„Sein Blut ergoss sich auf mein Bein. Meinen Nachbarn, einen Mann von 50 Jahren, traf ein Schuss direkt ins Gesicht; Stücke seines Hirn fielen auf meine Brille. Ich hörte die Kugeln und versuchte, auf den Boden zu schauen. Da war eine riesige Blutlache.“\n\n„Merkwürdigerweise hört man die Kugeln fast nicht, wenn sie von der Nähe aus abgeschossen werden. Aber ich spürte ihre Hitze an der Wange. Ich war bereit zu sterben. Ich wog damals 122 Kilo, 20 mehr als heute. Wenn einer getroffen wird, dann ja wohl ich.“\n\n„Irgendjemand schaltete das Licht in der Halle an. Keine Ahnung, wer das war. Ich erkannte den Mann, der gerade noch neben mir an der Bar etwas geholt hatte. Er lag am Boden, sein halbes Gesicht war zerstört. Er war tot.“\n\n„Ich lag auf dem Bauch. Meine Freunde waren neben mir. Wir haben langsam und leise geredet. Die Freunde hatten Kinder, ich nicht. Sie hatten mehr Angst als ich. Der rechts sagte: Ich muss meine beiden Kinder wiedersehen.“\n\n„Wenn ein Meteorit irgendwo einschlägt, sind alle sofort tot. Die eigentliche Folter war, dass sie die Leute einzeln erschossen haben. Manche schrien noch Gnade. Schon wurden sie erschossen.“\n\n„Einmal schrie ein Attentäter: Wenn einer nach Hause will, dann jetzt“ Einzelne sind aufgestanden, die wurden gleich erschossen. Auf dem Boden war Blut. Überall waren Tote und Blut.“\n\n„Ich stieg über einen Mann am Boden. Ich nahm seine Hand, doch sie war schlaff und kühl. Ein paar Meter weiter sah ich eine junge Frau, sie war am Rücken getroffen worden. Leute sind auf sie gestiegen. Reflexhaft kauerte ich mich zu ihr, unter uns war eine Pfütze aus Blut.“\n\n„Ich rannte zum großen Boulevard Voltaire, stolperte, verlor meine Brille. Ich drehte mich zurück zu dem Mann, über den ich gestolpert war und wollte mich entschuldigen. Beim Runterbeugen sah ich. Er war tot. Wir sind in ein Wohnhaus geflüchtet und klopften an Türen, aber niemand machte auf. Die Leute hatten Angst.“\n\n„Nach gefühlt einer halben Stunde schrie jemand: Nicht bewegen, sonst schieße ich“\n\n„Dann gab es eine Explosion. Mein linkes Ohr wurde taub davon. Es regnete Blut und menschliche Überreste auf uns.“\n\n„Nach einer Weile kam ein Polizist vom Sondereinsatzkommando zu uns hoch und hielt eine kleine Ansprache, die ich nie vergessen werde. Er sagte: Ich freue mich, Sie alle zu sehen, denn Sie sind Überlebende des Bataclan. Sie sind Helden. Vergessen Sie das nie!“\n\n130 Menschen verloren ihr Leben an diesem Tag.🙏",
-   "urls": [],
-   "metrics": {
-    "likes": 9451,
-    "reposts": 2513,
-    "replies": 357,
-    "quotes": 170
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HW_m3q4WcAAgn6j.jpg",
-     "width": 1024,
-     "height": 683
-    }
-   ],
-   "ref": {
-    "id": "2121170139513049547",
-    "author_id": "982657186311671809",
-    "username": "YveK22",
-    "name": "Yvonne Kussmann",
-    "created_at": "2026-11-13T09:15:45.000Z",
-    "conversation_id": "2121170139513049547"
-   }
-  },
-  {
-   "id": "2121493686668439827",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:41:25.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2121493686668439827",
-   "kind": "repost",
-   "text": "Jensen deserves due process, not whatever is happening right now. I signed.\n\n#standwithjensen",
-   "urls": [],
-   "metrics": {
-    "likes": 10653,
-    "reposts": 765,
-    "replies": 303,
-    "quotes": 63
-   },
-   "partial": true,
-   "ref": {
-    "id": "2121462697787342932",
-    "author_id": "11768582",
-    "username": "garrytan",
-    "name": "Garry Tan",
-    "created_at": "2026-11-14T04:38:16.000Z",
-    "quote": {
-     "id": "2121339322385440842",
-     "author_id": "2121285661831626752",
-     "username": "TheJensenLetter",
-     "name": "Stand With Jensen",
-     "created_at": "2026-11-13T20:28:01.000Z",
-     "text": "Still hard to believe everything that's happened with Jensen.\n\nAfter 33 years of building NVIDIA. I think he deserves a fair process, and we deserve the truth.\n\nI signed this open letter to stand with Jensen. Hope you will too. 💚\n\nhttps://standwithjensen.com\n\n#StandWithJensen",
-     "conversation_id": "2121339322385440842"
-    },
-    "conversation_id": "2121462697787342932"
-   }
-  },
-  {
-   "id": "2121493600441639321",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:41:04.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2121493600441639321",
-   "reply_to": {
-    "id": "2121129401010053144",
-    "username": "Rereshef"
-   },
-   "kind": "reply",
-   "text": "@Rereshef 😂",
-   "urls": [],
-   "metrics": {
-    "likes": 10196,
-    "reposts": 225,
-    "replies": 304,
-    "quotes": 21
-   },
-   "partial": true
-  },
-  {
-   "id": "2121493458875781216",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:40:30.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2121493458875781216",
-   "reply_to": {
-    "id": "2121429683862741161",
-    "username": "as400495"
-   },
-   "kind": "reply",
-   "text": "@as400495 True",
-   "urls": [],
-   "metrics": {
-    "likes": 3757,
-    "reposts": 162,
-    "replies": 178,
-    "quotes": 10
-   },
-   "partial": true
-  },
-  {
-   "id": "2121493441205162195",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:40:26.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2121493441205162195",
-   "kind": "repost",
-   "text": "Few realize fixing government is an IT & software problem. Government infrastructure is insecure, slow, expensive, and has incredibly frequent downtime. Many of them still run on mainframes!",
-   "urls": [],
-   "metrics": {
-    "likes": 7761,
-    "reposts": 1082,
-    "replies": 320,
-    "quotes": 55
-   },
-   "partial": true,
-   "ref": {
-    "id": "2121429683862741161",
-    "author_id": "1455993364529262601",
-    "username": "as400495",
-    "name": "Edward Coristine",
-    "created_at": "2026-11-14T02:27:05.000Z",
-    "quote": {
-     "id": "2121419990599647614",
-     "author_id": "16635277",
-     "username": "Acyn",
-     "name": "Acyn",
-     "created_at": "2026-11-14T01:48:34.000Z",
-     "text": "WOW MULLIN SAYS THE UPGRADES DUFFY PUT IN CAUSED THE OUTAGE\n\n“The new technology was overwhelming the older system”",
-     "media": [
-      {
-       "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2121419954675425280/vid/avc1/1280x720/1AfYvMAqS-z7rSll.mp4?tag=16",
-       "poster": "https://pbs.twimg.com/amplify_video_thumb/2121419954675425280/img/ysFODmmijLDlhcvF.jpg",
-       "variants": [
-        {
-         "url": "https://video.twimg.com/amplify_video/2121419954675425280/vid/avc1/480x270/2a_BctM8nRVmAkGE.mp4?tag=16",
-         "w": 480,
-         "h": 270,
-         "br": 288000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2121419954675425280/vid/avc1/640x360/gxo3fvoxiGudBVra.mp4?tag=16",
-         "w": 640,
-         "h": 360,
-         "br": 832000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2121419954675425280/vid/avc1/1280x720/1AfYvMAqS-z7rSll.mp4?tag=16",
-         "w": 1280,
-         "h": 720,
-         "br": 2176000
-        }
-       ],
-       "width": 1280,
-       "height": 720,
-       "duration_ms": 49916
-      }
-     ],
-     "conversation_id": "2121419990599647614"
-    },
-    "conversation_id": "2121429683862741161"
-   }
-  },
-  {
-   "id": "2121493331528056887",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:40:00.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2121493331528056887",
-   "kind": "quote",
-   "text": "Slowly at first, then rapid acceleration https://t.co/EXWOujlSnb",
-   "urls": [],
-   "metrics": {
-    "likes": 13647,
-    "reposts": 1853,
-    "replies": 1113,
-    "quotes": 215
-   },
-   "partial": true,
-   "ref": {
-    "id": "2121379746063978497",
-    "author_id": "1389913567671975937",
-    "username": "cb_doge",
-    "name": "DogeDesigner",
-    "created_at": "2026-11-13T23:08:39.000Z",
-    "text": "All 15 Starship Launches\n\nFlight 1: Apr 20 2023\nFlight 2: Nov 18 2023\nFlight 3: Mar 14 2024\nFlight 4: Jun 6 2024\nFlight 5: Oct 13 2024\nFlight 6: Nov 19 2024\nFlight 7: Jan 16 2025\nFlight 8: Mar 6 2025\nFlight 9: May 27 2025\nFlight 10: Aug 26 2025\nFlight 11: Oct 13 2025\nFlight 12: May 22 2026\nFlight 13: Jul 24 2026\nFlight 14: Sep 28 2026\nFlight 15: Nov 13 2026",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2121379692607672320/vid/avc1/1080x1080/DKMWmdisyLAgbSRg.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2121379692607672320/img/QKlmHVdFBwoYcaqQ.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2121379692607672320/vid/avc1/320x320/WJjspSKPvl7aAkiH.mp4",
-        "w": 320,
-        "h": 320,
-        "br": 432000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2121379692607672320/vid/avc1/540x540/0evOxZcWifXzhfWo.mp4",
-        "w": 540,
-        "h": 540,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2121379692607672320/vid/avc1/720x720/YW98Auub_dA02QgA.mp4",
-        "w": 720,
-        "h": 720,
-        "br": 1280000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2121379692607672320/vid/avc1/1080x1080/DKMWmdisyLAgbSRg.mp4",
-        "w": 1080,
-        "h": 1080,
-        "br": 8768000
-       }
-      ],
-      "width": 1080,
-      "height": 1080,
-      "duration_ms": 51533
-     }
-    ],
-    "conversation_id": "2121379746063978497"
-   }
-  },
-  {
-   "id": "2121492849002987844",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:38:05.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2121492849002987844",
-   "reply_to": {
-    "id": "2121420350160302304",
-    "username": "MKBHD"
-   },
-   "kind": "reply",
-   "text": "@MKBHD It will be available nationwide, as we receive regulatory approval.\n\nBut the monthly fee is too high. Should match the cost of Tesla FSD and connectivity for other models, which is more like ~$115/month.",
-   "urls": [],
-   "metrics": {
-    "likes": 21133,
-    "reposts": 960,
-    "replies": 1047,
-    "quotes": 297
-   },
-   "partial": true
-  },
-  {
-   "id": "2121491292756849037",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-14T06:31:54.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2121491292756849037",
-   "reply_to": {
-    "id": "2121243756401955066",
-    "username": "kiaraplds"
-   },
-   "kind": "reply",
-   "text": "@kiaraplds @bot love this!",
-   "urls": [],
-   "metrics": {
-    "likes": 9,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2121490886030938496",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:30:17.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2121490886030938496",
-   "kind": "repost",
-   "text": "The most valuable thing in life isn’t money, it’s true friendship.\n\n\"A friend is someone who's going to support you in difficult times. I suppose a friend in need is a friend indeed, like if someone's still supporting you when the chips are down, that's a friend.\"\n\n— @elonmusk",
-   "urls": [],
-   "metrics": {
-    "likes": 8531,
-    "reposts": 1679,
-    "replies": 925,
-    "quotes": 198
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2121154771990302720/vid/avc1/1348x1080/a5VD5zCzV7EexpYi.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121154771990302720/img/MxQmKP2BqZLLL55C.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2121154771990302720/vid/avc1/336x270/T92HtPJUclAoNeHo.mp4",
-       "w": 336,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2121154771990302720/vid/avc1/448x360/yWjC0q-9OWOdgCVr.mp4",
-       "w": 448,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2121154771990302720/vid/avc1/898x720/KRdwJsv1pdX00Lmv.mp4",
-       "w": 898,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2121154771990302720/vid/avc1/1348x1080/a5VD5zCzV7EexpYi.mp4",
-       "w": 1348,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1348,
-     "height": 1080,
-     "duration_ms": 30433
-    }
-   ],
-   "ref": {
-    "id": "2121154814998626325",
-    "author_id": "1389913567671975937",
-    "username": "cb_doge",
-    "name": "DogeDesigner",
-    "created_at": "2026-11-13T08:14:51.000Z",
-    "conversation_id": "2121154814998626325"
-   }
-  },
-  {
-   "id": "2121490244088570044",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:27:44.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2121490244088570044",
-   "kind": "repost",
-   "text": "看马斯克和黄仁勋聊天，真的太tm舒服了，恨不得边喝点酒边看，再吃点花生米，堪称完美",
-   "urls": [],
-   "metrics": {
-    "likes": 12643,
-    "reposts": 1865,
-    "replies": 319,
-    "quotes": 96
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2121438163726168064/vid/avc1/1440x1080/vPeCKff002MtM9Cd.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121438163726168064/img/xgdJYsgNkFkq1b7F.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2121438163726168064/vid/avc1/360x270/6OiCE4vCb8IQqMen.mp4",
-       "w": 360,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2121438163726168064/vid/avc1/480x360/RMOpS8SenOogMC8R.mp4",
-       "w": 480,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2121438163726168064/vid/avc1/960x720/D2Q2SV_XUjCFhPpo.mp4",
-       "w": 960,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2121438163726168064/vid/avc1/1440x1080/vPeCKff002MtM9Cd.mp4",
-       "w": 1440,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1440,
-     "height": 1080,
-     "duration_ms": 1171611
-    }
-   ],
-   "ref": {
-    "id": "2121440174559330394",
-    "author_id": "700967888719626241",
-    "username": "holdonyourrope",
-    "name": "大表哥 | 链上金狗",
-    "created_at": "2026-11-14T03:08:46.000Z",
-    "conversation_id": "2121440174559330394"
-   }
-  },
-  {
-   "id": "2121489571213168758",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:25:03.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2121489571213168758",
-   "kind": "post",
-   "text": "Starship is traveling around the world every ~90 minutes right now",
-   "urls": [],
-   "metrics": {
-    "likes": 74459,
-    "reposts": 5448,
-    "replies": 3522,
-    "quotes": 483
-   },
-   "partial": true
-  },
-  {
-   "id": "2121489358956134656",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:24:13.000Z",
-   "lang": "en",
-   "conversation_id": "2121489358956134656",
-   "url": "https://x.com/elonmusk/status/2121489358956134656",
-   "kind": "repost",
-   "text": "Swipe for the full sequence: Super Heavy Booster 22 offshore divert during Starship Flight 15!",
-   "urls": [],
-   "metrics": {
-    "likes": 14712,
-    "reposts": 1761,
-    "replies": 476,
-    "quotes": 263
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXCrCu6XAAAQc-_.jpg",
-     "width": 1250,
-     "height": 833
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXCrCu8WgAAXnbb.jpg",
-     "width": 1000,
-     "height": 1250
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXCrCvNWoAAOI7q.jpg",
-     "width": 833,
-     "height": 1250
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXCrCvdXkAAhLjl.jpg",
-     "width": 833,
-     "height": 1250
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXCrCvlXIAAPTNL.jpg",
-     "width": 833,
-     "height": 1250
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXCrCvsWMAAOr5G.jpg",
-     "width": 1250,
-     "height": 833
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXCrCv1WUAA1FqH.jpg",
-     "width": 833,
-     "height": 1250
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXCrCwHXkAAz4Vm.jpg",
-     "width": 833,
-     "height": 1250
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXCrCwCWUAAsfVI.jpg",
-     "width": 833,
-     "height": 1250
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXCrCwLW0AAsc-B.jpg",
-     "width": 1250,
-     "height": 833
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXCrCwRWQAARXPM.jpg",
-     "width": 1250,
-     "height": 833
-    }
-   ],
-   "ref": {
-    "id": "2121383571419976096",
-    "author_id": "3072160164",
-    "username": "johnkrausphotos",
-    "name": "John Kraus",
-    "created_at": "2026-11-13T23:23:51.000Z",
-    "conversation_id": "2121383571419976096"
-   }
-  },
-  {
-   "id": "2121489252072693925",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:23:47.000Z",
-   "lang": "en",
-   "conversation_id": "2121489252072693925",
-   "url": "https://x.com/elonmusk/status/2121489252072693925",
-   "kind": "quote",
-   "text": "So far, so good for the ship",
-   "urls": [],
-   "metrics": {
-    "likes": 23332,
-    "reposts": 1967,
-    "replies": 994,
-    "quotes": 101
-   },
-   "ref": {
-    "id": "2121479482582441991",
-    "author_id": "34743251",
-    "username": "SpaceX",
-    "name": "SpaceX",
-    "created_at": "2026-11-14T05:44:58.000Z",
-    "text": "Starship and its heatshield are healthy as the vehicle continues to orbit Earth after a spectacular start to its mission nearly 7 hours ago. Teams are continuing to monitor systems ahead of a planned return to launch site catch at Starbase ~22.5 hours after launch",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2121478495096524801/vid/avc1/3840x2160/Qq8BC3NLpDcBpJH-.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2121478495096524801/img/MaqFlCXvo1tTRZcG.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2121478495096524801/vid/avc1/480x270/481I8brhuA6fW3Ol.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2121478495096524801/vid/avc1/640x360/jDiaCVmF8c-5qSNz.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2121478495096524801/vid/avc1/1280x720/p3NAtSnqjezgSWkB.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2121478495096524801/vid/avc1/1920x1080/CDjevBTsz7C1__s_.mp4",
-        "w": 1920,
-        "h": 1080,
-        "br": 10368000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2121478495096524801/vid/avc1/3840x2160/Qq8BC3NLpDcBpJH-.mp4",
-        "w": 3840,
-        "h": 2160,
-        "br": 25128000
-       }
-      ],
-      "width": 3840,
-      "height": 2160,
-      "duration_ms": 317440
-     }
-    ],
-    "conversation_id": "2121479482582441991"
-   }
-  },
-  {
-   "id": "2121486939996172298",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-14T06:14:36.000Z",
-   "lang": "en",
-   "conversation_id": "2109626149659693173",
-   "url": "https://x.com/mattyp/status/2121486939996172298",
-   "reply_to": {
-    "id": "2109626149659693173",
-    "username": "Fossabot"
-   },
-   "kind": "reply",
-   "text": "@Fossabot an API or MCP for creating and managing settings",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2121486195716919558",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:11:39.000Z",
-   "lang": "en",
-   "conversation_id": "2121486195716919558",
-   "url": "https://x.com/elonmusk/status/2121486195716919558",
-   "kind": "repost",
-   "text": "Prometheus unbound",
-   "urls": [],
-   "metrics": {
-    "likes": 20595,
-    "reposts": 2091,
-    "replies": 339,
-    "quotes": 197
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2121468872540786688/vid/avc1/1080x1920/3lpamflM97JpRhlA.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121468872540786688/img/7uSukRWtOlOUNsUw.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2121468872540786688/vid/avc1/320x568/loda8EjcKEJuF1g_.mp4",
-       "w": 320,
-       "h": 568,
-       "br": 632000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2121468872540786688/vid/avc1/480x852/vUtJFKATf7z2OpMn.mp4",
-       "w": 480,
-       "h": 852,
-       "br": 950000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2121468872540786688/vid/avc1/720x1280/Cfmn5pxwayLxnSa7.mp4",
-       "w": 720,
-       "h": 1280,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2121468872540786688/vid/avc1/1080x1920/3lpamflM97JpRhlA.mp4",
-       "w": 1080,
-       "h": 1920,
-       "br": 10368000
-      }
-     ],
-     "width": 1080,
-     "height": 1920,
-     "duration_ms": 7407
-    }
-   ],
-   "ref": {
-    "id": "2121469429464670376",
-    "author_id": "1465432261436788740",
-    "username": "AtelierMissor_",
-    "name": "Atelier Missor",
-    "created_at": "2026-11-14T05:05:01.000Z",
-    "conversation_id": "2121469429464670376"
-   }
-  },
-  {
-   "id": "2121485531993571680",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T06:09:00.000Z",
-   "lang": "en",
-   "conversation_id": "2121259427571572813",
-   "url": "https://x.com/elonmusk/status/2121485531993571680",
-   "reply_to": {
-    "id": "2121467664057151599",
-    "username": "TimSweeneyEpic"
-   },
-   "kind": "reply",
-   "text": "@TimSweeneyEpic @HuXijin_GT Yeah",
-   "urls": [],
-   "metrics": {
-    "likes": 1213,
-    "reposts": 58,
-    "replies": 80,
-    "quotes": 7
-   }
-  },
-  {
-   "id": "2121483806305833299",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-14T06:02:09.000Z",
-   "lang": "en",
-   "conversation_id": "2121483579033354407",
-   "url": "https://x.com/mattyp/status/2121483806305833299",
-   "reply_to": {
-    "id": "2121483579033354407",
-    "username": "SilasYeem"
-   },
-   "kind": "reply",
-   "text": "@SilasYeem heck yes!!!",
-   "urls": [],
-   "metrics": {
-    "likes": 3,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2121482167108932007",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-14T05:55:38.000Z",
-   "lang": "en",
-   "conversation_id": "2121480913729237018",
-   "url": "https://x.com/elonmusk/status/2121482167108932007",
-   "reply_to": {
-    "id": "2121480913729237018",
-    "username": "Scobleizer"
-   },
-   "kind": "reply",
-   "text": "@Scobleizer There will be many agents",
-   "urls": [],
-   "metrics": {
-    "likes": 2590,
-    "reposts": 142,
-    "replies": 309,
-    "quotes": 31
-   }
-  },
-  {
-   "id": "2121479482582441991",
-   "author_id": "34743251",
-   "username": "SpaceX",
-   "name": "SpaceX",
-   "created_at": "2026-11-14T05:44:58.000Z",
-   "lang": "en",
-   "conversation_id": "2121479482582441991",
-   "url": "https://x.com/SpaceX/status/2121479482582441991",
-   "kind": "post",
-   "text": "Starship and its heatshield are healthy as the vehicle continues to orbit Earth after a spectacular start to its mission nearly 7 hours ago. Teams are continuing to monitor systems ahead of a planned return to launch site catch at Starbase ~22.5 hours after launch",
-   "urls": [],
-   "metrics": {
-    "likes": 16228,
-    "reposts": 1607,
-    "replies": 430,
-    "quotes": 206
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2121478495096524801/vid/avc1/3840x2160/Qq8BC3NLpDcBpJH-.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121478495096524801/img/MaqFlCXvo1tTRZcG.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2121478495096524801/vid/avc1/480x270/481I8brhuA6fW3Ol.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2121478495096524801/vid/avc1/640x360/jDiaCVmF8c-5qSNz.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2121478495096524801/vid/avc1/1280x720/p3NAtSnqjezgSWkB.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2121478495096524801/vid/avc1/1920x1080/CDjevBTsz7C1__s_.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2121478495096524801/vid/avc1/3840x2160/Qq8BC3NLpDcBpJH-.mp4",
-       "w": 3840,
-       "h": 2160,
-       "br": 25128000
-      }
-     ],
-     "width": 3840,
-     "height": 2160,
-     "duration_ms": 317440
-    }
-   ]
-  },
-  {
-   "id": "2121475441609613600",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-14T05:28:55.000Z",
-   "lang": "en",
-   "conversation_id": "2121439659179848108",
-   "url": "https://x.com/mattyp/status/2121475441609613600",
-   "reply_to": {
-    "id": "2121439659179848108",
-    "username": "mattyp"
-   },
-   "kind": "reply",
-   "text": "@XCreators lets go",
-   "urls": [],
-   "metrics": {
-    "likes": 16,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2121469437396353528",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-14T05:05:03.000Z",
-   "lang": "en",
-   "conversation_id": "2121439659179848108",
-   "url": "https://x.com/mattyp/status/2121469437396353528",
-   "reply_to": {
-    "id": "2121452946647138701",
-    "username": "asmDevsit"
-   },
-   "kind": "reply",
-   "text": "@asmDevsit thanks for listening :)",
-   "urls": [],
-   "metrics": {
-    "likes": 3,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2121469398653542843",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-14T05:04:54.000Z",
-   "lang": "en",
-   "conversation_id": "2121439659179848108",
-   "url": "https://x.com/mattyp/status/2121469398653542843",
-   "reply_to": {
-    "id": "2121440814240821557",
-    "username": "beauhaan"
-   },
-   "kind": "reply",
-   "text": "@beauhaan goated",
-   "urls": [],
-   "metrics": {
-    "likes": 3,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
    }
   }
  ]

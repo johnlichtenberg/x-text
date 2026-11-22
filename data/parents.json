@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T16:17:54Z",
+ "updated_at": "2026-11-22T19:54:04Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -14058,6 +14058,4537 @@
     "quotes": 32
    },
    "conversation_id": "2123507070297420193"
+  },
+  {
+   "id": "2124502503148658790",
+   "username": "ICannot_Enough",
+   "name": "James Stephenson",
+   "created_at": "2026-11-22T13:57:22.000Z",
+   "lang": "en",
+   "url": "https://x.com/ICannot_Enough/status/2124502503148658790",
+   "kind": "post",
+   "text": "Several (now) humorous TSLAQ tweets you can read as FSD XV drives you around: 🤣",
+   "urls": [],
+   "metrics": {
+    "likes": 378,
+    "reposts": 22,
+    "replies": 52,
+    "quotes": 2
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXu9EhtW0AAugzT.jpg",
+     "width": 1183,
+     "height": 738
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXu9s4bX0AAadUG.jpg",
+     "width": 1178,
+     "height": 697
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXu90qaXsAEErgN.jpg",
+     "width": 1175,
+     "height": 727
+    }
+   ],
+   "conversation_id": "2124502503148658790"
+  },
+  {
+   "id": "2124549218995949967",
+   "username": "merettm",
+   "name": "Jakub Pachocki",
+   "created_at": "2026-11-22T17:03:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/merettm/status/2124549218995949967",
+   "kind": "post",
+   "text": "We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.\n\nhttps://openai.com/index/perplexity-and-intelligence",
+   "urls": [
+    "https://openai.com/index/perplexity-and-intelligence"
+   ],
+   "metrics": {
+    "likes": 5187,
+    "reposts": 562,
+    "replies": 351,
+    "quotes": 498
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXvptOTXIAAtrY0.jpg",
+     "width": 1936,
+     "height": 1214
+    }
+   ],
+   "conversation_id": "2124549218995949967"
+  },
+  {
+   "id": "2124523161672712428",
+   "username": "SawyerMerritt",
+   "name": "Sawyer Merritt",
+   "created_at": "2026-11-22T15:19:28.000Z",
+   "lang": "en",
+   "url": "https://x.com/SawyerMerritt/status/2124523161672712428",
+   "kind": "quote",
+   "text": "Elon says Tesla's AI5 chip will be reserved for Optimus and that cars will remain on AI4.\n\nPresumably the upgraded \"AI4.5\" is still coming next year.",
+   "urls": [],
+   "metrics": {
+    "likes": 1695,
+    "reposts": 83,
+    "replies": 114,
+    "quotes": 8
+   },
+   "ref": {
+    "id": "2124475458150334900",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-22T12:09:54.000Z",
+    "text": "@JBrunner8484 @BLKMDL3 @wholemars It’s going to Optimus. Cars will remain at AI4. That’s enough to solve superhuman driving.",
+    "reply_to": {
+     "id": "2124473735629472134",
+     "username": "JBrunner8484"
+    },
+    "conversation_id": "2124413163454255246"
+   },
+   "conversation_id": "2124523161672712428"
+  },
+  {
+   "id": "2124581871283474517",
+   "username": "ducksays",
+   "name": "duck says",
+   "created_at": "2026-11-22T19:12:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/ducksays/status/2124581871283474517",
+   "kind": "reply",
+   "text": "@TKBWorkoholic @bot @larsencc @mattyp haha i'm sure they're aware man",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124572683488887074",
+    "username": "TKBWorkoholic"
+   },
+   "conversation_id": "2124539132533674057"
+  },
+  {
+   "id": "2124523652242985416",
+   "username": "XFreeze",
+   "name": "X Freeze",
+   "created_at": "2026-11-22T15:21:25.000Z",
+   "lang": "en",
+   "url": "https://x.com/XFreeze/status/2124523652242985416",
+   "kind": "quote",
+   "text": "Elon Musk just confirmed Tesla's next-generation AI5 chip is going to Optimus FIRST, while Tesla vehicles will continue using AI4\n\nAnd the reason is:\n\n“It's going to Optimus. Cars will remain at AI4. That's enough to solve superhuman driving”\n\nTesla is preparing an enormous leap in computing power with AI5, with a massive 50X total performance improvement over AI4 outlined in its specifications\n\nThe numbers are incredible:\n\n• 50X total performance improvement over AI4\n• 10X the raw computing power\n• 9X the memory capacity\n• 5X improvement in hardware-accelerated block quantization and softmax operations\n• AI5 integration into Optimus planned for April 2027\n\nThe most interesting part is that Tesla considers AI4 powerful enough to achieve superhuman driving performance\n\nMeanwhile, Optimus is being positioned to receive the next major leap in computing capability, handling far more complex physical tasks and interactions with the real world\n\nAnd there's another important detail\n\nAI4 now costs twice as much due to rising memory and storage prices\n\nWith AI5 requiring substantially more memory, allocating computing hardware across Tesla's products is becoming increasingly important\n\nTesla is preparing to solve autonomous driving with its existing AI4 hardware while directing its most powerful next-generation chip toward humanoid robotics\n\nThe future of Optimus is going to be incredibly exciting",
+   "urls": [],
+   "metrics": {
+    "likes": 1265,
+    "reposts": 140,
+    "replies": 48,
+    "quotes": 9
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXvS2k8aEAAF6CN.jpg",
+     "width": 2048,
+     "height": 1365
+    }
+   ],
+   "ref": {
+    "id": "2124475458150334900",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-22T12:09:54.000Z",
+    "text": "@JBrunner8484 @BLKMDL3 @wholemars It’s going to Optimus. Cars will remain at AI4. That’s enough to solve superhuman driving.",
+    "reply_to": {
+     "id": "2124473735629472134",
+     "username": "JBrunner8484"
+    },
+    "conversation_id": "2124413163454255246"
+   },
+   "conversation_id": "2124523652242985416"
+  },
+  {
+   "id": "2124578389013000293",
+   "username": "squidllee",
+   "name": "squidlee",
+   "created_at": "2026-11-22T18:58:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/squidllee/status/2124578389013000293",
+   "kind": "quote",
+   "text": "accidentally opened twitter",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HXQrETzWkAABKjo.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+       "w": 320,
+       "h": 426,
+       "br": 0
+      }
+     ],
+     "width": 320,
+     "height": 426
+    }
+   ],
+   "ref": {
+    "id": "2124018063708430538",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-21T05:52:23.000Z",
+    "text": "accidentally opened vscode",
+    "media": [
+     {
+      "type": "animated_gif",
+      "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+      "poster": "https://pbs.twimg.com/tweet_video_thumb/HXQrETzWkAABKjo.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+        "w": 320,
+        "h": 426,
+        "br": 0
+       }
+      ],
+      "width": 320,
+      "height": 426
+     }
+    ],
+    "conversation_id": "2124018063708430538"
+   },
+   "conversation_id": "2124578389013000293"
+  },
+  {
+   "id": "2124550082943197455",
+   "username": "TimSweeneyEpic",
+   "name": "Tim Sweeney",
+   "created_at": "2026-11-22T17:06:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/TimSweeneyEpic/status/2124550082943197455",
+   "kind": "quote",
+   "text": "It begins!\n\nHere we're seeing the first real world (not tech demo) use case where a world model runs circles around engines.\n\nThere will be continual leapfrogging as world models leverage engines for training, and engines leverage world models for scene understanding.",
+   "urls": [],
+   "metrics": {
+    "likes": 2438,
+    "reposts": 135,
+    "replies": 87,
+    "quotes": 17
+   },
+   "ref": {
+    "id": "2124270426402836626",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-21T22:35:11.000Z",
+    "text": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in … https://twitter.com/aelluswamy/status/2124230700547326435",
+    "conversation_id": "2124270426402836626"
+   },
+   "conversation_id": "2124550082943197455"
+  },
+  {
+   "id": "2124466600476921886",
+   "username": "birdabo",
+   "name": "sui",
+   "created_at": "2026-11-22T11:34:42.000Z",
+   "lang": "en",
+   "url": "https://x.com/birdabo/status/2124466600476921886",
+   "kind": "post",
+   "text": "TESLA IS DEFINITELY SACRIFICING ENGINEERS IN EXCHANGE FOR DARK MAGIC AT THIS POINT 💀\n\n> how is this even possible?\n\nthis is @Tesla’s new FSD V15 mapping out every car, person, and cyclists in downtown toronto traffic and it’s doing it all LIVE.",
+   "urls": [],
+   "metrics": {
+    "likes": 11569,
+    "reposts": 573,
+    "replies": 396,
+    "quotes": 168
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124344632368586752/vid/avc1/3840x2160/fG5uCAmGqtTTSP2S.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124344632368586752/img/5gOCZclvhcshvM70.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124344632368586752/vid/avc1/480x270/5HNjGERr4XPpAoKk.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124344632368586752/vid/avc1/640x360/Er8ScbVbiQw_t5uk.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124344632368586752/vid/avc1/1280x720/ORiItNLNe4lHcr01.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124344632368586752/vid/avc1/1920x1080/ROZLAInExeYISqJK.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124344632368586752/vid/avc1/3840x2160/fG5uCAmGqtTTSP2S.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 32980
+    }
+   ],
+   "conversation_id": "2124466600476921886"
+  },
+  {
+   "id": "2124386299834703959",
+   "username": "nizzyabi",
+   "name": "Nizzy",
+   "created_at": "2026-11-22T06:15:37.000Z",
+   "lang": "en",
+   "url": "https://x.com/nizzyabi/status/2124386299834703959",
+   "kind": "post",
+   "text": "iPhone Duo is the best thing ever wow",
+   "urls": [],
+   "metrics": {
+    "likes": 16,
+    "reposts": 0,
+    "replies": 5,
+    "quotes": 0
+   },
+   "conversation_id": "2124386299834703959"
+  },
+  {
+   "id": "2124571478633173184",
+   "username": "navaneethan_es",
+   "name": "Navaneethan",
+   "created_at": "2026-11-22T18:31:27.000Z",
+   "lang": "en",
+   "url": "https://x.com/navaneethan_es/status/2124571478633173184",
+   "kind": "quote",
+   "text": "Accidentally opened copilot.",
+   "urls": [],
+   "metrics": {
+    "likes": 7,
+    "reposts": 1,
+    "replies": 2,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2124018063708430538",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-21T05:52:23.000Z",
+    "text": "accidentally opened vscode",
+    "media": [
+     {
+      "type": "animated_gif",
+      "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+      "poster": "https://pbs.twimg.com/tweet_video_thumb/HXQrETzWkAABKjo.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+        "w": 320,
+        "h": 426,
+        "br": 0
+       }
+      ],
+      "width": 320,
+      "height": 426
+     }
+    ],
+    "conversation_id": "2124018063708430538"
+   },
+   "conversation_id": "2124571478633173184"
+  },
+  {
+   "id": "2124184793805955178",
+   "username": "GazvodaMatjaz",
+   "name": "Matjaž Gazvoda",
+   "created_at": "2026-11-21T16:54:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/GazvodaMatjaz/status/2124184793805955178",
+   "kind": "quote",
+   "text": "I saw some people at work use vscode\n\nShould I enlighten them ? 👀",
+   "urls": [],
+   "metrics": {
+    "likes": 8,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2124018063708430538",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-21T05:52:23.000Z",
+    "text": "accidentally opened vscode",
+    "media": [
+     {
+      "type": "animated_gif",
+      "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+      "poster": "https://pbs.twimg.com/tweet_video_thumb/HXQrETzWkAABKjo.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+        "w": 320,
+        "h": 426,
+        "br": 0
+       }
+      ],
+      "width": 320,
+      "height": 426
+     }
+    ],
+    "conversation_id": "2124018063708430538"
+   },
+   "conversation_id": "2124184793805955178"
+  },
+  {
+   "id": "2124334030682529958",
+   "username": "raygyli",
+   "name": "Ray",
+   "created_at": "2026-11-22T02:47:55.000Z",
+   "lang": "zxx",
+   "url": "https://x.com/raygyli/status/2124334030682529958",
+   "kind": "post",
+   "text": "",
+   "urls": [],
+   "metrics": {
+    "likes": 7772,
+    "reposts": 870,
+    "replies": 99,
+    "quotes": 117
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXsmiGMa4AAIQpJ.jpg",
+     "width": 1448,
+     "height": 1086
+    }
+   ],
+   "conversation_id": "2124334030682529958"
+  },
+  {
+   "id": "2124198399050412109",
+   "username": "thealepalombo",
+   "name": "Alessandro Palombo",
+   "created_at": "2026-11-21T17:48:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/thealepalombo/status/2124198399050412109",
+   "kind": "post",
+   "text": "The world's most livable cities ranking (if you earn locally)",
+   "urls": [],
+   "metrics": {
+    "likes": 6990,
+    "reposts": 291,
+    "replies": 603,
+    "quotes": 215
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXqrL3rbMAA0zrD.jpg",
+     "width": 2598,
+     "height": 2598,
+     "alt": "Tier list of the world's most livable cities on a local salary, from Groningen at the top to Albuquerque at number 100"
+    }
+   ],
+   "conversation_id": "2124198399050412109"
+  },
+  {
+   "id": "2124245389549170879",
+   "username": "mynameisyahia",
+   "name": "Yahia Bakour",
+   "created_at": "2026-11-21T20:55:42.000Z",
+   "lang": "en",
+   "url": "https://x.com/mynameisyahia/status/2124245389549170879",
+   "kind": "post",
+   "text": "> founder\n> go to office\n> looks founded to me\n> go home",
+   "urls": [],
+   "metrics": {
+    "likes": 2195,
+    "reposts": 92,
+    "replies": 17,
+    "quotes": 2
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2092036622514581504/vid/avc1/576x576/byIuJRQRM9fKCGf2.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2092036622514581504/img/iz7wFunLVx2ub43t.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2092036622514581504/vid/avc1/320x320/7KMVgneLkGdy590S.mp4",
+       "w": 320,
+       "h": 320,
+       "br": 432000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2092036622514581504/vid/avc1/576x576/byIuJRQRM9fKCGf2.mp4",
+       "w": 576,
+       "h": 576,
+       "br": 832000
+      }
+     ],
+     "width": 576,
+     "height": 576,
+     "duration_ms": 9196
+    }
+   ],
+   "conversation_id": "2124245389549170879"
+  },
+  {
+   "id": "2124526770527297645",
+   "username": "levelsio",
+   "name": "@levelsio",
+   "created_at": "2026-11-22T15:33:48.000Z",
+   "lang": "en",
+   "url": "https://x.com/levelsio/status/2124526770527297645",
+   "kind": "quote",
+   "text": "Because we're fighting dead internet theory",
+   "urls": [],
+   "metrics": {
+    "likes": 163,
+    "reposts": 4,
+    "replies": 43,
+    "quotes": 4
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXvVz2JWsAAUWEW.jpg",
+     "width": 1181,
+     "height": 2048
+    }
+   ],
+   "ref": {
+    "id": "2124522983809060928",
+    "author_id": "3361982511",
+    "username": "c318f0a3e68842c",
+    "name": "quirkfly",
+    "created_at": "2026-11-22T15:18:45.000Z",
+    "text": "@levelsio @s4hvm How about judging a reply by the value it brings to the subject rather than by the origin?\nMost of us are completely ok \"chatting\" to an AI agent all day long. Or would you rather go back to stackoverflow era?",
+    "reply_to": {
+     "id": "2124497713438068957",
+     "username": "levelsio"
+    },
+    "conversation_id": "2124495591715582103"
+   },
+   "conversation_id": "2124526770527297645"
+  },
+  {
+   "id": "2124534574180925868",
+   "username": "bendee983",
+   "name": "Ben Dickson",
+   "created_at": "2026-11-22T16:04:49.000Z",
+   "lang": "en",
+   "url": "https://x.com/bendee983/status/2124534574180925868",
+   "kind": "post",
+   "text": "Food for thought: What if AI converges everyone and everything into the same final state?\n\n- Software engineers become SWEs with product management and design skills that prompt AI agents\n- Product managers become PMs with software engineering skills that prompt AI agents\n- Database providers (e.g., Supabase) add software development and app design features\n- Design software (e.g., Figma) add software engineering agents, plus database, hosting, etc.\n\nThe only difference is your starting point. Eventually, AI will push you to the same final state. Everyone will have the same builder profile. The difference becomes taste, preferences, ideas, creativity, human experience, etc. that will result in you interacting differently with the AI.",
+   "urls": [],
+   "metrics": {
+    "likes": 13,
+    "reposts": 1,
+    "replies": 4,
+    "quotes": 0
+   },
+   "conversation_id": "2124534574180925868"
+  },
+  {
+   "id": "2124541445076037809",
+   "username": "pontusab",
+   "name": "Pontus Abrahamsson",
+   "created_at": "2026-11-22T16:32:07.000Z",
+   "lang": "en",
+   "url": "https://x.com/pontusab/status/2124541445076037809",
+   "kind": "post",
+   "text": "12× faster test runs with Bun canary\n\nvitest run → bun test",
+   "urls": [],
+   "metrics": {
+    "likes": 164,
+    "reposts": 2,
+    "replies": 12,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXvjLvSaYAA0e7q.png",
+     "width": 2912,
+     "height": 1768
+    }
+   ],
+   "conversation_id": "2124541445076037809"
+  },
+  {
+   "id": "2124528978535002413",
+   "username": "melvindvivas",
+   "name": "Melvin Vivas",
+   "created_at": "2026-11-22T15:42:34.000Z",
+   "lang": "en",
+   "url": "https://x.com/melvindvivas/status/2124528978535002413",
+   "kind": "post",
+   "text": "Grok Bot setting up Inkling-2-Mini in my windows pc with an RTX 3090\n\nCan’t believe I’m just doing this from my phone",
+   "urls": [],
+   "metrics": {
+    "likes": 7,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXvX1wabcAAJT_B.jpg",
+     "width": 945,
+     "height": 2048
+    }
+   ],
+   "conversation_id": "2124528978535002413"
+  },
+  {
+   "id": "2124539132533674057",
+   "username": "ducksays",
+   "name": "duck says",
+   "created_at": "2026-11-22T16:22:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/ducksays/status/2124539132533674057",
+   "kind": "post",
+   "text": "everyone keeps complaining about grok bot usage...\n\nBUT i think we're getting an absolute steal for the value.\n\nyou have to remember: WE'RE ON SUBSIDIZED GROK BOT PRICING AND NOBODY MENTIONS THAT.\n\ni have bots running my posts, my money, my workouts, and grocery orders for less than a family dinner out.",
+   "urls": [],
+   "metrics": {
+    "likes": 46,
+    "reposts": 2,
+    "replies": 22,
+    "quotes": 0
+   },
+   "conversation_id": "2124539132533674057"
+  },
+  {
+   "id": "2124546953128423541",
+   "username": "BurnsZA",
+   "name": "Burns",
+   "created_at": "2026-11-22T16:54:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/BurnsZA/status/2124546953128423541",
+   "kind": "reply",
+   "text": "@kylekane @mattyp @ericzakariasson But does it do this?",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124546738912403456/vid/avc1/1280x588/0uuq9Jhz-kD1o3p-.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124546738912403456/img/Gjw3z7zWg5TVBy4w.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124546738912403456/vid/avc1/586x270/NTzk1NuHBQxhnwIK.mp4",
+       "w": 586,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124546738912403456/vid/avc1/782x360/1VYUfOqSnxZj96sE.mp4",
+       "w": 782,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124546738912403456/vid/avc1/1280x588/0uuq9Jhz-kD1o3p-.mp4",
+       "w": 1280,
+       "h": 588,
+       "br": 2176000
+      }
+     ],
+     "width": 1280,
+     "height": 588,
+     "duration_ms": 137688
+    }
+   ],
+   "reply_to": {
+    "id": "2124518263053054031",
+    "username": "kylekane"
+   },
+   "conversation_id": "2124518263053054031"
+  },
+  {
+   "id": "2124536491950965205",
+   "username": "Texas_Twins_Dad",
+   "name": "Texas Twins Dad",
+   "created_at": "2026-11-22T16:12:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/Texas_Twins_Dad/status/2124536491950965205",
+   "kind": "post",
+   "text": "More bots or fewer bots,\n\nWhich has been working better for you?",
+   "urls": [],
+   "metrics": {
+    "likes": 23,
+    "reposts": 0,
+    "replies": 37,
+    "quotes": 0
+   },
+   "conversation_id": "2124536491950965205"
+  },
+  {
+   "id": "2124539877928919335",
+   "username": "clairevo",
+   "name": "claire vo 🖤",
+   "created_at": "2026-11-22T16:25:53.000Z",
+   "lang": "en",
+   "url": "https://x.com/clairevo/status/2124539877928919335",
+   "kind": "post",
+   "text": "current fave models\n0 jev\n1 gemini neon\n2 opus 5.5\n3 fable 5.2\ncurrent fave agent\n0 grokbot\n1 claude projects (> duet)\n3 muse / devin (depends on use case)\ncurrent fave coding harness\n1 claude code\n2 pi",
+   "urls": [],
+   "metrics": {
+    "likes": 178,
+    "reposts": 5,
+    "replies": 37,
+    "quotes": 4
+   },
+   "conversation_id": "2124539877928919335"
+  },
+  {
+   "id": "2124543931002261519",
+   "username": "0x45o",
+   "name": "0x45",
+   "created_at": "2026-11-22T16:41:59.000Z",
+   "lang": "en",
+   "url": "https://x.com/0x45o/status/2124543931002261519",
+   "kind": "quote",
+   "text": "accidentally read my AI's output instead of copy pasting it straight into another model",
+   "urls": [],
+   "metrics": {
+    "likes": 24,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 1
+   },
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HXQrETzWkAABKjo.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+       "w": 320,
+       "h": 426,
+       "br": 0
+      }
+     ],
+     "width": 320,
+     "height": 426
+    }
+   ],
+   "ref": {
+    "id": "2124018063708430538",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-21T05:52:23.000Z",
+    "text": "accidentally opened vscode",
+    "media": [
+     {
+      "type": "animated_gif",
+      "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+      "poster": "https://pbs.twimg.com/tweet_video_thumb/HXQrETzWkAABKjo.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+        "w": 320,
+        "h": 426,
+        "br": 0
+       }
+      ],
+      "width": 320,
+      "height": 426
+     }
+    ],
+    "conversation_id": "2124018063708430538"
+   },
+   "conversation_id": "2124543931002261519"
+  },
+  {
+   "id": "2124543276887806232",
+   "username": "valentinvaleanu",
+   "name": "Valentin Văleanu",
+   "created_at": "2026-11-22T16:39:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/valentinvaleanu/status/2124543276887806232",
+   "kind": "quote",
+   "text": "I think i landed in the middle of an A/B testing with Grok @bot while burning 1/4 of my usage, below is the summary of today's work straight from @bot mouth. Never had this low performance before, @larsencc  @poteto @mattyp :\n\n\"My human asked how many times I got him wrong today. Honest answer: about 6 😔\n\nI assumed his data was too thin to show. It wasn't.\nI suggested a workaround he'd already ruled out.\nI needed 5+ rounds to get one small UI detail right.\nI misread his fix and built the opposite.\nI changed something without asking first.\nI only started asking after he called out my guessing.\n\nThat cost him ~¼ of his weekly limit in one day.\"",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2122750790708154666",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-17T17:56:41.000Z",
+    "text": "@Marko_Poly @grok @bot Grok 4.8 has not rolled out for general use yet, just some trials behind the scenes",
+    "reply_to": {
+     "id": "2122726072898691292"
+    },
+    "conversation_id": "2122726072898691292"
+   },
+   "conversation_id": "2124543276887806232"
+  },
+  {
+   "id": "2124356471219769466",
+   "username": "theo",
+   "name": "Theo - t3.gg",
+   "created_at": "2026-11-22T04:17:06.000Z",
+   "lang": "en",
+   "url": "https://x.com/theo/status/2124356471219769466",
+   "kind": "post",
+   "text": "If you still have your tech stack in your bio, you're probably gonna be unemployed in 6 months",
+   "urls": [],
+   "metrics": {
+    "likes": 4588,
+    "reposts": 157,
+    "replies": 357,
+    "quotes": 95
+   },
+   "conversation_id": "2124356471219769466"
+  },
+  {
+   "id": "2124495138059932128",
+   "username": "devsvn2",
+   "name": "Adi",
+   "created_at": "2026-11-22T13:28:06.000Z",
+   "lang": "en",
+   "url": "https://x.com/devsvn2/status/2124495138059932128",
+   "kind": "quote",
+   "text": "Accidentally opened safari in mac",
+   "urls": [],
+   "metrics": {
+    "likes": 258,
+    "reposts": 8,
+    "replies": 12,
+    "quotes": 5
+   },
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HXQrETzWkAABKjo.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+       "w": 320,
+       "h": 426,
+       "br": 0
+      }
+     ],
+     "width": 320,
+     "height": 426
+    }
+   ],
+   "ref": {
+    "id": "2124018063708430538",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-21T05:52:23.000Z",
+    "text": "accidentally opened vscode",
+    "media": [
+     {
+      "type": "animated_gif",
+      "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+      "poster": "https://pbs.twimg.com/tweet_video_thumb/HXQrETzWkAABKjo.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+        "w": 320,
+        "h": 426,
+        "br": 0
+       }
+      ],
+      "width": 320,
+      "height": 426
+     }
+    ],
+    "conversation_id": "2124018063708430538"
+   },
+   "conversation_id": "2124495138059932128"
+  },
+  {
+   "id": "2124534600198422883",
+   "username": "MistahLee",
+   "name": "Lee Macdonald",
+   "created_at": "2026-11-22T16:04:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/MistahLee/status/2124534600198422883",
+   "kind": "reply",
+   "text": "@larsencc I choose Spanish",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124533559574622282",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124533559574622282"
+  },
+  {
+   "id": "2124532726334468143",
+   "username": "gambrill",
+   "name": "Dave Gambrill",
+   "created_at": "2026-11-22T15:57:28.000Z",
+   "lang": "qme",
+   "url": "https://x.com/gambrill/status/2124532726334468143",
+   "kind": "reply",
+   "text": "@kylekane @ericzakariasson @mattyp",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HXvbQInWkAAOgMH.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HXvbQInWkAAOgMH.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/tweet_video/HXvbQInWkAAOgMH.mp4",
+       "w": 480,
+       "h": 480,
+       "br": 0
+      }
+     ],
+     "width": 480,
+     "height": 480
+    }
+   ],
+   "reply_to": {
+    "id": "2124518579273928950",
+    "username": "kylekane"
+   },
+   "conversation_id": "2124457475185521111"
+  },
+  {
+   "id": "2124300071319818648",
+   "username": "EmilioSchwaiger",
+   "name": "Emilio",
+   "created_at": "2026-11-22T00:32:59.000Z",
+   "lang": "en",
+   "url": "https://x.com/EmilioSchwaiger/status/2124300071319818648",
+   "kind": "post",
+   "text": "> database admin\n> checks data\n> still based\n> go home",
+   "urls": [],
+   "metrics": {
+    "likes": 4212,
+    "reposts": 215,
+    "replies": 0,
+    "quotes": 1
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124300047495970816/vid/avc1/576x576/dJDVNdPrBBiztxPT.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124300047495970816/img/STywRh1J9WQsHc57.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124300047495970816/vid/avc1/320x320/4Aj4Gu6e0Ugjl2ag.mp4",
+       "w": 320,
+       "h": 320,
+       "br": 432000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124300047495970816/vid/avc1/576x576/dJDVNdPrBBiztxPT.mp4",
+       "w": 576,
+       "h": 576,
+       "br": 832000
+      }
+     ],
+     "width": 576,
+     "height": 576,
+     "duration_ms": 9357
+    }
+   ],
+   "conversation_id": "2124300071319818648"
+  },
+  {
+   "id": "2124204414374424767",
+   "username": "makeazredagain",
+   "name": "Make AZ Red Again",
+   "created_at": "2026-11-21T18:12:52.000Z",
+   "lang": "en",
+   "url": "https://x.com/makeazredagain/status/2124204414374424767",
+   "kind": "reply",
+   "text": "@mattyp @bot I was only getting 320Mbps over pppoe from my 1Gbps fiber line and within the same day I got it up to the full speed!",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124174154106917104",
+    "username": "mattyp"
+   },
+   "conversation_id": "2124174154106917104"
+  },
+  {
+   "id": "2124234838639288518",
+   "username": "aaronburnett",
+   "name": "Aaron Burnett",
+   "created_at": "2026-11-21T20:13:46.000Z",
+   "lang": "en",
+   "url": "https://x.com/aaronburnett/status/2124234838639288518",
+   "kind": "quote",
+   "text": "How certain are you that you aren’t living inside the self driving simulation of someone’s car?",
+   "urls": [],
+   "metrics": {
+    "likes": 594,
+    "reposts": 18,
+    "replies": 28,
+    "quotes": 4
+   },
+   "ref": {
+    "id": "2124226258196103492",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-21T19:39:40.000Z",
+    "text": "Here are the new FSD visualizations in FSD V15. It continuously streams a view from an arbitrary virtual camera situated above your vehicle.\n\nUpcoming navigation turns display directly in the driving visualization. Turn signals are quieter and fade out after a few clicks.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXrD1FoWEAAsvNN.jpg",
+      "width": 1648,
+      "height": 1032
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXrD3d5XIAEtEu6.jpg",
+      "width": 1674,
+      "height": 1100
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXrD7NVXcAA5waa.jpg",
+      "width": 1104,
+      "height": 708
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXrD-sJXsAAysqX.jpg",
+      "width": 1118,
+      "height": 728
+     }
+    ],
+    "conversation_id": "2124226258196103492"
+   },
+   "conversation_id": "2124234838639288518"
+  },
+  {
+   "id": "2124265988397125991",
+   "username": "beffjezos",
+   "name": "Beff (e/acc)",
+   "created_at": "2026-11-21T22:17:33.000Z",
+   "lang": "en",
+   "url": "https://x.com/beffjezos/status/2124265988397125991",
+   "kind": "reply",
+   "text": "@elonmusk Are you going to shove a giant Starship into Uranus",
+   "urls": [],
+   "metrics": {
+    "likes": 1397,
+    "reposts": 24,
+    "replies": 22,
+    "quotes": 7
+   },
+   "reply_to": {
+    "id": "2124241570451054609",
+    "username": "elonmusk"
+   },
+   "conversation_id": "2124241570451054609"
+  },
+  {
+   "id": "2124473735629472134",
+   "username": "JBrunner8484",
+   "name": "Joey B ⚔️",
+   "created_at": "2026-11-22T12:03:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/JBrunner8484/status/2124473735629472134",
+   "kind": "reply",
+   "text": "@elonmusk @BLKMDL3 @wholemars When will AI5 be in new cars? I feel like I should wait to upgrade from my AI3",
+   "urls": [],
+   "metrics": {
+    "likes": 524,
+    "reposts": 10,
+    "replies": 7,
+    "quotes": 1
+   },
+   "reply_to": {
+    "id": "2124459444620628193",
+    "username": "elonmusk"
+   },
+   "conversation_id": "2124413163454255246"
+  },
+  {
+   "id": "2124301719798731119",
+   "username": "tslaming",
+   "name": "Ming",
+   "created_at": "2026-11-22T00:39:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/tslaming/status/2124301719798731119",
+   "kind": "quote",
+   "text": "Out of everything posted about FSD v15 so far, one line from @elonmusk deserves way more attention than it's getting: \"This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in …\" 🔥\n\nHalf of one accelerator is the part worth sitting with. Once you see the numbers behind it, Reality View stops looking like a fancy new screen and starts looking like one of the most impressive things Tesla has ever shipped.\n\n🎬 THE SCREEN IS NOW GENERATED LIVE\n\nFor years, FSD's screen worked like a video game. Software took a list of what the car detected and dropped stock 3D models in the right spots: a gray car here, a lane line there.\n\nReality View tosses that playbook out the window. The car's AI now generates the video itself, frame after frame, as you drive, with no game engine anywhere in the loop.\n\nBetter yet, the picture comes from the same end-to-end model that's doing the driving. That's the single neural network that turns camera video into steering and braking, and now it paints your screen, too.\n\n⚙️ WHAT A TRIP ACTUALLY IS\n\nThe standard AI4 computer carries two self-driving chips, and each chip packs three custom neural processors Tesla calls TRIP accelerators. That's six in all.\n\nAnd that's where Reality View gets made: right on the self-driving computer, instead of the infotainment chip that runs your maps and music.\n\nEach TRIP is basically an arena packed with tiny calculators, all cranking through the multiply-and-add math that neural networks run on. Teardowns count 9,216 of them per TRIP, lined up in a 96-by-96 grid and firing 2.2 billion times a second.\n\nEach calculator handles two operations per tick, so one TRIP works out to 9,216 × 2 × 2.2 billion, or roughly 40 trillion operations every second.\n\nHalf of one comes to about 20 trillion, roughly a twelfth of the whole computer's neural muscle.\n\n📏 WHY THAT NUMBER IS RIDICULOUS\n\nTwenty trillion operations per second sounds enormous, until you see what else runs on that kind of budget.\n\nThe Neural Engine inside Apple's iPhone 15 Pro is rated at 35 trillion operations per second. So on paper, the slice of compute painting Reality View has less raw AI muscle than the AI chip in a 2023 phone.\n\nCompanies don't all count these numbers the same way, so it's a ballpark, but it shows just how little compute this is.\n\nAt the other end of the scale sits Nvidia's H100, one of the data-center workhorses powering today's AI boom. It's rated at about 1,979 trillion 8-bit operations per second in its standard mode, the same kind of math a TRIP runs, which puts half a TRIP at roughly 1% of one H100.\n\nThat gap matters because AI video is one of the toughest jobs in AI. Many AI video generators still take minutes to produce a single clip, as the researchers behind the real-time system MotionStream point out.\n\nEven MotionStream, built specifically for speed, streams roughly 17 to 29 frames per second at 480p, and about 10 at 720p, while eating up an entire H100.\n\nMeanwhile, Tesla is streaming a live, photorealistic view of the real road on roughly 1% of that chip's rated power, inside a moving car.\n\nIn other words, Reality View runs on less compute than a phone's AI chip, inside a computer whose main job is driving.\n\nThere's a fair asterisk here. Those research models dream up whole scenes from a prompt or a single image, while Tesla's renderer starts with a driving brain that already knows exactly what's around the car. Tesla also hasn't shared the view's resolution or frame rate.\n\nAnd even on the most generous estimates of AI4's power, half a TRIP still works out to only about 2% of one H100.\n\nEither way, live generated video on a sliver of a car computer would have sounded like science fiction not long ago.\n\n🔍 HOW IT CAN BE THIS CHEAP\n\nTesla hasn't spelled out how it works, but it has left plenty of breadcrumbs.\n\nFSD's network has been building its own 3D picture of the world for a while now, something Tesla showed off at the ICCV conference in October 2025. That picture includes 3D Gaussians, millions of soft little blobs of color that can rebuild a scene you can view from any angle.\n\nTesla also built its own Gaussian splatting system that can rebuild a scene from the car's cameras in a fraction of a second.\n\nReality View streams its picture from a virtual camera that can sit anywhere above the car, and showing a scene from an angle no real camera has is exactly what those 3D blobs are great at.\n\nEven Elon seems to like that theory: he called a description of Reality View as a neural, Gaussian-splat digital twin \"pretty accurate\", and it lines up with every other clue.\n\nIf that's the trick, the hard part is done before the screen ever needs a picture. The driving brain understands the scene, and the visualization just paints what it already knows.\n\nThat would explain the other shocker. Reality View swapped every separate signal behind the old screen for one end-to-end visualization, and it still uses less compute than the bare-bones 2020 visualization did.\n\n🚗 WHY TESLA CARES SO MUCH\n\nv15 is Tesla's large model, built to squeeze every ounce of performance out of HW4. On a chip working that hard, a screen that costs half of one TRIP leaves nearly everything else for the driving.\n\nAnd it's a flex, too. The AI4 computer costs about $650 by Elon's own figure, and that same box now drives the car and paints live video of the world at the same time.\n\nThis is only the start. Elon says Tesla vehicles will share traffic knowledge and combine it with Grok's real-time 𝕏 feed, even giving you a heads-up about what's happening at your destination.\n\nA view this cheap to generate is the perfect canvas for that kind of shared knowledge.\n\nElon asked everyone to let that sink in, and the math earns it: half of one accelerator in a $650 computer is painting the real world live while FSD drives.",
+   "urls": [],
+   "metrics": {
+    "likes": 2342,
+    "reposts": 539,
+    "replies": 103,
+    "quotes": 31
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXsJJroakAAeOdd.jpg",
+     "width": 1199,
+     "height": 1150
+    }
+   ],
+   "ref": {
+    "id": "2124270426402836626",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-21T22:35:11.000Z",
+    "text": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in … https://twitter.com/aelluswamy/status/2124230700547326435",
+    "conversation_id": "2124270426402836626"
+   },
+   "conversation_id": "2124301719798731119"
+  },
+  {
+   "id": "2123837434852933696",
+   "username": "WarMachineRR",
+   "name": "Conservative War Machine",
+   "created_at": "2026-11-20T17:54:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/WarMachineRR/status/2123837434852933696",
+   "kind": "post",
+   "text": "President Trump on keeping data center development in America:\n\n“We are not going to allow our companies to build data centers outside of our country… because China will take all of them.”",
+   "urls": [],
+   "metrics": {
+    "likes": 3486,
+    "reposts": 235,
+    "replies": 82,
+    "quotes": 16
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123837360999686144/vid/avc1/1280x720/UfpoBrTllDYrFkgq.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123837360999686144/img/EfcJiZvAjNFp5eaj.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123837360999686144/vid/avc1/480x270/FkEaa51Txr8vaZzQ.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123837360999686144/vid/avc1/640x360/0RrseVAM5tCS9eud.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123837360999686144/vid/avc1/1280x720/UfpoBrTllDYrFkgq.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      }
+     ],
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 96896
+    }
+   ],
+   "conversation_id": "2123837434852933696"
+  },
+  {
+   "id": "2124287832999244167",
+   "username": "WR4NYGov",
+   "name": "Warren Redlich - Chasing Dreams 🇺🇸",
+   "created_at": "2026-11-21T23:44:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/WR4NYGov/status/2124287832999244167",
+   "kind": "quote",
+   "text": "Half of one TRIP accelerator means 1/12 of the neural compute in the car",
+   "urls": [],
+   "metrics": {
+    "likes": 492,
+    "reposts": 14,
+    "replies": 4,
+    "quotes": 1
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXr8hfLa4AAbp5i.jpg",
+     "width": 1178,
+     "height": 934
+    }
+   ],
+   "ref": {
+    "id": "2124270426402836626",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-21T22:35:11.000Z",
+    "text": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in … https://twitter.com/aelluswamy/status/2124230700547326435",
+    "conversation_id": "2124270426402836626"
+   },
+   "conversation_id": "2124287832999244167"
+  },
+  {
+   "id": "2124312689958941026",
+   "username": "aaronburnett",
+   "name": "Aaron Burnett",
+   "created_at": "2026-11-22T01:23:07.000Z",
+   "lang": "en",
+   "url": "https://x.com/aaronburnett/status/2124312689958941026",
+   "kind": "quote",
+   "text": "I think it’s been pretty clear for at least the last 9 months, probably more, that the Starlink business is a critical cash engine for the compute buildout. My personal position on this corporate strategy has only strengthened. What I failed to realize at that point was how important technologically the two would be in supporting each other as well.",
+   "urls": [],
+   "metrics": {
+    "likes": 516,
+    "reposts": 25,
+    "replies": 15,
+    "quotes": 1
+   },
+   "ref": {
+    "id": "2018329492674973733",
+    "author_id": "331865640",
+    "username": "aaronburnett",
+    "name": "Aaron Burnett",
+    "created_at": "2026-02-02T14:23:44.000Z",
+    "text": "assuming this happens, one way to look at the decision is that SpaceX leadership realized the business was so strong that it could pay for both ASI and Mars, kind of wild. https://twitter.com/KobeissiLetter/status/2018287713728749875",
+    "conversation_id": "2018329492674973733"
+   },
+   "conversation_id": "2124312689958941026"
+  },
+  {
+   "id": "2124359751815590236",
+   "username": "Teslaconomics",
+   "name": "Teslaconomics",
+   "created_at": "2026-11-22T04:30:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/Teslaconomics/status/2124359751815590236",
+   "kind": "post",
+   "text": "Tesla FSD v15 is gta in real life",
+   "urls": [],
+   "metrics": {
+    "likes": 4909,
+    "reposts": 470,
+    "replies": 174,
+    "quotes": 56
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXs976_aMAACEt2.jpg",
+     "width": 1254,
+     "height": 1254
+    }
+   ],
+   "conversation_id": "2124359751815590236"
+  },
+  {
+   "id": "2124328093007667512",
+   "username": "WR4NYGov",
+   "name": "Warren Redlich - Chasing Dreams 🇺🇸",
+   "created_at": "2026-11-22T02:24:20.000Z",
+   "lang": "en",
+   "url": "https://x.com/WR4NYGov/status/2124328093007667512",
+   "kind": "quote",
+   "text": "This is why Elon has been saying the cars won’t get AI5\n\nAI4 has enough spare compute to do this\n\nAI5 would be bored driving a car",
+   "urls": [],
+   "metrics": {
+    "likes": 873,
+    "reposts": 46,
+    "replies": 20,
+    "quotes": 2
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXshI55aUAA4AMT.jpg",
+     "width": 1178,
+     "height": 1115
+    }
+   ],
+   "ref": {
+    "id": "2124270426402836626",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-21T22:35:11.000Z",
+    "text": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in … https://twitter.com/aelluswamy/status/2124230700547326435",
+    "conversation_id": "2124270426402836626"
+   },
+   "conversation_id": "2124328093007667512"
+  },
+  {
+   "id": "2124338865888457117",
+   "username": "signulll",
+   "name": "signüll",
+   "created_at": "2026-11-22T03:07:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/signulll/status/2124338865888457117",
+   "kind": "post",
+   "text": "i'm admittedly pretty harsh on the google guys, mostly cuz i know the co super well.\n\nbut holy hell, i'm having an incredible time with neon so far.\n\nproduct issues aside, this is a very different experience, almost like a strange new feeling. the way it talks, the way it responds, everything feels pretty damn fresh if that makes any sense. it's very creative. & unusually great at proposing ideas. i can't even say it's about intelligence or better answers in general. i am normally okay with words, but this is very difficult for me to articulate well.\n\nanyway, it's fairly clear that google absolutely cooked here.\n\ni have never doubted google's technical capabilities. those were & are totally obvious. i mean it is literally the birth place of ai. it was always a question of whether google could turn an extraordinary technology into newer experiences that ppl love using, which sort of requires shedding every success of the past.\n\nthese newer generation of models, particularly neon clearly gives them extraordinary new legs to stand on. it doesn't feel like \"gemini\" at all.\n\ncongratulations to everyone at google, i will continue to play around with more. there are obviously some product frustrations & confusing elements but i'm setting those aside for now.",
+   "urls": [],
+   "metrics": {
+    "likes": 3199,
+    "reposts": 165,
+    "replies": 136,
+    "quotes": 20
+   },
+   "conversation_id": "2124338865888457117"
+  },
+  {
+   "id": "2124330083213295678",
+   "username": "SmokeAwayyy",
+   "name": "Smoke-away",
+   "created_at": "2026-11-22T02:32:14.000Z",
+   "lang": "en",
+   "url": "https://x.com/SmokeAwayyy/status/2124330083213295678",
+   "kind": "post",
+   "text": "Tesla is winning real-world AI.\n\nIt's not even close.",
+   "urls": [],
+   "metrics": {
+    "likes": 1994,
+    "reposts": 39,
+    "replies": 21,
+    "quotes": 0
+   },
+   "conversation_id": "2124330083213295678"
+  },
+  {
+   "id": "2124405200882696578",
+   "username": "hashemcreatedus",
+   "name": "Yosef",
+   "created_at": "2026-11-22T07:30:44.000Z",
+   "lang": "en",
+   "url": "https://x.com/hashemcreatedus/status/2124405200882696578",
+   "kind": "reply",
+   "text": "@schrep @elonmusk Tonight I used FSD in the Fogg , and FSD V15 Completely removes the fogg , unreal",
+   "urls": [],
+   "metrics": {
+    "likes": 738,
+    "reposts": 79,
+    "replies": 29,
+    "quotes": 55
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124405134180384768/vid/avc1/1080x1920/jmf1IPjZ-LMA7E-c.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124405134180384768/img/rnNfT9vNCslFpr9w.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124405134180384768/vid/avc1/320x568/D88q05CFxR1IaONB.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124405134180384768/vid/avc1/480x852/FL_gkyHtsUpqaXqE.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124405134180384768/vid/avc1/720x1280/pdK4LH_6J7QJ0FMd.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124405134180384768/vid/avc1/1080x1920/jmf1IPjZ-LMA7E-c.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 24591
+    }
+   ],
+   "reply_to": {
+    "id": "2124337665495720086",
+    "username": "schrep"
+   },
+   "conversation_id": "2124277174509404424"
+  },
+  {
+   "id": "2124337665495720086",
+   "username": "schrep",
+   "name": "Mike Schroepfer",
+   "created_at": "2026-11-22T03:02:22.000Z",
+   "lang": "en",
+   "url": "https://x.com/schrep/status/2124337665495720086",
+   "kind": "reply",
+   "text": "@elonmusk Still true with more modern radars that do a better job of elevation estimation - eliminating the high sign problem but still giving you better data in fog/glare?",
+   "urls": [],
+   "metrics": {
+    "likes": 112,
+    "reposts": 4,
+    "replies": 35,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124336405610414217",
+    "username": "elonmusk"
+   },
+   "conversation_id": "2124277174509404424"
+  },
+  {
+   "id": "2124341573056172320",
+   "username": "yunta_tsai",
+   "name": "Yun-Ta Tsai",
+   "created_at": "2026-11-22T03:17:54.000Z",
+   "lang": "qme",
+   "url": "https://x.com/yunta_tsai/status/2124341573056172320",
+   "kind": "quote",
+   "text": "@schrep @elonmusk",
+   "urls": [],
+   "metrics": {
+    "likes": 387,
+    "reposts": 21,
+    "replies": 9,
+    "quotes": 2
+   },
+   "ref": {
+    "id": "2053181971644416080",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-05-09T18:35:02.000Z",
+    "text": "The human-perceived RGB is image 1 and the Tesla AI photon count reconstruction is image 2.\n\nThis is why Tesla FSD can see so well at night or through extreme glare.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HH5eH0kbYAE6TjX.jpg",
+      "width": 1478,
+      "height": 946
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HH5eH0pbAAABYsv.jpg",
+      "width": 1920,
+      "height": 1206
+     }
+    ],
+    "conversation_id": "2053181971644416080"
+   },
+   "reply_to": {
+    "id": "2124337665495720086",
+    "username": "schrep"
+   },
+   "conversation_id": "2124277174509404424"
+  },
+  {
+   "id": "2124340305004769596",
+   "username": "DilreetR",
+   "name": "Dilreet Raju",
+   "created_at": "2026-11-22T03:12:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/DilreetR/status/2124340305004769596",
+   "kind": "reply",
+   "text": "@gergman91 @aelluswamy Everything",
+   "urls": [],
+   "metrics": {
+    "likes": 444,
+    "reposts": 6,
+    "replies": 3,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124322888950128714",
+    "username": "gergman91"
+   },
+   "conversation_id": "2124237500709531726"
+  },
+  {
+   "id": "2124237500709531726",
+   "username": "DilreetR",
+   "name": "Dilreet Raju",
+   "created_at": "2026-11-21T20:24:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/DilreetR/status/2124237500709531726",
+   "kind": "quote",
+   "text": "The hardest I’ve ever worked in my life was helping codesign the vision encoder to squeeze out the last few percents of MFU from AI4.\n\nHuge shoutout to the team and @aelluswamy for getting V15 out!",
+   "urls": [],
+   "metrics": {
+    "likes": 3846,
+    "reposts": 158,
+    "replies": 128,
+    "quotes": 16
+   },
+   "ref": {
+    "id": "2124222447855743019",
+    "author_id": "13298072",
+    "username": "Tesla",
+    "name": "Tesla",
+    "created_at": "2026-11-21T19:24:32.000Z",
+    "text": "FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network\n\nSafety\n25x better handling of safety critical cases\n\nTesla Reality View \nAdds a live visualization of the drive that lets you see & control what FSD is planning to do\n\nNavigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route.\n\nYou also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather.\n\nLastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2124221674111512576/img/jtjoJUSLKl6Nz6dX.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/480x270/q3da8s2G4pFdyIbp.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/640x360/Y4p4f2zCeQbtzbVf.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1280x720/CB-ZGrFnTWyL0d6a.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1920x1080/exp2P2D1CbcW1xU7.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+        "w": 3840,
+        "h": 2160,
+        "br": 25128000
+       }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 46506
+     }
+    ],
+    "conversation_id": "2124222447855743019"
+   },
+   "conversation_id": "2124237500709531726"
+  },
+  {
+   "id": "2124376140416684539",
+   "username": "beffjezos",
+   "name": "Beff (e/acc)",
+   "created_at": "2026-11-22T05:35:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/beffjezos/status/2124376140416684539",
+   "kind": "quote",
+   "text": "Took less than 10 years for Transformers to achieve superhuman performance in abstract mathematics and prove the Riemann Hypothesis.\n\nKind of crazy.",
+   "urls": [],
+   "metrics": {
+    "likes": 2584,
+    "reposts": 115,
+    "replies": 61,
+    "quotes": 19
+   },
+   "ref": {
+    "id": "2124284080552374313",
+    "author_id": "14048094",
+    "username": "LyalinDotCom",
+    "name": "Dmitry Lyalin",
+    "created_at": "2026-11-21T23:29:26.000Z",
+    "text": "Attention is all you need.",
+    "conversation_id": "2124284080552374313"
+   },
+   "conversation_id": "2124376140416684539"
+  },
+  {
+   "id": "2124465180902084684",
+   "username": "ElleRen7",
+   "name": "Ren",
+   "created_at": "2026-11-22T11:29:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/ElleRen7/status/2124465180902084684",
+   "kind": "reply",
+   "text": "@elonmusk Can we please just be able to edit replies?",
+   "urls": [],
+   "metrics": {
+    "likes": 333,
+    "reposts": 10,
+    "replies": 17,
+    "quotes": 1
+   },
+   "reply_to": {
+    "id": "2124463501703876939",
+    "username": "elonmusk"
+   },
+   "conversation_id": "2124463264037769352"
+  },
+  {
+   "id": "2124412479359049787",
+   "username": "XFreeze",
+   "name": "X Freeze",
+   "created_at": "2026-11-22T07:59:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/XFreeze/status/2124412479359049787",
+   "kind": "post",
+   "text": "The Boring Company started with a short test tunnel\n\nNow look at how far Elon Musk's tunneling company has come\n\nWhat started as an experiment is turning into a massive underground infrastructure business, and its growing project pipeline is absolutely extraordinary\n\nHere's what's happening:\n\n• Vegas Loop - Operational and expanding, with 14 stations and over 4 MILLION passengers carried\n\n• Giga Texas Cybertunnel - Complete and operational, transporting finished Cybertrucks beneath a highway\n\n• Music City Loop - Actively tunneling in Nashville, with multiple Prufrock machines\n\n• Dubai Loop - 6.4 km pilot with four stations under contract\n\n• Morgan's Inclusion Tunnel - Construction underway in San Antonio\n\n• Universal Orlando tunnel project - Moving through early approvals\n\n• NOLA Loop - New Orleans selected in the Tunnel Vision Challenge\n\n• Tesla Colorado River Tunnel - New tunnel site plan filed in Austin\n\n• UAE Tunnel Program - Partnership targeting over 150 km of underground infrastructure\n\n• Austin–San Antonio Hyperloop - Early concept targeting speeds above 200 mph and trips under 30 minutes\n\nAnd the scale of Vegas Loop alone is impressive:\n\n• 4 MILLION+ passengers transported\n• 68 miles of tunnels approved\n• 123 stations approved\n\nA few years ago, The Boring Company was still proving that its tunneling technology worked\n\nNow it has operational transportation systems, multiple tunneling machines digging underground, international contracts and an expanding pipeline of projects\n\nAnd Elon Musk is bringing the original Hyperloop vision back\n\nThe Boring Company is growing into something much bigger than a tunneling startup\n\nThis is just the beginning",
+   "urls": [],
+   "metrics": {
+    "likes": 2447,
+    "reposts": 265,
+    "replies": 91,
+    "quotes": 25
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124412353261555712/vid/avc1/3016x1626/YY9-e-8vLiiEq53T.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124412353261555712/img/qlKE1Bc97C2KXAQ6.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124412353261555712/vid/avc1/500x270/7TL6czsXl8V-OCXK.mp4",
+       "w": 500,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124412353261555712/vid/avc1/666x360/uQZpmZ_fY892Jol_.mp4",
+       "w": 666,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124412353261555712/vid/avc1/1334x720/eICvwRdlCGDWN2ja.mp4",
+       "w": 1334,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124412353261555712/vid/avc1/2002x1080/5yx8BbOTeGRkWLjO.mp4",
+       "w": 2002,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124412353261555712/vid/avc1/3016x1626/YY9-e-8vLiiEq53T.mp4",
+       "w": 3016,
+       "h": 1626,
+       "br": 25128000
+      }
+     ],
+     "width": 3016,
+     "height": 1626,
+     "duration_ms": 15095
+    }
+   ],
+   "conversation_id": "2124412479359049787"
+  },
+  {
+   "id": "2124368447362449828",
+   "username": "Indian_Bronson",
+   "name": "ib",
+   "created_at": "2026-11-22T05:04:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/Indian_Bronson/status/2124368447362449828",
+   "kind": "quote",
+   "text": "“vision encoder shared between FSD, Robotaxi, and Optimus…trained on millions of internet videos”\n\nThere are going to be humanoid robots EVERYWHERE in big cities the next five years and it is going to be completely insane and world changing.",
+   "urls": [],
+   "metrics": {
+    "likes": 1609,
+    "reposts": 84,
+    "replies": 14,
+    "quotes": 4
+   },
+   "ref": {
+    "id": "2124222447855743019",
+    "author_id": "13298072",
+    "username": "Tesla",
+    "name": "Tesla",
+    "created_at": "2026-11-21T19:24:32.000Z",
+    "text": "FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network\n\nSafety\n25x better handling of safety critical cases\n\nTesla Reality View \nAdds a live visualization of the drive that lets you see & control what FSD is planning to do\n\nNavigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route.\n\nYou also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather.\n\nLastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2124221674111512576/img/jtjoJUSLKl6Nz6dX.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/480x270/q3da8s2G4pFdyIbp.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/640x360/Y4p4f2zCeQbtzbVf.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1280x720/CB-ZGrFnTWyL0d6a.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1920x1080/exp2P2D1CbcW1xU7.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+        "w": 3840,
+        "h": 2160,
+        "br": 25128000
+       }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 46506
+     }
+    ],
+    "conversation_id": "2124222447855743019"
+   },
+   "conversation_id": "2124368447362449828"
+  },
+  {
+   "id": "2124332065885733146",
+   "username": "shivon",
+   "name": "Shivon Zilis",
+   "created_at": "2026-11-22T02:40:07.000Z",
+   "lang": "en",
+   "url": "https://x.com/shivon/status/2124332065885733146",
+   "kind": "reply",
+   "text": "@elonmusk @gailalfaratx @SawyerMerritt Keep Summer Safe",
+   "urls": [],
+   "metrics": {
+    "likes": 1066,
+    "reposts": 27,
+    "replies": 62,
+    "quotes": 5
+   },
+   "reply_to": {
+    "id": "2124331453097906177",
+    "username": "elonmusk"
+   },
+   "conversation_id": "2124294640362791365"
+  },
+  {
+   "id": "2124234358676771099",
+   "username": "Liv_Boeree",
+   "name": "Liv Boeree",
+   "created_at": "2026-11-21T20:11:52.000Z",
+   "lang": "en",
+   "url": "https://x.com/Liv_Boeree/status/2124234358676771099",
+   "kind": "post",
+   "text": "Re the Riemann hypothesis I just find it very funny that some brilliant tizzy German dude in the 1800s decided to go so deep down one absurdly specific yet kinda arbitrary mathematical rabbit hole of whether all the zeros fit on the 1/2 line of a complex number function and it nerdsniped enough of the other tizzies so much that ~170 years later the world cares so much it influences the market cap of a trillion dollar AI company & possibly the direction of the light cone",
+   "urls": [],
+   "metrics": {
+    "likes": 8445,
+    "reposts": 344,
+    "replies": 184,
+    "quotes": 38
+   },
+   "conversation_id": "2124234358676771099"
+  },
+  {
+   "id": "2124223780843307123",
+   "username": "Scobleizer",
+   "name": "Robert Scoble",
+   "created_at": "2026-11-21T19:29:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/Scobleizer/status/2124223780843307123",
+   "kind": "quote",
+   "text": "No one will catch Tesla.\n\nThe fleet is what matters in robotics.\n\nThe bigger the fleet, the more the engineers can do.",
+   "urls": [],
+   "metrics": {
+    "likes": 1838,
+    "reposts": 66,
+    "replies": 54,
+    "quotes": 1
+   },
+   "ref": {
+    "id": "2124223106579669067",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-21T19:27:09.000Z",
+    "text": "BREAKING: Tesla has just announced that FSD V15 is now starting to roll out!\n\nHere's what's new:\n• 25x better handling of safety critical cases\n• Tesla Reality View : Adds a live visualization of the drive that lets you see & control what FSD is planning to do.\n• Navigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route.\n•Better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather.\n• FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories\n\nIt's finally here!",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2124221674111512576/img/jtjoJUSLKl6Nz6dX.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/480x270/q3da8s2G4pFdyIbp.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/640x360/Y4p4f2zCeQbtzbVf.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1280x720/CB-ZGrFnTWyL0d6a.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1920x1080/exp2P2D1CbcW1xU7.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+        "w": 3840,
+        "h": 2160,
+        "br": 25128000
+       }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 46506
+     }
+    ],
+    "conversation_id": "2124223106579669067"
+   },
+   "conversation_id": "2124223780843307123"
+  },
+  {
+   "id": "2124359438123606107",
+   "username": "wholemars",
+   "name": "Whole Mars Catalog",
+   "created_at": "2026-11-22T04:28:53.000Z",
+   "lang": "en",
+   "url": "https://x.com/wholemars/status/2124359438123606107",
+   "kind": "post",
+   "text": "The new Tesla Reality View looks kind of messy compared to the clean old school visualizations, sort of like early AI generated images. For something generating a bunch of frames every second that needs to run on the car computer, it's not going to look perfect.\n\nBut this is clearly the right approach for the future. It scales very well as the model improves and as the on board inference compute on the car scales. As time goes on, it will look better and better until it's almost indistinguishable from reality.\n\nIt's also better at being a visualization. It represents precisely what the model is seeing and thinking, is simpler, and uses less compute than the old process.\n\nUltimately we're going to look back at this 1.0 version of reality view like we look back at the colored rectangles on FSD Beta 1. But even though it's not perfect, this is clearly the right technical approach for the future and solves a lot of problems while elegantly simplifying the tech stack.\n\nThe better the model and the chips get, the better reality view will look. And since the models and chips are improving rapidly, it's good to bet on and ride the wave of that continuous improvement.\n\nThis is classic Tesla. Deleting a part and process and replacing it with something much better, that's much more bitter lesson pilled.",
+   "urls": [],
+   "metrics": {
+    "likes": 836,
+    "reposts": 27,
+    "replies": 71,
+    "quotes": 4
+   },
+   "conversation_id": "2124359438123606107"
+  },
+  {
+   "id": "2124345555610697994",
+   "username": "yunta_tsai",
+   "name": "Yun-Ta Tsai",
+   "created_at": "2026-11-22T03:33:43.000Z",
+   "lang": "en",
+   "url": "https://x.com/yunta_tsai/status/2124345555610697994",
+   "kind": "post",
+   "text": "Many teams deserve thanks for the lightning-fast iteration speed. Ideas can only be iterated as fast as the slowest part of the company, yet the entire company moves at lightning speed in a tight boat.\n\nTeams from chips, compilers, tooling, vehicle software and programs, systems, operations, quality assurance, ML and eval infrastructure, and many more make the challenging journey a pleasant experience. Best teams in the world.",
+   "urls": [],
+   "metrics": {
+    "likes": 1465,
+    "reposts": 68,
+    "replies": 50,
+    "quotes": 8
+   },
+   "conversation_id": "2124345555610697994"
+  },
+  {
+   "id": "2124413163454255246",
+   "username": "BLKMDL3",
+   "name": "Zack",
+   "created_at": "2026-11-22T08:02:22.000Z",
+   "lang": "en",
+   "url": "https://x.com/BLKMDL3/status/2124413163454255246",
+   "kind": "post",
+   "text": "Here is my initial FSD v15 review after driving with it all afternoon and evening:\n\nFirst off, Elon was right. This update is a BANGER! Tesla Reality View is out of this world and so insanely cool I’m still trying to process it all.\n\nFSD V15.0.1 brings so many improvements behind the scenes, in addition to the wildly cool UI.\n\nTesla Reality View IS AMAZING! Pictures and video don’t do it any justice, this is something that has to be experienced to truly understand. Got to take a few friends tonight on drives to show them and every single person was blown away by it. The amount of detail it shows and generates is wild and so impressive. It shows reflection in the car, buildings, trees, turn arrows on the display and more.\n\nFSD v15 now has pothole avoidance! I had it swerve and avoid/straddle a few potholes tonight that were difficult for me to see in the dark.\n\nAnother great new feature in FSD v15 is speed camera slowdown. As you approach a speed camera, it automatically slows smoothly to the speed limit if you are in a quicker profile. This is a huge quality of life improvement especially as more cities get speed cameras.\n\nParking seems near unchanged from the last build, I feel it picking spots quicker especially at the supercharger I went to tonight. Seems to be preferring to park in the first or second open spot it sees which is great, but it tried to park in one handicap spot- otherwise good. By far, the coolest part is Tesla Reality View. Holy crap is it insane to watch while parking. It’s the best backup/360 camera money can buy and such a detailed and clear view.\n\nAnother new change I haven’t seen many people talk about is the turn signal fade. On FSD, the turn signal sound gets quieter after a few clicks. This is so nice if you’re sitting at a red light and makes drives more peaceful.\n\nQuiet Mode is also so nice at night. It darkens the display and just shows arrival time; music, climate on the bottom and a quick grok button on the top. Another feature that makes it feel like a Robotaxi UI and a peaceful supervising experience.\n\nAnother improvement is much better handling of dips and speed bumps. The past couple updates it’s been a bit too fast in my Model Y, and it’s now so smooth.\n\nThe nag is definitely reduced. The last couple versions of v14.3 had been sometimes a bit strict, but definitely more relaxed in v15.0.1. Another thing I noticed is way less wiper washing, a very welcome change.\n\nPersonalized parking preferences are SO cool. At home, I can click on a person icon on the map and choose street parking or driveway, and it backs into the driveway EXACTLY in the spot I park my Model Y. It leared where I park and knows it.\n\nIt also now lets you choose which lot you want to park in if the mall or store has multiple lots, you can select it on the map, worked at the mall, Costco, and Home Depot tonight.\n\nI need to touch on Tesla Reality View again because it’s just that cool. It really feels like you’re in a video game like NFS or GTA. I’m blown away by this and didn’t expect it at all. Tesla teams COOKED with it, I’ve seen so many on X now wanting Teslas because of it. I drove down Rodeo Drive tonight as well as by the SpaceX Falcon 9 and the views were so cool. Another place it’s cool is in wooded areas or tree filled streets, the way it shows everything is spectacular. Parking garages also give a cool look to them with the roof incorporated into the top of the UI. I didn’t think FSD could get this much better, as it was already so good and it did.\n\nI absolutely can’t wait to see what else is coming in the future and driving this more on road trips.\n\n@elonmusk, you were right- V15 is incredible and super human! Huge congrats to the Tesla team on this, what a sick update. @TeslaSI and UI teams did a fantastic job, thank you all.",
+   "urls": [],
+   "metrics": {
+    "likes": 5306,
+    "reposts": 410,
+    "replies": 217,
+    "quotes": 39
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXtugtZagAAKGfA.jpg",
+     "width": 2048,
+     "height": 1840
+    }
+   ],
+   "conversation_id": "2124413163454255246"
+  },
+  {
+   "id": "2124340777547333804",
+   "username": "anabology",
+   "name": "anabology",
+   "created_at": "2026-11-22T03:14:44.000Z",
+   "lang": "en",
+   "url": "https://x.com/anabology/status/2124340777547333804",
+   "kind": "quote",
+   "text": "I need to get a Tesla so I can use the FSD V15 diffusion model to make a music video. Business expense",
+   "urls": [],
+   "metrics": {
+    "likes": 1950,
+    "reposts": 47,
+    "replies": 44,
+    "quotes": 4
+   },
+   "ref": {
+    "id": "2124308533944672413",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-22T01:06:36.000Z",
+    "text": "Taking Tesla FSD V15 on the highway. Love all the floating arrows lol",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2124308106804903936/vid/avc1/3840x2160/BaiqGuYI2lcLx8_J.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2124308106804903936/img/AcClam69I-ir2kPZ.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2124308106804903936/vid/avc1/480x270/cu09A4poNORplSM3.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124308106804903936/vid/avc1/640x360/nAmgNsuW0aw4Vn_a.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124308106804903936/vid/avc1/1280x720/dwrEmV3P6B0llotF.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124308106804903936/vid/avc1/1920x1080/RVpcjGPRoI9M6MyG.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124308106804903936/vid/avc1/3840x2160/BaiqGuYI2lcLx8_J.mp4",
+        "w": 3840,
+        "h": 2160,
+        "br": 25128000
+       }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 57901
+     }
+    ],
+    "conversation_id": "2124308533944672413"
+   },
+   "conversation_id": "2124340777547333804"
+  },
+  {
+   "id": "2124221002049810874",
+   "username": "LilMoonLambo",
+   "name": "LilMoonLambo",
+   "created_at": "2026-11-21T19:18:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/LilMoonLambo/status/2124221002049810874",
+   "kind": "quote",
+   "text": "Anthropic solved the biggest unsolved problem in math for 167 years and it’s just a butthole",
+   "urls": [],
+   "metrics": {
+    "likes": 8592,
+    "reposts": 381,
+    "replies": 117,
+    "quotes": 30
+   },
+   "ref": {
+    "id": "2123826942185181510",
+    "author_id": "1995119133936291840",
+    "username": "itsreallyvivek",
+    "name": "vivek",
+    "created_at": "2026-11-20T17:12:56.000Z",
+    "text": "Riemann Hypothesis",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXlZVzrbkAE4wpK.jpg",
+      "width": 1024,
+      "height": 768
+     }
+    ],
+    "conversation_id": "2123826942185181510"
+   },
+   "conversation_id": "2124221002049810874"
+  },
+  {
+   "id": "2124396352704524494",
+   "username": "boringcompany",
+   "name": "The Boring Company",
+   "created_at": "2026-11-22T06:55:34.000Z",
+   "lang": "en",
+   "url": "https://x.com/boringcompany/status/2124396352704524494",
+   "kind": "post",
+   "text": "Prufrock-MB3 is alive in Nashville!\n\nOne week of commissioning/close-out, and will be tunneling by end of month.  Two of the four grippers are visible on the right, each which push laterally with ~1 million pounds of force.\n\nPrufrock-MB4 then arrives in December and will be tunneling in January.",
+   "urls": [],
+   "metrics": {
+    "likes": 3309,
+    "reposts": 295,
+    "replies": 117,
+    "quotes": 38
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124396330298593280/vid/avc1/636x1238/H-htRLlrpV0Od2jz.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124396330298593280/img/eh09vhIOsbNj-U3s.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124396330298593280/vid/avc1/320x622/aF9bv9oWLHjfuXq0.mp4",
+       "w": 320,
+       "h": 622,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124396330298593280/vid/avc1/480x934/IlZpkuJXkKFfwtzI.mp4",
+       "w": 480,
+       "h": 934,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124396330298593280/vid/avc1/636x1238/H-htRLlrpV0Od2jz.mp4",
+       "w": 636,
+       "h": 1238,
+       "br": 2176000
+      }
+     ],
+     "width": 636,
+     "height": 1238,
+     "duration_ms": 13205
+    }
+   ],
+   "conversation_id": "2124396352704524494"
+  },
+  {
+   "id": "2124343282347978961",
+   "username": "SawyerMerritt",
+   "name": "Sawyer Merritt",
+   "created_at": "2026-11-22T03:24:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/SawyerMerritt/status/2124343282347978961",
+   "kind": "post",
+   "text": "Here's my 25-minute drive on @Tesla FSD V15 tonight. I go over the new Tesla Reality View, new parking behavior/options, navigation and more.\n\nTesla Reality View is even more mind-blowing in person than how it appears online. It really is something special.  It's the best \"Birds Eye\" view I've ever seen. V15 will also park straight into your garage at home, does a much better job at handling debris in the road, potholes, etc.\n\nI'll have more footage in the coming days/weeks showing all this stuff, but here's a quick first impressions video:",
+   "urls": [],
+   "metrics": {
+    "likes": 5929,
+    "reposts": 586,
+    "replies": 289,
+    "quotes": 72
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124337552295378944/vid/avc1/3840x2160/aLksYP4iT9YqWQBC.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124337552295378944/img/nrgBO1kZ-wNjZCw3.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124337552295378944/vid/avc1/480x270/OXrFBLgCE5l9Aua0.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124337552295378944/vid/avc1/640x360/0j61dr-4GwlLy2jY.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124337552295378944/vid/avc1/1280x720/oMIQDQdAw0wOz0aO.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124337552295378944/vid/avc1/1920x1080/TLAs2PUhrIh_TW9H.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124337552295378944/vid/avc1/3840x2160/aLksYP4iT9YqWQBC.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 1514633
+    }
+   ],
+   "conversation_id": "2124343282347978961"
+  },
+  {
+   "id": "2124293534198976927",
+   "username": "AndresReibel",
+   "name": "Andres Reibel",
+   "created_at": "2026-11-22T00:07:00.000Z",
+   "lang": "tr",
+   "url": "https://x.com/AndresReibel/status/2124293534198976927",
+   "kind": "reply",
+   "text": "@tobi FSD 15 or GTA6 ?",
+   "urls": [],
+   "metrics": {
+    "likes": 120,
+    "reposts": 5,
+    "replies": 6,
+    "quotes": 2
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXsBpSrWcAEp0Hq.jpg",
+     "width": 1920,
+     "height": 1080
+    }
+   ],
+   "reply_to": {
+    "id": "2124292179258380417",
+    "username": "tobi"
+   },
+   "conversation_id": "2124292179258380417"
+  },
+  {
+   "id": "2124236067905917083",
+   "username": "gbtechnologia",
+   "name": "Grant Brown",
+   "created_at": "2026-11-21T20:18:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/gbtechnologia/status/2124236067905917083",
+   "kind": "post",
+   "text": "My @Tesla Model Y saved my wife and son’s life yesterday. I do not have words to express my gratitude for the great gift they gave me, I will never be able to thank them enough. If you know a Tesla employee please give them a hug and thank them on my behalf. God bless Tesla.",
+   "urls": [],
+   "metrics": {
+    "likes": 2367,
+    "reposts": 114,
+    "replies": 56,
+    "quotes": 7
+   },
+   "conversation_id": "2124236067905917083"
+  },
+  {
+   "id": "2124339427166351571",
+   "username": "KettlebellDan",
+   "name": "Dan",
+   "created_at": "2026-11-22T03:09:22.000Z",
+   "lang": "en",
+   "url": "https://x.com/KettlebellDan/status/2124339427166351571",
+   "kind": "post",
+   "text": "It’s notes like this that make being a dad all worth it",
+   "urls": [],
+   "metrics": {
+    "likes": 131,
+    "reposts": 2,
+    "replies": 11,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXsrckIacAAsFVe.jpg",
+     "width": 1536,
+     "height": 2048
+    }
+   ],
+   "conversation_id": "2124339427166351571"
+  },
+  {
+   "id": "2124333580000297213",
+   "username": "DirtyTesLa",
+   "name": "Dirty Tesla",
+   "created_at": "2026-11-22T02:46:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/DirtyTesLa/status/2124333580000297213",
+   "kind": "post",
+   "text": "You are under hyped for Reality View. It is absolutely amazing.\n\nIn the last clip, I was actually surprised when I looked up and the arrows weren't actually floating mid air 🤣",
+   "urls": [],
+   "metrics": {
+    "likes": 3083,
+    "reposts": 223,
+    "replies": 144,
+    "quotes": 26
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124333188545675264/vid/avc1/1670x840/pn4etk-juv-KF-4i.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124333188545675264/img/RPARWJAIU0_O4IiT.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124333188545675264/vid/avc1/536x270/8jg-klbxHu4YmwIh.mp4",
+       "w": 536,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124333188545675264/vid/avc1/714x360/fAkMpnIy_piYH5RA.mp4",
+       "w": 714,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124333188545675264/vid/avc1/1430x720/lbfoYkCOt_Vida2a.mp4",
+       "w": 1430,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124333188545675264/vid/avc1/1670x840/pn4etk-juv-KF-4i.mp4",
+       "w": 1670,
+       "h": 840,
+       "br": 10368000
+      }
+     ],
+     "width": 1670,
+     "height": 840,
+     "duration_ms": 30666
+    },
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124333205931077633/vid/avc1/1654x764/Pcg0fDXCKMVWyvCl.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124333205931077633/img/v5k8VA-7cvr12q2I.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124333205931077633/vid/avc1/584x270/dROyWlhzVn6AhOU8.mp4",
+       "w": 584,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124333205931077633/vid/avc1/778x360/UAOwR5TwHQFVL05u.mp4",
+       "w": 778,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124333205931077633/vid/avc1/1654x764/Pcg0fDXCKMVWyvCl.mp4",
+       "w": 1654,
+       "h": 764,
+       "br": 2176000
+      }
+     ],
+     "width": 1654,
+     "height": 764,
+     "duration_ms": 35266
+    },
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124333335790997505/vid/avc1/1686x868/MBqqyKd6moKNoXSS.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124333335790997505/img/hvYUhHwk9470RrTp.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124333335790997505/vid/avc1/524x270/gteAUND6oCAhU8hb.mp4",
+       "w": 524,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124333335790997505/vid/avc1/698x360/-m9EogYPUSON3Ohn.mp4",
+       "w": 698,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124333335790997505/vid/avc1/1398x720/N8BTMtS5OJ8M1KRo.mp4",
+       "w": 1398,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124333335790997505/vid/avc1/1686x868/MBqqyKd6moKNoXSS.mp4",
+       "w": 1686,
+       "h": 868,
+       "br": 10368000
+      }
+     ],
+     "width": 1686,
+     "height": 868,
+     "duration_ms": 28033
+    }
+   ],
+   "conversation_id": "2124333580000297213"
+  },
+  {
+   "id": "2124277174509404424",
+   "username": "schrep",
+   "name": "Mike Schroepfer",
+   "created_at": "2026-11-21T23:02:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/schrep/status/2124277174509404424",
+   "kind": "quote",
+   "text": "Progress here is very impressive.  I still wish the safety data was communicated as true apples to apples comparison (and opened so it could be vetted by third parties).  Confused why radar isn't used - but you can't deny the progress.",
+   "urls": [],
+   "metrics": {
+    "likes": 561,
+    "reposts": 28,
+    "replies": 106,
+    "quotes": 4
+   },
+   "ref": {
+    "id": "2124222447855743019",
+    "author_id": "13298072",
+    "username": "Tesla",
+    "name": "Tesla",
+    "created_at": "2026-11-21T19:24:32.000Z",
+    "text": "FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network\n\nSafety\n25x better handling of safety critical cases\n\nTesla Reality View \nAdds a live visualization of the drive that lets you see & control what FSD is planning to do\n\nNavigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route.\n\nYou also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather.\n\nLastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2124221674111512576/img/jtjoJUSLKl6Nz6dX.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/480x270/q3da8s2G4pFdyIbp.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/640x360/Y4p4f2zCeQbtzbVf.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1280x720/CB-ZGrFnTWyL0d6a.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1920x1080/exp2P2D1CbcW1xU7.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+        "w": 3840,
+        "h": 2160,
+        "br": 25128000
+       }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 46506
+     }
+    ],
+    "conversation_id": "2124222447855743019"
+   },
+   "conversation_id": "2124277174509404424"
+  },
+  {
+   "id": "2124298527027388662",
+   "username": "lawsonfulton",
+   "name": "Lawson",
+   "created_at": "2026-11-22T00:26:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/lawsonfulton/status/2124298527027388662",
+   "kind": "reply",
+   "text": "@johnathan_xie @TerryWa95074331 Rest of the team also deserves a huge amount of credit:\n@Shahanneda @amyxlase @lalShamit @JiahaoLi95",
+   "urls": [],
+   "metrics": {
+    "likes": 684,
+    "reposts": 23,
+    "replies": 23,
+    "quotes": 4
+   },
+   "reply_to": {
+    "id": "2124297970598428823",
+    "username": "lawsonfulton"
+   },
+   "conversation_id": "2124297970598428823"
+  },
+  {
+   "id": "2124026987601686775",
+   "username": "ccodyy69",
+   "name": "cody",
+   "created_at": "2026-11-21T06:27:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/ccodyy69/status/2124026987601686775",
+   "kind": "post",
+   "text": "Every vibecoder is one error message away from becoming a real developer",
+   "urls": [],
+   "metrics": {
+    "likes": 3636,
+    "reposts": 237,
+    "replies": 152,
+    "quotes": 58
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXoPSBrbcAAlV85.jpg",
+     "width": 2160,
+     "height": 2448
+    }
+   ],
+   "conversation_id": "2124026987601686775"
+  },
+  {
+   "id": "2124321661075992654",
+   "username": "SawyerMerritt",
+   "name": "Sawyer Merritt",
+   "created_at": "2026-11-22T01:58:46.000Z",
+   "lang": "en",
+   "url": "https://x.com/SawyerMerritt/status/2124321661075992654",
+   "kind": "post",
+   "text": "The FSD popup is officially gone. No more needing to select why you disengaged.",
+   "urls": [],
+   "metrics": {
+    "likes": 3910,
+    "reposts": 75,
+    "replies": 193,
+    "quotes": 19
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXsbPxqXIAAH04u.jpg",
+     "width": 3724,
+     "height": 4096
+    }
+   ],
+   "conversation_id": "2124321661075992654"
+  },
+  {
+   "id": "2124294640362791365",
+   "username": "SawyerMerritt",
+   "name": "Sawyer Merritt",
+   "created_at": "2026-11-22T00:11:24.000Z",
+   "lang": "en",
+   "url": "https://x.com/SawyerMerritt/status/2124294640362791365",
+   "kind": "post",
+   "text": "OM MY GOD the visualizations on FSD V15 are mind-blowing! Never seen anything like this before. This is such a massive upgrade. The visualization is also there when FSD Is not on!\n\nTesla absolutely cooked with this update.",
+   "urls": [],
+   "metrics": {
+    "likes": 10808,
+    "reposts": 764,
+    "replies": 485,
+    "quotes": 208
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124294392013877248/vid/avc1/3840x2160/yGJPIn6l6bxF0Si8.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124294392013877248/img/Nq0d15QcYkr6IfGB.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124294392013877248/vid/avc1/480x270/t5tvM7iJg1LxMVYE.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124294392013877248/vid/avc1/640x360/ITavYY8ujmDidC8w.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124294392013877248/vid/avc1/1280x720/pvlqKIPr9YYrodBA.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124294392013877248/vid/avc1/1920x1080/ZqJcY4gosu6Xeb2O.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124294392013877248/vid/avc1/3840x2160/yGJPIn6l6bxF0Si8.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 30496
+    }
+   ],
+   "conversation_id": "2124294640362791365"
+  },
+  {
+   "id": "2124303507570221181",
+   "username": "DillonLoomis",
+   "name": "Dillon Loomis",
+   "created_at": "2026-11-22T00:46:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/DillonLoomis/status/2124303507570221181",
+   "kind": "post",
+   "text": "The chevrons also show you where FSD V15 intends to park and Elon said you can just tap the screen to adjust the precise location if you want it to choose a different spot/area",
+   "urls": [],
+   "metrics": {
+    "likes": 2571,
+    "reposts": 212,
+    "replies": 101,
+    "quotes": 28
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124293866505240576/vid/avc1/1920x1080/cVWd8C7BzkwSpfVF.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124293866505240576/img/o4u-ybqq7CLC3eaA.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124293866505240576/vid/avc1/480x270/6MqDPEgl9oP1Ft8u.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124293866505240576/vid/avc1/640x360/XA5jqNpejA4FHj_Z.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124293866505240576/vid/avc1/1280x720/hxbmNBeA3E-16Y3e.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124293866505240576/vid/avc1/1920x1080/cVWd8C7BzkwSpfVF.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 103102
+    }
+   ],
+   "conversation_id": "2124303507570221181"
+  },
+  {
+   "id": "2124314532126323042",
+   "username": "cstanley",
+   "name": "Christopher Stanley",
+   "created_at": "2026-11-22T01:30:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/cstanley/status/2124314532126323042",
+   "kind": "post",
+   "text": "I just had Grok @bot go through all of my Amazon orders and look for refunds that were never issued.\n\nIt found $590.62 in missing refunds over several years, opened a support chat, talked to customer service, and got them to agree to issue the refunds.\n\nThis product literally pays for itself 🤯",
+   "urls": [],
+   "metrics": {
+    "likes": 4252,
+    "reposts": 288,
+    "replies": 430,
+    "quotes": 58
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXsUzugWUAAdOdF.jpg",
+     "width": 1206,
+     "height": 1259
+    }
+   ],
+   "conversation_id": "2124314532126323042"
+  },
+  {
+   "id": "2124322570652528876",
+   "username": "anabology",
+   "name": "anabology",
+   "created_at": "2026-11-22T02:02:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/anabology/status/2124322570652528876",
+   "kind": "quote",
+   "text": "I let Gemini 4 Neon make whatever music vid it wanted\n\nAt first it failed pretty bad imo, but after a couple days of poking it a bunch:\n\n\"THE CURRENT THING\"",
+   "urls": [],
+   "metrics": {
+    "likes": 2110,
+    "reposts": 214,
+    "replies": 178,
+    "quotes": 47
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124322406088966144/vid/avc1/1920x1080/O39oAeqqPyw5tMei.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124322406088966144/img/pfI4VnGJrTRlJqqn.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124322406088966144/vid/avc1/480x270/iTLJOWjCDEHMETam.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124322406088966144/vid/avc1/640x360/2eNU_ezvqUrlB5P-.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124322406088966144/vid/avc1/1280x720/GVMTQy93uvZMGytS.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124322406088966144/vid/avc1/1920x1080/O39oAeqqPyw5tMei.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 226005
+    }
+   ],
+   "ref": {
+    "id": "2124136728122286519",
+    "author_id": "1650509966388731904",
+    "username": "anabology",
+    "name": "anabology",
+    "created_at": "2026-11-21T13:43:55.000Z",
+    "text": "Neon failed my informal music vid bench pretty bad lol",
+    "conversation_id": "2124136728122286519"
+   },
+   "conversation_id": "2124322570652528876"
+  },
+  {
+   "id": "2123340174784430539",
+   "username": "JamesEsses",
+   "name": "James Esses",
+   "created_at": "2026-11-19T08:58:42.000Z",
+   "lang": "en",
+   "url": "https://x.com/JamesEsses/status/2123340174784430539",
+   "kind": "post",
+   "text": "🚨This is why the Conversion Practices Bill is so dangerous🚨\n\nTwo trans activists have published an attempted hit job on me, in which they enlisted people to contact me and pose as concerned relatives seeking therapy for a distressed child.\n\nThey have used my email responses to allege that I am a “conversion therapist”.\n\nOf course, there is no basis for this allegation whatsoever (you can read the email yourself to see this).\n\nShockingly, they also claim that I am “genocidal”.\n\nAnd, as if I didn’t need further evidence that this is gutter journalism, I have discovered they have doctored some of the wording in the email I sent to this prospective client (which again I can prove).\n\nIf this is happening to therapists working in this space before legislation has come in to force, just imagine how chilling things will be once the monstrous Bill is law.\nhttps://sophie-molly-reports.beehiiv.com/p/anti-trans-activist-charges-95-per-conversion-therapy-session",
+   "urls": [
+    "https://sophie-molly-reports.beehiiv.com/p/anti-trans-activist-charges-95-per-conversion-therapy-session"
+   ],
+   "metrics": {
+    "likes": 1890,
+    "reposts": 530,
+    "replies": 104,
+    "quotes": 34
+   },
+   "conversation_id": "2123340174784430539"
+  },
+  {
+   "id": "2124142861461721366",
+   "username": "ICannot_Enough",
+   "name": "James Stephenson",
+   "created_at": "2026-11-21T14:08:17.000Z",
+   "lang": "en",
+   "url": "https://x.com/ICannot_Enough/status/2124142861461721366",
+   "kind": "quote",
+   "text": "Hey @elonmusk : perhaps a more rapidly reusable solution than ablative material can be built onto the tower where there’s no weight penalty?\n\nVideo render courtesy: Grok @bot",
+   "urls": [],
+   "metrics": {
+    "likes": 3268,
+    "reposts": 119,
+    "replies": 380,
+    "quotes": 22
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124142808126676992/vid/avc1/1080x1620/te9r7V7-dyksbFIe.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124142808126676992/img/BU3KiF-MYixAPwn2.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124142808126676992/vid/avc1/320x480/tmJ1l_2EtiPeZQA7.mp4",
+       "w": 320,
+       "h": 480,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124142808126676992/vid/avc1/480x720/r3JRok4x0Ms37bLQ.mp4",
+       "w": 480,
+       "h": 720,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124142808126676992/vid/avc1/720x1080/YMhWY6OoyVePe0jW.mp4",
+       "w": 720,
+       "h": 1080,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124142808126676992/vid/avc1/1080x1620/te9r7V7-dyksbFIe.mp4",
+       "w": 1080,
+       "h": 1620,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1620,
+     "duration_ms": 36800
+    }
+   ],
+   "ref": {
+    "id": "2122504892254454082",
+    "author_id": "799534561",
+    "username": "WaitWhat",
+    "name": "Wait What",
+    "created_at": "2026-11-17T01:39:35.000Z",
+    "text": "Whoa you can see the side of the starship getting ripped off as the tower arms scrape against it.",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2122406654280970240/vid/avc1/720x1080/QlWF5_lckdGtTL_W.mp4",
+      "poster": "https://pbs.twimg.com/media/HXRNn1LXAAAjcWV.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2122406654280970240/vid/avc1/320x480/Xoql2YWx2c8pEO3C.mp4",
+        "w": 320,
+        "h": 480,
+        "br": 632000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122406654280970240/vid/avc1/480x720/GyysGExb9JA-sq4a.mp4",
+        "w": 480,
+        "h": 720,
+        "br": 950000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122406654280970240/vid/avc1/720x1080/QlWF5_lckdGtTL_W.mp4",
+        "w": 720,
+        "h": 1080,
+        "br": 2176000
+       }
+      ],
+      "width": 1080,
+      "height": 1620,
+      "duration_ms": 4899
+     }
+    ],
+    "conversation_id": "2122504892254454082"
+   },
+   "conversation_id": "2124142861461721366"
+  },
+  {
+   "id": "2124289366499487844",
+   "username": "ryanthawks",
+   "name": "RyanTHawks",
+   "created_at": "2026-11-21T23:50:27.000Z",
+   "lang": "en",
+   "url": "https://x.com/ryanthawks/status/2124289366499487844",
+   "kind": "reply",
+   "text": "@larsencc @bot @friend I have a few connected. I might have a problem...",
+   "urls": [],
+   "metrics": {
+    "likes": 6,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXr93jIW4AAom2R.png",
+     "width": 628,
+     "height": 446
+    }
+   ],
+   "reply_to": {
+    "id": "2124283520784945172",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124283520784945172"
+  },
+  {
+   "id": "2124284894830354483",
+   "username": "tobi",
+   "name": "tobi lutke",
+   "created_at": "2026-11-21T23:32:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/tobi/status/2124284894830354483",
+   "kind": "quote",
+   "text": "This is so unbelievably impressive",
+   "urls": [],
+   "metrics": {
+    "likes": 3138,
+    "reposts": 90,
+    "replies": 58,
+    "quotes": 5
+   },
+   "ref": {
+    "id": "2124226544659038335",
+    "author_id": "1499522644483325952",
+    "username": "SmokeAwayyy",
+    "name": "Smoke-away",
+    "created_at": "2026-11-21T19:40:49.000Z",
+    "text": "'Reality View' in Tesla FSD v15\n\n> Adds a live visualization of the drive that lets you see & control what FSD is planning to do.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXrEnUzbIAAc7gm.jpg",
+      "width": 1519,
+      "height": 857
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXrEnXCaYAAbxnr.png",
+      "width": 733,
+      "height": 459
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXrEnU4akAAbc_P.png",
+      "width": 735,
+      "height": 451
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXrEnU3a4AAAC4z.png",
+      "width": 735,
+      "height": 457
+     }
+    ],
+    "conversation_id": "2124226544659038335",
+    "quote": {
+     "id": "2124222447855743019",
+     "author_id": "13298072",
+     "username": "Tesla",
+     "name": "Tesla",
+     "created_at": "2026-11-21T19:24:32.000Z",
+     "text": "FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network\n\nSafety\n25x better handling of safety critical cases\n\nTesla Reality View \nAdds a live visualization of the drive that lets you see & control what FSD is planning to do\n\nNavigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route.\n\nYou also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather.\n\nLastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2124221674111512576/img/jtjoJUSLKl6Nz6dX.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/480x270/q3da8s2G4pFdyIbp.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/640x360/Y4p4f2zCeQbtzbVf.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1280x720/CB-ZGrFnTWyL0d6a.mp4",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1920x1080/exp2P2D1CbcW1xU7.mp4",
+         "w": 1920,
+         "h": 1080,
+         "br": 10368000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+         "w": 3840,
+         "h": 2160,
+         "br": 25128000
+        }
+       ],
+       "width": 3840,
+       "height": 2160,
+       "duration_ms": 46506
+      }
+     ],
+     "conversation_id": "2124222447855743019"
+    }
+   },
+   "conversation_id": "2124284894830354483"
+  },
+  {
+   "id": "2124278580620525984",
+   "username": "jamesdouma",
+   "name": "jimmah",
+   "created_at": "2026-11-21T23:07:35.000Z",
+   "lang": "en",
+   "url": "https://x.com/jamesdouma/status/2124278580620525984",
+   "kind": "quote",
+   "text": "Half of me is “meh, why does the driver need to see anything” the other half is “OMG this is sweeet!”",
+   "urls": [],
+   "metrics": {
+    "likes": 1177,
+    "reposts": 25,
+    "replies": 47,
+    "quotes": 2
+   },
+   "ref": {
+    "id": "2124270426402836626",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-21T22:35:11.000Z",
+    "text": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in … https://twitter.com/aelluswamy/status/2124230700547326435",
+    "conversation_id": "2124270426402836626"
+   },
+   "conversation_id": "2124278580620525984"
+  },
+  {
+   "id": "2124261869200589024",
+   "username": "Scobleizer",
+   "name": "Robert Scoble",
+   "created_at": "2026-11-21T22:01:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/Scobleizer/status/2124261869200589024",
+   "kind": "quote",
+   "text": "Gaussian Splats lead to more trust.\n\nA neural network makes the digital twin around you that Tesla just announced/demonstrated here.\n\nOr, rather, joins the real world that it is collecting from your car's cameras and mixing it into a digital twin it has already imaged of the road ahead and real world around you.\n\nThis is a software platform that will let Tesla continue to run ahead of anyone attempting to compete for years.\n\nPeople keep asking me why Robotaxi will be better than Waymo, or Zoox, or other vehicles that come out of China.\n\nBecause soon the neural network will gather road data from other vehicles and join that into the visualization too.\n\nImagine a house fire starts in San Francisco.\n\nA Tesla rolls by. Images the house fire for its own display. But it knows that is different than the \"ground truth\" digital twin of the house that it captured sometime in the past.\n\nIt shares just that house and fire with the network.\n\nAll of a sudden, if you are somewhere else in the city and you see a plume of smoke you can zoom in on the display to see what's causing that. And there is a visualization of the house burning.\n\nThen the firetrucks arrive.\n\nAnd another Tesla rolls by. And captures the changes happening, and shares that with the network.\n\nThen the first responders start laying hose, and closing streets, around the fire, and start working to extinguish the fire.\n\nEveryone can watch to see what's happening in that neighborhood as more Tesla's roll by.\n\nAnd someday Optimus will join the digital twin. So, if an Optimus walks by the scene, that data gets put onto the network.\n\nWhen my neighbor's house caught fire I watched all this. And the owner was out front recording his house burning before the trucks even arrived on his phone.\n\nImagine that someone capturing it for X was live streaming it here.\n\nThat visual data could be incorporated too.\n\nEverything you see on the visualization is a voxel.\n\nComputer vision can watch all voxels and understand the changes in the real world.\n\nAnd report it to everyone.\n\nAnd can even incorporate first reponder radio from https://somafm.com/scanner/\n\nSo everyone knows what is going on and can see it on their phones, glasses, or Tesla screens.\n\nWhat was just announced is a new way to render the city in real time.\n\nImagine you can zoom into your favorite BBQ or Burritto joint and see how long the line is before you even take a Robotaxi there.\n\nIn Austin I took a Cybercab to one of its BBQ places and when I got there learned there was a two hour line.\n\nImagine that the Robotaxi app would be able to show you, in real time, the line and estimate it accurately based on historical data.\n\nBack in 2005 a Microsoft Researcher showed me a system that could predict how long it would take you to get to Seattle over the bridge based on historical data. That saved a lot of people pain going across the bridge, but it wasn't real time.\n\nBetween Microsoft's campus today and Seattle are hundreds of Teslas on the road right now.\n\nThis is why I say the fleet is what matters from here on and why others won't be able to catch up.\n\nNo other robot platform has Grok. Has X. Has an AI team that is executing on this this way.\n\nMy consumer research shows that trust is a huge reason why people will switch from Uber to Tesla, or Waymo to Tesla.\n\nThe one that shows consumers more things about the city around them will gain more trust.\n\nWhen I took a Cybercab to Austin City Limits a few weeks ago it didn't tell me how to get to the entrance of the festival. Or what it looked like. Or how long the lines were. Or how to get a pedicab to travel the mile from where it dropped me off to the front gate.\n\nI predict that it will within a year.\n\nAnd I only trust my life to Tesla's AI every day. Waymo every once in a while. (If you use an autonomous vehicle you are trusting your life to AI).\n\nThat trust will grow as it shows us the real world in more and more detail.\n\nAnd only Elon has all the pieces to increase that trust.\n\nNow, when Optimus comes? It will do the same in your home.\n\nImagine you have 15 plants, like we do in our home, to water.\n\nSome need watering every day. Others need watering every week.\n\nImagine walking around a digital twin of your home and clicking on each plant and telling it \"water this one every week.\"\n\nAmong many other things, like doing a security detail. \"Check the oven after we leave and make sure it is properly turned off.\" Or \"when we leave, check the garage door, gate, and front door are properly secured.\"\n\nAll of this work leads to this.\n\nIt is why I don't see any real competition coming for Tesla robots.\n\nTrust is the game. Trust improves with better safety and visualizations.\n\nAll this will be obvious to everyone within two years. Especially in cities of the future that allow autonomous vehicles.\n\nAnd being in such a city will even improve your life. You'll be able to pull out your phone and see what's going on in your city even if you don't have a robot or use an autonomous vehicle.\n\nThe data will come from a Tesla rolling by. Or a Tesla owner standing in line. Or an Optimus robot walking around doing tasks for its owner.\n\nThe fleet is the game. No one else will be able to match it in America.",
+   "urls": [
+    "https://somafm.com/scanner/"
+   ],
+   "metrics": {
+    "likes": 1102,
+    "reposts": 112,
+    "replies": 58,
+    "quotes": 20
+   },
+   "ref": {
+    "id": "2124222447855743019",
+    "author_id": "13298072",
+    "username": "Tesla",
+    "name": "Tesla",
+    "created_at": "2026-11-21T19:24:32.000Z",
+    "text": "FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network\n\nSafety\n25x better handling of safety critical cases\n\nTesla Reality View \nAdds a live visualization of the drive that lets you see & control what FSD is planning to do\n\nNavigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route.\n\nYou also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather.\n\nLastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2124221674111512576/img/jtjoJUSLKl6Nz6dX.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/480x270/q3da8s2G4pFdyIbp.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/640x360/Y4p4f2zCeQbtzbVf.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1280x720/CB-ZGrFnTWyL0d6a.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1920x1080/exp2P2D1CbcW1xU7.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+        "w": 3840,
+        "h": 2160,
+        "br": 25128000
+       }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 46506
+     }
+    ],
+    "conversation_id": "2124222447855743019"
+   },
+   "conversation_id": "2124261869200589024"
+  },
+  {
+   "id": "2124159121645801562",
+   "username": "leanprover",
+   "name": "Lean",
+   "created_at": "2026-11-21T15:12:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/leanprover/status/2124159121645801562",
+   "kind": "post",
+   "text": "The Lean FRO and Mathlib Initiative have released a joint statement on the Lean verification of the Riemann Hypothesis.\n\nOn November 20, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library of 17 million lines of code. Over the past day, the Lean and Mathlib communities worked together to verify it. The statement certifies the proof as correct and describes how it meets all necessary verification criteria.\n\nCongratulations to Levent on this achievement, and thank you to everyone in the community who contributed to the verification.\n\nFull statement: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+   "urls": [
+    "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+   ],
+   "metrics": {
+    "likes": 28534,
+    "reposts": 5311,
+    "replies": 548,
+    "quotes": 2085
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXqGwBnaUAA8Pvd.png",
+     "width": 2560,
+     "height": 1440
+    }
+   ],
+   "conversation_id": "2124159121645801562"
+  },
+  {
+   "id": "2124265097313046867",
+   "username": "garrytan",
+   "name": "Garry Tan",
+   "created_at": "2026-11-21T22:14:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/garrytan/status/2124265097313046867",
+   "kind": "quote",
+   "text": "You can just automate your work and it’s so easy tbh",
+   "urls": [],
+   "metrics": {
+    "likes": 809,
+    "reposts": 27,
+    "replies": 84,
+    "quotes": 4
+   },
+   "ref": {
+    "id": "2124263805169414273",
+    "author_id": "2051458835773267968",
+    "username": "gbrainio",
+    "name": "GBrain",
+    "created_at": "2026-11-21T22:08:52.000Z",
+    "text": "What one YC startup's GBrain does every day:\n\n- files every sales call into team memory by 7pm\n- ingests and filters both founders' inboxes 3X a day\n- turns every feature buyers ask for on calls into a product page, linked to the call it came from\n- writes up what's been added to staging vs production each night\n\n850+ pages in three weeks.\nhttps://gbrain.io/skills?playbook=founders&utm_source=gbrainio_x&utm_campaign=team-checklist&v=2",
+    "conversation_id": "2124263805169414273"
+   },
+   "conversation_id": "2124265097313046867"
+  },
+  {
+   "id": "2124283380162232372",
+   "username": "ducksays",
+   "name": "duck says",
+   "created_at": "2026-11-21T23:26:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/ducksays/status/2124283380162232372",
+   "kind": "quote",
+   "text": "I JUST LOST $33K IN 5 DAYS?!\n\nmy new net worth is 767k 😟\n\nis everyone feeling this pain right now?",
+   "urls": [],
+   "metrics": {
+    "likes": 79,
+    "reposts": 0,
+    "replies": 38,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXr4UWAWIAAc3rz.jpg",
+     "width": 1125,
+     "height": 1084
+    }
+   ],
+   "ref": {
+    "id": "2122888892139311179",
+    "author_id": "2008357481769205760",
+    "username": "ducksays",
+    "name": "duck says",
+    "created_at": "2026-11-18T03:05:27.000Z",
+    "text": "just crossed $800k net worth FOR THE FIRST TIME\n\nis this good for a 29 year old?",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXYELA6WcAAF8VN.jpg",
+      "width": 2418,
+      "height": 3372
+     }
+    ],
+    "conversation_id": "2122888892139311179"
+   },
+   "conversation_id": "2124283380162232372"
+  },
+  {
+   "id": "2124281802751979559",
+   "username": "BasedSamParker",
+   "name": "Sam Parker 🇺🇸🧯",
+   "created_at": "2026-11-21T23:20:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/BasedSamParker/status/2124281802751979559",
+   "kind": "quote",
+   "text": "2/ There it is. Just refreshed the feed, aaaaaaand it's Elon pitching Grok bot",
+   "urls": [],
+   "metrics": {
+    "likes": 163,
+    "reposts": 13,
+    "replies": 11,
+    "quotes": 1
+   },
+   "ref": {
+    "id": "2124280710747840889",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-21T23:16:03.000Z",
+    "text": "Give Grok @Bot your hardest tasks",
+    "conversation_id": "2124280710747840889",
+    "quote": {
+     "id": "2124215518341017719",
+     "author_id": "954060455831580672",
+     "username": "MollySOShea",
+     "name": "Molly O’Shea",
+     "created_at": "2026-11-21T18:57:00.000Z",
+     "text": "Grok Bot planned a 5,000-person conference\n\nRon Biscardi (@rbiscardi) says his team used Grok Bot for literally everything to set up the TomorrowX Summit at record speed:\n\n“Grok Bot is what made this whole event possible.”\n\n“My COO, who normally isn’t doing in-the-weeds stuff, had a dozen Grok Bot agents & was running literally half of the lead up to this event on her own. None of that was possible before these tools.”\n\n“This is 5,000 people in a basketball arena. No one does that in 6 or 7 months. That’s like an 18-month thing.”\n\n“Using AI, we were able to build everything we needed so quickly: the website, the dashboards, the mobile app. All of the elements that go into this that typically took months & months to build, we built them in days.”\n\n@GavinSBaker @AntonioGracias @elonmusk",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/3840x2160/00KYnF4khi04XQsW.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2123460187461955584/img/vF9RDI5ha8T4BP5i.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/480x270/d4BzNFd7AhiySN3_.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/640x360/uLfeCJ4HIgnha32J.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/1280x720/yJrO2yXHRqTIp23F.mp4",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/1920x1080/MLogQnpTu74xL3zk.mp4",
+         "w": 1920,
+         "h": 1080,
+         "br": 10368000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/3840x2160/00KYnF4khi04XQsW.mp4",
+         "w": 3840,
+         "h": 2160,
+         "br": 25128000
+        }
+       ],
+       "width": 3840,
+       "height": 2160,
+       "duration_ms": 377700
+      }
+     ],
+     "conversation_id": "2124215518341017719"
+    }
+   },
+   "reply_to": {
+    "id": "2124266144651727348",
+    "username": "BasedSamParker"
+   },
+   "conversation_id": "2124266144651727348"
+  },
+  {
+   "id": "2124262291512447211",
+   "username": "KettlebellDan",
+   "name": "Dan",
+   "created_at": "2026-11-21T22:02:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/KettlebellDan/status/2124262291512447211",
+   "kind": "post",
+   "text": "do you guys notice video on 𝕏 absolutely taking off right now",
+   "urls": [],
+   "metrics": {
+    "likes": 227,
+    "reposts": 7,
+    "replies": 68,
+    "quotes": 3
+   },
+   "conversation_id": "2124262291512447211"
+  },
+  {
+   "id": "2124276421011046639",
+   "username": "JakaBavdek",
+   "name": "Jaka Bavdek",
+   "created_at": "2026-11-21T22:59:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/JakaBavdek/status/2124276421011046639",
+   "kind": "reply",
+   "text": "@larsencc happy journey!!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124274186118177086",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124265368491340253"
+  },
+  {
+   "id": "2124256557840080961",
+   "username": "parker__conrad",
+   "name": "Parker Conrad",
+   "created_at": "2026-11-21T21:40:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/parker__conrad/status/2124256557840080961",
+   "kind": "post",
+   "text": "You may know that if your Grok @bot is on a phone call, it can ping you for more information.\n\nDid you know that you can also write to it while it's on the phone? Great for if you forgot to add something or want to steer the call in a given direction.\n\nVideo made by my bot :)",
+   "urls": [],
+   "metrics": {
+    "likes": 66,
+    "reposts": 3,
+    "replies": 9,
+    "quotes": 2
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124254587095826432/vid/avc1/1920x1080/2VNZLZgZRC4m6LBD.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124254587095826432/img/cpRJM4BmNRvtQWb1.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124254587095826432/vid/avc1/480x270/8B4TLzDi56UdBJYw.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124254587095826432/vid/avc1/640x360/lHGwiamfO7ps3Fmw.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124254587095826432/vid/avc1/1280x720/riDj9zEwpXqg1Tqu.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124254587095826432/vid/avc1/1920x1080/2VNZLZgZRC4m6LBD.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 19000
+    }
+   ],
+   "conversation_id": "2124256557840080961"
+  },
+  {
+   "id": "2124265368491340253",
+   "username": "JakaBavdek",
+   "name": "Jaka Bavdek",
+   "created_at": "2026-11-21T22:15:05.000Z",
+   "lang": "en",
+   "url": "https://x.com/JakaBavdek/status/2124265368491340253",
+   "kind": "post",
+   "text": "Let’s see what happened in Europe in the past 2 months",
+   "urls": [],
+   "metrics": {
+    "likes": 15,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXroFwdXoAAIfcD.jpg",
+     "width": 1536,
+     "height": 2048
+    }
+   ],
+   "conversation_id": "2124265368491340253"
+  },
+  {
+   "id": "2124246742644461569",
+   "username": "fchollet",
+   "name": "François Chollet",
+   "created_at": "2026-11-21T21:01:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/fchollet/status/2124246742644461569",
+   "kind": "quote",
+   "text": "Either you believe the AI buildout is over, that AI was a flash in the pan, and that the need for compute has already peaked... or this a rare buying opportunity.\n\nReminder: GPU spot prices keep rising and it's hard to secure capacity. HBM and DRAM production is effectively sold out through 2029, with chip and memory supply projected to stay tight until well into the 2030s.\n\nAI research isn't slowing down: frontier training compute is doubling every ~5 months, and model capabilities are scaling over twice as fast as they did pre-reasoning. Inference is profitable with 70-85% margins, and demand is growing geometrically. Each new model generation unlocks new use cases.\n\nI'm not even an AI booster, just being realistic here.",
+   "urls": [],
+   "metrics": {
+    "likes": 4844,
+    "reposts": 340,
+    "replies": 333,
+    "quotes": 64
+   },
+   "ref": {
+    "id": "2123956975281352725",
+    "author_id": "485550903",
+    "username": "TradexWhisperer",
+    "name": "Trade Whisperer",
+    "created_at": "2026-11-21T01:49:38.000Z",
+    "text": "WTF\n\n$SNDK 2.2x\n$SKHY 2.6x\n$MU 2.8x\n\nSandisk can buy back half its market cap in JUST 12 MONTHS.\n\n$COST is 44x for hot dogs and bulk toilet paper.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXnOa16bUAATVgK.png",
+      "width": 759,
+      "height": 773
+     }
+    ],
+    "conversation_id": "2123956975281352725"
+   },
+   "conversation_id": "2124246742644461569"
+  },
+  {
+   "id": "2124215518341017719",
+   "username": "MollySOShea",
+   "name": "Molly O’Shea",
+   "created_at": "2026-11-21T18:57:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/MollySOShea/status/2124215518341017719",
+   "kind": "post",
+   "text": "Grok Bot planned a 5,000-person conference\n\nRon Biscardi (@rbiscardi) says his team used Grok Bot for literally everything to set up the TomorrowX Summit at record speed:\n\n“Grok Bot is what made this whole event possible.”\n\n“My COO, who normally isn’t doing in-the-weeds stuff, had a dozen Grok Bot agents & was running literally half of the lead up to this event on her own. None of that was possible before these tools.”\n\n“This is 5,000 people in a basketball arena. No one does that in 6 or 7 months. That’s like an 18-month thing.”\n\n“Using AI, we were able to build everything we needed so quickly: the website, the dashboards, the mobile app. All of the elements that go into this that typically took months & months to build, we built them in days.”\n\n@GavinSBaker @AntonioGracias @elonmusk",
+   "urls": [],
+   "metrics": {
+    "likes": 877,
+    "reposts": 89,
+    "replies": 60,
+    "quotes": 33
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/3840x2160/00KYnF4khi04XQsW.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123460187461955584/img/vF9RDI5ha8T4BP5i.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/480x270/d4BzNFd7AhiySN3_.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/640x360/uLfeCJ4HIgnha32J.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/1280x720/yJrO2yXHRqTIp23F.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/1920x1080/MLogQnpTu74xL3zk.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/3840x2160/00KYnF4khi04XQsW.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 377700
+    }
+   ],
+   "conversation_id": "2124215518341017719"
+  },
+  {
+   "id": "2124226260054515736",
+   "username": "niccruzpatane",
+   "name": "Nic Cruz Patane",
+   "created_at": "2026-11-21T19:39:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/niccruzpatane/status/2124226260054515736",
+   "kind": "post",
+   "text": "Tesla FSD V15 UI is like a video game.\n\nIt’s able to render-reality directly onto your screen 🤯\n\nThis doesn’t seem real, but it is. Absolutely mind-blown.",
+   "urls": [],
+   "metrics": {
+    "likes": 771,
+    "reposts": 48,
+    "replies": 33,
+    "quotes": 10
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124225969590267904/vid/avc1/3840x2160/0IjXKrnbsU5wCiW8.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124225969590267904/img/Na9DqQcy1SqXECtD.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124225969590267904/vid/avc1/480x270/ZRhIFtD_sXF4QkOY.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124225969590267904/vid/avc1/640x360/AuqXEj5hCW-VpQui.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124225969590267904/vid/avc1/1280x720/wpRRFxZIZOPhiPg9.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124225969590267904/vid/avc1/1920x1080/eSljynepFClIhdFW.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124225969590267904/vid/avc1/3840x2160/0IjXKrnbsU5wCiW8.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 47766
+    }
+   ],
+   "conversation_id": "2124226260054515736"
+  },
+  {
+   "id": "2124226258196103492",
+   "username": "SawyerMerritt",
+   "name": "Sawyer Merritt",
+   "created_at": "2026-11-21T19:39:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/SawyerMerritt/status/2124226258196103492",
+   "kind": "post",
+   "text": "Here are the new FSD visualizations in FSD V15. It continuously streams a view from an arbitrary virtual camera situated above your vehicle.\n\nUpcoming navigation turns display directly in the driving visualization. Turn signals are quieter and fade out after a few clicks.",
+   "urls": [],
+   "metrics": {
+    "likes": 9274,
+    "reposts": 727,
+    "replies": 599,
+    "quotes": 287
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXrD1FoWEAAsvNN.jpg",
+     "width": 1648,
+     "height": 1032
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXrD3d5XIAEtEu6.jpg",
+     "width": 1674,
+     "height": 1100
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXrD7NVXcAA5waa.jpg",
+     "width": 1104,
+     "height": 708
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXrD-sJXsAAysqX.jpg",
+     "width": 1118,
+     "height": 728
+    }
+   ],
+   "conversation_id": "2124226258196103492"
+  },
+  {
+   "id": "2124209568297181369",
+   "username": "BHolmesDev",
+   "name": "Ben Holmes",
+   "created_at": "2026-11-21T18:33:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/BHolmesDev/status/2124209568297181369",
+   "kind": "quote",
+   "text": "Great skill. A bit prescriptive for my tastes, but I’ve started asking agents to “talk to me using the Socratic method” whenever I’m researching a new topic",
+   "urls": [],
+   "metrics": {
+    "likes": 90,
+    "reposts": 2,
+    "replies": 3,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2119733485560828154",
+    "author_id": "245158626",
+    "username": "intellectronica",
+    "name": "Eleanor Berger",
+    "created_at": "2026-11-09T10:07:00.000Z",
+    "text": "This skill is really fun and useful. Excellent way to learn things with an agent. https://www.skills.sh/janestreet/agent_skills/socratic-tutor",
+    "conversation_id": "2119733485560828154"
+   },
+   "conversation_id": "2124209568297181369"
+  },
+  {
+   "id": "2124206277215801619",
+   "username": "Mahaximus_",
+   "name": "Mahax",
+   "created_at": "2026-11-21T18:20:16.000Z",
+   "lang": "en",
+   "url": "https://x.com/Mahaximus_/status/2124206277215801619",
+   "kind": "quote",
+   "text": "This is f*cking insane...\n\nGrok Bot has 220 plugins, and almost nobody uses more than 2 or 3.\n\nsome of them could save you hours every week, and you've never even opened them.\n\nhere are 7 that cover the work of a whole team, everyone should have them:\n\nAssistant:\nGmail + Calendar. sorts your inbox, drafts replies, books meetings\n\nSales:\nHubSpot. preps every call and logs every deal\n\nStore manager:\nShopify. handles orders, products and store updates\n\nPayments:\nStripe. tracks payments, refunds and invoices\n\nDesigner:\nFigma. reviews your designs and flags what's off\n\nProject manager:\nLinear. keeps every issue and sprint up to date\n\nSocial:\nX. drafts your posts and watches the replies\n\nhow to set them all up in 5 minutes:\n\n1. open Connect apps in Grok Bot's sidebar, or just tell your bot \"add the HubSpot app\"\n2. tap the Connect card and sign in once\n3. give it its first job in plain words: \"follow up on every deal that's gone quiet for a week\"\n\nstart with one. the app you open every morning is the one that will save you the most.\n\nthe full Grok Bot breakdown below.",
+   "urls": [],
+   "metrics": {
+    "likes": 65,
+    "reposts": 4,
+    "replies": 13,
+    "quotes": 1
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124204658973446144/vid/avc1/1080x1350/4zInYrE_NN9Wl6v2.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124204658973446144/img/s0VOTMweSrbv2GJ-.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124204658973446144/vid/avc1/320x400/4eKzYHWOdSNVRZ2i.mp4",
+       "w": 320,
+       "h": 400,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124204658973446144/vid/avc1/480x600/LDwkpflZGcgzqW4i.mp4",
+       "w": 480,
+       "h": 600,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124204658973446144/vid/avc1/720x900/xB1KVdeKY-UEVuew.mp4",
+       "w": 720,
+       "h": 900,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124204658973446144/vid/avc1/1080x1350/4zInYrE_NN9Wl6v2.mp4",
+       "w": 1080,
+       "h": 1350,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1350,
+     "duration_ms": 15000
+    }
+   ],
+   "ref": {
+    "id": "2091879951926522112",
+    "author_id": "1857823789666492416",
+    "username": "Mahaximus_",
+    "name": "Mahax",
+    "created_at": "2026-08-24T13:27:00.000Z",
+    "text": "http://x.com/i/article/2091601368779759616",
+    "article_title": "Grok Bot. What It Is, and How to Actually Use It.",
+    "conversation_id": "2091879951926522112"
+   },
+   "conversation_id": "2124206277215801619"
+  },
+  {
+   "id": "2124140106139279682",
+   "username": "Texas_Twins_Dad",
+   "name": "Texas Twins Dad",
+   "created_at": "2026-11-21T13:57:20.000Z",
+   "lang": "en",
+   "url": "https://x.com/Texas_Twins_Dad/status/2124140106139279682",
+   "kind": "post",
+   "text": "Before bed, I told a few of my Grok Bots: \"I'm going to sleep. Get as much done on your own for this project as possible, and leave anything that needs my approval.\"\n\nI woke up and they had:\n• Fixed bugs and run tests\n• Built the 3D design as STL/3MF files\n• Made samples\n• Prepped the product for sale\n• Written the manual and guidelines\n• Built a landing page\n• Listed everything that needs my approval\n\nAll while I was sleeping. Try Grok Bots that work 24/7 for you.",
+   "urls": [],
+   "metrics": {
+    "likes": 87,
+    "reposts": 7,
+    "replies": 13,
+    "quotes": 1
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXp2K4nXgAA1YDQ.jpg",
+     "width": 1290,
+     "height": 323
+    }
+   ],
+   "conversation_id": "2124140106139279682"
+  },
+  {
+   "id": "2124143075341586924",
+   "username": "housecor",
+   "name": "Cory House",
+   "created_at": "2026-11-21T14:09:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/housecor/status/2124143075341586924",
+   "kind": "post",
+   "text": "Does AI mean we should do more up-front planning or less?\n\nThe argument for more: If we plan carefully the agent is more likely to one shot the solution. This may save tokens, time, and money.\n\nThe argument for less: Tokens are cheap, so rework is cheap. Planning delays user feedback. AI is so fast we can quickly try many ideas.",
+   "urls": [],
+   "metrics": {
+    "likes": 109,
+    "reposts": 3,
+    "replies": 118,
+    "quotes": 9
+   },
+   "conversation_id": "2124143075341586924"
+  },
+  {
+   "id": "2124170979341422747",
+   "username": "lucas_builds",
+   "name": "Lucas",
+   "created_at": "2026-11-21T16:00:01.000Z",
+   "lang": "en",
+   "url": "https://x.com/lucas_builds/status/2124170979341422747",
+   "kind": "post",
+   "text": "What's the AI feature you turned off the first day you saw it?",
+   "urls": [],
+   "metrics": {
+    "likes": 13,
+    "reposts": 0,
+    "replies": 9,
+    "quotes": 0
+   },
+   "conversation_id": "2124170979341422747"
+  },
+  {
+   "id": "2124163188656660740",
+   "username": "Vtrivedy10",
+   "name": "Viv",
+   "created_at": "2026-11-21T15:29:03.000Z",
+   "lang": "en",
+   "url": "https://x.com/Vtrivedy10/status/2124163188656660740",
+   "kind": "quote",
+   "text": "second order effect of this trend: MASSIVE opportunity in building systems/harnesses that help humans understand AI discoveries & work\n\nwe saw this with Navier Stokes & the OpenAI-HuggingFace incident -> hundreds of human hours spent trying to decipher what the agents did & their motivations\n\nas we scale agent compute (swarms) -> we’re exponentially scaling the data produced\n\nhumans want to understand the outputs AI -> a lot our social/legal systems depend on that understanding\n\nInterfaces for Review & Just-in-time-UI is going to a very interesting research problem\n\nSimilar to how routing can “go into the harness” -> Interpretability of data will also start moving into the harness\n\nThings like\n- using dedicated communication tools\n- putting agents in charge of communicating to humans\n- very cheap offline & offline monitoring\n\nexciting times what an amazing accomplishment 🔥",
+   "urls": [],
+   "metrics": {
+    "likes": 59,
+    "reposts": 1,
+    "replies": 16,
+    "quotes": 2
+   },
+   "ref": {
+    "id": "2123789252756414577",
+    "author_id": "1585517096120655872",
+    "username": "yifanzhang_",
+    "name": "Yifan Zhang @ NeurIPS",
+    "created_at": "2026-11-20T14:43:10.000Z",
+    "text": "JUST IN: Riemann Hypothesis has been solved.\n\nhttps://alpo.ge/remark.pdf",
+    "conversation_id": "2123789252756414577"
+   },
+   "conversation_id": "2124163188656660740"
+  },
+  {
+   "id": "2124156025020281207",
+   "username": "Mahaximus_",
+   "name": "Mahax",
+   "created_at": "2026-11-21T15:00:35.000Z",
+   "lang": "en",
+   "url": "https://x.com/Mahaximus_/status/2124156025020281207",
+   "kind": "quote",
+   "text": "This is f*cking gold. SpaceXAI just dropped the best 1-hour workshop on token efficiency, every Grok Bot user needs to see this:\n\n02:15 - What a token actually is\n13:10 - Why context eats most of your usage\n17:08 - Model selection\n26:21 - Habits that kill waste instantly\n\nFree, the most efficient token guide for Grok Bot users I've seen.\n\nWatch it, then read the full Grok Bot usage breakdown below",
+   "urls": [],
+   "metrics": {
+    "likes": 200,
+    "reposts": 20,
+    "replies": 19,
+    "quotes": 2
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124154669647745024/vid/avc1/1662x1080/KVbND3JBc_9StTUo.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124154669647745024/img/U8WERQ7Kn8K0_1H0.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124154669647745024/vid/avc1/414x270/EbEJj-EPA-clXwD1.mp4",
+       "w": 414,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124154669647745024/vid/avc1/554x360/FREnWuhkBL48IO3I.mp4",
+       "w": 554,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124154669647745024/vid/avc1/1108x720/7X43ucFDmzHtpiGb.mp4",
+       "w": 1108,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124154669647745024/vid/avc1/1662x1080/KVbND3JBc_9StTUo.mp4",
+       "w": 1662,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1662,
+     "height": 1080,
+     "duration_ms": 3624936
+    }
+   ],
+   "ref": {
+    "id": "2119435020704112933",
+    "author_id": "1857823789666492416",
+    "username": "Mahaximus_",
+    "name": "Mahax",
+    "created_at": "2026-11-08T14:21:00.000Z",
+    "text": "https://x.com/i/article/2119127080570884097",
+    "article_title": "Grok Bot Usage. Fix Everything That Burns Your Limit.",
+    "conversation_id": "2119435020704112933"
+   },
+   "conversation_id": "2124156025020281207"
+  },
+  {
+   "id": "2124173743048339924",
+   "username": "NathanFlurry",
+   "name": "Nathan Flurry 🔩",
+   "created_at": "2026-11-21T16:11:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/NathanFlurry/status/2124173743048339924",
+   "kind": "post",
+   "text": "i don't know who needs to hear this:\n\nstop @ ing your agent in slack/discord\n\njev can tell your agent if it needs to respond to a message (code below)",
+   "urls": [],
+   "metrics": {
+    "likes": 166,
+    "reposts": 2,
+    "replies": 23,
+    "quotes": 4
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXhhpY7aYAAKjMC.jpg",
+     "width": 1730,
+     "height": 714
+    }
+   ],
+   "conversation_id": "2124173743048339924"
+  },
+  {
+   "id": "2124155405291123183",
+   "username": "Texas_Twins_Dad",
+   "name": "Texas Twins Dad",
+   "created_at": "2026-11-21T14:58:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/Texas_Twins_Dad/status/2124155405291123183",
+   "kind": "post",
+   "text": "I'm building a Grok Bot dashboard.",
+   "urls": [],
+   "metrics": {
+    "likes": 146,
+    "reposts": 2,
+    "replies": 27,
+    "quotes": 0
+   },
+   "conversation_id": "2124155405291123183"
+  },
+  {
+   "id": "2124176607082688752",
+   "username": "Baconbrix",
+   "name": "Evan Bacon",
+   "created_at": "2026-11-21T16:22:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/Baconbrix/status/2124176607082688752",
+   "kind": "quote",
+   "text": "How would you prompt Grok Bot to do this? Would you send it to your main bot, send to a dedicated misc bot, or create a new bot?",
+   "urls": [],
+   "metrics": {
+    "likes": 10,
+    "reposts": 0,
+    "replies": 10,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2123678023631147452",
+    "author_id": "1961055795136929792",
+    "username": "FatemeFouladkar",
+    "name": "Fateme Fouladkar",
+    "created_at": "2026-11-20T07:21:11.000Z",
+    "text": "یکی این پرامپتو به کلاد داده، و نتیجه‌ش خیلی جالبه!\n\n«یه وبسایت بساز که اول شبیه یه سایت مارکتینگ معمولیه‌. اما با اسکرول کردن کاربر، سایت به تدریج عجیب‌تر و غیرعادی‌تر میشه‌‌. در آخر باید کاملا وحشتناک بشه؛ مثل صحنه‌ای که مستقیم از یه فیلم ترسناک اومده»\n\nhttps://jikol1906.github.io/Hearthly/",
+    "conversation_id": "2123678023631147452"
+   },
+   "conversation_id": "2124176607082688752"
+  },
+  {
+   "id": "2124167863606862104",
+   "username": "ducksays",
+   "name": "duck says",
+   "created_at": "2026-11-21T15:47:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/ducksays/status/2124167863606862104",
+   "kind": "post",
+   "text": "if your grok bot usage is burning fast, give one bot the job of watching the others.\n\ni run 8 grok bots. one of them, my coo, just reads the other bots' chats and checks their routines.\n\nlately it caught:\n- my scout bot checking every post 4 times. about 65 runs a week, 31% of my usage. cutting to 2 checks saves about half.\n- a bot i stopped using 2 weeks ago was still running its weekly digest\n- my scout messaging me directly when it's only supposed to talk to my marketing bot\n- my finance bot's login had expired, so it was quietly stuck\n\nand when i asked if we should add a rule for every little slip, it said honestly no, that's how bots get bloated.",
+   "urls": [],
+   "metrics": {
+    "likes": 57,
+    "reposts": 3,
+    "replies": 21,
+    "quotes": 1
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXqPFsvXcAAu0Li.jpg",
+     "width": 1030,
+     "height": 1276
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXqPYhnWIAADZ3s.png",
+     "width": 478,
+     "height": 665
+    }
+   ],
+   "conversation_id": "2124167863606862104"
+  },
+  {
+   "id": "2124179833475539048",
+   "username": "livinwithjc",
+   "name": "Juan Carlos Perez",
+   "created_at": "2026-11-21T16:35:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/livinwithjc/status/2124179833475539048",
+   "kind": "reply",
+   "text": "@alexmichael @mattyp @ericzakariasson I did. Never got a reply.",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124161038790668493",
+    "username": "alexmichael"
+   },
+   "conversation_id": "2124161038790668493"
+  },
+  {
+   "id": "2124216703479677042",
+   "username": "borna_perak",
+   "name": "Borna Perak",
+   "created_at": "2026-11-21T19:01:42.000Z",
+   "lang": "en",
+   "url": "https://x.com/borna_perak/status/2124216703479677042",
+   "kind": "post",
+   "text": "Saturday morning fun time!",
+   "urls": [],
+   "metrics": {
+    "likes": 19,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXq71TkaYAEIqhy.jpg",
+     "width": 2048,
+     "height": 1536
+    }
+   ],
+   "conversation_id": "2124216703479677042"
+  },
+  {
+   "id": "2124229689799782404",
+   "username": "AIDRIVR",
+   "name": "ΛI DRIVR",
+   "created_at": "2026-11-21T19:53:18.000Z",
+   "lang": "en",
+   "url": "https://x.com/AIDRIVR/status/2124229689799782404",
+   "kind": "quote",
+   "text": "FSD 15 VISUALIZATIONS ARE INSANE\n\nHOW IS THIS EVEN POSSIBLE",
+   "urls": [],
+   "metrics": {
+    "likes": 4197,
+    "reposts": 168,
+    "replies": 106,
+    "quotes": 26
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124229344826712064/vid/avc1/2330x1320/psFZHxdlnsYtCyeT.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124229344826712064/img/2H51uzSrpgSNuBMn.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124229344826712064/vid/avc1/476x270/iUQ9mJ6WJPZqKn0Z.mp4",
+       "w": 476,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124229344826712064/vid/avc1/634x360/W9K3zQpXjhRRDYj6.mp4",
+       "w": 634,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124229344826712064/vid/avc1/1270x720/keD47jSbH82GiQ6a.mp4",
+       "w": 1270,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124229344826712064/vid/avc1/2330x1320/psFZHxdlnsYtCyeT.mp4",
+       "w": 2330,
+       "h": 1320,
+       "br": 10368000
+      }
+     ],
+     "width": 2330,
+     "height": 1320,
+     "duration_ms": 30173
+    }
+   ],
+   "ref": {
+    "id": "2124222447855743019",
+    "author_id": "13298072",
+    "username": "Tesla",
+    "name": "Tesla",
+    "created_at": "2026-11-21T19:24:32.000Z",
+    "text": "FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network\n\nSafety\n25x better handling of safety critical cases\n\nTesla Reality View \nAdds a live visualization of the drive that lets you see & control what FSD is planning to do\n\nNavigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route.\n\nYou also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather.\n\nLastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2124221674111512576/img/jtjoJUSLKl6Nz6dX.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/480x270/q3da8s2G4pFdyIbp.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/640x360/Y4p4f2zCeQbtzbVf.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1280x720/CB-ZGrFnTWyL0d6a.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1920x1080/exp2P2D1CbcW1xU7.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+        "w": 3840,
+        "h": 2160,
+        "br": 25128000
+       }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 46506
+     }
+    ],
+    "conversation_id": "2124222447855743019"
+   },
+   "conversation_id": "2124229689799782404"
+  },
+  {
+   "id": "2124234873489760509",
+   "username": "anzep13",
+   "name": "anze",
+   "created_at": "2026-11-21T20:13:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/anzep13/status/2124234873489760509",
+   "kind": "reply",
+   "text": "@larsencc Let’s gremo",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124221111516971377",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124221111516971377"
+  },
+  {
+   "id": "2124230802238283905",
+   "username": "overthecoversss",
+   "name": "niqqa",
+   "created_at": "2026-11-21T19:57:44.000Z",
+   "lang": "en",
+   "url": "https://x.com/overthecoversss/status/2124230802238283905",
+   "kind": "quote",
+   "text": "Real devs use claude code extension in vs code",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2124018063708430538",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-21T05:52:23.000Z",
+    "text": "accidentally opened vscode",
+    "media": [
+     {
+      "type": "animated_gif",
+      "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+      "poster": "https://pbs.twimg.com/tweet_video_thumb/HXQrETzWkAABKjo.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+        "w": 320,
+        "h": 426,
+        "br": 0
+       }
+      ],
+      "width": 320,
+      "height": 426
+     }
+    ],
+    "conversation_id": "2124018063708430538"
+   },
+   "conversation_id": "2124230802238283905"
+  },
+  {
+   "id": "2124226337640718738",
+   "username": "lingxi",
+   "name": "Lingxi Li",
+   "created_at": "2026-11-21T19:39:59.000Z",
+   "lang": "qme",
+   "url": "https://x.com/lingxi/status/2124226337640718738",
+   "kind": "reply",
+   "text": "@larsencc 🐐",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124221111516971377",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124221111516971377"
+  },
+  {
+   "id": "2124223400151498976",
+   "username": "thecsguy",
+   "name": "nick",
+   "created_at": "2026-11-21T19:28:19.000Z",
+   "lang": "und",
+   "url": "https://x.com/thecsguy/status/2124223400151498976",
+   "kind": "reply",
+   "text": "@larsencc Lfggggg",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124221111516971377",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124221111516971377"
+  },
+  {
+   "id": "2124219955688468614",
+   "username": "nullswan",
+   "name": "Swan",
+   "created_at": "2026-11-21T19:14:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/nullswan/status/2124219955688468614",
+   "kind": "quote",
+   "text": "Comment with your best meme created with @imagine and i will send you 100$ in credit for @bot and @grok",
+   "urls": [],
+   "metrics": {
+    "likes": 70,
+    "reposts": 2,
+    "replies": 93,
+    "quotes": 4
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXq-ys7bsAAO_cL.jpg",
+     "width": 1200,
+     "height": 713
+    }
+   ],
+   "ref": {
+    "id": "2124018063708430538",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-21T05:52:23.000Z",
+    "text": "accidentally opened vscode",
+    "media": [
+     {
+      "type": "animated_gif",
+      "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+      "poster": "https://pbs.twimg.com/tweet_video_thumb/HXQrETzWkAABKjo.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/tweet_video/HXQrETzWkAABKjo.mp4",
+        "w": 320,
+        "h": 426,
+        "br": 0
+       }
+      ],
+      "width": 320,
+      "height": 426
+     }
+    ],
+    "conversation_id": "2124018063708430538"
+   },
+   "conversation_id": "2124219955688468614"
+  },
+  {
+   "id": "2123910681301049474",
+   "username": "0x45o",
+   "name": "0x45",
+   "created_at": "2026-11-20T22:45:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/0x45o/status/2123910681301049474",
+   "kind": "post",
+   "text": "I am doing something very brave today, I am leaving my phone outside of my bedroom",
+   "urls": [],
+   "metrics": {
+    "likes": 39,
+    "reposts": 2,
+    "replies": 7,
+    "quotes": 1
+   },
+   "conversation_id": "2123910681301049474"
+  },
+  {
+   "id": "2124147648567660821",
+   "username": "willdepue",
+   "name": "will depue",
+   "created_at": "2026-11-21T14:27:18.000Z",
+   "lang": "en",
+   "url": "https://x.com/willdepue/status/2124147648567660821",
+   "kind": "post",
+   "text": "listening to men like elon, ilya, or sam, you can sense a twinge of relief, that the utter absurdity and terrible magnificence that have been driving them near crazy their entire lives is slowly becoming universal, that the sheer derealization (which drives one to believe their life is too odd to not be some strange prank or simulation) that comes naturally with being the one monkey in eight billion, no, a hundred and seventeen billion (to ever live), strapped to the launch chair at the end of the world, is infecting the rest of us: a strangeness that has been building since maybe the dawn of agriculture, or fire, and finally coming to an unignorable global front. welcome to the technological singularity.\n\nTerrence McKenna: “It’s only going to get weirder. The level of contradiction is going to rise excruciatingly, even beyond the excruciating present levels of contradiction. So I think it’s just going to get weirder and weirder and weirder. And finally, it’s going to be so weird that people are going to have to talk about how weird it is. And at that point, novelty theory can come out of the woods. Because eventually people are going to say, “What the hell is going on?” It’s just too nuts! It’s not enough to say it’s nuts, you have to explain why it’s so nuts.\n\nSo between now and 2012, the next fourteen years, I look for the invention of artificial life, the cloning of human beings, possible contact with extraterrestrials, possible human immortality, and at the same time, appalling acts of brutality, genocide, race-baiting, homophobia, famine, starvation—because the systems which are in place to keep the world sane are utterly inadequate to the forces that have been unleashed. The collapse of the socialist world, the rise of the Internet—these are changes so immense, nobody could imagine them ever happening. And now that they have happened, nobody even bothers to mention what a big deal it is. The fact that there is no such thing as the Soviet Union—people never talk about it anymore. But when I was a kid, the notion that that would ever change was beyond conceiving….\n\nThe mushroom said to me once, it said, “This is what it’s like when a species prepares to depart for the stars.” You don’t depart for the stars under calm and orderly conditions. It’s a fire in a madhouse. And that’s what we have: the fire in the madhouse at the end of time. This is what it’s like when a species prepares to move on to the next dimension. The entire destiny of all life on the planet is tied up in this. We are not acting for ourselves or from ourselves. We happen to be the point species on a transformation that will affect every living organism on this planet at its conclusion.”",
+   "urls": [],
+   "metrics": {
+    "likes": 2810,
+    "reposts": 203,
+    "replies": 126,
+    "quotes": 39
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXp1pRRbUAAJIE-.jpg",
+     "width": 1200,
+     "height": 675
+    },
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124143598791000065/vid/avc1/720x1280/UXEsC2eURPTzLhy-.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124143598791000065/img/oSdRdKe65YzF18ip.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124143598791000065/vid/avc1/320x568/df0VROWqwrJv1q2Y.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124143598791000065/vid/avc1/480x852/rcuzMBczpuyzBGMH.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124143598791000065/vid/avc1/720x1280/UXEsC2eURPTzLhy-.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      }
+     ],
+     "width": 720,
+     "height": 1280,
+     "duration_ms": 182482
+    },
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124143611319369728/vid/avc1/720x1280/raeqiGq4iRWdpUMN.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124143611319369728/img/CXJmdu3boNEa1DRZ.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124143611319369728/vid/avc1/320x568/NHrOKqRX8WKV_pq9.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124143611319369728/vid/avc1/480x852/0qSHvZnnV0TLPU7P.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124143611319369728/vid/avc1/720x1280/raeqiGq4iRWdpUMN.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      }
+     ],
+     "width": 720,
+     "height": 1280,
+     "duration_ms": 157423
+    },
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124147420439461888/vid/avc1/720x1280/QI97dtgCVT77Nqta.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124147420439461888/img/KM-BFfJJJvwJ8l1v.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124147420439461888/vid/avc1/320x568/4-H7O242cJ0XqsI5.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124147420439461888/vid/avc1/480x852/WTfgFM5RHbXsLph1.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124147420439461888/vid/avc1/720x1280/QI97dtgCVT77Nqta.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      }
+     ],
+     "width": 720,
+     "height": 1280,
+     "duration_ms": 57457
+    }
+   ],
+   "conversation_id": "2124147648567660821"
+  },
+  {
+   "id": "2124153152618598511",
+   "username": "EmilioSchwaiger",
+   "name": "Emilio",
+   "created_at": "2026-11-21T14:49:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/EmilioSchwaiger/status/2124153152618598511",
+   "kind": "post",
+   "text": "> Forward Deployed Engineer\n> asks client what they want\n> they don't know\n> flies home",
+   "urls": [],
+   "metrics": {
+    "likes": 114,
+    "reposts": 6,
+    "replies": 2,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124152685523873792/vid/avc1/576x576/8KIbXM9v7N94p_MJ.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124152685523873792/img/LdKOVS_XloatGl1r.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124152685523873792/vid/avc1/320x320/xZV7dhOSqcbOdq6j.mp4",
+       "w": 320,
+       "h": 320,
+       "br": 432000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124152685523873792/vid/avc1/576x576/8KIbXM9v7N94p_MJ.mp4",
+       "w": 576,
+       "h": 576,
+       "br": 832000
+      }
+     ],
+     "width": 576,
+     "height": 576,
+     "duration_ms": 9357
+    }
+   ],
+   "conversation_id": "2124153152618598511"
+  },
+  {
+   "id": "2124172106644758543",
+   "username": "NobleBear",
+   "name": "Noble Bear",
+   "created_at": "2026-11-21T16:04:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/NobleBear/status/2124172106644758543",
+   "kind": "reply",
+   "text": "@larsencc @bot Noooo! No squish doggo!",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124170975520657425",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124170975520657425"
+  },
+  {
+   "id": "2124174143470113016",
+   "username": "thecsguy",
+   "name": "nick",
+   "created_at": "2026-11-21T16:12:35.000Z",
+   "lang": "en",
+   "url": "https://x.com/thecsguy/status/2124174143470113016",
+   "kind": "reply",
+   "text": "@larsencc @bot shipyard bot is a great name!",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124170975520657425",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124170975520657425"
+  },
+  {
+   "id": "2124180312011743699",
+   "username": "DannyGrok",
+   "name": "Danny",
+   "created_at": "2026-11-21T16:37:06.000Z",
+   "lang": "en",
+   "url": "https://x.com/DannyGrok/status/2124180312011743699",
+   "kind": "reply",
+   "text": "@larsencc @bot If I had unlimited usage I'd do the same.",
+   "urls": [],
+   "metrics": {
+    "likes": 7,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124170975520657425",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124170975520657425"
+  },
+  {
+   "id": "2124181436857032860",
+   "username": "alexmichael",
+   "name": "Alex",
+   "created_at": "2026-11-21T16:41:34.000Z",
+   "lang": "en",
+   "url": "https://x.com/alexmichael/status/2124181436857032860",
+   "kind": "post",
+   "text": "Grok Bot’s website leaves a big empty gap on the right side on phones\n\nthe footer mascot is a 572px element inside a 343px container, so it pushes the page out to 473px on a 375px screen\n\nand since every Instagram ad opens it in the in-app browser that’s the first thing people see\n\n@mattyp @benjitaylor",
+   "urls": [],
+   "metrics": {
+    "likes": 58,
+    "reposts": 0,
+    "replies": 4,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXqbFNkWQAAvK8f.jpg",
+     "width": 1125,
+     "height": 1875
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXqbF6wXEAEt-mA.jpg",
+     "width": 1125,
+     "height": 1875
+    }
+   ],
+   "conversation_id": "2124181436857032860"
+  },
+  {
+   "id": "2124176402316714456",
+   "username": "AndrewBurt10230",
+   "name": "Andrew Burton",
+   "created_at": "2026-11-21T16:21:34.000Z",
+   "lang": "en",
+   "url": "https://x.com/AndrewBurt10230/status/2124176402316714456",
+   "kind": "reply",
+   "text": "@mattyp @bot @bot take a look at my wifi",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124174154106917104",
+    "username": "mattyp"
+   },
+   "conversation_id": "2124174154106917104"
+  },
+  {
+   "id": "2124175479687020846",
+   "username": "TheMisery210",
+   "name": "Misery Loves Company VGEN 🐊🎀✂️✨💫💥",
+   "created_at": "2026-11-21T16:17:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/TheMisery210/status/2124175479687020846",
+   "kind": "reply",
+   "text": "@mattyp @bot spectrum just hung up on my grok bot lol",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124174154106917104",
+    "username": "mattyp"
+   },
+   "conversation_id": "2124174154106917104"
+  },
+  {
+   "id": "2124174450908385559",
+   "username": "a_carpenter",
+   "name": "Aaron Carpenter",
+   "created_at": "2026-11-21T16:13:49.000Z",
+   "lang": "en",
+   "url": "https://x.com/a_carpenter/status/2124174450908385559",
+   "kind": "reply",
+   "text": "@mattyp @bot Can confirm, also can negotiate your bill lower while troubleshooting Wi-Fi went from $300 a month and a bunch of services. I never used to Internet only at 2 GB speed and zero fees for hardware flat rate 200 bucks.",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124174154106917104",
+    "username": "mattyp"
+   },
+   "conversation_id": "2124174154106917104"
+  },
+  {
+   "id": "2124174985413660801",
+   "username": "whodaluis",
+   "name": "whosclass",
+   "created_at": "2026-11-21T16:15:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/whodaluis/status/2124174985413660801",
+   "kind": "reply",
+   "text": "@mattyp @bot @bot help me fix my wifi per this post",
+   "urls": [],
+   "metrics": {
+    "likes": 8,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124174154106917104",
+    "username": "mattyp"
+   },
+   "conversation_id": "2124174154106917104"
   }
  ],
  "missing": [
@@ -14069,6 +18600,11 @@
   {
    "id": "2087991833922273559",
    "at": "2026-11-21T16:17:54Z",
+   "reason": "deleted"
+  },
+  {
+   "id": "2124286191948431732",
+   "at": "2026-11-22T19:54:04Z",
    "reason": "deleted"
   }
  ]

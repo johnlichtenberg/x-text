@@ -968,4 +968,56 @@ assertPreview(open([reply], [reply, parent, quotedArchiveCopy]), "filtered");
   ok(th.includes("ANCQ") && !th.includes('data-thread="r360"'), "no ref thread control inside an open thread");
 }
 
+// A quoted or reposted original X no longer returns: show the handle from the status URL, never "Unknown account".
+{
+  const gone = P({
+    id: "2124600936609841396", username: "elonmusk", name: "Elon Musk", kind: "quote", text: "😂",
+    ref: { id: "2124409423821205663", username: "X_Grace_G", unavailable: true },
+  });
+  const html = R.renderList([gone], [gone], following, {});
+  ok(html.includes("😂") && html.includes("❝ Quoting") && html.includes("@X_Grace_G"), "unavailable quote names the author");
+  ok(html.includes("This post is unavailable."), "unavailable quote uses the unavailable wording");
+  ok(!html.includes("Unknown account") && !html.includes("Text not available."), "unavailable quote does not use the old missing wording");
+  ok(!html.includes("show-thread") && !html.includes("Show earlier posts"), "unavailable quote has no thread control");
+  assertNoX(html, "unavailable quote");
+  ok(!/https?:\/\/(?:www\.)?(?:x\.com|twitter\.com|t\.co)\//i.test(html), "unavailable quote has no x.com or t.co text URL");
+
+  const noHandle = P({ id: "500", username: "a", name: "A", kind: "quote", text: "hi", ref: { id: "501", unavailable: true } });
+  const nh = R.renderList([noHandle], [noHandle], [], {});
+  ok(nh.includes("❝ Quoting") && nh.includes("This post is unavailable."), "unavailable quote without a handle");
+  ok(!nh.includes("Unknown account") && !nh.includes("Text not available."), "no unknown account when the handle is not known");
+  ok(!nh.includes("@a post") && !/Quoting\s+@/.test(nh), "unavailable quote without a handle has no @ in the quoting line");
+
+  const stub = P({ id: "510", username: "a", name: "A", kind: "quote", text: "hi", ref: { id: "511" } });
+  const sh = R.renderList([stub], [stub], [], {});
+  ok(sh.includes("This post is unavailable.") && !sh.includes("Unknown account") && !sh.includes("Text not available."), "id-only ref is treated as unavailable");
+
+  const presentEmpty = P({ id: "520", username: "a", name: "A", kind: "quote", text: "OUTER_STILL",
+    ref: { id: "521", username: "bob", name: "Bob", created_at: "2026-11-01T00:00:00.000Z", text: "" } });
+  const pe = R.renderList([presentEmpty], [presentEmpty], [], {});
+  ok(pe.includes("Text not available.") && pe.includes("Bob") && !pe.includes("This post is unavailable."), "empty present original keeps the missing-text line");
+
+  const rp = P({ id: "530", username: "elonmusk", name: "Elon Musk", kind: "repost", text: "",
+    ref: { id: "531", username: "X_Grace_G", unavailable: true } });
+  const rph = R.renderList([rp], [rp], following, {});
+  ok(rph.includes("reposted") && rph.includes("Repost of") && rph.includes("@X_Grace_G") && rph.includes("This post is unavailable."), "unavailable repost names the original");
+  ok(!rph.includes("Unknown account") && !rph.includes("Text not available."), "unavailable repost does not use the old wording");
+  assertNoX(rph, "unavailable repost");
+
+  const followed = P({ id: "540", username: "a", name: "A", kind: "quote", text: "x",
+    ref: { id: "541", username: "elonmusk", unavailable: true } });
+  const fh = R.renderList([followed], [followed], following, {});
+  ok(fh.includes('href="#/u/elonmusk"') && fh.includes("@elonmusk") && fh.includes("This post is unavailable."), "followed handle on an unavailable quote stays in-app");
+  assertNoX(fh, "unavailable quote of a followed account");
+
+  const nest = P({ id: "550", username: "a", name: "A", kind: "quote", text: "OUTER",
+    ref: { id: "551", username: "bob", name: "Bob", created_at: "2026-11-01T00:00:00.000Z", text: "MID",
+      quote: { id: "552", username: "carol", unavailable: true } } });
+  const nst = R.renderList([nest], [nest], [], {});
+  ok(nst.includes("OUTER") && nst.includes("MID") && nst.includes("@carol") && nst.includes("This post is unavailable."), "unavailable nested quote");
+  eq(count(nst, "This post is unavailable."), 1, "only the missing nested quote is unavailable");
+  ok(!nst.includes("Unknown account"), "nested unavailable quote has no unknown account");
+  assertNoX(nst, "unavailable nested quote");
+}
+
 console.log("render tests passed: " + n);

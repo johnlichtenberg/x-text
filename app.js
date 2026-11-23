@@ -220,8 +220,17 @@
   }
   // No thread controls on originals inside an open thread (keeps nesting to one level).
   var refThreadOff = 0;
+  // A quoted/reposted original X no longer returns (deleted or otherwise gone). A handle-only
+  // stub from the referencing post's status URL counts as unavailable too.
+  function refIsUnavailable(r) {
+    if (!r || typeof r !== "object" || Array.isArray(r)) return false;
+    if (r.unavailable) return true;
+    var hasBody = (typeof r.text === "string" && r.text) || (Array.isArray(r.media) && r.media.length) || !!r.article_title;
+    return !hasBody && !r.created_at && !r.author_id && !r.name;
+  }
   // Author of a quoted or reposted original: name and @username. Followed accounts link in-site.
   function refMeta(r) {
+    if (refIsUnavailable(r)) return "";
     var u = r.username || "";
     return '<div class="meta"><span class="name">' + esc(r.name || u || "Unknown account") + "</span>" +
       (u ? handleHtml(u) : "") + timeHtml(r.created_at) + "</div>";
@@ -233,16 +242,19 @@
     if (!r || typeof r !== "object") return "";
     depth = depth || 0;
     if (depth >= 2) return "";
+    var missing = refIsUnavailable(r);
     var nested = "";
     var q = r.quote;
-    if (depth < 1 && q && typeof q === "object" && q !== r) {
+    if (!missing && depth < 1 && q && typeof q === "object" && q !== r) {
       var same = r.id != null && q.id != null && String(r.id) === String(q.id);
       if (!same) nested = refBlock(q, typeof q.text === "string" ? q.text : "", "❝ Quoting", undefined, depth + 1, q);
     }
     var shownMedia = media === undefined ? r.media : media;
-    var body = textBody(text, linkSrc || r, shownMedia);
+    var body = missing
+      ? '<div class="text missing">This post is unavailable.</div>'
+      : textBody(text, linkSrc || r, shownMedia);
     // An original that is itself a reply: "Replying to" plus Show / Hide earlier posts.
-    var t = refTarget(r), note = "", thread = "";
+    var t = missing ? null : refTarget(r), note = "", thread = "";
     if (t) note = '<div class="marker">↩ Replying to ' + who(t.username) + "</div>";
     if (t && !refThreadOff && P.isId(String(r.id))) {
       var view = "r" + r.id;
@@ -250,10 +262,15 @@
         ? threadBlock({ id: String(r.id), reply_to: r.reply_to, conversation_id: r.conversation_id }, view)
         : '<div class="ref-thread">' + threadButton(view, false, "Show earlier posts") + "</div>";
     }
+    var mark = label || "";
+    if (missing) {
+      if (label) mark = label + (r.username ? " " + handleHtml(r.username) : "");
+      else if (r.username) mark = "Repost of " + handleHtml(r.username);
+    }
     var lead = t && state.thread["r" + r.id] && thread ? thread + note : note + thread;
-    return '<div class="quote">' + (label ? '<div class="marker">' + label + "</div>" : "") + lead + refMeta(r) +
-      articleLine(r.article_title) + body +
-      mediaBlock(shownMedia, r.username) + nested + "</div>";
+    return '<div class="quote">' + (mark ? '<div class="marker">' + mark + "</div>" : "") + lead + (missing ? "" : refMeta(r)) +
+      (missing ? "" : articleLine(r.article_title)) + body +
+      (missing ? "" : mediaBlock(shownMedia, r.username)) + nested + "</div>";
   }
 
   // Hidden media: only a label button is rendered. The original URL stays in this JS map (never in the DOM).

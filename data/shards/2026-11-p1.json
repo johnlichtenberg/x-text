@@ -1,7 +1,768 @@
 {
  "id": "2026-11-p1",
- "updated_at": "2026-11-22T19:53:12Z",
+ "updated_at": "2026-11-23T04:18:10Z",
  "posts": [
+  {
+   "id": "2124681722705100862",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-23T01:49:32.000Z",
+   "lang": "en",
+   "conversation_id": "2124681722705100862",
+   "url": "https://x.com/elonmusk/status/2124681722705100862",
+   "kind": "repost",
+   "text": "What's new in Grok Bot 1.0 🚀\n\n00:45 Team Bot improvements\n01:47 Bots join your meetings\n03:26 Bots take initiative\n04:10 Bots learn and improve\n05:19 Bots are smarter and faster\n\nLots of easter eggs in this one for y'all!",
+   "urls": [],
+   "metrics": {
+    "likes": 4679,
+    "reposts": 404,
+    "replies": 460,
+    "quotes": 103
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/3840x2160/qYIMxN8O4ae9Fp7_.mp4",
+     "poster": "https://pbs.twimg.com/media/HXL6gzjawAAK9bp.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/480x270/_JLI1bG7ovVcXNGv.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/640x360/5_i7afgAS1YVGbst.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/1280x720/mAth9dBp4iK7YR0D.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/1920x1080/lp1RBB2z7yA0_dgq.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/3840x2160/qYIMxN8O4ae9Fp7_.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 394176
+    }
+   ],
+   "ref": {
+    "id": "2122343944889483583",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-16T15:00:02.000Z",
+    "conversation_id": "2122343944889483583"
+   }
+  },
+  {
+   "id": "2124678745629790551",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-23T01:37:42.000Z",
+   "lang": "en",
+   "conversation_id": "2124675012582093283",
+   "url": "https://x.com/elonmusk/status/2124678745629790551",
+   "reply_to": {
+    "id": "2124675012582093283",
+    "username": "SawyerMerritt"
+   },
+   "kind": "reply",
+   "text": "@SawyerMerritt Except in China, as Starlink is illegal there",
+   "urls": [],
+   "metrics": {
+    "likes": 7066,
+    "reposts": 339,
+    "replies": 966,
+    "quotes": 123
+   }
+  },
+  {
+   "id": "2124677795666428315",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-23T01:33:55.000Z",
+   "lang": "en",
+   "conversation_id": "2124677795666428315",
+   "url": "https://x.com/elonmusk/status/2124677795666428315",
+   "kind": "repost",
+   "text": "I warned Iceland in June 2025 but they chose to ignore me…",
+   "urls": [],
+   "metrics": {
+    "likes": 3239,
+    "reposts": 223,
+    "replies": 98,
+    "quotes": 1
+   },
+   "ref": {
+    "id": "2124596352256819377",
+    "author_id": "116579971",
+    "username": "GadSaad",
+    "name": "Gad Saad",
+    "created_at": "2026-11-22T20:10:18.000Z",
+    "conversation_id": "2124596352256819377",
+    "quote": {
+     "id": "2124178525221466306",
+     "author_id": "2602121875",
+     "username": "",
+     "name": "",
+     "created_at": "2026-11-21T16:30:00.000Z",
+     "text": "Iceland is considered “the most gender-equal country in the world” but it doesn’t seem “equal” to me… Currently, they have a female President, Prime Minister, the head of every political party is a woman and the majority of cabinet is women. 68.8% of students who graduated college last year were women. This list goes on about how “gender equality” actually seems to mean female dominance today.\n\nYesterday I spoke with the former First Lady of Iceland. She did seem concerned about the college student stat, but she insisted there was still so much to do to fight for gender equality for women there.\n\nI think it might be time to look at the disadvantages of both sexes when it comes to addressing “gender equality.” No?",
+     "conversation_id": "2124178525221466306"
+    }
+   }
+  },
+  {
+   "id": "2124677762686578933",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-23T01:33:47.000Z",
+   "lang": "en",
+   "conversation_id": "2124677762686578933",
+   "url": "https://x.com/elonmusk/status/2124677762686578933",
+   "kind": "repost",
+   "text": "Iceland is considered “the most gender-equal country in the world” but it doesn’t seem “equal” to me… Currently, they have a female President, Prime Minister, the head of every political party is a woman and the majority of cabinet is women. 68.8% of students who graduated college last year were women. This list goes on about how “gender equality” actually seems to mean female dominance today.\n\nYesterday I spoke with the former First Lady of Iceland. She did seem concerned about the college student stat, but she insisted there was still so much to do to fight for gender equality for women there.\n\nI think it might be time to look at the disadvantages of both sexes when it comes to addressing “gender equality.” No?",
+   "urls": [],
+   "metrics": {
+    "likes": 9764,
+    "reposts": 873,
+    "replies": 456,
+    "quotes": 79
+   },
+   "ref": {
+    "id": "2124178525221466306",
+    "author_id": "2602121875",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-21T16:30:00.000Z",
+    "conversation_id": "2124178525221466306"
+   }
+  },
+  {
+   "id": "2124675192312287253",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-23T01:23:35.000Z",
+   "lang": "qam",
+   "conversation_id": "2124527487174746236",
+   "url": "https://x.com/elonmusk/status/2124675192312287253",
+   "reply_to": {
+    "id": "2124527487174746236",
+    "username": "EndWokeness"
+   },
+   "kind": "reply",
+   "text": "@EndWokeness !!",
+   "urls": [],
+   "metrics": {
+    "likes": 4219,
+    "reposts": 191,
+    "replies": 157,
+    "quotes": 7
+   }
+  },
+  {
+   "id": "2124674295246811586",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-23T01:20:01.000Z",
+   "lang": "art",
+   "conversation_id": "2124674295246811586",
+   "url": "https://x.com/elonmusk/status/2124674295246811586",
+   "kind": "quote",
+   "text": "😂",
+   "urls": [],
+   "metrics": {
+    "likes": 6391,
+    "reposts": 397,
+    "replies": 664,
+    "quotes": 50
+   },
+   "ref": {
+    "id": "2124476571104772487",
+    "author_id": "1597503474161303553",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-22T12:14:20.000Z",
+    "text": "The funniest chart ever. 😂\n\n$TSLA",
+    "conversation_id": "2124476571104772487"
+   }
+  },
+  {
+   "id": "2124673809936461957",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-23T01:18:05.000Z",
+   "lang": "en",
+   "conversation_id": "2124673809936461957",
+   "url": "https://x.com/elonmusk/status/2124673809936461957",
+   "kind": "repost",
+   "text": "I think we moved past this a little too quickly … SpaceX literally caught a rocket in mid air last week",
+   "urls": [],
+   "metrics": {
+    "likes": 8281,
+    "reposts": 726,
+    "replies": 322,
+    "quotes": 51
+   },
+   "ref": {
+    "id": "2124498163050713287",
+    "author_id": "1250830691824283648",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-22T13:40:07.000Z",
+    "conversation_id": "2124498163050713287"
+   }
+  },
+  {
+   "id": "2124673411242758419",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-23T01:16:30.000Z",
+   "lang": "qst",
+   "conversation_id": "2124673411242758419",
+   "url": "https://x.com/elonmusk/status/2124673411242758419",
+   "kind": "repost",
+   "text": "XV",
+   "urls": [],
+   "metrics": {
+    "likes": 19118,
+    "reposts": 1433,
+    "replies": 1062,
+    "quotes": 632
+   },
+   "ref": {
+    "id": "2124005518746480996",
+    "author_id": "1659653864138612761",
+    "username": "TeslaSI",
+    "name": "Tesla Super Intelligence",
+    "created_at": "2026-11-21T05:02:32.000Z",
+    "conversation_id": "2124005518746480996"
+   }
+  },
+  {
+   "id": "2124673356989346144",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-23T01:16:17.000Z",
+   "lang": "en",
+   "conversation_id": "2124673356989346144",
+   "url": "https://x.com/elonmusk/status/2124673356989346144",
+   "kind": "repost",
+   "text": "I've been using @bot to help my fiancée and me plan our wedding, and it honestly feels like we have a hired full-time wedding planner.\n\nOver the last month, it helped us figure out our hotel room block.\n\nIt found 15 hotels within 35 minutes of our venue, handled all the email correspondence, and got proposals with the details we needed to decide.\n\nThen it created a comparison sheet with the criteria we cared about and recommended a shortlist.\n\nOnce we picked one, it helped us review the contract, negotiated with the hotel, and even signed it (w/ my permission, of course).\n\nThe day after we signed,  @bot proactively researched a shortlist of shuttle services and welcome-party venues, with emails already drafted for my review.\n\nI can't imagine planning a wedding without it. It's truly an amazing time to be alive.",
+   "urls": [],
+   "metrics": {
+    "likes": 789,
+    "reposts": 87,
+    "replies": 56,
+    "quotes": 9
+   },
+   "ref": {
+    "id": "2124570651755204813",
+    "author_id": "1592524494496796675",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-22T18:28:10.000Z",
+    "conversation_id": "2124570651755204813"
+   }
+  },
+  {
+   "id": "2124673261904548151",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-23T01:15:54.000Z",
+   "lang": "en",
+   "conversation_id": "2124673261904548151",
+   "url": "https://x.com/elonmusk/status/2124673261904548151",
+   "kind": "repost",
+   "text": "It’s almost unbelievable to have a CEO that works on so many things but still has this level of understanding of technical details at Tesla. Every time I’m fortunate enough to present to Elon, I’m blown away by how dedicated he is to learn about the technical progress and how much he cares about the low-level details while respecting each engineer’s work. Elon is so unique and It’s such an honor to work for him.",
+   "urls": [],
+   "metrics": {
+    "likes": 3822,
+    "reposts": 285,
+    "replies": 108,
+    "quotes": 20
+   },
+   "ref": {
+    "id": "2124558617231925447",
+    "author_id": "3300935755",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-22T17:40:21.000Z",
+    "conversation_id": "2124558617231925447",
+    "quote": {
+     "id": "2124458557525397780",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-11-22T11:02:45.000Z",
+     "text": "@BLKMDL3 @wholemars In case anyone is curious:\n\nWe’ve had a ~pixel-perfect world model since last year, which is critical for synthetic data generation.\n\nThe (much) smaller version of that in the car is a conditional mean-flow model, based on the recent sequence of Tesla Universal Vision Encoder",
+     "reply_to": {
+      "id": "2124413163454255246",
+      "username": "BLKMDL3"
+     }
+    }
+   }
+  },
+  {
+   "id": "2124673053246312848",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-23T01:15:05.000Z",
+   "lang": "en",
+   "conversation_id": "2124662177693102590",
+   "url": "https://x.com/elonmusk/status/2124673053246312848",
+   "reply_to": {
+    "id": "2124662177693102590",
+    "username": "davidmarcus"
+   },
+   "kind": "reply",
+   "text": "@davidmarcus Hopefully available towards the end of next year.\n\nThis will be important for unsupervised FSD, so passengers have high bandwidth everywhere for work and entertainment.",
+   "urls": [],
+   "metrics": {
+    "likes": 8440,
+    "reposts": 461,
+    "replies": 405,
+    "quotes": 117
+   }
+  },
+  {
+   "id": "2124657565950984345",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-23T00:13:32.000Z",
+   "lang": "en",
+   "conversation_id": "2124657565950984345",
+   "url": "https://x.com/elonmusk/status/2124657565950984345",
+   "kind": "repost",
+   "text": "Jessica Tarlov says when she finally decided to listen to the full audio of Trump's \"Fine People\" comments -- she found out he wasn't talking about Nazis.\n\n\"That was illuminating for me.\"\n\nWow. How big of her to admit it was a lie all these years later...after actually listening to it.\n\nDemocrats still regurgitate this hoax to this day.",
+   "urls": [],
+   "metrics": {
+    "likes": 19437,
+    "reposts": 3510,
+    "replies": 1722,
+    "quotes": 342
+   },
+   "ref": {
+    "id": "2124620232287277091",
+    "author_id": "1674861136498286605",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-22T21:45:11.000Z",
+    "conversation_id": "2124620232287277091"
+   }
+  },
+  {
+   "id": "2124656837157110098",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-23T00:10:38.000Z",
+   "lang": "qme",
+   "conversation_id": "2124638954272305593",
+   "url": "https://x.com/elonmusk/status/2124656837157110098",
+   "reply_to": {
+    "id": "2124638954272305593",
+    "username": "durov"
+   },
+   "kind": "reply",
+   "text": "@durov 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 8621,
+    "reposts": 148,
+    "replies": 210,
+    "quotes": 21
+   }
+  },
+  {
+   "id": "2124638778518303124",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T22:58:53.000Z",
+   "lang": "en",
+   "conversation_id": "2124638778518303124",
+   "url": "https://x.com/elonmusk/status/2124638778518303124",
+   "kind": "repost",
+   "text": "Google CEO Sundar Pichai on Elon's ability to bring future technologies into existence: \"I think it's just unparalleled.\"",
+   "urls": [],
+   "metrics": {
+    "likes": 1859,
+    "reposts": 238,
+    "replies": 100,
+    "quotes": 12
+   },
+   "ref": {
+    "id": "2124320652501143556",
+    "author_id": "1016059981907386368",
+    "username": "teslaownersSV",
+    "name": "Tesla Owners Silicon Valley",
+    "created_at": "2026-11-22T01:54:46.000Z",
+    "conversation_id": "2124320652501143556"
+   }
+  },
+  {
+   "id": "2124637081695899784",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T22:52:08.000Z",
+   "lang": "en",
+   "conversation_id": "2124586981074288711",
+   "url": "https://x.com/elonmusk/status/2124637081695899784",
+   "reply_to": {
+    "id": "2124636991346073711",
+    "username": "DirtyTesLa"
+   },
+   "kind": "reply",
+   "text": "@DirtyTesLa @wholemars Hard to tell",
+   "urls": [],
+   "metrics": {
+    "likes": 1412,
+    "reposts": 59,
+    "replies": 117,
+    "quotes": 12
+   }
+  },
+  {
+   "id": "2124634239945540061",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T22:40:51.000Z",
+   "lang": "en",
+   "conversation_id": "2124634239945540061",
+   "url": "https://x.com/elonmusk/status/2124634239945540061",
+   "kind": "repost",
+   "text": "I love that he doesn’t appear to know the internet exists lol  https://twitter.com/theblaze/status/2123798615009144960",
+   "urls": [
+    "https://twitter.com/theblaze/status/2123798615009144960"
+   ],
+   "metrics": {
+    "likes": 25689,
+    "reposts": 4110,
+    "replies": 932,
+    "quotes": 147
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXpoimZW4AADqU1.jpg",
+     "width": 1206,
+     "height": 1229
+    }
+   ],
+   "ref": {
+    "id": "2124125122277572981",
+    "author_id": "18986695",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-21T12:57:48.000Z",
+    "conversation_id": "2124125122277572981"
+   }
+  },
+  {
+   "id": "2124631858340049214",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T22:31:23.000Z",
+   "lang": "en",
+   "conversation_id": "2124586981074288711",
+   "url": "https://x.com/elonmusk/status/2124631858340049214",
+   "reply_to": {
+    "id": "2124586981074288711",
+    "username": "wholemars"
+   },
+   "kind": "reply",
+   "text": "@wholemars RAM is super expensive, so we reduced AI4.5 from 32GB to 24GB. That will be fine. It’s hard to use 32GB anyway, given memory bandwidth constraints.",
+   "urls": [],
+   "metrics": {
+    "likes": 5548,
+    "reposts": 306,
+    "replies": 334,
+    "quotes": 89
+   }
+  },
+  {
+   "id": "2124631050278084849",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T22:28:10.000Z",
+   "lang": "en",
+   "conversation_id": "2123989973871349953",
+   "url": "https://x.com/elonmusk/status/2124631050278084849",
+   "reply_to": {
+    "id": "2123989973871349953",
+    "username": "elder_plinius"
+   },
+   "kind": "reply",
+   "text": "@elder_plinius Fair point",
+   "urls": [],
+   "metrics": {
+    "likes": 3946,
+    "reposts": 132,
+    "replies": 197,
+    "quotes": 16
+   }
+  },
+  {
+   "id": "2124630854395940955",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T22:27:24.000Z",
+   "lang": "en",
+   "conversation_id": "2124414071349104804",
+   "url": "https://x.com/elonmusk/status/2124630854395940955",
+   "reply_to": {
+    "id": "2124414071349104804",
+    "username": "slimer48484"
+   },
+   "kind": "reply",
+   "text": "@slimer48484 Indeed, the question now is how small you can make the proof",
+   "urls": [],
+   "metrics": {
+    "likes": 1529,
+    "reposts": 82,
+    "replies": 130,
+    "quotes": 10
+   }
+  },
+  {
+   "id": "2124630343017718022",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T22:25:22.000Z",
+   "lang": "en",
+   "conversation_id": "2124630343017718022",
+   "url": "https://x.com/elonmusk/status/2124630343017718022",
+   "kind": "repost",
+   "text": "Try Grok Bot today!",
+   "urls": [],
+   "metrics": {
+    "likes": 1735,
+    "reposts": 195,
+    "replies": 135,
+    "quotes": 15
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXwmNI_XMAAHzes.jpg",
+     "width": 1024,
+     "height": 2048
+    }
+   ],
+   "ref": {
+    "id": "2124615281901486219",
+    "author_id": "1614879930885574656",
+    "username": "iam_smx",
+    "name": "SMX 🇺🇸",
+    "created_at": "2026-11-22T21:25:31.000Z",
+    "conversation_id": "2124615281901486219"
+   }
+  },
+  {
+   "id": "2124624263214662097",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T22:01:12.000Z",
+   "lang": "en",
+   "conversation_id": "2124624263214662097",
+   "url": "https://x.com/elonmusk/status/2124624263214662097",
+   "kind": "quote",
+   "text": "The small details are so good",
+   "urls": [],
+   "metrics": {
+    "likes": 8642,
+    "reposts": 1010,
+    "replies": 1298,
+    "quotes": 161
+   },
+   "ref": {
+    "id": "2122159837614330267",
+    "author_id": "893134581234147328",
+    "username": "summer__heidi",
+    "name": "ᴉpᴉǝH 🐐💕",
+    "created_at": "2026-11-16T02:48:27.000Z",
+    "text": "Deception needs a motive, and a motive needs a soul",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/1280x720/IVtyBMfUA9-3wE-f.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122159744207224832/img/n08rNOVEuVyNGTlF.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/480x270/Q1TTc7k0ZRUjNzqy.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/640x360/mz_t0u2Vfexnxrl-.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/1280x720/IVtyBMfUA9-3wE-f.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 269880
+     }
+    ],
+    "conversation_id": "2122159837614330267"
+   }
+  },
+  {
+   "id": "2124622568506442222",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T21:54:28.000Z",
+   "lang": "en",
+   "conversation_id": "2124622568506442222",
+   "url": "https://x.com/elonmusk/status/2124622568506442222",
+   "kind": "repost",
+   "text": "@Liv_Boeree Unequivocal super intelligence has arrived.\n\nWelcome to the Singularity.",
+   "urls": [],
+   "metrics": {
+    "likes": 48842,
+    "reposts": 4939,
+    "replies": 2544,
+    "quotes": 1075
+   },
+   "ref": {
+    "id": "2124464633490850164",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-22T11:26:53.000Z",
+    "reply_to": {
+     "id": "2124234358676771099",
+     "username": "Liv_Boeree"
+    },
+    "conversation_id": "2124234358676771099"
+   }
+  },
+  {
+   "id": "2124622494749622645",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T21:54:10.000Z",
+   "lang": "en",
+   "conversation_id": "2124622494749622645",
+   "url": "https://x.com/elonmusk/status/2124622494749622645",
+   "kind": "repost",
+   "text": ".@TheEconomist has a piece about how AI has found many top economics papers to be formally flawed.\n\nI've been saying the same thing for many years, without the help of AI.\n\nAn example is Bernoulli's bizarre error from 1738, which percolated uncorrected into the 20th century. Menger 1934 is therefore invalid (the wikipedia page on the St. Petersburg discusses his contribution uncorrected; the journal where he published his work was not interested in publishing a correction when I contacted them).\n\nI was told way back when by economists that I seem to be right, but who cares about a 300-year-old error?\n(In the foundational work of the discipline. Well...)\n\nHow did this error travel? Kahneman and Tversky's foundational paper introducing Prospect theory seems inspired by the error. It starts by defining expected-utility theory in a mathematically implausible way. You can call it `wrong' or `erroneous' if you like.\nThe weirdness goes back to Bernoulli 300 years ago, and it convinced a whole research field that humans are utterly irrational (because they don't behave as suggested by flawed formal work).\n\nYes, it's a complete mess. But out of this mess grew the field of behavioral economics, with several Swedish Bank Prizes for Economic Science in Memory of Alred Nobel (the name changes every few years).\nThe basis of this field is formally off.\nOver the last decade or so, economists working in behavioral economics noticed that practically nothing in their field replicates, and worse that the whole philosophy is deeply flawed -- seeing solutions to structural problems in affected people just changing their attitudes to the problems. Instead of fixing the problems.\n\nMany of the most famous findings of the field turned out to be literally made up. Fabricated data, invented experiments that never took place.\n\nSlowly but surely this is all coming out. Developing ergodicity economics acted as an early-warning system. We who worked on it had deep suspicions, to put it mildly, about behavioral economics.",
+   "urls": [],
+   "metrics": {
+    "likes": 1843,
+    "reposts": 311,
+    "replies": 87,
+    "quotes": 35
+   },
+   "ref": {
+    "id": "2123846433849971176",
+    "author_id": "2894902813",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-20T18:30:23.000Z",
+    "conversation_id": "2123846433849971176"
+   }
+  },
+  {
+   "id": "2124621998521212940",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T21:52:12.000Z",
+   "lang": "en",
+   "conversation_id": "2124621998521212940",
+   "url": "https://x.com/elonmusk/status/2124621998521212940",
+   "kind": "quote",
+   "text": "Starlink helps kids with education",
+   "urls": [],
+   "metrics": {
+    "likes": 4832,
+    "reposts": 708,
+    "replies": 699,
+    "quotes": 61
+   },
+   "ref": {
+    "id": "2124415053860676083",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-22T08:09:53.000Z",
+    "text": "Starlink is bringing high-speed internet to thousands of students in rural Honduras, one school at a time 🇭🇳\n\nAt Escuela Sergio Palacios in El Hatillo, 200 students now have access to Starlink internet through an installation by Conatel\n\nAnd this is part of a much bigger effort to connect underserved communities\n\n• 1,212 institutions connected through Conatel's wider connectivity program, benefiting over 167,500 students\n• 1,860 Starlink antennas installed by Hondutel across 218 municipalities\n• 3,100 Starlink installations planned in total\n• Over 2,000 additional schools, health centers and public institutions targeted for connectivity in 2027\n\nFor students growing up in remote communities, having internet access opens up an entirely new world of opportunities to learn, research and access educational resources that were previously out of reach\n\nThis is what makes Starlink so important",
+    "conversation_id": "2124415053860676083"
+   }
+  },
+  {
+   "id": "2124621650628923456",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T21:50:49.000Z",
+   "lang": "en",
+   "conversation_id": "2124621650628923456",
+   "url": "https://x.com/elonmusk/status/2124621650628923456",
+   "kind": "repost",
+   "text": "When Elon Musk was a student at the University of Pennsylvania, he was paying his own way through college. He and his roommate rented a cheap ten-bedroom house that had once been a frat house and began hosting weekend parties there, charging five dollars at the door. Elon later said he could make an entire month's rent in one night, and that somebody had to stay sober to run the party, so he did.\n\nWhen Maye came to visit one weekend, she was quite surprised by it all, and then she did what Maye always does: she helped. She worked coat check and even guarded the cash, as he later joked, with a kitchen knife 😅",
+   "urls": [],
+   "metrics": {
+    "likes": 1959,
+    "reposts": 268,
+    "replies": 100,
+    "quotes": 9
+   },
+   "ref": {
+    "id": "2124535759117934994",
+    "author_id": "959471389282578432",
+    "username": "EvaFox",
+    "name": "Eva Fo𝕏 🦊 Claudius Nero's Legion",
+    "created_at": "2026-11-22T16:09:31.000Z",
+    "conversation_id": "2124535759117934994"
+   }
+  },
   {
    "id": "2124589722487935263",
    "author_id": "44196397",
@@ -11781,847 +12542,6 @@
     "quotes": 0
    },
    "partial": true
-  },
-  {
-   "id": "2123824762854216036",
-   "author_id": "1899375311680372736",
-   "username": "larsencc",
-   "name": "Larsen Cundric",
-   "created_at": "2026-11-20T17:04:16.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/larsencc/status/2123824762854216036",
-   "reply_to": {
-    "id": "2123801770682191872",
-    "username": "pontusab"
-   },
-   "kind": "reply",
-   "text": "@pontusab true",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2123824722979004818",
-   "author_id": "1899375311680372736",
-   "username": "larsencc",
-   "name": "Larsen Cundric",
-   "created_at": "2026-11-20T17:04:07.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/larsencc/status/2123824722979004818",
-   "reply_to": {
-    "id": "2123808589668073831",
-    "username": "lucas_builds"
-   },
-   "kind": "reply",
-   "text": "@lucas_builds You dont lol",
-   "urls": [],
-   "metrics": {
-    "likes": 8,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2123824645803766146",
-   "author_id": "1899375311680372736",
-   "username": "larsencc",
-   "name": "Larsen Cundric",
-   "created_at": "2026-11-20T17:03:48.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/larsencc/status/2123824645803766146",
-   "reply_to": {
-    "id": "2123793364151636294",
-    "username": "Mahaximus_"
-   },
-   "kind": "reply",
-   "text": "@Mahaximus_ will post something on this topic soon",
-   "urls": [],
-   "metrics": {
-    "likes": 48,
-    "reposts": 0,
-    "replies": 7,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2123824540807557213",
-   "author_id": "1899375311680372736",
-   "username": "larsencc",
-   "name": "Larsen Cundric",
-   "created_at": "2026-11-20T17:03:23.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/larsencc/status/2123824540807557213",
-   "reply_to": {
-    "id": "2123819749817630956",
-    "username": "Texas_Twins_Dad"
-   },
-   "kind": "reply",
-   "text": "@Texas_Twins_Dad 👀",
-   "urls": [],
-   "metrics": {
-    "likes": 3,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2123824284040937547",
-   "author_id": "1899375311680372736",
-   "username": "larsencc",
-   "name": "Larsen Cundric",
-   "created_at": "2026-11-20T17:02:22.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/larsencc/status/2123824284040937547",
-   "reply_to": {
-    "id": "2123777432872276428",
-    "username": "ducksays"
-   },
-   "kind": "reply",
-   "text": "@ducksays Yes, you should pay attention :P",
-   "urls": [],
-   "metrics": {
-    "likes": 5,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2123821887746920471",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:52:51.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123821887746920471",
-   "kind": "repost",
-   "text": "Deception needs a motive, and a motive needs a soul",
-   "urls": [],
-   "metrics": {
-    "likes": 11740,
-    "reposts": 2384,
-    "replies": 641,
-    "quotes": 759
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/1280x720/IVtyBMfUA9-3wE-f.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122159744207224832/img/n08rNOVEuVyNGTlF.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/480x270/Q1TTc7k0ZRUjNzqy.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/640x360/mz_t0u2Vfexnxrl-.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/1280x720/IVtyBMfUA9-3wE-f.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      }
-     ],
-     "width": 1280,
-     "height": 720,
-     "duration_ms": 269880
-    }
-   ],
-   "ref": {
-    "id": "2122159837614330267",
-    "author_id": "893134581234147328",
-    "username": "summer__heidi",
-    "name": "ᴉpᴉǝH 🐐💕",
-    "created_at": "2026-11-16T02:48:27.000Z",
-    "conversation_id": "2122159837614330267"
-   }
-  },
-  {
-   "id": "2123821137490493806",
-   "author_id": "34743251",
-   "username": "SpaceX",
-   "name": "SpaceX",
-   "created_at": "2026-11-20T16:49:52.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/SpaceX/status/2123821137490493806",
-   "kind": "post",
-   "text": "All cargo is loaded, the hatch is closed, and Dragon is ready for an on-time departure from the @Space_Station at 12:05 p.m. ET",
-   "urls": [],
-   "metrics": {
-    "likes": 8325,
-    "reposts": 489,
-    "replies": 149,
-    "quotes": 29
-   },
-   "partial": true
-  },
-  {
-   "id": "2123820896897073315",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:48:55.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123820896897073315",
-   "reply_to": {
-    "id": "2123699494068113652",
-    "username": "Scobleizer"
-   },
-   "kind": "reply",
-   "text": "@Scobleizer 💯",
-   "urls": [],
-   "metrics": {
-    "likes": 1772,
-    "reposts": 280,
-    "replies": 230,
-    "quotes": 20
-   },
-   "partial": true
-  },
-  {
-   "id": "2123820277599494184",
-   "author_id": "34743251",
-   "username": "SpaceX",
-   "name": "SpaceX",
-   "created_at": "2026-11-20T16:46:27.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/SpaceX/status/2123820277599494184",
-   "kind": "repost",
-   "text": "LIVE: Watch as an uncrewed SpaceX Dragon spacecraft undocks from the @space_station and begins its journey to bring research samples and hardware back to Earth. https://x.com/i/broadcasts/2evOEzWEYBkWyn",
-   "urls": [
-    "https://x.com/i/broadcasts/2evOEzWEYBkWyn"
-   ],
-   "metrics": {
-    "likes": 2215,
-    "reposts": 330,
-    "replies": 116,
-    "quotes": 18
-   },
-   "partial": true,
-   "ref": {
-    "id": "2123820070803542306",
-    "author_id": "11348282",
-    "username": "NASA",
-    "name": "NASA",
-    "created_at": "2026-11-20T16:45:38.000Z",
-    "conversation_id": "2123820070803542306"
-   }
-  },
-  {
-   "id": "2123817232849567933",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:34:21.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123817232849567933",
-   "kind": "quote",
-   "text": "Neuralink’s Blindsight product is now just waiting for regulatory approval https://t.co/iEquMbbx8g",
-   "urls": [],
-   "metrics": {
-    "likes": 24589,
-    "reposts": 3725,
-    "replies": 1556,
-    "quotes": 256
-   },
-   "partial": true,
-   "ref": {
-    "id": "2123771069354152204",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-20T13:30:55.000Z",
-    "text": "Elon Musk just gave a massive update on Neuralink's Blindsight\n\n\"And our next product is what we call Blindsight\n\nSo Blindsight is a neural implant that interfaces directly with the visual cortex and enables people who are completely blind to see\n\nSo it allows you to be wearing glasses or something like that that have a camera\n\nThat camera is transmitting to the Neuralink device that then transfers the signals to your visual cortex, enabling someone who is completely blind meaning blind in both eyes or lost optic nerve potentially someone who has been blind from birth, to see”",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2123771002073300992/vid/avc1/1280x720/CvbjlgSJ0Kieg7Sl.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123771002073300992/img/CISjQCAflhXqiDfQ.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2123771002073300992/vid/avc1/480x270/ueGnWLQ7w6IOzft4.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123771002073300992/vid/avc1/640x360/ToTljUnlsQUBH8Kh.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123771002073300992/vid/avc1/1280x720/CvbjlgSJ0Kieg7Sl.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       }
-      ],
-      "width": 1280,
-      "height": 720,
-      "duration_ms": 37404
-     }
-    ],
-    "conversation_id": "2123771069354152204"
-   }
-  },
-  {
-   "id": "2123816520002482305",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:31:31.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123816520002482305",
-   "kind": "quote",
-   "text": "Starlink helps education https://t.co/x4x285US1S",
-   "urls": [],
-   "metrics": {
-    "likes": 14094,
-    "reposts": 2363,
-    "replies": 954,
-    "quotes": 114
-   },
-   "partial": true,
-   "ref": {
-    "id": "2123741477238890516",
-    "author_id": "1389913567671975937",
-    "username": "cb_doge",
-    "name": "DogeDesigner",
-    "created_at": "2026-11-20T11:33:20.000Z",
-    "text": "BREAKING: Paraguay’s government receives 400 more Starlink kits to connect more schools across the country. 🇵🇾\n\n• 800 rural schools already connected.\n• Goal: 1,600 educational institutions nationwide.\n• Next phase: expanding connectivity to hospitals and Family Health Units.\n\nStarlink is helping students in remote communities access online lessons and digital learning resources.",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HXkLnFgbMAAp4Rh.jpg",
-      "width": 2048,
-      "height": 2048
-     }
-    ],
-    "conversation_id": "2123741477238890516"
-   }
-  },
-  {
-   "id": "2123815227942895868",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:26:23.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123815227942895868",
-   "kind": "repost",
-   "text": "Starlink is transforming a remote mountain water gate in Japan that sits completely outside mobile network coverage\n\nFor years, workers had to travel roughly 35 minutes along a dangerous mountain road just to inspect the facility. During heavy rain, floods, or at night, reaching the site became even more dangerous\n\nNow KDDI and Japanese farm-tech company farmo have connected the Shinbori headworks in Sekikawa, Niigata, using Starlink Mini\n\nHere's how the system works:\n\n• Starlink Mini provides satellite internet where cellular networks don't reach\n\n• LoRa connects water-level sensors and the automated water gate\n\n• Solar panels power the equipment where grid electricity is difficult to access\n\n• Cloud monitoring gives operators real-time water levels, camera feeds, equipment status, and emergency alerts\n\n• Workers remotely open and close the water gate without physically visiting the site\n\nThe results are already impressive:\n\nAll 6 remote gate-control tests were SUCCESSFUL\n\nWorkers now have visibility and control over infrastructure that previously required a dangerous mountain trip just to inspect\n\nThis becomes especially important during floods and emergencies, when every minute matters and sending workers into dangerous conditions puts lives at risk\n\nThe project will continue in Japan's FY2027, with plans to expand into automated water management, disaster prevention, and other agricultural applications\n\nThis is another example of what Starlink is making possible",
-   "urls": [],
-   "metrics": {
-    "likes": 2229,
-    "reposts": 329,
-    "replies": 87,
-    "quotes": 18
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123707350754484224/vid/avc1/2160x2160/2-OmcUGEa0l_zRWN.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123707350754484224/img/7Ft4Ww4EWrjZsT3p.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123707350754484224/vid/avc1/320x320/P-mf7YAYvKSQ_HT-.mp4",
-       "w": 320,
-       "h": 320,
-       "br": 432000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123707350754484224/vid/avc1/540x540/uvq2_vPaTlyk7Z85.mp4",
-       "w": 540,
-       "h": 540,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123707350754484224/vid/avc1/720x720/BF1GZOxtn9BZTaUm.mp4",
-       "w": 720,
-       "h": 720,
-       "br": 1280000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123707350754484224/vid/avc1/1080x1080/6HElvBtXG27RwvpE.mp4",
-       "w": 1080,
-       "h": 1080,
-       "br": 8768000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123707350754484224/vid/avc1/2160x2160/2-OmcUGEa0l_zRWN.mp4",
-       "w": 2160,
-       "h": 2160,
-       "br": 25128000
-      }
-     ],
-     "width": 2160,
-     "height": 2160,
-     "duration_ms": 16666
-    }
-   ],
-   "ref": {
-    "id": "2123707452915065128",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-20T09:18:08.000Z",
-    "conversation_id": "2123707452915065128"
-   }
-  },
-  {
-   "id": "2123815027790708972",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:25:35.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123815027790708972",
-   "reply_to": {
-    "id": "2123507070297420193",
-    "username": "stuffyokodraws"
-   },
-   "kind": "reply",
-   "text": "@stuffyokodraws @bot Optimus will fix it in the future",
-   "urls": [],
-   "metrics": {
-    "likes": 9875,
-    "reposts": 650,
-    "replies": 633,
-    "quotes": 60
-   },
-   "partial": true
-  },
-  {
-   "id": "2123814933163094138",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:25:13.000Z",
-   "lang": "en",
-   "conversation_id": "2123814933163094138",
-   "url": "https://x.com/elonmusk/status/2123814933163094138",
-   "kind": "repost",
-   "text": "I use @bot very extensively, but the most mind blowing thing just happened 🤯\n\nOur roof had a small leak because of the rain. @bot called an emergency roof repair business for me, talked to their AI agent on the phone, and a guy showed up and fixed our roof in an hour for $300\n\nThe future is here. Huge fan of the new call feature!!! @poteto",
-   "urls": [],
-   "metrics": {
-    "likes": 4317,
-    "reposts": 210,
-    "replies": 197,
-    "quotes": 32
-   },
-   "ref": {
-    "id": "2123507070297420193",
-    "author_id": "1252691385095868417",
-    "username": "stuffyokodraws",
-    "name": "Yoko",
-    "created_at": "2026-11-19T20:01:53.000Z",
-    "conversation_id": "2123507070297420193"
-   }
-  },
-  {
-   "id": "2123814401346298037",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:23:06.000Z",
-   "lang": "en",
-   "conversation_id": "2123814401346298037",
-   "url": "https://x.com/elonmusk/status/2123814401346298037",
-   "kind": "repost",
-   "text": "Morgan Stanley: SpaceX\n\nMorgan Stanley's latest report indicates that a single fully loaded Starship launch could generate approximately $400 million in annualized revenue for Starlink, with a revenue payback period of about 13 weeks and an EBIT payback period of about 19 weeks, surpassing even the profitability efficiency of the emerging neocloud business.\n\nThis calculation is based on each Starship carrying 50 Starlink V3 satellites, with each satellite generating approximately $8 million in annualized incremental revenue. Assuming a variable cost of about $100 million per launch by 2030—comprising $60 million in launch costs and $40 million in payload costs—the payback period for Starship investments would be quite substantial.\n\n$SPCX",
-   "urls": [],
-   "metrics": {
-    "likes": 342,
-    "reposts": 67,
-    "replies": 21,
-    "quotes": 7
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXiUAHDXwAA7x9C.jpg",
-     "width": 1200,
-     "height": 625
-    }
-   ],
-   "ref": {
-    "id": "2123778402289144240",
-    "author_id": "1650268779786452992",
-    "username": "pequityresearch",
-    "name": "P Equity Research 📰",
-    "created_at": "2026-11-20T14:00:03.000Z",
-    "conversation_id": "2123778402289144240"
-   }
-  },
-  {
-   "id": "2123813520244605100",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:19:36.000Z",
-   "lang": "en",
-   "conversation_id": "2123813520244605100",
-   "url": "https://x.com/elonmusk/status/2123813520244605100",
-   "kind": "quote",
-   "text": "𝕏 is the global town square",
-   "urls": [],
-   "metrics": {
-    "likes": 970,
-    "reposts": 116,
-    "replies": 254,
-    "quotes": 16
-   },
-   "ref": {
-    "id": "2123605506799595620",
-    "author_id": "18856867",
-    "username": "zerohedge",
-    "name": "zerohedge",
-    "created_at": "2026-11-20T02:33:02.000Z",
-    "text": "\"X has become a much more powerful force in driving tech investor sentiment over the past few years. Honestly, besides Bloomberg, it’s my most important resource. I literally started a new section of my daily email a few weeks ago called SchilskyX where I screenshot and respond to Tweets. It’s that important. One important issue to note: the FinTwit community of influencers is VERY small. We’re talking less than 50 people that drive a preponderance of sentiment. Most investors and sell siders can’t tweet – so only a small number of FinTwit influencers with any sort of respectability drive much of the debate.\" - JPMorgan's Mark Schilsky",
-    "conversation_id": "2123605506799595620"
-   }
-  },
-  {
-   "id": "2123810595933917215",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:07:59.000Z",
-   "lang": "en",
-   "conversation_id": "2123810595933917215",
-   "url": "https://x.com/elonmusk/status/2123810595933917215",
-   "kind": "repost",
-   "text": "Starlink just secured another major spectrum expansion in Brazil, and the authorization is now OFFICIAL 🇧🇷\n\nBrazil's telecom regulator Anatel published Act No. 14,179 on November 19, formally adding new radio-frequency bands to Starlink's existing satellite authorization\n\nHere's what was approved:\n\n• 5 new uplink frequency sub-bands\n• 4 new downlink frequency sub-bands\n• Additional spectrum across Ku, Ka and Q/V bands\n• Authorization covering ALL of Brazil\n• Non-exclusive use for the remaining term of Starlink's existing authorization\n• Approved by Anatel's board in October and formally published November 19\n\nThe authorization is held by Space Exploration Holdings, with Starlink Brazil Holding serving as its local representative\n\nThese additional frequencies are an important part of expanding Starlink's satellite communications capacity and supporting its next-generation network\n\nAnd with Starlink V3 satellites bringing dramatically more bandwidth per satellite, securing additional spectrum is very important\n\nBrazil is already a major market for Starlink, and SpaceX is continuing to build the regulatory foundation for its future expansion\n\nStep by step, Starlink is securing the infrastructure and spectrum needed to keep scaling across Brazil",
-   "urls": [],
-   "metrics": {
-    "likes": 885,
-    "reposts": 139,
-    "replies": 76,
-    "quotes": 24
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123696229561540608/vid/avc1/3456x2160/4diFX2AinwseQpFM.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123696229561540608/img/VI_04MjsSw8P4cs9.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123696229561540608/vid/avc1/432x270/XOS0GJ2Qp-nHCH8H.mp4",
-       "w": 432,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123696229561540608/vid/avc1/576x360/SDUrLMFrPzGihF-q.mp4",
-       "w": 576,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123696229561540608/vid/avc1/1152x720/jD4M3xCmRv4Fz6pf.mp4",
-       "w": 1152,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123696229561540608/vid/avc1/1728x1080/QUKNUsTupdTqQni-.mp4",
-       "w": 1728,
-       "h": 1080,
-       "br": 10368000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123696229561540608/vid/avc1/3456x2160/4diFX2AinwseQpFM.mp4",
-       "w": 3456,
-       "h": 2160,
-       "br": 25128000
-      }
-     ],
-     "width": 3456,
-     "height": 2160,
-     "duration_ms": 15018
-    }
-   ],
-   "ref": {
-    "id": "2123696355554316764",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-20T08:34:02.000Z",
-    "conversation_id": "2123696355554316764"
-   }
-  },
-  {
-   "id": "2123810270426624429",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:06:41.000Z",
-   "lang": "en",
-   "conversation_id": "2123810270426624429",
-   "url": "https://x.com/elonmusk/status/2123810270426624429",
-   "kind": "repost",
-   "text": "Members of the Starship production team with Starship 42 before its launch",
-   "urls": [],
-   "metrics": {
-    "likes": 2736,
-    "reposts": 319,
-    "replies": 165,
-    "quotes": 37
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXlJcyAXcAABal7.jpg",
-     "width": 2731,
-     "height": 4096
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXlJeEtWQAAyCHO.jpg",
-     "width": 4096,
-     "height": 2731
-    }
-   ],
-   "ref": {
-    "id": "2123809508187078839",
-    "author_id": "34743251",
-    "username": "SpaceX",
-    "name": "SpaceX",
-    "created_at": "2026-11-20T16:03:39.000Z",
-    "conversation_id": "2123809508187078839"
-   }
-  },
-  {
-   "id": "2123809527158161619",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:03:44.000Z",
-   "lang": "en",
-   "conversation_id": "2123809527158161619",
-   "url": "https://x.com/elonmusk/status/2123809527158161619",
-   "kind": "repost",
-   "text": "Back in 2019, Elon Musk stood on an empty field in Shanghai and broke ground on Tesla’s first factory in China\n\nLess than a year later, the first China-made Model 3s were being delivered\n\nThen in January 2020, Elon returned to launch the Model Y program and celebrated with the team on stage\n\nFast forward to 2026\n\nGiga Shanghai has become one of the most important factories in Tesla’s entire global operation\n\n• 851,732 vehicles produced for wholesale in 2025\n• 810,889 already through October 2026\n• 95% of last year’s entire volume in just 10 months\n• +21.4% YoY through October\n• 420,984 vehicles exported through October\n• Exports up more than 100% YoY\n• More than half of Shanghai’s 2026 wholesale volume now going overseas\n• Tesla’s biggest global export hub\n\nAnd on November 19, Elon returned to Shanghai again to personally thank Tesla’s China and APAC teams\n\nFrom an empty construction site in 2019…\n\nTo hundreds of thousands of vehicles every year, supplying markets around the world\n\nGiga Shanghai is one of the clearest examples of how quickly Tesla can turn an empty field into global industrial infrastructure",
-   "urls": [],
-   "metrics": {
-    "likes": 690,
-    "reposts": 116,
-    "replies": 65,
-    "quotes": 4
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXjKSVEbUAAg-RG.jpg",
-     "width": 3000,
-     "height": 2400
-    }
-   ],
-   "ref": {
-    "id": "2123669662768812123",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-20T06:47:58.000Z",
-    "conversation_id": "2123669662768812123"
-   }
-  },
-  {
-   "id": "2123809508187078839",
-   "author_id": "34743251",
-   "username": "SpaceX",
-   "name": "SpaceX",
-   "created_at": "2026-11-20T16:03:39.000Z",
-   "lang": "en",
-   "conversation_id": "2123809508187078839",
-   "url": "https://x.com/SpaceX/status/2123809508187078839",
-   "kind": "post",
-   "text": "Members of the Starship production team with Starship 42 before its launch",
-   "urls": [],
-   "metrics": {
-    "likes": 2736,
-    "reposts": 319,
-    "replies": 165,
-    "quotes": 37
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXlJcyAXcAABal7.jpg",
-     "width": 2731,
-     "height": 4096
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXlJeEtWQAAyCHO.jpg",
-     "width": 4096,
-     "height": 2731
-    }
-   ]
-  },
-  {
-   "id": "2123808936562442708",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:01:23.000Z",
-   "lang": "en",
-   "conversation_id": "2123739830194512067",
-   "url": "https://x.com/elonmusk/status/2123808936562442708",
-   "reply_to": {
-    "id": "2123739830194512067",
-    "username": "matteosalvinimi"
-   },
-   "kind": "reply",
-   "text": "@matteosalvinimi @mitgov_it Thank you, much appreciated! 🇮🇹 ❤️",
-   "urls": [],
-   "metrics": {
-    "likes": 573,
-    "reposts": 45,
-    "replies": 64,
-    "quotes": 6
-   }
-  },
-  {
-   "id": "2123808830752706658",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:00:58.000Z",
-   "lang": "it",
-   "conversation_id": "2123808830752706658",
-   "url": "https://x.com/elonmusk/status/2123808830752706658",
-   "kind": "repost",
-   "text": "Sono orgoglioso di annunciare un’altra importante novità per la mobilità in Italia.\n\nIl @mitgov_it, dopo puntuale verifica tecnica di fattibilità, ha dato il via libera all’omologazione provvisoria del sistema di guida assistita Tesla Assisted Driving, anticipando il processo di riconoscimento comunitario, attualmente in fase di definizione.\n\nUn altro passo avanti verso l’innovazione, la tecnologia e la mobilità del futuro, sempre mettendo al primo posto la sicurezza dei cittadini.",
-   "urls": [],
-   "metrics": {
-    "likes": 2499,
-    "reposts": 288,
-    "replies": 394,
-    "quotes": 64
-   },
-   "ref": {
-    "id": "2123739830194512067",
-    "author_id": "270839361",
-    "username": "matteosalvinimi",
-    "name": "Matteo Salvini",
-    "created_at": "2026-11-20T11:26:47.000Z",
-    "conversation_id": "2123739830194512067"
-   }
-  },
-  {
-   "id": "2123808714566373703",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T16:00:30.000Z",
-   "lang": "en",
-   "conversation_id": "2123781117249798614",
-   "url": "https://x.com/elonmusk/status/2123808714566373703",
-   "reply_to": {
-    "id": "2123781117249798614",
-    "username": "cb_doge"
-   },
-   "kind": "reply",
-   "text": "@cb_doge ?\n\nWe aren’t serving open source models",
-   "urls": [],
-   "metrics": {
-    "likes": 891,
-    "reposts": 67,
-    "replies": 128,
-    "quotes": 15
-   }
-  },
-  {
-   "id": "2123807866134163762",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T15:57:08.000Z",
-   "lang": "en",
-   "conversation_id": "2123807866134163762",
-   "url": "https://x.com/elonmusk/status/2123807866134163762",
-   "kind": "repost",
-   "text": "This came home from Kindergarten today.\n\nMy work is done here. 🦃 🇺🇸🚀💪",
-   "urls": [],
-   "metrics": {
-    "likes": 2934,
-    "reposts": 179,
-    "replies": 151,
-    "quotes": 26
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXhYQFDWgAA7hxm.jpg",
-     "width": 1590,
-     "height": 2048
-    }
-   ],
-   "ref": {
-    "id": "2123544262398951695",
-    "author_id": "78822934",
-    "username": "KTmBoyle",
-    "name": "Katherine Boyle",
-    "created_at": "2026-11-19T22:29:40.000Z",
-    "conversation_id": "2123544262398951695"
-   }
-  },
-  {
-   "id": "2123807687997882521",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-20T15:56:25.000Z",
-   "lang": "qme",
-   "conversation_id": "2123544262398951695",
-   "url": "https://x.com/elonmusk/status/2123807687997882521",
-   "reply_to": {
-    "id": "2123544262398951695",
-    "username": "KTmBoyle"
-   },
-   "kind": "reply",
-   "text": "@KTmBoyle ❤️",
-   "urls": [],
-   "metrics": {
-    "likes": 1253,
-    "reposts": 43,
-    "replies": 146,
-    "quotes": 9
-   }
   }
  ]
 }

@@ -1,53 +1,54 @@
 {
- "updated_at": "2026-11-22T19:53:12Z",
- "post_count": 2195,
+ "updated_at": "2026-11-23T04:18:10Z",
+ "post_count": 2220,
  "accounts": 14,
  "last_run": {
-  "status": "new",
-  "at": "2026-11-22T19:54:14Z",
-  "new_posts": 213
+  "status": "running",
+  "at": "2026-11-23T04:18:10Z",
+  "new_posts": 25,
+  "handle": "elonmusk"
  },
  "shards": [
   {
    "id": "2026-11-p1",
    "file": "shards/2026-11-p1.json",
    "count": 400,
-   "newest_id": "2124589722487935263",
-   "oldest_id": "2123807687997882521"
+   "newest_id": "2124681722705100862",
+   "oldest_id": "2123824961882362334"
   },
   {
    "id": "2026-11-p2",
    "file": "shards/2026-11-p2.json",
    "count": 400,
-   "newest_id": "2123739064893600056",
-   "oldest_id": "2122138555137110487"
+   "newest_id": "2123824762854216036",
+   "oldest_id": "2122181244930678796"
   },
   {
    "id": "2026-11-p3",
    "file": "shards/2026-11-p3.json",
    "count": 400,
-   "newest_id": "2122138040176894180",
-   "oldest_id": "2120814436600439210"
+   "newest_id": "2122181062059037028",
+   "oldest_id": "2120946968403095906"
   },
   {
    "id": "2026-11-p4",
    "file": "shards/2026-11-p4.json",
    "count": 400,
-   "newest_id": "2120814162788200489",
-   "oldest_id": "2119578303568986495"
+   "newest_id": "2120946955425915176",
+   "oldest_id": "2119599497160601996"
   },
   {
    "id": "2026-11-p5",
    "file": "shards/2026-11-p5.json",
    "count": 400,
-   "newest_id": "2119578228608348478",
-   "oldest_id": "2117448110821585296"
+   "newest_id": "2119593134724354527",
+   "oldest_id": "2117603290816864270"
   },
   {
    "id": "2026-11-p6",
    "file": "shards/2026-11-p6.json",
-   "count": 93,
-   "newest_id": "2117447949051437342",
+   "count": 118,
+   "newest_id": "2117603030564585699",
    "oldest_id": "2116685766273413157"
   },
   {
@@ -95,5 +96,5 @@
    "oldest_id": "1731918127355556334"
   }
  ],
- "version": "c6102722cd455c400f998b52cd88f0a0df4775d71b50e10c1d7d4e022afc59f2"
+ "version": "a82a30ae246bbc2e155be37497705ef86606fcb48d8b392663f0aac4fd142f3c"
 }

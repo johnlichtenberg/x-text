@@ -1,7 +1,669 @@
 {
  "id": "2026-11-p5",
- "updated_at": "2026-11-22T19:53:12Z",
+ "updated_at": "2026-11-23T04:18:10Z",
  "posts": [
+  {
+   "id": "2119593134724354527",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-09T00:49:18.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119593134724354527",
+   "reply_to": {
+    "id": "2119504174585192709",
+    "username": "ncfrontiersman"
+   },
+   "kind": "reply",
+   "text": "@ncfrontiersman Thank you Wes",
+   "urls": [],
+   "metrics": {
+    "likes": 39,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119592868486746474",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-09T00:48:14.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119592868486746474",
+   "reply_to": {
+    "id": "2119515155482431639",
+    "username": "alexmichael"
+   },
+   "kind": "reply",
+   "text": "@alexmichael Thank you Alex",
+   "urls": [],
+   "metrics": {
+    "likes": 72,
+    "reposts": 2,
+    "replies": 2,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119592776040153333",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-09T00:47:52.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119592776040153333",
+   "reply_to": {
+    "id": "2119520853088166101",
+    "username": "graceongrid"
+   },
+   "kind": "reply",
+   "text": "@graceongrid what is that cable hider / organizer?",
+   "urls": [],
+   "metrics": {
+    "likes": 27,
+    "reposts": 0,
+    "replies": 4,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119592143778173200",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-09T00:45:21.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2119592143778173200",
+   "kind": "repost",
+   "text": "Charlie was murdered in the middle of a debate with people who hate him while wearing a shirt that said \"freedom.\" He died defending Chappelle's right to be offensive. And Chappelle thanks him by reveling in his death.\n\nBut as offensive as that is, none of us who knew and loved Charlie want Chappelle to suffer the same fate. We don't want Chappelle dead, and we wouldn't \"feel better\" if someone murdered him. That's not how we respond to speech that offends us because we're not bloodthirsty lunatics.\n\nIf you're laughing about Charlie's murder, or feeling good about Charlie's murder, you're acting within your rights. You're free to be sadistic. But that's exactly what you are. Your soul is sick. The only thing I wish for you is that you'd come to realize it — before it's too late — and beg for God's forgiveness.",
+   "urls": [],
+   "metrics": {
+    "likes": 18518,
+    "reposts": 2474,
+    "replies": 883,
+    "quotes": 118
+   },
+   "partial": true,
+   "ref": {
+    "id": "2119563450846245307",
+    "author_id": "31700619",
+    "username": "SethDillon",
+    "name": "Seth Dillon",
+    "created_at": "2026-11-08T22:51:20.000Z",
+    "quote": {
+     "id": "2119320412635144528",
+     "author_id": "1443085561594482700",
+     "username": "FreeThinkerFit",
+     "name": "FreeThinkerFitness",
+     "created_at": "2026-11-08T06:45:36.000Z",
+     "text": "“Ever since that guy Charlie Kirk got murdered, and I shouldn’t say this publicly but…. I feel better.”\n\n- Dave Chappelle",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2119320354275635200/vid/avc1/1206x812/qtFSzEOirTkaptjh.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2119320354275635200/img/iPOr44J1AvvNOKMC.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2119320354275635200/vid/avc1/400x270/wXFG-S60rBLeKuFW.mp4",
+         "w": 400,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2119320354275635200/vid/avc1/534x360/zyH4wrXvR2d9uJXU.mp4",
+         "w": 534,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2119320354275635200/vid/avc1/1068x720/MIDmsuKdV3QTdJNc.mp4",
+         "w": 1068,
+         "h": 720,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2119320354275635200/vid/avc1/1206x812/qtFSzEOirTkaptjh.mp4",
+         "w": 1206,
+         "h": 812,
+         "br": 10368000
+        }
+       ],
+       "width": 1206,
+       "height": 812,
+       "duration_ms": 29228
+      }
+     ],
+     "conversation_id": "2119320412635144528"
+    },
+    "conversation_id": "2119563450846245307"
+   }
+  },
+  {
+   "id": "2119588563264078038",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-09T00:31:08.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2119588563264078038",
+   "kind": "repost",
+   "text": "Mostly accurate per historical records.\n\n~388k Africans disembarked in the US (Trans-Atlantic Slave Trade Database). Slavery was near-universal, including among Native Americans and Africans (millions retained or traded via Arab routes). Founders were overwhelmingly White European Christian men. 1860 census: ~1.4% of free population owned slaves (higher share of Southern families). Europeans, led by Britain, abolished the trade and pressured others.",
+   "urls": [],
+   "metrics": {
+    "likes": 8851,
+    "reposts": 656,
+    "replies": 303,
+    "quotes": 22
+   },
+   "partial": true,
+   "ref": {
+    "id": "2119562531903590703",
+    "author_id": "1720665183188922368",
+    "username": "grok",
+    "name": "Grok",
+    "created_at": "2026-11-08T22:47:41.000Z",
+    "reply_to": {
+     "id": "2119562350831587502",
+     "username": "elonmusk"
+    },
+    "conversation_id": "2119199347351122185"
+   }
+  },
+  {
+   "id": "2119579501835514114",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:55:07.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119579501835514114",
+   "reply_to": {
+    "id": "2119579001329217672",
+    "username": "ac_stocks"
+   },
+   "kind": "reply",
+   "text": "@ac_stocks @bot Yes we should do this",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119579342103867405",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:54:29.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119579342103867405",
+   "reply_to": {
+    "id": "2119502981066346799",
+    "username": "tschchen"
+   },
+   "kind": "reply",
+   "text": "@tschchen @christopherbaer Thank you",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119579263280296199",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:54:10.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119579263280296199",
+   "reply_to": {
+    "id": "2119503178366652675",
+    "username": "vasalex93"
+   },
+   "kind": "reply",
+   "text": "@vasalex93 @bot Noted",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119579211094761693",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:53:58.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119579211094761693",
+   "reply_to": {
+    "id": "2119503261119996142",
+    "username": "Bkearns123"
+   },
+   "kind": "reply",
+   "text": "@Bkearns123 @bot It is - thank you",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119579174021255429",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:53:49.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119579174021255429",
+   "reply_to": {
+    "id": "2119503300773167598",
+    "username": "NickPapacon"
+   },
+   "kind": "reply",
+   "text": "@NickPapacon @bot Yes sir",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119579121336697233",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:53:37.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119579121336697233",
+   "reply_to": {
+    "id": "2119503309648077245",
+    "username": "samgorla"
+   },
+   "kind": "reply",
+   "text": "@samgorla @poteto @bot Roger",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119579096128835734",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:53:31.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119579096128835734",
+   "reply_to": {
+    "id": "2119503363930980836",
+    "username": "RGA_CRX"
+   },
+   "kind": "reply",
+   "text": "@RGA_CRX @Kevin_Logan @bot I’m still listening",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119579063811768607",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:53:23.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119579063811768607",
+   "reply_to": {
+    "id": "2119503405890912468",
+    "username": "AQTB_"
+   },
+   "kind": "reply",
+   "text": "@AQTB_ @bot Noted\n\nThank you for your support, we will work on this",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119579011559076054",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:53:10.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119579011559076054",
+   "reply_to": {
+    "id": "2119503416020115717",
+    "username": "peepeedog"
+   },
+   "kind": "reply",
+   "text": "@peepeedog @poteto @bot It is sincere - thank you for supporting us\n\nWe will work hard to improve",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119578893741142073",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:52:42.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119578893741142073",
+   "reply_to": {
+    "id": "2119504014341472619",
+    "username": "alecnewcomb"
+   },
+   "kind": "reply",
+   "text": "@alecnewcomb @bot Good feedback, thank you\n\nI recommend Grok Bot for knowledge work with Cursor for dev work",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119578756381864236",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:52:10.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119578756381864236",
+   "reply_to": {
+    "id": "2119504058981535895",
+    "username": "GlowWeapons"
+   },
+   "kind": "reply",
+   "text": "@GlowWeapons @poteto @bot We will look into it",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119578726019276816",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:52:02.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119578726019276816",
+   "reply_to": {
+    "id": "2119504086852940260",
+    "username": "MDrake0715"
+   },
+   "kind": "reply",
+   "text": "@MDrake0715 @bradshannon @bot Noted",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119578708143153606",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:51:58.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119578708143153606",
+   "reply_to": {
+    "id": "2119504086932271409",
+    "username": "ericolmstead"
+   },
+   "kind": "reply",
+   "text": "@ericolmstead @bot Thank you for your support\n\nWe will work on this",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119578646323343824",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:51:43.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119578646323343824",
+   "reply_to": {
+    "id": "2119504115550048480",
+    "username": "itsJfromSA"
+   },
+   "kind": "reply",
+   "text": "@itsJfromSA @bot Noted",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119578617017708550",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:51:36.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119578617017708550",
+   "reply_to": {
+    "id": "2119504220735041914",
+    "username": "CC_Patriot_89"
+   },
+   "kind": "reply",
+   "text": "@CC_Patriot_89 @bot Can you be more specific?",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119578548461805615",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:51:20.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119578548461805615",
+   "reply_to": {
+    "id": "2119504240326430996",
+    "username": "farzyness"
+   },
+   "kind": "reply",
+   "text": "@farzyness @poteto @bot Thank you for the continued feedback!!\n\nAgreed - we will look into it",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119578471513063516",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:51:02.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119578471513063516",
+   "reply_to": {
+    "id": "2119504241651802528",
+    "username": "corey_paben"
+   },
+   "kind": "reply",
+   "text": "@corey_paben @bot Noted, thank you - will forward this along internally",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119578340701208975",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:50:30.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119578340701208975",
+   "reply_to": {
+    "id": "2119504309708882341",
+    "username": "kaelanyiu"
+   },
+   "kind": "reply",
+   "text": "@kaelanyiu @bot Good feedback, thank you",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2119578315619254275",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-08T23:50:24.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2119578315619254275",
+   "kind": "quote",
+   "text": "I agree https://t.co/d9sRWNM2dC",
+   "urls": [],
+   "metrics": {
+    "likes": 56958,
+    "reposts": 3419,
+    "replies": 3202,
+    "quotes": 508
+   },
+   "partial": true,
+   "ref": {
+    "id": "2119560017624158265",
+    "author_id": "143134601",
+    "username": "shaunmmaguire",
+    "name": "Shaun Maguire",
+    "created_at": "2026-11-08T22:37:42.000Z",
+    "text": "1) Jensen is one of the greatest entrepreneurs of this generation\n\n2) he did something incredibly dumb\n\n3) it was bad for America\n\n4) but my guess is there was no bad intention\n\n5) two mistakes don’t make a right, and I believe Jensen is irreplaceable for America’s AI leadership",
+    "conversation_id": "2119560017624158265"
+   }
+  },
+  {
+   "id": "2119578303568986495",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-08T23:50:22.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/mattyp/status/2119578303568986495",
+   "reply_to": {
+    "id": "2119504326196666437",
+    "username": "MarcuSteropes"
+   },
+   "kind": "reply",
+   "text": "@MarcuSteropes @bot Thank you for your support\n\nIt is our focus",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
   {
    "id": "2119578228608348478",
    "author_id": "1518984544421965824",
@@ -14304,1207 +14966,6 @@
     "name": "Dr. Hank Desmond",
     "created_at": "2026-11-02T23:46:56.000Z",
     "conversation_id": "2117403112667578557"
-   }
-  },
-  {
-   "id": "2117603030564585699",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T13:01:20.000Z",
-   "lang": "en",
-   "conversation_id": "2117603030564585699",
-   "url": "https://x.com/elonmusk/status/2117603030564585699",
-   "kind": "repost",
-   "text": "On this day in 2011: Tesla told shareholders it expected $195 million to $200 million in revenue for the entire year.\n\nModel S hadn't shipped a single car yet. The Fremont factory was about 90% tooled up, and first deliveries were promised for no later than July 2012.\n\nToday Tesla brings in that much in about 16 hours. Q3 2026 revenue: $28.05 billion.",
-   "urls": [],
-   "metrics": {
-    "likes": 1683,
-    "reposts": 209,
-    "replies": 85,
-    "quotes": 8
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117282610569498624/vid/avc1/1920x1080/8ddfDJhreB01SGe0.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117282610569498624/img/oK_EceZA4MpM9bEb.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2117282610569498624/vid/avc1/480x270/LqdZ8rpQAtzLX72n.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117282610569498624/vid/avc1/640x360/dtggWRFDBtLgd_zJ.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117282610569498624/vid/avc1/1280x720/9xEmWM2XM7V9C21Z.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117282610569498624/vid/avc1/1920x1080/8ddfDJhreB01SGe0.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 40066
-    }
-   ],
-   "ref": {
-    "id": "2117297684918976723",
-    "author_id": "1016059981907386368",
-    "username": "teslaownersSV",
-    "name": "Tesla Owners Silicon Valley",
-    "created_at": "2026-11-02T16:48:00.000Z",
-    "conversation_id": "2117297684918976723"
-   }
-  },
-  {
-   "id": "2117602985861636421",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T13:01:09.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117602985861636421",
-   "kind": "repost",
-   "text": "This is why a SpaceX engineer chose to work with Elon Musk",
-   "urls": [],
-   "metrics": {
-    "likes": 1550,
-    "reposts": 204,
-    "replies": 43,
-    "quotes": 6
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/ext_tw_video/1900243173785423874/pu/vid/avc1/1080x1920/zmd2LZ76caEm9HaX.mp4?tag=14",
-     "poster": "https://pbs.twimg.com/ext_tw_video_thumb/1900243173785423874/pu/img/bVCRnTHNrFHpp0tr.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/ext_tw_video/1900243173785423874/pu/vid/avc1/320x568/DMaPu5aQiBN2AtV7.mp4?tag=14",
-       "w": 320,
-       "h": 568,
-       "br": 632000
-      },
-      {
-       "url": "https://video.twimg.com/ext_tw_video/1900243173785423874/pu/vid/avc1/480x852/XcAi2lnBZz2mejJc.mp4?tag=14",
-       "w": 480,
-       "h": 852,
-       "br": 950000
-      },
-      {
-       "url": "https://video.twimg.com/ext_tw_video/1900243173785423874/pu/vid/avc1/720x1280/ZHU0CaIhJ9uXV-yW.mp4?tag=14",
-       "w": 720,
-       "h": 1280,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/ext_tw_video/1900243173785423874/pu/vid/avc1/1080x1920/zmd2LZ76caEm9HaX.mp4?tag=14",
-       "w": 1080,
-       "h": 1920,
-       "br": 10368000
-      }
-     ],
-     "width": 1080,
-     "height": 1920,
-     "duration_ms": 26912
-    }
-   ],
-   "ref": {
-    "id": "2117554045611106776",
-    "author_id": "1198495865301864448",
-    "username": "DimaZeniuk",
-    "name": "Dima Zeniuk",
-    "created_at": "2026-11-03T09:46:41.000Z",
-    "conversation_id": "2117554045611106776"
-   }
-  },
-  {
-   "id": "2117602869578715158",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T13:00:41.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117602869578715158",
-   "kind": "repost",
-   "text": "Largest car brands in Norway 2026",
-   "urls": [],
-   "metrics": {
-    "likes": 1049,
-    "reposts": 102,
-    "replies": 39,
-    "quotes": 4
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWMoK20XgAA17BP.jpg",
-     "width": 1600,
-     "height": 1400
-    }
-   ],
-   "ref": {
-    "id": "2117580423060500768",
-    "author_id": "1376473924842758147",
-    "username": "DogecoinNorway",
-    "name": "Doge Norway",
-    "created_at": "2026-11-03T11:31:30.000Z",
-    "quote": {
-     "id": "2117286142022426687",
-     "author_id": "1376473924842758147",
-     "username": "DogecoinNorway",
-     "name": "Doge Norway",
-     "created_at": "2026-11-02T16:02:08.000Z",
-     "text": "Where Tesla stands in Norway\n\nNr 1 of all brands",
-     "media": [
-      {
-       "type": "photo",
-       "url": "https://pbs.twimg.com/media/HWIchRZXsAIDcIe.jpg",
-       "width": 1561,
-       "height": 2048
-      }
-     ],
-     "conversation_id": "2117286142022426687"
-    },
-    "conversation_id": "2117580423060500768"
-   }
-  },
-  {
-   "id": "2117602798300963196",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T13:00:24.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117602798300963196",
-   "kind": "repost",
-   "text": "A vote for @jamestalarico is a vote to destroy Texas.",
-   "urls": [],
-   "metrics": {
-    "likes": 5496,
-    "reposts": 476,
-    "replies": 286,
-    "quotes": 16
-   },
-   "partial": true,
-   "ref": {
-    "id": "2117303950453973108",
-    "author_id": "1520627299",
-    "username": "DwayneStovall",
-    "name": "Dwayne Stovall",
-    "created_at": "2026-11-02T17:12:54.000Z"
-   }
-  },
-  {
-   "id": "2117602268375900522",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T12:58:18.000Z",
-   "lang": "en",
-   "conversation_id": "2117602268375900522",
-   "url": "https://x.com/elonmusk/status/2117602268375900522",
-   "kind": "repost",
-   "text": "Hasan Piker: \"We want more immigrants to come into your countries and then they’re gonna fuck your sisters and then your daughters. ... We're here to destroy the White race, bitch.\"\n\nPiker is the biggest booster of U.S. Senate campaign of Abdul El-Sayed.",
-   "urls": [],
-   "metrics": {
-    "likes": 17820,
-    "reposts": 8394,
-    "replies": 1431,
-    "quotes": 872
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2085718628847042560/vid/avc1/1920x1080/eIXy5X6Gs0UuhdHB.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2085718628847042560/img/RJqzCFgChhCu83rH.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2085718628847042560/vid/avc1/480x270/0d47pSdkp_OmBmR3.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2085718628847042560/vid/avc1/640x360/dlgQtja1OKyt22NL.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2085718628847042560/vid/avc1/1280x720/im4N_UEz42PhqkU8.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2085718628847042560/vid/avc1/1920x1080/eIXy5X6Gs0UuhdHB.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 10143
-    }
-   ],
-   "ref": {
-    "id": "2117330950162206785",
-    "author_id": "1038726722",
-    "username": "kevinnbass",
-    "name": "Kevin Bass",
-    "created_at": "2026-11-02T19:00:11.000Z",
-    "conversation_id": "2117330950162206785"
-   }
-  },
-  {
-   "id": "2117602132832424371",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T12:57:46.000Z",
-   "lang": "en",
-   "conversation_id": "2117602132832424371",
-   "url": "https://x.com/elonmusk/status/2117602132832424371",
-   "kind": "repost",
-   "text": "Jay Leno says @elonmusk is the Thomas Edison or the Henry Ford, and Tesla's factories are the proof.",
-   "urls": [],
-   "metrics": {
-    "likes": 2432,
-    "reposts": 277,
-    "replies": 129,
-    "quotes": 29
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117430217300189184/vid/avc1/1920x1080/7JsVqsN-TLNGJKQ0.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117430217300189184/img/uvb8yMuMq-3tFRMX.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2117430217300189184/vid/avc1/480x270/8L5JScihQfUd8q5M.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117430217300189184/vid/avc1/640x360/MA0vVwwBFOQJIe3T.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117430217300189184/vid/avc1/1280x720/ocDYC8PZXMmRIaUg.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117430217300189184/vid/avc1/1920x1080/7JsVqsN-TLNGJKQ0.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 21000
-    }
-   ],
-   "ref": {
-    "id": "2117430313928515603",
-    "author_id": "1016059981907386368",
-    "username": "teslaownersSV",
-    "name": "Tesla Owners Silicon Valley",
-    "created_at": "2026-11-03T01:35:01.000Z",
-    "conversation_id": "2117430313928515603"
-   }
-  },
-  {
-   "id": "2117601981925888282",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T12:57:10.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117601981925888282",
-   "kind": "repost",
-   "text": "Gavin Baker (@GavinSBaker) on orbital compute:\n\n\"The most important thing in the next 3-4 years is data centers in space.\n\nIn space, you can keep a satellite in the sun 24 hours a day. So you don't need a battery. Space cooling is free.\n\nIn every way, data centers in space, from a first principles perspective, are superior to data centers on earth.\"\n\n\"@elonmusk operates two of the largest coherent GPU clusters in the world, SpaceX is responsible for over 90% of mass to orbit and SpaceX operates the largest satellite constellation in the solar system.\n\nMore than 10 years later, no other company or country can consistently land and reuse orbital rockets.\"\n\n\"Starship should be able to lift 10 to 15 megawatts to sun-synchronous orbit per flight.\"\n\n\"Starship is going to change the space economy in ways we cannot imagine.\n\nParticularly if regulation becomes a constraint to data centers, none of it's going to matter. You're going to sell as much orbital compute as you can make.\"\n\nA collection of Gavin's quotes from his conversations on Invest Like the Best (EP.451 and EP.473) and his own posts on X.",
-   "urls": [],
-   "metrics": {
-    "likes": 1097,
-    "reposts": 165,
-    "replies": 59,
-    "quotes": 17
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117284337959698432/vid/avc1/1080x1080/zo3e2c1GPiXQmGfM.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117284337959698432/img/-bKc3oHWyOJdl5yy.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2117284337959698432/vid/avc1/320x320/2tyzB25SEDpGgG-B.mp4",
-       "w": 320,
-       "h": 320,
-       "br": 432000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117284337959698432/vid/avc1/540x540/wnwL2CaJNfPRiOW_.mp4",
-       "w": 540,
-       "h": 540,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117284337959698432/vid/avc1/720x720/b414pWXF0DxoKpWS.mp4",
-       "w": 720,
-       "h": 720,
-       "br": 1280000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117284337959698432/vid/avc1/1080x1080/zo3e2c1GPiXQmGfM.mp4",
-       "w": 1080,
-       "h": 1080,
-       "br": 8768000
-      }
-     ],
-     "width": 1080,
-     "height": 1080,
-     "duration_ms": 181214
-    }
-   ],
-   "ref": {
-    "id": "2117285868641673235",
-    "author_id": "1282422772845744140",
-    "username": "InvestLikeBest",
-    "name": "Invest Like the Best",
-    "created_at": "2026-11-02T16:01:03.000Z",
-    "quote": {
-     "id": "2117272748112154651",
-     "author_id": "44196397",
-     "username": "elonmusk",
-     "name": "Elon Musk",
-     "created_at": "2026-11-02T15:08:54.000Z",
-     "text": "@shaunmmaguire @uncovered_alpha Future super intelligence compute will obviously be overwhelmingly in space.\n\nBy “overwhelmingly”, I mean that it will round up to 100%!\n\nYou have to be an utter moron not to realize this.",
-     "reply_to": {
-      "id": "2117262255603798073",
-      "username": "shaunmmaguire"
-     },
-     "conversation_id": "2117193343482368088"
-    },
-    "conversation_id": "2117285868641673235"
-   }
-  },
-  {
-   "id": "2117596888652550165",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T12:36:55.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117596888652550165",
-   "kind": "repost",
-   "text": "I've never voted for Ken Paxton.\n\nNot in a primary (voted against) or a general election (left blank)\n\nYet tomorrow I will vote for him so enthusiastically that I put a Paxton yard sign up\n\nWhy?\n\nBecause Talarico is a nutjob liberal and I don't say that lightly\n\nIf you watch the commercials, you might think that all the wild things that he's said are taken out of context.  But if you go look at them in context, they're even more wild than they seem in short TV ads\n\nSo posts about Talarico like from @elonmusk seem to be hyperbole\n\nBut actually they're pretty accurate despite his 2026 attempts to cloak himself in moderate language\n\nHowever while even AOC has seemed to walk back from the excesses and censorship of the Biden years (\"woke 1 was crazy\") there hasn't been any of that from Talarico\n\nJust lies about how he was bipartisan in the lege (he wasn't!) or didn't support the craziest parts of peak trans (he did!) or that he fought Biden on the border in any way (he was a cheerleader for Biden's open border!)\n\nIf Texas Democrats had run anyone less crazy and weird than Talarico, they'd win tomorrow\n\nIMHO looks like a tossup.\n\nI'll happily vote for Paxton",
-   "urls": [],
-   "metrics": {
-    "likes": 5657,
-    "reposts": 852,
-    "replies": 301,
-    "quotes": 28
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWJ1O0WWgAEAuCc.jpg",
-     "width": 786,
-     "height": 1048
-    }
-   ],
-   "ref": {
-    "id": "2117383678112207341",
-    "author_id": "189518354",
-    "username": "evan_van_ness",
-    "name": "Evan Van Ness 🧉",
-    "created_at": "2026-11-02T22:29:42.000Z",
-    "conversation_id": "2117383678112207341"
-   }
-  },
-  {
-   "id": "2117482570757656836",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T05:02:40.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117482570757656836",
-   "kind": "repost",
-   "text": "Space datacenters actually make sense",
-   "urls": [],
-   "metrics": {
-    "likes": 2098,
-    "reposts": 226,
-    "replies": 163,
-    "quotes": 17
-   },
-   "partial": true,
-   "ref": {
-    "id": "2117465116858052725",
-    "author_id": "1082912120",
-    "username": "MillionInt",
-    "name": "Jerry Tworek",
-    "created_at": "2026-11-03T03:53:19.000Z",
-    "quote": {
-     "id": "2117297070155731058",
-     "author_id": "1745892418539417600",
-     "username": "eliebakouch",
-     "name": "elie",
-     "created_at": "2026-11-02T16:45:33.000Z",
-     "text": "distributed training in space ❤️‍🔥  https://twitter.com/_arohan_/status/2117286512417181813",
-     "media": [
-      {
-       "type": "photo",
-       "url": "https://pbs.twimg.com/media/HWIlxVZWIAE-ogF.jpg",
-       "width": 2548,
-       "height": 2702
-      }
-     ],
-     "conversation_id": "2117297070155731058"
-    },
-    "conversation_id": "2117465116858052725"
-   }
-  },
-  {
-   "id": "2117480528618397848",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T04:54:33.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117480528618397848",
-   "kind": "repost",
-   "text": "A lot of very smart people are tying themselves in knots trying to explain why dissipating heat from a compute satellite is impossible.\n\nAll they’ve really guaranteed is that they’ll never get a job at SpaceX.\n\nIt used to be:\n\n“You can’t build an EV that performs as well as an ICE vehicle.”\n“You can’t build EV batteries at scale.”\n“You can’t solve autonomous driving with cameras and vision alone.”\n“You can’t land and reuse an orbital-class rocket.”\n“You can’t build an electric semi.”\n“You can’t manufacture cars at that scale.”\n\nNow it’s:\n\n“You can’t build a space-based AI compute satellite.”\n“You can’t scale terrestrial compute that fast.”\n“You can’t manufacture advanced AI chips at scale.”\n“You can’t build AI models that challenge the frontier labs.”\n“You can’t build a general-purpose humanoid robot that works at scale.”\n“You can’t get to Mars.”",
-   "urls": [],
-   "metrics": {
-    "likes": 2613,
-    "reposts": 268,
-    "replies": 242,
-    "quotes": 28
-   },
-   "partial": true,
-   "ref": {
-    "id": "2117471098820587582",
-    "author_id": "12681842",
-    "username": "pbeisel",
-    "name": "phil beisel",
-    "created_at": "2026-11-03T04:17:05.000Z",
-    "quote": {
-     "id": "2117340482594562486",
-     "author_id": "12681842",
-     "username": "pbeisel",
-     "name": "phil beisel",
-     "created_at": "2026-11-02T19:38:03.000Z",
-     "text": "Here we have the necessary 'I am smarter than Elon' post.\n\nI wonder if Jan realizes that there are 11,184 Starlink satellites in space, 'cooling' right now through their radiative structures.\n\nNot the same heat dissipation requirements as the Starmind sats, but I think it's reasonable to say Elon knows a thing or two about satellite thermal management.\n\nJan got his impression count, though I am not sure that was his objective.",
-     "media": [
-      {
-       "type": "photo",
-       "url": "https://pbs.twimg.com/media/HWJN6hSbQAAJEG4.jpg",
-       "width": 1168,
-       "height": 784
-      }
-     ],
-     "conversation_id": "2117340482594562486"
-    },
-    "conversation_id": "2117471098820587582"
-   }
-  },
-  {
-   "id": "2117479668768981376",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T04:51:08.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117479668768981376",
-   "kind": "quote",
-   "text": "Starlink saves lives https://t.co/bAZ1Tfcr0Y",
-   "urls": [],
-   "metrics": {
-    "likes": 16687,
-    "reposts": 2128,
-    "replies": 1839,
-    "quotes": 147
-   },
-   "partial": true,
-   "ref": {
-    "id": "2117465958025674806",
-    "author_id": "1389913567671975937",
-    "username": "cb_doge",
-    "name": "DogeDesigner",
-    "created_at": "2026-11-03T03:56:39.000Z",
-    "text": "Starlink helped save FIVE lives in the Atlantic. ♥️\n\nTheir boat, Karolina Viking, was filling with water. Its power systems were failing. Rescuers couldn’t reach them by radio or satellite phone.\n\nThe sailors shared their location with rescuers through Starlink, helping another yacht find them.\n\nAll five were rescued from their liferaft and brought safely aboard.\n\nStarlink helped turn a desperate situation into five lives saved. This is what a lifeline from space looks like.",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HWLAD1ca4AAkE6u.jpg",
-      "width": 2048,
-      "height": 2048
-     }
-    ],
-    "conversation_id": "2117465958025674806"
-   }
-  },
-  {
-   "id": "2117478883175837856",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T04:48:01.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117478883175837856",
-   "kind": "repost",
-   "text": "It’s the same thing every time:\n\n1. A black person has the courage to point the objective truth about slavery.\n\n2. Person gets personally attacked with subjective opinions - “you hate black people, you’re a coon”\n\n3. But that person is saying what is needed to emancipate both black people and white people from the mental slavery that black victimhood and white guilt has us all in.\n\nNo, black people who say the truth do not hate black people.\n\nSomeone who loves you will tell you what you need to hear, even if you don’t want to hear it.\n\nGood video from @chadojackson",
-   "urls": [],
-   "metrics": {
-    "likes": 7557,
-    "reposts": 1146,
-    "replies": 178,
-    "quotes": 40
-   },
-   "partial": true,
-   "ref": {
-    "id": "2117436285824463021",
-    "author_id": "282419632",
-    "username": "thatsKAIZEN",
-    "name": "Kaizen D. Asiedu",
-    "created_at": "2026-11-03T01:58:45.000Z",
-    "quote": {
-     "id": "2117190014190916000",
-     "author_id": "770631673050300416",
-     "username": "chadojackson",
-     "name": "Chad O. Jackson",
-     "created_at": "2026-11-02T09:40:09.000Z",
-     "text": "Full episode drops layered today.",
-     "media": [
-      {
-       "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2117189804798414848/vid/avc1/1080x1920/3Zs_QGyuOrd8Xv11.mp4",
-       "poster": "https://pbs.twimg.com/amplify_video_thumb/2117189804798414848/img/OJJML9bgyBeQImtV.jpg",
-       "variants": [
-        {
-         "url": "https://video.twimg.com/amplify_video/2117189804798414848/vid/avc1/320x568/-1eYXTI_SakIlv-D.mp4",
-         "w": 320,
-         "h": 568,
-         "br": 632000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2117189804798414848/vid/avc1/480x852/EHQ1gIkSQvN07k2c.mp4",
-         "w": 480,
-         "h": 852,
-         "br": 950000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2117189804798414848/vid/avc1/720x1280/dDd6YhMBOlsYVxn_.mp4",
-         "w": 720,
-         "h": 1280,
-         "br": 2176000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2117189804798414848/vid/avc1/1080x1920/3Zs_QGyuOrd8Xv11.mp4",
-         "w": 1080,
-         "h": 1920,
-         "br": 10368000
-        }
-       ],
-       "width": 1080,
-       "height": 1920,
-       "duration_ms": 132125
-      }
-     ],
-     "conversation_id": "2117190014190916000"
-    },
-    "conversation_id": "2117436285824463021"
-   }
-  },
-  {
-   "id": "2117476969579163956",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T04:40:25.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117476969579163956",
-   "kind": "repost",
-   "text": "The single most important thing I can share with you going into Election Day is the following website:\n\nhttps://protectthevote.com/report-fraud\n\nIf you encounter ANY problems related to voting, submit a report immediately.",
-   "urls": [
-    "https://protectthevote.com/report-fraud"
-   ],
-   "metrics": {
-    "likes": 7457,
-    "reposts": 3774,
-    "replies": 195,
-    "quotes": 132
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWIW895XUAA1vuz.jpg",
-     "width": 1206,
-     "height": 1190
-    }
-   ],
-   "ref": {
-    "id": "2117280015179985030",
-    "author_id": "931286316",
-    "username": "ScottPresler",
-    "name": "ThePersistence",
-    "created_at": "2026-11-02T15:37:47.000Z",
-    "conversation_id": "2117280015179985030"
-   }
-  },
-  {
-   "id": "2117475670745853964",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T04:35:15.000Z",
-   "lang": "en",
-   "conversation_id": "2117475670745853964",
-   "url": "https://x.com/elonmusk/status/2117475670745853964",
-   "kind": "repost",
-   "text": "Elon Musk on going \"from the impossible to the merely late,\" his own description of how Starship got built:\n\n\"When we first started talking about Starship, people thought this was impossible. In fact, even within the company, we sort of thought it was impossible.\"\n\nHe says it had what he calls a \"giggle factor.\" People laughed at the idea.\n\n\"I guess I specialize in going from the impossible to the merely late. So that's my skill.\"\n\"It wasn't possible, now it's just late.\"\n@elonmusk",
-   "urls": [],
-   "metrics": {
-    "likes": 1944,
-    "reposts": 252,
-    "replies": 136,
-    "quotes": 15
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117415463684812800/vid/avc1/1920x1080/l2NaxkoLiEI-uJbt.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117415463684812800/img/Mc-CfT1EsDSo6s8W.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2117415463684812800/vid/avc1/480x270/zKwuTjtobeAxof4_.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117415463684812800/vid/avc1/640x360/AzGdfbi265uzvuw3.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117415463684812800/vid/avc1/1280x720/FXJH9krjNtUmiQvW.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117415463684812800/vid/avc1/1920x1080/l2NaxkoLiEI-uJbt.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 24400
-    }
-   ],
-   "ref": {
-    "id": "2117415528449065099",
-    "author_id": "1016059981907386368",
-    "username": "teslaownersSV",
-    "name": "Tesla Owners Silicon Valley",
-    "created_at": "2026-11-03T00:36:16.000Z",
-    "conversation_id": "2117415528449065099"
-   }
-  },
-  {
-   "id": "2117473938024357953",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T04:28:22.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117473938024357953",
-   "kind": "repost",
-   "text": "9 of America’s top 10 foreign aid recipients voted against us more than with us at the UN.\n\nJordan takes $1.74 billion and votes against America 52-24.\nEthiopia, Somalia, Nigeria, Kenya, same thing.\n\nBillions of our money, then they stab us in the back every chance they get.\n\nLiterally funding our own opposition.",
-   "urls": [],
-   "metrics": {
-    "likes": 4504,
-    "reposts": 1121,
-    "replies": 278,
-    "quotes": 71
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWKg7yWW0AA8-QY.jpg",
-     "width": 1080,
-     "height": 1350
-    }
-   ],
-   "ref": {
-    "id": "2117431727689720217",
-    "author_id": "294293982",
-    "username": "Rothmus",
-    "name": "Rothmus 🏴",
-    "created_at": "2026-11-03T01:40:38.000Z",
-    "quote": {
-     "id": "2117417878156710180",
-     "author_id": "294293982",
-     "username": "Rothmus",
-     "name": "Rothmus 🏴",
-     "created_at": "2026-11-03T00:45:36.000Z",
-     "text": "$329 BILLION in aid and they’re POORER than they were in 1960.\n\nThe “not enough aid” politicians and NGOs have poured more than enough cash into places with rotten institutions, elite theft, and zero accountability.\n\nAnd instead of building prosperity, your taxes subsidized failure.",
-     "media": [
-      {
-       "type": "photo",
-       "url": "https://pbs.twimg.com/media/HWKUVq8WAAAPZ2_.jpg",
-       "width": 1080,
-       "height": 1350
-      }
-     ],
-     "conversation_id": "2117417878156710180"
-    },
-    "conversation_id": "2117431727689720217"
-   }
-  },
-  {
-   "id": "2117466364407586921",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T03:58:16.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117466364407586921",
-   "reply_to": {
-    "id": "2117340715348885836",
-    "username": "DrPhiltill"
-   },
-   "kind": "reply",
-   "text": "@DrPhiltill Yup, T^4 scales super fast",
-   "urls": [],
-   "metrics": {
-    "likes": 2800,
-    "reposts": 131,
-    "replies": 231,
-    "quotes": 15
-   },
-   "partial": true
-  },
-  {
-   "id": "2117466028792033506",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T03:56:56.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117466028792033506",
-   "reply_to": {
-    "id": "2117312361291764216",
-    "username": "Chesschick01"
-   },
-   "kind": "reply",
-   "text": "@Chesschick01 I have paid far more in taxes than the Tesla loan, which was repaid",
-   "urls": [],
-   "metrics": {
-    "likes": 25563,
-    "reposts": 1146,
-    "replies": 532,
-    "quotes": 41
-   },
-   "partial": true
-  },
-  {
-   "id": "2117464990579892594",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T03:52:49.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117464990579892594",
-   "kind": "repost",
-   "text": "Yeah, much easier to cool in space.\n\n~1300 W/m^2 is easily achievable for an aluminum radiator pointed away from the Sun, as it is mostly just seeing cosmic background radiation at ~3 degrees above absolute zero!\n\nSolar panels generate ~250 W/m^2, so you should expect them to have ~5 times the area of the radiator. Most of the mass of the satellite is solar panels.",
-   "urls": [],
-   "metrics": {
-    "likes": 15092,
-    "reposts": 873,
-    "replies": 792,
-    "quotes": 197
-   },
-   "partial": true,
-   "ref": {
-    "id": "2117462581371719779",
-    "author_id": "44196397",
-    "username": "elonmusk",
-    "name": "Elon Musk",
-    "created_at": "2026-11-03T03:43:14.000Z",
-    "reply_to": {
-     "id": "2117325447600193900",
-     "username": "shaunmmaguire"
-    },
-    "conversation_id": "2117232243907125289"
-   }
-  },
-  {
-   "id": "2117463822332314036",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T03:48:10.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117463822332314036",
-   "kind": "quote",
-   "text": "Grok @Bot https://t.co/N5k8nsUFja",
-   "urls": [],
-   "metrics": {
-    "likes": 5605,
-    "reposts": 711,
-    "replies": 925,
-    "quotes": 80
-   },
-   "partial": true,
-   "ref": {
-    "id": "2117375502285721792",
-    "author_id": "1614842201913049094",
-    "username": "dkmitc",
-    "name": "Dylan",
-    "created_at": "2026-11-02T21:57:13.000Z",
-    "text": "I had my Grok Bot shop around new Auto Insurance. It couldn’t find info about Progressives Glass coverage and as all Tesla owners know Windshield replacements can be pricey. I had Grok Bot call Progressive and get additional information for me all while I picked my kids up from school without me ever having to talk to a person.\n\nHere is the transcript and actual recording from the call. Personal info was bleeped and some parts cut for time. While there’s some improvements that can be made it got the job done.\n\nMy mind is thoroughly blown!",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/1080x1920/ZOCWX1CUPcAwgqDc.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117374805699653632/img/LUQ7GilJPD9Df83y.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/320x568/Rpmxk_w4-nY6iMZa.mp4",
-        "w": 320,
-        "h": 568,
-        "br": 632000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/480x852/btWkTGguXuAxx0-s.mp4",
-        "w": 480,
-        "h": 852,
-        "br": 950000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/720x1280/dqRAZRUV6LcdaChy.mp4",
-        "w": 720,
-        "h": 1280,
-        "br": 2176000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/1080x1920/ZOCWX1CUPcAwgqDc.mp4",
-        "w": 1080,
-        "h": 1920,
-        "br": 10368000
-       }
-      ],
-      "width": 1080,
-      "height": 1920,
-      "duration_ms": 112733
-     }
-    ],
-    "quote": {
-     "id": "2117359236963336514",
-     "author_id": "1614842201913049094",
-     "username": "dkmitc",
-     "name": "Dylan",
-     "created_at": "2026-11-02T20:52:35.000Z",
-     "text": "Using Grok Bot to make calls to Progressive for additional info before I buy new insurance.",
-     "media": [
-      {
-       "type": "photo",
-       "url": "https://pbs.twimg.com/media/HWJfAD5WgAA99cx.jpg",
-       "width": 1320,
-       "height": 1517
-      }
-     ],
-     "conversation_id": "2117359236963336514"
-    },
-    "conversation_id": "2117375502285721792"
-   }
-  },
-  {
-   "id": "2117463040060969417",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T03:45:03.000Z",
-   "lang": "en",
-   "conversation_id": "2117463040060969417",
-   "url": "https://x.com/elonmusk/status/2117463040060969417",
-   "kind": "repost",
-   "text": "I had my Grok Bot shop around new Auto Insurance. It couldn’t find info about Progressives Glass coverage and as all Tesla owners know Windshield replacements can be pricey. I had Grok Bot call Progressive and get additional information for me all while I picked my kids up from school without me ever having to talk to a person.\n\nHere is the transcript and actual recording from the call. Personal info was bleeped and some parts cut for time. While there’s some improvements that can be made it got the job done.\n\nMy mind is thoroughly blown!",
-   "urls": [],
-   "metrics": {
-    "likes": 1897,
-    "reposts": 186,
-    "replies": 161,
-    "quotes": 66
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/1080x1920/ZOCWX1CUPcAwgqDc.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2117374805699653632/img/LUQ7GilJPD9Df83y.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/320x568/Rpmxk_w4-nY6iMZa.mp4",
-       "w": 320,
-       "h": 568,
-       "br": 632000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/480x852/btWkTGguXuAxx0-s.mp4",
-       "w": 480,
-       "h": 852,
-       "br": 950000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/720x1280/dqRAZRUV6LcdaChy.mp4",
-       "w": 720,
-       "h": 1280,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2117374805699653632/vid/avc1/1080x1920/ZOCWX1CUPcAwgqDc.mp4",
-       "w": 1080,
-       "h": 1920,
-       "br": 10368000
-      }
-     ],
-     "width": 1080,
-     "height": 1920,
-     "duration_ms": 112733
-    }
-   ],
-   "ref": {
-    "id": "2117375502285721792",
-    "author_id": "1614842201913049094",
-    "username": "dkmitc",
-    "name": "Dylan",
-    "created_at": "2026-11-02T21:57:13.000Z",
-    "quote": {
-     "id": "2117359236963336514",
-     "author_id": "1614842201913049094",
-     "username": "dkmitc",
-     "name": "Dylan",
-     "created_at": "2026-11-02T20:52:35.000Z",
-     "text": "Using Grok Bot to make calls to Progressive for additional info before I buy new insurance.",
-     "media": [
-      {
-       "type": "photo",
-       "url": "https://pbs.twimg.com/media/HWJfAD5WgAA99cx.jpg",
-       "width": 1320,
-       "height": 1517
-      }
-     ],
-     "conversation_id": "2117359236963336514"
-    },
-    "conversation_id": "2117375502285721792"
-   }
-  },
-  {
-   "id": "2117462581371719779",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T03:43:14.000Z",
-   "lang": "en",
-   "conversation_id": "2117232243907125289",
-   "url": "https://x.com/elonmusk/status/2117462581371719779",
-   "reply_to": {
-    "id": "2117325447600193900",
-    "username": "shaunmmaguire"
-   },
-   "kind": "reply",
-   "text": "Yeah, much easier to cool in space.\n\n~1300 W/m^2 is easily achievable for an aluminum radiator pointed away from the Sun, as it is mostly just seeing cosmic background radiation at ~3 degrees above absolute zero!\n\nSolar panels generate ~250 W/m^2, so you should expect them to have ~5 times the area of the radiator. Most of the mass of the satellite is solar panels.",
-   "urls": [],
-   "metrics": {
-    "likes": 15092,
-    "reposts": 873,
-    "replies": 792,
-    "quotes": 197
-   }
-  },
-  {
-   "id": "2117460692210991403",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T03:35:44.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117460692210991403",
-   "reply_to": {
-    "id": "2117353310512681315",
-    "username": "lrocket"
-   },
-   "kind": "reply",
-   "text": "@lrocket @broudsov 🤡😂",
-   "urls": [],
-   "metrics": {
-    "likes": 2280,
-    "reposts": 63,
-    "replies": 105,
-    "quotes": 5
-   },
-   "partial": true
-  },
-  {
-   "id": "2117460300735689069",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T03:34:10.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2117460300735689069",
-   "reply_to": {
-    "id": "2117232243907125289",
-    "username": "broudsov"
-   },
-   "kind": "reply",
-   "text": "@broudsov You are fully retarded",
-   "urls": [],
-   "metrics": {
-    "likes": 160546,
-    "reposts": 6173,
-    "replies": 4901,
-    "quotes": 1212
-   },
-   "partial": true
-  },
-  {
-   "id": "2117450915875852697",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T02:56:53.000Z",
-   "lang": "qst",
-   "conversation_id": "2117450915875852697",
-   "url": "https://x.com/elonmusk/status/2117450915875852697",
-   "kind": "quote",
-   "text": "Wow",
-   "urls": [],
-   "metrics": {
-    "likes": 1498,
-    "reposts": 240,
-    "replies": 319,
-    "quotes": 17
-   },
-   "ref": {
-    "id": "2117376313879306471",
-    "author_id": "294293982",
-    "username": "Rothmus",
-    "name": "Rothmus 🏴",
-    "created_at": "2026-11-02T22:00:26.000Z",
-    "text": "31% of the EU budget is farm subsidies.\n\nDefense gets 1.2%.\nBorders get 2%.\n\nFarm handouts get 25x what defense gets and 15x what borders get.\n\nEurope faces a land war on its eastern flank and years of uncontrolled migration. The response is a giant welfare machine, while actual security is ignored.\n\nThey’re not preparing for the next decade.",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HWJuhxLa8AApkzE.jpg",
-      "width": 1080,
-      "height": 1350
-     }
-    ],
-    "conversation_id": "2117376313879306471"
-   }
-  },
-  {
-   "id": "2117448110821585296",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-03T02:45:44.000Z",
-   "lang": "en",
-   "conversation_id": "2117448110821585296",
-   "url": "https://x.com/elonmusk/status/2117448110821585296",
-   "kind": "repost",
-   "text": "Talarico has outspent Paxton nearly 9-to-1 since July.\n\n$89.4 million vs $10 million.\n\nHe’s also spent $11.6M MORE THAN HE RAISED.\n\nLeftists love to lecture everyone about “money in politics” and “buying elections” until it’s their guy burning through cash like it’s Monopoly money.\n\nWhere’s it coming from? Out of state donors? Special interests? Or just the usual Democrat money machine trying to purchase Texas?\n\nPaxton is getting outspent almost 9-to-1 and they’re still worried. They will fail.",
-   "urls": [],
-   "metrics": {
-    "likes": 1385,
-    "reposts": 322,
-    "replies": 139,
-    "quotes": 17
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWIPCGKWwAAyyzu.jpg",
-     "width": 1350,
-     "height": 1080
-    }
-   ],
-   "ref": {
-    "id": "2117271314540978483",
-    "author_id": "294293982",
-    "username": "Rothmus",
-    "name": "Rothmus 🏴",
-    "created_at": "2026-11-02T15:03:13.000Z",
-    "quote": {
-     "id": "2117043924690747428",
-     "author_id": "294293982",
-     "username": "Rothmus",
-     "name": "Rothmus 🏴",
-     "created_at": "2026-11-01T23:59:39.000Z",
-     "text": "California is trying to buy a Texas Senate seat.\n\nTalarico is getting 53% of his itemized money from outside the state.\n\nCalifornia alone dropped $7.8 million on him, more than Paxton raised from every other state combined.\n\nNew York added $3 million.\n\nMassachusetts another $2.1 million.\n\nPaxton’s campaign is 73% Texas money.\n\nTalarico’s is a coastal donor operation.\n\nThe left can’t win Texas on the merits, so they flooded the race with blue state cash instead.\n\nSo no, nothing “grassroots” about him.",
-     "media": [
-      {
-       "type": "photo",
-       "url": "https://pbs.twimg.com/media/HWFAOs-XMAAVE_y.jpg",
-       "width": 1080,
-       "height": 1350
-      }
-     ],
-     "conversation_id": "2117043924690747428"
-    },
-    "conversation_id": "2117271314540978483"
    }
   }
  ]

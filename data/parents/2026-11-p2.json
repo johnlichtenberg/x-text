@@ -1,7 +1,1001 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-22T19:54:04Z",
+ "updated_at": "2026-11-23T04:19:43Z",
  "posts": [
+  {
+   "id": "2121998577819914262",
+   "username": "dhh",
+   "name": "DHH",
+   "created_at": "2026-11-15T16:07:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/dhh/status/2121998577819914262",
+   "kind": "reply",
+   "text": "@matthewstoller This is sad, Matt. You don't have to agree with everything Musk says or does to recognize his completely unique ability to deliver incredible entrepreneurial benefits to the world. From SpaceX to Neuralink to Tesla to Grok. There are a million \"capital allocators\", only one Musk.",
+   "urls": [],
+   "metrics": {
+    "likes": 11621,
+    "reposts": 307,
+    "replies": 128,
+    "quotes": 13
+   },
+   "reply_to": {
+    "id": "2121803929537204575",
+    "username": "matthewstoller"
+   }
+  },
+  {
+   "id": "2121998262110462139",
+   "username": "arthurmrie",
+   "name": "Arthur Marie",
+   "created_at": "2026-11-15T16:06:25.000Z",
+   "lang": "en",
+   "url": "https://x.com/arthurmrie/status/2121998262110462139",
+   "kind": "post",
+   "text": "@mattyp thanks so much for @bot ❤️\nJust, tbh, the usage is still as bad as before 😞\nHaven't seen any changes in my side.",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXLZ9bsXQAA2Lx8.jpg",
+     "width": 1590,
+     "height": 1002
+    }
+   ]
+  },
+  {
+   "id": "2121993458596626834",
+   "username": "JoshPhillips",
+   "name": "Josh Phillips 🇺🇦",
+   "created_at": "2026-11-15T15:47:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/JoshPhillips/status/2121993458596626834",
+   "kind": "reply",
+   "text": "@alexmichael @mattyp @poteto Dude @poteto is so chill- her voice is calming……also what is the origin story to “poteto”",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121733376730173930",
+    "username": "alexmichael"
+   }
+  },
+  {
+   "id": "2121992627621138471",
+   "username": "frederickwongpy",
+   "name": "wong frederick",
+   "created_at": "2026-11-15T15:44:01.000Z",
+   "lang": "en",
+   "url": "https://x.com/frederickwongpy/status/2121992627621138471",
+   "kind": "reply",
+   "text": "@mattyp Thanks. When can we see that. Seems that after the reset last week, the burn rate is faster? is it me or is everyone feeling it too?",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121624592326480311",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121987330114248728",
+   "username": "tguerich",
+   "name": "Tony Guerich",
+   "created_at": "2026-11-15T15:22:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/tguerich/status/2121987330114248728",
+   "kind": "reply",
+   "text": "Matt, a few more from a daily user running about a dozen bots:\n1. Let me pick a voice for each bot.\n2. Let people check items off on a shared Page, like a grocery list in the store.\n3. Shared Page links make viewers sign in, so I can't share with friends.\n4. Old Pages are hard to find once they're replaced. Search or version history would help.\n5. Voice calls hand back summaries, not transcripts.\n6. In-app feedback fails in privacy mode.\nThanks for reading these yourself.",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2119474599708827957",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121986610728501402",
+   "username": "attiamo1",
+   "name": "Attia",
+   "created_at": "2026-11-15T15:20:07.000Z",
+   "lang": "en",
+   "url": "https://x.com/attiamo1/status/2121986610728501402",
+   "kind": "post",
+   "text": "Loved this from @mattyp in his livestream with @poteto: coding agents are underrated for work that isn't code.\n\nThey're great at long, complex tasks because they plan, split the work, and keep context clean. People are even editing video with them now 🎬\n\nWhat's the weirdest non-coding job you gave a coding agent?",
+   "urls": [],
+   "metrics": {
+    "likes": 42,
+    "reposts": 1,
+    "replies": 4,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121986251767328768/vid/avc1/1920x1080/pZ3ZRg3eu7Zk9N4Z.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121986251767328768/img/oHZxJ9uUSjiGzx-T.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121986251767328768/vid/avc1/480x270/-Ys-szWKPR80lNei.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121986251767328768/vid/avc1/640x360/4S0ht04f2ro7_1wC.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121986251767328768/vid/avc1/1280x720/uaYKRtRyScQELGuc.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121986251767328768/vid/avc1/1920x1080/pZ3ZRg3eu7Zk9N4Z.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 78521
+    }
+   ]
+  },
+  {
+   "id": "2121971097406984360",
+   "username": "Lurrree",
+   "name": "Lukas Andersson",
+   "created_at": "2026-11-15T14:18:28.000Z",
+   "lang": "en",
+   "url": "https://x.com/Lurrree/status/2121971097406984360",
+   "kind": "reply",
+   "text": "@poteto @mattyp no way dude",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121466726265282882",
+    "username": "poteto"
+   }
+  },
+  {
+   "id": "2121965207597527157",
+   "username": "Alwaleed_Talal",
+   "name": "الوليد بن طلال",
+   "created_at": "2026-11-15T13:55:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/Alwaleed_Talal/status/2121965207597527157",
+   "kind": "quote",
+   "text": "My friend @elonmusk, thank you!\n\nAnother extraordinary milestone.\nThe sky is no longer the limit! 🚀.",
+   "urls": [],
+   "metrics": {
+    "likes": 1382,
+    "reposts": 154,
+    "replies": 131,
+    "quotes": 5
+   },
+   "ref": {
+    "id": "2121726288968720709",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-14T22:05:41.000Z",
+    "text": "Congratulations to an incredible team at SpaceX!!!",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/3840x2160/epNZoVwS39gePomx.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2121715092903596032/img/RamESGt4tVwjBYVb.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/480x270/U-xvXXu3J0XFlw_a.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/640x360/q-KjXppE9unIivtp.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/1280x720/7dvRx7teG1IMbfkl.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/1920x1080/C2JFTEW74_Pa-Lsr.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/3840x2160/epNZoVwS39gePomx.mp4",
+        "w": 3840,
+        "h": 2160,
+        "br": 25128000
+       }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 92720
+     }
+    ],
+    "conversation_id": "2121726288968720709"
+   }
+  },
+  {
+   "id": "2121960724943823205",
+   "username": "DavidSolomon",
+   "name": "David Solomon",
+   "created_at": "2026-11-15T13:37:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/DavidSolomon/status/2121960724943823205",
+   "kind": "quote",
+   "text": "This is spectacular— looks like science fiction, but it’s real!  @elonmusk — I need to see this live one of these days!",
+   "urls": [],
+   "metrics": {
+    "likes": 4094,
+    "reposts": 239,
+    "replies": 118,
+    "quotes": 12
+   },
+   "ref": {
+    "id": "2121715216597827756",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-14T21:21:41.000Z",
+    "text": "Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement!",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/3840x2160/epNZoVwS39gePomx.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2121715092903596032/img/RamESGt4tVwjBYVb.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/480x270/U-xvXXu3J0XFlw_a.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/640x360/q-KjXppE9unIivtp.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/1280x720/7dvRx7teG1IMbfkl.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/1920x1080/C2JFTEW74_Pa-Lsr.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/3840x2160/epNZoVwS39gePomx.mp4",
+        "w": 3840,
+        "h": 2160,
+        "br": 25128000
+       }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 92720
+     }
+    ],
+    "conversation_id": "2121715216597827756"
+   }
+  },
+  {
+   "id": "2121938086292770850",
+   "username": "cb_doge",
+   "name": "DogeDesigner",
+   "created_at": "2026-11-15T12:07:18.000Z",
+   "lang": "en",
+   "url": "https://x.com/cb_doge/status/2121938086292770850",
+   "kind": "post",
+   "text": "BREAKING: Former White House and Pentagon official Douglas MacKinnon calls for an end to political attacks on Elon Musk, saying “our very survival may depend on him.”\n\n• Humanity’s future is vulnerable as long as we live on only one planet. War, an asteroid strike or another major disaster could threaten civilization.\n\n• Elon’s mission is to help humans live on other planets, giving future generations a better chance of surviving if disaster strikes Earth.\n\n• His work toward a permanent human presence in space could become one of his most important contributions to humanity.\n\n• People can disagree with his politics and still recognize the value of what he is trying to achieve.\n\n• MacKinnon argues that Elon deserves the time and freedom to focus on this mission.\n\nElon is working toward a future where humanity can live beyond Earth and explore the stars. His determination to make that possible deserves recognition and support.",
+   "urls": [],
+   "metrics": {
+    "likes": 8962,
+    "reposts": 1150,
+    "replies": 341,
+    "quotes": 98
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXKjcH1acAAUlky.jpg",
+     "width": 1125,
+     "height": 1125
+    }
+   ]
+  },
+  {
+   "id": "2121936261925539992",
+   "username": "almonk",
+   "name": "almonk",
+   "created_at": "2026-11-15T12:00:03.000Z",
+   "lang": "en",
+   "url": "https://x.com/almonk/status/2121936261925539992",
+   "kind": "post",
+   "text": "This is a great overview of Rex right now and the multiplexer for all work we’re building. Regardless of Rex, a great exercise in illustrative design and storytelling. https://youtu.be/zZYWQRE-0xs?si=h7V6eS_zZUuCcAST",
+   "urls": [
+    "https://youtu.be/zZYWQRE-0xs?si=h7V6eS_zZUuCcAST"
+   ],
+   "metrics": {
+    "likes": 717,
+    "reposts": 35,
+    "replies": 24,
+    "quotes": 4
+   }
+  },
+  {
+   "id": "2121910993022267901",
+   "username": "brivael",
+   "name": "Brivael Le Pogam",
+   "created_at": "2026-11-15T10:19:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/brivael/status/2121910993022267901",
+   "kind": "post",
+   "text": "AOC is deeply retarded",
+   "urls": [],
+   "metrics": {
+    "likes": 28566,
+    "reposts": 892,
+    "replies": 512,
+    "quotes": 57
+   }
+  },
+  {
+   "id": "2121896675048587765",
+   "username": "swyx",
+   "name": "swyx",
+   "created_at": "2026-11-15T09:22:44.000Z",
+   "lang": "en",
+   "url": "https://x.com/swyx/status/2121896675048587765",
+   "kind": "quote",
+   "text": "also the day 1 livestream has crossed 100k in the fastest time ever. covering coding agent practices and landscape continues to be the strongest format we do and by far my strongest product-market-fit focus thing I have ever done.",
+   "urls": [],
+   "metrics": {
+    "likes": 153,
+    "reposts": 2,
+    "replies": 136,
+    "quotes": 4
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXJ9x67bYAAiw4Y.jpg",
+     "width": 1290,
+     "height": 1897
+    }
+   ],
+   "ref": {
+    "id": "2121664913450189049",
+    "author_id": "1376308155626360837",
+    "username": "aiDotEngineer",
+    "name": "AI.Engineer 🔜 Shanghai & SF CODE",
+    "created_at": "2026-11-14T18:01:48.000Z",
+    "text": "taking day 1 view count predictions for the @poteto talk launching in 30 mins\n\nhttps://youtu.be/O_zcc6Xl12g\n\nhit the bell etc  https://twitter.com/swyx/status/2121661230259839408",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXGq_sCbkAAnuMu.jpg",
+      "width": 1290,
+      "height": 1128
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121878547837182026",
+   "username": "hhp121222",
+   "name": "寂寞的乔丹",
+   "created_at": "2026-11-15T08:10:43.000Z",
+   "lang": "zh",
+   "url": "https://x.com/hhp121222/status/2121878547837182026",
+   "kind": "post",
+   "text": "埃隆·马斯克已大幅扩充其安保团队。\n\n从早期仅有两个保镖的日子，到现在，他出行时会携带多达20多名武装安保人员的队伍，外加一名医务人员。 实际上，这个行动运作起来就像一个高级私人特勤局。\n\n据多家媒体报道，该团队会在他进入前检查房间，规划逃生路线，甚至在公司办公室陪同他上厕所。\n\n 2025年特斯拉为马斯克支付的安保费用约480万美元，较2024年的280万美元增长约71%。",
+   "urls": [],
+   "metrics": {
+    "likes": 6437,
+    "reposts": 331,
+    "replies": 396,
+    "quotes": 37
+   }
+  },
+  {
+   "id": "2121877487290585384",
+   "username": "willdepue",
+   "name": "will depue",
+   "created_at": "2026-11-15T08:06:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/willdepue/status/2121877487290585384",
+   "kind": "quote",
+   "text": "what the fuck are we doing with our lives guys. if not building this. it better be good, your alternative is constructing access to the heavens",
+   "urls": [],
+   "metrics": {
+    "likes": 5438,
+    "reposts": 154,
+    "replies": 93,
+    "quotes": 17
+   },
+   "ref": {
+    "id": "2121763173040538101",
+    "author_id": "3072160164",
+    "username": "johnkrausphotos",
+    "name": "John Kraus",
+    "created_at": "2026-11-15T00:32:15.000Z",
+    "text": "",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXIEVBkWoAAkctJ.jpg",
+      "width": 833,
+      "height": 1250
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXIEVBqWEAA_Ery.jpg",
+      "width": 833,
+      "height": 1250
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121827093017415989",
+   "username": "nbcsnl",
+   "name": "Saturday Night Live",
+   "created_at": "2026-11-15T04:46:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/nbcsnl/status/2121827093017415989",
+   "kind": "post",
+   "text": "the nation’s most prominent tech billionaires gather over an issue of national security",
+   "urls": [],
+   "metrics": {
+    "likes": 19699,
+    "reposts": 1733,
+    "replies": 181,
+    "quotes": 347
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121826073847730176/vid/avc1/1920x1080/0TaDdIjc0QD89OOO.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121826073847730176/img/JCY0fY2HIWYmrJYP.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121826073847730176/vid/avc1/480x270/e98nrykzYTxMQa2j.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121826073847730176/vid/avc1/640x360/Zjptf0fNQMWOUa48.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121826073847730176/vid/avc1/1280x720/pRrJL0k1sp9sSKhQ.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121826073847730176/vid/avc1/1920x1080/0TaDdIjc0QD89OOO.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 345886
+    }
+   ]
+  },
+  {
+   "id": "2121810298713546778",
+   "username": "anabology",
+   "name": "anabology",
+   "created_at": "2026-11-15T03:39:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/anabology/status/2121810298713546778",
+   "kind": "post",
+   "text": "SpaceX is a honestly an artificial superintelligence",
+   "urls": [],
+   "metrics": {
+    "likes": 3355,
+    "reposts": 84,
+    "replies": 67,
+    "quotes": 7
+   }
+  },
+  {
+   "id": "2121803800482807822",
+   "username": "LukeLeisher",
+   "name": "Luke",
+   "created_at": "2026-11-15T03:13:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/LukeLeisher/status/2121803800482807822",
+   "kind": "post",
+   "text": "The lesson of Icarus is not ‘don’t fly too close to the sun’ it’s ‘make better fucking wings’",
+   "urls": [],
+   "metrics": {
+    "likes": 4058,
+    "reposts": 277,
+    "replies": 76,
+    "quotes": 23
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXIpT24WwAA2NXb.jpg",
+     "width": 560,
+     "height": 600
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXIpT22WcAAC8y-.jpg",
+     "width": 498,
+     "height": 588
+    }
+   ]
+  },
+  {
+   "id": "2121779127133094190",
+   "username": "creatine_cycle",
+   "name": "atlas",
+   "created_at": "2026-11-15T01:35:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/creatine_cycle/status/2121779127133094190",
+   "kind": "quote",
+   "text": ">open grok bot stream\n>get a shoutout\n>\"his arms are scary\"\n\nthis is the nicest thing anyone has every said to me",
+   "urls": [],
+   "metrics": {
+    "likes": 65,
+    "reposts": 1,
+    "replies": 4,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121779066026209280/vid/avc1/540x960/ACJ4NabdDu5ElX3R.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121779066026209280/img/K61Mg43YueyCWC0t.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121779066026209280/vid/avc1/320x568/sMCdksu5yy0zNWS1.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121779066026209280/vid/avc1/480x852/v8r4OqtNGiF8bVZN.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121779066026209280/vid/avc1/540x960/ACJ4NabdDu5ElX3R.mp4",
+       "w": 540,
+       "h": 960,
+       "br": 2176000
+      }
+     ],
+     "width": 540,
+     "height": 960,
+     "duration_ms": 46066
+    }
+   ],
+   "ref": {
+    "id": "2121439659179848108",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-14T03:06:43.000Z",
+    "text": "Grok Bot Q&A - FRIDAY THE 13TH https://x.com/i/broadcasts/2POrLVeJllEPdZ",
+    "conversation_id": "2121439659179848108"
+   }
+  },
+  {
+   "id": "2121772466456469737",
+   "username": "Fossabot",
+   "name": "Fossabot",
+   "created_at": "2026-11-15T01:09:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/Fossabot/status/2121772466456469737",
+   "kind": "post",
+   "text": "In one weekend, Fossabot has:\n- Moderated The Streamer Awards\n- Used for the League World's 2026 Finals\n- Used for the BLASTPremier's Finals\n- Been the chatbot of choice for many TwitchCon streamers\n- Not shared any news about one of our biggest features launching soon. 👀\n\n🫡",
+   "urls": [],
+   "metrics": {
+    "likes": 215,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 3
+   }
+  },
+  {
+   "id": "2121770885191483723",
+   "username": "yunta_tsai",
+   "name": "Yun-Ta Tsai",
+   "created_at": "2026-11-15T01:02:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/yunta_tsai/status/2121770885191483723",
+   "kind": "post",
+   "text": "The answer is 42.",
+   "urls": [],
+   "metrics": {
+    "likes": 2139,
+    "reposts": 91,
+    "replies": 74,
+    "quotes": 15
+   }
+  },
+  {
+   "id": "2121731597154316772",
+   "username": "cpenned",
+   "name": "Chris Pennington",
+   "created_at": "2026-11-14T22:26:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/cpenned/status/2121731597154316772",
+   "kind": "post",
+   "text": "What are people using to stream to 𝕏 and YouTube these days?",
+   "urls": [],
+   "metrics": {
+    "likes": 13,
+    "reposts": 0,
+    "replies": 4,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2121727192698966139",
+   "username": "pronounced_kyle",
+   "name": "Christian Keil",
+   "created_at": "2026-11-14T22:09:17.000Z",
+   "lang": "en",
+   "url": "https://x.com/pronounced_kyle/status/2121727192698966139",
+   "kind": "quote",
+   "text": "Costs about $1 million to fuel Starship.\n\nIf they recover both the ship and the booster, that's their cost to get 100 TONS of payload to orbit.\n\nUnreal. New era in space exploration.",
+   "urls": [],
+   "metrics": {
+    "likes": 14780,
+    "reposts": 557,
+    "replies": 226,
+    "quotes": 51
+   },
+   "ref": {
+    "id": "2121716579717292372",
+    "author_id": "3072160164",
+    "username": "johnkrausphotos",
+    "name": "John Kraus",
+    "created_at": "2026-11-14T21:27:06.000Z",
+    "text": "SHIP CATCH: SpaceX has caught Starship 42 at Starbase to conclude Flight 15! A historic moment in humanity’s journey to explore the stars.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXHZ9zAXIAA-FAS.jpg",
+      "width": 833,
+      "height": 1250
+     }
+    ]
+   }
+  },
+  {
+   "id": "2121721987794174178",
+   "username": "sundarpichai",
+   "name": "Sundar Pichai",
+   "created_at": "2026-11-14T21:48:36.000Z",
+   "lang": "en",
+   "url": "https://x.com/sundarpichai/status/2121721987794174178",
+   "kind": "post",
+   "text": "Congrats @SpaceX for that starship catch, still feels like science fiction! Watching it live was incredible. Upwards!",
+   "urls": [],
+   "metrics": {
+    "likes": 31150,
+    "reposts": 1224,
+    "replies": 326,
+    "quotes": 45
+   }
+  },
+  {
+   "id": "2121718674235224077",
+   "username": "willdepue",
+   "name": "will depue",
+   "created_at": "2026-11-14T21:35:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/willdepue/status/2121718674235224077",
+   "kind": "quote",
+   "text": "i don’t think you guys understand. you will get the chance to go to space in your lifetime. new era",
+   "urls": [],
+   "metrics": {
+    "likes": 5526,
+    "reposts": 211,
+    "replies": 100,
+    "quotes": 16
+   },
+   "ref": {
+    "id": "2121717694877626686",
+    "author_id": "998575387067142144",
+    "username": "willdepue",
+    "name": "will depue",
+    "created_at": "2026-11-14T21:31:32.000Z",
+    "text": "THEY FUCKING DID IT. THEY FUCKING DID IT. OH MY GOD https://twitter.com/willdepue/status/2121716405553009085",
+    "conversation_id": "2121717694877626686"
+   }
+  },
+  {
+   "id": "2121715890567651343",
+   "username": "BrendanCarrFCC",
+   "name": "Brendan Carr",
+   "created_at": "2026-11-14T21:24:22.000Z",
+   "lang": "en",
+   "url": "https://x.com/BrendanCarrFCC/status/2121715890567651343",
+   "kind": "post",
+   "text": "Amazing.\n\nCongratulations Elon Musk and SpaceX.\n\nWhat a sight. 🇺🇸🇺🇸",
+   "urls": [],
+   "metrics": {
+    "likes": 12272,
+    "reposts": 1030,
+    "replies": 166,
+    "quotes": 55
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121715050444427264/vid/avc1/1080x1920/6VrzrbILGIpo8Wnr.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121715050444427264/img/f1AlQvSmwQbgF96s.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121715050444427264/vid/avc1/320x568/iBQb1AHBFw4KHKUC.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121715050444427264/vid/avc1/480x852/esbn7EY_RxVPAqxG.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121715050444427264/vid/avc1/720x1280/fnmUL-R50MlNAcVT.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121715050444427264/vid/avc1/1080x1920/6VrzrbILGIpo8Wnr.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 29770
+    }
+   ]
+  },
+  {
+   "id": "2121715782350504106",
+   "username": "NASAAdmin",
+   "name": "NASA Administrator Jared Isaacman",
+   "created_at": "2026-11-14T21:23:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/NASAAdmin/status/2121715782350504106",
+   "kind": "post",
+   "text": "Congrats to @elonmusk and the @SpaceX team! It was almost magic..Making more believers by the day....one step closer to 🌖🇺🇸",
+   "urls": [],
+   "metrics": {
+    "likes": 37906,
+    "reposts": 3167,
+    "replies": 480,
+    "quotes": 106
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXHZNYbXQAAMbss.jpg",
+     "width": 3388,
+     "height": 1898
+    }
+   ]
+  },
+  {
+   "id": "2121715283085897894",
+   "username": "skorusARK",
+   "name": "Sam Korus",
+   "created_at": "2026-11-14T21:21:57.000Z",
+   "lang": "en",
+   "url": "https://x.com/skorusARK/status/2121715283085897894",
+   "kind": "post",
+   "text": "Terrestrial data centers were a cute phase",
+   "urls": [],
+   "metrics": {
+    "likes": 5166,
+    "reposts": 194,
+    "replies": 80,
+    "quotes": 20
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXHYzcCWsAE3BZK.jpg",
+     "width": 1024,
+     "height": 575
+    }
+   ]
+  },
+  {
+   "id": "2121706931811426651",
+   "username": "TheRealBob50ay",
+   "name": "Robert Erwin",
+   "created_at": "2026-11-14T20:48:46.000Z",
+   "lang": "en",
+   "url": "https://x.com/TheRealBob50ay/status/2121706931811426651",
+   "kind": "reply",
+   "text": "@mattyp Thanks Matt.  When my game is ready to ship, you'll be the first to know.",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXHRNYVW8AApoCU.jpg",
+     "width": 2016,
+     "height": 1434
+    }
+   ],
+   "reply_to": {
+    "id": "2121695731136577628",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121703714012721306",
+   "username": "DJTechnophile",
+   "name": "Dhyey Jatania",
+   "created_at": "2026-11-14T20:35:59.000Z",
+   "lang": "en",
+   "url": "https://x.com/DJTechnophile/status/2121703714012721306",
+   "kind": "reply",
+   "text": "@mattyp no @mattyp, doesnt seem to work for me. I have reduced reliance on grok bot now",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121624592326480311",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121701402741289231",
+   "username": "YangYang16889",
+   "name": "路飛.D.哈爾密斯",
+   "created_at": "2026-11-14T20:26:48.000Z",
+   "lang": "en",
+   "url": "https://x.com/YangYang16889/status/2121701402741289231",
+   "kind": "post",
+   "text": "For the first time in my life, I'm making real progress on my projects.\n\nI've been running a team of Grok Bots on the Ultra plan (X Premium comes with it), and it works the way I wanted. Nothing is perfect on complex projects, but it keeps getting better at understanding me.\n\nThe team behind it ships new features and improvements almost daily. Unbelievable pace.\n\nSpecial thanks to @elonmusk for the personal support, @poteto, @mattyp, and the whole engineering team. You're all brilliant. 🙏\n\nMy main project right now: writing a long Chinese novel and producing a series of short ink animations alongside it on Rednote, all with a team of bots that gets me.\n\nMore on how it works soon. 🧵",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2121701285955326302",
+   "username": "matthew_gerrior",
+   "name": "Matthew Gerrior",
+   "created_at": "2026-11-14T20:26:20.000Z",
+   "lang": "en",
+   "url": "https://x.com/matthew_gerrior/status/2121701285955326302",
+   "kind": "reply",
+   "text": "@mattyp We need this kind of energy from the Build team. Now that bot isn't chewing half my usage, would love it if Build didn't chew the other half on me.",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121624592326480311",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121699148747727016",
+   "username": "hnshah",
+   "name": "Hiten Shah",
+   "created_at": "2026-11-14T20:17:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/hnshah/status/2121699148747727016",
+   "kind": "reply",
+   "text": "@mattyp Spitting the truth!",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121695731136577628",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121657390445777184",
+   "username": "TheyLiv3",
+   "name": "TheyLiv3 🐸👌🇨🇦",
+   "created_at": "2026-11-14T17:31:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/TheyLiv3/status/2121657390445777184",
+   "kind": "reply",
+   "text": "@mattyp @SamE1311025 @poteto Hey @mattyp! Is there a way I can switch my account from an App Store sub to a website sub before it ends? It ends tmrw but I have no usage left and want to sub on the site so it’s cheaper",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121653826839249196",
+    "username": "mattyp"
+   }
+  },
   {
    "id": "2121652448443953424",
    "username": "SamE1311025",

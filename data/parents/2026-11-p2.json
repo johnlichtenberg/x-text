@@ -1,7 +1,2603 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-23T04:19:43Z",
+ "updated_at": "2026-11-24T03:22:14Z",
  "posts": [
+  {
+   "id": "2122718075032400281",
+   "username": "poteto",
+   "name": "lauren",
+   "created_at": "2026-11-17T15:46:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/poteto/status/2122718075032400281",
+   "kind": "reply",
+   "text": "@quxiaoyin nice",
+   "urls": [],
+   "metrics": {
+    "likes": 89,
+    "reposts": 0,
+    "replies": 8,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122594080530338205",
+    "username": "quxiaoyin"
+   }
+  },
+  {
+   "id": "2122716177680028111",
+   "username": "paulgb",
+   "name": "Paul Butler",
+   "created_at": "2026-11-17T15:39:09.000Z",
+   "lang": "en",
+   "url": "https://x.com/paulgb/status/2122716177680028111",
+   "kind": "post",
+   "text": "I stand by this.\n\nhttps://www.businessinsider.com/tech-workers-love-williamsburg-brooklyn-real-estate-domino-ai-offices-2026-11",
+   "urls": [
+    "https://www.businessinsider.com/tech-workers-love-williamsburg-brooklyn-real-estate-domino-ai-offices-2026-11"
+   ],
+   "metrics": {
+    "likes": 1197,
+    "reposts": 31,
+    "replies": 58,
+    "quotes": 13
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVm9jMXAAAR9c6.png",
+     "width": 1258,
+     "height": 416
+    }
+   ]
+  },
+  {
+   "id": "2122707901202522199",
+   "username": "Frostehpoo",
+   "name": "Frosty",
+   "created_at": "2026-11-17T15:06:16.000Z",
+   "lang": "en",
+   "url": "https://x.com/Frostehpoo/status/2122707901202522199",
+   "kind": "reply",
+   "text": "@mattyp That's the page I was referring to. But as I said, it's not kept up to date. My current Grokbot is 1.2.0 yet the page is 1.0.1. The page not only lags  (often by weeks) but it misses out a lot of intermediary version notes. So a new update comes out I have no idea what it does.",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122704857631191359",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122703771541057639",
+   "username": "aryamankhawow",
+   "name": "Aryaman",
+   "created_at": "2026-11-17T14:49:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/aryamankhawow/status/2122703771541057639",
+   "kind": "reply",
+   "text": "@signulll have you tried cursor projects?",
+   "urls": [],
+   "metrics": {
+    "likes": 10,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122438861536031114",
+    "username": "signulll"
+   }
+  },
+  {
+   "id": "2122703044760719786",
+   "username": "GuyDealership",
+   "name": "Car Dealership Guy",
+   "created_at": "2026-11-17T14:46:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/GuyDealership/status/2122703044760719786",
+   "kind": "post",
+   "text": "I spent a day being driven by a Tesla. I don't think the auto industry fully understands what's coming.",
+   "urls": [],
+   "metrics": {
+    "likes": 2452,
+    "reposts": 264,
+    "replies": 210,
+    "quotes": 55
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122701978925219840/vid/avc1/1920x1080/KFydFcFnGdmjLb8L.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122701978925219840/img/-TFzOygjzL8lGOx7.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122701978925219840/vid/avc1/480x270/wECGbErfweiMWsXt.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122701978925219840/vid/avc1/640x360/XrTPnqjb-nDhnuY_.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122701978925219840/vid/avc1/1280x720/NnXuOMuvrLrOK7oj.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122701978925219840/vid/avc1/1920x1080/KFydFcFnGdmjLb8L.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 485518
+    }
+   ]
+  },
+  {
+   "id": "2122700964905771365",
+   "username": "Frostehpoo",
+   "name": "Frosty",
+   "created_at": "2026-11-17T14:38:42.000Z",
+   "lang": "en",
+   "url": "https://x.com/Frostehpoo/status/2122700964905771365",
+   "kind": "reply",
+   "text": "@mattyp These update videos are nice, but is there any chance we could just get patch notes released with each new version please, ideally on release day, so we can just look stuff up. There's already an official page for this but its outdated all the time and skips loads of minor vers",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122656691959234975",
+   "username": "stark0xbt",
+   "name": "stark0xbt",
+   "created_at": "2026-11-17T11:42:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/stark0xbt/status/2122656691959234975",
+   "kind": "reply",
+   "text": "@elonmusk two people marking opposite sides blind and landing on the same welds. that's the part that should be in the story",
+   "urls": [],
+   "metrics": {
+    "likes": 327,
+    "reposts": 10,
+    "replies": 8,
+    "quotes": 1
+   },
+   "reply_to": {
+    "id": "2122593416215224343",
+    "username": "elonmusk"
+   }
+  },
+  {
+   "id": "2122653636664992130",
+   "username": "johnellVV",
+   "name": "Johnell Prinsloo",
+   "created_at": "2026-11-17T11:30:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/johnellVV/status/2122653636664992130",
+   "kind": "quote",
+   "text": "Mr. Musk wanted to invest in SA. SA told him to give 30% of his company away.",
+   "urls": [],
+   "metrics": {
+    "likes": 1479,
+    "reposts": 93,
+    "replies": 120,
+    "quotes": 12
+   },
+   "ref": {
+    "id": "2122582844908175844",
+    "author_id": "301309392",
+    "username": "eNCA",
+    "name": "eNCA",
+    "created_at": "2026-11-17T06:49:20.000Z",
+    "text": "President Cyril Ramaphosa has called on billionaire entrepreneur Elon Musk to contribute to South Africa’s development, noting that the country played a role in shaping his early education. Tune in to #eNCA on #DStv403.",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/ext_tw_video/2122582818635075584/pu/vid/avc1/1280x720/IxQ51xRCJvF01irW.mp4?tag=12",
+      "poster": "https://pbs.twimg.com/ext_tw_video_thumb/2122582818635075584/pu/img/iyJ8WJugBQtxyeS_.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/ext_tw_video/2122582818635075584/pu/vid/avc1/480x270/UUFpyqhkqcF6SZGJ.mp4?tag=12",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/ext_tw_video/2122582818635075584/pu/vid/avc1/640x360/SVjX7rmcg2e8d4Oa.mp4?tag=12",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/ext_tw_video/2122582818635075584/pu/vid/avc1/1280x720/IxQ51xRCJvF01irW.mp4?tag=12",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 72024
+     }
+    ],
+    "conversation_id": "2122582844908175844"
+   }
+  },
+  {
+   "id": "2122637866329366530",
+   "username": "christianreber",
+   "name": "Christian Reber",
+   "created_at": "2026-11-17T10:27:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/christianreber/status/2122637866329366530",
+   "kind": "post",
+   "text": "Grok Bot took me from inbox zero to life zero. Everything is handled.",
+   "urls": [],
+   "metrics": {
+    "likes": 248,
+    "reposts": 9,
+    "replies": 24,
+    "quotes": 3
+   }
+  },
+  {
+   "id": "2122624542237479420",
+   "username": "IterIntellectus",
+   "name": "vittorio",
+   "created_at": "2026-11-17T09:35:01.000Z",
+   "lang": "it",
+   "url": "https://x.com/IterIntellectus/status/2122624542237479420",
+   "kind": "quote",
+   "text": "insane aura",
+   "urls": [],
+   "metrics": {
+    "likes": 4509,
+    "reposts": 144,
+    "replies": 77,
+    "quotes": 22
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXUTxMXWcAAwE8T.jpg",
+     "width": 1000,
+     "height": 662
+    }
+   ],
+   "ref": {
+    "id": "2122506924138823887",
+    "author_id": "430127050",
+    "username": "therealjakekwon",
+    "name": "Jake Kwon",
+    "created_at": "2026-11-17T01:47:39.000Z",
+    "text": "North Korea released photos of Kim Jong Un's daughter and possible heir Ju Ae skiing. Looks like Kim Yo Jong and the generals also joined in on the fun.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXSnpEgawAAKVuK.jpg",
+      "width": 1000,
+      "height": 634
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXSnpEgbsAAOtFX.jpg",
+      "width": 1000,
+      "height": 662
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXSnpEfaUAAJJnB.jpg",
+      "width": 1000,
+      "height": 674
+     }
+    ],
+    "conversation_id": "2122506924138823887"
+   }
+  },
+  {
+   "id": "2122577137609912605",
+   "username": "XFreeze",
+   "name": "X Freeze",
+   "created_at": "2026-11-17T06:26:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/XFreeze/status/2122577137609912605",
+   "kind": "post",
+   "text": "Delta CEO Ed Bastian is STILL defending his decision to reject Starlink in favor of Amazon Leo\n\nHe calls it “playing the long game” and insists he's “very confident” in his decision\n\nI'm not sure what he's really confident about because his competitors are literally advertising with Starlink and winning massive passengers\n\nUnited already has over 700 aircraft equipped with Starlink, while Delta won't even begin installing Amazon Leo until 2028\n\nBy then, United expects to have completed its entire fleet rollout\n\nDelta is betting on a service that hasn't even proven itself on commercial aircraft while its competitors are already delivering Starlink to millions of passengers\n\nI don't know how calling it the “long game” magically makes it a smart decision\n\nYou're handing your competitors a massive head start and calling it strategy\n\nThat's an incredibly stupid gamble",
+   "urls": [],
+   "metrics": {
+    "likes": 2608,
+    "reposts": 142,
+    "replies": 351,
+    "quotes": 29
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXTopylbwAAftO4.jpg",
+     "width": 1400,
+     "height": 1400
+    }
+   ]
+  },
+  {
+   "id": "2122575273904513264",
+   "username": "bradshannon",
+   "name": "bradshannon",
+   "created_at": "2026-11-17T06:19:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/bradshannon/status/2122575273904513264",
+   "kind": "post",
+   "text": "I did my best @mattyp impression to bring you Grok Bot live from the @SphereVegas! I stood in the cold rain waiting for it to show.",
+   "urls": [],
+   "metrics": {
+    "likes": 42,
+    "reposts": 1,
+    "replies": 7,
+    "quotes": 3
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122575159483834368/vid/avc1/1080x1920/CBIWPfZoGI_lH6wf.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122575159483834368/img/EiuY-riT6lrS80B5.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122575159483834368/vid/avc1/320x568/q3nkJafTfqwejYpt.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122575159483834368/vid/avc1/480x852/1m8HoGSli2Iv_8Ia.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122575159483834368/vid/avc1/720x1280/Mmp-aoakQeP43pqQ.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122575159483834368/vid/avc1/1080x1920/CBIWPfZoGI_lH6wf.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 35501
+    }
+   ]
+  },
+  {
+   "id": "2122567427120869406",
+   "username": "Grimezsz",
+   "name": "𝖦𝗋𝗂𝗆𝖾𝗌 ⏳",
+   "created_at": "2026-11-17T05:48:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/Grimezsz/status/2122567427120869406",
+   "kind": "quote",
+   "text": "This is casting gold please god just let them casting- slay for once",
+   "urls": [],
+   "metrics": {
+    "likes": 8047,
+    "reposts": 236,
+    "replies": 1729,
+    "quotes": 73
+   },
+   "ref": {
+    "id": "2122486886434533625",
+    "author_id": "1261335549215989760",
+    "username": "Polymarket",
+    "name": "Polymarket",
+    "created_at": "2026-11-17T00:28:02.000Z",
+    "text": "JUST IN: Variety names Hunter Schafer to its Bond girl “wish list” for Robert Pattinson’s 007 debut.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXSWkw_XMAAwvMX.jpg",
+      "width": 1463,
+      "height": 2048
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXSWkw5WAAAf1go.jpg",
+      "width": 500,
+      "height": 700
+     }
+    ]
+   }
+  },
+  {
+   "id": "2122555560809943389",
+   "username": "TeslaBoomerMama",
+   "name": "AleXandra Merz",
+   "created_at": "2026-11-17T05:00:55.000Z",
+   "lang": "art",
+   "url": "https://x.com/TeslaBoomerMama/status/2122555560809943389",
+   "kind": "quote",
+   "text": "👀  👀  👀",
+   "urls": [],
+   "metrics": {
+    "likes": 2885,
+    "reposts": 74,
+    "replies": 74,
+    "quotes": 5
+   },
+   "ref": {
+    "id": "2122554209577152999",
+    "author_id": "1319558110827040768",
+    "username": "Tslachan",
+    "name": "Tsla Chan",
+    "created_at": "2026-11-17T04:55:33.000Z",
+    "text": "Jensen Huang's X account just lost its blue checkmark and NVIDIA affiliate badge.\n\n🧐",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXTTuFLakAEiXqL.jpg",
+      "width": 1206,
+      "height": 1638
+     }
+    ],
+    "conversation_id": "2122554209577152999"
+   }
+  },
+  {
+   "id": "2122525480570302935",
+   "username": "BehizyTweets",
+   "name": "George",
+   "created_at": "2026-11-17T03:01:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/BehizyTweets/status/2122525480570302935",
+   "kind": "quote",
+   "text": "South African law literally requires Elon Musk & Starlink to give 30% ownership to some random black person just to be allowed to get in the country & compete... 30% of a company Elon built brick by brick.\n\nIt's the definition of racism.",
+   "urls": [],
+   "metrics": {
+    "likes": 21407,
+    "reposts": 1528,
+    "replies": 426,
+    "quotes": 50
+   },
+   "ref": {
+    "id": "2122512328696758640",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-17T02:09:08.000Z",
+    "text": "@semafor @jonkarl South Africa is now super racist against Whites and Asians",
+    "reply_to": {
+     "id": "2122422016418406793",
+     "username": "semafor"
+    },
+    "conversation_id": "2122422016418406793"
+   }
+  },
+  {
+   "id": "2122525131792642242",
+   "username": "andrewrsorkin",
+   "name": "Andrew Ross Sorkin",
+   "created_at": "2026-11-17T03:00:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/andrewrsorkin/status/2122525131792642242",
+   "kind": "post",
+   "text": "Getting ready for @dealbook summit on Wednesday. Send me your best questions. The list:\n\nJD Vance, v.p. of the United States\nMark Carney, prime minister of Canada\nSam Altman, OpenAI\nHailey Bieber, Rhode\nGreg Brockman, OpenAI\nShayne Coplan, Polymarket\nDavid Ellison, Skydance\nAdena Friedman, Nasdaq\nChristine Lagarde, president of the E.C.B.\nPalmer Luckey, Anduril\nZohran Mamdani, mayor of New York City\nElon Musk, SpaceX and Tesla (and more)\nSatya Nadella, Microsoft\nVlad Tenev, Robinhood",
+   "urls": [],
+   "metrics": {
+    "likes": 2332,
+    "reposts": 128,
+    "replies": 357,
+    "quotes": 32
+   }
+  },
+  {
+   "id": "2122520453604372990",
+   "username": "parkersmith",
+   "name": "Parker Smith",
+   "created_at": "2026-11-17T02:41:25.000Z",
+   "lang": "en",
+   "url": "https://x.com/parkersmith/status/2122520453604372990",
+   "kind": "post",
+   "text": "👋 Looking to get some feedback from folks automating most of their work with Bot, in exchange for some credits.\n\nIf this is you, please reply to this thread with how you use Bot and DM me your email!",
+   "urls": [],
+   "metrics": {
+    "likes": 1429,
+    "reposts": 81,
+    "replies": 2438,
+    "quotes": 45
+   }
+  },
+  {
+   "id": "2122515862880178373",
+   "username": "MarcusHouse",
+   "name": "Marcus House",
+   "created_at": "2026-11-17T02:23:10.000Z",
+   "lang": "en",
+   "url": "https://x.com/MarcusHouse/status/2122515862880178373",
+   "kind": "quote",
+   "text": "That's... interesting, and to me at least confusing. 🤔\nSome sort of material that survives entry and doesn't scrape off?",
+   "urls": [],
+   "metrics": {
+    "likes": 1598,
+    "reposts": 30,
+    "replies": 70,
+    "quotes": 3
+   },
+   "ref": {
+    "id": "2122511400908243146",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-17T02:05:26.000Z",
+    "text": "@xdNiBoR That will be replaced with stainless steel wool for future flights",
+    "reply_to": {
+     "id": "2122382803065004158",
+     "username": "xdNiBoR"
+    },
+    "conversation_id": "2122382803065004158"
+   }
+  },
+  {
+   "id": "2122512355062161744",
+   "username": "teslaownersSV",
+   "name": "Tesla Owners Silicon Valley",
+   "created_at": "2026-11-17T02:09:14.000Z",
+   "lang": "en",
+   "url": "https://x.com/teslaownersSV/status/2122512355062161744",
+   "kind": "post",
+   "text": "Grok Bot read my wife's medical records, researched the latest cancer treatments and trials, found the top specialist at Stanford and drafted the emails.\n\nHours later, Stanford called us to start intake.\n\n@elonmusk, Grok is giving families like mine a path forward. 🙏",
+   "urls": [],
+   "metrics": {
+    "likes": 8435,
+    "reposts": 688,
+    "replies": 360,
+    "quotes": 65
+   }
+  },
+  {
+   "id": "2122460632146706570",
+   "username": "wholemars",
+   "name": "Whole Mars Catalog",
+   "created_at": "2026-11-16T22:43:42.000Z",
+   "lang": "en",
+   "url": "https://x.com/wholemars/status/2122460632146706570",
+   "kind": "post",
+   "text": "they really doing everything to twist normal interactions into something sinister",
+   "urls": [],
+   "metrics": {
+    "likes": 20096,
+    "reposts": 712,
+    "replies": 775,
+    "quotes": 454
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXR-slsa0AAmUBX.jpg",
+     "width": 986,
+     "height": 825
+    }
+   ]
+  },
+  {
+   "id": "2122460468996620414",
+   "username": "MaXFalstein",
+   "name": "MaX Falstein 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧🇺🇸🇰🇾🇬🇮🇭🇰",
+   "created_at": "2026-11-16T22:43:03.000Z",
+   "lang": "en",
+   "url": "https://x.com/MaXFalstein/status/2122460468996620414",
+   "kind": "reply",
+   "text": "@mattyp Please, may we have a @discord integration?",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122458474642858308",
+   "username": "mikeHudsonisonX",
+   "name": "Michael Hudson",
+   "created_at": "2026-11-16T22:35:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/mikeHudsonisonX/status/2122458474642858308",
+   "kind": "reply",
+   "text": "@mattyp These are my favorite videos right now. Immensely informative and concise and delightfully entertaining. Please add on YouTube 🙏",
+   "urls": [],
+   "metrics": {
+    "likes": 7,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122457815641886726",
+   "username": "GorkaCesium",
+   "name": "Gorka Cesium",
+   "created_at": "2026-11-16T22:32:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/GorkaCesium/status/2122457815641886726",
+   "kind": "reply",
+   "text": "@mattyp the lasers were super distracting!",
+   "urls": [],
+   "metrics": {
+    "likes": 8,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122449548744474931",
+   "username": "KatieMiller",
+   "name": "Katie Miller",
+   "created_at": "2026-11-16T21:59:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/KatieMiller/status/2122449548744474931",
+   "kind": "quote",
+   "text": "Starlink is not officially licensed or legally available to operate in South Africa because Elon isn’t black.",
+   "urls": [],
+   "metrics": {
+    "likes": 16259,
+    "reposts": 1658,
+    "replies": 1281,
+    "quotes": 150
+   },
+   "ref": {
+    "id": "2122422016418406793",
+    "author_id": "14932439",
+    "username": "semafor",
+    "name": "Semafor",
+    "created_at": "2026-11-16T20:10:16.000Z",
+    "text": "\"I have met Elon Musk in the past, and I've been awed by his brilliance. But I'd also like to chat to him about remembering his country,\" South African President Cyril Ramaphosa tells @jonkarl.\n\n\"What you've become today is by dint of your own origins ... It is because of the knowledge. And the education that was made available to him.\"",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2122421919093862400/vid/avc1/1280x720/z3uZuhTq_xr6doel.mp4?tag=16",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122421919093862400/img/XbgApVKU2CWrdntG.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2122421919093862400/vid/avc1/480x270/SaM0rXNvhsMBKHh6.mp4?tag=16",
+        "w": 480,
+        "h": 270,
+        "br": 288000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122421919093862400/vid/avc1/640x360/9keMnfHtehKMVFH0.mp4?tag=16",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122421919093862400/vid/avc1/1280x720/z3uZuhTq_xr6doel.mp4?tag=16",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 183716
+     }
+    ],
+    "conversation_id": "2122422016418406793"
+   }
+  },
+  {
+   "id": "2122444425087295548",
+   "username": "stark0xbt",
+   "name": "stark0xbt",
+   "created_at": "2026-11-16T21:39:18.000Z",
+   "lang": "en",
+   "url": "https://x.com/stark0xbt/status/2122444425087295548",
+   "kind": "quote",
+   "text": "Antonio Gracias has invested with Elon since PayPal. He sat on Tesla's board through the Model 3 crisis.\n\nHe says one night explains Elon better than anything.\n\nIt's 2018, 3 AM, in the body shop. By Elon's own account, Tesla was about a month from bankruptcy.\n\nElon sits down with the engineers and starts cutting welds out of the car. About 30. Math in his head.\n\n\"If he had been wrong, we'd have gone bankrupt.\"\n\nThe simulation came back. He was right.\n\n\"It was like watching Michael Jordan play basketball times 10.\"\n\nGavin Baker, sitting next to him, on why Elon started xAI: so AI isn't \"just dominated by OpenAI, Google.\"\n\nThat panel was two years ago. xAI was a startup with no product.Gavin Baker explained why Elon started xAI before most people took it seriously.\n\n\"To make sure that it is not just dominated by OpenAI, Google.\"\n\nThen Antonio Gracias, who sat on Tesla's board, explained why Elon can actually pull it off.\n\nIt's 2018, 3 AM. The Model 3 body shop is failing. Tesla is running out of money.\n\n\"He was running the math in his head… take about 30 welds out of the car.\"\n\n\"If he had been wrong, we'd have gone bankrupt.\"\n\nHe wasn't wrong.\n\n\"It was like watching Michael Jordan play basketball times 10.\"\n\nThat's the same brain now running xAI. Back then it was 30 welds. Now it's a million GPUs.\n\nEveryone asks if xAI can catch OpenAI and Google. The people who've seen Elon at 3 AM don't ask.\nToday it's inside SpaceX, running one of the largest GPU clusters on Earth.\n\nBoth of them called it early. Both had seen 3 AM.",
+   "urls": [],
+   "metrics": {
+    "likes": 2728,
+    "reposts": 279,
+    "replies": 34,
+    "quotes": 14
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122443686147469312/vid/avc1/1920x1080/CDsT0FtAWT_yhQZ6.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122443686147469312/img/i5swzCHrElYXjx0a.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122443686147469312/vid/avc1/480x270/1eq1bIjjKrkANLnl.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122443686147469312/vid/avc1/640x360/nUEnQayYO_FXSNf2.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122443686147469312/vid/avc1/1280x720/dyyEIm7BRx4lQWDY.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122443686147469312/vid/avc1/1920x1080/CDsT0FtAWT_yhQZ6.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 237337
+    }
+   ],
+   "ref": {
+    "id": "2110060506782253061",
+    "author_id": "1443317055026077703",
+    "username": "stark0xbt",
+    "name": "stark0xbt",
+    "created_at": "2026-10-13T17:30:02.000Z",
+    "text": "https://x.com/i/article/2109986286463234048",
+    "article_title": "The Age of Elon in Receipts: What 15 Blue-Chip Fund Managers Have Said About Musk in 2026",
+    "conversation_id": "2110060506782253061"
+   }
+  },
+  {
+   "id": "2122422016418406793",
+   "username": "semafor",
+   "name": "Semafor",
+   "created_at": "2026-11-16T20:10:16.000Z",
+   "lang": "en",
+   "url": "https://x.com/semafor/status/2122422016418406793",
+   "kind": "post",
+   "text": "\"I have met Elon Musk in the past, and I've been awed by his brilliance. But I'd also like to chat to him about remembering his country,\" South African President Cyril Ramaphosa tells @jonkarl.\n\n\"What you've become today is by dint of your own origins ... It is because of the knowledge. And the education that was made available to him.\"",
+   "urls": [],
+   "metrics": {
+    "likes": 3122,
+    "reposts": 393,
+    "replies": 740,
+    "quotes": 131
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122421919093862400/vid/avc1/1280x720/z3uZuhTq_xr6doel.mp4?tag=16",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122421919093862400/img/XbgApVKU2CWrdntG.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122421919093862400/vid/avc1/480x270/SaM0rXNvhsMBKHh6.mp4?tag=16",
+       "w": 480,
+       "h": 270,
+       "br": 288000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122421919093862400/vid/avc1/640x360/9keMnfHtehKMVFH0.mp4?tag=16",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122421919093862400/vid/avc1/1280x720/z3uZuhTq_xr6doel.mp4?tag=16",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      }
+     ],
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 183716
+    }
+   ]
+  },
+  {
+   "id": "2122421315596382658",
+   "username": "MusingTiger",
+   "name": "Caleb Crow",
+   "created_at": "2026-11-16T20:07:28.000Z",
+   "lang": "en",
+   "url": "https://x.com/MusingTiger/status/2122421315596382658",
+   "kind": "reply",
+   "text": "@KerbalNut @DJSnM It's missing \"This is too much power for one man to have\" and \"SpaceX is a monopoly.\"",
+   "urls": [],
+   "metrics": {
+    "likes": 456,
+    "reposts": 14,
+    "replies": 11,
+    "quotes": 2
+   },
+   "reply_to": {
+    "id": "2122395920876863964",
+    "username": "KerbalNut"
+   }
+  },
+  {
+   "id": "2122415204466372832",
+   "username": "getbrandyai",
+   "name": "Robert Villegas",
+   "created_at": "2026-11-16T19:43:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/getbrandyai/status/2122415204466372832",
+   "kind": "reply",
+   "text": "@mattyp @bot Still no Mail??",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2120947752389783647",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122403531894214806",
+   "username": "apostlejohn",
+   "name": "John Welty",
+   "created_at": "2026-11-16T18:56:49.000Z",
+   "lang": "en",
+   "url": "https://x.com/apostlejohn/status/2122403531894214806",
+   "kind": "reply",
+   "text": "@WorldlyReviewer I'm a Diamond level Uber driver in the Austin area (using FSD exclusively) and I get anywhere between 49% and 63% of the passenger fare.\n\nI'd rather send my Model Y off to work for Robotaxi without me.",
+   "urls": [],
+   "metrics": {
+    "likes": 1413,
+    "reposts": 41,
+    "replies": 31,
+    "quotes": 8
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXRKw7yXgAARSI3.jpg",
+     "width": 1080,
+     "height": 996
+    }
+   ],
+   "reply_to": {
+    "id": "2122392961304461518",
+    "username": "WorldlyReviewer"
+   }
+  },
+  {
+   "id": "2122394684245074394",
+   "username": "firesidealpha",
+   "name": "Fireside Alpha",
+   "created_at": "2026-11-16T18:21:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/firesidealpha/status/2122394684245074394",
+   "kind": "quote",
+   "text": "Sam Altman says chipmakers are double counting OpenAI demand, each assuming OpenAI will buy all of their chips\n\n“Sure. For a long time, there was basically one chip provider in the industry. And so when people were counting wafers, they could ask companies like ours what demand was going to be. And they could, I think, get a sense of where end user demand for the chips they could make would be.”\n\n“There are now many people making chips. And many of those people think they’re going to sell most of the volume to us and Anthropic and others. And we have some limited amount of demand and data centers and everything else. And I think there are many people making chips all talking to the silicon supply chain assuming that we’re going to buy all of their chips.”\n\n“And I think the demand, the data center build out, that stuff is solid. But we’re not all gonna be able to or need to buy every… all of our supply from every chip vendor.”",
+   "urls": [],
+   "metrics": {
+    "likes": 853,
+    "reposts": 46,
+    "replies": 60,
+    "quotes": 35
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122394431303323648/vid/avc1/854x480/WgCc84AYrlaKSvdK.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122394431303323648/img/Y7lcoSaKNJnzNrb5.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122394431303323648/vid/avc1/480x270/_2zi0CpnRdlsUEYc.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122394431303323648/vid/avc1/640x360/_DSGgJ35Gmi8KPg6.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122394431303323648/vid/avc1/854x480/WgCc84AYrlaKSvdK.mp4",
+       "w": 854,
+       "h": 480,
+       "br": 2176000
+      }
+     ],
+     "width": 854,
+     "height": 480,
+     "duration_ms": 60733
+    }
+   ],
+   "ref": {
+    "id": "2122379516018569440",
+    "author_id": "2066250685512110080",
+    "username": "firesidealpha",
+    "name": "Fireside Alpha",
+    "created_at": "2026-11-16T17:21:23.000Z",
+    "text": "Sam Altman says Jensen Huang 'has long been a hero of mine' and 'it's hard to imagine the AI revolution without Jensen'\n\n\"I don't think I know enough to answer that question. I, Jensen has long been a hero of mine. Heroes have flaws. I am grateful for the company he's built. I do have like personal strong empathy to a situation like this. I remember what it was like, although it feels like forever ago. But it's hard to imagine the AI revolution without Jensen. And the company he has built took an early bet on us. We took an early bet on him. I have extreme extreme gratitude for that.\"",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2122379287001198592/vid/avc1/1280x720/LCaC4Dy0IBoj-pYn.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122379287001198592/img/eZ3-D5bsM1YFkgS0.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2122379287001198592/vid/avc1/480x270/VDNDUX8Z3LWdQRdp.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122379287001198592/vid/avc1/640x360/O32Zjc5bdlr5ltuq.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122379287001198592/vid/avc1/1280x720/LCaC4Dy0IBoj-pYn.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 40200
+     }
+    ]
+   }
+  },
+  {
+   "id": "2122384941443150052",
+   "username": "Madisonkanna",
+   "name": "Madison Kanna",
+   "created_at": "2026-11-16T17:42:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/Madisonkanna/status/2122384941443150052",
+   "kind": "post",
+   "text": "Life update.\n\nI’ve joined @MTSlive as a host!\n\nWhen I moved to SF to work in AI, I was surprised by how much of what is happening in the field hadn’t reached the rest of the world.\n\nThat’s why I’m so excited about MTS’s mission to help people understand AI.\n\nI’m so grateful and excited to be working alongside @liangsays @ChrisJBakke @sophiadew @netcapgirl @theojaffee and the rest of this team.\n\nI’ll be having conversations with the people at the frontier of AI. If that’s you, or there’s someone you’d like to see me interview, let me know.",
+   "urls": [],
+   "metrics": {
+    "likes": 682,
+    "reposts": 23,
+    "replies": 137,
+    "quotes": 8
+   }
+  },
+  {
+   "id": "2122382803065004158",
+   "username": "xdNiBoR",
+   "name": "Robin",
+   "created_at": "2026-11-16T17:34:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/xdNiBoR/status/2122382803065004158",
+   "kind": "quote",
+   "text": "You can really see the ablative getting scraped off by the chopsticks.",
+   "urls": [],
+   "metrics": {
+    "likes": 6174,
+    "reposts": 218,
+    "replies": 181,
+    "quotes": 34
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122382739093483520/vid/avc1/3840x2160/mDJjA-QLm0zvi_08.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122382739093483520/img/KSXw-b5T6iHv3vCU.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122382739093483520/vid/avc1/480x270/EVOLgUihHlBDV-GE.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122382739093483520/vid/avc1/640x360/wKZwCXntu9-cSmxV.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122382739093483520/vid/avc1/1280x720/HWPiQLjnS1X-r73m.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122382739093483520/vid/avc1/1920x1080/2JA7uBvcjrtuSehD.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122382739093483520/vid/avc1/3840x2160/mDJjA-QLm0zvi_08.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 10196
+    }
+   ],
+   "ref": {
+    "id": "2122084876744626367",
+    "author_id": "926714904874188800",
+    "username": "xdNiBoR",
+    "name": "Robin",
+    "created_at": "2026-11-15T21:50:35.000Z",
+    "text": "Detailed shot of the damage to the ablative heat shield.  https://twitter.com/xdNiBoR/status/2122083230971244803",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXMo8aLXoAAOBfa.jpg",
+      "width": 2300,
+      "height": 3689
+     }
+    ]
+   }
+  },
+  {
+   "id": "2122373284813742579",
+   "username": "Devon_Eriksen_",
+   "name": "Devon Eriksen",
+   "created_at": "2026-11-16T16:56:37.000Z",
+   "lang": "en",
+   "url": "https://x.com/Devon_Eriksen_/status/2122373284813742579",
+   "kind": "quote",
+   "text": "A lot of people have real trouble thinking about the aggregate behavior of groups. They can only think about individuals.\n\nSo they think about Elon Musk as an individual. Maybe they think that he must be retarded, because they need that for emotional reasons. Or maybe they think he is a talented rocket designer.\n\nBut even if they realize he understands rockets, they can only think about him as an individual doing tasks. Not about his impact on what the whole company does.\n\nIf Elon Musk is just a talented rocket designer, then he can spend all day, every day, improving rocket designs.\n\nBut he is just one of 7000 engineers. So even if did a perfect job, he would only improve progress by about .014%\n\nSo, when a midwit looks at SpaceX, he sees 7000 engineers, and says to himself \"Elon Musk cannot possibly be designing the whole damn rocket himself. These people are giving him too much credit.\"\n\nThis would be absolutely true if Musk were just a some random SpaceX engineer. But he isn't. He's the absolute dictator of the whole damn company.\n\nHe decides, with absolute and unquestionable authority, which behaviors are punished and which are rewarded.\n\nWhy is this important?\n\nWhen I worked at Boeing, on various classified projects, I naively came in with the assumption that I was a software engineer, employed to design and build functional software as quickly and cheaply as possible.\n\nBecause of this, I focused on functionality and efficiency, for example suggesting changes that would obviate the need for entire projects and software components.\n\nAnd I very rapidly became persona non grata.\n\nAt first, this caused me to adopt an air of aggrieved innocence. I was just trying to do my job well, and I was being punished for it.\n\nThen I gradually came to realize that I hadn't properly understood what my job was, or what the actual mission of Boeing Defense, Space, and Security was.\n\nBoeing DSS was not an aerospace company. Boeing DSS was a fraud company.\n\nIts goal was twofold. First, to maximize transfer of public tax dollars to stockholder pockets. Second, to maintain the appearance of being an aerospace company, to prevent the fraud from being exposed.\n\nWhich meant that my real job was twofold. First, to generate billable hours. Second, to look busy.\n\nThis is why Space Launch System sucks. Why it is always late when it doesn't fail outright. Why it is at 300% of its target budget. Why it leaves American astronauts stranded and needing a lift from SpaceX.\n\nThat's because, for Boeing, building rockets is a side quest. Something they have to do to look busy. Yes, a rocket does occasionally fly, but that's just happening so programs don't get shut down.\n\nFor Boeing, coming in early and under budget would actually be failure. The system is functioning exactly as designed.\n\nThe cost, not the rocket, is the goal.\n\nMusk and SpaceX don't work like that.\n\nUnlike Boeing executives, Musk is not a useless grifter asshole. He is an entirely different kind of asshole... a rocket obsessed sperg.\n\nSo, at SpaceX, engineers do not get rewarded for generating billable hours. They get rewarded for making rockets fly. And for all the subtasks of this, like figuring out how to make rockets lighter, figuring out how to make engines reignite better, figuring out how to make rocket exhaust not destroy launch pads, etc.\n\nAnd this attracts engineers who care about rockets. You've seen them on broadcasts, crying on open microphones because they dedicated their lives to something and it just flew.\n\nAs a rocket engineer, who designs rockets, Musk is probably replaceable. As a rocket company engineer, who designs rocket companies, he is not.\n\nFor over 50 years, the US space industry stagnated precisely for the lack of a Musk-like figure, who could not only create an effective aerospace company, but who could thereby demonstrate what an effective aerospace company looks like.\n\nWhich makes it much more difficult for fraudsters to get away with fraud.\n\nI'm envious. I wish I could have worked for an aerospace company instead of a fraud company.\n\nBut what's more important is that some of us now no longer have to play \"who gets the most cheese?\".\n\nThey get to play \"What can we build today?\".",
+   "urls": [],
+   "metrics": {
+    "likes": 12941,
+    "reposts": 1632,
+    "replies": 364,
+    "quotes": 240
+   },
+   "ref": {
+    "id": "2122114284779925897",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-15T23:47:27.000Z",
+    "text": "Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon.\n\nPerhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably?\n\nAlso, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit?\n\nI am genuinely curious about these questions.",
+    "reply_to": {
+     "id": "2121998577819914262",
+     "username": "dhh"
+    },
+    "conversation_id": "2121803929537204575"
+   }
+  },
+  {
+   "id": "2122363541042925834",
+   "username": "pdxjimsmith",
+   "name": "Jim McKenzie Smith",
+   "created_at": "2026-11-16T16:17:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/pdxjimsmith/status/2122363541042925834",
+   "kind": "reply",
+   "text": "@mattyp TIL! Matt closed with \"coming down the pike\" which is historically more correct. 😃",
+   "urls": [],
+   "metrics": {
+    "likes": 12,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXQmHyGbIAEOQls.jpg",
+     "width": 2658,
+     "height": 1298
+    }
+   ],
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122363232597758167",
+   "username": "marcodzo",
+   "name": "Marco DZO ⚡️",
+   "created_at": "2026-11-16T16:16:40.000Z",
+   "lang": "fr",
+   "url": "https://x.com/marcodzo/status/2122363232597758167",
+   "kind": "quote",
+   "text": "J'adore ces capsules vidéo",
+   "urls": [],
+   "metrics": {
+    "likes": 16,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2122343944889483583",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-16T15:00:02.000Z",
+    "text": "What's new in Grok Bot 1.0 🚀\n\n00:45 Team Bot improvements\n01:47 Bots join your meetings\n03:26 Bots take initiative\n04:10 Bots learn and improve\n05:19 Bots are smarter and faster\n\nLots of easter eggs in this one for y'all!",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/3840x2160/qYIMxN8O4ae9Fp7_.mp4",
+      "poster": "https://pbs.twimg.com/media/HXL6gzjawAAK9bp.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/480x270/_JLI1bG7ovVcXNGv.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/640x360/5_i7afgAS1YVGbst.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/1280x720/mAth9dBp4iK7YR0D.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/1920x1080/lp1RBB2z7yA0_dgq.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/3840x2160/qYIMxN8O4ae9Fp7_.mp4",
+        "w": 3840,
+        "h": 2160,
+        "br": 25128000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 394176
+     }
+    ],
+    "conversation_id": "2122343944889483583"
+   }
+  },
+  {
+   "id": "2122362394269925455",
+   "username": "pdxjimsmith",
+   "name": "Jim McKenzie Smith",
+   "created_at": "2026-11-16T16:13:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/pdxjimsmith/status/2122362394269925455",
+   "kind": "reply",
+   "text": "@mattyp The laser eyes cracked me up! 🤣",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122344590682521856",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122358928801501504",
+   "username": "Erdayastronaut",
+   "name": "Everyday Astronaut",
+   "created_at": "2026-11-16T15:59:34.000Z",
+   "lang": "en",
+   "url": "https://x.com/Erdayastronaut/status/2122358928801501504",
+   "kind": "post",
+   "text": "You know what’s wild to think about? Starship has about 18,000 tiles and only ONE fell off. That’s already about a 99.995% reliability rate. They’ll keep chasing those 9’s too and eventually a missing tile will probably be pretty rare.",
+   "urls": [],
+   "metrics": {
+    "likes": 15460,
+    "reposts": 709,
+    "replies": 533,
+    "quotes": 83
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXQiMg-W8AAt2oG.jpg",
+     "width": 2048,
+     "height": 1536
+    }
+   ]
+  },
+  {
+   "id": "2122357851913859579",
+   "username": "farzyness",
+   "name": "Farzad 🇺🇸 🇮🇷",
+   "created_at": "2026-11-16T15:55:18.000Z",
+   "lang": "en",
+   "url": "https://x.com/farzyness/status/2122357851913859579",
+   "kind": "quote",
+   "text": "SpaceX needs to be added to the list.",
+   "urls": [],
+   "metrics": {
+    "likes": 5587,
+    "reposts": 156,
+    "replies": 132,
+    "quotes": 9
+   },
+   "ref": {
+    "id": "2122335882900574598",
+    "author_id": "1261335549215989760",
+    "username": "Polymarket",
+    "name": "Polymarket",
+    "created_at": "2026-11-16T14:28:00.000Z",
+    "text": "JUST IN: Trump administration to reportedly name Nvidia, OpenAI, & Anthropic as AI “national champions.”"
+   }
+  },
+  {
+   "id": "2122355687615340712",
+   "username": "matt_gray_",
+   "name": "MATT GRAY",
+   "created_at": "2026-11-16T15:46:42.000Z",
+   "lang": "en",
+   "url": "https://x.com/matt_gray_/status/2122355687615340712",
+   "kind": "reply",
+   "text": "@mattyp The boomerang at 2:58 is so good. Love how subtle the animations are in this one.\n\nWe're rebuilding Founder OS around Grok Bot agents right now, so this release landed at the perfect time.",
+   "urls": [],
+   "metrics": {
+    "likes": 10,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122353869112180868",
+   "username": "ammonride",
+   "name": "Ammon Ride",
+   "created_at": "2026-11-16T15:39:28.000Z",
+   "lang": "en",
+   "url": "https://x.com/ammonride/status/2122353869112180868",
+   "kind": "reply",
+   "text": "@mattyp I was oddly entertained",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122344590682521856",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122351792654844394",
+   "username": "kaiwlson",
+   "name": "kai",
+   "created_at": "2026-11-16T15:31:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/kaiwlson/status/2122351792654844394",
+   "kind": "reply",
+   "text": "@mattyp both, i'd be suprised if they one-shot the effects",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122349253800665520",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122351439527948606",
+   "username": "LouiseDSadeleer",
+   "name": "Louise de Sadeleer",
+   "created_at": "2026-11-16T15:29:49.000Z",
+   "lang": "en",
+   "url": "https://x.com/LouiseDSadeleer/status/2122351439527948606",
+   "kind": "reply",
+   "text": "@mattyp I really wanna do a vid on using it for shopping as part of my 6-week \"build to Christmas\" series :) tips are welcome",
+   "urls": [],
+   "metrics": {
+    "likes": 11,
+    "reposts": 1,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122350664537813074",
+   "username": "karafoods",
+   "name": "Gerald kara",
+   "created_at": "2026-11-16T15:26:44.000Z",
+   "lang": "en",
+   "url": "https://x.com/karafoods/status/2122350664537813074",
+   "kind": "reply",
+   "text": "@mattyp @mattyp relentless! 👊🏽🫡",
+   "urls": [],
+   "metrics": {
+    "likes": 7,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122350099959521478",
+   "username": "juswilvel",
+   "name": "Justin Velasquez",
+   "created_at": "2026-11-16T15:24:29.000Z",
+   "lang": "en",
+   "url": "https://x.com/juswilvel/status/2122350099959521478",
+   "kind": "reply",
+   "text": "@mattyp I just finished watching, and I had no idea I was in for such a masterpiece of modern cinema. Your ability to stay focused while deflecting boomerangs and laser beams is also impressive. Haha.",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122349466871345279",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122349699852099598",
+   "username": "JohnFiorello",
+   "name": "John Fiorello",
+   "created_at": "2026-11-16T15:22:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/JohnFiorello/status/2122349699852099598",
+   "kind": "quote",
+   "text": "I really enjoy where we are with AI right now. It reminds me of looking forward to early iPhone updates with SJ at the helm. Every 6-12 months, a new iOS update would show up with amazing new features. I even joined the beta program to get them sooner.\n\nTech development on those types of platforms have matured/slowed/lost their innovation, for whatever reason, I try to put off updates as long as possible because I'm sure they've broken something important somewhere.\n\nBut here, we're getting these really awesome updates, and at an exponential rate. Weekly, major changes and improvements. If only SJ was here to see it.\n\nIf exponential change will continue its pace, I can't imagine the rate we'll engage with in 10 years. Disease found in the morning, cure found by dinner. Problem surfaces on a Tuesday, a better solution is found on a Wednesday.\n\nNow, I don't know if humanity was built with the capability to live in a world like that, but we're going to find out!",
+   "urls": [],
+   "metrics": {
+    "likes": 21,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2122343944889483583",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-16T15:00:02.000Z",
+    "text": "What's new in Grok Bot 1.0 🚀\n\n00:45 Team Bot improvements\n01:47 Bots join your meetings\n03:26 Bots take initiative\n04:10 Bots learn and improve\n05:19 Bots are smarter and faster\n\nLots of easter eggs in this one for y'all!",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/3840x2160/qYIMxN8O4ae9Fp7_.mp4",
+      "poster": "https://pbs.twimg.com/media/HXL6gzjawAAK9bp.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/480x270/_JLI1bG7ovVcXNGv.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/640x360/5_i7afgAS1YVGbst.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/1280x720/mAth9dBp4iK7YR0D.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/1920x1080/lp1RBB2z7yA0_dgq.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/3840x2160/qYIMxN8O4ae9Fp7_.mp4",
+        "w": 3840,
+        "h": 2160,
+        "br": 25128000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 394176
+     }
+    ],
+    "conversation_id": "2122343944889483583"
+   }
+  },
+  {
+   "id": "2122349392380166378",
+   "username": "JarredRobidouxx",
+   "name": "Jarred Robidoux",
+   "created_at": "2026-11-16T15:21:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/JarredRobidouxx/status/2122349392380166378",
+   "kind": "reply",
+   "text": "@mattyp have the bots started editing these videos yet mattyp",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122348486301831230",
+   "username": "tuggboat2",
+   "name": "Bob Howard",
+   "created_at": "2026-11-16T15:18:05.000Z",
+   "lang": "en",
+   "url": "https://x.com/tuggboat2/status/2122348486301831230",
+   "kind": "reply",
+   "text": "@mattyp The boomerang.",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122348427145310455",
+   "username": "juswilvel",
+   "name": "Justin Velasquez",
+   "created_at": "2026-11-16T15:17:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/juswilvel/status/2122348427145310455",
+   "kind": "reply",
+   "text": "@mattyp You will never hear me complaining about that. 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122344590682521856",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122347547532636210",
+   "username": "tuggboat2",
+   "name": "Bob Howard",
+   "created_at": "2026-11-16T15:14:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/tuggboat2/status/2122347547532636210",
+   "kind": "reply",
+   "text": "@mattyp Hi, Matt. Glad to see you're getting your steps in this morning.",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122347025853542847",
+   "username": "kaiwlson",
+   "name": "kai",
+   "created_at": "2026-11-16T15:12:16.000Z",
+   "lang": "en",
+   "url": "https://x.com/kaiwlson/status/2122347025853542847",
+   "kind": "reply",
+   "text": "@mattyp lol how long do these take to edit",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122346030670717270",
+   "username": "robvanbus",
+   "name": "Rob Van Buskirk",
+   "created_at": "2026-11-16T15:08:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/robvanbus/status/2122346030670717270",
+   "kind": "reply",
+   "text": "Thanks @mattyp for the weekly updates!\n\nHope you see this. We’ve had a major issue trying to get a teams subscription even started for our business. The xSI subscriptions team is looking at it, but can never process payment to start teams sub. Anyone you can forward this to or I could work with.",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122345787761869298",
+   "username": "Aluminumwraith",
+   "name": "Aluminum Wraith",
+   "created_at": "2026-11-16T15:07:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/Aluminumwraith/status/2122345787761869298",
+   "kind": "reply",
+   "text": "@mattyp Wow.... 2:55 I thought that was real! I was like \"Oh hell!! Is Matt ok?!?!\" 🤣🤣",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122345726243938768",
+   "username": "ElonsFAQ",
+   "name": "Dark G",
+   "created_at": "2026-11-16T15:07:07.000Z",
+   "lang": "en",
+   "url": "https://x.com/ElonsFAQ/status/2122345726243938768",
+   "kind": "reply",
+   "text": "@mattyp @theapache64 @bot My bot refused to schedule posts... he agreed to post daily instead... and I need to manually approve each time. Am I doing something wrong?",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122334762501333085",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122345489735516658",
+   "username": "trevbaily",
+   "name": "Trevor",
+   "created_at": "2026-11-16T15:06:10.000Z",
+   "lang": "en",
+   "url": "https://x.com/trevbaily/status/2122345489735516658",
+   "kind": "reply",
+   "text": "@mattyp I love that you touched on the Gif aspect! All my bots have the 6sec gif loop",
+   "urls": [],
+   "metrics": {
+    "likes": 8,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122345058506784909",
+   "username": "awwwlmaoo",
+   "name": "Yami",
+   "created_at": "2026-11-16T15:04:27.000Z",
+   "lang": "en",
+   "url": "https://x.com/awwwlmaoo/status/2122345058506784909",
+   "kind": "reply",
+   "text": "@mattyp Insane pace man,I feel like u guys shipping new things every 2 days",
+   "urls": [],
+   "metrics": {
+    "likes": 16,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122344388366041411",
+   "username": "mr98761",
+   "name": "Maximilian",
+   "created_at": "2026-11-16T15:01:48.000Z",
+   "lang": "en",
+   "url": "https://x.com/mr98761/status/2122344388366041411",
+   "kind": "reply",
+   "text": "@mattyp Hi Matt, slim chance you'll see this: since Team Bot sharing changed, nobody can write to SharePoint from a shared Team Bot, though it still works fine on personal bots. It’s a known major bug. We'd love to roll it out company-wide, but that’s on hold now. Anything on this?",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122344322830090736",
+   "username": "goatropecapital",
+   "name": "Goat Rope",
+   "created_at": "2026-11-16T15:01:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/goatropecapital/status/2122344322830090736",
+   "kind": "reply",
+   "text": "@mattyp Absolutely amazing how much time y'all put into developing this product. My time compression with using Grok @bot is insane.",
+   "urls": [],
+   "metrics": {
+    "likes": 22,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122343944889483583",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122344133729948093",
+   "username": "sunset_evm",
+   "name": "artem",
+   "created_at": "2026-11-16T15:00:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/sunset_evm/status/2122344133729948093",
+   "kind": "quote",
+   "text": "What's new in Grok Bot 1.0 👇",
+   "urls": [],
+   "metrics": {
+    "likes": 9,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2122343944889483583",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-16T15:00:02.000Z",
+    "text": "What's new in Grok Bot 1.0 🚀\n\n00:45 Team Bot improvements\n01:47 Bots join your meetings\n03:26 Bots take initiative\n04:10 Bots learn and improve\n05:19 Bots are smarter and faster\n\nLots of easter eggs in this one for y'all!",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/3840x2160/qYIMxN8O4ae9Fp7_.mp4",
+      "poster": "https://pbs.twimg.com/media/HXL6gzjawAAK9bp.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/480x270/_JLI1bG7ovVcXNGv.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/640x360/5_i7afgAS1YVGbst.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/1280x720/mAth9dBp4iK7YR0D.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/1920x1080/lp1RBB2z7yA0_dgq.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2121988507195572224/vid/avc1/3840x2160/qYIMxN8O4ae9Fp7_.mp4",
+        "w": 3840,
+        "h": 2160,
+        "br": 25128000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 394176
+     }
+    ],
+    "conversation_id": "2122343944889483583"
+   }
+  },
+  {
+   "id": "2122335475168068036",
+   "username": "citizenx8691",
+   "name": "CitizenX",
+   "created_at": "2026-11-16T14:26:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/citizenx8691/status/2122335475168068036",
+   "kind": "post",
+   "text": "@mattyp, @poteto, you will make me really happy if grok bot will have 2 things:\n1. Possibility to choose the model and effort on cursor based on a task it got. Not the default and not the latest used.\n2. Quotation for bots. For example i have chunk of programmers and 1 for usual life style stuff. And i want to programmer bots to use 90% of maximum weekly usage limit leaving 10% to lifestyle bot.\n\nThat will be really awesome!\nThank you!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2122332886825381920",
+   "username": "WR4NYGov",
+   "name": "Warren Redlich - Chasing Dreams 🇺🇸",
+   "created_at": "2026-11-16T14:16:05.000Z",
+   "lang": "en",
+   "url": "https://x.com/WR4NYGov/status/2122332886825381920",
+   "kind": "reply",
+   "text": "@nbcsnl Host mispronounced Palantir and Nvidia.\n\nC'mon man.",
+   "urls": [],
+   "metrics": {
+    "likes": 335,
+    "reposts": 5,
+    "replies": 18,
+    "quotes": 1
+   },
+   "reply_to": {
+    "id": "2121827093017415989",
+    "username": "nbcsnl"
+   }
+  },
+  {
+   "id": "2122331965106045412",
+   "username": "DanColson",
+   "name": "Dan Colson",
+   "created_at": "2026-11-16T14:12:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/DanColson/status/2122331965106045412",
+   "kind": "reply",
+   "text": "@allegrajacchia @myleswagner @mike_mcconnon12 @Jamiebierman @ChrisJBakke @Ethan_Ng_13 @mattyp Wish I could reply but I’m on a Delta flight",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122158600252756445",
+    "username": "allegrajacchia"
+   }
+  },
+  {
+   "id": "2122319472115757498",
+   "username": "theapache64",
+   "name": "theapache64",
+   "created_at": "2026-11-16T13:22:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/theapache64/status/2122319472115757498",
+   "kind": "quote",
+   "text": "you can ask your @bot to draft posts for you 🌼",
+   "urls": [],
+   "metrics": {
+    "likes": 48,
+    "reposts": 1,
+    "replies": 11,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXP-EZoaYAAOkqZ.jpg",
+     "width": 950,
+     "height": 2152
+    }
+   ],
+   "ref": {
+    "id": "2120710940769611777",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "matt palmer",
+    "created_at": "2026-11-12T02:51:03.000Z",
+    "text": "@theapache64 @bot Use bot to schedule / draft posts",
+    "reply_to": {
+     "id": "2120600243691802839",
+     "username": "theapache64"
+    }
+   }
+  },
+  {
+   "id": "2122314869735108963",
+   "username": "mayemusk",
+   "name": "Maye Musk",
+   "created_at": "2026-11-16T13:04:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/mayemusk/status/2122314869735108963",
+   "kind": "quote",
+   "text": "Wow! Hell has frozen over 😉🤗",
+   "urls": [],
+   "metrics": {
+    "likes": 10297,
+    "reposts": 783,
+    "replies": 513,
+    "quotes": 54
+   },
+   "ref": {
+    "id": "2121995093204701439",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-15T15:53:49.000Z",
+    "text": "Legacy media headlines after @SpaceX caught Starship:\n\n• CNN: \"SpaceX Starship nails historic ship catch in unprecedented test flight\"\n• Reuters: \"SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets\"\n• Fox: \"SpaceX makes history as Starship spacecraft caught by launch tower for first time\"\n• CNBC: \"SpaceX catches upper stage of Starship rocket in historic first\"\n• NYT: \"SpaceX makes history with successful rocket catch in Texas\"\n• BBC: \"'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth\"\n• NPR: \"SpaceX makes history with Starship catch\"\n• Sky News: \"SpaceX makes unprecedented 'catch' of Starship\"",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXLUoW7XwAEcUQO.jpg",
+      "width": 2562,
+      "height": 3247
+     }
+    ],
+    "conversation_id": "2121995093204701439"
+   }
+  },
+  {
+   "id": "2122299949572648981",
+   "username": "LunarCitizens",
+   "name": "Lunar Citizen",
+   "created_at": "2026-11-16T12:05:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/LunarCitizens/status/2122299949572648981",
+   "kind": "post",
+   "text": "“SpaceX is becoming a monopoly.”\n\nCompetitors:",
+   "urls": [],
+   "metrics": {
+    "likes": 9244,
+    "reposts": 449,
+    "replies": 166,
+    "quotes": 36
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXPDKngaYAEOJjE.jpg",
+     "width": 1536,
+     "height": 1024
+    }
+   ]
+  },
+  {
+   "id": "2122219046208745828",
+   "username": "Gfilche",
+   "name": "Gali",
+   "created_at": "2026-11-16T06:43:44.000Z",
+   "lang": "en",
+   "url": "https://x.com/Gfilche/status/2122219046208745828",
+   "kind": "post",
+   "text": "Hot take: Moderate Cybercab success is already priced into $TSLA at $1.6T",
+   "urls": [],
+   "metrics": {
+    "likes": 1685,
+    "reposts": 35,
+    "replies": 135,
+    "quotes": 22
+   }
+  },
+  {
+   "id": "2122209082014863707",
+   "username": "Baconbrix",
+   "name": "Evan Bacon",
+   "created_at": "2026-11-16T06:04:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/Baconbrix/status/2122209082014863707",
+   "kind": "post",
+   "text": "Had trouble breathing, asked Grok @bot for help and it said I should go to the hospital and tell them I may have a collapsed lung.\n\nGrok Bot was right. I’m about to get surgery 🤞",
+   "urls": [],
+   "metrics": {
+    "likes": 2285,
+    "reposts": 28,
+    "replies": 374,
+    "quotes": 27
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXOZ6V-bIAAVseX.jpg",
+     "width": 2048,
+     "height": 1161
+    }
+   ]
+  },
+  {
+   "id": "2122191249792966743",
+   "username": "TONYxTWO",
+   "name": "TONY™",
+   "created_at": "2026-11-16T04:53:17.000Z",
+   "lang": "en",
+   "url": "https://x.com/TONYxTWO/status/2122191249792966743",
+   "kind": "quote",
+   "text": "Can she be both?",
+   "urls": [],
+   "metrics": {
+    "likes": 6150,
+    "reposts": 382,
+    "replies": 85,
+    "quotes": 12
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXOJscbXsAAlY09.jpg",
+     "width": 1320,
+     "height": 824
+    }
+   ],
+   "ref": {
+    "id": "2122189942650818919",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-16T04:48:05.000Z",
+    "text": "@brivael She’s just an actor. Her words are written by others.",
+    "reply_to": {
+     "id": "2121910993022267901",
+     "username": "brivael"
+    }
+   }
+  },
+  {
+   "id": "2122184418861207933",
+   "username": "JRHansman",
+   "name": "Jason Hansman",
+   "created_at": "2026-11-16T04:26:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/JRHansman/status/2122184418861207933",
+   "kind": "reply",
+   "text": "Accurate\n\nI grew up as a child, loving every sketch\nThen politically hate bated rage started consuming the skits, insults aren’t funny\nJoke are funny*\nI see a rebound and wonderful new legacy for Saturday Night Live with changes that will be found, Politically economically and globally.\n\nLove will bring laughter.",
+   "urls": [],
+   "metrics": {
+    "likes": 296,
+    "reposts": 14,
+    "replies": 14,
+    "quotes": 3
+   },
+   "reply_to": {
+    "id": "2122178701039137144",
+    "username": "elonmusk"
+   }
+  },
+  {
+   "id": "2122181538896884021",
+   "username": "AdamLowisz",
+   "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+   "created_at": "2026-11-16T04:14:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/AdamLowisz/status/2122181538896884021",
+   "kind": "reply",
+   "text": "@elonmusk @MatthewDR @nbcsnl @DarioAmodei @JensenHuang @finkd @sama @peterthiel SNL found the person that will impersonate Elon next 🤣",
+   "urls": [],
+   "metrics": {
+    "likes": 316,
+    "reposts": 14,
+    "replies": 11,
+    "quotes": 2
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXOA3QLWYAAX5K_.jpg",
+     "width": 400,
+     "height": 400
+    }
+   ],
+   "reply_to": {
+    "id": "2122181062059037028",
+    "username": "elonmusk"
+   }
+  },
+  {
+   "id": "2122174254787760534",
+   "username": "JohnLeFevre",
+   "name": "John LeFevre",
+   "created_at": "2026-11-16T03:45:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/JohnLeFevre/status/2122174254787760534",
+   "kind": "post",
+   "text": "The SpaceX engineers who caught the rocket don't write LinkedIn thought pieces about leadership.",
+   "urls": [],
+   "metrics": {
+    "likes": 1183,
+    "reposts": 113,
+    "replies": 51,
+    "quotes": 10
+   }
+  },
+  {
+   "id": "2122150993228144722",
+   "username": "SJFriedl",
+   "name": "Steve Friedl",
+   "created_at": "2026-11-16T02:13:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/SJFriedl/status/2122150993228144722",
+   "kind": "reply",
+   "text": "If I claimed that I wasn't going to buy Ben & Jerry's ice cream because I didn't like their politics, that might be eye-rolling but well within my own rights with my own money.\n\nIf I claimed that Ben & Jerry's ice cream was crap because I didn't like their politics, I'd have some kind of mind virus.",
+   "urls": [],
+   "metrics": {
+    "likes": 2809,
+    "reposts": 47,
+    "replies": 52,
+    "quotes": 7
+   },
+   "reply_to": {
+    "id": "2122143260588302789",
+    "username": "bscholl"
+   }
+  },
+  {
+   "id": "2122148745819390245",
+   "username": "Dogetothemoon",
+   "name": "Doge Tipping",
+   "created_at": "2026-11-16T02:04:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/Dogetothemoon/status/2122148745819390245",
+   "kind": "post",
+   "text": "2020: Elon Musk with his dog surveying and the wreckage of the SpaceX Starship SN8.\n\n2026: Elon Musk with the first orbital catch Starship S42.",
+   "urls": [],
+   "metrics": {
+    "likes": 1892,
+    "reposts": 106,
+    "replies": 46,
+    "quotes": 11
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXNhjnTbEAAr0uz.jpg",
+     "width": 1200,
+     "height": 1600
+    }
+   ]
+  },
+  {
+   "id": "2122147688431100279",
+   "username": "HeidiBriones",
+   "name": "Heidi",
+   "created_at": "2026-11-16T02:00:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/HeidiBriones/status/2122147688431100279",
+   "kind": "reply",
+   "text": "@elonmusk @grokdreama I zoomed in and checked",
+   "urls": [],
+   "metrics": {
+    "likes": 644,
+    "reposts": 6,
+    "replies": 56,
+    "quotes": 1
+   },
+   "reply_to": {
+    "id": "2122146355074232469",
+    "username": "elonmusk"
+   }
+  },
+  {
+   "id": "2122117749698912556",
+   "username": "AutismCapital",
+   "name": "Autism Capital 🧩",
+   "created_at": "2026-11-16T00:01:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/AutismCapital/status/2122117749698912556",
+   "kind": "post",
+   "text": "JUST IN: Nvidia Insiders claim that Jensen Huang was prone to anger, recalling one time an executive contradicted him and he closed his eyes and took a loud and deep breath inwards with an audible exhalation.",
+   "urls": [],
+   "metrics": {
+    "likes": 8400,
+    "reposts": 278,
+    "replies": 1018,
+    "quotes": 121
+   }
+  },
+  {
+   "id": "2122109147466350988",
+   "username": "JohnLeFevre",
+   "name": "John LeFevre",
+   "created_at": "2026-11-15T23:27:02.000Z",
+   "lang": "en",
+   "url": "https://x.com/JohnLeFevre/status/2122109147466350988",
+   "kind": "post",
+   "text": "I think I have Grok Bot Syndrome.\n\nMy AI employees are fast, efficient and reliable. When they screw up, they take my (highly offensive) verbal abuse and fix it.\n\nNow I expect the same from real people.\n\nI've become impatient, short-tempered, and completely unforgiving of incompetence.\n\nIt's like when I was a banker in Hong Kong, where everyone was educated, smart, and ambitious.\n\nEvery time I flew home to Texas, I had to walk around a Walmart for a while just to reacclimate to the normal world.",
+   "urls": [],
+   "metrics": {
+    "likes": 2552,
+    "reposts": 114,
+    "replies": 149,
+    "quotes": 21
+   }
+  },
+  {
+   "id": "2122099994438361179",
+   "username": "nandesu",
+   "name": "Eric Dean Wade",
+   "created_at": "2026-11-15T22:50:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/nandesu/status/2122099994438361179",
+   "kind": "reply",
+   "text": "Okay. So first off, SpaceX does communicate with the FAA. All air traffic must be notified and the launch path with secondary and tertiary failure points noted and listed as no fly zones. Since all other aircraft were grounded unexpectedly, the situation actually was even more favorable for a rocket launch. The reasons that everyone else was grounded were not applicable to Starship and Starship launched with FAA authorization.",
+   "urls": [],
+   "metrics": {
+    "likes": 240,
+    "reposts": 9,
+    "replies": 8,
+    "quotes": 1
+   },
+   "reply_to": {
+    "id": "2122049397617983783",
+    "username": "max_west07"
+   }
+  },
+  {
+   "id": "2122095423196213270",
+   "username": "brivael",
+   "name": "Brivael Le Pogam",
+   "created_at": "2026-11-15T22:32:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/brivael/status/2122095423196213270",
+   "kind": "post",
+   "text": "THIS IS THE BEST VIDEO OF THE MULTIVERSE\n\nPERIOD",
+   "urls": [],
+   "metrics": {
+    "likes": 3512,
+    "reposts": 323,
+    "replies": 120,
+    "quotes": 37
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122080322246373376/vid/avc1/1280x720/Xa92uctSzY_G1Krv.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122080322246373376/img/Q2T5WkIhpli8Yqpd.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122080322246373376/vid/avc1/480x270/zKRNGMyk9RHqp83B.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122080322246373376/vid/avc1/640x360/gpQVSvS5JcVquHNg.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122080322246373376/vid/avc1/1280x720/Xa92uctSzY_G1Krv.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      }
+     ],
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 26260
+    }
+   ]
+  },
+  {
+   "id": "2122089292977643979",
+   "username": "libsoftiktok",
+   "name": "Libs of TikTok",
+   "created_at": "2026-11-15T22:08:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/libsoftiktok/status/2122089292977643979",
+   "kind": "post",
+   "text": "REMINDER: Biden’s Secretary of Transportation Pete Buttigieg blew $80 BILLION on DEI grants while DELAYING critical air traffic control upgrades",
+   "urls": [],
+   "metrics": {
+    "likes": 44468,
+    "reposts": 13435,
+    "replies": 2931,
+    "quotes": 656
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXMs92dXEAAGtrm.jpg",
+     "width": 500,
+     "height": 625
+    }
+   ]
+  },
+  {
+   "id": "2122062161119994234",
+   "username": "MinaGawargious",
+   "name": "Mina Gawargious",
+   "created_at": "2026-11-15T20:20:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/MinaGawargious/status/2122062161119994234",
+   "kind": "post",
+   "text": "Elon Musk is currently inspecting heat shield tiles on Starship",
+   "urls": [],
+   "metrics": {
+    "likes": 18316,
+    "reposts": 1495,
+    "replies": 501,
+    "quotes": 232
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122061911793569792/vid/avc1/2160x3840/aY9QI5zS0H2qd_ew.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122061911793569792/img/jx4O_jea1h23tZ5x.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911793569792/vid/avc1/320x568/LOg2V_ijqsGRRD5G.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911793569792/vid/avc1/480x852/alMV-xkgNPm34tLB.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911793569792/vid/avc1/720x1280/PBocdKUmsQLPbbP2.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911793569792/vid/avc1/1080x1920/FtJuDKK9K_7OKjrR.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911793569792/vid/avc1/2160x3840/aY9QI5zS0H2qd_ew.mp4",
+       "w": 2160,
+       "h": 3840,
+       "br": 25128000
+      }
+     ],
+     "width": 2160,
+     "height": 3840,
+     "duration_ms": 15813
+    },
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2122061911915139072/vid/avc1/2160x3840/h5djnIQEQEcsRfuD.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122061911915139072/img/ubrrEt9pdlUAnqkL.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911915139072/vid/avc1/320x568/r9BNXN5XaHjuVevL.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911915139072/vid/avc1/480x852/PtmW3Of6q_z84yRr.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911915139072/vid/avc1/720x1280/76uV7nwzB6MLOQaA.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911915139072/vid/avc1/1080x1920/X4Kb0WAyLIhUtLWe.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2122061911915139072/vid/avc1/2160x3840/h5djnIQEQEcsRfuD.mp4",
+       "w": 2160,
+       "h": 3840,
+       "br": 25128000
+      }
+     ],
+     "width": 2160,
+     "height": 3840,
+     "duration_ms": 12310
+    }
+   ]
+  },
+  {
+   "id": "2122052312273403908",
+   "username": "nikitabier",
+   "name": "Nikita Bier",
+   "created_at": "2026-11-15T19:41:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/nikitabier/status/2122052312273403908",
+   "kind": "post",
+   "text": "Talking about politics on X is a lot like fentanyl:\n\nIt feels good in the moment—but afterwards, you’re still broke and retarded.",
+   "urls": [],
+   "metrics": {
+    "likes": 6220,
+    "reposts": 472,
+    "replies": 642,
+    "quotes": 150
+   }
+  },
+  {
+   "id": "2122034614415823291",
+   "username": "paulg",
+   "name": "Paul Graham",
+   "created_at": "2026-11-15T18:30:52.000Z",
+   "lang": "en",
+   "url": "https://x.com/paulg/status/2122034614415823291",
+   "kind": "reply",
+   "text": "Since I'd never heard of this guy, I was curious what his own achievements were and how they compared with Elon's. Advocacy. His achievements consist of advocacy.",
+   "urls": [],
+   "metrics": {
+    "likes": 3582,
+    "reposts": 124,
+    "replies": 203,
+    "quotes": 20
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXL6-z1WkAAdtFw.jpg",
+     "width": 697,
+     "height": 969
+    }
+   ],
+   "reply_to": {
+    "id": "2122033524857589799",
+    "username": "paulg"
+   }
+  },
+  {
+   "id": "2122034531658076417",
+   "username": "ulalaunch",
+   "name": "ULA",
+   "created_at": "2026-11-15T18:30:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/ulalaunch/status/2122034531658076417",
+   "kind": "post",
+   "text": "Based on data received by our Launch Director, we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight and failed to deliver the Amazon mission to orbit.\n\nEvery flight generates data, and every flight teaches us something. Since the anomaly just occurred, we don’t have any specific data yet to understand what occurred today.\n\nULA exists to provide assured access to space for our nation and for the customers who depend on us. That purpose is why we take on some of the hardest missions in spaceflight, and why we hold ourselves to the standard of mission success. Today, we did not meet that standard.\n\nWe will work closely with our customer and other appropriate organizations to find the cause, determine the appropriate corrective action, and return to flight as quickly as possible.\n\nULA is committed to full transparency with our customers, and they will have visibility into the investigation process, which utilizes rigorous methodology and corrective action.\n\nWe will provide further updates when new information becomes available.",
+   "urls": [],
+   "metrics": {
+    "likes": 4980,
+    "reposts": 673,
+    "replies": 623,
+    "quotes": 635
+   }
+  },
+  {
+   "id": "2122033524857589799",
+   "username": "paulg",
+   "name": "Paul Graham",
+   "created_at": "2026-11-15T18:26:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/paulg/status/2122033524857589799",
+   "kind": "post",
+   "text": "You work your ass off solving really hard problems day after day for decades, and this is what you get: anyone could have done it.\n\nAs an investor, I can tell you the limiting factor isn't investment. It's founder ability.",
+   "urls": [],
+   "metrics": {
+    "likes": 16685,
+    "reposts": 1094,
+    "replies": 693,
+    "quotes": 114
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXL6ETiXIAA8R9P.png",
+     "width": 591,
+     "height": 288
+    }
+   ]
+  },
+  {
+   "id": "2122031468918833661",
+   "username": "poteto",
+   "name": "lauren",
+   "created_at": "2026-11-15T18:18:22.000Z",
+   "lang": "ko",
+   "url": "https://x.com/poteto/status/2122031468918833661",
+   "kind": "reply",
+   "text": "@minheo93698092 @bot @mattyp 라이브 번역해 주시고 이해하기 쉽게 설명해 주셔서 감사해요~",
+   "urls": [],
+   "metrics": {
+    "likes": 96,
+    "reposts": 1,
+    "replies": 7,
+    "quotes": 1
+   },
+   "reply_to": {
+    "id": "2121787119878467944",
+    "username": "minheo93698092"
+   }
+  },
+  {
+   "id": "2122021290429346042",
+   "username": "chrisfirst",
+   "name": "CHRIS FIRST",
+   "created_at": "2026-11-15T17:37:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/chrisfirst/status/2122021290429346042",
+   "kind": "reply",
+   "text": "@mattyp @grok @cursor_ai @UnrealEngine So nice to meet you! Can’t wait to get my game up.",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122016027651547485",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122020284416786627",
+   "username": "WallisDev",
+   "name": "Aiden",
+   "created_at": "2026-11-15T17:33:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/WallisDev/status/2122020284416786627",
+   "kind": "reply",
+   "text": "@mattyp @Fossabot yea, def needed\n\ni have a bigger vision that would hopefully abstract all of this anyways. this project is still self funded and it would require running LLMs so... gotta figure out that part first",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122019301729468419",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122018619420782725",
+   "username": "WallisDev",
+   "name": "Aiden",
+   "created_at": "2026-11-15T17:27:18.000Z",
+   "lang": "en",
+   "url": "https://x.com/WallisDev/status/2122018619420782725",
+   "kind": "reply",
+   "text": "@mattyp @Fossabot It’s on the list! There’s an allowlisted API that will probably back this that I’ll open up soon.\n\nThere’s some more longer term projects I’ve been working on that are taking up a little more time, will get to it probably after this week!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122018134622351855",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2122016503906320625",
+   "username": "dawnlist_io",
+   "name": "Dawnlist",
+   "created_at": "2026-11-15T17:18:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/dawnlist_io/status/2122016503906320625",
+   "kind": "reply",
+   "text": "@mattyp @grok @cursor_ai @UnrealEngine Please make that video. What runs on the runners?",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2122016027651547485",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2121999936552403345",
+   "username": "MatthewDR",
+   "name": "Matthew Donegan-Ryan",
+   "created_at": "2026-11-15T16:13:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/MatthewDR/status/2121999936552403345",
+   "kind": "reply",
+   "text": "@nbcsnl Impression ratings:\n\n@DarioAmodei 9/10\n@JensenHuang 8/10\n@finkd 7/10\n@elonmusk 7/10\n@sama 3/10\n@peterthiel 2/10 (also what’s Planetir)",
+   "urls": [],
+   "metrics": {
+    "likes": 23,
+    "reposts": 0,
+    "replies": 3,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2121827093017415989",
+    "username": "nbcsnl"
+   }
+  },
   {
    "id": "2121998577819914262",
    "username": "dhh",
@@ -1520,6 +4116,32 @@
      }
     ]
    }
+  },
+  {
+   "id": "2121477575763796338",
+   "username": "mrjasonchoi",
+   "name": "Jason Choi",
+   "created_at": "2026-11-14T05:37:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/mrjasonchoi/status/2121477575763796338",
+   "kind": "post",
+   "text": "My PR pitch: Jensen rocks a white leather jacket and returns as Jensen the White",
+   "urls": [],
+   "metrics": {
+    "likes": 82607,
+    "reposts": 4450,
+    "replies": 544,
+    "quotes": 361
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXEAnIUbwAAUZ7t.jpg",
+     "width": 768,
+     "height": 1038
+    }
+   ],
+   "conversation_id": "2121477575763796338"
   },
   {
    "id": "2121467664057151599",

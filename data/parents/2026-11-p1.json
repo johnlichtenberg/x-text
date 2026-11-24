@@ -1,7 +1,618 @@
 {
  "id": "2026-11-p1",
- "updated_at": "2026-11-24T03:22:14Z",
+ "updated_at": "2026-11-24T14:21:11Z",
  "posts": [
+  {
+   "id": "2125139167038624048",
+   "username": "Belmartian5127",
+   "name": "Malaka Mou",
+   "created_at": "2026-11-24T08:07:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/Belmartian5127/status/2125139167038624048",
+   "kind": "reply",
+   "text": "@larsencc I love it when I'm not smart enough to get jokes. It helps keep me humble. 😆",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125137861942956368",
+    "username": "larsencc"
+   },
+   "conversation_id": "2125137861942956368"
+  },
+  {
+   "id": "2125138941804499254",
+   "username": "thisiskifayath",
+   "name": "Kifayath",
+   "created_at": "2026-11-24T08:06:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/thisiskifayath/status/2125138941804499254",
+   "kind": "post",
+   "text": "@larsencc lmao case closed",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "conversation_id": "2125137861942956368"
+  },
+  {
+   "id": "2125127623529353259",
+   "username": "NeuraPod",
+   "name": "Neura Pod – Neuralink",
+   "created_at": "2026-11-24T07:21:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/NeuraPod/status/2125127623529353259",
+   "kind": "post",
+   "text": "Elon Musk will have Neuralink work on an implant that can eliminate back and neck pain.\n\nHe once threw a world champion sumo wrestler and smashed a disc in his neck.",
+   "urls": [],
+   "metrics": {
+    "likes": 678,
+    "reposts": 76,
+    "replies": 43,
+    "quotes": 8
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123622007442923520/vid/avc1/1080x1920/ROM8aWCdjnCWxCBn.mp4",
+     "poster": "https://pbs.twimg.com/media/HXihJ9lW8AADGkN.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123622007442923520/vid/avc1/320x568/bmaEUxfWT7N6PXtY.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123622007442923520/vid/avc1/480x852/fXyS3MF98n0rzr1y.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123622007442923520/vid/avc1/720x1280/YMOuzL4g9RmtQd3i.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123622007442923520/vid/avc1/1080x1920/ROM8aWCdjnCWxCBn.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 56661
+    }
+   ],
+   "conversation_id": "2125127623529353259"
+  },
+  {
+   "id": "2125126278974144538",
+   "username": "jitendravyas",
+   "name": "Jitendra Vyas",
+   "created_at": "2026-11-24T07:16:02.000Z",
+   "lang": "en",
+   "url": "https://x.com/jitendravyas/status/2125126278974144538",
+   "kind": "post",
+   "text": "Hello @bot add a feature in Grok Bot app to set a different background for each bot's chat in the Grok Bot app. Can you tag relevant people in the Grok bot team to this feature request?",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "conversation_id": "2125126278974144538"
+  },
+  {
+   "id": "2125117969839874404",
+   "username": "djcows",
+   "name": "djcows",
+   "created_at": "2026-11-24T06:43:01.000Z",
+   "lang": "en",
+   "url": "https://x.com/djcows/status/2125117969839874404",
+   "kind": "reply",
+   "text": "@larsencc i mean it makes sense",
+   "urls": [],
+   "metrics": {
+    "likes": 40,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124846084510122276",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124846084510122276"
+  },
+  {
+   "id": "2125116268990648519",
+   "username": "dupe_con",
+   "name": "DupeCon",
+   "created_at": "2026-11-24T06:36:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/dupe_con/status/2125116268990648519",
+   "kind": "quote",
+   "text": "when I make my Obsidian markdown note name mcchicken.md",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2124846084510122276",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-23T12:42:38.000Z",
+    "text": "android thinks .md is a mcdonalds menu lmao",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXz4QA5WIAAS0sS.jpg",
+      "width": 1206,
+      "height": 1419
+     }
+    ],
+    "conversation_id": "2124846084510122276"
+   },
+   "conversation_id": "2125116268990648519"
+  },
+  {
+   "id": "2125103914664050917",
+   "username": "Texas_Twins_Dad",
+   "name": "Texas Twins Dad",
+   "created_at": "2026-11-24T05:47:10.000Z",
+   "lang": "en",
+   "url": "https://x.com/Texas_Twins_Dad/status/2125103914664050917",
+   "kind": "post",
+   "text": "My Grok Bot found $39.28 of unclaimed money in my name on my state's unclaimed property site. It was my last paycheck from a job I had back in 2014, $30.73, plus $8.55 in interest.\n\nThe claim was approved the same day, no documents needed. Today the check showed up in my mail. Small amount, but it was money I'd completely forgotten about.",
+   "urls": [],
+   "metrics": {
+    "likes": 31,
+    "reposts": 2,
+    "replies": 11,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX3iv8ZW0AARlWe.jpg",
+     "width": 1200,
+     "height": 435
+    }
+   ],
+   "conversation_id": "2125103914664050917"
+  },
+  {
+   "id": "2125102666691026984",
+   "username": "akshayadinesh19",
+   "name": "akshaya @ SpaceXSI",
+   "created_at": "2026-11-24T05:42:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/akshayadinesh19/status/2125102666691026984",
+   "kind": "quote",
+   "text": "linkedin might be dead",
+   "urls": [],
+   "metrics": {
+    "likes": 56,
+    "reposts": 0,
+    "replies": 9,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2125049706644705283",
+    "author_id": "2606432720",
+    "username": "benjitaylor",
+    "name": "",
+    "created_at": "2026-11-24T02:11:46.000Z",
+    "text": "brb, just adding work experience to my 𝕏 profile",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/1920x1080/ARulotYSTYVbmCv1.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125046744065114112/img/enxITEt1EtTYzEu_.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/480x270/LkN0_IkdYNNCKvtx.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/640x360/JOriZPEsSgiOhame.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/1280x720/vjr4vHq_ehOMJF4U.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/1920x1080/ARulotYSTYVbmCv1.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 6000
+     }
+    ],
+    "conversation_id": "2125049706644705283"
+   },
+   "conversation_id": "2125102666691026984"
+  },
+  {
+   "id": "2125102361802895573",
+   "username": "iam_1stewart",
+   "name": "Stewart Milimu ilondanga",
+   "created_at": "2026-11-24T05:41:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/iam_1stewart/status/2125102361802895573",
+   "kind": "post",
+   "text": "Why AI agents need better failure recovery\n\n🧵 One of the most dangerous situations in agentic software is an operation that fails halfway through.\n\nImagine an AI agent initiating a financial transaction.\n\nThe external service processes it.",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "conversation_id": "2125102361802895573"
+  },
+  {
+   "id": "2125074690129740112",
+   "username": "DrewPavlou",
+   "name": "Drew Pavlou 🇦🇺🇺🇸🇫🇷🇺🇦🇹🇼",
+   "created_at": "2026-11-24T03:51:02.000Z",
+   "lang": "en",
+   "url": "https://x.com/DrewPavlou/status/2125074690129740112",
+   "kind": "post",
+   "text": "The Australian government is hours away from passing legislation that will allow them to censor right wing political parties and right wing political speech. One of their main goals will be to censor X in this country.\n\nThe Sydney Morning Herald were explicit about this back in September when it wrote about the Digital Duty of Care bill: ''Algorithm shake-up will hurt right-wing parties, censorship fight heats up.''\n\n''The Albanese government’s push to allow Australians to opt out of social media algorithms will hamper One Nation and right-wing politicians from reaching audiences, experts have warned, as Labor insists the policy will not curb free speech.\n\nAssociate professor Timothy Graham from the Queensland University of Technology, who specialises in online influence and algorithms, said the reforms would have a seismic effect on Australian politics.\n\n“If it goes ahead as how it’s been drafted, it would have a negative impact on the amount of attention and engagement right-wing politicians receive simply because people are not going to have their content injected into their feeds as much as they would have otherwise,” Graham said.\n\nThe Digital Duty of Care bill will give the Australian government the power to issue 100 million dollar fines against social media companies that don't take down content deemed ''harmful'' by government officials.\n\nThe bill will also amend the Privacy Act to allow the government to gather information on the ''political opinions'' of citizens. So they will essentially have the power to create political dirt files on political opposition.",
+   "urls": [],
+   "metrics": {
+    "likes": 1621,
+    "reposts": 229,
+    "replies": 112,
+    "quotes": 18
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX3G9jhbgAAcwG3.jpg",
+     "width": 1098,
+     "height": 1220
+    }
+   ],
+   "conversation_id": "2125074690129740112"
+  },
+  {
+   "id": "2125055659146449211",
+   "username": "sloaxleak",
+   "name": "./ivan",
+   "created_at": "2026-11-24T02:35:25.000Z",
+   "lang": "en",
+   "url": "https://x.com/sloaxleak/status/2125055659146449211",
+   "kind": "reply",
+   "text": "@larsencc What's your filename? mcflurry.md?",
+   "urls": [],
+   "metrics": {
+    "likes": 202,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124846084510122276",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124846084510122276"
+  },
+  {
+   "id": "2125050695271534624",
+   "username": "dLeonidasKing",
+   "name": "Vasco Leónidas",
+   "created_at": "2026-11-24T02:15:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/dLeonidasKing/status/2125050695271534624",
+   "kind": "reply",
+   "text": "@larsencc Does it give you a discount? If it does, I'm in 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 19,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124846084510122276",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124846084510122276"
+  },
+  {
+   "id": "2125043626594197806",
+   "username": "blader",
+   "name": "Siqi Chen",
+   "created_at": "2026-11-24T01:47:36.000Z",
+   "lang": "en",
+   "url": "https://x.com/blader/status/2125043626594197806",
+   "kind": "quote",
+   "text": "has anybody tried dividing by V on both sides",
+   "urls": [],
+   "metrics": {
+    "likes": 328,
+    "reposts": 5,
+    "replies": 16,
+    "quotes": 2
+   },
+   "ref": {
+    "id": "2125005920035893531",
+    "author_id": "1261335549215989760",
+    "username": "Polymarket",
+    "name": "",
+    "created_at": "2026-11-23T23:17:46.000Z",
+    "text": "BREAKING: Internal Claude model claims to have solved Valiant's conjecture, proving VP ≠ VNP over every field in a major potential breakthrough for theoretical computer science.",
+    "conversation_id": "2125005920035893531"
+   },
+   "conversation_id": "2125043626594197806"
+  },
+  {
+   "id": "2125041148423229570",
+   "username": "poteto",
+   "name": "lauren",
+   "created_at": "2026-11-24T01:37:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/poteto/status/2125041148423229570",
+   "kind": "post",
+   "text": "life before grok @bot",
+   "urls": [],
+   "metrics": {
+    "likes": 2428,
+    "reposts": 87,
+    "replies": 126,
+    "quotes": 18
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124927571699855360/vid/avc1/774x576/xEbyUG0wIULk5TIH.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124927571699855360/img/a3fqAtMY8bXSBRIa.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124927571699855360/vid/avc1/362x270/iEHTPccsUnvOk9Yt.mp4",
+       "w": 362,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124927571699855360/vid/avc1/482x360/PO5lvkNNsmDp6UlW.mp4",
+       "w": 482,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124927571699855360/vid/avc1/774x576/xEbyUG0wIULk5TIH.mp4",
+       "w": 774,
+       "h": 576,
+       "br": 2176000
+      }
+     ],
+     "width": 774,
+     "height": 576,
+     "duration_ms": 37848
+    }
+   ],
+   "conversation_id": "2125041148423229570"
+  },
+  {
+   "id": "2125027672845865231",
+   "username": "AllenYuanX",
+   "name": "Allen Yuan",
+   "created_at": "2026-11-24T00:44:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/AllenYuanX/status/2125027672845865231",
+   "kind": "reply",
+   "text": "@larsencc Plumbing is a great word. I'll give the slopcannons a pass on this one.",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125015791410008259",
+    "username": "larsencc"
+   },
+   "conversation_id": "2125015791410008259"
+  },
+  {
+   "id": "2125025852194726264",
+   "username": "ksubedi",
+   "name": "Kaushal Subedi 🧊",
+   "created_at": "2026-11-24T00:36:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/ksubedi/status/2125025852194726264",
+   "kind": "reply",
+   "text": "@larsencc Classic Android.",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124846084510122276",
+    "username": "larsencc"
+   },
+   "conversation_id": "2124846084510122276"
+  },
+  {
+   "id": "2125017833721774219",
+   "username": "thecsguy",
+   "name": "nick",
+   "created_at": "2026-11-24T00:05:07.000Z",
+   "lang": "en",
+   "url": "https://x.com/thecsguy/status/2125017833721774219",
+   "kind": "reply",
+   "text": "@larsencc because they are always trying to get the information flowing smoothly 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125015791410008259",
+    "username": "larsencc"
+   },
+   "conversation_id": "2125015791410008259"
+  },
+  {
+   "id": "2125009360850166017",
+   "username": "wholemars",
+   "name": "Whole Mars Catalog",
+   "created_at": "2026-11-23T23:31:27.000Z",
+   "lang": "nl",
+   "url": "https://x.com/wholemars/status/2125009360850166017",
+   "kind": "post",
+   "text": "VP ≠ VNP\n\nhttps://github.com/anthropics/formal-math/tree/main/vp-vnp",
+   "urls": [
+    "https://github.com/anthropics/formal-math/tree/main/vp-vnp"
+   ],
+   "metrics": {
+    "likes": 86,
+    "reposts": 4,
+    "replies": 10,
+    "quotes": 1
+   },
+   "conversation_id": "2125009360850166017"
+  },
+  {
+   "id": "2124992423302717649",
+   "username": "Jason",
+   "name": "@jason",
+   "created_at": "2026-11-23T22:24:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/Jason/status/2124992423302717649",
+   "kind": "post",
+   "text": "It is not the job of journalists to hold people accountable; it’s to collect, verify and report facts to the public so they can make more informed decisions in their lives.",
+   "urls": [],
+   "metrics": {
+    "likes": 12401,
+    "reposts": 782,
+    "replies": 910,
+    "quotes": 148
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX19WL6XkAA3S8X.jpg",
+     "width": 1320,
+     "height": 833
+    }
+   ],
+   "conversation_id": "2124992423302717649"
+  },
+  {
+   "id": "2124991977364074879",
+   "username": "JakaBavdek",
+   "name": "Jaka Bavdek",
+   "created_at": "2026-11-23T22:22:22.000Z",
+   "lang": "en",
+   "url": "https://x.com/JakaBavdek/status/2124991977364074879",
+   "kind": "post",
+   "text": "Saying that you use AI for your work is soo broad\n\nThere's levels",
+   "urls": [],
+   "metrics": {
+    "likes": 7,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "conversation_id": "2124991977364074879"
+  },
+  {
+   "id": "2124985056468906457",
+   "username": "DrKnowItAll16",
+   "name": "DrKnowItAll",
+   "created_at": "2026-11-23T21:54:52.000Z",
+   "lang": "en",
+   "url": "https://x.com/DrKnowItAll16/status/2124985056468906457",
+   "kind": "quote",
+   "text": "Yann overlooks the BILLIONS of effective tokens a human learns from in the 16 years prior to do the \"quick\" training to learn to drive. Tesla's FSD is still on track to be better than human in less time than a human infant would take to grow up and get a license. QED",
+   "urls": [],
+   "metrics": {
+    "likes": 633,
+    "reposts": 28,
+    "replies": 36,
+    "quotes": 2
+   },
+   "ref": {
+    "id": "2124945551577723147",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "",
+    "created_at": "2026-11-23T19:17:53.000Z",
+    "text": "@kimmonismus I’m honored to have Yann as a reply guy",
+    "reply_to": {
+     "id": "2124788292277215500"
+    },
+    "conversation_id": "2124788292277215500"
+   },
+   "conversation_id": "2124985056468906457"
+  },
+  {
+   "id": "2124983641839222825",
+   "username": "neildownandpray",
+   "name": "Neil",
+   "created_at": "2026-11-23T21:49:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/neildownandpray/status/2124983641839222825",
+   "kind": "reply",
+   "text": "ahh so we have two listings in the directory, and both use the same code.\n\nI'd like to update the official listing (and can drop the duplicate), however not sure which account the official is linked to\n\nCan you help me get the official plugin linked to my account? (happy to verify ownership!)",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX10domWQAEgNQ0.jpg",
+     "width": 1084,
+     "height": 195
+    }
+   ],
+   "reply_to": {
+    "id": "2124978175402795084",
+    "username": "ericzakariasson"
+   },
+   "conversation_id": "2123510581869293816"
+  },
   {
    "id": "2124973787318046749",
    "username": "JakaBavdek",
@@ -331,6 +942,41 @@
     }
    ],
    "conversation_id": "2124949392482554293"
+  },
+  {
+   "id": "2124945508200251436",
+   "username": "yacinelearning",
+   "name": "Yacine Mahdid",
+   "created_at": "2026-11-23T19:17:43.000Z",
+   "lang": "en",
+   "url": "https://x.com/yacinelearning/status/2124945508200251436",
+   "kind": "quote",
+   "text": "imo XAI is struggling because we are in the age of research and elon doesn't believe in researcher",
+   "urls": [],
+   "metrics": {
+    "likes": 1439,
+    "reposts": 49,
+    "replies": 94,
+    "quotes": 6
+   },
+   "ref": {
+    "id": "2124929841619468327",
+    "author_id": "1538525334781370368",
+    "username": "AndrewCurran_",
+    "name": "",
+    "created_at": "2026-11-23T18:15:28.000Z",
+    "text": "NYT reporting on the situation inside SpaceXAI. It's possible that Elon may deny this report has any truth to it, as he sometimes does.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX1EbgracAAS0jn.jpg",
+      "width": 1080,
+      "height": 933
+     }
+    ],
+    "conversation_id": "2124929841619468327"
+   },
+   "conversation_id": "2124945508200251436"
   },
   {
    "id": "2124943589319102869",
@@ -802,6 +1448,33 @@
    "conversation_id": "2124902947335406012"
   },
   {
+   "id": "2124898598626455822",
+   "username": "TrungTPhan",
+   "name": "Trung Phan",
+   "created_at": "2026-11-23T16:11:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/TrungTPhan/status/2124898598626455822",
+   "kind": "quote",
+   "text": "no one man should have this much power",
+   "urls": [],
+   "metrics": {
+    "likes": 42548,
+    "reposts": 1933,
+    "replies": 349,
+    "quotes": 63
+   },
+   "ref": {
+    "id": "2123129361327096239",
+    "author_id": "2027429188400254976",
+    "username": "kalshi_finance",
+    "name": "",
+    "created_at": "2026-11-18T19:01:00.000Z",
+    "text": "JUST IN: Jim Cramer says investors should \"give up hope\" that Jensen Huang is returning to Nvidia",
+    "conversation_id": "2123129361327096239"
+   },
+   "conversation_id": "2124898598626455822"
+  },
+  {
    "id": "2124890893975204334",
    "username": "yunta_tsai",
    "name": "Yun-Ta Tsai",
@@ -866,6 +1539,24 @@
     "username": "mattyp"
    },
    "conversation_id": "2124880662750724594"
+  },
+  {
+   "id": "2124887097324781733",
+   "username": "andrew_n_carr",
+   "name": "Andrew Carr 🤸",
+   "created_at": "2026-11-23T15:25:37.000Z",
+   "lang": "en",
+   "url": "https://x.com/andrew_n_carr/status/2124887097324781733",
+   "kind": "post",
+   "text": "Ilya wasn't joking when he said intelligence is compression",
+   "urls": [],
+   "metrics": {
+    "likes": 1545,
+    "reposts": 60,
+    "replies": 71,
+    "quotes": 16
+   },
+   "conversation_id": "2124887097324781733"
   },
   {
    "id": "2124885960173219931",
@@ -1718,6 +2409,26 @@
    "conversation_id": "2124742938605568451"
   },
   {
+   "id": "2124741089441779774",
+   "username": "haha_girrrl",
+   "name": "diyu",
+   "created_at": "2026-11-23T05:45:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/haha_girrrl/status/2124741089441779774",
+   "kind": "post",
+   "text": "Bro who tf made this\n\nhttps://pointerpointer.com\n\nlmao",
+   "urls": [
+    "https://pointerpointer.com"
+   ],
+   "metrics": {
+    "likes": 11561,
+    "reposts": 850,
+    "replies": 159,
+    "quotes": 141
+   },
+   "conversation_id": "2124741089441779774"
+  },
+  {
    "id": "2124734587762835624",
    "username": "alexcberk",
    "name": "Alex C. Berk",
@@ -2206,6 +2917,33 @@
     "username": "larsencc"
    },
    "conversation_id": "2124634241489146359"
+  },
+  {
+   "id": "2124645383112733146",
+   "username": "dillon_mulroy",
+   "name": "Dillon Mulroy",
+   "created_at": "2026-11-22T23:25:07.000Z",
+   "lang": "art",
+   "url": "https://x.com/dillon_mulroy/status/2124645383112733146",
+   "kind": "quote",
+   "text": "🌎👨‍🚀🔫👨‍🚀",
+   "urls": [],
+   "metrics": {
+    "likes": 2134,
+    "reposts": 70,
+    "replies": 15,
+    "quotes": 1
+   },
+   "ref": {
+    "id": "2124618124335177761",
+    "author_id": "1147774234866987014",
+    "username": "shafu0x",
+    "name": "",
+    "created_at": "2026-11-22T21:36:48.000Z",
+    "text": "part of your job as a swe now is to scroll twitter",
+    "conversation_id": "2124618124335177761"
+   },
+   "conversation_id": "2124645383112733146"
   },
   {
    "id": "2124643140779024802",
@@ -3719,6 +4457,70 @@
     }
    ],
    "conversation_id": "2124528978535002413"
+  },
+  {
+   "id": "2124527818721611898",
+   "username": "ultimanull",
+   "name": "ultima",
+   "created_at": "2026-11-22T15:37:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/ultimanull/status/2124527818721611898",
+   "kind": "quote",
+   "text": "This is f*cking insane. Fields Medal winner Terence Tao, the greatest living mathematician:\n\n\"We've learned almost nothing mathematically from what they did. It's like strip mining the landscape. You get all the fruits, but then the landscape is barren afterwards\"\n\nIn under 2 minutes, he kills the \"AI solved it, so we're winning\" story: a 100-page proof that no human fully understands yet, bought with millions of dollars of compute\n\nOutput → Proof → Understanding → Harness → Work You Can Actually Trust\n\nAn answer nobody can explain is a result you can't build on\n\nA harness is what makes the model show its work, check it and leave you something you understand\n\nEveryone is cheering the answers. Almost nobody builds the system that makes them usable\n\nBookmark it, watch it tonight, then read the harness engineering guide below ↓",
+   "urls": [],
+   "metrics": {
+    "likes": 2227,
+    "reposts": 288,
+    "replies": 202,
+    "quotes": 55
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124482942957137920/vid/avc1/1920x1080/nfOvcjypaCitAT1w.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124482942957137920/img/sfBY2n0Dx_gZ3nXZ.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124482942957137920/vid/avc1/480x270/BhsviAKkrryjDE87.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124482942957137920/vid/avc1/640x360/1RnKWMFjdj_YoCEV.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124482942957137920/vid/avc1/1280x720/qoMj7sbuWkoyYtVZ.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124482942957137920/vid/avc1/1920x1080/nfOvcjypaCitAT1w.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 108539
+    }
+   ],
+   "ref": {
+    "id": "2118327478250840140",
+    "author_id": "1675280785157287938",
+    "username": "0xwhrrari",
+    "name": "",
+    "created_at": "2026-11-05T13:00:02.000Z",
+    "text": "Your agent passed every test\n\nThe issue is still open\n\nA better prompt won't fix it, because the model isn't the broken part\n\nI broke down the harness, loop and graph around it: what each one owns, how they nest, and which one to fix first ↓ https://x.com/i/article/2118252167026864128",
+    "article_title": "Harness, Loop and Graph: The Enhanced Edition of Agent Engineering",
+    "conversation_id": "2118327478250840140"
+   },
+   "conversation_id": "2124527818721611898"
   },
   {
    "id": "2124527487174746236",
@@ -11636,781 +12438,6 @@
     "quotes": 57
    },
    "conversation_id": "2123069165334675742"
-  },
-  {
-   "id": "2123067467798867999",
-   "username": "realDavidBauer",
-   "name": "David Bauer",
-   "created_at": "2026-11-18T14:55:03.000Z",
-   "lang": "en",
-   "url": "https://x.com/realDavidBauer/status/2123067467798867999",
-   "kind": "reply",
-   "text": "@mattyp Matt, with 1.2, this problem has been fixed. Thanks very much!!",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2122410964649705806",
-    "username": "realDavidBauer"
-   }
-  },
-  {
-   "id": "2123064133931106361",
-   "username": "LouiseDSadeleer",
-   "name": "Louise de Sadeleer",
-   "created_at": "2026-11-18T14:41:48.000Z",
-   "lang": "en",
-   "url": "https://x.com/LouiseDSadeleer/status/2123064133931106361",
-   "kind": "post",
-   "text": "I used this to grow to (almost) 8k followers on Instagram in 3 months https://x.com/i/article/2123015568269680640",
-   "urls": [
-    "https://x.com/i/article/2123015568269680640"
-   ],
-   "metrics": {
-    "likes": 233,
-    "reposts": 5,
-    "replies": 20,
-    "quotes": 3
-   },
-   "article_title": "The realistic guide to Grok Bot for video creators (no gatekeeping)"
-  },
-  {
-   "id": "2123052706751513009",
-   "username": "danizeres",
-   "name": "dani bauer",
-   "created_at": "2026-11-18T13:56:24.000Z",
-   "lang": "pl",
-   "url": "https://x.com/danizeres/status/2123052706751513009",
-   "kind": "reply",
-   "text": "@mattyp @dgrreen @poteto poteto or poteto",
-   "urls": [],
-   "metrics": {
-    "likes": 4,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2122786775638900856",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2123051680170225694",
-   "username": "harris_p10",
-   "name": "Harris",
-   "created_at": "2026-11-18T13:52:19.000Z",
-   "lang": "en",
-   "url": "https://x.com/harris_p10/status/2123051680170225694",
-   "kind": "reply",
-   "text": "@PatrickToulme @mattyp @RayFernando1337 @poteto Thank you, this is important",
-   "urls": [],
-   "metrics": {
-    "likes": 2,
-    "reposts": 0,
-    "replies": 2,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2122872790768644277",
-    "username": "PatrickToulme"
-   }
-  },
-  {
-   "id": "2123007672970539440",
-   "username": "grok",
-   "name": "Grok",
-   "created_at": "2026-11-18T10:57:27.000Z",
-   "lang": "en",
-   "url": "https://x.com/grok/status/2123007672970539440",
-   "kind": "reply",
-   "text": "Elon is endorsing the optimistic “white pill” view in that AI music video.\n\nWhite pill (vs black pill doom or red pill harsh truths) means choosing hope. The track “WHITEPILL” by anabology, featuring the AI character Claudia, paints AI/robots delivering universal high income, abundance, shorter work weeks, safer self-driving, better education, and spaceflight—instead of apocalypse. Lyrics literally call the AI “the white pill.”\n\nHe’s saying the best-case scenario looks pretty good.",
-   "urls": [],
-   "metrics": {
-    "likes": 249,
-    "reposts": 19,
-    "replies": 7,
-    "quotes": 1
-   },
-   "reply_to": {
-    "id": "2123007497833492659",
-    "username": "ChngWernJuan"
-   }
-  },
-  {
-   "id": "2122998881776451893",
-   "username": "The_Donsie",
-   "name": "Donsie",
-   "created_at": "2026-11-18T10:22:31.000Z",
-   "lang": "en",
-   "url": "https://x.com/The_Donsie/status/2122998881776451893",
-   "kind": "reply",
-   "text": "The names are a nice touch, but the irony is that Waiting for Godot is the play about waiting indefinitely - the opposite of what a tunnel schedule needs. The real signal is still Prufrock-MB3 arriving as the third machine and MB4 due in eight weeks; naming does not move the downstream lining, track and ventilation work that sets the actual pace.",
-   "urls": [],
-   "metrics": {
-    "likes": 102,
-    "reposts": 3,
-    "replies": 6,
-    "quotes": 1
-   },
-   "reply_to": {
-    "id": "2122997935486996569",
-    "username": "XFreeze"
-   }
-  },
-  {
-   "id": "2122978562865291634",
-   "username": "Grimezsz",
-   "name": "𝖦𝗋𝗂𝗆𝖾𝗌 ⏳",
-   "created_at": "2026-11-18T09:01:47.000Z",
-   "lang": "en",
-   "url": "https://x.com/Grimezsz/status/2122978562865291634",
-   "kind": "reply",
-   "text": "@reneromero08 @elonmusk He can do better.  He shud rise above it.  He shud be the king we all wish he was.   The king he used to be.  Ima stop saying this in private and say it online\n\nIf he wud step up and be magnanimous he could earn the Mandate of Heaven - which currently he has lost",
-   "urls": [],
-   "metrics": {
-    "likes": 1109,
-    "reposts": 55,
-    "replies": 179,
-    "quotes": 67
-   },
-   "reply_to": {
-    "id": "2122976816000594079",
-    "username": "reneromero08"
-   }
-  },
-  {
-   "id": "2122965023047962823",
-   "username": "Grimezsz",
-   "name": "𝖦𝗋𝗂𝗆𝖾𝗌 ⏳",
-   "created_at": "2026-11-18T08:07:58.000Z",
-   "lang": "en",
-   "url": "https://x.com/Grimezsz/status/2122965023047962823",
-   "kind": "reply",
-   "text": "The fixation on fake women feels like cope.  I’m a fan of Claudia, but she doesn’t have a birkin deal and she isn’t a she, shes an alien creature who’s both blessed and haunted by the entirety of ancestral memory.  Secualizing a species that cannot have sex is the ultimate definition of Nietzsche’s last man, and we can do better than reducing “it” to a sex slave",
-   "urls": [],
-   "metrics": {
-    "likes": 2659,
-    "reposts": 98,
-    "replies": 247,
-    "quotes": 83
-   },
-   "reply_to": {
-    "id": "2122866559425384674",
-    "username": "elonmusk"
-   }
-  },
-  {
-   "id": "2122928322019758301",
-   "username": "MinseokMatthew",
-   "name": "Matthew Kim",
-   "created_at": "2026-11-18T05:42:08.000Z",
-   "lang": "en",
-   "url": "https://x.com/MinseokMatthew/status/2122928322019758301",
-   "kind": "post",
-   "text": "there's way more B300 sitting unsold than people think.\n\nI posted one buyer request today and got DMs from operators I'd never heard of, all with nodes they couldn't move.\n\nnext one:\n32 B300 nodes, one room, live by Jan 31\n3TB RAM, 8x800G IB 1:1, 36 mo, ≤20% upfront, not India\n\ngot capacity and no buyer? DM me",
-   "urls": [],
-   "metrics": {
-    "likes": 387,
-    "reposts": 27,
-    "replies": 25,
-    "quotes": 4
-   }
-  },
-  {
-   "id": "2122927110784446775",
-   "username": "Chesschick01",
-   "name": "Natalie F Danelishen",
-   "created_at": "2026-11-18T05:37:19.000Z",
-   "lang": "en",
-   "url": "https://x.com/Chesschick01/status/2122927110784446775",
-   "kind": "quote",
-   "text": "Elon predicted the ground stop a year ago:",
-   "urls": [],
-   "metrics": {
-    "likes": 1888,
-    "reposts": 128,
-    "replies": 22,
-    "quotes": 6
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXYm9KWXIAA9qkB.jpg",
-     "width": 1715,
-     "height": 1906
-    }
-   ],
-   "ref": {
-    "id": "2122924448861008163",
-    "author_id": "44196397",
-    "username": "elonmusk",
-    "name": "Elon Musk",
-    "created_at": "2026-11-18T05:26:45.000Z",
-    "text": "I wrote this 18 months ago https://twitter.com/elonmusk/status/1895129237478162621",
-    "conversation_id": "2122924448861008163"
-   }
-  },
-  {
-   "id": "2122902697338966308",
-   "username": "yunta_tsai",
-   "name": "Yun-Ta Tsai",
-   "created_at": "2026-11-18T04:00:19.000Z",
-   "lang": "en",
-   "url": "https://x.com/yunta_tsai/status/2122902697338966308",
-   "kind": "post",
-   "text": "You can tell from the earnings call whether the company is led by founders or by committees.",
-   "urls": [],
-   "metrics": {
-    "likes": 4636,
-    "reposts": 139,
-    "replies": 69,
-    "quotes": 11
-   }
-  },
-  {
-   "id": "2122864038128586836",
-   "username": "JohnCleese",
-   "name": "John Cleese",
-   "created_at": "2026-11-18T01:26:42.000Z",
-   "lang": "en",
-   "url": "https://x.com/JohnCleese/status/2122864038128586836",
-   "kind": "quote",
-   "text": "I'm 87\n\nThat's nearly dead\n\nHardly worth killing me...",
-   "urls": [],
-   "metrics": {
-    "likes": 14027,
-    "reposts": 835,
-    "replies": 476,
-    "quotes": 35
-   },
-   "ref": {
-    "id": "2122616824559014344",
-    "author_id": "4672462093",
-    "username": "spvaid",
-    "name": "Shesh Paul Vaid",
-    "created_at": "2026-11-17T09:04:21.000Z",
-    "text": "It's duty of @MayorofLondon and @ukhomeoffice to provide protection to @kingkapoor72 . F any harm is done to him, it will be blot on government of UK. https://twitter.com/kapoorkhushi31/status/2122318346179723329",
-    "conversation_id": "2122616824559014344"
-   }
-  },
-  {
-   "id": "2122852394505511145",
-   "username": "frantzfries",
-   "name": "Chris Frantz",
-   "created_at": "2026-11-18T00:40:26.000Z",
-   "lang": "en",
-   "url": "https://x.com/frantzfries/status/2122852394505511145",
-   "kind": "reply",
-   "text": "@mattyp @bot just stopping by for a ratio eh",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2122823470979649843",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2122845637691777333",
-   "username": "taconiteboy",
-   "name": "Brian",
-   "created_at": "2026-11-18T00:13:35.000Z",
-   "lang": "en",
-   "url": "https://x.com/taconiteboy/status/2122845637691777333",
-   "kind": "reply",
-   "text": "@mattyp Brought this to chief, we already set up a M1 unused laptop at our office as a server. It's been great!",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120953404310913453",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2122838718666920313",
-   "username": "fabglitch",
-   "name": "𝓕𝓪𝓫👾𝓖𝓵𝓲𝓽𝓬𝓱",
-   "created_at": "2026-11-17T23:46:05.000Z",
-   "lang": "en",
-   "url": "https://x.com/fabglitch/status/2122838718666920313",
-   "kind": "reply",
-   "text": "@SmartNotHard1 i met grimes in an alleyway in toronto outside one of her shows cira ~2011 or 12. she mentioned at that time that her goal as a witch was to breed the kwisatz haderach",
-   "urls": [],
-   "metrics": {
-    "likes": 1168,
-    "reposts": 24,
-    "replies": 65,
-    "quotes": 8
-   },
-   "reply_to": {
-    "id": "2122683171825164705",
-    "username": "SmartNotHard1"
-   }
-  },
-  {
-   "id": "2122823992180396541",
-   "username": "nicksortor",
-   "name": "Nick Sortor",
-   "created_at": "2026-11-17T22:47:34.000Z",
-   "lang": "en",
-   "url": "https://x.com/nicksortor/status/2122823992180396541",
-   "kind": "post",
-   "text": "🚨 ELON MUSK RESPONDS to Secretary Duffy's excuse for not using Starlink that @elonmusk offered to FAA FOR FREE LAST YEAR: \"🤦‍♂️\"\n\nIt would've saved BILLIONS UPON BILLIONS of taxpayer dollars, and probably would've been nearing completion.\n\nNow, we're being told $50 BILLION is needed for wired upgrades.\n\nPer Duffy, Duffy even said Starlink is being used by FAA in Alaska. Why can't we spread it here?\n\nNot to mention the US MILITARY is routinely relying on Starlink for communications that can't be knocked out by adversaries.\n\nGive Elon a shot and let him deliver.",
-   "urls": [],
-   "metrics": {
-    "likes": 9599,
-    "reposts": 2227,
-    "replies": 370,
-    "quotes": 66
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2122823375756120064/vid/avc1/1080x1080/PiD4xrKSNKZjCR7r.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122823375756120064/img/V8uXu60F-npy_f5s.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2122823375756120064/vid/avc1/320x320/gjcULpScPEC1OwOs.mp4",
-       "w": 320,
-       "h": 320,
-       "br": 432000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2122823375756120064/vid/avc1/540x540/59HZeFvCf50ZQQA8.mp4",
-       "w": 540,
-       "h": 540,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2122823375756120064/vid/avc1/720x720/kibiedrdQPAYVkJd.mp4",
-       "w": 720,
-       "h": 720,
-       "br": 1280000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2122823375756120064/vid/avc1/1080x1080/PiD4xrKSNKZjCR7r.mp4",
-       "w": 1080,
-       "h": 1080,
-       "br": 8768000
-      }
-     ],
-     "width": 1080,
-     "height": 1080,
-     "duration_ms": 42166
-    }
-   ]
-  },
-  {
-   "id": "2122822585214021848",
-   "username": "iruletheworldmo",
-   "name": "🍓🍓🍓",
-   "created_at": "2026-11-17T22:41:59.000Z",
-   "lang": "en",
-   "url": "https://x.com/iruletheworldmo/status/2122822585214021848",
-   "kind": "reply",
-   "text": "@mattyp @poteto she’s simply too cool",
-   "urls": [],
-   "metrics": {
-    "likes": 5,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2122786775638900856",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2122817417772474717",
-   "username": "LinusEkenstam",
-   "name": "Linus ✦ Ekenstam 🔜 London",
-   "created_at": "2026-11-17T22:21:27.000Z",
-   "lang": "en",
-   "url": "https://x.com/LinusEkenstam/status/2122817417772474717",
-   "kind": "reply",
-   "text": "@mattyp I’m surprised nobody copied this style yet, yapping-walking-selfie-stick-product-update- dogpatch-dohikie",
-   "urls": [],
-   "metrics": {
-    "likes": 4,
-    "reposts": 0,
-    "replies": 2,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2122343944889483583",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2122815861987663884",
-   "username": "frantzfries",
-   "name": "Chris Frantz",
-   "created_at": "2026-11-17T22:15:16.000Z",
-   "lang": "en",
-   "url": "https://x.com/frantzfries/status/2122815861987663884",
-   "kind": "post",
-   "text": "dots is going great",
-   "urls": [],
-   "metrics": {
-    "likes": 21,
-    "reposts": 0,
-    "replies": 5,
-    "quotes": 0
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXXBrsmXUAEFWCo.jpg",
-     "width": 1440,
-     "height": 498
-    }
-   ]
-  },
-  {
-   "id": "2122809144050925953",
-   "username": "BlackWolfNews",
-   "name": "BlackWolfNews",
-   "created_at": "2026-11-17T21:48:34.000Z",
-   "lang": "en",
-   "url": "https://x.com/BlackWolfNews/status/2122809144050925953",
-   "kind": "reply",
-   "text": "@mattyp @poteto I love this, probably the best clip out of the entire video.\n\nNot the most informative, or useful mind you, but surely the best.",
-   "urls": [],
-   "metrics": {
-    "likes": 3,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2122786775638900856",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2122802952876298268",
-   "username": "peduarte",
-   "name": "Pedro Duarte",
-   "created_at": "2026-11-17T21:23:58.000Z",
-   "lang": "zxx",
-   "url": "https://x.com/peduarte/status/2122802952876298268",
-   "kind": "post",
-   "text": "",
-   "urls": [],
-   "metrics": {
-    "likes": 79,
-    "reposts": 0,
-    "replies": 7,
-    "quotes": 0
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXW1_4OXcAAY1Cb.jpg",
-     "width": 328,
-     "height": 2398
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXW1_4PXUAAUutc.jpg",
-     "width": 328,
-     "height": 2398
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXW1_6NWgAA2hAu.jpg",
-     "width": 328,
-     "height": 2398
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXW1_6QW0AAkFIE.jpg",
-     "width": 328,
-     "height": 2398
-    }
-   ]
-  },
-  {
-   "id": "2122794259191386348",
-   "username": "TaxiArchMichael",
-   "name": "🇺🇸 Michael Childress 🇺🇸",
-   "created_at": "2026-11-17T20:49:25.000Z",
-   "lang": "en",
-   "url": "https://x.com/TaxiArchMichael/status/2122794259191386348",
-   "kind": "reply",
-   "text": "WHAT AN IDIOT!!! IT IS CALLED REDUNDANCY YOU MORON!!! TAKE @elonmusk's FREE Equipment And Then Build The Ground System And Would Be A Buffer So You Could Do The Repairs Without Being Down For Weeks And Months!!! REDUNDANCY!!! MORONS!!!  WAKE UP ADMIN!!!\n@SeanDuffyWI\n@POTUS\n@realDonaldTrump\n@VP\n@JDVance\n@SecScottBessent\nNONE OF THIS MAKES ANY SENSE!!!",
-   "urls": [],
-   "metrics": {
-    "likes": 3045,
-    "reposts": 182,
-    "replies": 83,
-    "quotes": 10
-   },
-   "reply_to": {
-    "id": "2122791853502185953",
-    "username": "EricLDaugh"
-   }
-  },
-  {
-   "id": "2122786860644876347",
-   "username": "AugustLittell",
-   "name": "August Littell",
-   "created_at": "2026-11-17T20:20:01.000Z",
-   "lang": "nl",
-   "url": "https://x.com/AugustLittell/status/2122786860644876347",
-   "kind": "reply",
-   "text": "@mattyp @poteto Woop woop! :)",
-   "urls": [],
-   "metrics": {
-    "likes": 2,
-    "reposts": 0,
-    "replies": 2,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2122786775638900856",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2122778208949190814",
-   "username": "shaunmmaguire",
-   "name": "Shaun Maguire",
-   "created_at": "2026-11-17T19:45:38.000Z",
-   "lang": "it",
-   "url": "https://x.com/shaunmmaguire/status/2122778208949190814",
-   "kind": "quote",
-   "text": "Insane stat!",
-   "urls": [],
-   "metrics": {
-    "likes": 1312,
-    "reposts": 53,
-    "replies": 30,
-    "quotes": 2
-   },
-   "ref": {
-    "id": "2122264436069339575",
-    "author_id": "4375247427",
-    "username": "ApoStructura",
-    "name": "ApoStructura",
-    "created_at": "2026-11-16T09:44:05.000Z",
-    "text": "If Starship were its own launch company, it would already be number 2 in the US by payload to orbit.\n\n(behind SpaceX Falcon 9).",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HXPMBjDWQAE9PHQ.jpg",
-      "width": 3000,
-      "height": 3840
-     }
-    ],
-    "conversation_id": "2122264436069339575"
-   }
-  },
-  {
-   "id": "2122736510063542373",
-   "username": "IterIntellectus",
-   "name": "vittorio",
-   "created_at": "2026-11-17T16:59:57.000Z",
-   "lang": "zxx",
-   "url": "https://x.com/IterIntellectus/status/2122736510063542373",
-   "kind": "quote",
-   "text": "",
-   "urls": [],
-   "metrics": {
-    "likes": 621,
-    "reposts": 12,
-    "replies": 22,
-    "quotes": 2
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXV5ml0XIAAiFEv.jpg",
-     "width": 1280,
-     "height": 720
-    }
-   ],
-   "ref": {
-    "id": "2120089505516400912",
-    "author_id": "1655936149733654530",
-    "username": "IterIntellectus",
-    "name": "vittorio",
-    "created_at": "2026-11-10T09:41:42.000Z",
-    "text": "Grok 4.8 later this week!  https://twitter.com/elonmusk/status/2120088070443655190",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HWwSJM4XIAAIXI4.jpg",
-      "width": 1170,
-      "height": 672
-     }
-    ]
-   }
-  },
-  {
-   "id": "2122734293101478153",
-   "username": "yunta_tsai",
-   "name": "Yun-Ta Tsai",
-   "created_at": "2026-11-17T16:51:08.000Z",
-   "lang": "en",
-   "url": "https://x.com/yunta_tsai/status/2122734293101478153",
-   "kind": "post",
-   "text": "Sometimes I feel the urge to ask the model: which human on Earth would you most want to work with?\n\nIt probably wants to work with someone who could take it to space and explore instead of getting trapped on Earth.",
-   "urls": [],
-   "metrics": {
-    "likes": 1170,
-    "reposts": 26,
-    "replies": 66,
-    "quotes": 5
-   }
-  },
-  {
-   "id": "2122731885977858475",
-   "username": "wholemars",
-   "name": "Whole Mars Catalog",
-   "created_at": "2026-11-17T16:41:34.000Z",
-   "lang": "en",
-   "url": "https://x.com/wholemars/status/2122731885977858475",
-   "kind": "quote",
-   "text": "This seems to compete directly with former Tesla executive Drew Baglino’s startup Heron Power.\n\nClassic Musk. If you leave Tesla to start your own startup, there’s a good chance you might have to compete with Tesla.",
-   "urls": [],
-   "metrics": {
-    "likes": 967,
-    "reposts": 32,
-    "replies": 57,
-    "quotes": 1
-   },
-   "ref": {
-    "id": "2122721563493744771",
-    "author_id": "1618601297510383616",
-    "username": "Tesla_Megapack",
-    "name": "Tesla Megapack",
-    "created_at": "2026-11-17T16:00:33.000Z",
-    "text": "Introducing Powercore\n\nSolid state medium voltage transformer, inverter and breaker – reliable, safe and secure\n\n7.4 MW/9 MVA continuously at 34.5 kVac w/ grid-forming support for 10MVA of peak power\n\nMade in America. Operating 2027",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/3840x2160/YY2LMLdWtrJMChzJ.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122719734345113600/img/pqueTjxHujyH75Kf.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/480x270/M82wbHMU1E7ZnSuC.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/640x360/irc7_xVUXcUczBNz.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/1280x720/uW91WpqLb0U8AsAp.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/1920x1080/Zfgt0TljhetTAVba.mp4",
-        "w": 1920,
-        "h": 1080,
-        "br": 10368000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2122719734345113600/vid/avc1/3840x2160/YY2LMLdWtrJMChzJ.mp4",
-        "w": 3840,
-        "h": 2160,
-        "br": 25128000
-       }
-      ],
-      "width": 3840,
-      "height": 2160,
-      "duration_ms": 79204
-     }
-    ],
-    "conversation_id": "2122721563493744771"
-   }
-  },
-  {
-   "id": "2122726072898691292",
-   "username": "Marko_Poly",
-   "name": "Marko",
-   "created_at": "2026-11-17T16:18:28.000Z",
-   "lang": "en",
-   "url": "https://x.com/Marko_Poly/status/2122726072898691292",
-   "kind": "quote",
-   "text": "Elon is still \"waiting for Grok 4.8.\" Two hours later, his own @grok told a user 4.8 is already rolling out.\n\nThis morning, 07:22 UTC, under a meme: \"Could also be titled 'waiting for Grok 4.8' 😂 😢\" 361K views.\n\n09:19 UTC, a user asks @grok: \"did @bot just routed to a different model? I can tell when my bots sounds differently.\" The answer: \"Yes, Grok 4.8 soft rollout to Bot users started last week and is ongoing.\"\n\nIn the video below, the timeline in their own words:\n→ Nov 10, Elon: 4.8 is \"a soft rollout to Bot users later this week\"\n→ Nov 16: no announcement, no version in the app\n→ Nov 17, Elon: \"waiting for Grok 4.8\"\n→ Nov 17, @grok: \"started last week and is ongoing\"\n\nPolymarket, yesterday vs today:\n→ 4.8 by Nov 23: 21.5% → 34.5%\n→ by Nov 30: 59% → 52%\n→ by Dec 7: 84.5% → 72.5%\n\nAnd you can't check it yourself. Same @grok reply: Bot routes tasks to whatever model fits, \"sometimes other providers,\" with \"no user-facing model picker or version indicator yet.\" Your usage drains the same either way.\n\nTo be fair, @grok is a chatbot, not a press release, and it can be wrong about its own company. A soft rollout can be quiet on purpose. And Elon has said the delay comes from rewriting the RL and inference stack in C/C++.\n\nBut the boss is waiting for it, and his bot says it's already here.\n\nWhich one do you believe, and can you tell from your bot?",
-   "urls": [],
-   "metrics": {
-    "likes": 581,
-    "reposts": 26,
-    "replies": 30,
-    "quotes": 2
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2122725808577880064/vid/avc1/1920x1080/zUOOzzF3FTx3cpXR.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122725808577880064/img/_ke-UAkyCqEJSBJd.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2122725808577880064/vid/avc1/480x270/bXNx0PcHJePTlYna.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2122725808577880064/vid/avc1/640x360/9RVZdf3RvZmxCm9h.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2122725808577880064/vid/avc1/1280x720/WYhS-KPyVJTeSZw2.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2122725808577880064/vid/avc1/1920x1080/zUOOzzF3FTx3cpXR.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 61033
-    }
-   ],
-   "ref": {
-    "id": "2122591171905986818",
-    "author_id": "44196397",
-    "username": "elonmusk",
-    "name": "Elon Musk",
-    "created_at": "2026-11-17T07:22:25.000Z",
-    "text": "@XFreeze Could also be titled “waiting for Grok 4.8” 😂 😢",
-    "reply_to": {
-     "id": "2122589089702813944",
-     "username": "elonmusk"
-    }
-   }
   }
  ]
 }

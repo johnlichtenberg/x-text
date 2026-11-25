@@ -102,6 +102,19 @@ eq(R.refreshBody("#/u/bad%20name"), '{"action":"refresh","source":"x-text"}', "i
 eq(R.refreshBody("#/u/abcdefghijklmnop"), '{"action":"refresh","source":"x-text"}', "16 chars dropped");
 eq(R.refreshBody("#/u/%E0%A4%A"), '{"action":"refresh","source":"x-text"}', "bad escape dropped");
 eq(R.refreshBody(""), '{"action":"refresh","source":"x-text"}', "no hash");
+// Default page: no hash opens @elonmusk (so Refresh sends handle=elonmusk); "#/" stays the all-accounts view.
+eq(R.DEFAULT_PAGE, "#/u/elonmusk", "default page is @elonmusk");
+eq(R.defaultHash("", R.DEFAULT_PAGE), "#/u/elonmusk", "no hash -> @elonmusk");
+eq(R.defaultHash("#", R.DEFAULT_PAGE), "#/u/elonmusk", "bare # -> @elonmusk");
+eq(R.defaultHash("#/", R.DEFAULT_PAGE), "#/", "#/ stays the Following view");
+eq(R.defaultHash("#/u/Tesla", R.DEFAULT_PAGE), "#/u/Tesla", "account links kept");
+eq(R.defaultHash("#/search?q=mars", R.DEFAULT_PAGE), "#/search?q=mars", "search links kept");
+eq(R.defaultHash("#/saved/ai", R.DEFAULT_PAGE), "#/saved/ai", "saved links kept");
+eq(R.defaultHash("", ""), "", "DEFAULT_PAGE \"\" restores the Following view");
+eq(R.refreshBody(R.defaultHash("", R.DEFAULT_PAGE)), '{"action":"refresh","source":"x-text","handle":"elonmusk"}', "default page refreshes @elonmusk");
+ok(appSrc.includes("var start = defaultHash(location.hash, DEFAULT_PAGE)") && appSrc.includes("history.replaceState(null"), "boot applies the default page without a history entry");
+ok(/<a href="#\/" class="title"/.test(fs.readFileSync(path.join(__dirname, "..", "index.html"), "utf8")), "title still links to the Following view");
+ok(appSrc.includes('<a href="#/" class="\' + (r.view === "home" ? "on" : "") + \'">Following</a>'), "Following tab still links to #/");
 const run0 = { status: "new", at: "2026-11-17T10:00:00Z", new_posts: 3 };
 const early = { status: "running", at: "2026-11-17T10:05:00Z", new_posts: 2, handle: "elonmusk" };
 const final = { status: "new", at: "2026-11-17T10:06:00Z", new_posts: 5 };

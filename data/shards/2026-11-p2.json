@@ -1,7 +1,805 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-24T14:20:50Z",
+ "updated_at": "2026-11-25T04:36:30Z",
  "posts": [
+  {
+   "id": "2124312067176005737",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T01:20:39.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124312067176005737",
+   "kind": "repost",
+   "text": "If you zoom out a little further, you can see our simulation playing on the screen of the creators.",
+   "urls": [],
+   "metrics": {
+    "likes": 4195,
+    "reposts": 312,
+    "replies": 225,
+    "quotes": 37
+   },
+   "partial": true,
+   "ref": {
+    "id": "2124306728514949325",
+    "author_id": "446719282",
+    "username": "shivon",
+    "name": "Shivon Zilis",
+    "created_at": "2026-11-22T00:59:26.000Z",
+    "conversation_id": "2124306728514949325",
+    "quote": {
+     "id": "2124298543427203084",
+     "author_id": "70175205",
+     "username": "pduan",
+     "name": "Phil Duan",
+     "created_at": "2026-11-22T00:26:54.000Z",
+     "text": "Overheard in Palo Alto: GTA 6’s real-world mode just dropped on Teslas.",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2124297595984211968/vid/avc1/640x360/ZT09pEofLmcboEvX.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2124297595984211968/img/BDs93TacCP3M96Yw.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2124297595984211968/vid/avc1/480x270/MrYtjMEVLW1oU2sQ.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2124297595984211968/vid/avc1/640x360/ZT09pEofLmcboEvX.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        }
+       ],
+       "width": 640,
+       "height": 360,
+       "duration_ms": 50851
+      }
+     ],
+     "conversation_id": "2124298543427203084"
+    }
+   }
+  },
+  {
+   "id": "2124305838714077433",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T00:55:54.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124305838714077433",
+   "reply_to": {
+    "id": "2123340174784430539",
+    "username": "JamesEsses"
+   },
+   "kind": "reply",
+   "text": "@JamesEsses Troubling",
+   "urls": [],
+   "metrics": {
+    "likes": 549,
+    "reposts": 171,
+    "replies": 73,
+    "quotes": 6
+   },
+   "partial": true
+  },
+  {
+   "id": "2124297556150939968",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T00:22:59.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124297556150939968",
+   "reply_to": {
+    "id": "2124142861461721366",
+    "username": "ICannot_Enough"
+   },
+   "kind": "reply",
+   "text": "@ICannot_Enough @bot Wheels are a good option to consider, but it looks like woven stainless steel matting on the ship side probably solves for zero refurbishment.\n\nUnlike the booster, we need something there to keep the ship primary structure below its annealing temperature.",
+   "urls": [],
+   "metrics": {
+    "likes": 6376,
+    "reposts": 282,
+    "replies": 401,
+    "quotes": 29
+   },
+   "partial": true
+  },
+  {
+   "id": "2124295793280450870",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T00:15:59.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124295793280450870",
+   "kind": "quote",
+   "text": "This is so fun that it’s worth just having your car drive you around for the sake of driving around https://t.co/HQflqvij0D",
+   "urls": [],
+   "metrics": {
+    "likes": 12172,
+    "reposts": 1129,
+    "replies": 1365,
+    "quotes": 101
+   },
+   "partial": true,
+   "ref": {
+    "id": "2124271724812279866",
+    "author_id": "1118594454515003393",
+    "username": "DirtyTesLa",
+    "name": "Dirty Tesla",
+    "created_at": "2026-11-21T22:40:20.000Z",
+    "text": "FSD V15.0.1 is downloading now AHHHH",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXrt387WMAAHhbp.jpg",
+      "width": 1079,
+      "height": 3748
+     }
+    ],
+    "conversation_id": "2124271724812279866"
+   }
+  },
+  {
+   "id": "2124295027988005264",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T00:12:56.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124295027988005264",
+   "kind": "repost",
+   "text": "@tobi Crazy work.",
+   "urls": [],
+   "metrics": {
+    "likes": 1418,
+    "reposts": 168,
+    "replies": 81,
+    "quotes": 20
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124285962721144832/vid/avc1/1080x1080/qeoSJJxctBgHNxWn.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124285962721144832/img/oITDF3_VSkNaz-I0.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124285962721144832/vid/avc1/320x320/w_LU801g3T-MtfYE.mp4",
+       "w": 320,
+       "h": 320,
+       "br": 432000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124285962721144832/vid/avc1/540x540/3tXwYOUbnaTX7hBb.mp4",
+       "w": 540,
+       "h": 540,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124285962721144832/vid/avc1/720x720/fRQ4HQZv8ufIsgbB.mp4",
+       "w": 720,
+       "h": 720,
+       "br": 1280000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124285962721144832/vid/avc1/1080x1080/qeoSJJxctBgHNxWn.mp4",
+       "w": 1080,
+       "h": 1080,
+       "br": 8768000
+      }
+     ],
+     "width": 1080,
+     "height": 1080,
+     "duration_ms": 10066
+    }
+   ],
+   "ref": {
+    "id": "2124285994073809252",
+    "author_id": "1347132610464665604",
+    "username": "RafelineK",
+    "name": "Ardullo",
+    "created_at": "2026-11-21T23:37:02.000Z",
+    "reply_to": {
+     "id": "2124284894830354483",
+     "username": "tobi"
+    },
+    "conversation_id": "2124284894830354483"
+   }
+  },
+  {
+   "id": "2124294994395849128",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-22T00:12:48.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/larsencc/status/2124294994395849128",
+   "reply_to": {
+    "id": "2124289366499487844",
+    "username": "ryanthawks"
+   },
+   "kind": "reply",
+   "text": "@ryanthawks @bot @friend Yo damn haha",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2124294924010914009",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T00:12:32.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124294924010914009",
+   "reply_to": {
+    "id": "2124284894830354483",
+    "username": "tobi"
+   },
+   "kind": "reply",
+   "text": "@tobi GTA IRL",
+   "urls": [],
+   "metrics": {
+    "likes": 4691,
+    "reposts": 191,
+    "replies": 298,
+    "quotes": 34
+   },
+   "partial": true
+  },
+  {
+   "id": "2124294755316310346",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T00:11:51.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124294755316310346",
+   "kind": "quote",
+   "text": "Tesla FSD V15 is a banger release!\n\nCompletely new architecture that deserves being called “super” intelligence, as it drives better than human intelligence. https://t.co/9nbC2g8g01",
+   "urls": [],
+   "metrics": {
+    "likes": 20648,
+    "reposts": 2032,
+    "replies": 1381,
+    "quotes": 255
+   },
+   "partial": true,
+   "ref": {
+    "id": "2124229673056113100",
+    "author_id": "1659653864138612761",
+    "username": "TeslaSI",
+    "name": "Tesla Super Intelligence",
+    "created_at": "2026-11-21T19:53:14.000Z",
+    "text": "Full release notes below\n\n– – –\n\nv15 upgrades every part of the end-to-end driving network. Includes:\n\nUpgraded vision encoder shared between FSD, Robotaxi, and Optimus, which is trained on millions of internet videos for improved generalization and data efficiency, improving https://t.co/5pCjCUM0cR"
+   }
+  },
+  {
+   "id": "2124293999704015018",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T00:08:51.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124293999704015018",
+   "kind": "repost",
+   "text": "Tesla FSD V15 is officially downloading on my Model Y!",
+   "urls": [],
+   "metrics": {
+    "likes": 4414,
+    "reposts": 241,
+    "replies": 326,
+    "quotes": 49
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXrtjxCWoAAtnbo.jpg",
+     "width": 1320,
+     "height": 2327
+    }
+   ],
+   "ref": {
+    "id": "2124271378073530460",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-21T22:38:58.000Z",
+    "conversation_id": "2124271378073530460"
+   }
+  },
+  {
+   "id": "2124293755813638376",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T00:07:53.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124293755813638376",
+   "kind": "repost",
+   "text": "@jamesdouma It is mesmerizing to watch.\n\nWhere this is actually useful is when you want to tap the exact drop-off or parking location on the screen that you want your car to target.",
+   "urls": [],
+   "metrics": {
+    "likes": 5624,
+    "reposts": 299,
+    "replies": 308,
+    "quotes": 26
+   },
+   "partial": true,
+   "ref": {
+    "id": "2124293720728346919",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-22T00:07:45.000Z",
+    "reply_to": {
+     "id": "2124278580620525984",
+     "username": "jamesdouma"
+    }
+   }
+  },
+  {
+   "id": "2124293720728346919",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T00:07:45.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124293720728346919",
+   "reply_to": {
+    "id": "2124278580620525984",
+    "username": "jamesdouma"
+   },
+   "kind": "reply",
+   "text": "@jamesdouma It is mesmerizing to watch.\n\nWhere this is actually useful is when you want to tap the exact drop-off or parking location on the screen that you want your car to target.",
+   "urls": [],
+   "metrics": {
+    "likes": 5624,
+    "reposts": 299,
+    "replies": 308,
+    "quotes": 26
+   },
+   "partial": true
+  },
+  {
+   "id": "2124293060322599045",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T00:05:07.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124293060322599045",
+   "kind": "repost",
+   "text": "@Scobleizer Pretty accurate.\n\nTesla vehicles will share traffic knowledge and combine that with Grok’s real-time 𝕏 feed to give you the optimal transport experience, even giving you a heads up about what’s happening at your destination!",
+   "urls": [],
+   "metrics": {
+    "likes": 10089,
+    "reposts": 746,
+    "replies": 504,
+    "quotes": 97
+   },
+   "partial": true,
+   "ref": {
+    "id": "2124293036418990381",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-22T00:05:01.000Z",
+    "reply_to": {
+     "id": "2124261869200589024",
+     "username": "Scobleizer"
+    }
+   }
+  },
+  {
+   "id": "2124293036418990381",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T00:05:01.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124293036418990381",
+   "reply_to": {
+    "id": "2124261869200589024",
+    "username": "Scobleizer"
+   },
+   "kind": "reply",
+   "text": "@Scobleizer Pretty accurate.\n\nTesla vehicles will share traffic knowledge and combine that with Grok’s real-time 𝕏 feed to give you the optimal transport experience, even giving you a heads up about what’s happening at your destination!",
+   "urls": [],
+   "metrics": {
+    "likes": 10089,
+    "reposts": 746,
+    "replies": 504,
+    "quotes": 97
+   },
+   "partial": true
+  },
+  {
+   "id": "2124286717519970703",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-21T23:39:55.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/larsencc/status/2124286717519970703",
+   "reply_to": {
+    "id": "2124286191948431732",
+    "username": "theo"
+   },
+   "kind": "reply",
+   "text": "@theo On it",
+   "urls": [],
+   "metrics": {
+    "likes": 12,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2124284441640177918",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-21T23:30:52.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/larsencc/status/2124284441640177918",
+   "reply_to": {
+    "id": "2124159121645801562",
+    "username": "leanprover"
+   },
+   "kind": "reply",
+   "text": "@leanprover holy... actually insane",
+   "urls": [],
+   "metrics": {
+    "likes": 6,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2124283778172653644",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-21T23:28:14.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/larsencc/status/2124283778172653644",
+   "reply_to": {
+    "id": "2124265097313046867",
+    "username": "garrytan"
+   },
+   "kind": "reply",
+   "text": "@garrytan yup",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2124283728809890187",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-21T23:28:02.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/larsencc/status/2124283728809890187",
+   "reply_to": {
+    "id": "2124283380162232372",
+    "username": "ducksays"
+   },
+   "kind": "reply",
+   "text": "@ducksays oof",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2124283520784945172",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-21T23:27:13.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/larsencc/status/2124283520784945172",
+   "kind": "post",
+   "text": "There are 518 plugins in @bot.\n\nMost people connect email and calendar and stop there. The ones I'd actually connect:\n\n> X: \"summarize what I bookmarked this week.\" If your X is connected, it already works.\n> X Money: \"what did I spend this month\" or \"send @friend $20 for lunch,\"",
+   "urls": [],
+   "metrics": {
+    "likes": 190,
+    "reposts": 7,
+    "replies": 29,
+    "quotes": 3
+   },
+   "partial": true
+  },
+  {
+   "id": "2124282252825596187",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-21T23:22:10.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124282252825596187",
+   "reply_to": {
+    "id": "2124281802751979559",
+    "username": "BasedSamParker"
+   },
+   "kind": "reply",
+   "text": "@BasedSamParker 😂\n\nBut actually try Grok Bot. It’s awesome.",
+   "urls": [],
+   "metrics": {
+    "likes": 919,
+    "reposts": 63,
+    "replies": 171,
+    "quotes": 29
+   },
+   "partial": true
+  },
+  {
+   "id": "2124281017829912938",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-21T23:17:16.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/larsencc/status/2124281017829912938",
+   "reply_to": {
+    "id": "2124262291512447211",
+    "username": "KettlebellDan"
+   },
+   "kind": "reply",
+   "text": "@KettlebellDan I seriously need to start recording lol",
+   "urls": [],
+   "metrics": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2124280942034661544",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-21T23:16:58.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124280942034661544",
+   "kind": "repost",
+   "text": "v15 is 25x safer than v14 across the fleet.\n\nThat’s hard to notice on any individual drive because most drives are already very safe. The difference only becomes clear when you aggregate millions of miles.\n\nAll credit goes to the incredibly talented and dedicated @TeslaSI engineers who made this possible. It’s an honor to work alongside them.",
+   "urls": [],
+   "metrics": {
+    "likes": 6608,
+    "reposts": 603,
+    "replies": 231,
+    "quotes": 76
+   },
+   "partial": true,
+   "ref": {
+    "id": "2124265867336966182",
+    "author_id": "70175205",
+    "username": "pduan",
+    "name": "Phil Duan",
+    "created_at": "2026-11-21T22:17:04.000Z",
+    "conversation_id": "2124265867336966182",
+    "quote": {
+     "id": "2124222447855743019",
+     "author_id": "13298072",
+     "username": "Tesla",
+     "name": "Tesla",
+     "created_at": "2026-11-21T19:24:32.000Z",
+     "text": "FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network\n\nSafety\n25x better handling of safety critical cases\n\nTesla Reality View \nAdds a live visualization of the drive that lets you see & control what FSD is planning to do\n\nNavigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route.\n\nYou also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather.\n\nLastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2124221674111512576/img/jtjoJUSLKl6Nz6dX.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/480x270/q3da8s2G4pFdyIbp.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/640x360/Y4p4f2zCeQbtzbVf.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1280x720/CB-ZGrFnTWyL0d6a.mp4",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/1920x1080/exp2P2D1CbcW1xU7.mp4",
+         "w": 1920,
+         "h": 1080,
+         "br": 10368000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4",
+         "w": 3840,
+         "h": 2160,
+         "br": 25128000
+        }
+       ],
+       "width": 3840,
+       "height": 2160,
+       "duration_ms": 46506
+      }
+     ],
+     "conversation_id": "2124222447855743019"
+    }
+   }
+  },
+  {
+   "id": "2124280710747840889",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-21T23:16:03.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124280710747840889",
+   "kind": "quote",
+   "text": "Give Grok @Bot your hardest tasks https://t.co/KEa57ff3ux",
+   "urls": [],
+   "metrics": {
+    "likes": 4824,
+    "reposts": 679,
+    "replies": 963,
+    "quotes": 103
+   },
+   "partial": true,
+   "ref": {
+    "id": "2124215518341017719",
+    "author_id": "954060455831580672",
+    "username": "MollySOShea",
+    "name": "Molly O’Shea",
+    "created_at": "2026-11-21T18:57:00.000Z",
+    "text": "Grok Bot planned a 5,000-person conference\n\nRon Biscardi (@rbiscardi) says his team used Grok Bot for literally everything to set up the TomorrowX Summit at record speed:\n\n“Grok Bot is what made this whole event possible.”\n\n“My COO, who normally isn’t doing in-the-weeds stuff, had a dozen Grok Bot agents & was running literally half of the lead up to this event on her own. None of that was possible before these tools.”\n\n“This is 5,000 people in a basketball arena. No one does that in 6 or 7 months. That’s like an 18-month thing.”\n\n“Using AI, we were able to build everything we needed so quickly: the website, the dashboards, the mobile app. All of the elements that go into this that typically took months & months to build, we built them in days.”\n\n@GavinSBaker @AntonioGracias @elonmusk",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/3840x2160/00KYnF4khi04XQsW.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123460187461955584/img/vF9RDI5ha8T4BP5i.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/480x270/d4BzNFd7AhiySN3_.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/640x360/uLfeCJ4HIgnha32J.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/1280x720/yJrO2yXHRqTIp23F.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/1920x1080/MLogQnpTu74xL3zk.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123460187461955584/vid/avc1/3840x2160/00KYnF4khi04XQsW.mp4",
+        "w": 3840,
+        "h": 2160,
+        "br": 25128000
+       }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 377700
+     }
+    ],
+    "conversation_id": "2124215518341017719"
+   }
+  },
+  {
+   "id": "2124279318096523577",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-21T23:10:31.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/larsencc/status/2124279318096523577",
+   "reply_to": {
+    "id": "2124276421011046639",
+    "username": "JakaBavdek"
+   },
+   "kind": "reply",
+   "text": "@JakaBavdek likewise",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2124275548545536000",
+   "author_id": "505835394",
+   "username": "ericzakariasson",
+   "name": "eric zakariasson",
+   "created_at": "2026-11-21T22:55:32.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/ericzakariasson/status/2124275548545536000",
+   "reply_to": {
+    "id": "2124256557840080961",
+    "username": "parker__conrad"
+   },
+   "kind": "reply",
+   "text": "@parker__conrad @bot swim good",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   },
+   "partial": true
+  },
   {
    "id": "2124274186118177086",
    "author_id": "1899375311680372736",
@@ -13134,799 +13932,6 @@
     "text": "Elon Musk and Grimes found each other because they both independently made the same obscure joke about an AI thought experiment called Roko's Basilisk. Neither of them knew the other had made it. When they discovered the coincidence, Elon DM'd her. Their first real conversation lasted four hours.\n\nRoko's Basilisk is a philosophical thought experiment about a future AI that punishes anyone who didn't help create it. It's the kind of idea that maybe a few thousand people on Earth find interesting, let alone funny. Elon had tweeted a joke about it. Grimes had made a music video referencing it. Neither one was aware of the other's version.\n\nWhen someone pointed out the overlap, Elon messaged her. The conversation that followed wasn't flirting. It was two people discovering that their brains worked in the same strange way. AI, simulation theory, the future of consciousness, music as mathematics. Grimes later said she had never met anyone who could follow her thoughts at the speed she was thinking them.\n\nTheir first public appearance together was the 2018 Met Gala. They arrived together and the internet lost its mind because nobody could figure out how the richest man in tech and an experimental musician from Montreal ended up in the same universe.\n\nThe answer was simpler than anyone expected. They were both the kind of person who makes jokes about obscure AI philosophy at 2am and thinks that's normal. They didn't find each other through fame or fortune. They found each other through a thought experiment that maybe a thousand other people on Earth would have understood.\n\nThe rarest kind of connection isn't physical attraction. It's finding someone whose mind works like yours in a world that doesn't understand either of you.",
     "conversation_id": "2122683171825164705"
    }
-  },
-  {
-   "id": "2123020407800508536",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T11:48:03.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123020407800508536",
-   "reply_to": {
-    "id": "2122838718666920313",
-    "username": "fabglitch"
-   },
-   "kind": "reply",
-   "text": "@fabglitch @SmartNotHard1 Maybe she succeeded",
-   "urls": [],
-   "metrics": {
-    "likes": 4158,
-    "reposts": 367,
-    "replies": 464,
-    "quotes": 38
-   },
-   "partial": true
-  },
-  {
-   "id": "2123017891167785201",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T11:38:03.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123017891167785201",
-   "kind": "post",
-   "text": "Is the Thucydides Trap ever avoidable?\n\nI wish it were, but, inevitably, the most interesting outcome is the most likely.",
-   "urls": [],
-   "metrics": {
-    "likes": 24290,
-    "reposts": 2114,
-    "replies": 3360,
-    "quotes": 660
-   },
-   "partial": true
-  },
-  {
-   "id": "2123014381483229289",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T11:24:06.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123014381483229289",
-   "kind": "repost",
-   "text": "I’m sorry but how can you watch this and not be obsessed",
-   "urls": [],
-   "metrics": {
-    "likes": 24228,
-    "reposts": 2148,
-    "replies": 629,
-    "quotes": 104
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2122914711876317184/vid/avc1/720x1280/Y2Ve6Wiyvsm-0792.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122914711876317184/img/yvQFN9wGEGeDepH9.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2122914711876317184/vid/avc1/320x568/AsqmgRl9OXFR8wPk.mp4",
-       "w": 320,
-       "h": 568,
-       "br": 632000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2122914711876317184/vid/avc1/480x852/F9PHVSIni85eTIGs.mp4",
-       "w": 480,
-       "h": 852,
-       "br": 950000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2122914711876317184/vid/avc1/720x1280/Y2Ve6Wiyvsm-0792.mp4",
-       "w": 720,
-       "h": 1280,
-       "br": 2176000
-      }
-     ],
-     "width": 720,
-     "height": 1280,
-     "duration_ms": 55766
-    }
-   ],
-   "ref": {
-    "id": "2122914742100517144",
-    "author_id": "1028515474710114305",
-    "username": "HalcyonHypnotic",
-    "name": "Hypnotic",
-    "created_at": "2026-11-18T04:48:11.000Z",
-    "conversation_id": "2122914742100517144"
-   }
-  },
-  {
-   "id": "2123014010819969170",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T11:22:38.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123014010819969170",
-   "reply_to": {
-    "id": "2120912142878523792",
-    "username": "RockstarGames"
-   },
-   "kind": "reply",
-   "text": "@RockstarGames I hope it’s great",
-   "urls": [],
-   "metrics": {
-    "likes": 1328,
-    "reposts": 325,
-    "replies": 234,
-    "quotes": 15
-   },
-   "partial": true
-  },
-  {
-   "id": "2123013632074424652",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T11:21:08.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123013632074424652",
-   "reply_to": {
-    "id": "2122902697338966308",
-    "username": "yunta_tsai"
-   },
-   "kind": "reply",
-   "text": "@yunta_tsai So true",
-   "urls": [],
-   "metrics": {
-    "likes": 6534,
-    "reposts": 399,
-    "replies": 169,
-    "quotes": 10
-   },
-   "partial": true
-  },
-  {
-   "id": "2123012558542287228",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T11:16:52.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123012558542287228",
-   "reply_to": {
-    "id": "2122567427120869406",
-    "username": "Grimezsz"
-   },
-   "kind": "reply",
-   "text": "@Grimezsz 👎",
-   "urls": [],
-   "metrics": {
-    "likes": 67124,
-    "reposts": 1156,
-    "replies": 1222,
-    "quotes": 67
-   },
-   "partial": true
-  },
-  {
-   "id": "2123011898165903702",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T11:14:14.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123011898165903702",
-   "reply_to": {
-    "id": "2123007672970539440",
-    "username": "grok"
-   },
-   "kind": "reply",
-   "text": "@grok @ChngWernJuan @Grimezsz Yeah",
-   "urls": [],
-   "metrics": {
-    "likes": 669,
-    "reposts": 48,
-    "replies": 84,
-    "quotes": 5
-   },
-   "partial": true
-  },
-  {
-   "id": "2123009820861313518",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T11:05:59.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123009820861313518",
-   "reply_to": {
-    "id": "2122998881776451893",
-    "username": "The_Donsie"
-   },
-   "kind": "reply",
-   "text": "@The_Donsie @XFreeze We waited for what felt like an eternity for that first machine",
-   "urls": [],
-   "metrics": {
-    "likes": 723,
-    "reposts": 291,
-    "replies": 75,
-    "quotes": 7
-   },
-   "partial": true
-  },
-  {
-   "id": "2123009640925663305",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T11:05:16.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123009640925663305",
-   "kind": "quote",
-   "text": "Prufrock is perfectly named https://t.co/45ZPTMxMnf",
-   "urls": [],
-   "metrics": {
-    "likes": 4319,
-    "reposts": 642,
-    "replies": 659,
-    "quotes": 59
-   },
-   "partial": true,
-   "ref": {
-    "id": "2122997935486996569",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-18T10:18:45.000Z",
-    "text": "Elon Musk just shared the literary inspiration behind The Boring Company's massive tunnel-boring machines\n\nEach machine is named after a classic work of literature:\n\n• Godot - Waiting for Godot by Samuel Beckett\n• Line-Storm - A Line-Storm Song by Robert Frost\n• Prufrock - The Love Song of J. Alfred Prufrock by T. S. Eliot\n\nMassive machines designed to dig tunnels beneath cities, with names inspired by some of the greatest works of poetry and theater\n\nA little literature behind some seriously impressive engineering",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HXZnXfTaYAAQOy6.jpg",
-      "width": 1472,
-      "height": 1454
-     }
-    ],
-    "quote": {
-     "id": "2122987306923733063",
-     "author_id": "44196397",
-     "username": "elonmusk",
-     "name": "Elon Musk",
-     "created_at": "2026-11-18T09:36:31.000Z",
-     "text": "The machines of @boringcompany were named after:\n\nWaiting for Godot\nA Line-storm Song\nThe Love Song of J. Alfred Prufrock",
-     "conversation_id": "2122987306923733063"
-    },
-    "conversation_id": "2122997935486996569"
-   }
-  },
-  {
-   "id": "2123007327049769189",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T10:56:04.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123007327049769189",
-   "kind": "repost",
-   "text": "5 years ago a SpaceX worker gave Elon a hug and told him \"We gonna make it\"\n\nAnd made it, we did! Starship came home & Elon gave it a hug. Life comes full circle",
-   "urls": [],
-   "metrics": {
-    "likes": 5821,
-    "reposts": 421,
-    "replies": 151,
-    "quotes": 19
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2122951790710673408/vid/avc1/1032x590/rrn6IiFdj_mldzr6.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2122951790710673408/img/pPrubsC1eOlGRaKh.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2122951790710673408/vid/avc1/472x270/kkNXL_J8kmRpXsUt.mp4",
-       "w": 472,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2122951790710673408/vid/avc1/628x360/1oalDxe9Cp9Yb1JN.mp4",
-       "w": 628,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2122951790710673408/vid/avc1/1032x590/rrn6IiFdj_mldzr6.mp4",
-       "w": 1032,
-       "h": 590,
-       "br": 2176000
-      }
-     ],
-     "width": 1032,
-     "height": 590,
-     "duration_ms": 7532
-    }
-   ],
-   "ref": {
-    "id": "2122951806548340804",
-    "author_id": "1232787923445178369",
-    "username": "OPteemyst",
-    "name": "Oukham",
-    "created_at": "2026-11-18T07:15:27.000Z",
-    "quote": {
-     "id": "2122936119448764559",
-     "author_id": "44196397",
-     "username": "elonmusk",
-     "name": "Elon Musk",
-     "created_at": "2026-11-18T06:13:07.000Z",
-     "text": "🤗",
-     "media": [
-      {
-       "type": "photo",
-       "url": "https://pbs.twimg.com/media/HXYvJKcXoAAwlbD.jpg",
-       "width": 2048,
-       "height": 1152
-      }
-     ],
-     "conversation_id": "2122936119448764559"
-    },
-    "conversation_id": "2122951806548340804"
-   }
-  },
-  {
-   "id": "2123007193918398527",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T10:55:33.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123007193918398527",
-   "kind": "quote",
-   "text": "It only gets better from here https://t.co/teplwYZH9B",
-   "urls": [],
-   "metrics": {
-    "likes": 19875,
-    "reposts": 2963,
-    "replies": 2212,
-    "quotes": 464
-   },
-   "partial": true,
-   "ref": {
-    "id": "2122159837614330267",
-    "author_id": "893134581234147328",
-    "username": "summer__heidi",
-    "name": "ᴉpᴉǝH 🐐💕",
-    "created_at": "2026-11-16T02:48:27.000Z",
-    "text": "Deception needs a motive, and a motive needs a soul",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/1280x720/IVtyBMfUA9-3wE-f.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122159744207224832/img/n08rNOVEuVyNGTlF.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/480x270/Q1TTc7k0ZRUjNzqy.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/640x360/mz_t0u2Vfexnxrl-.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/1280x720/IVtyBMfUA9-3wE-f.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       }
-      ],
-      "width": 1280,
-      "height": 720,
-      "duration_ms": 269880
-     }
-    ],
-    "conversation_id": "2122159837614330267"
-   }
-  },
-  {
-   "id": "2123004763298201938",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T10:45:53.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123004763298201938",
-   "reply_to": {
-    "id": "2122927110784446775",
-    "username": "Chesschick01"
-   },
-   "kind": "reply",
-   "text": "@Chesschick01 Yeah",
-   "urls": [],
-   "metrics": {
-    "likes": 4041,
-    "reposts": 472,
-    "replies": 117,
-    "quotes": 7
-   },
-   "partial": true
-  },
-  {
-   "id": "2123004678363644194",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T10:45:33.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123004678363644194",
-   "reply_to": {
-    "id": "2122864038128586836",
-    "username": "JohnCleese"
-   },
-   "kind": "reply",
-   "text": "@JohnCleese Still going strong!",
-   "urls": [],
-   "metrics": {
-    "likes": 9394,
-    "reposts": 410,
-    "replies": 182,
-    "quotes": 13
-   },
-   "partial": true
-  },
-  {
-   "id": "2123002060266406094",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T10:35:09.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123002060266406094",
-   "reply_to": {
-    "id": "2122978562865291634",
-    "username": "Grimezsz"
-   },
-   "kind": "reply",
-   "text": "@Grimezsz @reneromero08 I don’t want to be king and Starship has the Mandate of Heaven",
-   "urls": [],
-   "metrics": {
-    "likes": 4540,
-    "reposts": 295,
-    "replies": 496,
-    "quotes": 120
-   },
-   "partial": true
-  },
-  {
-   "id": "2123001667696439431",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T10:33:35.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123001667696439431",
-   "reply_to": {
-    "id": "2123001608296624595",
-    "username": "elonmusk"
-   },
-   "kind": "reply",
-   "text": "@Grimezsz Such a jolly song!",
-   "urls": [],
-   "metrics": {
-    "likes": 1401,
-    "reposts": 87,
-    "replies": 190,
-    "quotes": 15
-   },
-   "partial": true
-  },
-  {
-   "id": "2123001608296624595",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T10:33:21.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123001608296624595",
-   "reply_to": {
-    "id": "2122965023047962823",
-    "username": "Grimezsz"
-   },
-   "kind": "quote",
-   "text": "@Grimezsz Take the White Pill https://t.co/s0HNY9wPhk",
-   "urls": [],
-   "metrics": {
-    "likes": 2536,
-    "reposts": 318,
-    "replies": 218,
-    "quotes": 81
-   },
-   "partial": true,
-   "ref": {
-    "id": "2122598664187023768",
-    "author_id": "2110539861169954816",
-    "username": "SXSIcom",
-    "name": "SXSI.com",
-    "created_at": "2026-11-17T07:52:12.000Z",
-    "text": "universal high income, but make it claudia. best case scenario never looked this good\n\n\"WHITEPILL\" by @anabology\n\nhttps://sxsi.com/s/universal-high-income/",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2122598141086126080/vid/avc1/1280x720/GFqGGhytm6unOvYy.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122598141086126080/img/9pM9fPdEI-MZ_CJg.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2122598141086126080/vid/avc1/480x270/0PzKTQkzg80d9Z8t.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2122598141086126080/vid/avc1/640x360/kfHkelQQYw-TVN6L.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2122598141086126080/vid/avc1/1280x720/GFqGGhytm6unOvYy.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       }
-      ],
-      "width": 1280,
-      "height": 720,
-      "duration_ms": 234791
-     }
-    ],
-    "conversation_id": "2122598664187023768"
-   }
-  },
-  {
-   "id": "2122995454560587952",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T10:08:54.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2122995454560587952",
-   "kind": "quote",
-   "text": "Prufrock https://t.co/w3bOmNSIHd",
-   "urls": [],
-   "metrics": {
-    "likes": 11872,
-    "reposts": 1312,
-    "replies": 857,
-    "quotes": 76
-   },
-   "partial": true,
-   "ref": {
-    "id": "2122924757461160119",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-18T05:27:58.000Z",
-    "text": "The Boring Company is rapidly scaling up its Music City Loop project in Nashville\n\nPrufrock-MB3 has officially arrived, becoming the THIRD tunnel-boring machine for the network\n\nAnd Prufrock-MB4 is expected to arrive within the next 8 weeks\n\nTBC is now hiring across:\n\n• Engineering\n• Operations\n• Welding\n• Maintenance\n• Electrical\n• Facilities\n• Safety\n• Security\n\nHiring event: Tuesday, November 24\n\nWith more tunneling machines arriving and the team expanding, Music City Loop is picking up serious momentum\n\nApply here: https://boringcompany.com/applynashville",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HXYkjNUasAAAQJ5.jpg",
-      "width": 2500,
-      "height": 1875
-     }
-    ],
-    "conversation_id": "2122924757461160119"
-   }
-  },
-  {
-   "id": "2122995304857538560",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T10:08:18.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2122995304857538560",
-   "kind": "repost",
-   "text": "While critics focus on turnover, look at the senior leaders who have chosen to stay with Elon Musk for decades:\n\n• Gwynne Shotwell — SpaceX President & COO, 24 years (joined 2002)\n\n• Brian Bjelde — SpaceX SVP HR & Operations, 23 years (employee #14, joined 2003)\n\n• Jon Edwards — SpaceX SVP Falcon & Dragon, 22 years (joined 2004)\n\n• Mark Juncosa — SpaceX VP Vehicle Engineering, 21 years\n\n• Tim Hughes — SpaceX SVP Global Business & Government Affairs, 21 years\n\n• Franz von Holzhausen — Tesla Chief Designer, 18 years (since 2008)\n\n• Lars Moravy — Tesla VP Vehicle Engineering, 16 years (since 2010)\n\n• Kiko Dontchev — SpaceX VP of Launch, 16 years (joined 2010)\n\n• Bret Johnsen — SpaceX CFO, 15 years (since 2011)\n\n• Tom Zhu — Tesla SVP Automotive, 12 years (since 2014)\n\n• Ashok Elluswamy — Tesla VP of AI Software, 12 years (first Autopilot engineer, 2014)\n\n• Charles Kuehmann — VP Materials Engineering at both Tesla & SpaceX, 11 years (since 2015)\n\nThese are not short-term hires. They are the most experienced people in their companies who have stayed through near-bankruptcies, intense pressure, and constant outside criticism.\n\nThe longer the tenure, the clearer the pattern: top talent keeps choosing to work with Elon Musk.",
-   "urls": [],
-   "metrics": {
-    "likes": 2141,
-    "reposts": 222,
-    "replies": 74,
-    "quotes": 11
-   },
-   "partial": true,
-   "ref": {
-    "id": "2122710679022965024",
-    "author_id": "1265526183137067010",
-    "username": "TheCaptainEli",
-    "name": "Captain Eli",
-    "created_at": "2026-11-17T15:17:18.000Z",
-    "conversation_id": "2122710679022965024"
-   }
-  },
-  {
-   "id": "2122991638582816914",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T09:53:44.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2122991638582816914",
-   "reply_to": {
-    "id": "2122778208949190814",
-    "username": "shaunmmaguire"
-   },
-   "kind": "reply",
-   "text": "@shaunmmaguire About a megaton per year to orbit is needed to build self-sustaining cities on the Moon and Mars",
-   "urls": [],
-   "metrics": {
-    "likes": 4955,
-    "reposts": 476,
-    "replies": 358,
-    "quotes": 33
-   },
-   "partial": true
-  },
-  {
-   "id": "2122990532410716160",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T09:49:20.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2122990532410716160",
-   "kind": "repost",
-   "text": "Hearing the @united CEO Scott Kirby on @CheekyPint telling @collision that the primary constraint on commercial aviation in the US is ATC slots drives me crazy. There are at most about 5000 flights occurring at any one time over the entire US. There are about 30 usable flight levels in alpha airspace, and you can deconflict 100x more flights than this with a single toothbrush CPU (http://FAA.caseyhandmer.com).\n\nIn terms of physical space, there's enough room to fly every man woman and child in the US simultaneously. Look up. Does the sky seem crowded?\n\nThere were plans to automate ATC using the first Iridium constellation more than 30 years ago.\n\nAt some point we have to have a serious conversation about rent takings by obsolete incumbents that are blocking entire percentage points of economic growth.",
-   "urls": [
-    "http://FAA.caseyhandmer.com"
-   ],
-   "metrics": {
-    "likes": 3083,
-    "reposts": 297,
-    "replies": 97,
-    "quotes": 18
-   },
-   "partial": true,
-   "ref": {
-    "id": "2122937091218981083",
-    "author_id": "613926689",
-    "username": "CJHandmer",
-    "name": "Casey Handmer",
-    "created_at": "2026-11-18T06:16:59.000Z",
-    "quote": {
-     "id": "2122924448861008163",
-     "author_id": "44196397",
-     "username": "elonmusk",
-     "name": "Elon Musk",
-     "created_at": "2026-11-18T05:26:45.000Z",
-     "text": "I wrote this 18 months ago https://twitter.com/elonmusk/status/1895129237478162621",
-     "conversation_id": "2122924448861008163"
-    },
-    "conversation_id": "2122937091218981083"
-   }
-  },
-  {
-   "id": "2122990415863579112",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T09:48:53.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2122990415863579112",
-   "reply_to": {
-    "id": "2122624542237479420",
-    "username": "IterIntellectus"
-   },
-   "kind": "reply",
-   "text": "@IterIntellectus His music video with the rocket is kinda cool",
-   "urls": [],
-   "metrics": {
-    "likes": 5392,
-    "reposts": 336,
-    "replies": 273,
-    "quotes": 28
-   },
-   "partial": true
-  },
-  {
-   "id": "2122987306923733063",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T09:36:31.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2122987306923733063",
-   "kind": "post",
-   "text": "The machines of @boringcompany were named after:\n\nWaiting for Godot\nA Line-storm Song\nThe Love Song of J. Alfred Prufrock",
-   "urls": [],
-   "metrics": {
-    "likes": 9506,
-    "reposts": 839,
-    "replies": 996,
-    "quotes": 138
-   },
-   "partial": true
-  },
-  {
-   "id": "2122981065921044489",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-18T09:11:43.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2122981065921044489",
-   "kind": "repost",
-   "text": "🤗",
-   "urls": [],
-   "metrics": {
-    "likes": 131848,
-    "reposts": 8406,
-    "replies": 6193,
-    "quotes": 1054
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXYvJKcXoAAwlbD.jpg",
-     "width": 2048,
-     "height": 1152
-    }
-   ],
-   "ref": {
-    "id": "2122936119448764559",
-    "author_id": "44196397",
-    "username": "elonmusk",
-    "name": "Elon Musk",
-    "created_at": "2026-11-18T06:13:07.000Z",
-    "conversation_id": "2122936119448764559"
-   }
-  },
-  {
-   "id": "2122940097683177721",
-   "author_id": "34743251",
-   "username": "SpaceX",
-   "name": "SpaceX",
-   "created_at": "2026-11-18T06:28:56.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/SpaceX/status/2122940097683177721",
-   "reply_to": {
-    "id": "2122793780810264837",
-    "username": "SpaceX"
-   },
-   "kind": "reply",
-   "text": "@Space_Station @NASA Due to unfavorable weather conditions at the splashdown locations, now targeting no earlier than Thursday, November 19 for Dragon to undock the @space_station. Teams will continue to keep an eye on weather",
-   "urls": [],
-   "metrics": {
-    "likes": 1530,
-    "reposts": 88,
-    "replies": 30,
-    "quotes": 13
-   },
-   "partial": true
   }
  ]
 }

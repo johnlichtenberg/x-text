@@ -1,8 +1,707 @@
 {
- "updated_at": "2026-11-24T14:20:50Z",
- "count": 2448,
+ "updated_at": "2026-11-25T04:36:30Z",
+ "count": 2472,
  "accounts": 14,
  "posts": [
+  {
+   "id": "2125428724766269672",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-25T03:17:51.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125428724766269672",
+   "reply_to": {
+    "id": "2125272288635376004",
+    "username": "Jason"
+   },
+   "kind": "reply",
+   "text": "@Jason We’re working on it",
+   "urls": [],
+   "metrics": {
+    "likes": 3510,
+    "reposts": 117,
+    "replies": 281,
+    "quotes": 35
+   },
+   "partial": true
+  },
+  {
+   "id": "2125422535932272988",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-25T02:53:15.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125422535932272988",
+   "kind": "repost",
+   "text": "BREAKING: Argentina’s Salta government announces 226 Starlink antennas to connect remote communities. 🇦🇷\n\nThe planned rollout, coordinated with national authorities and the provincial education ministry, will help children get online and expand their educational opportunities. https://t.co/bEk4pWc4VA",
+   "urls": [],
+   "metrics": {
+    "likes": 1797,
+    "reposts": 278,
+    "replies": 142,
+    "quotes": 18
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125413614169522335",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-25T02:17:48.000Z"
+   }
+  },
+  {
+   "id": "2125412528612311121",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-25T02:13:29.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125412528612311121",
+   "kind": "repost",
+   "text": "Visiting family in Slovenia, so naturally I onboarded my brother-in-law's company to @bot.\n\nOne hour in, it's watching competitor prices, editing products and stock in their Magento store, doing SEO, and finding public tenders, so they can cancel the paid tool that does only",
+   "urls": [],
+   "metrics": {
+    "likes": 1185,
+    "reposts": 98,
+    "replies": 83,
+    "quotes": 12
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125269463562076646",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-24T16:45:00.000Z"
+   }
+  },
+  {
+   "id": "2125411174993010839",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-25T02:08:07.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125411174993010839",
+   "kind": "quote",
+   "text": "Interesting https://t.co/XRd4shsO4N",
+   "urls": [],
+   "metrics": {
+    "likes": 14601,
+    "reposts": 1989,
+    "replies": 704,
+    "quotes": 74
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125408304444674380",
+    "author_id": "1455993364529262601",
+    "username": "as400495",
+    "name": "Edward Coristine",
+    "created_at": "2026-11-25T01:56:42.000Z",
+    "text": "Now on https://t.co/6gJOBD71q1, you can read internal memos and communications showing how the agency actually operated behind the scenes\n\nhttps://t.co/00IvZvG4dD"
+   }
+  },
+  {
+   "id": "2125410983544017343",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-25T02:07:21.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125410983544017343",
+   "kind": "repost",
+   "text": "Falcon 9 launches USSF-266 to orbit from pad 4E in California https://t.co/Nhh8x9ndfO",
+   "urls": [],
+   "metrics": {
+    "likes": 5890,
+    "reposts": 622,
+    "replies": 253,
+    "quotes": 61
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX67SAcWYAACwJm.jpg",
+     "width": 2067,
+     "height": 3100
+    }
+   ],
+   "ref": {
+    "id": "2125342179216261600",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-24T21:33:57.000Z"
+   }
+  },
+  {
+   "id": "2125410949872115771",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-25T02:07:13.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125410949872115771",
+   "kind": "repost",
+   "text": "Geordie and Jess Flanagan run two home businesses on Salt Spring Island, B.C. Starlink keeps them connected at home and on remote job sites where other services drop out → https://t.co/nsnRUHLYiX https://t.co/fNprjYGgJA",
+   "urls": [],
+   "metrics": {
+    "likes": 966,
+    "reposts": 126,
+    "replies": 82,
+    "quotes": 12
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125337322468295036",
+    "author_id": "1330170106501079041",
+    "username": "Starlink",
+    "name": "Starlink",
+    "created_at": "2026-11-24T21:14:39.000Z"
+   }
+  },
+  {
+   "id": "2125383859592479201",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-25T00:19:34.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125383859592479201",
+   "kind": "quote",
+   "text": "Starlink is now approved in 30 of 54 countries in Africa! https://t.co/nTJTFLUD53",
+   "urls": [],
+   "metrics": {
+    "likes": 8508,
+    "reposts": 1014,
+    "replies": 1132,
+    "quotes": 148
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125303227256320111",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-24T18:59:10.000Z",
+    "text": "Starlink is rapidly expanding across Africa, and it has already reached more than half the continent\n\nWhat started in Nigeria in 2023 has now grown into a satellite internet network spanning West, East, Central and Southern Africa\n\nThe scale today:\n\n• 30 of Africa's 54 countries https://t.co/vQ20gHNn8X"
+   }
+  },
+  {
+   "id": "2125383610266157090",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-25T00:18:35.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125383610266157090",
+   "kind": "quote",
+   "text": "Don’t mess with 𝕏 https://t.co/FNYSyWB7iv",
+   "urls": [],
+   "metrics": {
+    "likes": 12058,
+    "reposts": 1424,
+    "replies": 956,
+    "quotes": 206
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125292603331502105",
+    "author_id": "1944046369980727296",
+    "username": "BurnhamDC",
+    "name": "James Burnham",
+    "created_at": "2026-11-24T18:16:57.000Z",
+    "text": "In September, @X sued people who abused Creator Revenue Sharing by operating a network of accounts to manipulate engagement.  The UK High Court has now entered a judgment against two of them.\n\nWe aren't kidding around.   Fraudsters worldwide: Do not mess with @X. https://t.co/P3MYzeGAui https://t.co/WRGlQcDERf",
+    "quote": {
+     "id": "2101818319091224740",
+     "unavailable": true
+    }
+   }
+  },
+  {
+   "id": "2125381945672761599",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-25T00:11:58.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125381945672761599",
+   "kind": "quote",
+   "text": "The news is accurate https://t.co/FLI7HDhXCf",
+   "urls": [],
+   "metrics": {
+    "likes": 29210,
+    "reposts": 2684,
+    "replies": 2608,
+    "quotes": 247
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125274077090943157",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-24T17:03:20.000Z",
+    "text": "BREAKING: Austin’s city government confirms a $500,000 donation from Elon Musk’s foundation to help homeless young adults find homes.\n\n• The donation unlocks another $500,000 from the city, bringing the total to $1 MILLION.\n• It will help up to 100 young adults leaving foster https://t.co/32fPiwiu7y"
+   }
+  },
+  {
+   "id": "2125363942977597554",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T23:00:26.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125363942977597554",
+   "kind": "quote",
+   "text": "Starlink https://t.co/wMW5Hy970K",
+   "urls": [],
+   "metrics": {
+    "likes": 24118,
+    "reposts": 2374,
+    "replies": 1214,
+    "quotes": 118
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125314062997467640",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-24T19:42:13.000Z",
+    "text": "SpaceX has agreed to forgo $738 million in U.S. federal broadband subsidies and instead provide free @Starlink hardware to eligible American households.\n\nNTIA: \"To ensure that no consumer at a Covered BSL is left behind, the provider (SpaceX) will serve the covered BSLs as this https://t.co/kmLoInngLc"
+   }
+  },
+  {
+   "id": "2125363875189252425",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T23:00:09.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125363875189252425",
+   "kind": "repost",
+   "text": "SpaceX has agreed to forgo $738 million in U.S. federal broadband subsidies and instead provide free @Starlink hardware to eligible American households.\n\nNTIA: \"To ensure that no consumer at a Covered BSL is left behind, the provider (SpaceX) will serve the covered BSLs as this https://t.co/kmLoInngLc",
+   "urls": [],
+   "metrics": {
+    "likes": 9224,
+    "reposts": 1116,
+    "replies": 474,
+    "quotes": 190
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125314062997467640",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-24T19:42:13.000Z"
+   }
+  },
+  {
+   "id": "2125274211803619779",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T17:03:52.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125274211803619779",
+   "reply_to": {
+    "id": "2125273618615767214",
+    "username": "wholemars"
+   },
+   "kind": "reply",
+   "text": "@wholemars lol",
+   "urls": [],
+   "metrics": {
+    "likes": 5189,
+    "reposts": 135,
+    "replies": 395,
+    "quotes": 18
+   },
+   "partial": true
+  },
+  {
+   "id": "2125268089361035505",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T16:39:32.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125268089361035505",
+   "reply_to": {
+    "id": "2124956108687298792"
+   },
+   "kind": "reply",
+   "text": "@notch @AnthropicAI 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 8109,
+    "reposts": 81,
+    "replies": 137,
+    "quotes": 9
+   },
+   "partial": true
+  },
+  {
+   "id": "2125267533607453040",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T16:37:20.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125267533607453040",
+   "reply_to": {
+    "id": "2124954458119631160"
+   },
+   "kind": "reply",
+   "text": "@adonis_singh Honorable discharge 🫡",
+   "urls": [],
+   "metrics": {
+    "likes": 9900,
+    "reposts": 179,
+    "replies": 252,
+    "quotes": 22
+   },
+   "partial": true
+  },
+  {
+   "id": "2125266920874328356",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T16:34:54.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125266920874328356",
+   "reply_to": {
+    "id": "2125232240116605150"
+   },
+   "kind": "reply",
+   "text": "@davepl1968 Another way to say it is semantic compression together with correlating an input bitstream to an output bitstream, for example: given this bitstream of video & vehicle data, output these driving commands",
+   "urls": [],
+   "metrics": {
+    "likes": 2469,
+    "reposts": 168,
+    "replies": 258,
+    "quotes": 29
+   },
+   "partial": true
+  },
+  {
+   "id": "2125263096432255145",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T16:19:42.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125263096432255145",
+   "kind": "repost",
+   "text": "just added my work experience\ni love my very professional job https://t.co/AEOHoIde4s https://t.co/czR5E2Im7C",
+   "urls": [],
+   "metrics": {
+    "likes": 1488,
+    "reposts": 118,
+    "replies": 125,
+    "quotes": 32
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX5N24DXEAAvKla.jpg",
+     "width": 1188,
+     "height": 1042
+    }
+   ],
+   "ref": {
+    "id": "2125246814580592758",
+    "author_id": "1655936149733654530",
+    "username": "IterIntellectus",
+    "name": "vittorio",
+    "created_at": "2026-11-24T15:15:00.000Z",
+    "quote": {
+     "id": "2125049706644705283",
+     "unavailable": true
+    }
+   }
+  },
+  {
+   "id": "2125262891792154664",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T16:18:53.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125262891792154664",
+   "reply_to": {
+    "id": "2125262199711318122",
+    "username": "yunta_tsai"
+   },
+   "kind": "reply",
+   "text": "@yunta_tsai True",
+   "urls": [],
+   "metrics": {
+    "likes": 3183,
+    "reposts": 132,
+    "replies": 310,
+    "quotes": 14
+   },
+   "partial": true
+  },
+  {
+   "id": "2125262848159006858",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T16:18:43.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125262848159006858",
+   "kind": "repost",
+   "text": "Watch Falcon 9 launch the USSF-266 mission from pad 4E in California https://t.co/4fplvapUs8",
+   "urls": [],
+   "metrics": {
+    "likes": 11244,
+    "reposts": 1533,
+    "replies": 587,
+    "quotes": 136
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125257116449648858",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-24T15:55:56.000Z"
+   }
+  },
+  {
+   "id": "2125261800748769296",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T16:14:33.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125261800748769296",
+   "kind": "repost",
+   "text": "Liftoff! https://t.co/9wGDVxiG4O",
+   "urls": [],
+   "metrics": {
+    "likes": 7420,
+    "reposts": 817,
+    "replies": 317,
+    "quotes": 59
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2125260578801287174/vid/avc1/3840x2160/uv9KiDut3uhnlxOm.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2125260578801287174/img/vZ8V5ya_NxaFsv42.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2125260578801287174/vid/avc1/480x270/R8kYSjdQEio4sQar.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125260578801287174/vid/avc1/640x360/C6BhaIdvdV3HrxPr.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125260578801287174/vid/avc1/1280x720/tmKI4dVvCGaxPw5a.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125260578801287174/vid/avc1/1920x1080/XZ2FhL5RBgDA7hB2.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125260578801287174/vid/avc1/3840x2160/uv9KiDut3uhnlxOm.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 31200
+    }
+   ],
+   "ref": {
+    "id": "2125260653560562086",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-24T16:09:59.000Z"
+   }
+  },
+  {
+   "id": "2125259800636195028",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T16:06:36.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125259800636195028",
+   "kind": "repost",
+   "text": "Andrej Karpathy on Elon Musk: \"Elon is a very efficient warrior in the fight against entropy in organizations.\" https://t.co/NvsItJzNwe",
+   "urls": [],
+   "metrics": {
+    "likes": 1989,
+    "reposts": 189,
+    "replies": 96,
+    "quotes": 13
+   },
+   "partial": true,
+   "ref": {
+    "id": "2124928801553428777",
+    "author_id": "1016059981907386368",
+    "username": "teslaownersSV",
+    "name": "Tesla Owners Silicon Valley",
+    "created_at": "2026-11-23T18:11:20.000Z"
+   }
+  },
+  {
+   "id": "2125253316917739534",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T15:40:50.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125253316917739534",
+   "kind": "repost",
+   "text": "You can literally turn your X bookmarks into instructions for Grok Bot.\n\nIt finds the guides, prompts and tools you've saved.\n\nThen follows the tutorials and tests the ideas for you.\n\nFull guide with every prompt to build your own 👇 https://t.co/SjO8T5Q30G",
+   "urls": [],
+   "metrics": {
+    "likes": 1347,
+    "reposts": 176,
+    "replies": 155,
+    "quotes": 23
+   },
+   "partial": true,
+   "article_title": "Make Grok Bot Do What You Saved for Later",
+   "ref": {
+    "id": "2125248925334454647",
+    "author_id": "1355965591702614018",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-24T15:23:23.000Z"
+   }
+  },
+  {
+   "id": "2125253039984456092",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T15:39:44.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125253039984456092",
+   "reply_to": {
+    "id": "2125178842692391314"
+   },
+   "kind": "reply",
+   "text": "@jayendra_ram Training data",
+   "urls": [],
+   "metrics": {
+    "likes": 2664,
+    "reposts": 147,
+    "replies": 273,
+    "quotes": 42
+   },
+   "partial": true
+  },
+  {
+   "id": "2125249624168702459",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T15:26:10.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125249624168702459",
+   "kind": "repost",
+   "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-266 mission from California → https://t.co/qMTrgf8mHf https://t.co/VhkDom1UBk",
+   "urls": [],
+   "metrics": {
+    "likes": 4773,
+    "reposts": 529,
+    "replies": 272,
+    "quotes": 43
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125247855409692869",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-24T15:19:08.000Z"
+   }
+  },
+  {
+   "id": "2125249356110647800",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-24T15:25:06.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125249356110647800",
+   "kind": "repost",
+   "text": "This is f*cking insane. OpenAI co-founder Ilya Sutskever, who left to build his own superintelligence lab, described the long-term future with AI, and admitted he doesn't like it:\n\n\"So maybe every person will have an AI that will do their bidding. And that's good\"\n\n\"Then the AI https://t.co/41qZvpqQ2a https://t.co/XtsCTDtAAP",
+   "urls": [],
+   "metrics": {
+    "likes": 1224,
+    "reposts": 185,
+    "replies": 141,
+    "quotes": 26
+   },
+   "partial": true,
+   "ref": {
+    "id": "2124556013399335271",
+    "author_id": "1769169931164114944",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-22T17:30:00.000Z",
+    "quote": {
+     "id": "2121668636360179824",
+     "unavailable": true
+    }
+   }
+  },
   {
    "id": "2125184082996867421",
    "author_id": "44196397",
@@ -89702,8 +90401,9 @@
   }
  ],
  "last_run": {
-  "status": "new",
-  "at": "2026-11-24T14:21:17Z",
-  "new_posts": 34
+  "status": "running",
+  "at": "2026-11-25T04:36:31Z",
+  "new_posts": 24,
+  "handle": "elonmusk"
  }
 }

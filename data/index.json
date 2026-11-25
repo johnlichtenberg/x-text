@@ -1,53 +1,54 @@
 {
- "updated_at": "2026-11-24T14:20:50Z",
- "post_count": 2448,
+ "updated_at": "2026-11-25T04:36:30Z",
+ "post_count": 2472,
  "accounts": 14,
  "last_run": {
-  "status": "new",
-  "at": "2026-11-24T14:21:17Z",
-  "new_posts": 34
+  "status": "running",
+  "at": "2026-11-25T04:36:31Z",
+  "new_posts": 24,
+  "handle": "elonmusk"
  },
  "shards": [
   {
    "id": "2026-11-p1",
    "file": "shards/2026-11-p1.json",
    "count": 400,
-   "newest_id": "2125184082996867421",
-   "oldest_id": "2124275548545536000"
+   "newest_id": "2125428724766269672",
+   "oldest_id": "2124312077623767081"
   },
   {
    "id": "2026-11-p2",
    "file": "shards/2026-11-p2.json",
    "count": 400,
-   "newest_id": "2124274186118177086",
-   "oldest_id": "2122940097683177721"
+   "newest_id": "2124312067176005737",
+   "oldest_id": "2123020499680981231"
   },
   {
    "id": "2026-11-p3",
    "file": "shards/2026-11-p3.json",
    "count": 400,
-   "newest_id": "2122936375762936124",
-   "oldest_id": "2121629656868614213"
+   "newest_id": "2123020407800508536",
+   "oldest_id": "2121666488214204441"
   },
   {
    "id": "2026-11-p4",
    "file": "shards/2026-11-p4.json",
    "count": 400,
-   "newest_id": "2121628463643652153",
-   "oldest_id": "2120331158395462031"
+   "newest_id": "2121665624820879494",
+   "oldest_id": "2120380983417700769"
   },
   {
    "id": "2026-11-p5",
    "file": "shards/2026-11-p5.json",
    "count": 400,
-   "newest_id": "2120331132705317093",
-   "oldest_id": "2118850394977968209"
+   "newest_id": "2120380944129610028",
+   "oldest_id": "2118880932014997910"
   },
   {
    "id": "2026-11-p6",
    "file": "shards/2026-11-p6.json",
-   "count": 346,
-   "newest_id": "2118850366754402621",
+   "count": 370,
+   "newest_id": "2118876612544561449",
    "oldest_id": "2116685766273413157"
   },
   {
@@ -95,5 +96,5 @@
    "oldest_id": "1731918127355556334"
   }
  ],
- "version": "738a6ae07fd570dad5406370f6b5f5d5e33175becc69813b4697d16b3f15fa9d"
+ "version": "f6c9b58c1b7a6a860d8bb54426aa54072e3b037017c34c6350031ccc9d987fd2"
 }

@@ -10,6 +10,10 @@
   var sess = { text: null, bound: false };  // text of the last loaded data/posts.json (for refresh polling)
   var $ = function (id) { return document.getElementById(id); };
   var PAGE = 50;
+  // Page opened when the address has no #… part (e.g. https://johnlichtenberg.github.io/x-text/).
+  // "" opens the all-accounts Following view instead. "#/" (the title and the Following tab) is always that view.
+  var DEFAULT_PAGE = "#/u/elonmusk";
+  function defaultHash(hash, def) { return (!hash || hash === "#") && def ? def : String(hash || ""); }
 
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
@@ -1437,6 +1441,10 @@
 
   // ------------------------------------------------------------------ start
   function boot() {
+    var start = defaultHash(location.hash, DEFAULT_PAGE);
+    if (start !== location.hash && start !== "") {
+      try { history.replaceState(null, "", location.pathname + location.search + start); } catch (e) { location.hash = start; }
+    }
     state.feedView = readView(safeStorage());
     bindView();
     $("refreshBtn").addEventListener("click", sendRefresh);
@@ -1493,7 +1501,7 @@
       indexStamp: indexStamp, pickIndex: pickIndex, keepNewer: keepNewer, statusClass: statusClass,
       pollExpired: pollExpired, refreshTimeoutStatus: refreshTimeoutStatus, parentTimeoutNote: parentTimeoutNote,
       threadTimeoutNote: threadTimeoutNote, threadClick: P.threadClick, isView: isView,
-      refreshBody: refreshBody, pollStep: pollStep, runMessage: runMessage,
+      refreshBody: refreshBody, pollStep: pollStep, defaultHash: defaultHash, DEFAULT_PAGE: DEFAULT_PAGE, runMessage: runMessage,
       pickVideoURL: pickVideoURL, mediaEl: mediaEl, applyView: applyView, readView: readView, writeView: writeView,
       postsViewEmpty: postsViewEmpty, VIEW_KEY: VIEW_KEY, POSTS_EMPTY: POSTS_EMPTY };
   } else boot();

@@ -19,6 +19,12 @@ so an older cached copy of the page keeps working. `data/following.json`, `data/
 following list. `data/gate.json` is the compact id list the relay uses to check a Show parent click. Fetch
 settings, tool arguments, raw outputs and state never leave the private folder.
 
+## Opening page
+With no `#…` in the address the page opens on @elonmusk (`#/u/elonmusk`), so a Refresh tap there asks for
+@elonmusk only. Every other link (`#/u/…`, `#/search?…`, `#/saved/…`) opens as before, and the title and the
+Following tab (`#/`) open the all-accounts view. To change or remove the default, edit `DEFAULT_PAGE` near the
+top of `app.js` (`""` opens the Following view again).
+
 ## Refresh button
 Sends `POST {"action":"refresh","source":"x-text"}` (Content-Type `application/json`, no key, no
 Authorization header) to `refresh_url` in `data/site.json`: a small Cloudflare Worker relay that holds the
@@ -31,7 +37,9 @@ check is still in flight. Show parent uses the same one-second cadence for `data
 only (no schedule); a refresh less than 10 minutes after the previous one is skipped. The relay only wakes
 Grok Bot: if Grok Bot isn't running or the routine is paused, nothing refreshes and the site keeps showing
 the last published data. A refresh also fetches immediate parents of new replies that are not already
-saved (at most two batches of 100 ids, continuing on the next manual refresh if more remain). Show parent
+saved (at most two batches of 100 ids, continuing on the next manual refresh if more remain). On an account
+page the refresh fetches only that account (its new posts, plus parents and quoted originals of those posts);
+from the Following view it fetches one page of the combined feed (and the following list at most once a day). Show parent
 is still the fallback for older replies. A separate `/parent` route on the same relay (its
 own webhook secret, not the refresh key) wakes a parent lookup only after Show parent, and only for a
 reply→parent pair that is already in the saved archive. The relay's parent gate is one SQLite Durable

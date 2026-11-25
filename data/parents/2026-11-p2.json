@@ -1,7 +1,879 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-24T14:21:11Z",
+ "updated_at": "2026-11-25T04:38:01Z",
  "posts": [
+  {
+   "id": "2123472313932714038",
+   "username": "MLHacks",
+   "name": "Major League Hacking (MLH)",
+   "created_at": "2026-11-19T17:43:46.000Z",
+   "lang": "en",
+   "url": "https://x.com/MLHacks/status/2123472313932714038",
+   "kind": "post",
+   "text": "Big news for student builders! 🚀 We’re coming together with @spacexai to bring one month free of the new X Premium subscription to thousands of students globally.\n\nHere’s what’s coming👇 🧵",
+   "urls": [],
+   "metrics": {
+    "likes": 238,
+    "reposts": 19,
+    "replies": 14,
+    "quotes": 3
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/ext_tw_video/2123472212426469376/pu/vid/avc1/1280x720/MhX15leZX-mBgNqs.mp4?tag=12",
+     "poster": "https://pbs.twimg.com/ext_tw_video_thumb/2123472212426469376/pu/img/icg56OOyqESfSi_0.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/ext_tw_video/2123472212426469376/pu/vid/avc1/480x270/ENUffBQWOGh3bcLL.mp4?tag=12",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/2123472212426469376/pu/vid/avc1/640x360/SW2UxyOLUV1joIVS.mp4?tag=12",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/2123472212426469376/pu/vid/avc1/1280x720/MhX15leZX-mBgNqs.mp4?tag=12",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 116316
+    }
+   ],
+   "conversation_id": "2123472313932714038"
+  },
+  {
+   "id": "2123453748785684806",
+   "username": "aiDotEngineer",
+   "name": "AI.Engineer",
+   "created_at": "2026-11-19T16:30:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/aiDotEngineer/status/2123453748785684806",
+   "kind": "post",
+   "text": "1 million views. Our fastest talk to get there.\n\n@poteto of @spacexai on the engineering behind 11,000 production PRs in one month.\n\nAll Code Is Slop (Except Mine).\n\nWatch: https://www.youtube.com/watch?v=O_zcc6Xl12g",
+   "urls": [
+    "https://www.youtube.com/watch?v=O_zcc6Xl12g"
+   ],
+   "metrics": {
+    "likes": 547,
+    "reposts": 37,
+    "replies": 20,
+    "quotes": 9
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXgBXFaWoAAmfu6.jpg",
+     "width": 1122,
+     "height": 1402
+    }
+   ],
+   "conversation_id": "2123453748785684806"
+  },
+  {
+   "id": "2123443495591711086",
+   "username": "XFreeze",
+   "name": "X Freeze",
+   "created_at": "2026-11-19T15:49:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/XFreeze/status/2123443495591711086",
+   "kind": "post",
+   "text": "Carries the weight of the world on his shoulders, yet still manages to be the best dad in the world ❤️",
+   "urls": [],
+   "metrics": {
+    "likes": 9082,
+    "reposts": 411,
+    "replies": 305,
+    "quotes": 48
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXf8mSwbQAAX8Uz.jpg",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "conversation_id": "2123443495591711086"
+  },
+  {
+   "id": "2123392520117997749",
+   "username": "zerohedge",
+   "name": "zerohedge",
+   "created_at": "2026-11-19T12:26:42.000Z",
+   "lang": "en",
+   "url": "https://x.com/zerohedge/status/2123392520117997749",
+   "kind": "quote",
+   "text": "NAND prices have been declining since Q2 2026 and are currently in freefall",
+   "urls": [],
+   "metrics": {
+    "likes": 946,
+    "reposts": 105,
+    "replies": 58,
+    "quotes": 16
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXfOPajXMAA446z.jpg",
+     "width": 1326,
+     "height": 710
+    }
+   ],
+   "ref": {
+    "id": "2123387067095003547",
+    "author_id": "1836240683268759552",
+    "username": "jukan05",
+    "name": "Jukan",
+    "created_at": "2026-11-19T12:05:02.000Z",
+    "text": "TF: NAND prices are expected to decline starting in Q1 2027.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXfJSGyW4AASVJr.jpg",
+      "width": 1080,
+      "height": 560
+     }
+    ],
+    "conversation_id": "2123387067095003547"
+   },
+   "conversation_id": "2123392520117997749"
+  },
+  {
+   "id": "2123340174784430539",
+   "username": "JamesEsses",
+   "name": "James Esses",
+   "created_at": "2026-11-19T08:58:42.000Z",
+   "lang": "en",
+   "url": "https://x.com/JamesEsses/status/2123340174784430539",
+   "kind": "post",
+   "text": "🚨This is why the Conversion Practices Bill is so dangerous🚨\n\nTwo trans activists have published an attempted hit job on me, in which they enlisted people to contact me and pose as concerned relatives seeking therapy for a distressed child.\n\nThey have used my email responses to allege that I am a “conversion therapist”.\n\nOf course, there is no basis for this allegation whatsoever (you can read the email yourself to see this).\n\nShockingly, they also claim that I am “genocidal”.\n\nAnd, as if I didn’t need further evidence that this is gutter journalism, I have discovered they have doctored some of the wording in the email I sent to this prospective client (which again I can prove).\n\nIf this is happening to therapists working in this space before legislation has come in to force, just imagine how chilling things will be once the monstrous Bill is law.\nhttps://sophie-molly-reports.beehiiv.com/p/anti-trans-activist-charges-95-per-conversion-therapy-session",
+   "urls": [
+    "https://sophie-molly-reports.beehiiv.com/p/anti-trans-activist-charges-95-per-conversion-therapy-session"
+   ],
+   "metrics": {
+    "likes": 1890,
+    "reposts": 530,
+    "replies": 104,
+    "quotes": 34
+   },
+   "conversation_id": "2123340174784430539"
+  },
+  {
+   "id": "2123310415111131622",
+   "username": "zerohedge",
+   "name": "zerohedge",
+   "created_at": "2026-11-19T07:00:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/zerohedge/status/2123310415111131622",
+   "kind": "post",
+   "text": "Afghan Suspects Behind 108,000 Serious Crimes In Germany, Rapes Up 533% In A Decade https://www.zerohedge.com/geopolitical/afghan-suspects-behind-108000-serious-crimes-germany-rapes-533-decade",
+   "urls": [
+    "https://www.zerohedge.com/geopolitical/afghan-suspects-behind-108000-serious-crimes-germany-rapes-533-decade"
+   ],
+   "metrics": {
+    "likes": 4315,
+    "reposts": 794,
+    "replies": 122,
+    "quotes": 68
+   }
+  },
+  {
+   "id": "2123288418381922493",
+   "username": "profstonge",
+   "name": "Peter St Onge, Ph.D.",
+   "created_at": "2026-11-19T05:33:02.000Z",
+   "lang": "zxx",
+   "url": "https://x.com/profstonge/status/2123288418381922493",
+   "kind": "post",
+   "text": "",
+   "urls": [],
+   "metrics": {
+    "likes": 28705,
+    "reposts": 2509,
+    "replies": 355,
+    "quotes": 236
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXdvjqHXcAAbkmb.jpg",
+     "width": 1179,
+     "height": 1437
+    }
+   ],
+   "conversation_id": "2123288418381922493"
+  },
+  {
+   "id": "2123278406502744167",
+   "username": "willcb",
+   "name": "will brown",
+   "created_at": "2026-11-19T04:53:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/willcb/status/2123278406502744167",
+   "kind": "reply",
+   "text": "Neon is based on Hydrogen, as well as Carbon. Carbon is based on Argon, which itself was based the unreleased Helium model. Sodium is inspired by Neon and Helium but was trained concurrently.",
+   "urls": [],
+   "metrics": {
+    "likes": 661,
+    "reposts": 17,
+    "replies": 23,
+    "quotes": 16
+   },
+   "reply_to": {
+    "id": "2123277762307969220",
+    "username": "willcb"
+   }
+  },
+  {
+   "id": "2123277762307969220",
+   "username": "willcb",
+   "name": "will brown",
+   "created_at": "2026-11-19T04:50:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/willcb/status/2123277762307969220",
+   "kind": "reply",
+   "text": "the mid-tier model, Neon, remains their best and most expensive at $15. the cheapest model, Hydrogen, is fast and performant at $7.50, while the most powerful model, Carbon, is premium-priced at $10.",
+   "urls": [],
+   "metrics": {
+    "likes": 518,
+    "reposts": 5,
+    "replies": 5,
+    "quotes": 1
+   },
+   "reply_to": {
+    "id": "2123275881145930216",
+    "username": "willcb"
+   },
+   "conversation_id": "2123275881145930216"
+  },
+  {
+   "id": "2123275881145930216",
+   "username": "willcb",
+   "name": "will brown",
+   "created_at": "2026-11-19T04:43:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/willcb/status/2123275881145930216",
+   "kind": "post",
+   "text": "tomorrow DeepMind will be dropping Gemini 4 Sodium, a fast yet powerful frontier model which costs just $11.75/M (introductory pricing, raises to $16.50 soon) and is their best model for various things and stuff, rivaling Argon, Carbon, Hydrogen, and Neon in several situations",
+   "urls": [],
+   "metrics": {
+    "likes": 4096,
+    "reposts": 111,
+    "replies": 256,
+    "quotes": 203
+   },
+   "conversation_id": "2123275881145930216"
+  },
+  {
+   "id": "2123226341726376324",
+   "username": "shaunmmaguire",
+   "name": "Shaun Maguire",
+   "created_at": "2026-11-19T01:26:22.000Z",
+   "lang": "en",
+   "url": "https://x.com/shaunmmaguire/status/2123226341726376324",
+   "kind": "quote",
+   "text": "People do not yet understand:\n\n1) Starship is one of the most important technologies in the history of mankind\n\n2) @SpaceX’s ship catch last weekend all but guarantees the concept works\n\n3) almost all inference compute will be in space (launched by Starship)",
+   "urls": [],
+   "metrics": {
+    "likes": 2668,
+    "reposts": 156,
+    "replies": 63,
+    "quotes": 11
+   },
+   "ref": {
+    "id": "2123220899264679988",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-19T01:04:44.000Z",
+    "text": "Catching the ship was the last major piece of the puzzle https://twitter.com/xfreeze/status/2123209734463648240",
+    "conversation_id": "2123220899264679988"
+   }
+  },
+  {
+   "id": "2123211962289176891",
+   "username": "SpaceInvestor_D",
+   "name": "Space Investor",
+   "created_at": "2026-11-19T00:29:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/SpaceInvestor_D/status/2123211962289176891",
+   "kind": "post",
+   "text": "$SPCX: Satya Nadella says Microsoft would rent SpaceX compute.\n\nAsked at DealBook whether Musk is right about data centers in space:\n\"If he has SpaceX capacity that I can lease, I would lease it.\"",
+   "urls": [],
+   "metrics": {
+    "likes": 2241,
+    "reposts": 193,
+    "replies": 48,
+    "quotes": 14
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcqBvRWkAAWwa-.jpg",
+     "width": 1024,
+     "height": 576
+    }
+   ]
+  },
+  {
+   "id": "2123208113582981412",
+   "username": "jediahkatz",
+   "name": "Jediah Katz",
+   "created_at": "2026-11-19T00:13:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/jediahkatz/status/2123208113582981412",
+   "kind": "quote",
+   "text": "Google let me down too many times but I have more hope from this latest slate than I've had since Gemini 2.5 Pro",
+   "urls": [],
+   "metrics": {
+    "likes": 83,
+    "reposts": 0,
+    "replies": 6,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2123198346802450926",
+    "author_id": "1695890961094909952",
+    "username": "cursor_ai",
+    "name": "Cursor",
+    "created_at": "2026-11-18T23:35:07.000Z",
+    "text": "Gemini 4 Neon is now available in Cursor!\n\nAt its default effort, it sets a new cost-performance frontier on CursorBench 4.1, scoring 63.7%, up from 57.3% for Gemini 4 Hydrogen.\n\nPriced at $3/M input and $15/M output tokens.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXcdpRHagAArFvw.jpg",
+      "width": 2400,
+      "height": 1350
+     }
+    ]
+   },
+   "conversation_id": "2123208113582981412"
+  },
+  {
+   "id": "2123206072152518679",
+   "username": "aaronburnett",
+   "name": "Aaron Burnett",
+   "created_at": "2026-11-19T00:05:49.000Z",
+   "lang": "en",
+   "url": "https://x.com/aaronburnett/status/2123206072152518679",
+   "kind": "post",
+   "text": "Elon (TomorrowX) “the difference between us and everyone else building data centers is that we actually do the work…”",
+   "urls": [],
+   "metrics": {
+    "likes": 975,
+    "reposts": 33,
+    "replies": 17,
+    "quotes": 1
+   }
+  },
+  {
+   "id": "2123203404365480234",
+   "username": "firesidealpha",
+   "name": "Fireside Alpha",
+   "created_at": "2026-11-18T23:55:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/firesidealpha/status/2123203404365480234",
+   "kind": "quote",
+   "text": "Elon Musk reveals Grok 4.8 is in the RL phase, and that what users get from Grok Bot is at times different versions of Grok being tested for usefulness\n\n“So this is kind of a long answer, but we are working on Grok 4.8 right now. It’s in the RL phase. And we do sort of periodic soft releases under Grok Bot.”\n\n“So what you’ll experience with Grok Bot at times is actually various versions of Grok under the hood that we’re testing to determine its usefulness. Is it solving the user’s problem? And then using that data, whether it did or did not solve the problem, to improve Grok.”\n\n“So we’ve got a good data flywheel to keep making Grok Bot better and better over time.”",
+   "urls": [],
+   "metrics": {
+    "likes": 529,
+    "reposts": 36,
+    "replies": 23,
+    "quotes": 6
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123203177302589440/vid/avc1/1280x720/ZIeVyu4sP6U4CjQH.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123203177302589440/img/uTZuGCtMrKWmio_D.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123203177302589440/vid/avc1/480x270/BFjoaBQxRzdXrOox.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123203177302589440/vid/avc1/640x360/5U9eUkrc9N7JHAdJ.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123203177302589440/vid/avc1/1280x720/ZIeVyu4sP6U4CjQH.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      }
+     ],
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 48800
+    }
+   ],
+   "ref": {
+    "id": "2123203029449236953",
+    "author_id": "2066250685512110080",
+    "username": "firesidealpha",
+    "name": "Fireside Alpha",
+    "created_at": "2026-11-18T23:53:44.000Z",
+    "text": "Elon Musk says xAI might now have “the best training stack software in the world” after rewriting everything from scratch over six to eight months\n\n“And this meant rewriting the entire training, RL and inference stack from scratch, versus using JAX and SGLang, which is sort of kind of freeware from Google, more or less, but not as good as what they’ve got internally by far. So you just can’t build world class AI using mediocre freeware, to state the obvious.”\n\n“So we’ve been rewriting the entire training stack. When I say the entire training stack, I mean everything. We’re using primarily C and some C++, because we wanna get as close to the bare metal as possible in order to extract the highest performance from the hardware. The more layers of software abstraction that you have, the less performant your code will be. And it also tends to be more of a black box, where you’re not quite sure what’s going on with the third-party software.”\n\n“So now this is happening very fast by normal standards. It’s sort of happening over the course of maybe six to eight months. And now I feel we’ve actually got the software to be very good. I think we might have the best training stack software in the world, and you’ll see the dividends of that, the fruit of that, in the models that come out.”",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2123202938982277120/vid/avc1/1280x720/xvW9wYVdv-2_XKMf.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123202938982277120/img/V-W4Wv1uvXYHQgKC.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2123202938982277120/vid/avc1/480x270/Osw4rUkN6D6FHC2Y.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123202938982277120/vid/avc1/640x360/HUNPaoxcMoP80hXQ.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2123202938982277120/vid/avc1/1280x720/xvW9wYVdv-2_XKMf.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 81900
+     }
+    ]
+   }
+  },
+  {
+   "id": "2123202151300448721",
+   "username": "C_3C_3",
+   "name": "C3",
+   "created_at": "2026-11-18T23:50:14.000Z",
+   "lang": "en",
+   "url": "https://x.com/C_3C_3/status/2123202151300448721",
+   "kind": "post",
+   "text": "What happened…\n\nElon: Do not use Starlink to kill.\n\nZelensky: I used Starlink to kill.\n\nLegacy Media: Elon is evil for stopping Zelensky from using Starlink to kill.\n\nDemocrats: We must investigate Elon for stopping Zelensky from using Starlink to kill.\n\nIt’s really that simple.",
+   "urls": [],
+   "metrics": {
+    "likes": 14301,
+    "reposts": 1845,
+    "replies": 224,
+    "quotes": 61
+   }
+  },
+  {
+   "id": "2123186840400482424",
+   "username": "Grummz",
+   "name": "Grummz",
+   "created_at": "2026-11-18T22:49:24.000Z",
+   "lang": "ro",
+   "url": "https://x.com/Grummz/status/2123186840400482424",
+   "kind": "post",
+   "text": "Asmongold calls GTA 6 a “cuck simulator”",
+   "urls": [],
+   "metrics": {
+    "likes": 24501,
+    "reposts": 1237,
+    "replies": 659,
+    "quotes": 129
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123171490375815168/vid/avc1/2312x1320/H69kjDI9l66TSY0u.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123171490375815168/img/sbamWIKdMGDShqel.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123171490375815168/vid/avc1/472x270/SUoMjorVj8NoNOzV.mp4",
+       "w": 472,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123171490375815168/vid/avc1/630x360/CQ6OoS_tR3P9Jv07.mp4",
+       "w": 630,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123171490375815168/vid/avc1/1260x720/sSDWj45PXZf4sY79.mp4",
+       "w": 1260,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123171490375815168/vid/avc1/2312x1320/H69kjDI9l66TSY0u.mp4",
+       "w": 2312,
+       "h": 1320,
+       "br": 10368000
+      }
+     ],
+     "width": 2312,
+     "height": 1320,
+     "duration_ms": 72770
+    }
+   ],
+   "conversation_id": "2123186840400482424"
+  },
+  {
+   "id": "2123184309137965524",
+   "username": "sundarpichai",
+   "name": "Sundar Pichai",
+   "created_at": "2026-11-18T22:39:20.000Z",
+   "lang": "en",
+   "url": "https://x.com/sundarpichai/status/2123184309137965524",
+   "kind": "quote",
+   "text": "Below Neon 3D modeled a photorealistic lab simulation in Antigravity via Blender MCP 🔥",
+   "urls": [],
+   "metrics": {
+    "likes": 8893,
+    "reposts": 431,
+    "replies": 264,
+    "quotes": 89
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123179534854033408/vid/avc1/1920x1080/hoLXqowhe4ksiXcm.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123179534854033408/img/oY3h5NUdR7i3Zpsc.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123179534854033408/vid/avc1/480x270/VaFl2tmH5J_s6F9q.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123179534854033408/vid/avc1/640x360/DLm8nyb0DP1IeXay.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123179534854033408/vid/avc1/1280x720/P3LQV1seZaetMY6q.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123179534854033408/vid/avc1/1920x1080/hoLXqowhe4ksiXcm.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 35000
+    }
+   ],
+   "ref": {
+    "id": "2123143850210533408",
+    "author_id": "14130366",
+    "username": "sundarpichai",
+    "name": "Sundar Pichai",
+    "created_at": "2026-11-18T19:58:34.000Z",
+    "text": "Happy WedNEsday!",
+    "media": [
+     {
+      "type": "animated_gif",
+      "url": "https://video.twimg.com/tweet_video/HXbsB_laQAAMO47.mp4",
+      "poster": "https://pbs.twimg.com/tweet_video_thumb/HXbsB_laQAAMO47.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/tweet_video/HXbsB_laQAAMO47.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 0
+       }
+      ],
+      "width": 640,
+      "height": 360
+     }
+    ]
+   }
+  },
+  {
+   "id": "2123168218743554465",
+   "username": "demishassabis",
+   "name": "Demis Hassabis",
+   "created_at": "2026-11-18T21:35:24.000Z",
+   "lang": "en",
+   "url": "https://x.com/demishassabis/status/2123168218743554465",
+   "kind": "post",
+   "text": "Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro & Ultra users now!! We think you’ll enjoy this model. Alchemy at its finest… 🧪",
+   "urls": [],
+   "metrics": {
+    "likes": 6763,
+    "reposts": 444,
+    "replies": 276,
+    "quotes": 124
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcAo5FbEAAB1wx.png",
+     "width": 3840,
+     "height": 3342
+    }
+   ]
+  },
+  {
+   "id": "2123167780988125621",
+   "username": "sundarpichai",
+   "name": "Sundar Pichai",
+   "created_at": "2026-11-18T21:33:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/sundarpichai/status/2123167780988125621",
+   "kind": "post",
+   "text": "Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.\n\nBegins rolling out today in the Gemini API in @GoogleAIStudio, Gemini for business, for paid Google AI Pro and Ultra subscribers in Google @Antigravity, and for Google AI Pro and Ultra subscribers in the @GeminiApp.",
+   "urls": [],
+   "metrics": {
+    "likes": 10273,
+    "reposts": 829,
+    "replies": 524,
+    "quotes": 421
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXb9cQabgAAOkkn.png",
+     "width": 3840,
+     "height": 3342
+    }
+   ]
+  },
+  {
+   "id": "2123146581071593629",
+   "username": "hddndoors",
+   "name": "hddndoors",
+   "created_at": "2026-11-18T20:09:25.000Z",
+   "lang": "en",
+   "url": "https://x.com/hddndoors/status/2123146581071593629",
+   "kind": "post",
+   "text": "Asmongold has to unclog a sink in GTA 6: \"Are you kidding me?\" … \"Why do I have to do this for her?\"",
+   "urls": [],
+   "metrics": {
+    "likes": 13957,
+    "reposts": 534,
+    "replies": 546,
+    "quotes": 232
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123146447985971200/vid/avc1/1920x1080/2B5RkrhN_2Z1DNoT.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123146447985971200/img/NCrHlJ4l1tbHJ_4t.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123146447985971200/vid/avc1/480x270/zC5ihVes2e6yKb8l.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123146447985971200/vid/avc1/640x360/9wNGVgvUOhb-PWDh.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123146447985971200/vid/avc1/1280x720/-iLD7YSier3qMCIQ.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123146447985971200/vid/avc1/1920x1080/2B5RkrhN_2Z1DNoT.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 56000
+    }
+   ],
+   "conversation_id": "2123146581071593629"
+  },
+  {
+   "id": "2123120368894255240",
+   "username": "peterrhague",
+   "name": "Peter Hague",
+   "created_at": "2026-11-18T18:25:16.000Z",
+   "lang": "en",
+   "url": "https://x.com/peterrhague/status/2123120368894255240",
+   "kind": "quote",
+   "text": "The real Thucydides Trap is trying to say “Thucydides” when you’ve had a few.",
+   "urls": [],
+   "metrics": {
+    "likes": 385,
+    "reposts": 14,
+    "replies": 25,
+    "quotes": 3
+   },
+   "ref": {
+    "id": "2123017891167785201",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-18T11:38:03.000Z",
+    "text": "Is the Thucydides Trap ever avoidable?\n\nI wish it were, but, inevitably, the most interesting outcome is the most likely."
+   }
+  },
+  {
+   "id": "2123102642704675241",
+   "username": "ericzakariasson",
+   "name": "eric zakariasson",
+   "created_at": "2026-11-18T17:14:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/ericzakariasson/status/2123102642704675241",
+   "kind": "post",
+   "text": "https://grok-bot.directory is live!\n\nthe community directory for grok bot: browse and install bots & apps people have built, or publish your own\n\nlet me know which your favorites are",
+   "urls": [
+    "https://grok-bot.directory"
+   ],
+   "metrics": {
+    "likes": 1473,
+    "reposts": 133,
+    "replies": 159,
+    "quotes": 62
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/1920x1080/EsMG5qyJaN3_oz4N.mp4?tag=16",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123102605375393792/img/yKvqYH-LvfkhlBfV.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/480x270/N71RH-iMRaNJmHyr.mp4?tag=16",
+       "w": 480,
+       "h": 270,
+       "br": 288000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/640x360/2h0Pq9jO8MyBjfhE.mp4?tag=16",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/1280x720/Caj8wpnKZJR-m0ar.mp4?tag=16",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/1920x1080/EsMG5qyJaN3_oz4N.mp4?tag=16",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 24000
+    }
+   ]
+  },
+  {
+   "id": "2123100609477824576",
+   "username": "loccoai",
+   "name": "loccointelligence",
+   "created_at": "2026-11-18T17:06:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/loccoai/status/2123100609477824576",
+   "kind": "reply",
+   "text": "I'd suggest modifying the axes labels as follows:\nx-axis: Average cost per task (lower is better)\ny-axis: Score (higher is better)\n\nYes, yes, in hindsight, this is trivial but when I first look at charts, I want to understand the axes right away, and more importantly, I want to know right away what the best \"measurements\" are.\n\nAlso, it helps A LOT when comparing too, imo!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123073081489113331",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2123076059113328674",
+   "username": "davidwong",
+   "name": "David Wong",
+   "created_at": "2026-11-18T15:29:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/davidwong/status/2123076059113328674",
+   "kind": "reply",
+   "text": "@mattyp Super useful and exciting to see. Thanks, Matt!",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123073081489113331",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2123073370631659952",
+   "username": "The_CozyDev",
+   "name": "TheCozyDev",
+   "created_at": "2026-11-18T15:18:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/The_CozyDev/status/2123073370631659952",
+   "kind": "reply",
+   "text": "@mattyp Amazing. This is super useful, thank you Matt 💜",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123073081489113331",
+    "username": "mattyp"
+   }
+  },
+  {
+   "id": "2123069165334675742",
+   "username": "willdepue",
+   "name": "will depue",
+   "created_at": "2026-11-18T15:01:48.000Z",
+   "lang": "en",
+   "url": "https://x.com/willdepue/status/2123069165334675742",
+   "kind": "post",
+   "text": "guys we're in the fucking singularity. oh my god. i just forget sometimes and then wake up in the middle of the night like oh my god its all happening",
+   "urls": [],
+   "metrics": {
+    "likes": 4653,
+    "reposts": 252,
+    "replies": 296,
+    "quotes": 57
+   },
+   "conversation_id": "2123069165334675742"
+  },
   {
    "id": "2123067467798867999",
    "username": "realDavidBauer",
@@ -10014,407 +10886,6 @@
    "reply_to": {
     "id": "2120206234804727821",
     "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120212693131116650",
-   "username": "BalazsOrban_HU",
-   "name": "Balázs Orbán",
-   "created_at": "2026-11-10T17:51:12.000Z",
-   "lang": "en",
-   "url": "https://x.com/BalazsOrban_HU/status/2120212693131116650",
-   "kind": "post",
-   "text": "I made the mistake of criticizing the EU’s financing of NGOs that are killing free speech. I was SCREAMED at, labeled as an EXTREMIST and called a PUTIN SUPPORTER by leftists. This all happened during a debate about FREE SPEECH.😂🥴🥱\n\n🎥 @WebSummit",
-   "urls": [],
-   "metrics": {
-    "likes": 4673,
-    "reposts": 588,
-    "replies": 99,
-    "quotes": 29
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120212274056953856/vid/avc1/3840x2160/b--I4iiM9BjzD22n.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120212274056953856/img/dpxXcQDyCfjc51Lo.jpg",
-     "width": 3840,
-     "height": 2160,
-     "duration_ms": 70286
-    }
-   ]
-  },
-  {
-   "id": "2120210553239110126",
-   "username": "SeattleMike2010",
-   "name": "Mike",
-   "created_at": "2026-11-10T17:42:42.000Z",
-   "lang": "en",
-   "url": "https://x.com/SeattleMike2010/status/2120210553239110126",
-   "kind": "reply",
-   "text": "@mattyp These updates are great Matt.",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120209611508662422",
-   "username": "mchalloner11",
-   "name": "Markus",
-   "created_at": "2026-11-10T17:38:57.000Z",
-   "lang": "en",
-   "url": "https://x.com/mchalloner11/status/2120209611508662422",
-   "kind": "reply",
-   "text": "@mattyp You and your team are amazing. Thank you!",
-   "urls": [],
-   "metrics": {
-    "likes": 2,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120209580760469826",
-   "username": "johnfitch_",
-   "name": "John Fitch",
-   "created_at": "2026-11-10T17:38:50.000Z",
-   "lang": "en",
-   "url": "https://x.com/johnfitch_/status/2120209580760469826",
-   "kind": "reply",
-   "text": "@mattyp Thanks for continuing to COOK! 🫡",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120208679290949774",
-   "username": "jasonkrauspb",
-   "name": "Jason Kraus",
-   "created_at": "2026-11-10T17:35:15.000Z",
-   "lang": "en",
-   "url": "https://x.com/jasonkrauspb/status/2120208679290949774",
-   "kind": "reply",
-   "text": "@mattyp Keep it coming!  Great work",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120208114687599082",
-   "username": "BraydenWilmoth",
-   "name": "Brayden",
-   "created_at": "2026-11-10T17:33:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/BraydenWilmoth/status/2120208114687599082",
-   "kind": "reply",
-   "text": "@mattyp @OpenAI @AnthropicAI @bot i’ll have bot negotiate my next purchase",
-   "urls": [],
-   "metrics": {
-    "likes": 12,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120207581616710071",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120198547853230467",
-   "username": "marsrepublica",
-   "name": "samuel",
-   "created_at": "2026-11-10T16:54:59.000Z",
-   "lang": "en",
-   "url": "https://x.com/marsrepublica/status/2120198547853230467",
-   "kind": "quote",
-   "text": "Dario’s theory of frontier labs separating from the rest after crossing a certain capability threshold is increasingly becoming clear. It's the same thing Sergey saw. The point of no return is so close. And, to be honest, I don't like how comfortable Elon has become with this reality.\n\nAnthropic clearly demonstrated yesterday that general intelligence can eliminate niche advantages almost overnight. The reason Anthropic seems so unnaturally confident about the future & comfortable with its current compute dependence may be that it genuinely believes that once it achieves AGI–ASI in the near term, none of this will matter. Any competitive advantage can either be bought out through the enormous economic output it generates or replicated almost overnight.\n\nAny IP advantage SpaceX or Tesla has today- say, rocket designs, efficient batteries, satellites, etc. could be surpassed overnight with ASI.\n\nAnthropic already teased this plan yesterday with Fable 5.2, where its models built hardware, controlled robotics better, designed software from scratch, and performed protein folding. Entire fields of specialized expertise and IP could have their value undermined by one sufficiently capable general intelligence.\n\nSure, you can argue that deploying hardware is very difficult, and it really is. But what happens when owning and operating your own hardware becomes economically inferior to renting it because your ASI competitor can extract more economic value from every watt? We're already seeing the early stages of this.\n\nEven more frightening is what happens once RSI arrives, its model crosses from post-AGI into recursive self-improvement, and reaches the same conclusion: orbital compute is the only way to sustain its improvement loop and expansion, and SpaceX is the only company capable of getting it there.\n\nWhat happens when its economic case becomes so enormous, potentially generating trillions in revenue, that it wants to acquire the relatively smaller company whose revenue already depends heavily on it?\n\nThe same applies to Tesla, where robotics is central to its long-term economic case. What happens when ASI can design better robotics systems than Tesla itself?\n\nAnd what happens to companies like Nvidia, whose core business is chip design, when manufacturing becomes the only moat?\n\nASI could use its enormous economic output to take over entire supplier order books, creating dependence on its demand before pushing to acquire massive factories and manufacturing capacity from the same competitors. Those companies might resist, but what can they realistically do when the economic incentives are so overwhelmingly against them?\n\nYou can argue that government oversight will prevent this. But does it really? What happens when lobbyists, administrations, and Congress face pressure to concede economically because their states or districts risk losing the resulting economic advantage, or because an administration could be blamed for losing GDP growth and military superiority? What happens when a company generates more revenue than all state tax revenues and IRS collections combined?\n\nNothing matters when ASI is the question at play. And this isn't some distant theoretical possibility. It's close enough that, once one lab crosses the practical AGI threshold, catching up may become practically impossible.\n\nIt's logically reasonable for SpaceX, Tesla, and Elon to consider delaying almost everything else if it means prioritizing every available resource toward achieving RSI and catching up before that happens. Every resource, every advantage, and every available measure should be considered, even taking on substantial additional debt and pulling all the top talent from both companies into this, and aggressively purging through all methods from competitors.\n\nIt's do or die.",
-   "urls": [],
-   "metrics": {
-    "likes": 3871,
-    "reposts": 227,
-    "replies": 243,
-    "quotes": 63
-   },
-   "ref": {
-    "id": "2120099798078656909",
-    "author_id": "44196397",
-    "username": "elonmusk",
-    "name": "Elon Musk",
-    "created_at": "2026-11-10T10:22:36.000Z",
-    "text": "@Dimdv99 @tetsuoai Not as good. Opus 5.5 is a masterpiece.\n\nBut Grok 5 should exceed Opus 5.5 and maybe that happens in 2 or 3 months, with continued acceleration thereafter.",
-    "reply_to": {
-     "id": "2120097824851570997",
-     "username": "Dimdv99"
-    },
-    "conversation_id": "2120089786266628276"
-   }
-  },
-  {
-   "id": "2120097824851570997",
-   "username": "Dimdv99",
-   "name": "Dimdv",
-   "created_at": "2026-11-10T10:14:45.000Z",
-   "lang": "en",
-   "url": "https://x.com/Dimdv99/status/2120097824851570997",
-   "kind": "reply",
-   "text": "@elonmusk @tetsuoai how will grok 4.8 compare to opus 5.5?",
-   "urls": [],
-   "metrics": {
-    "likes": 377,
-    "reposts": 10,
-    "replies": 4,
-    "quotes": 1
-   },
-   "reply_to": {
-    "id": "2120097663794483601",
-    "username": "elonmusk"
-   }
-  },
-  {
-   "id": "2120089786266628276",
-   "username": "tetsuoai",
-   "name": "tetsuo",
-   "created_at": "2026-11-10T09:42:49.000Z",
-   "lang": "en",
-   "url": "https://x.com/tetsuoai/status/2120089786266628276",
-   "kind": "quote",
-   "text": "C wins again.",
-   "urls": [],
-   "metrics": {
-    "likes": 3817,
-    "reposts": 161,
-    "replies": 92,
-    "quotes": 15
-   },
-   "ref": {
-    "id": "2120088070443655190",
-    "author_id": "44196397",
-    "username": "elonmusk",
-    "name": "Elon Musk",
-    "created_at": "2026-11-10T09:35:59.000Z",
-    "text": "We have dumped JAX/SGLang and rewritten the entire RL and inference stack from scratch in C/C++, which took some extra time.\n\nTraining (aka pre-training) is done. Lot of cleanup was needed on the SFT data to get that mostly right. Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes.\n\nGrok 4.8 will bear no resemblance to 4.7 (thankfully). It is not yet incredible, but, this time, the foundations are built right, so I expect it to evolve to be something special.",
-    "reply_to": {
-     "id": "2119949070462800185",
-     "username": "cradrrat"
-    },
-    "conversation_id": "2119949070462800185"
-   }
-  },
-  {
-   "id": "2120089497538810162",
-   "username": "Owl_of_Atena",
-   "name": "ⓧ Owl of Atena X1",
-   "created_at": "2026-11-10T09:41:40.000Z",
-   "lang": "en",
-   "url": "https://x.com/Owl_of_Atena/status/2120089497538810162",
-   "kind": "reply",
-   "text": "@elonmusk @cradrrat Was it written in Rust? Why did you rewrite it in C/C++ ?",
-   "urls": [],
-   "metrics": {
-    "likes": 308,
-    "reposts": 16,
-    "replies": 16,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120088070443655190",
-    "username": "elonmusk"
-   }
-  },
-  {
-   "id": "2120027643081113765",
-   "username": "PalmerLuckey",
-   "name": "Palmer Luckey",
-   "created_at": "2026-11-10T05:35:52.000Z",
-   "lang": "en",
-   "url": "https://x.com/PalmerLuckey/status/2120027643081113765",
-   "kind": "reply",
-   "text": "@carlhancock Take that ridesharing revenue ($150B+) and subtract the cost of paying 16,000,000 drivers.  That is the bet.",
-   "urls": [],
-   "metrics": {
-    "likes": 12204,
-    "reposts": 236,
-    "replies": 384,
-    "quotes": 36
-   },
-   "reply_to": {
-    "id": "2119829774063509820",
-    "username": "carlhancock"
-   }
-  },
-  {
-   "id": "2119949070462800185",
-   "username": "cradrrat",
-   "name": "cradrrat",
-   "created_at": "2026-11-10T00:23:39.000Z",
-   "lang": "en",
-   "url": "https://x.com/cradrrat/status/2119949070462800185",
-   "kind": "post",
-   "text": "Can we have an update on when to expect Grok 4.8 please @elonmusk",
-   "urls": [],
-   "metrics": {
-    "likes": 2436,
-    "reposts": 36,
-    "replies": 45,
-    "quotes": 7
-   }
-  },
-  {
-   "id": "2119853915785277859",
-   "username": "cfdownes_",
-   "name": "Charlie Downes",
-   "created_at": "2026-11-09T18:05:33.000Z",
-   "lang": "en",
-   "url": "https://x.com/cfdownes_/status/2119853915785277859",
-   "kind": "post",
-   "text": "We are not conservatives.\n\nWe do not believe in the system. We want to tear it down, and in its place build one that puts our people first.\n\nWe are revolutionaries.",
-   "urls": [],
-   "metrics": {
-    "likes": 9471,
-    "reposts": 1229,
-    "replies": 249,
-    "quotes": 85
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2119852832362811392/vid/avc1/1920x872/6uYokz69RqWN4dBj.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2119852832362811392/img/_ElOIivhRvu8OTwh.jpg",
-     "width": 1920,
-     "height": 872,
-     "duration_ms": 87133
-    }
-   ]
-  },
-  {
-   "id": "2119790863660257461",
-   "username": "herbertong",
-   "name": "Herbert Ong",
-   "created_at": "2026-11-09T13:55:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/herbertong/status/2119790863660257461",
-   "kind": "post",
-   "text": "NEWS: Tesla has reportedly cut the LPDDR6 memory on its next-gen AI6 chip for Optimus from 216GB to 144GB, a reduction of one third.\n\nIf accurate, Tesla is designing around a supply crunch caused by AI servers instead of waiting for it to ease. It's a bet that a humanoid bot's real-time intelligence depends on how fast data moves, not how much is stored.\n\nAt the same memory supply, a one-third cut means roughly 50% more robots. If Tesla can hold performance with less memory per unit, the company that builds the most robots could be the one that needs the fewest chips per robot, and that would be hard for rivals designing for maximum capacity to match. $TSLA\n\nLink: https://www.chinaflashmarket.com/newsflash/39255",
-   "urls": [
-    "https://www.chinaflashmarket.com/newsflash/39255"
-   ],
-   "metrics": {
-    "likes": 1574,
-    "reposts": 93,
-    "replies": 74,
-    "quotes": 13
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWrKsAxaIAAWIPa.jpg",
-     "width": 1200,
-     "height": 675
-    }
-   ]
-  },
-  {
-   "id": "2119696021991432450",
-   "username": "OwenSparks",
-   "name": "Owen Sparks",
-   "created_at": "2026-11-09T07:38:08.000Z",
-   "lang": "en",
-   "url": "https://x.com/OwenSparks/status/2119696021991432450",
-   "kind": "reply",
-   "text": "@elonmusk Why not just build more factory space? Age of abundance.",
-   "urls": [],
-   "metrics": {
-    "likes": 1516,
-    "reposts": 30,
-    "replies": 51,
-    "quotes": 3
-   },
-   "reply_to": {
-    "id": "2119691615774146614",
-    "username": "elonmusk"
-   }
-  },
-  {
-   "id": "2119199347351122185",
-   "username": "VladTheInflator",
-   "name": "Vlad",
-   "created_at": "2026-11-07T22:44:31.000Z",
-   "lang": "zxx",
-   "url": "https://x.com/VladTheInflator/status/2119199347351122185",
-   "kind": "post",
-   "text": "",
-   "urls": [],
-   "metrics": {
-    "likes": 20648,
-    "reposts": 1916,
-    "replies": 289,
-    "quotes": 86
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWjokyGasAA2YIu.jpg",
-     "width": 891,
-     "height": 1370
-    }
-   ]
-  },
-  {
-   "id": "2118954119134359767",
-   "username": "cz_binance",
-   "name": "CZ 🔶 BNB",
-   "created_at": "2026-11-07T06:30:04.000Z",
-   "lang": "en",
-   "url": "https://x.com/cz_binance/status/2118954119134359767",
-   "kind": "reply",
-   "text": "@MartiniGuyYT bruh, don't be that guy that spreads false info.",
-   "urls": [],
-   "metrics": {
-    "likes": 7458,
-    "reposts": 194,
-    "replies": 362,
-    "quotes": 31
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWgJaF3aIAAWy6Q.jpg",
-     "width": 1348,
-     "height": 814
-    }
-   ],
-   "reply_to": {
-    "id": "2118935710875168879",
-    "username": "MartiniGuyYT"
    }
   }
  ]

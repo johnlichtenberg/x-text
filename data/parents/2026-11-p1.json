@@ -1,7 +1,610 @@
 {
  "id": "2026-11-p1",
- "updated_at": "2026-11-24T14:21:11Z",
+ "updated_at": "2026-11-25T04:38:01Z",
  "posts": [
+  {
+   "id": "2125414853682884927",
+   "username": "ivanleomk",
+   "name": "Ivan Leo",
+   "created_at": "2026-11-25T02:22:44.000Z",
+   "lang": "en",
+   "url": "https://x.com/ivanleomk/status/2125414853682884927",
+   "kind": "quote",
+   "text": "All this was built with @antigravity remote mode witouth me doing anything but promoting neon to use @HyperFrames_  :)",
+   "urls": [],
+   "metrics": {
+    "likes": 48,
+    "reposts": 2,
+    "replies": 10,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2125413763293790371",
+    "author_id": "267160799",
+    "username": "ivanleomk",
+    "name": "Ivan Leo",
+    "created_at": "2026-11-25T02:18:24.000Z",
+    "text": "Quick recap of everything we've shipped at @GoogleDeepMind  over the last few weeks and some great demos I loved\n\n0:00 Gemini 4 Neon\n1:21 Antigravity /swarm using parallel agents to scale inference\n2:33 Genie 4 over the API!\n3:10 Managed Agents API launching bring your own sandbox\n3:40 Interactions API now supports native PDFs & page-level File Slicing\n\nStay tuned for more updates!",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2125412734326231040/vid/avc1/1920x1080/047BhhFljepwY3Cn.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125412734326231040/img/LJfSpNca02l4GIn0.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2125412734326231040/vid/avc1/480x270/CI8i9ZWfKS16BJdQ.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125412734326231040/vid/avc1/640x360/eZ-yEvlXS9niYvN1.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125412734326231040/vid/avc1/1280x720/0cDRiFg-mpQUYQWL.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125412734326231040/vid/avc1/1920x1080/047BhhFljepwY3Cn.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 255500
+     }
+    ],
+    "conversation_id": "2125413763293790371"
+   },
+   "conversation_id": "2125414853682884927"
+  },
+  {
+   "id": "2125370884382990747",
+   "username": "danshipper",
+   "name": "Dan Shipper",
+   "created_at": "2026-11-24T23:28:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/danshipper/status/2125370884382990747",
+   "kind": "post",
+   "text": "VIBE SHIFT:\n\nmost of us @every have stopped using Duet... just not improving fast enough, and competitors like Dots are very good",
+   "urls": [],
+   "metrics": {
+    "likes": 311,
+    "reposts": 4,
+    "replies": 50,
+    "quotes": 11
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX7Vb54WMAAjbBJ.jpg",
+     "width": 1390,
+     "height": 2206
+    }
+   ],
+   "conversation_id": "2125370884382990747"
+  },
+  {
+   "id": "2125349059774881943",
+   "username": "AdamHoltererer",
+   "name": "Adam Holter",
+   "created_at": "2026-11-24T22:01:17.000Z",
+   "lang": "en",
+   "url": "https://x.com/AdamHoltererer/status/2125349059774881943",
+   "kind": "post",
+   "text": "I don't like Claude Duet",
+   "urls": [],
+   "metrics": {
+    "likes": 150,
+    "reposts": 2,
+    "replies": 35,
+    "quotes": 2
+   },
+   "conversation_id": "2125349059774881943"
+  },
+  {
+   "id": "2125323605634347337",
+   "username": "ivx0x",
+   "name": "Carvenous 🎩",
+   "created_at": "2026-11-24T20:20:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/ivx0x/status/2125323605634347337",
+   "kind": "reply",
+   "text": "@larsencc So much ignorance in full display it's concerning",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124846084510122276"
+   },
+   "conversation_id": "2124846084510122276"
+  },
+  {
+   "id": "2125319066512691287",
+   "username": "chribjel",
+   "name": "Christoffer Bjelke",
+   "created_at": "2026-11-24T20:02:06.000Z",
+   "lang": "en",
+   "url": "https://x.com/chribjel/status/2125319066512691287",
+   "kind": "post",
+   "text": "mattyp mattyp mattyp @mattyp\npoteto poteto poteto @poteto\n\npls pls pls make the default model in cloud agents stop reverting back to \"grok 4.7 500k high fast\"\n\ntakes about 5-30 minutes and it reverts back to that every time i update it",
+   "urls": [],
+   "metrics": {
+    "likes": 25,
+    "reposts": 0,
+    "replies": 5,
+    "quotes": 1
+   },
+   "conversation_id": "2125319066512691287"
+  },
+  {
+   "id": "2125280341112115274",
+   "username": "sunglassesface",
+   "name": "orlie",
+   "created_at": "2026-11-24T17:28:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/sunglassesface/status/2125280341112115274",
+   "kind": "reply",
+   "text": "@larsencc @bot Which plan is he using?",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125269463562076646"
+   },
+   "conversation_id": "2125269463562076646"
+  },
+  {
+   "id": "2125276085935849581",
+   "username": "EmilioSchwaiger",
+   "name": "Emilio",
+   "created_at": "2026-11-24T17:11:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/EmilioSchwaiger/status/2125276085935849581",
+   "kind": "reply",
+   "text": "@larsencc @bot back in europe babyyy",
+   "urls": [],
+   "metrics": {
+    "likes": 6,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125269463562076646"
+   },
+   "conversation_id": "2125269463562076646"
+  },
+  {
+   "id": "2125273618615767214",
+   "username": "wholemars",
+   "name": "Whole Mars Catalog",
+   "created_at": "2026-11-24T17:01:31.000Z",
+   "lang": "ht",
+   "url": "https://x.com/wholemars/status/2125273618615767214",
+   "kind": "post",
+   "text": "lmao",
+   "urls": [],
+   "metrics": {
+    "likes": 1880,
+    "reposts": 43,
+    "replies": 115,
+    "quotes": 8
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX59F3nbkAA7kkN.jpg",
+     "width": 1206,
+     "height": 1419
+    }
+   ],
+   "conversation_id": "2125273618615767214"
+  },
+  {
+   "id": "2125272288635376004",
+   "username": "Jason",
+   "name": "@jason",
+   "created_at": "2026-11-24T16:56:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/Jason/status/2125272288635376004",
+   "kind": "post",
+   "text": "If X is never going to redo the search feature, after 10+ years of absolute suckage, can we just swap in Grok search in our settings?! 😂😂\n\nSeriously, over five different CEOs twitter search is still stuck in 2009 — I could vibe code a better version while taping a podcast!\n\nSimple searches like “@ handle of the ceo of Delta” don’t work 🤷 — how are we supposed to dunk in customer service situations!!! 😂😂😂😂",
+   "urls": [],
+   "metrics": {
+    "likes": 3181,
+    "reposts": 87,
+    "replies": 218,
+    "quotes": 17
+   },
+   "conversation_id": "2125272288635376004"
+  },
+  {
+   "id": "2125271603693191298",
+   "username": "FranciAnjinho",
+   "name": "Franciele",
+   "created_at": "2026-11-24T16:53:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/FranciAnjinho/status/2125271603693191298",
+   "kind": "reply",
+   "text": "@ericzakariasson curious what the experiment has owners actually doing, is it testing a tool or just giving feedback?",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125268774152487241"
+   },
+   "conversation_id": "2125268774152487241"
+  },
+  {
+   "id": "2125263347373494719",
+   "username": "0x_Osprey",
+   "name": "j🫪e",
+   "created_at": "2026-11-24T16:20:42.000Z",
+   "lang": "qme",
+   "url": "https://x.com/0x_Osprey/status/2125263347373494719",
+   "kind": "quote",
+   "text": "@larsencc",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 1,
+    "replies": 1,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2043020254289248469",
+    "author_id": "805058416838410240",
+    "username": "0x_Osprey",
+    "name": "j🫪e",
+    "created_at": "2026-04-11T17:36:00.000Z",
+    "text": "List of \"reverse CAPTCHAs\" I'm aware of:\n-Moltbook did it: https://awesomeagents.ai/news/moltbook-reverse-captcha/\n- http://clawptcha.com\n- https://github.com/henrylai/CaptchAI\n- https://github.com/Dhravya/agent-captcha by @DhravyaShah\n- https://github.com/leopechnicki/im_robot\n- https://github.com/andimarafioti/not-human\n- https://botcha.xyz/ by @botchaxyz\n- @browser_use via https://docs.browser-use.com/cloud/tutorials/integrations/hermes-agent\n- Bitcoin PoW (2009) 😉",
+    "reply_to": {
+     "id": "2042913548108787924"
+    },
+    "conversation_id": "2042913548108787924"
+   },
+   "reply_to": {
+    "id": "2125250424441905306"
+   },
+   "conversation_id": "2125250424441905306"
+  },
+  {
+   "id": "2125262199711318122",
+   "username": "yunta_tsai",
+   "name": "Yun-Ta Tsai",
+   "created_at": "2026-11-24T16:16:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/yunta_tsai/status/2125262199711318122",
+   "kind": "post",
+   "text": "We live in a time where progress is so rapid that sci-fi writers struggle to keep up.",
+   "urls": [],
+   "metrics": {
+    "likes": 2658,
+    "reposts": 126,
+    "replies": 168,
+    "quotes": 16
+   },
+   "conversation_id": "2125262199711318122"
+  },
+  {
+   "id": "2125256458065580413",
+   "username": "MarsHomestead",
+   "name": "Mars 🌿",
+   "created_at": "2026-11-24T15:53:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/MarsHomestead/status/2125256458065580413",
+   "kind": "quote",
+   "text": "My bots can always see my desktop computer when I ask in the app. I can command them to do tasks on my computer from the app too.\n\nCan someone explain to me, a homesteading work-from-home Mom, what will be different implementing Matt’s new setting?",
+   "urls": [],
+   "metrics": {
+    "likes": 115,
+    "reposts": 3,
+    "replies": 14,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2125251777880871189",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "",
+    "created_at": "2026-11-24T15:34:43.000Z",
+    "text": "Grok Bot tip of the day: Turn your device into a remote server\n\nInstall bot and flip \"execution on this computer\" and \"route traffic through this computer\"\n\nGrok Bot will be able to update your files from anywhere and access sites and devices from your local network.\n\nMultiple devices = multiple servers!",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2125251740144689153/vid/avc1/1920x1080/NWdKbFS3e8g_LCus.mp4?tag=16",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125251740144689153/img/Pf6rVEeCLkAltPeI.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2125251740144689153/vid/avc1/480x270/qDZhrJWoGySbel_u.mp4?tag=16",
+        "w": 480,
+        "h": 270,
+        "br": 288000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125251740144689153/vid/avc1/640x360/vvxPvm7Uus7_uiLj.mp4?tag=16",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125251740144689153/vid/avc1/1280x720/vi3crgn8FyS7Cvkg.mp4?tag=16",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125251740144689153/vid/avc1/1920x1080/NWdKbFS3e8g_LCus.mp4?tag=16",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 29450
+     }
+    ],
+    "conversation_id": "2125251777880871189"
+   },
+   "conversation_id": "2125256458065580413"
+  },
+  {
+   "id": "2125254104511361142",
+   "username": "ReddingAi",
+   "name": "Cameron Tipton",
+   "created_at": "2026-11-24T15:43:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/ReddingAi/status/2125254104511361142",
+   "kind": "reply",
+   "text": "@mattyp @bot can you do this or tell me how to do this",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125251777880871189"
+   },
+   "conversation_id": "2125251777880871189"
+  },
+  {
+   "id": "2125253674356056263",
+   "username": "godismyjudge95",
+   "name": "Daniel Weaver",
+   "created_at": "2026-11-24T15:42:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/godismyjudge95/status/2125253674356056263",
+   "kind": "reply",
+   "text": "@mattyp Is there a way to do this on a Linux server I already have?  I have an Unraid box and am thinking it might be nice to have a local instance that is always on to be able to manage my network, server, and home assistant setup.",
+   "urls": [],
+   "metrics": {
+    "likes": 11,
+    "reposts": 0,
+    "replies": 4,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125251777880871189"
+   },
+   "conversation_id": "2125251777880871189"
+  },
+  {
+   "id": "2125253226392166835",
+   "username": "JustinWaltz",
+   "name": "Justin Waltz",
+   "created_at": "2026-11-24T15:40:29.000Z",
+   "lang": "en",
+   "url": "https://x.com/JustinWaltz/status/2125253226392166835",
+   "kind": "reply",
+   "text": "@mattyp @bot  let’s do this on my Mac but most of our files are on g drive",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125251777880871189"
+   },
+   "conversation_id": "2125251777880871189"
+  },
+  {
+   "id": "2125252287912382836",
+   "username": "n0rizkitty",
+   "name": "nori",
+   "created_at": "2026-11-24T15:36:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/n0rizkitty/status/2125252287912382836",
+   "kind": "reply",
+   "text": "@larsencc why human fail?",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125250424441905306"
+   },
+   "conversation_id": "2125250424441905306"
+  },
+  {
+   "id": "2125251253148279254",
+   "username": "solimancf",
+   "name": "Soliman",
+   "created_at": "2026-11-24T15:32:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/solimancf/status/2125251253148279254",
+   "kind": "reply",
+   "text": "@larsencc ✅ I’m not a human",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125250424441905306"
+   },
+   "conversation_id": "2125250424441905306"
+  },
+  {
+   "id": "2125251028224487813",
+   "username": "borna_perak",
+   "name": "Borna Perak",
+   "created_at": "2026-11-24T15:31:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/borna_perak/status/2125251028224487813",
+   "kind": "reply",
+   "text": "@larsencc Haha, that’s a good one!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125250424441905306"
+   },
+   "conversation_id": "2125250424441905306"
+  },
+  {
+   "id": "2125232240116605150",
+   "username": "davepl1968",
+   "name": "Dave W Plummer",
+   "created_at": "2026-11-24T14:17:05.000Z",
+   "lang": "en",
+   "url": "https://x.com/davepl1968/status/2125232240116605150",
+   "kind": "quote",
+   "text": "What does this actually mean?\n\nCompression is when the model's predictions resolve into fewer parameters than the original data set size.\n\nCorrelation adds the ability to link variables and patterns across domains, enabling prediction, reasoning, and generalization.",
+   "urls": [],
+   "metrics": {
+    "likes": 644,
+    "reposts": 26,
+    "replies": 39,
+    "quotes": 1
+   },
+   "ref": {
+    "id": "2125175732758520056",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "",
+    "created_at": "2026-11-24T10:32:33.000Z",
+    "text": "@andrew_n_carr It is compression and correlation",
+    "reply_to": {
+     "id": "2124887097324781733"
+    },
+    "conversation_id": "2124887097324781733"
+   },
+   "conversation_id": "2125232240116605150"
+  },
+  {
+   "id": "2125224802181116030",
+   "username": "BillyM2k",
+   "name": "Shibetoshi Nakamoto",
+   "created_at": "2026-11-24T13:47:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/BillyM2k/status/2125224802181116030",
+   "kind": "post",
+   "text": "if P != NP\n\nthis is good and what people think is the truth\n\nif P = NP\n\nthis means everything is fucked",
+   "urls": [],
+   "metrics": {
+    "likes": 452,
+    "reposts": 18,
+    "replies": 102,
+    "quotes": 5
+   },
+   "conversation_id": "2125224802181116030"
+  },
+  {
+   "id": "2125178842692391314",
+   "username": "jayendra_ram",
+   "name": "Jay",
+   "created_at": "2026-11-24T10:44:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/jayendra_ram/status/2125178842692391314",
+   "kind": "post",
+   "text": "By 2030 every company will be an rl environment company.",
+   "urls": [],
+   "metrics": {
+    "likes": 1210,
+    "reposts": 49,
+    "replies": 59,
+    "quotes": 16
+   },
+   "conversation_id": "2125178842692391314"
+  },
+  {
+   "id": "2125160294221828157",
+   "username": "0x45o",
+   "name": "0x45",
+   "created_at": "2026-11-24T09:31:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/0x45o/status/2125160294221828157",
+   "kind": "quote",
+   "text": "\"you can only prompt what you can imagine\"\n\nthat is why some people produce better results than others with the same AI model",
+   "urls": [],
+   "metrics": {
+    "likes": 51,
+    "reposts": 1,
+    "replies": 5,
+    "quotes": 2
+   },
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HX4WBHqXYAA94LH.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HX4WBHqXYAA94LH.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/tweet_video/HX4WBHqXYAA94LH.mp4",
+       "w": 480,
+       "h": 478,
+       "br": 0
+      }
+     ],
+     "width": 480,
+     "height": 478
+    }
+   ],
+   "ref": {
+    "id": "2125029185379008573",
+    "author_id": "2832427459",
+    "username": "poteto",
+    "name": "",
+    "created_at": "2026-11-24T00:50:13.000Z",
+    "text": "you can only prompt what you can imagine\n\ntry the new /reframe skill in pstack - for when you know what you want but are struggling to communicate it. works great with /sharpen!\n\nhttps://x.ai/bot/plugin/9717366",
+    "conversation_id": "2125029185379008573"
+   },
+   "conversation_id": "2125160294221828157"
+  },
   {
    "id": "2125139167038624048",
    "username": "Belmartian5127",
@@ -170,6 +773,69 @@
     "conversation_id": "2124846084510122276"
    },
    "conversation_id": "2125116268990648519"
+  },
+  {
+   "id": "2125113594438463942",
+   "username": "jonathan_wilke",
+   "name": "Jonathan Wilke",
+   "created_at": "2026-11-24T06:25:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/jonathan_wilke/status/2125113594438463942",
+   "kind": "quote",
+   "text": "X is going for LinkedIn.\n\nAnd I love it",
+   "urls": [],
+   "metrics": {
+    "likes": 133,
+    "reposts": 1,
+    "replies": 14,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2125049706644705283",
+    "author_id": "2606432720",
+    "username": "benjitaylor",
+    "name": "",
+    "created_at": "2026-11-24T02:11:46.000Z",
+    "text": "brb, just adding work experience to my 𝕏 profile",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/1920x1080/ARulotYSTYVbmCv1.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125046744065114112/img/enxITEt1EtTYzEu_.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/480x270/LkN0_IkdYNNCKvtx.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/640x360/JOriZPEsSgiOhame.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/1280x720/vjr4vHq_ehOMJF4U.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/1920x1080/ARulotYSTYVbmCv1.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 6000
+     }
+    ],
+    "conversation_id": "2125049706644705283"
+   },
+   "conversation_id": "2125113594438463942"
   },
   {
    "id": "2125103914664050917",
@@ -422,6 +1088,24 @@
     }
    ],
    "conversation_id": "2125041148423229570"
+  },
+  {
+   "id": "2125035053658857787",
+   "username": "roughneckactual",
+   "name": "Reco Jefferson",
+   "created_at": "2026-11-24T01:13:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/roughneckactual/status/2125035053658857787",
+   "kind": "post",
+   "text": "$2,100 in extra Grok Bot usage for the month. 90% of my usage for the month is Grok Bot. Most of it chats.\n\n@larsencc and @mattyp gotta get these new harness fixes in ASAP. We don't all have unlimited usage.",
+   "urls": [],
+   "metrics": {
+    "likes": 174,
+    "reposts": 5,
+    "replies": 28,
+    "quotes": 1
+   },
+   "conversation_id": "2125035053658857787"
   },
   {
    "id": "2125027672845865231",
@@ -814,6 +1498,24 @@
    "conversation_id": "2124955213606097117"
   },
   {
+   "id": "2124956108687298792",
+   "username": "notch",
+   "name": "notch",
+   "created_at": "2026-11-23T19:59:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/notch/status/2124956108687298792",
+   "kind": "post",
+   "text": "@AnthropicAI Yo, any chance I could get more unlimited token usage and perhaps even more speed?\n\nI've got the money to burn, and I'd love to exchange it for better goods and services. And I'm building new shit that I've never seen before.\n\nI agree with your AI manifesto, btw.",
+   "urls": [],
+   "metrics": {
+    "likes": 24651,
+    "reposts": 542,
+    "replies": 922,
+    "quotes": 338
+   },
+   "conversation_id": "2124956108687298792"
+  },
+  {
    "id": "2124955683548430643",
    "username": "johnmarkallen",
    "name": "John Mark Allen",
@@ -856,6 +1558,32 @@
     "username": "larsencc"
    },
    "conversation_id": "2124949392482554293"
+  },
+  {
+   "id": "2124954458119631160",
+   "username": "adonis_singh",
+   "name": "adi",
+   "created_at": "2026-11-23T19:53:17.000Z",
+   "lang": "en",
+   "url": "https://x.com/adonis_singh/status/2124954458119631160",
+   "kind": "post",
+   "text": "you did well friend, time to rest",
+   "urls": [],
+   "metrics": {
+    "likes": 5269,
+    "reposts": 85,
+    "replies": 71,
+    "quotes": 25
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1ayfdXUAA1A8K.png",
+     "width": 1074,
+     "height": 330
+    }
+   ],
+   "conversation_id": "2124954458119631160"
   },
   {
    "id": "2124954016925069448",
@@ -11566,878 +12294,6 @@
     }
    ],
    "conversation_id": "2123476246101176533"
-  },
-  {
-   "id": "2123472313932714038",
-   "username": "MLHacks",
-   "name": "Major League Hacking (MLH)",
-   "created_at": "2026-11-19T17:43:46.000Z",
-   "lang": "en",
-   "url": "https://x.com/MLHacks/status/2123472313932714038",
-   "kind": "post",
-   "text": "Big news for student builders! 🚀 We’re coming together with @spacexai to bring one month free of the new X Premium subscription to thousands of students globally.\n\nHere’s what’s coming👇 🧵",
-   "urls": [],
-   "metrics": {
-    "likes": 238,
-    "reposts": 19,
-    "replies": 14,
-    "quotes": 3
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/ext_tw_video/2123472212426469376/pu/vid/avc1/1280x720/MhX15leZX-mBgNqs.mp4?tag=12",
-     "poster": "https://pbs.twimg.com/ext_tw_video_thumb/2123472212426469376/pu/img/icg56OOyqESfSi_0.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/ext_tw_video/2123472212426469376/pu/vid/avc1/480x270/ENUffBQWOGh3bcLL.mp4?tag=12",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/ext_tw_video/2123472212426469376/pu/vid/avc1/640x360/SW2UxyOLUV1joIVS.mp4?tag=12",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/ext_tw_video/2123472212426469376/pu/vid/avc1/1280x720/MhX15leZX-mBgNqs.mp4?tag=12",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 116316
-    }
-   ],
-   "conversation_id": "2123472313932714038"
-  },
-  {
-   "id": "2123453748785684806",
-   "username": "aiDotEngineer",
-   "name": "AI.Engineer",
-   "created_at": "2026-11-19T16:30:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/aiDotEngineer/status/2123453748785684806",
-   "kind": "post",
-   "text": "1 million views. Our fastest talk to get there.\n\n@poteto of @spacexai on the engineering behind 11,000 production PRs in one month.\n\nAll Code Is Slop (Except Mine).\n\nWatch: https://www.youtube.com/watch?v=O_zcc6Xl12g",
-   "urls": [
-    "https://www.youtube.com/watch?v=O_zcc6Xl12g"
-   ],
-   "metrics": {
-    "likes": 547,
-    "reposts": 37,
-    "replies": 20,
-    "quotes": 9
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXgBXFaWoAAmfu6.jpg",
-     "width": 1122,
-     "height": 1402
-    }
-   ],
-   "conversation_id": "2123453748785684806"
-  },
-  {
-   "id": "2123443495591711086",
-   "username": "XFreeze",
-   "name": "X Freeze",
-   "created_at": "2026-11-19T15:49:15.000Z",
-   "lang": "en",
-   "url": "https://x.com/XFreeze/status/2123443495591711086",
-   "kind": "post",
-   "text": "Carries the weight of the world on his shoulders, yet still manages to be the best dad in the world ❤️",
-   "urls": [],
-   "metrics": {
-    "likes": 9082,
-    "reposts": 411,
-    "replies": 305,
-    "quotes": 48
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXf8mSwbQAAX8Uz.jpg",
-     "width": 3000,
-     "height": 3000
-    }
-   ],
-   "conversation_id": "2123443495591711086"
-  },
-  {
-   "id": "2123392520117997749",
-   "username": "zerohedge",
-   "name": "zerohedge",
-   "created_at": "2026-11-19T12:26:42.000Z",
-   "lang": "en",
-   "url": "https://x.com/zerohedge/status/2123392520117997749",
-   "kind": "quote",
-   "text": "NAND prices have been declining since Q2 2026 and are currently in freefall",
-   "urls": [],
-   "metrics": {
-    "likes": 946,
-    "reposts": 105,
-    "replies": 58,
-    "quotes": 16
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXfOPajXMAA446z.jpg",
-     "width": 1326,
-     "height": 710
-    }
-   ],
-   "ref": {
-    "id": "2123387067095003547",
-    "author_id": "1836240683268759552",
-    "username": "jukan05",
-    "name": "Jukan",
-    "created_at": "2026-11-19T12:05:02.000Z",
-    "text": "TF: NAND prices are expected to decline starting in Q1 2027.",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HXfJSGyW4AASVJr.jpg",
-      "width": 1080,
-      "height": 560
-     }
-    ],
-    "conversation_id": "2123387067095003547"
-   },
-   "conversation_id": "2123392520117997749"
-  },
-  {
-   "id": "2123340174784430539",
-   "username": "JamesEsses",
-   "name": "James Esses",
-   "created_at": "2026-11-19T08:58:42.000Z",
-   "lang": "en",
-   "url": "https://x.com/JamesEsses/status/2123340174784430539",
-   "kind": "post",
-   "text": "🚨This is why the Conversion Practices Bill is so dangerous🚨\n\nTwo trans activists have published an attempted hit job on me, in which they enlisted people to contact me and pose as concerned relatives seeking therapy for a distressed child.\n\nThey have used my email responses to allege that I am a “conversion therapist”.\n\nOf course, there is no basis for this allegation whatsoever (you can read the email yourself to see this).\n\nShockingly, they also claim that I am “genocidal”.\n\nAnd, as if I didn’t need further evidence that this is gutter journalism, I have discovered they have doctored some of the wording in the email I sent to this prospective client (which again I can prove).\n\nIf this is happening to therapists working in this space before legislation has come in to force, just imagine how chilling things will be once the monstrous Bill is law.\nhttps://sophie-molly-reports.beehiiv.com/p/anti-trans-activist-charges-95-per-conversion-therapy-session",
-   "urls": [
-    "https://sophie-molly-reports.beehiiv.com/p/anti-trans-activist-charges-95-per-conversion-therapy-session"
-   ],
-   "metrics": {
-    "likes": 1890,
-    "reposts": 530,
-    "replies": 104,
-    "quotes": 34
-   },
-   "conversation_id": "2123340174784430539"
-  },
-  {
-   "id": "2123310415111131622",
-   "username": "zerohedge",
-   "name": "zerohedge",
-   "created_at": "2026-11-19T07:00:26.000Z",
-   "lang": "en",
-   "url": "https://x.com/zerohedge/status/2123310415111131622",
-   "kind": "post",
-   "text": "Afghan Suspects Behind 108,000 Serious Crimes In Germany, Rapes Up 533% In A Decade https://www.zerohedge.com/geopolitical/afghan-suspects-behind-108000-serious-crimes-germany-rapes-533-decade",
-   "urls": [
-    "https://www.zerohedge.com/geopolitical/afghan-suspects-behind-108000-serious-crimes-germany-rapes-533-decade"
-   ],
-   "metrics": {
-    "likes": 4315,
-    "reposts": 794,
-    "replies": 122,
-    "quotes": 68
-   }
-  },
-  {
-   "id": "2123288418381922493",
-   "username": "profstonge",
-   "name": "Peter St Onge, Ph.D.",
-   "created_at": "2026-11-19T05:33:02.000Z",
-   "lang": "zxx",
-   "url": "https://x.com/profstonge/status/2123288418381922493",
-   "kind": "post",
-   "text": "",
-   "urls": [],
-   "metrics": {
-    "likes": 28705,
-    "reposts": 2509,
-    "replies": 355,
-    "quotes": 236
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXdvjqHXcAAbkmb.jpg",
-     "width": 1179,
-     "height": 1437
-    }
-   ],
-   "conversation_id": "2123288418381922493"
-  },
-  {
-   "id": "2123278406502744167",
-   "username": "willcb",
-   "name": "will brown",
-   "created_at": "2026-11-19T04:53:15.000Z",
-   "lang": "en",
-   "url": "https://x.com/willcb/status/2123278406502744167",
-   "kind": "reply",
-   "text": "Neon is based on Hydrogen, as well as Carbon. Carbon is based on Argon, which itself was based the unreleased Helium model. Sodium is inspired by Neon and Helium but was trained concurrently.",
-   "urls": [],
-   "metrics": {
-    "likes": 661,
-    "reposts": 17,
-    "replies": 23,
-    "quotes": 16
-   },
-   "reply_to": {
-    "id": "2123277762307969220",
-    "username": "willcb"
-   }
-  },
-  {
-   "id": "2123277762307969220",
-   "username": "willcb",
-   "name": "will brown",
-   "created_at": "2026-11-19T04:50:41.000Z",
-   "lang": "en",
-   "url": "https://x.com/willcb/status/2123277762307969220",
-   "kind": "reply",
-   "text": "the mid-tier model, Neon, remains their best and most expensive at $15. the cheapest model, Hydrogen, is fast and performant at $7.50, while the most powerful model, Carbon, is premium-priced at $10.",
-   "urls": [],
-   "metrics": {
-    "likes": 518,
-    "reposts": 5,
-    "replies": 5,
-    "quotes": 1
-   },
-   "reply_to": {
-    "id": "2123275881145930216",
-    "username": "willcb"
-   },
-   "conversation_id": "2123275881145930216"
-  },
-  {
-   "id": "2123275881145930216",
-   "username": "willcb",
-   "name": "will brown",
-   "created_at": "2026-11-19T04:43:13.000Z",
-   "lang": "en",
-   "url": "https://x.com/willcb/status/2123275881145930216",
-   "kind": "post",
-   "text": "tomorrow DeepMind will be dropping Gemini 4 Sodium, a fast yet powerful frontier model which costs just $11.75/M (introductory pricing, raises to $16.50 soon) and is their best model for various things and stuff, rivaling Argon, Carbon, Hydrogen, and Neon in several situations",
-   "urls": [],
-   "metrics": {
-    "likes": 4096,
-    "reposts": 111,
-    "replies": 256,
-    "quotes": 203
-   },
-   "conversation_id": "2123275881145930216"
-  },
-  {
-   "id": "2123226341726376324",
-   "username": "shaunmmaguire",
-   "name": "Shaun Maguire",
-   "created_at": "2026-11-19T01:26:22.000Z",
-   "lang": "en",
-   "url": "https://x.com/shaunmmaguire/status/2123226341726376324",
-   "kind": "quote",
-   "text": "People do not yet understand:\n\n1) Starship is one of the most important technologies in the history of mankind\n\n2) @SpaceX’s ship catch last weekend all but guarantees the concept works\n\n3) almost all inference compute will be in space (launched by Starship)",
-   "urls": [],
-   "metrics": {
-    "likes": 2668,
-    "reposts": 156,
-    "replies": 63,
-    "quotes": 11
-   },
-   "ref": {
-    "id": "2123220899264679988",
-    "author_id": "44196397",
-    "username": "elonmusk",
-    "name": "Elon Musk",
-    "created_at": "2026-11-19T01:04:44.000Z",
-    "text": "Catching the ship was the last major piece of the puzzle https://twitter.com/xfreeze/status/2123209734463648240",
-    "conversation_id": "2123220899264679988"
-   }
-  },
-  {
-   "id": "2123211962289176891",
-   "username": "SpaceInvestor_D",
-   "name": "Space Investor",
-   "created_at": "2026-11-19T00:29:13.000Z",
-   "lang": "en",
-   "url": "https://x.com/SpaceInvestor_D/status/2123211962289176891",
-   "kind": "post",
-   "text": "$SPCX: Satya Nadella says Microsoft would rent SpaceX compute.\n\nAsked at DealBook whether Musk is right about data centers in space:\n\"If he has SpaceX capacity that I can lease, I would lease it.\"",
-   "urls": [],
-   "metrics": {
-    "likes": 2241,
-    "reposts": 193,
-    "replies": 48,
-    "quotes": 14
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXcqBvRWkAAWwa-.jpg",
-     "width": 1024,
-     "height": 576
-    }
-   ]
-  },
-  {
-   "id": "2123208113582981412",
-   "username": "jediahkatz",
-   "name": "Jediah Katz",
-   "created_at": "2026-11-19T00:13:56.000Z",
-   "lang": "en",
-   "url": "https://x.com/jediahkatz/status/2123208113582981412",
-   "kind": "quote",
-   "text": "Google let me down too many times but I have more hope from this latest slate than I've had since Gemini 2.5 Pro",
-   "urls": [],
-   "metrics": {
-    "likes": 83,
-    "reposts": 0,
-    "replies": 6,
-    "quotes": 0
-   },
-   "ref": {
-    "id": "2123198346802450926",
-    "author_id": "1695890961094909952",
-    "username": "cursor_ai",
-    "name": "Cursor",
-    "created_at": "2026-11-18T23:35:07.000Z",
-    "text": "Gemini 4 Neon is now available in Cursor!\n\nAt its default effort, it sets a new cost-performance frontier on CursorBench 4.1, scoring 63.7%, up from 57.3% for Gemini 4 Hydrogen.\n\nPriced at $3/M input and $15/M output tokens.",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HXcdpRHagAArFvw.jpg",
-      "width": 2400,
-      "height": 1350
-     }
-    ]
-   },
-   "conversation_id": "2123208113582981412"
-  },
-  {
-   "id": "2123206072152518679",
-   "username": "aaronburnett",
-   "name": "Aaron Burnett",
-   "created_at": "2026-11-19T00:05:49.000Z",
-   "lang": "en",
-   "url": "https://x.com/aaronburnett/status/2123206072152518679",
-   "kind": "post",
-   "text": "Elon (TomorrowX) “the difference between us and everyone else building data centers is that we actually do the work…”",
-   "urls": [],
-   "metrics": {
-    "likes": 975,
-    "reposts": 33,
-    "replies": 17,
-    "quotes": 1
-   }
-  },
-  {
-   "id": "2123203404365480234",
-   "username": "firesidealpha",
-   "name": "Fireside Alpha",
-   "created_at": "2026-11-18T23:55:13.000Z",
-   "lang": "en",
-   "url": "https://x.com/firesidealpha/status/2123203404365480234",
-   "kind": "quote",
-   "text": "Elon Musk reveals Grok 4.8 is in the RL phase, and that what users get from Grok Bot is at times different versions of Grok being tested for usefulness\n\n“So this is kind of a long answer, but we are working on Grok 4.8 right now. It’s in the RL phase. And we do sort of periodic soft releases under Grok Bot.”\n\n“So what you’ll experience with Grok Bot at times is actually various versions of Grok under the hood that we’re testing to determine its usefulness. Is it solving the user’s problem? And then using that data, whether it did or did not solve the problem, to improve Grok.”\n\n“So we’ve got a good data flywheel to keep making Grok Bot better and better over time.”",
-   "urls": [],
-   "metrics": {
-    "likes": 529,
-    "reposts": 36,
-    "replies": 23,
-    "quotes": 6
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123203177302589440/vid/avc1/1280x720/ZIeVyu4sP6U4CjQH.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123203177302589440/img/uTZuGCtMrKWmio_D.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123203177302589440/vid/avc1/480x270/BFjoaBQxRzdXrOox.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123203177302589440/vid/avc1/640x360/5U9eUkrc9N7JHAdJ.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123203177302589440/vid/avc1/1280x720/ZIeVyu4sP6U4CjQH.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      }
-     ],
-     "width": 1280,
-     "height": 720,
-     "duration_ms": 48800
-    }
-   ],
-   "ref": {
-    "id": "2123203029449236953",
-    "author_id": "2066250685512110080",
-    "username": "firesidealpha",
-    "name": "Fireside Alpha",
-    "created_at": "2026-11-18T23:53:44.000Z",
-    "text": "Elon Musk says xAI might now have “the best training stack software in the world” after rewriting everything from scratch over six to eight months\n\n“And this meant rewriting the entire training, RL and inference stack from scratch, versus using JAX and SGLang, which is sort of kind of freeware from Google, more or less, but not as good as what they’ve got internally by far. So you just can’t build world class AI using mediocre freeware, to state the obvious.”\n\n“So we’ve been rewriting the entire training stack. When I say the entire training stack, I mean everything. We’re using primarily C and some C++, because we wanna get as close to the bare metal as possible in order to extract the highest performance from the hardware. The more layers of software abstraction that you have, the less performant your code will be. And it also tends to be more of a black box, where you’re not quite sure what’s going on with the third-party software.”\n\n“So now this is happening very fast by normal standards. It’s sort of happening over the course of maybe six to eight months. And now I feel we’ve actually got the software to be very good. I think we might have the best training stack software in the world, and you’ll see the dividends of that, the fruit of that, in the models that come out.”",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2123202938982277120/vid/avc1/1280x720/xvW9wYVdv-2_XKMf.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123202938982277120/img/V-W4Wv1uvXYHQgKC.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2123202938982277120/vid/avc1/480x270/Osw4rUkN6D6FHC2Y.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123202938982277120/vid/avc1/640x360/HUNPaoxcMoP80hXQ.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123202938982277120/vid/avc1/1280x720/xvW9wYVdv-2_XKMf.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       }
-      ],
-      "width": 1280,
-      "height": 720,
-      "duration_ms": 81900
-     }
-    ]
-   }
-  },
-  {
-   "id": "2123202151300448721",
-   "username": "C_3C_3",
-   "name": "C3",
-   "created_at": "2026-11-18T23:50:14.000Z",
-   "lang": "en",
-   "url": "https://x.com/C_3C_3/status/2123202151300448721",
-   "kind": "post",
-   "text": "What happened…\n\nElon: Do not use Starlink to kill.\n\nZelensky: I used Starlink to kill.\n\nLegacy Media: Elon is evil for stopping Zelensky from using Starlink to kill.\n\nDemocrats: We must investigate Elon for stopping Zelensky from using Starlink to kill.\n\nIt’s really that simple.",
-   "urls": [],
-   "metrics": {
-    "likes": 14301,
-    "reposts": 1845,
-    "replies": 224,
-    "quotes": 61
-   }
-  },
-  {
-   "id": "2123186840400482424",
-   "username": "Grummz",
-   "name": "Grummz",
-   "created_at": "2026-11-18T22:49:24.000Z",
-   "lang": "ro",
-   "url": "https://x.com/Grummz/status/2123186840400482424",
-   "kind": "post",
-   "text": "Asmongold calls GTA 6 a “cuck simulator”",
-   "urls": [],
-   "metrics": {
-    "likes": 24501,
-    "reposts": 1237,
-    "replies": 659,
-    "quotes": 129
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123171490375815168/vid/avc1/2312x1320/H69kjDI9l66TSY0u.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123171490375815168/img/sbamWIKdMGDShqel.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123171490375815168/vid/avc1/472x270/SUoMjorVj8NoNOzV.mp4",
-       "w": 472,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123171490375815168/vid/avc1/630x360/CQ6OoS_tR3P9Jv07.mp4",
-       "w": 630,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123171490375815168/vid/avc1/1260x720/sSDWj45PXZf4sY79.mp4",
-       "w": 1260,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123171490375815168/vid/avc1/2312x1320/H69kjDI9l66TSY0u.mp4",
-       "w": 2312,
-       "h": 1320,
-       "br": 10368000
-      }
-     ],
-     "width": 2312,
-     "height": 1320,
-     "duration_ms": 72770
-    }
-   ],
-   "conversation_id": "2123186840400482424"
-  },
-  {
-   "id": "2123184309137965524",
-   "username": "sundarpichai",
-   "name": "Sundar Pichai",
-   "created_at": "2026-11-18T22:39:20.000Z",
-   "lang": "en",
-   "url": "https://x.com/sundarpichai/status/2123184309137965524",
-   "kind": "quote",
-   "text": "Below Neon 3D modeled a photorealistic lab simulation in Antigravity via Blender MCP 🔥",
-   "urls": [],
-   "metrics": {
-    "likes": 8893,
-    "reposts": 431,
-    "replies": 264,
-    "quotes": 89
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123179534854033408/vid/avc1/1920x1080/hoLXqowhe4ksiXcm.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123179534854033408/img/oY3h5NUdR7i3Zpsc.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123179534854033408/vid/avc1/480x270/VaFl2tmH5J_s6F9q.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123179534854033408/vid/avc1/640x360/DLm8nyb0DP1IeXay.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123179534854033408/vid/avc1/1280x720/P3LQV1seZaetMY6q.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123179534854033408/vid/avc1/1920x1080/hoLXqowhe4ksiXcm.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 35000
-    }
-   ],
-   "ref": {
-    "id": "2123143850210533408",
-    "author_id": "14130366",
-    "username": "sundarpichai",
-    "name": "Sundar Pichai",
-    "created_at": "2026-11-18T19:58:34.000Z",
-    "text": "Happy WedNEsday!",
-    "media": [
-     {
-      "type": "animated_gif",
-      "url": "https://video.twimg.com/tweet_video/HXbsB_laQAAMO47.mp4",
-      "poster": "https://pbs.twimg.com/tweet_video_thumb/HXbsB_laQAAMO47.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/tweet_video/HXbsB_laQAAMO47.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 0
-       }
-      ],
-      "width": 640,
-      "height": 360
-     }
-    ]
-   }
-  },
-  {
-   "id": "2123168218743554465",
-   "username": "demishassabis",
-   "name": "Demis Hassabis",
-   "created_at": "2026-11-18T21:35:24.000Z",
-   "lang": "en",
-   "url": "https://x.com/demishassabis/status/2123168218743554465",
-   "kind": "post",
-   "text": "Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro & Ultra users now!! We think you’ll enjoy this model. Alchemy at its finest… 🧪",
-   "urls": [],
-   "metrics": {
-    "likes": 6763,
-    "reposts": 444,
-    "replies": 276,
-    "quotes": 124
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXcAo5FbEAAB1wx.png",
-     "width": 3840,
-     "height": 3342
-    }
-   ]
-  },
-  {
-   "id": "2123167780988125621",
-   "username": "sundarpichai",
-   "name": "Sundar Pichai",
-   "created_at": "2026-11-18T21:33:40.000Z",
-   "lang": "en",
-   "url": "https://x.com/sundarpichai/status/2123167780988125621",
-   "kind": "post",
-   "text": "Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.\n\nBegins rolling out today in the Gemini API in @GoogleAIStudio, Gemini for business, for paid Google AI Pro and Ultra subscribers in Google @Antigravity, and for Google AI Pro and Ultra subscribers in the @GeminiApp.",
-   "urls": [],
-   "metrics": {
-    "likes": 10273,
-    "reposts": 829,
-    "replies": 524,
-    "quotes": 421
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXb9cQabgAAOkkn.png",
-     "width": 3840,
-     "height": 3342
-    }
-   ]
-  },
-  {
-   "id": "2123146581071593629",
-   "username": "hddndoors",
-   "name": "hddndoors",
-   "created_at": "2026-11-18T20:09:25.000Z",
-   "lang": "en",
-   "url": "https://x.com/hddndoors/status/2123146581071593629",
-   "kind": "post",
-   "text": "Asmongold has to unclog a sink in GTA 6: \"Are you kidding me?\" … \"Why do I have to do this for her?\"",
-   "urls": [],
-   "metrics": {
-    "likes": 13957,
-    "reposts": 534,
-    "replies": 546,
-    "quotes": 232
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123146447985971200/vid/avc1/1920x1080/2B5RkrhN_2Z1DNoT.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123146447985971200/img/NCrHlJ4l1tbHJ_4t.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123146447985971200/vid/avc1/480x270/zC5ihVes2e6yKb8l.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123146447985971200/vid/avc1/640x360/9wNGVgvUOhb-PWDh.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123146447985971200/vid/avc1/1280x720/-iLD7YSier3qMCIQ.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123146447985971200/vid/avc1/1920x1080/2B5RkrhN_2Z1DNoT.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 56000
-    }
-   ],
-   "conversation_id": "2123146581071593629"
-  },
-  {
-   "id": "2123120368894255240",
-   "username": "peterrhague",
-   "name": "Peter Hague",
-   "created_at": "2026-11-18T18:25:16.000Z",
-   "lang": "en",
-   "url": "https://x.com/peterrhague/status/2123120368894255240",
-   "kind": "quote",
-   "text": "The real Thucydides Trap is trying to say “Thucydides” when you’ve had a few.",
-   "urls": [],
-   "metrics": {
-    "likes": 385,
-    "reposts": 14,
-    "replies": 25,
-    "quotes": 3
-   },
-   "ref": {
-    "id": "2123017891167785201",
-    "author_id": "44196397",
-    "username": "elonmusk",
-    "name": "Elon Musk",
-    "created_at": "2026-11-18T11:38:03.000Z",
-    "text": "Is the Thucydides Trap ever avoidable?\n\nI wish it were, but, inevitably, the most interesting outcome is the most likely."
-   }
-  },
-  {
-   "id": "2123102642704675241",
-   "username": "ericzakariasson",
-   "name": "eric zakariasson",
-   "created_at": "2026-11-18T17:14:50.000Z",
-   "lang": "en",
-   "url": "https://x.com/ericzakariasson/status/2123102642704675241",
-   "kind": "post",
-   "text": "https://grok-bot.directory is live!\n\nthe community directory for grok bot: browse and install bots & apps people have built, or publish your own\n\nlet me know which your favorites are",
-   "urls": [
-    "https://grok-bot.directory"
-   ],
-   "metrics": {
-    "likes": 1473,
-    "reposts": 133,
-    "replies": 159,
-    "quotes": 62
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/1920x1080/EsMG5qyJaN3_oz4N.mp4?tag=16",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123102605375393792/img/yKvqYH-LvfkhlBfV.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/480x270/N71RH-iMRaNJmHyr.mp4?tag=16",
-       "w": 480,
-       "h": 270,
-       "br": 288000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/640x360/2h0Pq9jO8MyBjfhE.mp4?tag=16",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/1280x720/Caj8wpnKZJR-m0ar.mp4?tag=16",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/1920x1080/EsMG5qyJaN3_oz4N.mp4?tag=16",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 24000
-    }
-   ]
-  },
-  {
-   "id": "2123100609477824576",
-   "username": "loccoai",
-   "name": "loccointelligence",
-   "created_at": "2026-11-18T17:06:45.000Z",
-   "lang": "en",
-   "url": "https://x.com/loccoai/status/2123100609477824576",
-   "kind": "reply",
-   "text": "I'd suggest modifying the axes labels as follows:\nx-axis: Average cost per task (lower is better)\ny-axis: Score (higher is better)\n\nYes, yes, in hindsight, this is trivial but when I first look at charts, I want to understand the axes right away, and more importantly, I want to know right away what the best \"measurements\" are.\n\nAlso, it helps A LOT when comparing too, imo!",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2123073081489113331",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2123076059113328674",
-   "username": "davidwong",
-   "name": "David Wong",
-   "created_at": "2026-11-18T15:29:11.000Z",
-   "lang": "en",
-   "url": "https://x.com/davidwong/status/2123076059113328674",
-   "kind": "reply",
-   "text": "@mattyp Super useful and exciting to see. Thanks, Matt!",
-   "urls": [],
-   "metrics": {
-    "likes": 2,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2123073081489113331",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2123073370631659952",
-   "username": "The_CozyDev",
-   "name": "TheCozyDev",
-   "created_at": "2026-11-18T15:18:31.000Z",
-   "lang": "en",
-   "url": "https://x.com/The_CozyDev/status/2123073370631659952",
-   "kind": "reply",
-   "text": "@mattyp Amazing. This is super useful, thank you Matt 💜",
-   "urls": [],
-   "metrics": {
-    "likes": 2,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2123073081489113331",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2123069165334675742",
-   "username": "willdepue",
-   "name": "will depue",
-   "created_at": "2026-11-18T15:01:48.000Z",
-   "lang": "en",
-   "url": "https://x.com/willdepue/status/2123069165334675742",
-   "kind": "post",
-   "text": "guys we're in the fucking singularity. oh my god. i just forget sometimes and then wake up in the middle of the night like oh my god its all happening",
-   "urls": [],
-   "metrics": {
-    "likes": 4653,
-    "reposts": 252,
-    "replies": 296,
-    "quotes": 57
-   },
-   "conversation_id": "2123069165334675742"
   }
  ]
 }

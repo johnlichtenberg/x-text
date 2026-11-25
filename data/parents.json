@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T14:21:11Z",
+ "updated_at": "2026-11-25T04:38:01Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -22933,6 +22933,734 @@
     "username": "larsencc"
    },
    "conversation_id": "2124846084510122276"
+  },
+  {
+   "id": "2125414853682884927",
+   "username": "ivanleomk",
+   "name": "Ivan Leo",
+   "created_at": "2026-11-25T02:22:44.000Z",
+   "lang": "en",
+   "url": "https://x.com/ivanleomk/status/2125414853682884927",
+   "kind": "quote",
+   "text": "All this was built with @antigravity remote mode witouth me doing anything but promoting neon to use @HyperFrames_  :)",
+   "urls": [],
+   "metrics": {
+    "likes": 48,
+    "reposts": 2,
+    "replies": 10,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2125413763293790371",
+    "author_id": "267160799",
+    "username": "ivanleomk",
+    "name": "Ivan Leo",
+    "created_at": "2026-11-25T02:18:24.000Z",
+    "text": "Quick recap of everything we've shipped at @GoogleDeepMind  over the last few weeks and some great demos I loved\n\n0:00 Gemini 4 Neon\n1:21 Antigravity /swarm using parallel agents to scale inference\n2:33 Genie 4 over the API!\n3:10 Managed Agents API launching bring your own sandbox\n3:40 Interactions API now supports native PDFs & page-level File Slicing\n\nStay tuned for more updates!",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2125412734326231040/vid/avc1/1920x1080/047BhhFljepwY3Cn.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125412734326231040/img/LJfSpNca02l4GIn0.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2125412734326231040/vid/avc1/480x270/CI8i9ZWfKS16BJdQ.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125412734326231040/vid/avc1/640x360/eZ-yEvlXS9niYvN1.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125412734326231040/vid/avc1/1280x720/0cDRiFg-mpQUYQWL.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125412734326231040/vid/avc1/1920x1080/047BhhFljepwY3Cn.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 255500
+     }
+    ],
+    "conversation_id": "2125413763293790371"
+   },
+   "conversation_id": "2125414853682884927"
+  },
+  {
+   "id": "2125272288635376004",
+   "username": "Jason",
+   "name": "@jason",
+   "created_at": "2026-11-24T16:56:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/Jason/status/2125272288635376004",
+   "kind": "post",
+   "text": "If X is never going to redo the search feature, after 10+ years of absolute suckage, can we just swap in Grok search in our settings?! 😂😂\n\nSeriously, over five different CEOs twitter search is still stuck in 2009 — I could vibe code a better version while taping a podcast!\n\nSimple searches like “@ handle of the ceo of Delta” don’t work 🤷 — how are we supposed to dunk in customer service situations!!! 😂😂😂😂",
+   "urls": [],
+   "metrics": {
+    "likes": 3181,
+    "reposts": 87,
+    "replies": 218,
+    "quotes": 17
+   },
+   "conversation_id": "2125272288635376004"
+  },
+  {
+   "id": "2125349059774881943",
+   "username": "AdamHoltererer",
+   "name": "Adam Holter",
+   "created_at": "2026-11-24T22:01:17.000Z",
+   "lang": "en",
+   "url": "https://x.com/AdamHoltererer/status/2125349059774881943",
+   "kind": "post",
+   "text": "I don't like Claude Duet",
+   "urls": [],
+   "metrics": {
+    "likes": 150,
+    "reposts": 2,
+    "replies": 35,
+    "quotes": 2
+   },
+   "conversation_id": "2125349059774881943"
+  },
+  {
+   "id": "2125370884382990747",
+   "username": "danshipper",
+   "name": "Dan Shipper",
+   "created_at": "2026-11-24T23:28:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/danshipper/status/2125370884382990747",
+   "kind": "post",
+   "text": "VIBE SHIFT:\n\nmost of us @every have stopped using Duet... just not improving fast enough, and competitors like Dots are very good",
+   "urls": [],
+   "metrics": {
+    "likes": 311,
+    "reposts": 4,
+    "replies": 50,
+    "quotes": 11
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX7Vb54WMAAjbBJ.jpg",
+     "width": 1390,
+     "height": 2206
+    }
+   ],
+   "conversation_id": "2125370884382990747"
+  },
+  {
+   "id": "2125319066512691287",
+   "username": "chribjel",
+   "name": "Christoffer Bjelke",
+   "created_at": "2026-11-24T20:02:06.000Z",
+   "lang": "en",
+   "url": "https://x.com/chribjel/status/2125319066512691287",
+   "kind": "post",
+   "text": "mattyp mattyp mattyp @mattyp\npoteto poteto poteto @poteto\n\npls pls pls make the default model in cloud agents stop reverting back to \"grok 4.7 500k high fast\"\n\ntakes about 5-30 minutes and it reverts back to that every time i update it",
+   "urls": [],
+   "metrics": {
+    "likes": 25,
+    "reposts": 0,
+    "replies": 5,
+    "quotes": 1
+   },
+   "conversation_id": "2125319066512691287"
+  },
+  {
+   "id": "2125323605634347337",
+   "username": "ivx0x",
+   "name": "Carvenous 🎩",
+   "created_at": "2026-11-24T20:20:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/ivx0x/status/2125323605634347337",
+   "kind": "reply",
+   "text": "@larsencc So much ignorance in full display it's concerning",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2124846084510122276"
+   },
+   "conversation_id": "2124846084510122276"
+  },
+  {
+   "id": "2125280341112115274",
+   "username": "sunglassesface",
+   "name": "orlie",
+   "created_at": "2026-11-24T17:28:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/sunglassesface/status/2125280341112115274",
+   "kind": "reply",
+   "text": "@larsencc @bot Which plan is he using?",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125269463562076646"
+   },
+   "conversation_id": "2125269463562076646"
+  },
+  {
+   "id": "2125276085935849581",
+   "username": "EmilioSchwaiger",
+   "name": "Emilio",
+   "created_at": "2026-11-24T17:11:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/EmilioSchwaiger/status/2125276085935849581",
+   "kind": "reply",
+   "text": "@larsencc @bot back in europe babyyy",
+   "urls": [],
+   "metrics": {
+    "likes": 6,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125269463562076646"
+   },
+   "conversation_id": "2125269463562076646"
+  },
+  {
+   "id": "2125273618615767214",
+   "username": "wholemars",
+   "name": "Whole Mars Catalog",
+   "created_at": "2026-11-24T17:01:31.000Z",
+   "lang": "ht",
+   "url": "https://x.com/wholemars/status/2125273618615767214",
+   "kind": "post",
+   "text": "lmao",
+   "urls": [],
+   "metrics": {
+    "likes": 1880,
+    "reposts": 43,
+    "replies": 115,
+    "quotes": 8
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX59F3nbkAA7kkN.jpg",
+     "width": 1206,
+     "height": 1419
+    }
+   ],
+   "conversation_id": "2125273618615767214"
+  },
+  {
+   "id": "2125271603693191298",
+   "username": "FranciAnjinho",
+   "name": "Franciele",
+   "created_at": "2026-11-24T16:53:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/FranciAnjinho/status/2125271603693191298",
+   "kind": "reply",
+   "text": "@ericzakariasson curious what the experiment has owners actually doing, is it testing a tool or just giving feedback?",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125268774152487241"
+   },
+   "conversation_id": "2125268774152487241"
+  },
+  {
+   "id": "2124956108687298792",
+   "username": "notch",
+   "name": "notch",
+   "created_at": "2026-11-23T19:59:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/notch/status/2124956108687298792",
+   "kind": "post",
+   "text": "@AnthropicAI Yo, any chance I could get more unlimited token usage and perhaps even more speed?\n\nI've got the money to burn, and I'd love to exchange it for better goods and services. And I'm building new shit that I've never seen before.\n\nI agree with your AI manifesto, btw.",
+   "urls": [],
+   "metrics": {
+    "likes": 24651,
+    "reposts": 542,
+    "replies": 922,
+    "quotes": 338
+   },
+   "conversation_id": "2124956108687298792"
+  },
+  {
+   "id": "2124954458119631160",
+   "username": "adonis_singh",
+   "name": "adi",
+   "created_at": "2026-11-23T19:53:17.000Z",
+   "lang": "en",
+   "url": "https://x.com/adonis_singh/status/2124954458119631160",
+   "kind": "post",
+   "text": "you did well friend, time to rest",
+   "urls": [],
+   "metrics": {
+    "likes": 5269,
+    "reposts": 85,
+    "replies": 71,
+    "quotes": 25
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1ayfdXUAA1A8K.png",
+     "width": 1074,
+     "height": 330
+    }
+   ],
+   "conversation_id": "2124954458119631160"
+  },
+  {
+   "id": "2125232240116605150",
+   "username": "davepl1968",
+   "name": "Dave W Plummer",
+   "created_at": "2026-11-24T14:17:05.000Z",
+   "lang": "en",
+   "url": "https://x.com/davepl1968/status/2125232240116605150",
+   "kind": "quote",
+   "text": "What does this actually mean?\n\nCompression is when the model's predictions resolve into fewer parameters than the original data set size.\n\nCorrelation adds the ability to link variables and patterns across domains, enabling prediction, reasoning, and generalization.",
+   "urls": [],
+   "metrics": {
+    "likes": 644,
+    "reposts": 26,
+    "replies": 39,
+    "quotes": 1
+   },
+   "ref": {
+    "id": "2125175732758520056",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "",
+    "created_at": "2026-11-24T10:32:33.000Z",
+    "text": "@andrew_n_carr It is compression and correlation",
+    "reply_to": {
+     "id": "2124887097324781733"
+    },
+    "conversation_id": "2124887097324781733"
+   },
+   "conversation_id": "2125232240116605150"
+  },
+  {
+   "id": "2125263347373494719",
+   "username": "0x_Osprey",
+   "name": "j🫪e",
+   "created_at": "2026-11-24T16:20:42.000Z",
+   "lang": "qme",
+   "url": "https://x.com/0x_Osprey/status/2125263347373494719",
+   "kind": "quote",
+   "text": "@larsencc",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 1,
+    "replies": 1,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2043020254289248469",
+    "author_id": "805058416838410240",
+    "username": "0x_Osprey",
+    "name": "j🫪e",
+    "created_at": "2026-04-11T17:36:00.000Z",
+    "text": "List of \"reverse CAPTCHAs\" I'm aware of:\n-Moltbook did it: https://awesomeagents.ai/news/moltbook-reverse-captcha/\n- http://clawptcha.com\n- https://github.com/henrylai/CaptchAI\n- https://github.com/Dhravya/agent-captcha by @DhravyaShah\n- https://github.com/leopechnicki/im_robot\n- https://github.com/andimarafioti/not-human\n- https://botcha.xyz/ by @botchaxyz\n- @browser_use via https://docs.browser-use.com/cloud/tutorials/integrations/hermes-agent\n- Bitcoin PoW (2009) 😉",
+    "reply_to": {
+     "id": "2042913548108787924"
+    },
+    "conversation_id": "2042913548108787924"
+   },
+   "reply_to": {
+    "id": "2125250424441905306"
+   },
+   "conversation_id": "2125250424441905306"
+  },
+  {
+   "id": "2125262199711318122",
+   "username": "yunta_tsai",
+   "name": "Yun-Ta Tsai",
+   "created_at": "2026-11-24T16:16:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/yunta_tsai/status/2125262199711318122",
+   "kind": "post",
+   "text": "We live in a time where progress is so rapid that sci-fi writers struggle to keep up.",
+   "urls": [],
+   "metrics": {
+    "likes": 2658,
+    "reposts": 126,
+    "replies": 168,
+    "quotes": 16
+   },
+   "conversation_id": "2125262199711318122"
+  },
+  {
+   "id": "2125256458065580413",
+   "username": "MarsHomestead",
+   "name": "Mars 🌿",
+   "created_at": "2026-11-24T15:53:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/MarsHomestead/status/2125256458065580413",
+   "kind": "quote",
+   "text": "My bots can always see my desktop computer when I ask in the app. I can command them to do tasks on my computer from the app too.\n\nCan someone explain to me, a homesteading work-from-home Mom, what will be different implementing Matt’s new setting?",
+   "urls": [],
+   "metrics": {
+    "likes": 115,
+    "reposts": 3,
+    "replies": 14,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2125251777880871189",
+    "author_id": "1518984544421965824",
+    "username": "mattyp",
+    "name": "",
+    "created_at": "2026-11-24T15:34:43.000Z",
+    "text": "Grok Bot tip of the day: Turn your device into a remote server\n\nInstall bot and flip \"execution on this computer\" and \"route traffic through this computer\"\n\nGrok Bot will be able to update your files from anywhere and access sites and devices from your local network.\n\nMultiple devices = multiple servers!",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2125251740144689153/vid/avc1/1920x1080/NWdKbFS3e8g_LCus.mp4?tag=16",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125251740144689153/img/Pf6rVEeCLkAltPeI.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2125251740144689153/vid/avc1/480x270/qDZhrJWoGySbel_u.mp4?tag=16",
+        "w": 480,
+        "h": 270,
+        "br": 288000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125251740144689153/vid/avc1/640x360/vvxPvm7Uus7_uiLj.mp4?tag=16",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125251740144689153/vid/avc1/1280x720/vi3crgn8FyS7Cvkg.mp4?tag=16",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125251740144689153/vid/avc1/1920x1080/NWdKbFS3e8g_LCus.mp4?tag=16",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 3840,
+      "height": 2160,
+      "duration_ms": 29450
+     }
+    ],
+    "conversation_id": "2125251777880871189"
+   },
+   "conversation_id": "2125256458065580413"
+  },
+  {
+   "id": "2125254104511361142",
+   "username": "ReddingAi",
+   "name": "Cameron Tipton",
+   "created_at": "2026-11-24T15:43:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/ReddingAi/status/2125254104511361142",
+   "kind": "reply",
+   "text": "@mattyp @bot can you do this or tell me how to do this",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125251777880871189"
+   },
+   "conversation_id": "2125251777880871189"
+  },
+  {
+   "id": "2125253226392166835",
+   "username": "JustinWaltz",
+   "name": "Justin Waltz",
+   "created_at": "2026-11-24T15:40:29.000Z",
+   "lang": "en",
+   "url": "https://x.com/JustinWaltz/status/2125253226392166835",
+   "kind": "reply",
+   "text": "@mattyp @bot  let’s do this on my Mac but most of our files are on g drive",
+   "urls": [],
+   "metrics": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125251777880871189"
+   },
+   "conversation_id": "2125251777880871189"
+  },
+  {
+   "id": "2125253674356056263",
+   "username": "godismyjudge95",
+   "name": "Daniel Weaver",
+   "created_at": "2026-11-24T15:42:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/godismyjudge95/status/2125253674356056263",
+   "kind": "reply",
+   "text": "@mattyp Is there a way to do this on a Linux server I already have?  I have an Unraid box and am thinking it might be nice to have a local instance that is always on to be able to manage my network, server, and home assistant setup.",
+   "urls": [],
+   "metrics": {
+    "likes": 11,
+    "reposts": 0,
+    "replies": 4,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125251777880871189"
+   },
+   "conversation_id": "2125251777880871189"
+  },
+  {
+   "id": "2125178842692391314",
+   "username": "jayendra_ram",
+   "name": "Jay",
+   "created_at": "2026-11-24T10:44:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/jayendra_ram/status/2125178842692391314",
+   "kind": "post",
+   "text": "By 2030 every company will be an rl environment company.",
+   "urls": [],
+   "metrics": {
+    "likes": 1210,
+    "reposts": 49,
+    "replies": 59,
+    "quotes": 16
+   },
+   "conversation_id": "2125178842692391314"
+  },
+  {
+   "id": "2125113594438463942",
+   "username": "jonathan_wilke",
+   "name": "Jonathan Wilke",
+   "created_at": "2026-11-24T06:25:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/jonathan_wilke/status/2125113594438463942",
+   "kind": "quote",
+   "text": "X is going for LinkedIn.\n\nAnd I love it",
+   "urls": [],
+   "metrics": {
+    "likes": 133,
+    "reposts": 1,
+    "replies": 14,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2125049706644705283",
+    "author_id": "2606432720",
+    "username": "benjitaylor",
+    "name": "",
+    "created_at": "2026-11-24T02:11:46.000Z",
+    "text": "brb, just adding work experience to my 𝕏 profile",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/1920x1080/ARulotYSTYVbmCv1.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125046744065114112/img/enxITEt1EtTYzEu_.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/480x270/LkN0_IkdYNNCKvtx.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/640x360/JOriZPEsSgiOhame.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/1280x720/vjr4vHq_ehOMJF4U.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125046744065114112/vid/avc1/1920x1080/ARulotYSTYVbmCv1.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 6000
+     }
+    ],
+    "conversation_id": "2125049706644705283"
+   },
+   "conversation_id": "2125113594438463942"
+  },
+  {
+   "id": "2125251253148279254",
+   "username": "solimancf",
+   "name": "Soliman",
+   "created_at": "2026-11-24T15:32:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/solimancf/status/2125251253148279254",
+   "kind": "reply",
+   "text": "@larsencc ✅ I’m not a human",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125250424441905306"
+   },
+   "conversation_id": "2125250424441905306"
+  },
+  {
+   "id": "2125252287912382836",
+   "username": "n0rizkitty",
+   "name": "nori",
+   "created_at": "2026-11-24T15:36:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/n0rizkitty/status/2125252287912382836",
+   "kind": "reply",
+   "text": "@larsencc why human fail?",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125250424441905306"
+   },
+   "conversation_id": "2125250424441905306"
+  },
+  {
+   "id": "2125251028224487813",
+   "username": "borna_perak",
+   "name": "Borna Perak",
+   "created_at": "2026-11-24T15:31:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/borna_perak/status/2125251028224487813",
+   "kind": "reply",
+   "text": "@larsencc Haha, that’s a good one!",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2125250424441905306"
+   },
+   "conversation_id": "2125250424441905306"
+  },
+  {
+   "id": "2125224802181116030",
+   "username": "BillyM2k",
+   "name": "Shibetoshi Nakamoto",
+   "created_at": "2026-11-24T13:47:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/BillyM2k/status/2125224802181116030",
+   "kind": "post",
+   "text": "if P != NP\n\nthis is good and what people think is the truth\n\nif P = NP\n\nthis means everything is fucked",
+   "urls": [],
+   "metrics": {
+    "likes": 452,
+    "reposts": 18,
+    "replies": 102,
+    "quotes": 5
+   },
+   "conversation_id": "2125224802181116030"
+  },
+  {
+   "id": "2125160294221828157",
+   "username": "0x45o",
+   "name": "0x45",
+   "created_at": "2026-11-24T09:31:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/0x45o/status/2125160294221828157",
+   "kind": "quote",
+   "text": "\"you can only prompt what you can imagine\"\n\nthat is why some people produce better results than others with the same AI model",
+   "urls": [],
+   "metrics": {
+    "likes": 51,
+    "reposts": 1,
+    "replies": 5,
+    "quotes": 2
+   },
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HX4WBHqXYAA94LH.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HX4WBHqXYAA94LH.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/tweet_video/HX4WBHqXYAA94LH.mp4",
+       "w": 480,
+       "h": 478,
+       "br": 0
+      }
+     ],
+     "width": 480,
+     "height": 478
+    }
+   ],
+   "ref": {
+    "id": "2125029185379008573",
+    "author_id": "2832427459",
+    "username": "poteto",
+    "name": "",
+    "created_at": "2026-11-24T00:50:13.000Z",
+    "text": "you can only prompt what you can imagine\n\ntry the new /reframe skill in pstack - for when you know what you want but are struggling to communicate it. works great with /sharpen!\n\nhttps://x.ai/bot/plugin/9717366",
+    "conversation_id": "2125029185379008573"
+   },
+   "conversation_id": "2125160294221828157"
+  },
+  {
+   "id": "2125035053658857787",
+   "username": "roughneckactual",
+   "name": "Reco Jefferson",
+   "created_at": "2026-11-24T01:13:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/roughneckactual/status/2125035053658857787",
+   "kind": "post",
+   "text": "$2,100 in extra Grok Bot usage for the month. 90% of my usage for the month is Grok Bot. Most of it chats.\n\n@larsencc and @mattyp gotta get these new harness fixes in ASAP. We don't all have unlimited usage.",
+   "urls": [],
+   "metrics": {
+    "likes": 174,
+    "reposts": 5,
+    "replies": 28,
+    "quotes": 1
+   },
+   "conversation_id": "2125035053658857787"
   }
  ],
  "missing": [

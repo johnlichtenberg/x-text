@@ -1,7 +1,313 @@
 {
  "id": "2026-11-p7",
- "updated_at": "2026-11-25T04:37:35Z",
+ "updated_at": "2026-11-25T05:25:10Z",
  "posts": [
+  {
+   "id": "2116969891945414749",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T19:05:28.000Z",
+   "lang": "en",
+   "conversation_id": "2116568452999811499",
+   "url": "https://x.com/elonmusk/status/2116969891945414749",
+   "reply_to": {
+    "id": "2116568452999811499",
+    "username": "KyleReidhead"
+   },
+   "kind": "reply",
+   "text": "@KyleReidhead Interesting",
+   "urls": [],
+   "metrics": {
+    "likes": 1483,
+    "reposts": 73,
+    "replies": 170,
+    "quotes": 9
+   }
+  },
+  {
+   "id": "2116969654849868192",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T19:04:31.000Z",
+   "lang": "en",
+   "conversation_id": "2116969654849868192",
+   "url": "https://x.com/elonmusk/status/2116969654849868192",
+   "kind": "quote",
+   "text": "Talarico will vote to trans your kids",
+   "urls": [],
+   "metrics": {
+    "likes": 53014,
+    "reposts": 8783,
+    "replies": 5755,
+    "quotes": 499
+   },
+   "ref": {
+    "id": "2116923224063664354",
+    "author_id": "1841988608825466880",
+    "username": "america",
+    "name": "America",
+    "created_at": "2026-11-01T16:00:01.000Z",
+    "text": "Texas Democrat James Talarico: “What would Jesus do if he visited the Texas legislature? I think he would tell us: 'Blessed are the trans children'…”",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2072357782624288768/vid/avc1/1920x1080/Zi9CT1XMsSQG9zfe.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2072357782624288768/img/sW-CGsithRE8gZus.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2072357782624288768/vid/avc1/480x270/-duHRh_iTzAF6b8B.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2072357782624288768/vid/avc1/640x360/lCxiXwsxlTit-4pO.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2072357782624288768/vid/avc1/1280x720/rgozT_QtRBYkrYv9.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2072357782624288768/vid/avc1/1920x1080/Zi9CT1XMsSQG9zfe.mp4",
+        "w": 1920,
+        "h": 1080,
+        "br": 10368000
+       }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "duration_ms": 14047
+     }
+    ],
+    "conversation_id": "2116923224063664354"
+   }
+  },
+  {
+   "id": "2116969019303432203",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T19:02:00.000Z",
+   "lang": "en",
+   "conversation_id": "2116968674590441904",
+   "url": "https://x.com/elonmusk/status/2116969019303432203",
+   "reply_to": {
+    "id": "2116968674590441904",
+    "username": "elonmusk"
+   },
+   "kind": "reply",
+   "text": "38,000 foot air gap!",
+   "urls": [],
+   "metrics": {
+    "likes": 2845,
+    "reposts": 215,
+    "replies": 212,
+    "quotes": 14
+   }
+  },
+  {
+   "id": "2116968674590441904",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T19:00:38.000Z",
+   "lang": "en",
+   "conversation_id": "2116968674590441904",
+   "url": "https://x.com/elonmusk/status/2116968674590441904",
+   "kind": "quote",
+   "text": "“Best way to sandbox an AI,” said Musk. “Put it on a Delta flight: No escape is possible.”",
+   "urls": [],
+   "metrics": {
+    "likes": 9976,
+    "reposts": 662,
+    "replies": 568,
+    "quotes": 76
+   },
+   "ref": {
+    "id": "2116955860073414760",
+    "author_id": "1087640384975577089",
+    "username": "ns123abc",
+    "name": "NIK",
+    "created_at": "2026-11-01T18:09:42.000Z",
+    "text": "be Greg Brockman\ngo to White House dinner to beg your enemies for compute\n\n> \"h-hey Elon... got any spare compute bro?\"\n\nElon calls you out in front of the entire room: \"DUDE, you stole my charity! You can't be a huge dick then ask for favors, hello?\"\n\nSergey Brin: “He was asking me for compute too. How many grown men do you know that keep a diary? If I did I’d burn it.”\n\nLMAOOOOOOOO",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWDuTByXwAAZCrE.jpg",
+      "width": 1200,
+      "height": 800
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWDuTCAWsAAtyqk.jpg",
+      "width": 1053,
+      "height": 1200
+     }
+    ],
+    "conversation_id": "2116955860073414760"
+   }
+  },
+  {
+   "id": "2116966775523053954",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T18:53:05.000Z",
+   "lang": "zxx",
+   "conversation_id": "2116966775523053954",
+   "url": "https://x.com/elonmusk/status/2116966775523053954",
+   "kind": "repost",
+   "text": "https://x.com/i/article/2116710127222812673",
+   "urls": [
+    "https://x.com/i/article/2116710127222812673"
+   ],
+   "metrics": {
+    "likes": 1100,
+    "reposts": 157,
+    "replies": 52,
+    "quotes": 16
+   },
+   "article_title": "Gun Range and Spam: SpaceX's Two Massive New AI Data Centers",
+   "ref": {
+    "id": "2116720147113058754",
+    "author_id": "261388832",
+    "username": "CernBasher",
+    "name": "Cern Basher",
+    "created_at": "2026-11-01T02:33:04.000Z",
+    "conversation_id": "2116720147113058754"
+   }
+  },
+  {
+   "id": "2116963658559627604",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T18:40:42.000Z",
+   "lang": "en",
+   "conversation_id": "2116963658559627604",
+   "url": "https://x.com/elonmusk/status/2116963658559627604",
+   "kind": "repost",
+   "text": "Democrat Haley Stevens after endorsing Republican Mike Rogers over Abdul El-Sayed: “My vote for Senate will be for Mike Rogers because we have to stand with country. We can't stand with hate, we can't stand with Hasan Piker... I stood with my party and I was booed off the stage.”",
+   "urls": [],
+   "metrics": {
+    "likes": 6703,
+    "reposts": 1246,
+    "replies": 287,
+    "quotes": 62
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2116950114551857152/vid/avc1/1280x720/zdDnzSgUJ2P2kLbD.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2116950114551857152/img/Tygp7A7XySlar8gH.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2116950114551857152/vid/avc1/480x270/zlLe7525-KLt94Zr.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2116950114551857152/vid/avc1/640x360/MaL7PpRrcD73ma8P.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2116950114551857152/vid/avc1/1280x720/zdDnzSgUJ2P2kLbD.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      }
+     ],
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 84683
+    }
+   ],
+   "ref": {
+    "id": "2116954200575779303",
+    "author_id": "1841988608825466880",
+    "username": "america",
+    "name": "America",
+    "created_at": "2026-11-01T18:03:07.000Z",
+    "conversation_id": "2116954200575779303"
+   }
+  },
+  {
+   "id": "2116963596462600249",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T18:40:27.000Z",
+   "lang": "en",
+   "conversation_id": "2116963596462600249",
+   "url": "https://x.com/elonmusk/status/2116963596462600249",
+   "kind": "quote",
+   "text": "Starlink saves lives",
+   "urls": [],
+   "metrics": {
+    "likes": 12616,
+    "reposts": 1469,
+    "replies": 1229,
+    "quotes": 106
+   },
+   "ref": {
+    "id": "2116885685743321273",
+    "author_id": "1995073863693275137",
+    "username": "AmandaLovesElon",
+    "name": "AmandaLovesElon",
+    "created_at": "2026-11-01T13:30:51.000Z",
+    "text": "✨️🚀Starlink saves lives, and this time it was right here in Britain. 🇬🇧✨️🚀\n\n🔥A walker fell into a hornets' nest down a steep bank in Cumbria. The rescuers had no mobile signal, but Starlink got the call through, and the walker is safe.\n\n✝️\"My help cometh from the LORD, which made heaven and earth.\" Psalm 121:2 (KJV)\n\nThank you @SpaceX @elonmusk 🙏\nImage: SpaceX",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWCwT4aWIAAgmLw.jpg",
+      "width": 680,
+      "height": 426
+     }
+    ],
+    "conversation_id": "2116885685743321273"
+   }
+  },
+  {
+   "id": "2116961866681590246",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-01T18:33:34.000Z",
+   "lang": "en",
+   "conversation_id": "2116961866681590246",
+   "url": "https://x.com/elonmusk/status/2116961866681590246",
+   "kind": "repost",
+   "text": "@Grummz Most important of all",
+   "urls": [],
+   "metrics": {
+    "likes": 4288,
+    "reposts": 210,
+    "replies": 312,
+    "quotes": 45
+   },
+   "ref": {
+    "id": "2116589708180640207",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-10-31T17:54:45.000Z",
+    "reply_to": {
+     "id": "2115438471942930718",
+     "username": "Grummz"
+    },
+    "conversation_id": "2115346075666325755"
+   }
+  },
   {
    "id": "2116961340950753492",
    "author_id": "44196397",

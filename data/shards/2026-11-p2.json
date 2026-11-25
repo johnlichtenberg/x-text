@@ -1,7 +1,225 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-25T04:37:35Z",
+ "updated_at": "2026-11-25T05:25:10Z",
  "posts": [
+  {
+   "id": "2124466805263470612",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:35:31.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124466805263470612",
+   "reply_to": {
+    "id": "2124368447362449828",
+    "username": "Indian_Bronson"
+   },
+   "kind": "reply",
+   "text": "@Indian_Bronson Yes. Optimus is awesome. It will be our finest product ever and (I think) the best product of all time of any kind.",
+   "urls": [],
+   "metrics": {
+    "likes": 10977,
+    "reposts": 926,
+    "replies": 345,
+    "quotes": 151
+   },
+   "partial": true
+  },
+  {
+   "id": "2124466207239840050",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:33:09.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124466207239840050",
+   "reply_to": {
+    "id": "2124332065885733146",
+    "username": "shivon"
+   },
+   "kind": "reply",
+   "text": "@shivon @gailalfaratx @SawyerMerritt 🎯",
+   "urls": [],
+   "metrics": {
+    "likes": 479,
+    "reposts": 34,
+    "replies": 52,
+    "quotes": 6
+   },
+   "partial": true
+  },
+  {
+   "id": "2124466071029613035",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:32:36.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124466071029613035",
+   "kind": "repost",
+   "text": "Six years ago, Tesla FSD was just dots and lines on a black screen\n\nToday, Tesla FSD has literally brought GTA to life",
+   "urls": [],
+   "metrics": {
+    "likes": 4688,
+    "reposts": 436,
+    "replies": 131,
+    "quotes": 42
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXtiqvYaQAAInDz.jpg",
+     "width": 1080,
+     "height": 1240
+    }
+   ],
+   "ref": {
+    "id": "2124400145462927665",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-22T07:10:38.000Z",
+    "conversation_id": "2124400145462927665"
+   }
+  },
+  {
+   "id": "2124464633490850164",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:26:53.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124464633490850164",
+   "reply_to": {
+    "id": "2124234358676771099",
+    "username": "Liv_Boeree"
+   },
+   "kind": "reply",
+   "text": "@Liv_Boeree Unequivocal super intelligence has arrived.\n\nWelcome to the Singularity.",
+   "urls": [],
+   "metrics": {
+    "likes": 18696,
+    "reposts": 1973,
+    "replies": 1076,
+    "quotes": 445
+   },
+   "partial": true
+  },
+  {
+   "id": "2124464321283395831",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:25:39.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124464321283395831",
+   "reply_to": {
+    "id": "2124223780843307123",
+    "username": "Scobleizer"
+   },
+   "kind": "reply",
+   "text": "@Scobleizer Tesla has Niagara Falls amounts of data. So much, that we will keep much less than a millionth of it. Unless the data is of a super weird, long tail event, it’s irrelevant.",
+   "urls": [],
+   "metrics": {
+    "likes": 7351,
+    "reposts": 329,
+    "replies": 240,
+    "quotes": 43
+   },
+   "partial": true
+  },
+  {
+   "id": "2124463501703876939",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:22:24.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124463501703876939",
+   "reply_to": {
+    "id": "2124463264037769352",
+    "username": "elonmusk"
+   },
+   "kind": "reply",
+   "text": "We’re going to make the annoying “Promote” button borderline invisible",
+   "urls": [],
+   "metrics": {
+    "likes": 3977,
+    "reposts": 272,
+    "replies": 345,
+    "quotes": 27
+   },
+   "partial": true
+  },
+  {
+   "id": "2124463264037769352",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:21:27.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124463264037769352",
+   "kind": "quote",
+   "text": "Some people thought we meant 25% improvement, no we mean 25 times!\n\nWelcome to the singularity. Hope you’re enjoying your stay. https://t.co/QcLUuhY8Si",
+   "urls": [],
+   "metrics": {
+    "likes": 38987,
+    "reposts": 3477,
+    "replies": 1761,
+    "quotes": 426
+   },
+   "partial": true,
+   "ref": {
+    "id": "2124267166132285555",
+    "author_id": "1118594454515003393",
+    "username": "DirtyTesLa",
+    "name": "Dirty Tesla",
+    "created_at": "2026-11-21T22:22:14.000Z",
+    "text": "FSD V15 is 25x safer than V14\n\nI would have guessed V14 is at MINIMUM 2x safer than a human (probably more).\n\nThese numbers are getting insane. Singularity is here.",
+    "conversation_id": "2124267166132285555",
+    "quote": {
+     "id": "2124265867336966182",
+     "author_id": "70175205",
+     "username": "pduan",
+     "name": "Phil Duan",
+     "created_at": "2026-11-21T22:17:04.000Z",
+     "text": "v15 is 25x safer than v14 across the fleet.\n\nThat’s hard to notice on any individual drive because most drives are already very safe. The difference only becomes clear when you aggregate millions of miles.\n\nAll credit goes to the incredibly talented and dedicated @TeslaSI engineers who made this possible. It’s an honor to work alongside them.",
+     "conversation_id": "2124265867336966182"
+    }
+   }
+  },
+  {
+   "id": "2124459863585563075",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:07:56.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124459863585563075",
+   "reply_to": {
+    "id": "2124359438123606107",
+    "username": "wholemars"
+   },
+   "kind": "reply",
+   "text": "@wholemars See other explanation",
+   "urls": [],
+   "metrics": {
+    "likes": 724,
+    "reposts": 54,
+    "replies": 97,
+    "quotes": 7
+   },
+   "partial": true
+  },
   {
    "id": "2124459632227701015",
    "author_id": "44196397",
@@ -13252,481 +13470,6 @@
     "reposts": 91,
     "replies": 151,
     "quotes": 5
-   }
-  },
-  {
-   "id": "2123229086487400502",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T01:37:16.000Z",
-   "lang": "en",
-   "conversation_id": "2123229086487400502",
-   "url": "https://x.com/elonmusk/status/2123229086487400502",
-   "kind": "repost",
-   "text": "People do not yet understand:\n\n1) Starship is one of the most important technologies in the history of mankind\n\n2) @SpaceX’s ship catch last weekend all but guarantees the concept works\n\n3) almost all inference compute will be in space (launched by Starship)",
-   "urls": [],
-   "metrics": {
-    "likes": 2666,
-    "reposts": 156,
-    "replies": 63,
-    "quotes": 11
-   },
-   "ref": {
-    "id": "2123226341726376324",
-    "author_id": "143134601",
-    "username": "shaunmmaguire",
-    "name": "Shaun Maguire",
-    "created_at": "2026-11-19T01:26:22.000Z",
-    "quote": {
-     "id": "2123220899264679988",
-     "author_id": "44196397",
-     "username": "elonmusk",
-     "name": "Elon Musk",
-     "created_at": "2026-11-19T01:04:44.000Z",
-     "text": "Catching the ship was the last major piece of the puzzle https://twitter.com/xfreeze/status/2123209734463648240",
-     "conversation_id": "2123220899264679988"
-    },
-    "conversation_id": "2123226341726376324"
-   }
-  },
-  {
-   "id": "2123226994246828250",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T01:28:57.000Z",
-   "lang": "en",
-   "conversation_id": "2123203404365480234",
-   "url": "https://x.com/elonmusk/status/2123226994246828250",
-   "reply_to": {
-    "id": "2123203404365480234",
-    "username": "firesidealpha"
-   },
-   "kind": "reply",
-   "text": "@firesidealpha “Grok 4.8” is currently several different model variants in beta. We’re not yet sure which of the variants will go to wide release.",
-   "urls": [],
-   "metrics": {
-    "likes": 1905,
-    "reposts": 101,
-    "replies": 218,
-    "quotes": 26
-   }
-  },
-  {
-   "id": "2123220899264679988",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T01:04:44.000Z",
-   "lang": "en",
-   "conversation_id": "2123220899264679988",
-   "url": "https://x.com/elonmusk/status/2123220899264679988",
-   "kind": "quote",
-   "text": "Catching the ship was the last major piece of the puzzle",
-   "urls": [],
-   "metrics": {
-    "likes": 10182,
-    "reposts": 1084,
-    "replies": 912,
-    "quotes": 106
-   },
-   "ref": {
-    "id": "2123209734463648240",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-19T00:20:22.000Z",
-    "text": "Elon Musk on why the historic Starship catch is a much bigger milestone than most people realize\n\n“Catching the ship was the final major piece”\n\nSpaceX has now achieved:\n\n• 3 successful Super Heavy booster catches\n• A booster that was reflown and caught again\n• The FIRST EVER Starship upper-stage catch\n• Ship 42 returning from orbit in good enough condition to be reflown with only minor repairs\n\nFor the first time, SpaceX has demonstrated that both stages of Starship can return and be recovered by the launch tower\n\nAnd Elon confirmed that Ship 42 will likely be preserved for public display because of its historic achievement\n\n“No one has ever taken a stage like that and created a truly reusable upper stage and certainly not brought it back to land propulsively while being caught by giant chopsticks”\n\nNow look at what full and rapid reusability is expected to unlock:\n\n• Up to 100 TIMES lower cost of accessing space\n• The potential to deliver MILLIONS OF TONS of payload to orbit annually\n• A transportation system where both stages return, refuel, and fly again\n\nThat's the scale of what SpaceX is building\n\nStarship has already demonstrated the recovery of both stages. The next step is turning recovery into routine, rapid reuse\n\nAnd that's what will fundamentally change the economics of spaceflight",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2123209390165819392/vid/avc1/1280x720/_AvNdCGqaJJWbE8x.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123209390165819392/img/AbQkQIBwMIK9V0Z-.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2123209390165819392/vid/avc1/480x270/SCl2Tc731jja3-ka.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123209390165819392/vid/avc1/640x360/Zi6xBSzaq_qVGG7o.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123209390165819392/vid/avc1/1280x720/_AvNdCGqaJJWbE8x.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       }
-      ],
-      "width": 1280,
-      "height": 720,
-      "duration_ms": 145900
-     }
-    ],
-    "conversation_id": "2123209734463648240"
-   }
-  },
-  {
-   "id": "2123220601154466066",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T01:03:33.000Z",
-   "lang": "en",
-   "conversation_id": "2123220601154466066",
-   "url": "https://x.com/elonmusk/status/2123220601154466066",
-   "kind": "repost",
-   "text": "Elon Musk reveals how Starlink saved Ukraine from collapse, and sets the record straight on claims he throttled it:\n\n“There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, prepositioned ahead of the Russian invasion.”\n\n“When Russia invaded, they disabled all communications, all cell towers, all fiber cables, and every satellite communication system. There was one system they could not disable, and that was Starlink.”\n\n“If they had not had Starlink, their entire line would have collapsed because they had no communication system, and Russia would have won. Now, does that sound like a pro-Russian action to you?”\n\n“Even to this present day, Starlink provides the backbone of communications for the Ukrainian military and for Ukraine more broadly. If we were to turn off Starlink, the entire Ukrainian front would collapse immediately.”\n\n“From the beginning, I said that Starlink is a civilian system. It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the US government.”\n\n“In the Starlink system, there is a speed limit. That speed limit is the speed of the fastest road speed limit in Ukraine, which I think is about 80 miles an hour.”\n\n“Do not ask me as a private individual to make kill decisions that sometimes result in the loss of innocent lives, not just soldiers. That is not my position to do. And yet we’ve been pressed relentlessly to do that, which I think is outrageous.”\n\n“Those are the rules that have been in place since the beginning, for years. Now people pressure me to change it, but I’m not changing it.”",
-   "urls": [],
-   "metrics": {
-    "likes": 3952,
-    "reposts": 685,
-    "replies": 150,
-    "quotes": 42
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/1920x1080/ED8hYL7-VWQCpzhP.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123201619491995648/img/FaJZ5nsceNLQtb3a.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/480x270/1P7G49hUcQp4pRJx.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/640x360/cRBK-WQXeY3kNhqq.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/1280x720/CHIJvmHk_v4_iTkZ.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/1920x1080/ED8hYL7-VWQCpzhP.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 207005
-    }
-   ],
-   "ref": {
-    "id": "2123202170250240283",
-    "author_id": "1085225533623783424",
-    "username": "KanekoaTheGreat",
-    "name": "KanekoaTheGreat",
-    "created_at": "2026-11-18T23:50:19.000Z",
-    "conversation_id": "2123202170250240283"
-   }
-  },
-  {
-   "id": "2123220589657944265",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T01:03:30.000Z",
-   "lang": "qst",
-   "conversation_id": "2123220589657944265",
-   "url": "https://x.com/elonmusk/status/2123220589657944265",
-   "kind": "quote",
-   "text": "Yes",
-   "urls": [],
-   "metrics": {
-    "likes": 4454,
-    "reposts": 547,
-    "replies": 468,
-    "quotes": 32
-   },
-   "ref": {
-    "id": "2123202170250240283",
-    "author_id": "1085225533623783424",
-    "username": "KanekoaTheGreat",
-    "name": "KanekoaTheGreat",
-    "created_at": "2026-11-18T23:50:19.000Z",
-    "text": "Elon Musk reveals how Starlink saved Ukraine from collapse, and sets the record straight on claims he throttled it:\n\n“There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, prepositioned ahead of the Russian invasion.”\n\n“When Russia invaded, they disabled all communications, all cell towers, all fiber cables, and every satellite communication system. There was one system they could not disable, and that was Starlink.”\n\n“If they had not had Starlink, their entire line would have collapsed because they had no communication system, and Russia would have won. Now, does that sound like a pro-Russian action to you?”\n\n“Even to this present day, Starlink provides the backbone of communications for the Ukrainian military and for Ukraine more broadly. If we were to turn off Starlink, the entire Ukrainian front would collapse immediately.”\n\n“From the beginning, I said that Starlink is a civilian system. It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the US government.”\n\n“In the Starlink system, there is a speed limit. That speed limit is the speed of the fastest road speed limit in Ukraine, which I think is about 80 miles an hour.”\n\n“Do not ask me as a private individual to make kill decisions that sometimes result in the loss of innocent lives, not just soldiers. That is not my position to do. And yet we’ve been pressed relentlessly to do that, which I think is outrageous.”\n\n“Those are the rules that have been in place since the beginning, for years. Now people pressure me to change it, but I’m not changing it.”",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/1920x1080/ED8hYL7-VWQCpzhP.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123201619491995648/img/FaJZ5nsceNLQtb3a.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/480x270/1P7G49hUcQp4pRJx.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/640x360/cRBK-WQXeY3kNhqq.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/1280x720/CHIJvmHk_v4_iTkZ.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123201619491995648/vid/avc1/1920x1080/ED8hYL7-VWQCpzhP.mp4",
-        "w": 1920,
-        "h": 1080,
-        "br": 10368000
-       }
-      ],
-      "width": 1920,
-      "height": 1080,
-      "duration_ms": 207005
-     }
-    ],
-    "conversation_id": "2123202170250240283"
-   }
-  },
-  {
-   "id": "2123216714188107804",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T00:48:06.000Z",
-   "lang": "en",
-   "conversation_id": "2123216714188107804",
-   "url": "https://x.com/elonmusk/status/2123216714188107804",
-   "kind": "repost",
-   "text": "Elon Musk says SpaceX aims to bring online over 1 GW of terrestrial AI compute per month by the end of 2027.\n\nIts current pace is ~0.5 GW a month, equivalent to roughly 220,000 Nvidia GB300s plus CPUs, networking and cooling, measured at the power-plant level.",
-   "urls": [],
-   "metrics": {
-    "likes": 1187,
-    "reposts": 151,
-    "replies": 79,
-    "quotes": 14
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123211790318505985/vid/avc1/1920x1080/PQFpEv5qq5o7ua2y.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123211790318505985/img/RWaIGokeCYqSlHWS.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123211790318505985/vid/avc1/480x270/OFYUXgVYFHmeqYBa.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123211790318505985/vid/avc1/640x360/H4h4PkKf4D3JF1qd.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123211790318505985/vid/avc1/1280x720/znmj9b599ZpjtNbi.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123211790318505985/vid/avc1/1920x1080/PQFpEv5qq5o7ua2y.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 83800
-    }
-   ],
-   "ref": {
-    "id": "2123212558438134157",
-    "author_id": "1508426880860704771",
-    "username": "wallstengine",
-    "name": "Wall St Engine",
-    "created_at": "2026-11-19T00:31:35.000Z",
-    "conversation_id": "2123212558438134157"
-   }
-  },
-  {
-   "id": "2123216635326816526",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T00:47:47.000Z",
-   "lang": "en",
-   "conversation_id": "2123216635326816526",
-   "url": "https://x.com/elonmusk/status/2123216635326816526",
-   "kind": "repost",
-   "text": "My recap from witnessing the most important engineering feat I've ever seen at @SpaceX :",
-   "urls": [],
-   "metrics": {
-    "likes": 1150,
-    "reposts": 134,
-    "replies": 35,
-    "quotes": 0
-   },
-   "ref": {
-    "id": "2123169794967183595",
-    "author_id": "2263452746",
-    "username": "TashaARK",
-    "name": "Tasha Keeney",
-    "created_at": "2026-11-18T21:41:40.000Z",
-    "quote": {
-     "id": "2123133508319133759",
-     "author_id": "2398137084",
-     "username": "ARKInvest",
-     "name": "ARK Invest",
-     "created_at": "2026-11-18T19:17:28.000Z",
-     "text": "SpaceX has caught boosters before. So why is catching the rocket such a big deal? @TashaARK explains what she saw live at Starbase.",
-     "media": [
-      {
-       "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2123131731754602496/vid/avc1/1920x1080/FTTOkWeUM79MNo8r.mp4",
-       "poster": "https://pbs.twimg.com/media/HXbhWmCWIAEdape.jpg",
-       "variants": [
-        {
-         "url": "https://video.twimg.com/amplify_video/2123131731754602496/vid/avc1/480x270/xJoB9ga7WDFfxwDN.mp4",
-         "w": 480,
-         "h": 270,
-         "br": 256000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2123131731754602496/vid/avc1/640x360/GpxICFqBY9hHXgam.mp4",
-         "w": 640,
-         "h": 360,
-         "br": 832000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2123131731754602496/vid/avc1/1280x720/h-CGdDIE1hGWUyW0.mp4",
-         "w": 1280,
-         "h": 720,
-         "br": 2176000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2123131731754602496/vid/avc1/1920x1080/FTTOkWeUM79MNo8r.mp4",
-         "w": 1920,
-         "h": 1080,
-         "br": 10368000
-        }
-       ],
-       "width": 3840,
-       "height": 2160,
-       "duration_ms": 250116
-      }
-     ],
-     "conversation_id": "2123133508319133759"
-    },
-    "conversation_id": "2123169794967183595"
-   }
-  },
-  {
-   "id": "2123216563478356137",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T00:47:30.000Z",
-   "lang": "en",
-   "conversation_id": "2123216563478356137",
-   "url": "https://x.com/elonmusk/status/2123216563478356137",
-   "kind": "repost",
-   "text": "Elon Musk reveals over 30 people now have a Neuralink, some use it to feed themselves with a robot arm, and he's confident it will eventually let people with spinal injuries walk again\n\n\"Yeah. So Neuralink, by the way, is obviously, as you mentioned, a private company, much, much smaller. I mean, it's just several hundred people. We now have, I think, over 30 people that have received the Neuralink device. So they have a Neuralink in their head.\"\n\n\"Our focus initially was giving people who are tetraplegics, quadriplegics, the ability to control their phone or their computer or a robot arm just by thinking. So we call that product Telepathy. So just by thinking, you can control a computer or a robot arm. Some of our customers will literally control a robot arm, and they will actually feed themselves. It gives them the power. I mean, imagine you're tetraplegic. You can't do anything. You can't feed yourself. But now, just by thinking, with the robot arm, you can actually feed yourself with the robot arm.\"\n\n\"And how much better… These things that we take for granted are life-changing. And down the road, we feel at this point confident in saying that we'll be able to bridge the signals from the brain, from the motor and sensory cortex, past where the neural damage is from a broken neck or spine, and enable people to walk again.\"",
-   "urls": [],
-   "metrics": {
-    "likes": 1395,
-    "reposts": 208,
-    "replies": 68,
-    "quotes": 20
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123210382193889280/vid/avc1/1280x720/Ivr9KYSmuz6bp22H.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123210382193889280/img/izNxmRAXZsO8VXmA.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123210382193889280/vid/avc1/480x270/-4ORqoUolOFv28QV.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123210382193889280/vid/avc1/640x360/eEhfswlLwNgg8Jkf.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123210382193889280/vid/avc1/1280x720/Ivr9KYSmuz6bp22H.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      }
-     ],
-     "width": 1280,
-     "height": 720,
-     "duration_ms": 85366
-    }
-   ],
-   "ref": {
-    "id": "2123210477954367708",
-    "author_id": "2066250685512110080",
-    "username": "firesidealpha",
-    "name": "Fireside Alpha",
-    "created_at": "2026-11-19T00:23:19.000Z",
-    "quote": {
-     "id": "2123208511169396990",
-     "author_id": "2066250685512110080",
-     "username": "firesidealpha",
-     "name": "Fireside Alpha",
-     "created_at": "2026-11-19T00:15:31.000Z",
-     "text": "Elon Musk reveals some of his best data center builders came from In-N-Out, because aces \"making epic burgers all day long… are gonna do a damn good job of network cables\"\n\n\"And then we have an in-house team, not just contractors. We have contractors too, but we have an in-house team, which we call sort of ArmyX, that is productionizing the building of the data centers.\"\n\n\"And doing the basic principles of productionizing things, which is where you break the tasks down into things that are easily trainable within a few days. So you don't need people that have, say, been doing networking cables for their whole life. You divide the tasks into things where you can train someone new who may have been, like, a Starbucks barista, or stocking shelves at Target. But by the way, people who are good baristas or good at stocking shelves are great workers. And also, hire someone from In-N-Out.\"\n\n\"Those are some of our best people. They've never done data centers before. But let me tell you, if you get some aces out of In-N-Out who have been making epic burgers all day long, perfectly, they're gonna do a damn good job of network cables.\"",
-     "media": [
-      {
-       "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2123208249541287936/vid/avc1/1280x720/oF7qjndHqLKmSfSN.mp4",
-       "poster": "https://pbs.twimg.com/amplify_video_thumb/2123208249541287936/img/szH9lhf-3bSBkOeD.jpg",
-       "variants": [
-        {
-         "url": "https://video.twimg.com/amplify_video/2123208249541287936/vid/avc1/480x270/QzZdorZvKuWXR-8z.mp4",
-         "w": 480,
-         "h": 270,
-         "br": 256000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2123208249541287936/vid/avc1/640x360/b1G9ILQjq-fbgM9V.mp4",
-         "w": 640,
-         "h": 360,
-         "br": 832000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2123208249541287936/vid/avc1/1280x720/oF7qjndHqLKmSfSN.mp4",
-         "w": 1280,
-         "h": 720,
-         "br": 2176000
-        }
-       ],
-       "width": 1280,
-       "height": 720,
-       "duration_ms": 68400
-      }
-     ],
-     "conversation_id": "2123208511169396990"
-    },
-    "conversation_id": "2123210477954367708"
    }
   }
  ]

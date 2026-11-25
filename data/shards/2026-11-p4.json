@@ -1,7 +1,383 @@
 {
  "id": "2026-11-p4",
- "updated_at": "2026-11-25T04:37:35Z",
+ "updated_at": "2026-11-25T05:25:10Z",
  "posts": [
+  {
+   "id": "2121755853766504842",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-15T00:03:10.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121755853766504842",
+   "kind": "repost",
+   "text": "The holy grail of rocketry has just been achieved. This is an inflection point in human history that will unlock the solar system for humankind. Congrats to everyone on Planet Earth!!! ❤️",
+   "urls": [],
+   "metrics": {
+    "likes": 6134,
+    "reposts": 662,
+    "replies": 152,
+    "quotes": 19
+   },
+   "partial": true,
+   "ref": {
+    "id": "2121718457771377001",
+    "author_id": "29279483",
+    "username": "edwards345",
+    "name": "Jon Edwards",
+    "created_at": "2026-11-14T21:34:34.000Z",
+    "quote": {
+     "id": "2121715216597827756",
+     "author_id": "34743251",
+     "username": "SpaceX",
+     "name": "SpaceX",
+     "created_at": "2026-11-14T21:21:41.000Z",
+     "text": "Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement!",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/3840x2160/epNZoVwS39gePomx.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2121715092903596032/img/RamESGt4tVwjBYVb.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/480x270/U-xvXXu3J0XFlw_a.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/640x360/q-KjXppE9unIivtp.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/1280x720/7dvRx7teG1IMbfkl.mp4",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/1920x1080/C2JFTEW74_Pa-Lsr.mp4",
+         "w": 1920,
+         "h": 1080,
+         "br": 10368000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/3840x2160/epNZoVwS39gePomx.mp4",
+         "w": 3840,
+         "h": 2160,
+         "br": 25128000
+        }
+       ],
+       "width": 3840,
+       "height": 2160,
+       "duration_ms": 92720
+      }
+     ],
+     "conversation_id": "2121715216597827756"
+    },
+    "conversation_id": "2121718457771377001"
+   }
+  },
+  {
+   "id": "2121751860914929835",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T23:47:18.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121751860914929835",
+   "kind": "repost",
+   "text": "The next time you want to give up, think of this image:",
+   "urls": [],
+   "metrics": {
+    "likes": 16625,
+    "reposts": 2389,
+    "replies": 347,
+    "quotes": 138
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXHpAiuakAAtuAI.jpg",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "ref": {
+    "id": "2121733104499077522",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-14T22:32:46.000Z",
+    "conversation_id": "2121733104499077522"
+   }
+  },
+  {
+   "id": "2121750673910075806",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T23:42:35.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121750673910075806",
+   "kind": "repost",
+   "text": "On Friday, November 13, Starship lifted off from Starbase, Texas on its 15th flight.\n\nOn Saturday, November 14, Starship returned to Starbase, Texas, and changed everything → https://spacex.com/launches/starship-flight-15",
+   "urls": [
+    "https://spacex.com/launches/starship-flight-15"
+   ],
+   "metrics": {
+    "likes": 19257,
+    "reposts": 2632,
+    "replies": 655,
+    "quotes": 316
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXHr6a-XcAAS9QG.jpg",
+     "width": 3456,
+     "height": 2160
+    }
+   ],
+   "ref": {
+    "id": "2121738348804857963",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-14T22:53:37.000Z",
+    "conversation_id": "2121738348804857963"
+   }
+  },
+  {
+   "id": "2121750189513769337",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T23:40:40.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121750189513769337",
+   "kind": "repost",
+   "text": "it feels great to be an american. it feels fucking great to be an american",
+   "urls": [],
+   "metrics": {
+    "likes": 3588,
+    "reposts": 242,
+    "replies": 107,
+    "quotes": 9
+   },
+   "partial": true,
+   "ref": {
+    "id": "2121718147854279127",
+    "author_id": "998575387067142144",
+    "username": "willdepue",
+    "name": "will depue",
+    "created_at": "2026-11-14T21:33:20.000Z",
+    "quote": {
+     "id": "2121717694877626686",
+     "author_id": "998575387067142144",
+     "username": "willdepue",
+     "name": "will depue",
+     "created_at": "2026-11-14T21:31:32.000Z",
+     "text": "THEY FUCKING DID IT. THEY FUCKING DID IT. OH MY GOD https://twitter.com/willdepue/status/2121716405553009085",
+     "conversation_id": "2121717694877626686"
+    },
+    "conversation_id": "2121718147854279127"
+   }
+  },
+  {
+   "id": "2121750118835671432",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T23:40:23.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121750118835671432",
+   "kind": "repost",
+   "text": "“Physics is the law. Everything else is a recommendation.” @elonmusk told me that at DealBook in 2023.\n\nToday, SpaceX caught Starship after 14 orbits of Earth. Plenty doubted it was possible. Just extraordinary. @SpaceX.",
+   "urls": [],
+   "metrics": {
+    "likes": 10604,
+    "reposts": 1162,
+    "replies": 273,
+    "quotes": 112
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121717046341701632/vid/avc1/2160x3840/KzLQREDQH-P1tFfJ.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121717046341701632/img/PeJ5H6UHNIwGCFJC.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121717046341701632/vid/avc1/320x568/4DkT74jz1-hWGnSu.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121717046341701632/vid/avc1/480x852/7XDa5lFo2SJEvTif.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121717046341701632/vid/avc1/720x1280/WA8PqPa6nKc3rf-O.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121717046341701632/vid/avc1/1080x1920/LXENgOHeJ0v9lRXL.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121717046341701632/vid/avc1/2160x3840/KzLQREDQH-P1tFfJ.mp4",
+       "w": 2160,
+       "h": 3840,
+       "br": 25128000
+      }
+     ],
+     "width": 2160,
+     "height": 3840,
+     "duration_ms": 26633
+    }
+   ],
+   "ref": {
+    "id": "2121745318618571231",
+    "author_id": "33792634",
+    "username": "andrewrsorkin",
+    "name": "Andrew Ross Sorkin",
+    "created_at": "2026-11-14T23:21:18.000Z",
+    "conversation_id": "2121745318618571231"
+   }
+  },
+  {
+   "id": "2121746382402797892",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T23:25:32.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121746382402797892",
+   "kind": "post",
+   "text": "Ship 42 looks great! https://t.co/ChJcdWiuuS",
+   "urls": [],
+   "metrics": {
+    "likes": 49294,
+    "reposts": 4699,
+    "replies": 2635,
+    "quotes": 389
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2121746256615686145/vid/avc1/1080x1920/jdM_BtWJpUHLkh9l.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2121746256615686145/img/y6caP9n62o5HQ13f.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2121746256615686145/vid/avc1/320x568/jeuBFv_lgBO-aC_k.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121746256615686145/vid/avc1/480x852/BJ5yK7CIMCfc8_He.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121746256615686145/vid/avc1/720x1280/Fa886F-TASYgo7yT.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2121746256615686145/vid/avc1/1080x1920/jdM_BtWJpUHLkh9l.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1920,
+     "duration_ms": 9600
+    }
+   ]
+  },
+  {
+   "id": "2121744638650233057",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T23:18:36.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121744638650233057",
+   "reply_to": {
+    "id": "2121715782350504106",
+    "username": "NASAAdmin"
+   },
+   "kind": "reply",
+   "text": "@NASAAdmin @SpaceX Thanks to an incredible team at SpaceX 🚀🚀",
+   "urls": [],
+   "metrics": {
+    "likes": 17894,
+    "reposts": 688,
+    "replies": 327,
+    "quotes": 25
+   },
+   "partial": true
+  },
+  {
+   "id": "2121744536867066313",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-14T23:18:12.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2121744536867066313",
+   "kind": "repost",
+   "text": "Congrats to @elonmusk and the @SpaceX team! It was almost magic..Making more believers by the day....one step closer to 🌖🇺🇸",
+   "urls": [],
+   "metrics": {
+    "likes": 37906,
+    "reposts": 3167,
+    "replies": 480,
+    "quotes": 106
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXHZNYbXQAAMbss.jpg",
+     "width": 3388,
+     "height": 1898
+    }
+   ],
+   "ref": {
+    "id": "2121715782350504106",
+    "author_id": "2000593641480605696",
+    "username": "NASAAdmin",
+    "name": "NASA Administrator Jared Isaacman",
+    "created_at": "2026-11-14T21:23:56.000Z",
+    "conversation_id": "2121715782350504106"
+   }
+  },
   {
    "id": "2121744423272988985",
    "author_id": "44196397",
@@ -16064,215 +16440,6 @@
     "likes": 1,
     "reposts": 0,
     "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120387426518712419",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T05:25:32.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120387426518712419",
-   "reply_to": {
-    "id": "2120387063883416000",
-    "username": "josephburt"
-   },
-   "kind": "reply",
-   "text": "@josephburt we will get back out there soon",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120387373242659178",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T05:25:19.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120387373242659178",
-   "reply_to": {
-    "id": "2120387039422210133",
-    "username": "TNVOLMAN"
-   },
-   "kind": "reply",
-   "text": "@TNVOLMAN 🫡",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120387320805511484",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T05:25:06.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120387320805511484",
-   "reply_to": {
-    "id": "2120386934144925950",
-    "username": "RHasselmeier"
-   },
-   "kind": "reply",
-   "text": "@RHasselmeier never said anything about a rough few days, just lots of support from the community",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120387049857683875",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T05:24:02.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120387049857683875",
-   "reply_to": {
-    "id": "2120386663339950494",
-    "username": "developwithJB"
-   },
-   "kind": "reply",
-   "text": "@developwithJB https://t.co/somN7eoOog",
-   "urls": [],
-   "metrics": {
-    "likes": 5,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "animated_gif",
-     "url": "https://video.twimg.com/tweet_video/HW0gx6-aUAAn0jW.mp4",
-     "poster": "https://pbs.twimg.com/tweet_video_thumb/HW0gx6-aUAAn0jW.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/tweet_video/HW0gx6-aUAAn0jW.mp4",
-       "w": 276,
-       "h": 344,
-       "br": 0
-      }
-     ],
-     "width": 276,
-     "height": 344
-    }
-   ]
-  },
-  {
-   "id": "2120386800921485627",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T05:23:02.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120386800921485627",
-   "reply_to": {
-    "id": "2120386558973166004",
-    "username": "AdamJJoseph"
-   },
-   "kind": "reply",
-   "text": "@AdamJJoseph sad",
-   "urls": [],
-   "metrics": {
-    "likes": 9,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120386690443583590",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T05:22:36.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120386690443583590",
-   "reply_to": {
-    "id": "2120386264662782044",
-    "username": "alexmichael"
-   },
-   "kind": "reply",
-   "text": "@alexmichael I meant who is tibo but clearly the joke didn’t land 😅\n\nthank you!",
-   "urls": [],
-   "metrics": {
-    "likes": 9,
-    "reposts": 0,
-    "replies": 4,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120386568884277434",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T05:22:07.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120386568884277434",
-   "reply_to": {
-    "id": "2120386169250762967",
-    "username": "MasonWLoomis"
-   },
-   "kind": "reply",
-   "text": "@MasonWLoomis ❤️",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "partial": true
-  },
-  {
-   "id": "2120386505139224925",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-11T05:21:52.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/mattyp/status/2120386505139224925",
-   "reply_to": {
-    "id": "2120385797908259213",
-    "username": "mokshaowei"
-   },
-   "kind": "reply",
-   "text": "@mokshaowei thank you! the team is amazing!",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
     "quotes": 0
    },
    "partial": true

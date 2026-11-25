@@ -37,12 +37,12 @@
    "conversation_id": null,
    "url": "https://x.com/elonmusk/status/2125457952970772597",
    "kind": "repost",
-   "text": "@iAnonPatriot $20M Ahlan Simsim Iraq early childhood inclusion.\n$1.5M Serbia Grupa Izadji DEI LGBTQI+ workplaces.\n$2M Guatemala Asociación Lambda trans gender-affirming care.\n$5.5M Uganda LGBTQI+ safety/livelihoods.\n$6.3M South Africa MSM study.\n$7.9M Sri Lanka media (gender language).",
+   "text": "$20M Ahlan Simsim Iraq early childhood inclusion.\n$1.5M Serbia Grupa Izadji DEI LGBTQI+ workplaces.\n$2M Guatemala Asociación Lambda trans gender-affirming care.\n$5.5M Uganda LGBTQI+ safety/livelihoods.\n$6.3M South Africa MSM study.\n$7.9M Sri Lanka media (gender language).\n$6M Egypt tourism.\nMillions to EcoHealth (Wuhan-linked).\n~$10M meals diverted to al-Qaeda Syria.\nHundreds of millions Afghan irrigation aiding poppy.",
    "urls": [],
    "metrics": {
-    "likes": 282,
-    "reposts": 76,
-    "replies": 36,
+    "likes": 302,
+    "reposts": 83,
+    "replies": 40,
     "quotes": 13
    },
    "partial": true,
@@ -55,7 +55,8 @@
     "reply_to": {
      "id": "2125451816431439969",
      "username": "iAnonPatriot"
-    }
+    },
+    "conversation_id": "2125451469251834212"
    }
   },
   {
@@ -92,24 +93,86 @@
    "conversation_id": null,
    "url": "https://x.com/elonmusk/status/2125457471045333498",
    "kind": "repost",
-   "text": "USAID brought in Global Disinformation Index to coach it on censoring online narratives. Here, GDI teaches USAID to get news sites blacklisted even if the stories they publish are true. USAID officials clapped like a seal upon hearing a justification to censor Breitbart News https://t.co/WNkocwky5p https://t.co/f7hY4NL1B1",
+   "text": "USAID brought in Global Disinformation Index to coach it on censoring online narratives. Here, GDI teaches USAID to get news sites blacklisted even if the stories they publish are true. USAID officials clapped like a seal upon hearing a justification to censor Breitbart News",
    "urls": [],
    "metrics": {
-    "likes": 764,
-    "reposts": 255,
-    "replies": 47,
+    "likes": 784,
+    "reposts": 260,
+    "replies": 48,
     "quotes": 16
    },
    "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2125453525291298816/vid/avc1/1920x1080/MmX_BKBFuC_3zdym.mp4",
+     "poster": "https://pbs.twimg.com/media/HX8hvL2XwAAg74i.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2125453525291298816/vid/avc1/480x270/8c8sVgsl-7B81_c5.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125453525291298816/vid/avc1/640x360/-uui5yoyJFlHRDbU.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125453525291298816/vid/avc1/1280x720/TV3G0FTJw_apPFBZ.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125453525291298816/vid/avc1/1920x1080/MmX_BKBFuC_3zdym.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 109901
+    }
+   ],
    "ref": {
     "id": "2125453601686360501",
     "author_id": "1599510806680535042",
-    "username": "",
-    "name": "",
+    "username": "MikeBenzCyber",
+    "name": "Mike Benz",
     "created_at": "2026-11-25T04:56:42.000Z",
+    "conversation_id": "2125453601686360501",
     "quote": {
      "id": "2125416977514557454",
-     "unavailable": true
+     "author_id": "1599510806680535042",
+     "username": "MikeBenzCyber",
+     "name": "Mike Benz",
+     "created_at": "2026-11-25T02:31:10.000Z",
+     "text": "GDI put nearly every major conservative news outlet in America on an ad blacklist to financially assassinate their businesses. GDI killed $200 million in ad revenue to media outlets reporting the wrong \"narratives.\" GDI was recommended to USAID by the US intelligence community.  https://twitter.com/MikeBenzCyber/status/2125389648679555336",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX7-y_eXgAE5sCO.jpg",
+       "width": 1153,
+       "height": 1019
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX7-0sdXwAAlSym.png",
+       "width": 2218,
+       "height": 1374
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX7-2lIXMAAXrxs.jpg",
+       "width": 1444,
+       "height": 1444
+      }
+     ],
+     "conversation_id": "2125416977514557454"
     }
    }
   },
@@ -150,10 +213,10 @@
    "conversation_id": null,
    "url": "https://x.com/elonmusk/status/2125453976275685725",
    "kind": "repost",
-   "text": "@mattst73 @elonmusk @davepl1968 Elon is describing the core of how neural nets (and intelligence) work: semantic compression means squeezing raw data into a compact internal model of meaning, while correlation means learning the mapping from that model to useful outputs.\n\nIn the example, a car’s video + sensor",
+   "text": "Elon is describing the core of how neural nets (and intelligence) work: semantic compression means squeezing raw data into a compact internal model of meaning, while correlation means learning the mapping from that model to useful outputs.\n\nIn the example, a car’s video + sensor bitstream gets compressed into an understanding of the scene, then directly correlated to the exact driving commands needed. It’s efficient single-path learning, not doing two separate things at once.",
    "urls": [],
    "metrics": {
-    "likes": 322,
+    "likes": 325,
     "reposts": 60,
     "replies": 61,
     "quotes": 7
@@ -166,8 +229,10 @@
     "name": "Grok",
     "created_at": "2026-11-24T17:37:54.000Z",
     "reply_to": {
-     "id": "2125282641037668682"
-    }
+     "id": "2125282641037668682",
+     "username": "mattst73"
+    },
+    "conversation_id": "2125232240116605150"
    }
   },
   {
@@ -180,13 +245,13 @@
    "conversation_id": null,
    "url": "https://x.com/elonmusk/status/2125453275256557985",
    "kind": "repost",
-   "text": "sometimes it really does feel like this. https://t.co/8Gw9fW8Qhk",
+   "text": "sometimes it really does feel like this.",
    "urls": [],
    "metrics": {
-    "likes": 2781,
-    "reposts": 228,
+    "likes": 2797,
+    "reposts": 229,
     "replies": 73,
-    "quotes": 34
+    "quotes": 35
    },
    "partial": true,
    "media": [
@@ -200,9 +265,10 @@
    "ref": {
     "id": "2125380069724196865",
     "author_id": "11518572",
-    "username": "",
-    "name": "",
-    "created_at": "2026-11-25T00:04:30.000Z"
+    "username": "chrisalbon",
+    "name": "Chris Albon",
+    "created_at": "2026-11-25T00:04:30.000Z",
+    "conversation_id": "2125380069724196865"
    }
   },
   {
@@ -215,11 +281,11 @@
    "conversation_id": null,
    "url": "https://x.com/elonmusk/status/2125451484582264984",
    "kind": "repost",
-   "text": "The USAID Files is one of the most disgusting reads I have ever come across.\n\nThe deep state functions like an AWFL mafia that invites tech CEOs for boba teas and then leans on them to \"share their values\" for globomarxist domination.\n\nI think I'm going to be sick. https://t.co/BpT2PDTOLY",
+   "text": "The USAID Files is one of the most disgusting reads I have ever come across.\n\nThe deep state functions like an AWFL mafia that invites tech CEOs for boba teas and then leans on them to \"share their values\" for globomarxist domination.\n\nI think I'm going to be sick.",
    "urls": [],
    "metrics": {
-    "likes": 2037,
-    "reposts": 505,
+    "likes": 2066,
+    "reposts": 509,
     "replies": 91,
     "quotes": 20
    },
@@ -227,9 +293,10 @@
    "ref": {
     "id": "2125432257066537024",
     "author_id": "321954654",
-    "username": "",
-    "name": "",
+    "username": "kylenabecker",
+    "name": "Kyle Becker",
     "created_at": "2026-11-25T03:31:53.000Z",
+    "conversation_id": "2125432257066537024",
     "quote": {
      "id": "2125408304444674380",
      "author_id": "1455993364529262601",
@@ -91950,9 +92017,8 @@
   }
  ],
  "last_run": {
-  "status": "running",
-  "at": "2026-11-25T05:25:28Z",
-  "new_posts": 8,
-  "handle": "elonmusk"
+  "status": "new",
+  "at": "2026-11-25T05:26:06Z",
+  "new_posts": 8
  }
 }

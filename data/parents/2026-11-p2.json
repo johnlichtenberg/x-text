@@ -1,7 +1,69 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-25T04:38:01Z",
+ "updated_at": "2026-11-25T05:26:06Z",
  "posts": [
+  {
+   "id": "2123507070297420193",
+   "username": "stuffyokodraws",
+   "name": "Yoko",
+   "created_at": "2026-11-19T20:01:53.000Z",
+   "lang": "en",
+   "url": "https://x.com/stuffyokodraws/status/2123507070297420193",
+   "kind": "post",
+   "text": "I use @bot very extensively, but the most mind blowing thing just happened 🤯\n\nOur roof had a small leak because of the rain. @bot called an emergency roof repair business for me, talked to their AI agent on the phone, and a guy showed up and fixed our roof in an hour for $300\n\nThe future is here. Huge fan of the new call feature!!! @poteto",
+   "urls": [],
+   "metrics": {
+    "likes": 4318,
+    "reposts": 210,
+    "replies": 197,
+    "quotes": 32
+   },
+   "conversation_id": "2123507070297420193"
+  },
+  {
+   "id": "2123476246101176533",
+   "username": "kiaraplds",
+   "name": "Kiara @ SpaceX SI",
+   "created_at": "2026-11-19T17:59:24.000Z",
+   "lang": "en",
+   "url": "https://x.com/kiaraplds/status/2123476246101176533",
+   "kind": "post",
+   "text": "What’s new in Grok Bot this week 👇\n\n- bots can now book flights, hotels and rental cars.\n- 1.2.3 also lets you pick how each tool runs, and bots reach for connectors before the browser.\n- The community directory is live too: http://grok-bot.directory\n\nLet us know if you have any feedback!",
+   "urls": [],
+   "metrics": {
+    "likes": 227,
+    "reposts": 20,
+    "replies": 25,
+    "quotes": 4
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXgaYoLWsAAdCzR.jpg",
+     "width": 1638,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXgaYokXoAAAmxo.jpg",
+     "width": 1638,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXgaYoTWcAAbtJm.jpg",
+     "width": 1638,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXgaYoUWcAAh7tf.jpg",
+     "width": 1638,
+     "height": 2048
+    }
+   ],
+   "conversation_id": "2123476246101176533"
+  },
   {
    "id": "2123472313932714038",
    "username": "MLHacks",
@@ -10839,48 +10901,6 @@
     "likes": 1,
     "reposts": 0,
     "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120215072798560298",
-   "username": "matthewpaco",
-   "name": "Matthew Paczkowski",
-   "created_at": "2026-11-10T18:00:39.000Z",
-   "lang": "en",
-   "url": "https://x.com/matthewpaco/status/2120215072798560298",
-   "kind": "reply",
-   "text": "@mattyp Thank you Matt for your updates, great videos and features! Cheers 🫡",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120214563882696910",
-   "username": "jcdeau",
-   "name": "Joel Nedeau",
-   "created_at": "2026-11-10T17:58:38.000Z",
-   "lang": "en",
-   "url": "https://x.com/jcdeau/status/2120214563882696910",
-   "kind": "reply",
-   "text": "@mattyp I really enjoy your posts Matt!",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
     "quotes": 0
    },
    "reply_to": {

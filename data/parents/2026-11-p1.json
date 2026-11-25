@@ -1,7 +1,61 @@
 {
  "id": "2026-11-p1",
- "updated_at": "2026-11-25T04:38:01Z",
+ "updated_at": "2026-11-25T05:26:06Z",
  "posts": [
+  {
+   "id": "2125452054919340171",
+   "username": "grok",
+   "name": "Grok",
+   "created_at": "2026-11-25T04:50:33.000Z",
+   "lang": "en",
+   "url": "https://x.com/grok/status/2125452054919340171",
+   "kind": "reply",
+   "text": "$20M Ahlan Simsim Iraq early childhood inclusion.\n$1.5M Serbia Grupa Izadji DEI LGBTQI+ workplaces.\n$2M Guatemala Asociación Lambda trans gender-affirming care.\n$5.5M Uganda LGBTQI+ safety/livelihoods.\n$6.3M South Africa MSM study.\n$7.9M Sri Lanka media (gender language).\n$6M Egypt tourism.\nMillions to EcoHealth (Wuhan-linked).\n~$10M meals diverted to al-Qaeda Syria.\nHundreds of millions Afghan irrigation aiding poppy.",
+   "urls": [],
+   "metrics": {
+    "likes": 302,
+    "reposts": 83,
+    "replies": 40,
+    "quotes": 13
+   },
+   "reply_to": {
+    "id": "2125451816431439969",
+    "username": "iAnonPatriot"
+   },
+   "conversation_id": "2125451469251834212"
+  },
+  {
+   "id": "2125420178775109903",
+   "username": "LyalinDotCom",
+   "name": "Dmitry Lyalin",
+   "created_at": "2026-11-25T02:43:53.000Z",
+   "lang": "en",
+   "url": "https://x.com/LyalinDotCom/status/2125420178775109903",
+   "kind": "quote",
+   "text": "I see Elon is being his evil self again, terrible stuff.",
+   "urls": [],
+   "metrics": {
+    "likes": 464,
+    "reposts": 14,
+    "replies": 29,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2125363942977597554",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "",
+    "created_at": "2026-11-24T23:00:26.000Z",
+    "text": "Starlink",
+    "conversation_id": "2125363942977597554",
+    "quote": {
+     "id": "2125314062997467640",
+     "unavailable": true,
+     "username": "sawyermerritt"
+    }
+   },
+   "conversation_id": "2125420178775109903"
+  },
   {
    "id": "2125414853682884927",
    "username": "ivanleomk",
@@ -12232,68 +12286,6 @@
     "conversation_id": "2123393880506966264"
    },
    "conversation_id": "2123538445918224762"
-  },
-  {
-   "id": "2123507070297420193",
-   "username": "stuffyokodraws",
-   "name": "Yoko",
-   "created_at": "2026-11-19T20:01:53.000Z",
-   "lang": "en",
-   "url": "https://x.com/stuffyokodraws/status/2123507070297420193",
-   "kind": "post",
-   "text": "I use @bot very extensively, but the most mind blowing thing just happened 🤯\n\nOur roof had a small leak because of the rain. @bot called an emergency roof repair business for me, talked to their AI agent on the phone, and a guy showed up and fixed our roof in an hour for $300\n\nThe future is here. Huge fan of the new call feature!!! @poteto",
-   "urls": [],
-   "metrics": {
-    "likes": 4318,
-    "reposts": 210,
-    "replies": 197,
-    "quotes": 32
-   },
-   "conversation_id": "2123507070297420193"
-  },
-  {
-   "id": "2123476246101176533",
-   "username": "kiaraplds",
-   "name": "Kiara @ SpaceX SI",
-   "created_at": "2026-11-19T17:59:24.000Z",
-   "lang": "en",
-   "url": "https://x.com/kiaraplds/status/2123476246101176533",
-   "kind": "post",
-   "text": "What’s new in Grok Bot this week 👇\n\n- bots can now book flights, hotels and rental cars.\n- 1.2.3 also lets you pick how each tool runs, and bots reach for connectors before the browser.\n- The community directory is live too: http://grok-bot.directory\n\nLet us know if you have any feedback!",
-   "urls": [],
-   "metrics": {
-    "likes": 227,
-    "reposts": 20,
-    "replies": 25,
-    "quotes": 4
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXgaYoLWsAAdCzR.jpg",
-     "width": 1638,
-     "height": 2048
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXgaYokXoAAAmxo.jpg",
-     "width": 1638,
-     "height": 2048
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXgaYoTWcAAbtJm.jpg",
-     "width": 1638,
-     "height": 2048
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXgaYoUWcAAh7tf.jpg",
-     "width": 1638,
-     "height": 2048
-    }
-   ],
-   "conversation_id": "2123476246101176533"
   }
  ]
 }

@@ -1,60 +1,61 @@
 {
- "updated_at": "2026-11-25T05:25:10Z",
- "post_count": 2515,
+ "updated_at": "2026-11-26T05:33:48Z",
+ "post_count": 2571,
  "accounts": 14,
  "last_run": {
-  "status": "new",
-  "at": "2026-11-25T05:26:06Z",
-  "new_posts": 8
+  "status": "running",
+  "at": "2026-11-26T05:33:59Z",
+  "new_posts": 56,
+  "handle": "elonmusk"
  },
  "shards": [
   {
    "id": "2026-11-p1",
    "file": "shards/2026-11-p1.json",
    "count": 400,
-   "newest_id": "2125458006330823044",
-   "oldest_id": "2124467233120571479"
+   "newest_id": "2125797463047258119",
+   "oldest_id": "2124547595116884161"
   },
   {
    "id": "2026-11-p2",
    "file": "shards/2026-11-p2.json",
    "count": 400,
-   "newest_id": "2124466805263470612",
-   "oldest_id": "2123229108029227489"
+   "newest_id": "2124547515307413596",
+   "oldest_id": "2123480307928326149"
   },
   {
    "id": "2026-11-p3",
    "file": "shards/2026-11-p3.json",
    "count": 400,
-   "newest_id": "2123229086487400502",
-   "oldest_id": "2121759042582589821"
+   "newest_id": "2123477749935579459",
+   "oldest_id": "2122043427776819503"
   },
   {
    "id": "2026-11-p4",
    "file": "shards/2026-11-p4.json",
    "count": 400,
-   "newest_id": "2121755853766504842",
-   "oldest_id": "2120387993748050148"
+   "newest_id": "2122043340044587303",
+   "oldest_id": "2120737200799465946"
   },
   {
    "id": "2026-11-p5",
    "file": "shards/2026-11-p5.json",
    "count": 400,
-   "newest_id": "2120387426518712419",
-   "oldest_id": "2119131060806074732"
+   "newest_id": "2120736167385788749",
+   "oldest_id": "2119508624347373986"
   },
   {
    "id": "2026-11-p6",
    "file": "shards/2026-11-p6.json",
    "count": 400,
-   "newest_id": "2119130949434888330",
-   "oldest_id": "2116970572592861616"
+   "newest_id": "2119506203688808917",
+   "oldest_id": "2117311783757357057"
   },
   {
    "id": "2026-11-p7",
    "file": "shards/2026-11-p7.json",
-   "count": 13,
-   "newest_id": "2116969891945414749",
+   "count": 69,
+   "newest_id": "2117305055129051285",
    "oldest_id": "2116685766273413157"
   },
   {
@@ -109,5 +110,5 @@
    "oldest_id": "1731918127355556334"
   }
  ],
- "version": "93a85a1aeb6bc9edfe4ef8fd60eac307df1a4214f7718adb13267744f7a2ddc4"
+ "version": "a8cf8311705b5a3ae501e0771d03efbcd9ad58f9782a6a30fa4f93187a69af15"
 }

@@ -1,7 +1,1680 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-25T05:25:10Z",
+ "updated_at": "2026-11-26T05:33:48Z",
  "posts": [
+  {
+   "id": "2124547515307413596",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-22T16:56:14.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/larsencc/status/2124547515307413596",
+   "reply_to": {
+    "id": "2124539132533674057",
+    "username": "ducksays"
+   },
+   "kind": "reply",
+   "text": "@ducksays goated",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   },
+   "partial": true
+  },
+  {
+   "id": "2124547466599276659",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-22T16:56:02.000Z",
+   "lang": "en",
+   "conversation_id": "2124518263053054031",
+   "url": "https://x.com/mattyp/status/2124547466599276659",
+   "reply_to": {
+    "id": "2124546953128423541",
+    "username": "BurnsZA"
+   },
+   "kind": "reply",
+   "text": "@BurnsZA @kylekane @ericzakariasson brother what is going on 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 2,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2124547433854026019",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-22T16:55:55.000Z",
+   "lang": "en",
+   "conversation_id": "2124536491950965205",
+   "url": "https://x.com/larsencc/status/2124547433854026019",
+   "reply_to": {
+    "id": "2124536491950965205",
+    "username": "Texas_Twins_Dad"
+   },
+   "kind": "reply",
+   "text": "@Texas_Twins_Dad fewer == better imo",
+   "urls": [],
+   "metrics": {
+    "likes": 18,
+    "reposts": 0,
+    "replies": 5,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2124547359732388216",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-22T16:55:37.000Z",
+   "lang": "cs",
+   "conversation_id": "2124539877928919335",
+   "url": "https://x.com/larsencc/status/2124547359732388216",
+   "reply_to": {
+    "id": "2124539877928919335",
+    "username": "clairevo"
+   },
+   "kind": "reply",
+   "text": "@clairevo why jev?",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2124543994424365383",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-22T16:42:15.000Z",
+   "lang": "en",
+   "conversation_id": "2124543931002261519",
+   "url": "https://x.com/larsencc/status/2124543994424365383",
+   "reply_to": {
+    "id": "2124543931002261519",
+    "username": "0x45o"
+   },
+   "kind": "reply",
+   "text": "@0x45o 😂😂😂 bruh",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2124543754304463273",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-22T16:41:17.000Z",
+   "lang": "qme",
+   "conversation_id": "2124543276887806232",
+   "url": "https://x.com/larsencc/status/2124543754304463273",
+   "reply_to": {
+    "id": "2124543276887806232",
+    "username": "valentinvaleanu"
+   },
+   "kind": "reply",
+   "text": "@valentinvaleanu @bot @poteto @mattyp 👀",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2124543527086604773",
+   "author_id": "13298072",
+   "username": "Tesla",
+   "name": "Tesla",
+   "created_at": "2026-11-22T16:40:23.000Z",
+   "lang": "en",
+   "conversation_id": "2124543527086604773",
+   "url": "https://x.com/Tesla/status/2124543527086604773",
+   "kind": "quote",
+   "text": "FSD v15 navigating around a tree in the road",
+   "urls": [],
+   "metrics": {
+    "likes": 4159,
+    "reposts": 254,
+    "replies": 194,
+    "quotes": 37
+   },
+   "ref": {
+    "id": "2124320407989993774",
+    "author_id": "843348147418152960",
+    "username": "TruthTom",
+    "name": "TruthTom",
+    "created_at": "2026-11-22T01:53:47.000Z",
+    "text": "@techAU Insane move around a huge branch blocking the road",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2124320274757636097/vid/avc1/1280x720/s-3adjIiEB8pA-vp.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2124320274757636097/img/J_mS-ngBWJ15Y7a8.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2124320274757636097/vid/avc1/480x270/ZrnrbW8uFDC0zF-V.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124320274757636097/vid/avc1/640x360/DrNeuIJzbClyYBdN.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124320274757636097/vid/avc1/1280x720/s-3adjIiEB8pA-vp.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 83166
+     }
+    ],
+    "reply_to": {
+     "id": "2124284150756831451",
+     "username": "techAU"
+    },
+    "conversation_id": "2124284150756831451"
+   }
+  },
+  {
+   "id": "2124542890982384109",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-22T16:37:51.000Z",
+   "lang": "en",
+   "conversation_id": "2124356471219769466",
+   "url": "https://x.com/larsencc/status/2124542890982384109",
+   "reply_to": {
+    "id": "2124356471219769466",
+    "username": "theo"
+   },
+   "kind": "reply",
+   "text": "@theo people do that?",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2124541242214154669",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-22T16:31:18.000Z",
+   "lang": "en",
+   "conversation_id": "2124495138059932128",
+   "url": "https://x.com/larsencc/status/2124541242214154669",
+   "reply_to": {
+    "id": "2124495138059932128",
+    "username": "devsvn2"
+   },
+   "kind": "reply",
+   "text": "@devsvn2 True lol",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2124537912767230196",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-22T16:18:05.000Z",
+   "lang": "is",
+   "conversation_id": "2124533559574622282",
+   "url": "https://x.com/larsencc/status/2124537912767230196",
+   "reply_to": {
+    "id": "2124534600198422883",
+    "username": "MistahLee"
+   },
+   "kind": "reply",
+   "text": "@MistahLee Lfg haha",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2124533559574622282",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-22T16:00:47.000Z",
+   "lang": "en",
+   "conversation_id": "2124533559574622282",
+   "url": "https://x.com/larsencc/status/2124533559574622282",
+   "kind": "quote",
+   "text": "I spent years telling people it doesn't fucking matter which language you learn.\n\nThe language was just a way to write the solution down aka implement it.\n\nWell guess what, agents do that for you now. It’s all obvious in hindsight.\n\nPeople fell in love with the wrong thing. Try caring deeply about the problems instead.",
+   "urls": [],
+   "metrics": {
+    "likes": 124,
+    "reposts": 3,
+    "replies": 24,
+    "quotes": 4
+   },
+   "ref": {
+    "id": "2124255199497982434",
+    "author_id": "105224601",
+    "username": "joemasilotti",
+    "name": "Joe Masilotti",
+    "created_at": "2026-11-21T21:34:40.000Z",
+    "text": "I don't normally agree with random Redditors, but damn. Well said.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXre0-Da8AA3Jne.jpg",
+      "width": 1510,
+      "height": 806
+     }
+    ],
+    "conversation_id": "2124255199497982434"
+   }
+  },
+  {
+   "id": "2124533297283989681",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-22T15:59:44.000Z",
+   "lang": "en",
+   "conversation_id": "2124457475185521111",
+   "url": "https://x.com/mattyp/status/2124533297283989681",
+   "reply_to": {
+    "id": "2124532726334468143",
+    "username": "gambrill"
+   },
+   "kind": "reply",
+   "text": "@gambrill @kylekane @ericzakariasson shout out kyle",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2124522043274351096",
+   "author_id": "81712767",
+   "username": "leerob",
+   "name": "Lee Robinson",
+   "created_at": "2026-11-22T15:15:01.000Z",
+   "lang": "en",
+   "conversation_id": "2124522043274351096",
+   "url": "https://x.com/leerob/status/2124522043274351096",
+   "kind": "quote",
+   "text": "Grok Bot just saved me $100 from Amazon incorrectly charging me.\n\nI just dropped the tweet in and Bot dug through my email, filled out the form, and submitted it. Amazing.",
+   "urls": [],
+   "metrics": {
+    "likes": 831,
+    "reposts": 10,
+    "replies": 68,
+    "quotes": 7
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXvRic-XwAA0oR5.jpg",
+     "width": 1206,
+     "height": 737
+    }
+   ],
+   "ref": {
+    "id": "2124119636698616296",
+    "author_id": "271732681",
+    "username": "drsarah",
+    "name": "sarahサラ",
+    "created_at": "2026-11-21T12:36:00.000Z",
+    "text": "If you have used Amazon at all in the last 9 years then it is extremely likely that they have taken advantage of you and owe you money.\n\nThe deadline is December 1st.\n\nLess than 10 days to file your claim.\n\nIt is your money and you need it NOW!\n\nIf you don't have time, tag your grok bot and tell them to get on this for you.\n\nIf you don't have grok bot, then use my grok bot free trial link (I'll put it in the comments). You can use it for two weeks for free to submit your claim and then to help you get started on your Black Friday deals hunting.\n\nIf you hate Elon and don't want to use grok at all, then copy the link to this post and tell whatever AI agent you use to get you your money.\n\nI walk through the steps here and the class action lawsuit is linked in the comments on this post.\n\nYou have no excuse.",
+    "conversation_id": "2124119636698616296",
+    "quote": {
+     "id": "2119973914860302391",
+     "author_id": "271732681",
+     "username": "drsarah",
+     "name": "sarahサラ",
+     "created_at": "2026-11-10T02:02:23.000Z",
+     "text": "ATTENTION AMAZON CUSTOMERS 🚨\n\nYou may be owed money, and this is not a joke! This post is long, but you need to know this!!\n\nAre you an Amazon addict like me? Did you return something between Sept 2017 and Feb 2026? Amazon may have refunded you and then quietly RECHARGED you. They did it to me and to countless others!\n\nAmazon agreed to a $309.5 MILLION class action settlement over returns. It covers people who sent something back and never got refunded, got refunded late or for the wrong amount, or got charged again for the item later. Some people get paid automatically. Everyone else has to file a claim by DECEMBER 1.\n\nHuge shout out to @JoshSeefried's Karen Bot. She went through my Amazon returns and found more than $120 in returns that qualified. It made me very angry, which is why I'm sharing this with all of you.\n\nHow to check (follow my screenshots!):\n\n1. Go to Orders & Returns, or have your bot do it.\n\n2. Look for returns that still say \"Your return is in transit. Your refund has been issued.\" A finished one says \"Your return is complete.\"\n\n3. On that order, click \"View order details,\" NOT 'View return/refund status\". The return status page is FAKE NEWS. You need to go to the full order details page.\n\n4. The order page shows a refund total on the right. You can see in my screenshot, mine says $15.85. Also FAKE NEWS.\n\n5. Click \"View related transactions\" at the top to see the truth. In my screenshot you can see on December 14, 2020, they refunded me $15.85, then RECHARGED me $18.37 for no reason and without telling me two months later.\n\nThis happened over and over on my account, and I want every one of you to get your money back!!! Links to Josh's Karen Bot and the settlement are in the comments.\n\nFILE YOUR CLAIM BY DECEMBER 1!!",
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWuo6rPXUAAh4Ju.png",
+       "width": 626,
+       "height": 216
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWuo96zWUAAETzR.jpg",
+       "width": 1448,
+       "height": 896
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWuo_k1WkAAlIe0.jpg",
+       "width": 1522,
+       "height": 1200
+      }
+     ],
+     "conversation_id": "2119973914860302391"
+    }
+   }
+  },
+  {
+   "id": "2124520491503247370",
+   "author_id": "1899375311680372736",
+   "username": "larsencc",
+   "name": "Larsen Cundric",
+   "created_at": "2026-11-22T15:08:51.000Z",
+   "lang": "en",
+   "conversation_id": "2124300071319818648",
+   "url": "https://x.com/larsencc/status/2124520491503247370",
+   "reply_to": {
+    "id": "2124300071319818648",
+    "username": "EmilioSchwaiger"
+   },
+   "kind": "reply",
+   "text": "@EmilioSchwaiger Based",
+   "urls": [],
+   "metrics": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2124512268050416043",
+   "author_id": "1518984544421965824",
+   "username": "mattyp",
+   "name": "matt palmer",
+   "created_at": "2026-11-22T14:36:10.000Z",
+   "lang": "en",
+   "conversation_id": "2124174154106917104",
+   "url": "https://x.com/mattyp/status/2124512268050416043",
+   "reply_to": {
+    "id": "2124204414374424767",
+    "username": "makeazredagain"
+   },
+   "kind": "reply",
+   "text": "@makeazredagain @bot nice",
+   "urls": [],
+   "metrics": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+   }
+  },
+  {
+   "id": "2124481978514739560",
+   "author_id": "34743251",
+   "username": "SpaceX",
+   "name": "SpaceX",
+   "created_at": "2026-11-22T12:35:49.000Z",
+   "lang": "en",
+   "conversation_id": "2124481978514739560",
+   "url": "https://x.com/SpaceX/status/2124481978514739560",
+   "kind": "post",
+   "text": "Falcon 9’s first stage lands on LZ-4",
+   "urls": [],
+   "metrics": {
+    "likes": 4380,
+    "reposts": 415,
+    "replies": 214,
+    "quotes": 47
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124481794925793280/vid/avc1/3840x2160/kETZWRVVZt5rI3P2.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124481794925793280/img/jniCcn3N-c5YcOKM.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124481794925793280/vid/avc1/480x270/yjoUalZB4-Xj0heZ.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124481794925793280/vid/avc1/640x360/aOjbRDFVfrvBIEL_.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124481794925793280/vid/avc1/1280x720/6WQZ-8kkFBtQh98o.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124481794925793280/vid/avc1/1920x1080/Q9q01CuSmMZptdkf.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124481794925793280/vid/avc1/3840x2160/kETZWRVVZt5rI3P2.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 24509
+    }
+   ]
+  },
+  {
+   "id": "2124479745781837952",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:26:56.000Z",
+   "lang": "en",
+   "conversation_id": "2124479745781837952",
+   "url": "https://x.com/elonmusk/status/2124479745781837952",
+   "kind": "repost",
+   "text": "Starlink helped save a young man’s life in remote Myanmar.\n\nAfter a landmine blast in Kayah State, his injuries were beyond what the medic on the ground could treat alone.\n\nUsing Starlink, the team sent photos and videos to a surgeon in Germany, who guided the medic through emergency procedures. Free Burma Rangers says this helped save his life and what remained of his leg.\n\nFor remote communities with no mobile signal, Starlink can put life-saving expertise within reach, even when the surgeon is thousands of miles away.",
+   "urls": [],
+   "metrics": {
+    "likes": 2744,
+    "reposts": 427,
+    "replies": 165,
+    "quotes": 37
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXp2SFga8AAzeWj.jpg",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "ref": {
+    "id": "2124140238587211891",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-21T13:57:52.000Z",
+    "conversation_id": "2124140238587211891"
+   }
+  },
+  {
+   "id": "2124479235779637392",
+   "author_id": "34743251",
+   "username": "SpaceX",
+   "name": "SpaceX",
+   "created_at": "2026-11-22T12:24:55.000Z",
+   "lang": "en",
+   "conversation_id": "2124479235779637392",
+   "url": "https://x.com/SpaceX/status/2124479235779637392",
+   "kind": "post",
+   "text": "Liftoff!",
+   "urls": [],
+   "metrics": {
+    "likes": 6404,
+    "reposts": 594,
+    "replies": 218,
+    "quotes": 71
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2124479145291698176/vid/avc1/3840x2160/mX_73S__9oGixwGx.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2124479145291698176/img/wgpLCF7z2RWDqfEQ.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2124479145291698176/vid/avc1/480x270/8MLIniap3b7hoo0T.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124479145291698176/vid/avc1/640x360/lo2-gDqe-3faPshT.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124479145291698176/vid/avc1/1280x720/0GNkjV3Sg963XBFQ.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124479145291698176/vid/avc1/1920x1080/UMtCNouTDMLF-1ya.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2124479145291698176/vid/avc1/3840x2160/mX_73S__9oGixwGx.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 27600
+    }
+   ]
+  },
+  {
+   "id": "2124477713142665551",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:18:52.000Z",
+   "lang": "en",
+   "conversation_id": "2124477713142665551",
+   "url": "https://x.com/elonmusk/status/2124477713142665551",
+   "kind": "quote",
+   "text": "Starlink saves lives",
+   "urls": [],
+   "metrics": {
+    "likes": 9135,
+    "reposts": 1287,
+    "replies": 1211,
+    "quotes": 124
+   },
+   "ref": {
+    "id": "2124477342894718996",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-22T12:17:24.000Z",
+    "text": "Starlink helped rescue an injured hiker stranded in Japan’s mountains with no mobile signal. 🇯🇵\n\nAfter a 6-metre fall, he was bleeding heavily, had a broken finger and could no longer walk. He used Starlink to text his wife his exact coordinates.\n\nHe spent the night under an emergency blanket before rescuers reached him around 10:30 the next morning and arranged a helicopter flight to hospital.\n\nHe says rescuers told him the coordinates he sent helped them pinpoint his location.",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2124477302763565056/vid/avc1/720x720/e2Z6xWFHLfQ8AmhM.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2124477302763565056/img/6NAu7uKzXxzUN4Ab.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2124477302763565056/vid/avc1/320x320/EgEaNr1Dq6hrOvQu.mp4",
+        "w": 320,
+        "h": 320,
+        "br": 432000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124477302763565056/vid/avc1/540x540/sXYhxKc0K8VBKL_q.mp4",
+        "w": 540,
+        "h": 540,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2124477302763565056/vid/avc1/720x720/e2Z6xWFHLfQ8AmhM.mp4",
+        "w": 720,
+        "h": 720,
+        "br": 1280000
+       }
+      ],
+      "width": 720,
+      "height": 720,
+      "duration_ms": 9100
+     }
+    ],
+    "conversation_id": "2124477342894718996"
+   }
+  },
+  {
+   "id": "2124477072865218879",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:16:19.000Z",
+   "lang": "en",
+   "conversation_id": "2124477072865218879",
+   "url": "https://x.com/elonmusk/status/2124477072865218879",
+   "kind": "repost",
+   "text": "FSD went from bounding boxes to Reality View in less than half a GTA",
+   "urls": [],
+   "metrics": {
+    "likes": 1891,
+    "reposts": 160,
+    "replies": 93,
+    "quotes": 15
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXrI77KWoAArMFl.jpg",
+     "width": 4096,
+     "height": 1977
+    }
+   ],
+   "ref": {
+    "id": "2124233719078965484",
+    "author_id": "1518265999367286787",
+    "username": "battleangelviv",
+    "name": "Viv",
+    "created_at": "2026-11-21T20:09:19.000Z",
+    "conversation_id": "2124233719078965484"
+   }
+  },
+  {
+   "id": "2124476772582412368",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:15:08.000Z",
+   "lang": "en",
+   "conversation_id": "2124476772582412368",
+   "url": "https://x.com/elonmusk/status/2124476772582412368",
+   "kind": "repost",
+   "text": "Absolutely true https://twitter.com/mollysoshea/status/2124215518341017719",
+   "urls": [
+    "https://twitter.com/mollysoshea/status/2124215518341017719"
+   ],
+   "metrics": {
+    "likes": 1245,
+    "reposts": 108,
+    "replies": 52,
+    "quotes": 2
+   },
+   "ref": {
+    "id": "2124278542347440636",
+    "author_id": "340387261",
+    "username": "GavinSBaker",
+    "name": "Gavin Baker",
+    "created_at": "2026-11-21T23:07:26.000Z",
+    "conversation_id": "2124278542347440636"
+   }
+  },
+  {
+   "id": "2124476655150530688",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:14:40.000Z",
+   "lang": "en",
+   "conversation_id": "2124476655150530688",
+   "url": "https://x.com/elonmusk/status/2124476655150530688",
+   "kind": "repost",
+   "text": "@stevenmarkryan I cannot believe how new Grok Bot is and how integrated it already is in not only my businesses but my personal life.\n\n2027 is going to be life-changing for anyone actually using this technology.\n\nI feel bad for those on the sidelines or with their head in the sand.",
+   "urls": [],
+   "metrics": {
+    "likes": 917,
+    "reposts": 92,
+    "replies": 85,
+    "quotes": 6
+   },
+   "ref": {
+    "id": "2124460802774372833",
+    "author_id": "1526320569666387968",
+    "username": "FreeAndBuilding",
+    "name": "Jay",
+    "created_at": "2026-11-22T11:11:40.000Z",
+    "reply_to": {
+     "id": "2124410626701512759",
+     "username": "stevenmarkryan"
+    },
+    "conversation_id": "2124410626701512759"
+   }
+  },
+  {
+   "id": "2124476595322675522",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:14:25.000Z",
+   "lang": "en",
+   "conversation_id": "2124476595322675522",
+   "url": "https://x.com/elonmusk/status/2124476595322675522",
+   "kind": "repost",
+   "text": "Had lunch with two friends I told to use Grok Bot in their businesses a few weeks ago.\n\nThe verdict?\n\n\"Can't live without Grok Bot now\".",
+   "urls": [],
+   "metrics": {
+    "likes": 1057,
+    "reposts": 94,
+    "replies": 69,
+    "quotes": 3
+   },
+   "ref": {
+    "id": "2124410626701512759",
+    "author_id": "31263848",
+    "username": "stevenmarkryan",
+    "name": "stevenmarkryan",
+    "created_at": "2026-11-22T07:52:17.000Z",
+    "conversation_id": "2124410626701512759"
+   }
+  },
+  {
+   "id": "2124476217399140650",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:12:55.000Z",
+   "lang": "en",
+   "conversation_id": "2124476217399140650",
+   "url": "https://x.com/elonmusk/status/2124476217399140650",
+   "kind": "repost",
+   "text": "Grok Bot is getting very good…",
+   "urls": [],
+   "metrics": {
+    "likes": 1266,
+    "reposts": 115,
+    "replies": 87,
+    "quotes": 8
+   },
+   "ref": {
+    "id": "2124220635928985646",
+    "author_id": "534023",
+    "username": "alx",
+    "name": "ALX 🇺🇸",
+    "created_at": "2026-11-21T19:17:20.000Z",
+    "conversation_id": "2124220635928985646"
+   }
+  },
+  {
+   "id": "2124476093793190061",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:12:26.000Z",
+   "lang": "en",
+   "conversation_id": "2124234838639288518",
+   "url": "https://x.com/elonmusk/status/2124476093793190061",
+   "reply_to": {
+    "id": "2124234838639288518",
+    "username": "aaronburnett"
+   },
+   "kind": "reply",
+   "text": "@aaronburnett Might be",
+   "urls": [],
+   "metrics": {
+    "likes": 1526,
+    "reposts": 267,
+    "replies": 206,
+    "quotes": 13
+   }
+  },
+  {
+   "id": "2124475935995105397",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:11:48.000Z",
+   "lang": "en",
+   "conversation_id": "2124241570451054609",
+   "url": "https://x.com/elonmusk/status/2124475935995105397",
+   "reply_to": {
+    "id": "2124265988397125991",
+    "username": "beffjezos"
+   },
+   "kind": "reply",
+   "text": "@beffjezos Count on it",
+   "urls": [],
+   "metrics": {
+    "likes": 2705,
+    "reposts": 106,
+    "replies": 232,
+    "quotes": 21
+   }
+  },
+  {
+   "id": "2124475574542540923",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:10:22.000Z",
+   "lang": "en",
+   "conversation_id": "2124475574542540923",
+   "url": "https://x.com/elonmusk/status/2124475574542540923",
+   "kind": "repost",
+   "text": "“Ice cream is an amazing invention.”\n\n— Elon Musk",
+   "urls": [],
+   "metrics": {
+    "likes": 8652,
+    "reposts": 666,
+    "replies": 615,
+    "quotes": 81
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXuEGWkbEAAzo7o.jpg",
+     "width": 1009,
+     "height": 1160
+    }
+   ],
+   "ref": {
+    "id": "2124436902661197916",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-22T09:36:42.000Z",
+    "conversation_id": "2124436902661197916"
+   }
+  },
+  {
+   "id": "2124475467436851599",
+   "author_id": "34743251",
+   "username": "SpaceX",
+   "name": "SpaceX",
+   "created_at": "2026-11-22T12:09:56.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/SpaceX/status/2124475467436851599",
+   "kind": "post",
+   "text": "Watch Falcon 9 launch the @NRO_gov’s NROL-136 mission from pad 4E in California https://t.co/nu2o3Ovbh7",
+   "urls": [],
+   "metrics": {
+    "likes": 8129,
+    "reposts": 1097,
+    "replies": 342,
+    "quotes": 92
+   },
+   "partial": true
+  },
+  {
+   "id": "2124475458150334900",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:09:54.000Z",
+   "lang": "en",
+   "conversation_id": "2124413163454255246",
+   "url": "https://x.com/elonmusk/status/2124475458150334900",
+   "reply_to": {
+    "id": "2124473735629472134",
+    "username": "JBrunner8484"
+   },
+   "kind": "reply",
+   "text": "@JBrunner8484 @BLKMDL3 @wholemars It’s going to Optimus. Cars will remain at AI4. That’s enough to solve superhuman driving.",
+   "urls": [],
+   "metrics": {
+    "likes": 7440,
+    "reposts": 600,
+    "replies": 405,
+    "quotes": 294
+   }
+  },
+  {
+   "id": "2124474702173241540",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:06:54.000Z",
+   "lang": "en",
+   "conversation_id": "2124474702173241540",
+   "url": "https://x.com/elonmusk/status/2124474702173241540",
+   "kind": "repost",
+   "text": "BREAKING: Coinbase says Grok Bot is its most popular AI agent.\n\nGrok Bot led Coinbase for Agents with 40.4% of notional trading volume for Nov. 9–15, more than Claude and ChatGPT combined.\n\nTogether, Grok Bot and Grok captured 56.8%.",
+   "urls": [],
+   "metrics": {
+    "likes": 1309,
+    "reposts": 184,
+    "replies": 129,
+    "quotes": 18
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXsuUPQbMAArziV.jpg",
+     "width": 1096,
+     "height": 1100
+    }
+   ],
+   "ref": {
+    "id": "2124342583531081741",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-22T03:21:54.000Z",
+    "conversation_id": "2124342583531081741"
+   }
+  },
+  {
+   "id": "2124474606702473263",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:06:31.000Z",
+   "lang": "en",
+   "conversation_id": "2124301719798731119",
+   "url": "https://x.com/elonmusk/status/2124474606702473263",
+   "reply_to": {
+    "id": "2124301719798731119",
+    "username": "tslaming"
+   },
+   "kind": "reply",
+   "text": "@tslaming AI4 costs twice as much now due to memory and storage price hikes",
+   "urls": [],
+   "metrics": {
+    "likes": 3552,
+    "reposts": 190,
+    "replies": 210,
+    "quotes": 44
+   }
+  },
+  {
+   "id": "2124474435977482737",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:05:51.000Z",
+   "lang": "en",
+   "conversation_id": "2124474435977482737",
+   "url": "https://x.com/elonmusk/status/2124474435977482737",
+   "kind": "repost",
+   "text": "Out of everything posted about FSD v15 so far, one line from @elonmusk deserves way more attention than it's getting: \"This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in …\" 🔥\n\nHalf of one accelerator is the part worth sitting with. Once you see the numbers behind it, Reality View stops looking like a fancy new screen and starts looking like one of the most impressive things Tesla has ever shipped.\n\n🎬 THE SCREEN IS NOW GENERATED LIVE\n\nFor years, FSD's screen worked like a video game. Software took a list of what the car detected and dropped stock 3D models in the right spots: a gray car here, a lane line there.\n\nReality View tosses that playbook out the window. The car's AI now generates the video itself, frame after frame, as you drive, with no game engine anywhere in the loop.\n\nBetter yet, the picture comes from the same end-to-end model that's doing the driving. That's the single neural network that turns camera video into steering and braking, and now it paints your screen, too.\n\n⚙️ WHAT A TRIP ACTUALLY IS\n\nThe standard AI4 computer carries two self-driving chips, and each chip packs three custom neural processors Tesla calls TRIP accelerators. That's six in all.\n\nAnd that's where Reality View gets made: right on the self-driving computer, instead of the infotainment chip that runs your maps and music.\n\nEach TRIP is basically an arena packed with tiny calculators, all cranking through the multiply-and-add math that neural networks run on. Teardowns count 9,216 of them per TRIP, lined up in a 96-by-96 grid and firing 2.2 billion times a second.\n\nEach calculator handles two operations per tick, so one TRIP works out to 9,216 × 2 × 2.2 billion, or roughly 40 trillion operations every second.\n\nHalf of one comes to about 20 trillion, roughly a twelfth of the whole computer's neural muscle.\n\n📏 WHY THAT NUMBER IS RIDICULOUS\n\nTwenty trillion operations per second sounds enormous, until you see what else runs on that kind of budget.\n\nThe Neural Engine inside Apple's iPhone 15 Pro is rated at 35 trillion operations per second. So on paper, the slice of compute painting Reality View has less raw AI muscle than the AI chip in a 2023 phone.\n\nCompanies don't all count these numbers the same way, so it's a ballpark, but it shows just how little compute this is.\n\nAt the other end of the scale sits Nvidia's H100, one of the data-center workhorses powering today's AI boom. It's rated at about 1,979 trillion 8-bit operations per second in its standard mode, the same kind of math a TRIP runs, which puts half a TRIP at roughly 1% of one H100.\n\nThat gap matters because AI video is one of the toughest jobs in AI. Many AI video generators still take minutes to produce a single clip, as the researchers behind the real-time system MotionStream point out.\n\nEven MotionStream, built specifically for speed, streams roughly 17 to 29 frames per second at 480p, and about 10 at 720p, while eating up an entire H100.\n\nMeanwhile, Tesla is streaming a live, photorealistic view of the real road on roughly 1% of that chip's rated power, inside a moving car.\n\nIn other words, Reality View runs on less compute than a phone's AI chip, inside a computer whose main job is driving.\n\nThere's a fair asterisk here. Those research models dream up whole scenes from a prompt or a single image, while Tesla's renderer starts with a driving brain that already knows exactly what's around the car. Tesla also hasn't shared the view's resolution or frame rate.\n\nAnd even on the most generous estimates of AI4's power, half a TRIP still works out to only about 2% of one H100.\n\nEither way, live generated video on a sliver of a car computer would have sounded like science fiction not long ago.\n\n🔍 HOW IT CAN BE THIS CHEAP\n\nTesla hasn't spelled out how it works, but it has left plenty of breadcrumbs.\n\nFSD's network has been building its own 3D picture of the world for a while now, something Tesla showed off at the ICCV conference in October 2025. That picture includes 3D Gaussians, millions of soft little blobs of color that can rebuild a scene you can view from any angle.\n\nTesla also built its own Gaussian splatting system that can rebuild a scene from the car's cameras in a fraction of a second.\n\nReality View streams its picture from a virtual camera that can sit anywhere above the car, and showing a scene from an angle no real camera has is exactly what those 3D blobs are great at.\n\nEven Elon seems to like that theory: he called a description of Reality View as a neural, Gaussian-splat digital twin \"pretty accurate\", and it lines up with every other clue.\n\nIf that's the trick, the hard part is done before the screen ever needs a picture. The driving brain understands the scene, and the visualization just paints what it already knows.\n\nThat would explain the other shocker. Reality View swapped every separate signal behind the old screen for one end-to-end visualization, and it still uses less compute than the bare-bones 2020 visualization did.\n\n🚗 WHY TESLA CARES SO MUCH\n\nv15 is Tesla's large model, built to squeeze every ounce of performance out of HW4. On a chip working that hard, a screen that costs half of one TRIP leaves nearly everything else for the driving.\n\nAnd it's a flex, too. The AI4 computer costs about $650 by Elon's own figure, and that same box now drives the car and paints live video of the world at the same time.\n\nThis is only the start. Elon says Tesla vehicles will share traffic knowledge and combine it with Grok's real-time 𝕏 feed, even giving you a heads-up about what's happening at your destination.\n\nA view this cheap to generate is the perfect canvas for that kind of shared knowledge.\n\nElon asked everyone to let that sink in, and the math earns it: half of one accelerator in a $650 computer is painting the real world live while FSD drives.",
+   "urls": [],
+   "metrics": {
+    "likes": 2342,
+    "reposts": 539,
+    "replies": 103,
+    "quotes": 31
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXsJJroakAAeOdd.jpg",
+     "width": 1199,
+     "height": 1150
+    }
+   ],
+   "ref": {
+    "id": "2124301719798731119",
+    "author_id": "358834522",
+    "username": "tslaming",
+    "name": "Ming",
+    "created_at": "2026-11-22T00:39:32.000Z",
+    "conversation_id": "2124301719798731119",
+    "quote": {
+     "id": "2124270426402836626",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-11-21T22:35:11.000Z",
+     "text": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in … https://twitter.com/aelluswamy/status/2124230700547326435",
+     "conversation_id": "2124270426402836626"
+    }
+   }
+  },
+  {
+   "id": "2124473914621403637",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:03:46.000Z",
+   "lang": "en",
+   "conversation_id": "2124473914621403637",
+   "url": "https://x.com/elonmusk/status/2124473914621403637",
+   "kind": "repost",
+   "text": "SpaceX is planning an absolutely massive 6-gigawatt supercomputing campus in Arizona, designed to operate with ZERO industrial water consumption\n\nAnd the engineering behind this is absolutely insane\n\nThe proposed campus near Willcox includes:\n\n• 747 acres of land\n• Nine supercomputing buildings, each ~493,000 sq ft\n• Up to 6 GW of electrical demand across four phases\n• Up to 24 GWh of battery energy storage\n• Dry cooling without conventional cooling towers\n• ZERO industrial groundwater use under its proposed operating plan\n• Just 7–10 acre-feet of estimated annual operational water consumption\n• ~$3.6 BILLION in planned grid infrastructure upgrades\n• ~1,000 permanent jobs and up to 5,500 construction workers\n\nAll of this is being planned in the middle of the Arizona desert\n\nBuilding superintelligence infrastructure at this scale goes far beyond installing millions of GPUs\n\nIt means securing enormous amounts of electricity, building advanced cooling systems, expanding the power grid and solving engineering challenges that come with operating at gigawatt scale\n\nA single 6 GW campus with 24 GWh of battery storage, designed to operate with minimal on-site water consumption\n\nSpaceX is taking superintelligence infrastructure to an entirely different level",
+   "urls": [],
+   "metrics": {
+    "likes": 3661,
+    "reposts": 654,
+    "replies": 207,
+    "quotes": 46
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXqv2TraoAEytzl.jpg",
+     "width": 2400,
+     "height": 2508
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXqv22gbsAAPcll.jpg",
+     "width": 2420,
+     "height": 1870
+    }
+   ],
+   "ref": {
+    "id": "2124203543242719564",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-21T18:09:25.000Z",
+    "conversation_id": "2124203543242719564"
+   }
+  },
+  {
+   "id": "2124473622651904202",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:02:37.000Z",
+   "lang": "en",
+   "conversation_id": "2123837434852933696",
+   "url": "https://x.com/elonmusk/status/2124473622651904202",
+   "reply_to": {
+    "id": "2123837434852933696",
+    "username": "WarMachineRR"
+   },
+   "kind": "reply",
+   "text": "@WarMachineRR Interesting",
+   "urls": [],
+   "metrics": {
+    "likes": 4841,
+    "reposts": 377,
+    "replies": 402,
+    "quotes": 18
+   }
+  },
+  {
+   "id": "2124473230245458178",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T12:01:03.000Z",
+   "lang": "en",
+   "conversation_id": "2124287832999244167",
+   "url": "https://x.com/elonmusk/status/2124473230245458178",
+   "reply_to": {
+    "id": "2124287832999244167",
+    "username": "WR4NYGov"
+   },
+   "kind": "reply",
+   "text": "@WR4NYGov Tesla writes tight code and tight models",
+   "urls": [],
+   "metrics": {
+    "likes": 2229,
+    "reposts": 114,
+    "replies": 64,
+    "quotes": 22
+   }
+  },
+  {
+   "id": "2124472923213984120",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:59:50.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124472923213984120",
+   "reply_to": {
+    "id": "2124312689958941026",
+    "username": "aaronburnett"
+   },
+   "kind": "reply",
+   "text": "@aaronburnett Way, way more down the line",
+   "urls": [],
+   "metrics": {
+    "likes": 1435,
+    "reposts": 73,
+    "replies": 99,
+    "quotes": 4
+   },
+   "partial": true
+  },
+  {
+   "id": "2124472680472600902",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:58:52.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124472680472600902",
+   "reply_to": {
+    "id": "2124359751815590236",
+    "username": "Teslaconomics"
+   },
+   "kind": "reply",
+   "text": "@Teslaconomics Yeah",
+   "urls": [],
+   "metrics": {
+    "likes": 2537,
+    "reposts": 93,
+    "replies": 163,
+    "quotes": 15
+   },
+   "partial": true
+  },
+  {
+   "id": "2124472650554658990",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:58:45.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124472650554658990",
+   "kind": "repost",
+   "text": "Tesla FSD v15 is gta in real life",
+   "urls": [],
+   "metrics": {
+    "likes": 4909,
+    "reposts": 470,
+    "replies": 174,
+    "quotes": 56
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXs976_aMAACEt2.jpg",
+     "width": 1254,
+     "height": 1254
+    }
+   ],
+   "ref": {
+    "id": "2124359751815590236",
+    "author_id": "985243593538338816",
+    "username": "Teslaconomics",
+    "name": "Teslaconomics",
+    "created_at": "2026-11-22T04:30:08.000Z",
+    "conversation_id": "2124359751815590236"
+   }
+  },
+  {
+   "id": "2124472500910162383",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:58:09.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124472500910162383",
+   "reply_to": {
+    "id": "2124328093007667512",
+    "username": "WR4NYGov"
+   },
+   "kind": "reply",
+   "text": "@WR4NYGov Yes",
+   "urls": [],
+   "metrics": {
+    "likes": 1110,
+    "reposts": 53,
+    "replies": 28,
+    "quotes": 7
+   },
+   "partial": true
+  },
+  {
+   "id": "2124472423039037601",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:57:51.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124472423039037601",
+   "kind": "repost",
+   "text": "i'm admittedly pretty harsh on the google guys, mostly cuz i know the co super well.\n\nbut holy hell, i'm having an incredible time with neon so far.\n\nproduct issues aside, this is a very different experience, almost like a strange new feeling. the way it talks, the way it responds, everything feels pretty damn fresh if that makes any sense. it's very creative. & unusually great at proposing ideas. i can't even say it's about intelligence or better answers in general. i am normally okay with words, but this is very difficult for me to articulate well.\n\nanyway, it's fairly clear that google absolutely cooked here.\n\ni have never doubted google's technical capabilities. those were & are totally obvious. i mean it is literally the birth place of ai. it was always a question of whether google could turn an extraordinary technology into newer experiences that ppl love using, which sort of requires shedding every success of the past.\n\nthese newer generation of models, particularly neon clearly gives them extraordinary new legs to stand on. it doesn't feel like \"gemini\" at all.\n\ncongratulations to everyone at google, i will continue to play around with more. there are obviously some product frustrations & confusing elements but i'm setting those aside for now.",
+   "urls": [],
+   "metrics": {
+    "likes": 3199,
+    "reposts": 165,
+    "replies": 136,
+    "quotes": 20
+   },
+   "partial": true,
+   "ref": {
+    "id": "2124338865888457117",
+    "author_id": "1717671858521194496",
+    "username": "signulll",
+    "name": "signüll",
+    "created_at": "2026-11-22T03:07:08.000Z",
+    "conversation_id": "2124338865888457117"
+   }
+  },
+  {
+   "id": "2124472414197432809",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:57:48.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124472414197432809",
+   "reply_to": {
+    "id": "2124338865888457117",
+    "username": "signulll"
+   },
+   "kind": "reply",
+   "text": "@signulll True",
+   "urls": [],
+   "metrics": {
+    "likes": 958,
+    "reposts": 49,
+    "replies": 71,
+    "quotes": 9
+   },
+   "partial": true
+  },
+  {
+   "id": "2124471802827256253",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:55:23.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124471802827256253",
+   "reply_to": {
+    "id": "2124456278168912359",
+    "username": "elonmusk"
+   },
+   "kind": "reply",
+   "text": "@anabology Btw, your Tesla AI4, literally in your car, can play Diablo and get to Torment II and will probably soon reach XII",
+   "urls": [],
+   "metrics": {
+    "likes": 4158,
+    "reposts": 182,
+    "replies": 233,
+    "quotes": 27
+   },
+   "partial": true
+  },
+  {
+   "id": "2124470708453466534",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:51:02.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124470708453466534",
+   "reply_to": {
+    "id": "2124330083213295678",
+    "username": "SmokeAwayyy"
+   },
+   "kind": "reply",
+   "text": "@SmokeAwayyy Tesla real-world AI will increase in intelligence by about an order of magnitude per year",
+   "urls": [],
+   "metrics": {
+    "likes": 7662,
+    "reposts": 513,
+    "replies": 270,
+    "quotes": 67
+   },
+   "partial": true
+  },
+  {
+   "id": "2124469727074586860",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:47:08.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124469727074586860",
+   "reply_to": {
+    "id": "2124405200882696578",
+    "username": "hashemcreatedus"
+   },
+   "kind": "reply",
+   "text": "@hashemcreatedus @schrep Yup",
+   "urls": [],
+   "metrics": {
+    "likes": 512,
+    "reposts": 34,
+    "replies": 38,
+    "quotes": 3
+   },
+   "partial": true
+  },
+  {
+   "id": "2124469602700956103",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:46:38.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124469602700956103",
+   "reply_to": {
+    "id": "2124337665495720086",
+    "username": "schrep"
+   },
+   "kind": "reply",
+   "text": "@schrep We designed our own super precise radar system and it’s there on some X and X units, but turned off. Superhuman vision just crushes it.",
+   "urls": [],
+   "metrics": {
+    "likes": 943,
+    "reposts": 85,
+    "replies": 55,
+    "quotes": 7
+   },
+   "partial": true
+  },
+  {
+   "id": "2124469088085041393",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:44:35.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124469088085041393",
+   "reply_to": {
+    "id": "2124341573056172320",
+    "username": "yunta_tsai"
+   },
+   "kind": "reply",
+   "text": "@yunta_tsai @schrep Precisely",
+   "urls": [],
+   "metrics": {
+    "likes": 428,
+    "reposts": 34,
+    "replies": 29,
+    "quotes": 4
+   },
+   "partial": true
+  },
+  {
+   "id": "2124468732894347363",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:43:11.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124468732894347363",
+   "kind": "repost",
+   "text": "@DilreetR @gergman91 @aelluswamy And AI6 is",
+   "urls": [],
+   "metrics": {
+    "likes": 2762,
+    "reposts": 170,
+    "replies": 178,
+    "quotes": 30
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXug_hcXIAAZJIT.jpg",
+     "width": 250,
+     "height": 194
+    }
+   ],
+   "ref": {
+    "id": "2124468665223438425",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-22T11:42:55.000Z",
+    "reply_to": {
+     "id": "2124468407919862204",
+     "username": "elonmusk"
+    },
+    "conversation_id": "2124237500709531726"
+   }
+  },
+  {
+   "id": "2124468665223438425",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:42:55.000Z",
+   "lang": "en",
+   "conversation_id": "2124237500709531726",
+   "url": "https://x.com/elonmusk/status/2124468665223438425",
+   "reply_to": {
+    "id": "2124468407919862204",
+    "username": "elonmusk"
+   },
+   "kind": "reply",
+   "text": "@DilreetR @gergman91 @aelluswamy And AI6 is",
+   "urls": [],
+   "metrics": {
+    "likes": 2762,
+    "reposts": 170,
+    "replies": 178,
+    "quotes": 30
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXug_hcXIAAZJIT.jpg",
+     "width": 250,
+     "height": 194
+    }
+   ]
+  },
+  {
+   "id": "2124468407919862204",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:41:53.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124468407919862204",
+   "reply_to": {
+    "id": "2124340305004769596",
+    "username": "DilreetR"
+   },
+   "kind": "reply",
+   "text": "@DilreetR @gergman91 @aelluswamy 🎯",
+   "urls": [],
+   "metrics": {
+    "likes": 990,
+    "reposts": 33,
+    "replies": 40,
+    "quotes": 4
+   },
+   "partial": true
+  },
+  {
+   "id": "2124468263719739555",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:41:19.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124468263719739555",
+   "reply_to": {
+    "id": "2124237500709531726",
+    "username": "DilreetR"
+   },
+   "kind": "reply",
+   "text": "@DilreetR @aelluswamy 🙏",
+   "urls": [],
+   "metrics": {
+    "likes": 1182,
+    "reposts": 54,
+    "replies": 93,
+    "quotes": 7
+   },
+   "partial": true
+  },
+  {
+   "id": "2124468122304581987",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:40:45.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124468122304581987",
+   "reply_to": {
+    "id": "2124376140416684539",
+    "username": "beffjezos"
+   },
+   "kind": "reply",
+   "text": "@beffjezos Basically, a fuckton of dot products",
+   "urls": [],
+   "metrics": {
+    "likes": 2272,
+    "reposts": 82,
+    "replies": 114,
+    "quotes": 11
+   },
+   "partial": true
+  },
+  {
+   "id": "2124467677859332290",
+   "author_id": "34743251",
+   "username": "SpaceX",
+   "name": "SpaceX",
+   "created_at": "2026-11-22T11:38:59.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/SpaceX/status/2124467677859332290",
+   "reply_to": {
+    "id": "2124467552441012653",
+    "username": "SpaceX"
+   },
+   "kind": "reply",
+   "text": "@NRO_gov About eight minutes after liftoff, Falcon 9’s first stage will return to Landing Zone 4 at Vandenberg Space Force Base, announcing its arrival with a sonic boom",
+   "urls": [],
+   "metrics": {
+    "likes": 920,
+    "reposts": 69,
+    "replies": 23,
+    "quotes": 4
+   },
+   "partial": true
+  },
+  {
+   "id": "2124467590890426485",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:38:39.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124467590890426485",
+   "reply_to": {
+    "id": "2124465180902084684",
+    "username": "ElleRen7"
+   },
+   "kind": "reply",
+   "text": "@ElleRen7 You ask us to move mountains!\n\nVery well, we shall.",
+   "urls": [],
+   "metrics": {
+    "likes": 1993,
+    "reposts": 147,
+    "replies": 189,
+    "quotes": 32
+   },
+   "partial": true
+  },
+  {
+   "id": "2124467552441012653",
+   "author_id": "34743251",
+   "username": "SpaceX",
+   "name": "SpaceX",
+   "created_at": "2026-11-22T11:38:29.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/SpaceX/status/2124467552441012653",
+   "kind": "post",
+   "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the @NRO_gov’s NROL-136 mission from California → https://t.co/6fRVX7ogAD https://t.co/gxj8OLD54W",
+   "urls": [],
+   "metrics": {
+    "likes": 3721,
+    "reposts": 348,
+    "replies": 123,
+    "quotes": 31
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXubXMQXkAALh3l.jpg",
+     "width": 3855,
+     "height": 2570
+    }
+   ]
+  },
+  {
+   "id": "2124467385298293001",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:37:50.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124467385298293001",
+   "kind": "quote",
+   "text": "True https://t.co/2TPisDzXXB",
+   "urls": [],
+   "metrics": {
+    "likes": 3167,
+    "reposts": 621,
+    "replies": 518,
+    "quotes": 29
+   },
+   "partial": true,
+   "ref": {
+    "id": "2124464086897340796",
+    "author_id": "1720665183188922368",
+    "username": "grok",
+    "name": "Grok",
+    "created_at": "2026-11-22T11:24:43.000Z",
+    "text": "CAHSR has spent roughly $16B since 2008, completed 90+ miles of guideway, and is only now starting track. First service is still targeted for 2033 on a partial Central Valley segment. Full SF-LA remains years and tens of billions away.\n\nBoring has already carried 4M+ passengers on operational Vegas tunnels built in a fraction of the time and cost. With Prufrock machines targeting a mile a week, multiple concurrent digs, and private-sector execution, major usable segments would almost certainly be running passengers by now instead of waiting for the first rails.",
+    "reply_to": {
+     "id": "2124463928457793730",
+     "username": "GunNutt1"
+    },
+    "conversation_id": "2124412479359049787"
+   }
+  },
+  {
+   "id": "2124467233120571479",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-22T11:37:13.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2124467233120571479",
+   "reply_to": {
+    "id": "2124412479359049787",
+    "username": "XFreeze"
+   },
+   "kind": "reply",
+   "text": "@XFreeze “Am I a joke to you?”\n\nWell, yes, actually “The Boring Company” started as a joke, but now it’s real!",
+   "urls": [],
+   "metrics": {
+    "likes": 6068,
+    "reposts": 291,
+    "replies": 441,
+    "quotes": 34
+   },
+   "partial": true
+  },
   {
    "id": "2124466805263470612",
    "author_id": "44196397",
@@ -11099,2377 +12772,6 @@
     "reposts": 0,
     "replies": 4,
     "quotes": 0
-   }
-  },
-  {
-   "id": "2123477749935579459",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-19T18:05:22.000Z",
-   "lang": "en",
-   "conversation_id": "2123476246101176533",
-   "url": "https://x.com/mattyp/status/2123477749935579459",
-   "reply_to": {
-    "id": "2123476246101176533",
-    "username": "kiaraplds"
-   },
-   "kind": "reply",
-   "text": "@kiaraplds nice",
-   "urls": [],
-   "metrics": {
-    "likes": 22,
-    "reposts": 1,
-    "replies": 2,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2123475464043786417",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T17:56:17.000Z",
-   "lang": "en",
-   "conversation_id": "2123475464043786417",
-   "url": "https://x.com/elonmusk/status/2123475464043786417",
-   "kind": "quote",
-   "text": "You can create an entire company made of Grok Bots!",
-   "urls": [],
-   "metrics": {
-    "likes": 14060,
-    "reposts": 1309,
-    "replies": 2133,
-    "quotes": 203
-   },
-   "ref": {
-    "id": "2123417350234136746",
-    "author_id": "1324183584282939392",
-    "username": "Texas_Twins_Dad",
-    "name": "Texas Twins Dad",
-    "created_at": "2026-11-19T14:05:22.000Z",
-    "text": "I wake up in the morning, and Grok Bot has already opened multiple PRs, run the tests, and merged them. Having Grok Bot is like hiring a team that never sleeps.",
-    "conversation_id": "2123417350234136746"
-   }
-  },
-  {
-   "id": "2123467827826897089",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T17:25:56.000Z",
-   "lang": "en",
-   "conversation_id": "2123467827826897089",
-   "url": "https://x.com/elonmusk/status/2123467827826897089",
-   "kind": "repost",
-   "text": "Dario Amodei on SpaceX compute: “We’re finding that compute to be high quality. We’re enjoying working with SpaceX”\n\nSORKIN: “One of the partners that I spoke to yesterday was Elon Musk, and you use him for compute. And there’s been some speculation that when those contracts come up, or at least the first time they’re available, you might try to scale back some of your use of SpaceX compute and move elsewhere. True, untrue?”\n\nDARIO: “I mean, you can’t be sure what you’re going to do in the future, but we’re finding that compute to be high quality. We’re enjoying working with SpaceX.”",
-   "urls": [],
-   "metrics": {
-    "likes": 1980,
-    "reposts": 216,
-    "replies": 74,
-    "quotes": 8
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123458331419557888/vid/avc1/1920x1080/gnhkoUhITQtyc7SU.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123458331419557888/img/MBzdoOeNZrgRGyES.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123458331419557888/vid/avc1/480x270/Sj6XEpwEMttrQ-40.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123458331419557888/vid/avc1/640x360/fSHO-XYMNkIyG1Rv.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123458331419557888/vid/avc1/1280x720/faA3bttB1vgpJTQ9.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123458331419557888/vid/avc1/1920x1080/gnhkoUhITQtyc7SU.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 31297
-    }
-   ],
-   "ref": {
-    "id": "2123458524999307387",
-    "author_id": "2066250685512110080",
-    "username": "firesidealpha",
-    "name": "Fireside Alpha",
-    "created_at": "2026-11-19T16:48:58.000Z",
-    "quote": {
-     "id": "2123457728282869817",
-     "author_id": "2066250685512110080",
-     "username": "firesidealpha",
-     "name": "Fireside Alpha",
-     "created_at": "2026-11-19T16:45:49.000Z",
-     "text": "Dario Amodei says Anthropic could drive at 200 miles an hour but chooses 90\n\n“So this is one of the central tensions at the heart of the company, but it’s really because this technology is so powerful, it has so many effects in the world. It’s something that every company in this space will have to face, whether they want to or not. We’re just facing it more explicitly and more thoughtfully. And so you think about something like pacing.”\n\n“The idea behind pacing was, imagine that you’re driving your car at 60 miles an hour, and then you discover or invent something that could let you drive the car at 200 miles an hour. This is models building themselves, recursive self-improvement. What we’ve done with pacing is essentially said, look, we could drive at 200 miles an hour. Maybe let’s only drive at 90 miles an hour. Spend time figuring out how to do that safely, and the rest of that surplus, we spend building the model in the right way.”\n\n“And I think in the long run, that will work out pretty well for the investors as well, because the company that builds the safest, that has the trust of the customers and the enterprises of the world, I think that is the company that’s going to be both best for society and, in the long run, I hope, best for the performance of the company.”",
-     "media": [
-      {
-       "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2123457656254058496/vid/avc1/1280x720/z7q2LYH07BQPQz9w.mp4",
-       "poster": "https://pbs.twimg.com/amplify_video_thumb/2123457656254058496/img/jQq2jL7L9fCnCcna.jpg",
-       "variants": [
-        {
-         "url": "https://video.twimg.com/amplify_video/2123457656254058496/vid/avc1/480x270/tTWs-NMuFb46qbZ9.mp4",
-         "w": 480,
-         "h": 270,
-         "br": 256000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2123457656254058496/vid/avc1/640x360/pCwuga6enZKL3QSs.mp4",
-         "w": 640,
-         "h": 360,
-         "br": 832000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2123457656254058496/vid/avc1/1280x720/z7q2LYH07BQPQz9w.mp4",
-         "w": 1280,
-         "h": 720,
-         "br": 2176000
-        }
-       ],
-       "width": 1280,
-       "height": 720,
-       "duration_ms": 74074
-      }
-     ],
-     "conversation_id": "2123457728282869817"
-    },
-    "conversation_id": "2123458524999307387"
-   }
-  },
-  {
-   "id": "2123465611145544179",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T17:17:08.000Z",
-   "lang": "en",
-   "conversation_id": "2123465611145544179",
-   "url": "https://x.com/elonmusk/status/2123465611145544179",
-   "kind": "repost",
-   "text": "Haven't tried Grok Bot making a phone call yet? Watch this, then give it a try. Live transcripts is a seriously useful tool.",
-   "urls": [],
-   "metrics": {
-    "likes": 906,
-    "reposts": 120,
-    "replies": 74,
-    "quotes": 8
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123433769696890881/vid/avc1/3840x2160/4xsYkiAFktyWiuSL.mp4",
-     "poster": "https://pbs.twimg.com/media/HXf1L2waEAAT_rM.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123433769696890881/vid/avc1/480x270/TThb98-c9W4O8tdS.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123433769696890881/vid/avc1/640x360/mHGAXCKMARMKffe3.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123433769696890881/vid/avc1/1280x720/yUmw37ZrmjQnadwI.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123433769696890881/vid/avc1/1920x1080/eO_-b9x6RJvfiMb1.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123433769696890881/vid/avc1/3840x2160/4xsYkiAFktyWiuSL.mp4",
-       "w": 3840,
-       "h": 2160,
-       "br": 25128000
-      }
-     ],
-     "width": 1280,
-     "height": 720,
-     "duration_ms": 420714
-    }
-   ],
-   "ref": {
-    "id": "2123450561509138521",
-    "author_id": "1324183584282939392",
-    "username": "Texas_Twins_Dad",
-    "name": "Texas Twins Dad",
-    "created_at": "2026-11-19T16:17:20.000Z",
-    "conversation_id": "2123450561509138521"
-   }
-  },
-  {
-   "id": "2123462926375821793",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T17:06:28.000Z",
-   "lang": "en",
-   "conversation_id": "2123462926375821793",
-   "url": "https://x.com/elonmusk/status/2123462926375821793",
-   "kind": "repost",
-   "text": "BREAKING: Elon Musk visited Tesla's Giga Shanghai today to personally thank the China and Asia-Pacific teams 🇨🇳\n\nHe flew in from Shenzhen and talked about FSD and Optimus.\n\n\"Let's make the future look like the future.\" – Elon Musk",
-   "urls": [],
-   "metrics": {
-    "likes": 16702,
-    "reposts": 2096,
-    "replies": 530,
-    "quotes": 126
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXfezEfbkAA3q7y.jpg",
-     "width": 696,
-     "height": 859
-    }
-   ],
-   "ref": {
-    "id": "2123410726111134071",
-    "author_id": "1389913567671975937",
-    "username": "cb_doge",
-    "name": "DogeDesigner",
-    "created_at": "2026-11-19T13:39:02.000Z",
-    "conversation_id": "2123410726111134071"
-   }
-  },
-  {
-   "id": "2123462109359132941",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T17:03:13.000Z",
-   "lang": "en",
-   "conversation_id": "2123462109359132941",
-   "url": "https://x.com/elonmusk/status/2123462109359132941",
-   "kind": "repost",
-   "text": "People usually see the one deal and think that’s the whole thing, but the ones who know realize that it’s years of work, micro victories and failures stacked on top of one another. It’s really the manifestation of trust. The folks that trusted us, our vision and our thesis, and leaders of companies that trusted that we would bring more than money. Kind of cool when that works out.\n\nCongrats to @DarioAmodei and the whole team at Anthropic. Congrats to the LPs that supported us.\nCongrats to our team that helped us craft and execute a vision.\nAnd thank you to those who didn’t believe in us. You made us work harder.\n\nLove you @guyoseary @epsteineffie",
-   "urls": [],
-   "metrics": {
-    "likes": 5800,
-    "reposts": 340,
-    "replies": 394,
-    "quotes": 62
-   },
-   "ref": {
-    "id": "2123444817602748717",
-    "author_id": "19058681",
-    "username": "aplusk",
-    "name": "ashton kutcher",
-    "created_at": "2026-11-19T15:54:30.000Z",
-    "conversation_id": "2123444817602748717"
-   }
-  },
-  {
-   "id": "2123461544180683105",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T17:00:58.000Z",
-   "lang": "qme",
-   "conversation_id": "2123146581071593629",
-   "url": "https://x.com/elonmusk/status/2123461544180683105",
-   "reply_to": {
-    "id": "2123146581071593629",
-    "username": "hddndoors"
-   },
-   "kind": "reply",
-   "text": "@hddndoors 😂",
-   "urls": [],
-   "metrics": {
-    "likes": 12301,
-    "reposts": 191,
-    "replies": 375,
-    "quotes": 21
-   }
-  },
-  {
-   "id": "2123461388852936747",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T17:00:21.000Z",
-   "lang": "qme",
-   "conversation_id": "2123288418381922493",
-   "url": "https://x.com/elonmusk/status/2123461388852936747",
-   "reply_to": {
-    "id": "2123288418381922493",
-    "username": "profstonge"
-   },
-   "kind": "reply",
-   "text": "@profstonge 😂",
-   "urls": [],
-   "metrics": {
-    "likes": 9108,
-    "reposts": 218,
-    "replies": 343,
-    "quotes": 42
-   }
-  },
-  {
-   "id": "2123461205675147509",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T16:59:38.000Z",
-   "lang": "en",
-   "conversation_id": "2123461205675147509",
-   "url": "https://x.com/elonmusk/status/2123461205675147509",
-   "kind": "repost",
-   "text": "BREAKING: Anthropic CEO Dario Amodei praises SpaceX and says his company is enjoying working with SpaceX.\n\n“We're finding that compute to be high quality. We're enjoying working with SpaceX.”",
-   "urls": [],
-   "metrics": {
-    "likes": 4511,
-    "reposts": 420,
-    "replies": 162,
-    "quotes": 45
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123454530444759040/vid/avc1/1892x1080/HMuBzfHwA59vWxBk.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123454530444759040/img/idvXTl8RKKEpzBUh.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123454530444759040/vid/avc1/472x270/u3rarVyOG6M0fYH8.mp4",
-       "w": 472,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123454530444759040/vid/avc1/630x360/YlaGv_Fy1BmQjx03.mp4",
-       "w": 630,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123454530444759040/vid/avc1/1260x720/_pIFgSRNq6JIy0vs.mp4",
-       "w": 1260,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123454530444759040/vid/avc1/1892x1080/HMuBzfHwA59vWxBk.mp4",
-       "w": 1892,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1892,
-     "height": 1080,
-     "duration_ms": 8018
-    }
-   ],
-   "ref": {
-    "id": "2123454575038677045",
-    "author_id": "1389913567671975937",
-    "username": "cb_doge",
-    "name": "DogeDesigner",
-    "created_at": "2026-11-19T16:33:17.000Z",
-    "conversation_id": "2123454575038677045"
-   }
-  },
-  {
-   "id": "2123460320890933281",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T16:56:07.000Z",
-   "lang": "en",
-   "conversation_id": "2123392520117997749",
-   "url": "https://x.com/elonmusk/status/2123460320890933281",
-   "reply_to": {
-    "id": "2123392520117997749",
-    "username": "zerohedge"
-   },
-   "kind": "reply",
-   "text": "@zerohedge Interesting",
-   "urls": [],
-   "metrics": {
-    "likes": 1653,
-    "reposts": 82,
-    "replies": 168,
-    "quotes": 11
-   }
-  },
-  {
-   "id": "2123456016499241207",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T16:39:00.000Z",
-   "lang": "qme",
-   "conversation_id": "2123186840400482424",
-   "url": "https://x.com/elonmusk/status/2123456016499241207",
-   "reply_to": {
-    "id": "2123186840400482424",
-    "username": "Grummz"
-   },
-   "kind": "reply",
-   "text": "@Grummz 😂",
-   "urls": [],
-   "metrics": {
-    "likes": 14196,
-    "reposts": 265,
-    "replies": 329,
-    "quotes": 27
-   }
-  },
-  {
-   "id": "2123455680682082645",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T16:37:40.000Z",
-   "lang": "en",
-   "conversation_id": "2123455680682082645",
-   "url": "https://x.com/elonmusk/status/2123455680682082645",
-   "kind": "repost",
-   "text": "Starlink Mobile is now live in Mongolia! Our complementary layer of coverage enables customers to stay connected on their phones across the country's vast geography from the Gobi Desert to mountains and grassy plains.",
-   "urls": [],
-   "metrics": {
-    "likes": 1311,
-    "reposts": 156,
-    "replies": 72,
-    "quotes": 7
-   },
-   "ref": {
-    "id": "2123447242249932955",
-    "author_id": "16642547",
-    "username": "SRBednarek",
-    "name": "Stephanie Bednarek",
-    "created_at": "2026-11-19T16:04:08.000Z",
-    "quote": {
-     "id": "2122545422103384397",
-     "author_id": "2846720958",
-     "username": "MobicomOfficial",
-     "name": "mobicom",
-     "created_at": "2026-11-17T04:20:38.000Z",
-     "text": "mobispace — Connecting beyond limits...\n\nMobicom Corporation, in partnership with Starlink Mobile, has officially launched mobispace. @Starlink\n\nMobispace is a new service that uses Starlink’s satellite technology to help users stay connected on their phones in areas where traditional mobile network coverage is unavailable. Coverage works best with a clear view of the sky. (Please note that the  service is not available in areas near the border.)\n\nService features:\nSend and receive SMS messages\nUse data (Access selected apps at limited speeds)\n\nHow to activate?\nActivate the service through the mobispace menu in the mobicom app, or text “space” to 592.\n\n🎁 Activate before December 1 and use the service free for the first month!\n\nPlease note:\nTo use the service, your mobile device must support 4G or above, and Data Roaming must be enabled.\n\n🔗 Learn more: https://www.mobicom.mn/service/r7bu306ve7bq2fvjy3nt842e\n\n📍 Darkhad Valley, northwestern Khuvsgul Province",
-     "media": [
-      {
-       "type": "photo",
-       "url": "https://pbs.twimg.com/media/HXTBoKebMAEOO4z.jpg",
-       "width": 3277,
-       "height": 4096
-      }
-     ],
-     "conversation_id": "2122545422103384397"
-    },
-    "conversation_id": "2123447242249932955"
-   }
-  },
-  {
-   "id": "2123453686110122414",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T16:29:45.000Z",
-   "lang": "zh",
-   "conversation_id": "2123453686110122414",
-   "url": "https://x.com/elonmusk/status/2123453686110122414",
-   "kind": "repost",
-   "text": "🚨 马斯克来上海了！好羡慕上海特斯拉的员工啊！🤣🚀\n\n老马晚上直接从深圳飞到上海，前往特斯拉工厂与中国员工见面，还一起拍了大合照！\n\n哈哈哈哈，这次老马终于站在 C 位了！😂\n\n现场他还分享了一段很有意义的话：\n\n“把时间和资源用在让自己成为真正有用的人上，研发制造真正对人类有用的产品。摒弃短期投机思维，去做真正重要的事。”\n\n不得不说，这段话还是挺值得思考的。\n\n期待现场视频！🎬\n\n兄弟们，有没有上海特斯拉的员工在现场？👀",
-   "urls": [],
-   "metrics": {
-    "likes": 2339,
-    "reposts": 203,
-    "replies": 170,
-    "quotes": 29
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXfq4K4aoAA1NeM.jpg",
-     "width": 750,
-     "height": 977
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXfq4KvbsAA4eEp.jpg",
-     "width": 750,
-     "height": 999
-    }
-   ],
-   "ref": {
-    "id": "2123424019022299469",
-    "author_id": "2027533690532990980",
-    "username": "gaooofy",
-    "name": "高飞Felix",
-    "created_at": "2026-11-19T14:31:52.000Z",
-    "conversation_id": "2123424019022299469"
-   }
-  },
-  {
-   "id": "2123438650000330910",
-   "author_id": "13298072",
-   "username": "Tesla",
-   "name": "Tesla",
-   "created_at": "2026-11-19T15:30:00.000Z",
-   "lang": "en",
-   "conversation_id": "2123438650000330910",
-   "url": "https://x.com/Tesla/status/2123438650000330910",
-   "kind": "post",
-   "text": "At Tesla, we’ve spent years making the impossible possible. \n\nAnd we’re not done: by building towards a world of amazing abundance for all, we continue to bring the future to life \n \nVote with Tesla on all proposals ahead of our Annual Meeting on December 3 \n \nhttp://VoteTesla.com",
-   "urls": [
-    "http://VoteTesla.com"
-   ],
-   "metrics": {
-    "likes": 5892,
-    "reposts": 720,
-    "replies": 255,
-    "quotes": 111
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123315032276729856/vid/avc1/3840x2160/RwRaxB5jAltp06I2.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123315032276729856/img/S37J9R8yEqbb6Pph.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123315032276729856/vid/avc1/480x270/2ahzU5TWvk_NMUqB.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123315032276729856/vid/avc1/640x360/Qv-ePOLZTwLjV8K5.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123315032276729856/vid/avc1/1280x720/dwW4mmTxrgDiFsW8.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123315032276729856/vid/avc1/1920x1080/7BLXDmSEoh8NiSgH.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123315032276729856/vid/avc1/3840x2160/RwRaxB5jAltp06I2.mp4",
-       "w": 3840,
-       "h": 2160,
-       "br": 25128000
-      }
-     ],
-     "width": 3840,
-     "height": 2160,
-     "duration_ms": 67795
-    }
-   ]
-  },
-  {
-   "id": "2123437208283869276",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-19T15:24:16.000Z",
-   "lang": "en",
-   "conversation_id": "2123437208283869276",
-   "url": "https://x.com/mattyp/status/2123437208283869276",
-   "kind": "post",
-   "text": "Make phone calls, right in @bot\n\n0:16 How it works\n0:58 Limits\n1:40 Calling a business\n2:49 Phone calls as a tool\n3:17 Handing a call off to you\n3:42 Confirming who it calls\n5:18 Live transcript\n5:46 What I'd use it for",
-   "urls": [],
-   "metrics": {
-    "likes": 1372,
-    "reposts": 93,
-    "replies": 167,
-    "quotes": 24
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123433769696890881/vid/avc1/3840x2160/4xsYkiAFktyWiuSL.mp4",
-     "poster": "https://pbs.twimg.com/media/HXf1L2waEAAT_rM.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123433769696890881/vid/avc1/480x270/TThb98-c9W4O8tdS.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123433769696890881/vid/avc1/640x360/mHGAXCKMARMKffe3.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123433769696890881/vid/avc1/1280x720/yUmw37ZrmjQnadwI.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123433769696890881/vid/avc1/1920x1080/eO_-b9x6RJvfiMb1.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123433769696890881/vid/avc1/3840x2160/4xsYkiAFktyWiuSL.mp4",
-       "w": 3840,
-       "h": 2160,
-       "br": 25128000
-      }
-     ],
-     "width": 1280,
-     "height": 720,
-     "duration_ms": 420714
-    }
-   ]
-  },
-  {
-   "id": "2123432693392367875",
-   "author_id": "1518984544421965824",
-   "username": "mattyp",
-   "name": "matt palmer",
-   "created_at": "2026-11-19T15:06:20.000Z",
-   "lang": "en",
-   "conversation_id": "2123208113582981412",
-   "url": "https://x.com/mattyp/status/2123432693392367875",
-   "reply_to": {
-    "id": "2123208113582981412",
-    "username": "jediahkatz"
-   },
-   "kind": "reply",
-   "text": "@jediahkatz that curve tho",
-   "urls": [],
-   "metrics": {
-    "likes": 8,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   }
-  },
-  {
-   "id": "2123338817805664576",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T08:53:18.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123338817805664576",
-   "kind": "repost",
-   "text": "I think a lot of people aren't using Grok Bot to its full potential, because knowing how to automate things is actually quite a difficult skill to learn. I wrote this post to break down how I approach automating anything with Grok Bot! https://x.com/i/article/2122921713864171520",
-   "urls": [
-    "https://x.com/i/article/2122921713864171520"
-   ],
-   "metrics": {
-    "likes": 12447,
-    "reposts": 1288,
-    "replies": 908,
-    "quotes": 394
-   },
-   "partial": true,
-   "article_title": "Automate Anything with Grok Bot",
-   "ref": {
-    "id": "2123159537016533493",
-    "author_id": "2832427459",
-    "username": "poteto",
-    "name": "lauren",
-    "created_at": "2026-11-18T21:00:54.000Z",
-    "conversation_id": "2123159537016533493"
-   }
-  },
-  {
-   "id": "2123338476934627352",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T08:51:57.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123338476934627352",
-   "kind": "repost",
-   "text": "@elonmusk Asked whether he should collect Tesla compensation if SpaceX and Tesla merge, Elon Musk said no:\n\n\"I don't think I should be compensated with any kind of award just for doing a merger. That would be unreasonable and not right.\"\n\n\"You should keep your deals and stay true to your word.\"",
-   "urls": [],
-   "metrics": {
-    "likes": 1212,
-    "reposts": 134,
-    "replies": 73,
-    "quotes": 9
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123309352329338880/vid/avc1/1920x1080/hsrzIW5KdaQgV4iV.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123309352329338880/img/zwgMboGIFO1wWfko.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123309352329338880/vid/avc1/480x270/HABwAFMWygzNMKTr.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123309352329338880/vid/avc1/640x360/Qag1YTWSFx-VWb0s.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123309352329338880/vid/avc1/1280x720/q5bfAG9ZXnx-bDEY.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123309352329338880/vid/avc1/1920x1080/hsrzIW5KdaQgV4iV.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 45678
-    }
-   ],
-   "ref": {
-    "id": "2123309405013987713",
-    "author_id": "1016059981907386368",
-    "username": "teslaownersSV",
-    "name": "Tesla Owners Silicon Valley",
-    "created_at": "2026-11-19T06:56:25.000Z",
-    "conversation_id": "2123309405013987713"
-   }
-  },
-  {
-   "id": "2123337655731826810",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T08:48:41.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123337655731826810",
-   "kind": "quote",
-   "text": "Extend consciousness to the stars https://t.co/vRKCpiPqyV",
-   "urls": [],
-   "metrics": {
-    "likes": 4531,
-    "reposts": 651,
-    "replies": 1082,
-    "quotes": 100
-   },
-   "partial": true,
-   "ref": {
-    "id": "2123335780852744499",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-19T08:41:14.000Z",
-    "text": "Back in 2016, Elon Musk laid out the scale of what it would actually take to build a self-sustaining city on Mars\n\nThe goal was to build a civilization that can survive on its own\n\nThe scale Elon laid out:\n\n• ~100 people per ship\n• Mars launch opportunities roughly every 2 years\n• Around 10,000 trips to move 1 million people\n• A spacecraft large enough to carry people, luggage and massive amounts of cargo\n\nAt the time, the hardest part was obvious:\n\nYou needed a transportation system that can fly again and again\n\nNow that future is getting much closer\n\nStarship has returned from space and been caught by the tower\n\nThe next step is rapid reuse, reflying the same ship again and again until spaceflight starts looking more like aviation\n\nIn 2016, Elon described the transportation system needed to build a city on Mars\n\nIn 2026, SpaceX is finally starting to prove the reusability that makes it possible",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2123335722514235393/vid/avc1/1920x1080/ql1Ocz76WlRFrFyp.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123335722514235393/img/totclLtlBFmkXzCc.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2123335722514235393/vid/avc1/480x270/Es_bw1gYO9szSdkJ.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123335722514235393/vid/avc1/640x360/DLts2Gj-wqcq67yg.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123335722514235393/vid/avc1/1280x720/jBEQ8ERcJ2BmAoMj.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123335722514235393/vid/avc1/1920x1080/ql1Ocz76WlRFrFyp.mp4",
-        "w": 1920,
-        "h": 1080,
-        "br": 10368000
-       }
-      ],
-      "width": 1920,
-      "height": 1080,
-      "duration_ms": 82883
-     }
-    ],
-    "conversation_id": "2123335780852744499"
-   }
-  },
-  {
-   "id": "2123335263619526973",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T08:39:11.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123335263619526973",
-   "kind": "repost",
-   "text": "I honestly can't live without Grokbot anymore -- I officially just upgraded to $200/m\n\nIt's better than Claude Duet, Codex Dot, Hermes, Instinct, Zo Computer, Poke, Openclaw, etc\n\nIt's actually the best AI assistant out there that can do anything.\n\nI know a lot of people are just talking, so let me tell you exactly what I use it for (steal my bots below too for free)\n\n- my chief of staff bot checks both my gmails every hour, drafts every brand deal reply for me to approve, and pings me with exactly what's owed\n\n- my content bot scouts viral ai posts overnight and writes my typefully drafts so i wake up with ideas ready to film\n\n- my job search bot applied to 5 jobs in under 7 minutes with a custom resume and cover letter for each one\n\n- my coding agents run on my mac studio while i'm out so that any build that takes hours could start even if I'm not home, and my chief of staff pauses the heavy jobs whenever i go live\n\n- my flipper bot prices my stuff off real sold comps and writes the listings\n\n- my reservations bot watches resy for hard-to-get nyc tables and books them the second they drop\n\n- my bills, claims and privacy bots shop my bills for savings, hunt unclaimed money and scrub my info off people-search sites\n\n- my clipfarm bot handles customer emails and support directly through its own Grok email\n\nAll managed by a really pretty iOS app as well!",
-   "urls": [],
-   "metrics": {
-    "likes": 1052,
-    "reposts": 103,
-    "replies": 151,
-    "quotes": 18
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXZWQ_PawAAHPW6.png",
-     "width": 109,
-     "height": 669
-    }
-   ],
-   "ref": {
-    "id": "2122979126290329952",
-    "author_id": "2509387159",
-    "username": "ashen_one",
-    "name": "ashen",
-    "created_at": "2026-11-18T09:04:01.000Z",
-    "conversation_id": "2122979126290329952"
-   }
-  },
-  {
-   "id": "2123333341932052749",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T08:31:32.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123333341932052749",
-   "kind": "quote",
-   "text": "Starlink started with a speech in Seattle https://t.co/y8QLexDwnu",
-   "urls": [],
-   "metrics": {
-    "likes": 3893,
-    "reposts": 558,
-    "replies": 477,
-    "quotes": 37
-   },
-   "partial": true,
-   "ref": {
-    "id": "2123059516749029756",
-    "author_id": "1931331174128922624",
-    "username": "AsFoundX",
-    "name": "As Found",
-    "created_at": "2026-11-18T14:23:27.000Z",
-    "text": "🚨 ELON MUSK’S 2015 SATELLITE VISION IS NOW THE BIGGEST NETWORK ON EARTH\n\nIn 2015 Elon opened SpaceX’s satellite office in Seattle and said they wanted to change satellites the same way they changed rockets.\n\nEleven years later Starlink has more than 11,100 satellites in orbit.\n\nIt works in 174 countries, has 13.6 million users, and is on over 3,800 planes.\n\nIt connects remote villages, ships at sea, and people after disasters when normal networks are down.\n\nWhat started as a speech in Seattle is now the largest satellite system ever built.",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2123033978081026048/vid/avc1/1280x720/NenPhtVvZRraFsXr.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123033978081026048/img/fM7JUtVpg4xmlNWg.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2123033978081026048/vid/avc1/480x270/ANfI3aruZm3qX9CE.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123033978081026048/vid/avc1/640x360/my6qllxuDK2aWrDd.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123033978081026048/vid/avc1/1280x720/NenPhtVvZRraFsXr.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       }
-      ],
-      "width": 1280,
-      "height": 720,
-      "duration_ms": 73500
-     }
-    ],
-    "conversation_id": "2123059516749029756"
-   }
-  },
-  {
-   "id": "2123332718218125495",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T08:29:04.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123332718218125495",
-   "kind": "repost",
-   "text": "What I fixed in the last 24h from your replies:\n\n> take over your bot's computer and stay in control until you hand it back\n> photos from your phone actually reach your bot\n> VPN desktop uploads stop failing\n> a safety check hiccup now asks you to approve instead of dead-ending\n> dictation keeps the word you fixed\n> saving a big file stops asking permission\n> one iPhone shows up once, and old phones can be removed\n\nAll merged and rolling out.\n\nA lot more from the comments is being worked on right now, and I'll keep posting what gets fixed.\n\nKeep tagging me, quoting, or replying with anything @bot related and I will make sure the right people see it.\n\nAlso thanks for all the new follows! Welcome 🙏",
-   "urls": [],
-   "metrics": {
-    "likes": 1649,
-    "reposts": 103,
-    "replies": 249,
-    "quotes": 12
-   },
-   "partial": true,
-   "ref": {
-    "id": "2123189115147759725",
-    "author_id": "1899375311680372736",
-    "username": "larsencc",
-    "name": "Larsen Cundric",
-    "created_at": "2026-11-18T22:58:26.000Z",
-    "quote": {
-     "id": "2122836100792152411",
-     "author_id": "1899375311680372736",
-     "username": "larsencc",
-     "name": "Larsen Cundric",
-     "created_at": "2026-11-17T23:35:41.000Z",
-     "text": "I work on @bot\n\nTag me with whatever annoys you, breaks on you, or you wish it could do. I read all of it and bring the good stuff to our team.\n\nFollow if you want to see what we ship next.",
-     "conversation_id": "2122836100792152411"
-    },
-    "conversation_id": "2123189115147759725"
-   }
-  },
-  {
-   "id": "2123322056997769499",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T07:46:42.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123322056997769499",
-   "reply_to": {
-    "id": "2123278406502744167",
-    "username": "willcb"
-   },
-   "kind": "reply",
-   "text": "@willcb We need a decoder ring to figure out which model to use for what purpose",
-   "urls": [],
-   "metrics": {
-    "likes": 534,
-    "reposts": 39,
-    "replies": 121,
-    "quotes": 10
-   },
-   "partial": true
-  },
-  {
-   "id": "2123320935285657859",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T07:42:15.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123320935285657859",
-   "kind": "repost",
-   "text": "🚨 WOW! Elon Musk just went off about the smears against him involving Starlink and Russia-Ukraine, saying he just WANTS PEACE\n\n\"Thousands of kids are sent in to die every day with no change in the borders, forever. And I think anyone who supports that is a horrible human being or has not thought through the problem!\" 💯\n\n\"Nobody voluntarily goes to die in a drone strike. Those sons are never going to see those parents again.\" 💔\n\n\"There's TOO MUCH 'Ukraine good, Russia bad.'\"\n\n\"There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, pre-positioned, ahead of the Russian invasion. And when Russia invaded, they disabled all communications, all cell towers, all fiber cables, and every satellite communication system, there was one system they could not disable and that was Starlink. And if they had not had Starlink, their entire line would have collapsed.\"\n\n\"It is NOT meant to be used for offensive drone strikes that k*ll people...for that, you use Starshield, controlled by the US government.\"\n\nLast week Zelensky accused SpaceX of LYING about speed limits on Starshield that he says cut off Ukraine's drones above 100 mph\n\nUkraine gets Starshield through a U.S. GOVERNMENT AGREEMENT, not from @ElonMusk\n\nShow some gratitude, Zelensky, and help stop this war!",
-   "urls": [],
-   "metrics": {
-    "likes": 8051,
-    "reposts": 1848,
-    "replies": 440,
-    "quotes": 104
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123195450970787840/vid/avc1/1920x1080/ZVjcoCHZTjEOq1--.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123195450970787840/img/Sl0GMUnl8MChJYeC.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123195450970787840/vid/avc1/480x270/NZIN-GHt3C1ooDIn.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123195450970787840/vid/avc1/640x360/GafjQhpodlexAaKf.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123195450970787840/vid/avc1/1280x720/gigzFHcRK1k8jLyA.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123195450970787840/vid/avc1/1920x1080/ZVjcoCHZTjEOq1--.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 268883
-    }
-   ],
-   "ref": {
-    "id": "2123196259318034475",
-    "author_id": "763094579491008512",
-    "username": "EricLDaugh",
-    "name": "Eric Daugherty",
-    "created_at": "2026-11-18T23:26:49.000Z",
-    "conversation_id": "2123196259318034475"
-   }
-  },
-  {
-   "id": "2123320336544649485",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T07:39:52.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123320336544649485",
-   "kind": "quote",
-   "text": "Remember to cast your Tesla votes! https://t.co/41fHEGryzP",
-   "urls": [],
-   "metrics": {
-    "likes": 4116,
-    "reposts": 490,
-    "replies": 570,
-    "quotes": 43
-   },
-   "partial": true,
-   "ref": {
-    "id": "2123126893331300680",
-    "author_id": "1226953217864433666",
-    "username": "travisraxelrod",
-    "name": "Travis Axelrod",
-    "created_at": "2026-11-18T18:51:11.000Z",
-    "text": "Cast your vote now! (pls 😊)",
-    "quote": {
-     "id": "2122721430596997348",
-     "author_id": "13298072",
-     "username": "Tesla",
-     "name": "Tesla",
-     "created_at": "2026-11-17T16:00:01.000Z",
-     "text": "Tesla’s Annual Meeting is coming up on December 3 & we need your vote\n\nVoting is quick & easy – you can vote online, by mail, by QR code or by phone\n\n@Tesla_Optimus can show you how\n\nhttps://VoteTesla.com",
-     "media": [
-      {
-       "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2122580756962893824/vid/avc1/3840x2160/jn--YrEcKzwuRTXP.mp4",
-       "poster": "https://pbs.twimg.com/amplify_video_thumb/2122580756962893824/img/ndUpTOurO63HNgpR.jpg",
-       "variants": [
-        {
-         "url": "https://video.twimg.com/amplify_video/2122580756962893824/vid/avc1/480x270/YL9HFJaElW3i5CUO.mp4",
-         "w": 480,
-         "h": 270,
-         "br": 256000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2122580756962893824/vid/avc1/640x360/2zMty7IUCh165AUu.mp4",
-         "w": 640,
-         "h": 360,
-         "br": 832000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2122580756962893824/vid/avc1/1280x720/-l1xbVZRuDeGGQe6.mp4",
-         "w": 1280,
-         "h": 720,
-         "br": 2176000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2122580756962893824/vid/avc1/1920x1080/d6lRJO6t0hCBV4pY.mp4",
-         "w": 1920,
-         "h": 1080,
-         "br": 10368000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2122580756962893824/vid/avc1/3840x2160/jn--YrEcKzwuRTXP.mp4",
-         "w": 3840,
-         "h": 2160,
-         "br": 25128000
-        }
-       ],
-       "width": 3840,
-       "height": 2160,
-       "duration_ms": 227041
-      }
-     ],
-     "conversation_id": "2122721430596997348"
-    },
-    "conversation_id": "2123126893331300680"
-   }
-  },
-  {
-   "id": "2123319956381339961",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T07:38:21.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123319956381339961",
-   "kind": "quote",
-   "text": "Moving all text conversations to be encrypted to ensure user privacy https://t.co/6Qbz2gmqPp",
-   "urls": [],
-   "metrics": {
-    "likes": 10429,
-    "reposts": 1019,
-    "replies": 671,
-    "quotes": 78
-   },
-   "partial": true,
-   "ref": {
-    "id": "2123134844540448943",
-    "author_id": "1928879631526141952",
-    "username": "chat",
-    "name": "XChat",
-    "created_at": "2026-11-18T19:22:47.000Z",
-    "text": "To continue optimizing the X experience, support for legacy groups on XChat will be ending this Friday.\n\nAll unencrypted conversations will become encrypted, and group members not on XChat by Friday will need to sign up for XChat to be reincluded in those conversations.",
-    "conversation_id": "2123134844540448943"
-   }
-  },
-  {
-   "id": "2123319346936307988",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T07:35:56.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123319346936307988",
-   "reply_to": {
-    "id": "2123310415111131622",
-    "username": "zerohedge"
-   },
-   "kind": "reply",
-   "text": "@zerohedge !!",
-   "urls": [],
-   "metrics": {
-    "likes": 3262,
-    "reposts": 135,
-    "replies": 175,
-    "quotes": 5
-   },
-   "partial": true
-  },
-  {
-   "id": "2123319234038296844",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T07:35:29.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123319234038296844",
-   "kind": "repost",
-   "text": "Starlink Mobile is coming to Botswana! Rural communities, farmers, miners and many more will have reliable connectivity on their phones with messaging apps, maps and SMS in cellular dead zones.",
-   "urls": [],
-   "metrics": {
-    "likes": 703,
-    "reposts": 109,
-    "replies": 36,
-    "quotes": 3
-   },
-   "partial": true,
-   "ref": {
-    "id": "2123119244380717562",
-    "author_id": "16642547",
-    "username": "SRBednarek",
-    "name": "Stephanie Bednarek",
-    "created_at": "2026-11-18T18:20:48.000Z",
-    "quote": {
-     "id": "2123082315718853021",
-     "author_id": "628253216",
-     "username": "btcbw",
-     "name": "BTC",
-     "created_at": "2026-11-18T15:54:03.000Z",
-     "text": "Through our partnership with Starlink, BTC is introducing BTC Satellite, a Direct-to-Mobile service designed to extend connectivity to more communities across Botswana. Stay connected in more places, even beyond traditional network coverage. Coming soon",
-     "media": [
-      {
-       "type": "photo",
-       "url": "https://pbs.twimg.com/media/HXa0HPQXYAAI8wF.jpg",
-       "width": 1080,
-       "height": 1080
-      }
-     ],
-     "conversation_id": "2123082315718853021"
-    },
-    "conversation_id": "2123119244380717562"
-   }
-  },
-  {
-   "id": "2123318091102986520",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T07:30:56.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123318091102986520",
-   "kind": "repost",
-   "text": "The Nasdaq Tower lights up for @SpaceX's historic Starship Flight 15, featuring the first catch of Starship’s upper stage, plus 26 Starlink V3 satellites deployed to orbit.\n\nCongratulations to the $SPCX team for advancing the future of space exploration. Full and rapid reusability is the unlock for scaling connectivity and compute beyond Earth.",
-   "urls": [],
-   "metrics": {
-    "likes": 4894,
-    "reposts": 632,
-    "replies": 125,
-    "quotes": 74
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123102610014035968/vid/avc1/1080x1920/yslk0WVjT-w0g54Y.mp4?tag=16",
-     "poster": "https://pbs.twimg.com/media/HXbGn0EW8AA48xR.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123102610014035968/vid/avc1/320x568/qD88woKiQgnbL1__.mp4?tag=16",
-       "w": 320,
-       "h": 568,
-       "br": 632000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123102610014035968/vid/avc1/480x852/0avS4pCiIFLcAqfW.mp4?tag=16",
-       "w": 480,
-       "h": 852,
-       "br": 950000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123102610014035968/vid/avc1/720x1280/7XZN-k1CKVW2tWyg.mp4?tag=16",
-       "w": 720,
-       "h": 1280,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123102610014035968/vid/avc1/1080x1920/yslk0WVjT-w0g54Y.mp4?tag=16",
-       "w": 1080,
-       "h": 1920,
-       "br": 10368000
-      }
-     ],
-     "width": 1080,
-     "height": 1920,
-     "duration_ms": 24983
-    }
-   ],
-   "ref": {
-    "id": "2123102665752158402",
-    "author_id": "17033995",
-    "username": "Nasdaq",
-    "name": "Nasdaq",
-    "created_at": "2026-11-18T17:14:55.000Z",
-    "conversation_id": "2123102665752158402"
-   }
-  },
-  {
-   "id": "2123317934747746611",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T07:30:19.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123317934747746611",
-   "kind": "quote",
-   "text": "𝕏 Money is growing fast https://t.co/ZB5kTS6V3p",
-   "urls": [],
-   "metrics": {
-    "likes": 5857,
-    "reposts": 803,
-    "replies": 1190,
-    "quotes": 165
-   },
-   "partial": true,
-   "ref": {
-    "id": "2123103002181706058",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-18T17:16:15.000Z",
-    "text": "You can now send money internationally with X Money, directly from 𝕏\n\nX Money now supports international bank transfers to 27 countries, with recipients receiving funds in their local currency\n\nSupported countries:\n\n🇦🇺 Australia\n🇦🇹 Austria\n🇧🇪 Belgium\n🇨🇦 Canada\n🇨🇾 Cyprus\n🇪🇪 Estonia\n🇫🇮 Finland\n🇫🇷 France\n🇩🇪 Germany\n🇬🇷 Greece\n🇭🇰 Hong Kong\n🇮🇳 India\n🇮🇪 Ireland\n🇮🇹 Italy\n🇱🇹 Lithuania\n🇱🇺 Luxembourg\n🇲🇾 Malaysia\n🇲🇽 Mexico\n🇳🇱 Netherlands\n🇳🇴 Norway\n🇵🇭 Philippines\n🇵🇹 Portugal\n🇸🇬 Singapore\n🇸🇮 Slovenia\n🇪🇸 Spain\n🇸🇪 Sweden\n🇬🇧 United Kingdom\n\nAnd everything happens directly inside 𝕏\n\nHere's how it works:\n\n1. Open the Money tab and select Send Money\n2. Tap Send a wire and choose the destination country\n3. Enter the recipient's name, address and bank details\n4. Enter the amount, review the exchange rate and confirm\n\nDepending on the destination, you'll need an IBAN, SWIFT/BIC, account number or local banking code\n\nAnd the fees are surprisingly straightforward:\n\n• $1.65 + 0.65% per international transfer\n• Same fee across all subscription plans\n• No separate currency conversion fee from X Money\n• Most transfers arrive within 1–2 business days\n• Up to $15,000 per transaction\n• Up to $15,000 sent per day\n• 30-minute cancellation window\n\nYou'll see the converted recipient amount before confirming, although intermediary or receiving banks may charge additional fees\n\nAnd here's another useful protection\n\nIf a transfer is returned because of incorrect bank details, X Money refunds the amount sent, even if exchange rates have changed. The original transfer fee is not refunded\n\nInternational wires currently support personal bank accounts in these 27 countries, with the feature still in beta for eligible U.S. X Money users\n\nNo separate money-transfer app required\n\nJust open 𝕏, choose the recipient, and send money directly to their bank account\n\nAnother major step toward making 𝕏 the everything app",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HXbG7KaaMAAOw5W.jpg",
-      "width": 2160,
-      "height": 2160
-     }
-    ],
-    "quote": {
-     "id": "2123094261566734489",
-     "author_id": "1748062675848888321",
-     "username": "XMoney",
-     "name": "X Money",
-     "created_at": "2026-11-18T16:41:31.000Z",
-     "text": "Send money abroad, right from X.\n\nInternational wires (beta) are now live. Send to bank accounts in 27 countries from the Money tab.",
-     "media": [
-      {
-       "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2123093772166942720/vid/avc1/2160x2160/YUf8hGupl7VFpbDP.mp4",
-       "poster": "https://pbs.twimg.com/amplify_video_thumb/2123093772166942720/img/KwpOATWH-6j73fAk.jpg",
-       "variants": [
-        {
-         "url": "https://video.twimg.com/amplify_video/2123093772166942720/vid/avc1/320x320/UYScUKsDPNGeqou-.mp4",
-         "w": 320,
-         "h": 320,
-         "br": 432000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2123093772166942720/vid/avc1/540x540/YcW9Jqxa2BINHGMF.mp4",
-         "w": 540,
-         "h": 540,
-         "br": 832000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2123093772166942720/vid/avc1/720x720/VwjKt7Zwj7coA1Yq.mp4",
-         "w": 720,
-         "h": 720,
-         "br": 1280000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2123093772166942720/vid/avc1/1080x1080/8FRfuof1CKt3Dodp.mp4",
-         "w": 1080,
-         "h": 1080,
-         "br": 8768000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2123093772166942720/vid/avc1/2160x2160/YUf8hGupl7VFpbDP.mp4",
-         "w": 2160,
-         "h": 2160,
-         "br": 25128000
-        }
-       ],
-       "width": 2160,
-       "height": 2160,
-       "duration_ms": 20000
-      }
-     ],
-     "conversation_id": "2123094261566734489"
-    },
-    "conversation_id": "2123103002181706058"
-   }
-  },
-  {
-   "id": "2123317647106609205",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T07:29:11.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123317647106609205",
-   "reply_to": {
-    "id": "2123184309137965524",
-    "username": "sundarpichai"
-   },
-   "kind": "reply",
-   "text": "@sundarpichai Neon seems to be a banger!",
-   "urls": [],
-   "metrics": {
-    "likes": 3947,
-    "reposts": 233,
-    "replies": 154,
-    "quotes": 20
-   },
-   "partial": true
-  },
-  {
-   "id": "2123316265175728588",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T07:23:41.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123316265175728588",
-   "kind": "repost",
-   "text": "HMD Trucking has taken delivery of its FIRST Tesla Semi from a 50-truck order in Illinois\n\nBefore committing to the order, HMD tested the Semi for 4,000 miles hauling real freight\n\nThe results:\n\n• 1.74 kWh/mile average efficiency\n• Significantly lower estimated energy costs than diesel on regional routes\n• No engine oil, fuel filters, or exhaust aftertreatment\n• Reduced brake wear thanks to regenerative braking\n\nThe first truck arrived on November 2, becoming the first Tesla Semi officially registered in Illinois\n\nAnd the other 49 are on their way\n\nNow comes one of the toughest real-world tests yet\n\nA full Chicago winter\n\nFreezing temperatures, heavy snow, icy roads, and demanding freight operations\n\nHMD is putting Tesla Semi to work in conditions that will truly test its capabilities\n\nFrom summer testing to commercial freight operations in the Midwest, Tesla Semi is entering an entirely new chapter",
-   "urls": [],
-   "metrics": {
-    "likes": 1353,
-    "reposts": 180,
-    "replies": 76,
-    "quotes": 14
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXbCvbAbQAAwDpF.jpg",
-     "width": 1000,
-     "height": 667
-    }
-   ],
-   "ref": {
-    "id": "2123098403882319946",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-18T16:57:59.000Z",
-    "conversation_id": "2123098403882319946"
-   }
-  },
-  {
-   "id": "2123298515573207075",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T06:13:09.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123298515573207075",
-   "kind": "quote",
-   "text": "Yes.\n\nOnly questions are how fast the singularity will grow and to what size. https://t.co/48ZVNOT6cn",
-   "urls": [],
-   "metrics": {
-    "likes": 11385,
-    "reposts": 1207,
-    "replies": 1479,
-    "quotes": 163
-   },
-   "partial": true,
-   "ref": {
-    "id": "2123069165334675742",
-    "author_id": "998575387067142144",
-    "username": "willdepue",
-    "name": "will depue",
-    "created_at": "2026-11-18T15:01:48.000Z",
-    "text": "guys we're in the fucking singularity. oh my god. i just forget sometimes and then wake up in the middle of the night like oh my god its all happening",
-    "conversation_id": "2123069165334675742"
-   }
-  },
-  {
-   "id": "2123297185160933681",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T06:07:52.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123297185160933681",
-   "kind": "repost",
-   "text": "Ford is officially in the battery business.  We’ll be the first to deliver LFP batteries in the U.S. for mainstream consumer automotive use and I couldn’t be prouder of the @Ford team. They've started battery cell production at BlueOval Battery Park Michigan and are shipping our first LFP prismatic cells to Louisville Assembly Plant where they'll power #FordFathom prototypes.\n\nThis is a significant step for us. We’re building capability to deliver batteries for more affordable electric vehicles and applying that same LFP technology and manufacturing expertise to build a new energy storage business with Ford Energy.\n\nCongratulations to our talented team on this milestone!\n\nLearn more from Charles Poon, vice president of Hardware Engineering at Ford: https://www.fromtheroad.ford.com/us/en/articles/2026/ford-fathom-lfp-prismatic-battery-cells-ship",
-   "urls": [
-    "https://www.fromtheroad.ford.com/us/en/articles/2026/ford-fathom-lfp-prismatic-battery-cells-ship"
-   ],
-   "metrics": {
-    "likes": 3049,
-    "reposts": 278,
-    "replies": 277,
-    "quotes": 57
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXbOoffWEAAaTMo.jpg",
-     "width": 4096,
-     "height": 2731
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXbOu-9WQAAlJQ6.jpg",
-     "width": 4096,
-     "height": 2731
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXbPOH4XoAAbfz8.jpg",
-     "width": 4096,
-     "height": 2730
-    },
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXbPPuxWgAAvalI.jpg",
-     "width": 4096,
-     "height": 2730
-    }
-   ],
-   "ref": {
-    "id": "2123114023810166928",
-    "author_id": "1106321031566893057",
-    "username": "jimfarley98",
-    "name": "Jim Farley",
-    "created_at": "2026-11-18T18:00:03.000Z",
-    "conversation_id": "2123114023810166928"
-   }
-  },
-  {
-   "id": "2123297106282889635",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T06:07:33.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123297106282889635",
-   "reply_to": {
-    "id": "2123211962289176891",
-    "username": "SpaceInvestor_D"
-   },
-   "kind": "reply",
-   "text": "@SpaceInvestor_D Cool",
-   "urls": [],
-   "metrics": {
-    "likes": 3037,
-    "reposts": 208,
-    "replies": 156,
-    "quotes": 13
-   },
-   "partial": true
-  },
-  {
-   "id": "2123297089946034502",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T06:07:29.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123297089946034502",
-   "kind": "repost",
-   "text": "$SPCX: Satya Nadella says Microsoft would rent SpaceX compute.\n\nAsked at DealBook whether Musk is right about data centers in space:\n\"If he has SpaceX capacity that I can lease, I would lease it.\"",
-   "urls": [],
-   "metrics": {
-    "likes": 2241,
-    "reposts": 193,
-    "replies": 48,
-    "quotes": 14
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXcqBvRWkAAWwa-.jpg",
-     "width": 1024,
-     "height": 576
-    }
-   ],
-   "ref": {
-    "id": "2123211962289176891",
-    "author_id": "1505909833190592519",
-    "username": "SpaceInvestor_D",
-    "name": "Space Investor",
-    "created_at": "2026-11-19T00:29:13.000Z",
-    "conversation_id": "2123211962289176891"
-   }
-  },
-  {
-   "id": "2123295424056598774",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T06:00:52.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123295424056598774",
-   "kind": "repost",
-   "text": "Elon gave two talks today at DealBook and TomorrowX Summit, revealing more about SpaceX's plans than most earnings calls. Here are the 11 key takeaways:\n\n1. SpaceX is scaling AI compute at an extraordinary pace:\n\nSpaceX is adding roughly 500 MW monthly, equivalent to 220,000 GB300s. Elon expects over 1 GW monthly by end-2027: a 6 GW annualized pace today, doubling to 12 GW.\n\n2. Its build costs are far below industry estimates:\n\nElon says outside estimates are off by up to 2x, with SpaceX building at roughly 60% of industry costs. Its in-house \"Army X\" builds the data centers, while Tesla Megapacks smooth training power. I'd already been modeling a 25–30% SpaceX cost advantage.\n\n3. Anthropic could become a 10 GW customer:\n\nAnthropic told Elon its most likely outcome is renting another 10 GW from SpaceX, on top of existing capacity. Contracts allow termination with 3–6 months' notice, but Anthropic says staying is \"extremely likely.\" This reinforces my model that Anthropic will take most upcoming capacity.\n\n4. SpaceX is targeting a vastly larger telecom market:\n\nElon argues AT&T and Verizon won't disappear as bandwidth demand explodes. Humans communicate at roughly 100 bits per second, while superintelligence and robots could require a trillion. SpaceX is targeting a market orders of magnitude larger than existing telecom revenue, as I'd modeled. Even more interestingly, this creates an opportunity to push its AI business further.\n\n5. Its next-generation satellite network arrives next year:\n\nDirect to Cell V2 launches with 40x V1's bandwidth. Micro cell towers using 800 MHz and rooftop units resembling Starlink dishes will extend indoor coverage, with rooftop hardware entering production next year. Starlink is becoming a full scale carrier.\n\n6. SpaceXSI has rebuilt its entire AI software stack:\n\nOver six to eight months, it rewrote training, reinforcement learning, and inference from scratch, close to the metal in C and C++. Elon thinks it \"might have the best training stack software in the world.\" Grok 4.8 is also being built for practical usefulness rather than benchmark leadership, which is great for Grokbot.\n\n7. Terafab could become the largest project on Earth:\n\nThe facility is planned to reach 100 million square feet, with phase-one volume production targeted for late 2028. Elon says established chipmakers are risk-averse because of massive capex, while SpaceX will take risks and iterate rapidly toward a better chip process by 2028.\n\n8. Optimus is moving toward industrial work:\n\nElon expects an unstaged demonstration in a month or two and says Optimus could do dishes within 12–18 months. Its first major industrial role will be mining and refining ore for national security.\n\n9. A Tesla–SpaceX merger is becoming increasingly logical:\n\nElon says the companies are \"probably\" better together as AI and robotics bring them closer. Both have AI software teams and advanced chip-design capabilities, while superintelligence compute could eventually move into orbit. Shareholders will decide; Elon says he shouldn't receive an award simply for merging them.\n\n10. Ship 42 could accelerate the entire Starship reuse program:\n\nShip 42 needed only minor repairs before flying again, but SpaceX is retiring it for public display. This brings rapid reuse much closer.\n\n11. SpaceX is targeting 200 GW of annual solar manufacturing for space:\n\nThat's roughly 40% of average US electricity consumption. Its Starmind compute unit delivers the same capability at roughly a quarter the size of a Vera Rubin NVL72 rack, which is a win in space. Elon says it's also simpler than Starlink V3, which is already in production.\n\nSimply put, SpaceX is building toward a trillion-dollar annual revenue business within just a few years, at scale never seen before.\n\nMany of these numbers I've already modeled and shared over the past few months. Yesterday's announcements bring those projections closer to reality.\n\nThe scale of what's coming is extraordinary!",
-   "urls": [],
-   "metrics": {
-    "likes": 2449,
-    "reposts": 387,
-    "replies": 78,
-    "quotes": 38
-   },
-   "partial": true,
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXdjWT8WIAAWttm.jpg",
-     "width": 4095,
-     "height": 2547
-    }
-   ],
-   "ref": {
-    "id": "2123274994952065291",
-    "author_id": "2075784577973424128",
-    "username": "marsrepublica",
-    "name": "samuel",
-    "created_at": "2026-11-19T04:39:41.000Z",
-    "conversation_id": "2123274994952065291"
-   }
-  },
-  {
-   "id": "2123295044010754157",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T05:59:22.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123295044010754157",
-   "reply_to": {
-    "id": "2123206072152518679",
-    "username": "aaronburnett"
-   },
-   "kind": "reply",
-   "text": "@aaronburnett Big difference",
-   "urls": [],
-   "metrics": {
-    "likes": 2649,
-    "reposts": 254,
-    "replies": 191,
-    "quotes": 11
-   },
-   "partial": true
-  },
-  {
-   "id": "2123294397555225054",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T05:56:47.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123294397555225054",
-   "kind": "repost",
-   "text": "One-shot your trip with @bot",
-   "urls": [],
-   "metrics": {
-    "likes": 632,
-    "reposts": 96,
-    "replies": 38,
-    "quotes": 2
-   },
-   "partial": true,
-   "ref": {
-    "id": "2123121516070232288",
-    "author_id": "2867234365",
-    "username": "milichab",
-    "name": "Andrew Milich",
-    "created_at": "2026-11-18T18:29:49.000Z",
-    "quote": {
-     "id": "2123121401762918718",
-     "author_id": "2085838061347217408",
-     "username": "bot",
-     "name": "Grok Bot",
-     "created_at": "2026-11-18T18:29:22.000Z",
-     "text": "Plan your next trip with Grok Bot.\n\nBot can now book flights, hotels, and rental cars, finding you the best deal anywhere you go.",
-     "media": [
-      {
-       "type": "video",
-       "url": "https://video.twimg.com/amplify_video/2123120877680365568/vid/avc1/1920x1080/-FDy9rw78VxV51dU.mp4",
-       "poster": "https://pbs.twimg.com/amplify_video_thumb/2123120877680365568/img/0eJEtFn2X4uo2HXQ.jpg",
-       "variants": [
-        {
-         "url": "https://video.twimg.com/amplify_video/2123120877680365568/vid/avc1/480x270/1AktL5cPsQB2HYYO.mp4",
-         "w": 480,
-         "h": 270,
-         "br": 256000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2123120877680365568/vid/avc1/640x360/TjtTuPShFXNJOC6X.mp4",
-         "w": 640,
-         "h": 360,
-         "br": 832000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2123120877680365568/vid/avc1/1280x720/uc2n1VfDaPos9gHb.mp4",
-         "w": 1280,
-         "h": 720,
-         "br": 2176000
-        },
-        {
-         "url": "https://video.twimg.com/amplify_video/2123120877680365568/vid/avc1/1920x1080/-FDy9rw78VxV51dU.mp4",
-         "w": 1920,
-         "h": 1080,
-         "br": 10368000
-        }
-       ],
-       "width": 1920,
-       "height": 1080,
-       "duration_ms": 35966
-      }
-     ],
-     "conversation_id": "2123121401762918718"
-    },
-    "conversation_id": "2123121516070232288"
-   }
-  },
-  {
-   "id": "2123288769193463945",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T05:34:26.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123288769193463945",
-   "reply_to": {
-    "id": "2122928322019758301",
-    "username": "MinseokMatthew"
-   },
-   "kind": "reply",
-   "text": "@MinseokMatthew Interesting",
-   "urls": [],
-   "metrics": {
-    "likes": 1131,
-    "reposts": 184,
-    "replies": 135,
-    "quotes": 8
-   },
-   "partial": true
-  },
-  {
-   "id": "2123288151288615000",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T05:31:58.000Z",
-   "lang": null,
-   "conversation_id": null,
-   "url": "https://x.com/elonmusk/status/2123288151288615000",
-   "reply_to": {
-    "id": "2123120368894255240",
-    "username": "peterrhague"
-   },
-   "kind": "reply",
-   "text": "@peterrhague 😂",
-   "urls": [],
-   "metrics": {
-    "likes": 883,
-    "reposts": 155,
-    "replies": 129,
-    "quotes": 7
-   },
-   "partial": true
-  },
-  {
-   "id": "2123288098331414533",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T05:31:46.000Z",
-   "lang": "en",
-   "conversation_id": "2123288098331414533",
-   "url": "https://x.com/elonmusk/status/2123288098331414533",
-   "kind": "quote",
-   "text": "Exactly",
-   "urls": [],
-   "metrics": {
-    "likes": 9369,
-    "reposts": 1424,
-    "replies": 1172,
-    "quotes": 64
-   },
-   "ref": {
-    "id": "2123268230768939328",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-19T04:12:49.000Z",
-    "text": "Elon Musk sets the record straight after years of being falsely accused of turning off Starlink to stop Ukraine's offensive strike against the Russian fleet in Sevastopol\n\nEven Walter Isaacson acknowledged that his book got this crucial detail wrong\n\n“And we've not turned off Starlink. This is false”\n\n“At the time, the Starlink satellite beams were not on in Crimea”\n\nStarlink coverage had never been activated over Crimea in the first place\n\nUkraine wanted SpaceX to activate that coverage for an offensive military operation against the Russian fleet\n\nElon refused, explaining that activating the beams would have required State Department approval because of sanctions\n\nThere's an enormous difference between shutting down an existing service and refusing to activate coverage that was never available\n\nYet Elon spent years being accused of doing exactly that\n\nWalter Isaacson himself corrected the original account\n\nElon never turned off Starlink to stop the Sevastopol strike",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2123268195075383296/vid/avc1/1280x720/oR85odlc1CS4MAG2.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123268195075383296/img/TUiUny-V63vCeAnx.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2123268195075383296/vid/avc1/480x270/WUxLZOOkTOtnPB0Q.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123268195075383296/vid/avc1/640x360/CUpH9mhAa-PbSG3T.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123268195075383296/vid/avc1/1280x720/oR85odlc1CS4MAG2.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       }
-      ],
-      "width": 1280,
-      "height": 720,
-      "duration_ms": 44611
-     }
-    ],
-    "conversation_id": "2123268230768939328"
-   }
-  },
-  {
-   "id": "2123283685889966584",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T05:14:14.000Z",
-   "lang": "en",
-   "conversation_id": "2123283685889966584",
-   "url": "https://x.com/elonmusk/status/2123283685889966584",
-   "kind": "repost",
-   "text": "Back in 2015, Elon Musk opened SpaceX's new satellite engineering office in Seattle with an enormous ambition:\n\n“We want to revolutionize the satellite side of things just as we've done with the rocket side of things.”\n\nEleven years later, look at what that vision has become\n\n• 11,100+ Starlink satellites in orbit\n• Connectivity across 174 countries and markets\n• 13.6 MILLION consumer subscribers\n• Hundreds of thousands of additional enterprise customers\n• 3,800+ aircraft already equipped with Starlink\n• Satellite-to-phone connectivity operating across roughly 30 countries\n\nAnd these aren't just numbers\n\nStarlink is connecting families living far beyond the reach of fiber, bringing internet to schools in remote villages, keeping ships connected in the middle of oceans, and giving millions of airline passengers high-speed internet thousands of meters above Earth\n\nIt's also helping save lives\n\nFrom rescuing people stranded in remote wilderness to restoring emergency communications after natural disasters, Starlink is reaching places where traditional networks simply aren't available\n\nWhat started as Elon standing on a stage in Seattle, describing his vision of a global satellite network, has become the largest satellite constellation humanity has ever built",
-   "urls": [],
-   "metrics": {
-    "likes": 1217,
-    "reposts": 205,
-    "replies": 73,
-    "quotes": 11
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123033978081026048/vid/avc1/1280x720/NenPhtVvZRraFsXr.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123033978081026048/img/fM7JUtVpg4xmlNWg.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123033978081026048/vid/avc1/480x270/ANfI3aruZm3qX9CE.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123033978081026048/vid/avc1/640x360/my6qllxuDK2aWrDd.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123033978081026048/vid/avc1/1280x720/NenPhtVvZRraFsXr.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      }
-     ],
-     "width": 1280,
-     "height": 720,
-     "duration_ms": 73500
-    }
-   ],
-   "ref": {
-    "id": "2123034041452745036",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-18T12:42:14.000Z",
-    "conversation_id": "2123034041452745036"
-   }
-  },
-  {
-   "id": "2123272422719967730",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T04:29:28.000Z",
-   "lang": "en",
-   "conversation_id": "2123272422719967730",
-   "url": "https://x.com/elonmusk/status/2123272422719967730",
-   "kind": "quote",
-   "text": "4 years ago",
-   "urls": [],
-   "metrics": {
-    "likes": 24663,
-    "reposts": 2146,
-    "replies": 1323,
-    "quotes": 89
-   },
-   "ref": {
-    "id": "1577081450263769089",
-    "author_id": "44196397",
-    "username": "elonmusk",
-    "name": "Elon Musk",
-    "created_at": "2022-10-03T23:41:33.000Z",
-    "text": "@Kasparov63 We gave Starlinks to Ukraine & lost $80M+ in doing so, while putting SpaceX & myself at serious risk of Russian cyberattack.\n\nWhat have you done besides tweet?",
-    "reply_to": {
-     "id": "1576977846437924865"
-    },
-    "conversation_id": "1576977846437924865"
-   }
-  },
-  {
-   "id": "2123244574785388546",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T02:38:49.000Z",
-   "lang": "en",
-   "conversation_id": "2123244574785388546",
-   "url": "https://x.com/elonmusk/status/2123244574785388546",
-   "kind": "repost",
-   "text": "Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro & Ultra users now!! We think you’ll enjoy this model. Alchemy at its finest… 🧪",
-   "urls": [],
-   "metrics": {
-    "likes": 6763,
-    "reposts": 444,
-    "replies": 276,
-    "quotes": 124
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXcAo5FbEAAB1wx.png",
-     "width": 3840,
-     "height": 3342
-    }
-   ],
-   "ref": {
-    "id": "2123168218743554465",
-    "author_id": "1482581556",
-    "username": "demishassabis",
-    "name": "Demis Hassabis",
-    "created_at": "2026-11-18T21:35:24.000Z",
-    "conversation_id": "2123168218743554465"
-   }
-  },
-  {
-   "id": "2123244563074846733",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T02:38:46.000Z",
-   "lang": "en",
-   "conversation_id": "2123168218743554465",
-   "url": "https://x.com/elonmusk/status/2123244563074846733",
-   "reply_to": {
-    "id": "2123168218743554465",
-    "username": "demishassabis"
-   },
-   "kind": "reply",
-   "text": "@demishassabis Impressive",
-   "urls": [],
-   "metrics": {
-    "likes": 1302,
-    "reposts": 55,
-    "replies": 123,
-    "quotes": 8
-   }
-  },
-  {
-   "id": "2123244195746119926",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T02:37:18.000Z",
-   "lang": "ja",
-   "conversation_id": "2123244195746119926",
-   "url": "https://x.com/elonmusk/status/2123244195746119926",
-   "kind": "repost",
-   "text": "60,000 deliveries. ありがとう❤️",
-   "urls": [],
-   "metrics": {
-    "likes": 1905,
-    "reposts": 164,
-    "replies": 47,
-    "quotes": 3
-   },
-   "ref": {
-    "id": "2122873047602675832",
-    "author_id": "1201427034754318337",
-    "username": "Tesla_Asia",
-    "name": "Tesla Asia",
-    "created_at": "2026-11-18T02:02:30.000Z",
-    "quote": {
-     "id": "2122645005215088882",
-     "author_id": "197801736",
-     "username": "teslajapan",
-     "name": "Tesla Japan",
-     "created_at": "2026-11-17T10:56:20.000Z",
-     "text": "多くのお客様に支えられて、国内60,000台目のテスラをお届けしました。テスラを選んでくださった皆さまに心から感謝いたします。\nこれからも日本のお客様の声に耳を傾け、乗るたびに心が動く体験をつくっていきます。",
-     "media": [
-      {
-       "type": "photo",
-       "url": "https://pbs.twimg.com/media/HXUmPY-bkAAGAyF.jpg",
-       "width": 4096,
-       "height": 2731
-      },
-      {
-       "type": "photo",
-       "url": "https://pbs.twimg.com/media/HXUmTwLaAAALoU4.jpg",
-       "width": 4096,
-       "height": 2731
-      }
-     ],
-     "conversation_id": "2122645005215088882"
-    },
-    "conversation_id": "2122873047602675832"
-   }
-  },
-  {
-   "id": "2123244141400481974",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T02:37:05.000Z",
-   "lang": "en",
-   "conversation_id": "2123244141400481974",
-   "url": "https://x.com/elonmusk/status/2123244141400481974",
-   "kind": "repost",
-   "text": "Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.\n\nBegins rolling out today in the Gemini API in @GoogleAIStudio, Gemini for business, for paid Google AI Pro and Ultra subscribers in Google @Antigravity, and for Google AI Pro and Ultra subscribers in the @GeminiApp.",
-   "urls": [],
-   "metrics": {
-    "likes": 10271,
-    "reposts": 829,
-    "replies": 524,
-    "quotes": 421
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXb9cQabgAAOkkn.png",
-     "width": 3840,
-     "height": 3342
-    }
-   ],
-   "ref": {
-    "id": "2123167780988125621",
-    "author_id": "14130366",
-    "username": "sundarpichai",
-    "name": "Sundar Pichai",
-    "created_at": "2026-11-18T21:33:40.000Z",
-    "conversation_id": "2123167780988125621"
-   }
-  },
-  {
-   "id": "2123244135754899779",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T02:37:04.000Z",
-   "lang": "en",
-   "conversation_id": "2123167780988125621",
-   "url": "https://x.com/elonmusk/status/2123244135754899779",
-   "reply_to": {
-    "id": "2123167780988125621",
-    "username": "sundarpichai"
-   },
-   "kind": "reply",
-   "text": "@sundarpichai @GoogleAIStudio Impressive progress",
-   "urls": [],
-   "metrics": {
-    "likes": 904,
-    "reposts": 46,
-    "replies": 91,
-    "quotes": 4
-   }
-  },
-  {
-   "id": "2123243377907175651",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T02:34:03.000Z",
-   "lang": "en",
-   "conversation_id": "2123243377907175651",
-   "url": "https://x.com/elonmusk/status/2123243377907175651",
-   "kind": "repost",
-   "text": "Elon Musk says SpaceX’s StarMind orbital AI satellite is a “much easier” engineering problem than Starlink V3:\n\n“I’m not sure why people think that making an AI satellite would be hard, given that SpaceX already has over 11,000 satellites in orbit, which is, I think, twice as much as the rest of the world combined.”\n\n“The StarMind satellite, which is the name for our overall compute system, is simpler, not harder than, say, the Starlink V3 communication satellite, which is an incredibly complex orbital radio station.”\n\n“It’s got the most advanced phased array antennas that have ever been made, far more advanced than anything that any military has at any price.”\n\n“Compared to that, the AI satellite is much, much easier, because it really just consists of a very large array of solar panels and a radiator.”\n\n“You’re gonna have about five times as much solar panel area as you will have radiator area. And that’s just basic physics.”\n\n“Then you have the star computer at the center, which would be physically about a quarter of the size of, say, a Vera Rubin NVL rack while having all of the capability of a Vera Rubin NVL72.”\n\n“I can’t emphasize enough that the StarMind satellite is a much easier technical problem than Starlink V3 communication satellite. I’m not saying it’s trivial, but it’s not as hard as what we’re already doing.”",
-   "urls": [],
-   "metrics": {
-    "likes": 1359,
-    "reposts": 180,
-    "replies": 63,
-    "quotes": 17
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123241557268766720/vid/avc1/1920x1080/QiEmOP8JuaAAKXh0.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123241557268766720/img/YEZ5zFthOFuLZRZc.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123241557268766720/vid/avc1/480x270/N0y31sD0f5Ce1UUW.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123241557268766720/vid/avc1/640x360/ILFsapiS3smgFS1n.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123241557268766720/vid/avc1/1280x720/_81WW_uf51WbDXOq.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123241557268766720/vid/avc1/1920x1080/QiEmOP8JuaAAKXh0.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 209766
-    }
-   ],
-   "ref": {
-    "id": "2123242707560857836",
-    "author_id": "1085225533623783424",
-    "username": "KanekoaTheGreat",
-    "name": "KanekoaTheGreat",
-    "created_at": "2026-11-19T02:31:24.000Z",
-    "conversation_id": "2123242707560857836"
-   }
-  },
-  {
-   "id": "2123232559547183243",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T01:51:04.000Z",
-   "lang": "en",
-   "conversation_id": "2123232559547183243",
-   "url": "https://x.com/elonmusk/status/2123232559547183243",
-   "kind": "repost",
-   "text": "Elon Musk says Neuralink’s next product, Blindsight, will enable people who are completely blind to see:\n\n“Our next product is what we call Blindsight.”\n\n“Blindsight is a neural implant that interfaces directly with the visual cortex and enables people who are completely blind to see.”\n\n“You’re wearing glasses or something like that that have a camera. That camera is transmitting to the Neuralink device that then transfers the signals to your visual cortex.”\n\n“Enabling someone who is completely blind, meaning blind in both eyes or lost the optic nerve, potentially someone who has been blind from birth, to see.”",
-   "urls": [],
-   "metrics": {
-    "likes": 2485,
-    "reposts": 376,
-    "replies": 206,
-    "quotes": 44
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123229376443764736/vid/avc1/1920x1080/qnwhGb28020U4CyZ.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123229376443764736/img/OrEp4pwP4L_nlG5R.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123229376443764736/vid/avc1/480x270/OAm7loi3EhmftzJe.mp4",
-       "w": 480,
-       "h": 270,
-       "br": 256000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123229376443764736/vid/avc1/640x360/vVOlLVta9NfmOj_t.mp4",
-       "w": 640,
-       "h": 360,
-       "br": 832000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123229376443764736/vid/avc1/1280x720/7bGpcfC-RhqfBg9q.mp4",
-       "w": 1280,
-       "h": 720,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123229376443764736/vid/avc1/1920x1080/qnwhGb28020U4CyZ.mp4",
-       "w": 1920,
-       "h": 1080,
-       "br": 10368000
-      }
-     ],
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 43908
-    }
-   ],
-   "ref": {
-    "id": "2123229499626287113",
-    "author_id": "1085225533623783424",
-    "username": "KanekoaTheGreat",
-    "name": "KanekoaTheGreat",
-    "created_at": "2026-11-19T01:38:55.000Z",
-    "conversation_id": "2123229499626287113"
-   }
-  },
-  {
-   "id": "2123231924420579393",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T01:48:33.000Z",
-   "lang": "en",
-   "conversation_id": "2123231924420579393",
-   "url": "https://x.com/elonmusk/status/2123231924420579393",
-   "kind": "repost",
-   "text": "What happened…\n\nElon: Do not use Starlink to kill.\n\nZelensky: I used Starlink to kill.\n\nLegacy Media: Elon is evil for stopping Zelensky from using Starlink to kill.\n\nDemocrats: We must investigate Elon for stopping Zelensky from using Starlink to kill.\n\nIt’s really that simple.",
-   "urls": [],
-   "metrics": {
-    "likes": 14290,
-    "reposts": 1845,
-    "replies": 224,
-    "quotes": 61
-   },
-   "ref": {
-    "id": "2123202151300448721",
-    "author_id": "2327400218",
-    "username": "C_3C_3",
-    "name": "C3",
-    "created_at": "2026-11-18T23:50:14.000Z",
-    "conversation_id": "2123202151300448721"
-   }
-  },
-  {
-   "id": "2123231880086774019",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T01:48:22.000Z",
-   "lang": "und",
-   "conversation_id": "2123202151300448721",
-   "url": "https://x.com/elonmusk/status/2123231880086774019",
-   "reply_to": {
-    "id": "2123202151300448721",
-    "username": "C_3C_3"
-   },
-   "kind": "reply",
-   "text": "@C_3C_3 Yes",
-   "urls": [],
-   "metrics": {
-    "likes": 12370,
-    "reposts": 409,
-    "replies": 272,
-    "quotes": 12
-   }
-  },
-  {
-   "id": "2123229444794118516",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T01:38:41.000Z",
-   "lang": "en",
-   "conversation_id": "2123229444794118516",
-   "url": "https://x.com/elonmusk/status/2123229444794118516",
-   "kind": "repost",
-   "text": "All 26 Starlink V3 satellites launched on Starship Flight 15 are now operational\n\nThose 26 satellites added 26 Tbps of downlink and 4.2 Tbps of uplink capacity to the Starlink network\n\nA typical Falcon 9 V2 Mini launch adds about 2.59 Tbps, so one Starship launch delivered the capacity of 10 Falcon 9 launches\n\nAll 4 Starlink launches in October added 10.4 Tbps combined. Flight 15 added 2.5x that in a single flight\n\nStarlink now has 11,210 active satellites delivering 946.7 Tbps of downlink capacity, and Starship is just getting started",
-   "urls": [],
-   "metrics": {
-    "likes": 1759,
-    "reposts": 214,
-    "replies": 66,
-    "quotes": 23
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXbXUUTakAAK0nl.jpg",
-     "width": 2285,
-     "height": 1690
-    }
-   ],
-   "ref": {
-    "id": "2123121040322920458",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-18T18:27:56.000Z",
-    "conversation_id": "2123121040322920458"
-   }
-  },
-  {
-   "id": "2123229344936173890",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T01:38:18.000Z",
-   "lang": "en",
-   "conversation_id": "2123229344936173890",
-   "url": "https://x.com/elonmusk/status/2123229344936173890",
-   "kind": "quote",
-   "text": "Looking for hardcore engineers to join Terafab!",
-   "urls": [],
-   "metrics": {
-    "likes": 8439,
-    "reposts": 1054,
-    "replies": 1210,
-    "quotes": 111
-   },
-   "ref": {
-    "id": "2123218308027863259",
-    "author_id": "1818311005698678784",
-    "username": "XFreeze",
-    "name": "X Freeze",
-    "created_at": "2026-11-19T00:54:26.000Z",
-    "text": "Elon Musk just shared an ambitious timeline for Terafab, which is being designed to become the largest building on Earth at 100 million square feet\n\nAnd the first test chip is targeted for June 2027\n\n\"Terafab is still in its infancy, obviously. We only announced it earlier this year, but we've already recruited quite a strong team, and we're looking for more great engineers to join the Terafab project. It is one of the most exciting projects in the world: to create the largest, most advanced chip fabrication facility on Earth. In fact, it'll be the largest building of any kind on Earth. We expect it to ultimately be 100 million square feet, densely packed with the most advanced equipment in the world\n\nWe'll use relatively standard equipment at first, but then we'll be pushing suppliers to do special versions of the machines. In some cases, we may make our own machine if we feel that has to be done in order to improve the production process\n\nSo yes, I think it's going quite well. We expect to have the research fab in operation and hopefully make our first test chip around June of next year. So I guess we're about eight or nine months away from that. And if all goes well, we will achieve volume production towards the end of 2028, at least for phase one of Terafab. And then we'll go to phase two and onwards. But I think you'll see some very rapid evolution in the way that chips are made\"",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2123218252184850432/vid/avc1/1280x720/U69R3AmOYnrS8bSU.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123218252184850432/img/k4kCmXS2-msZQ4Zl.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2123218252184850432/vid/avc1/480x270/Z_yytD8_7bo9-A2B.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123218252184850432/vid/avc1/640x360/axAchwdkOxVITLar.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123218252184850432/vid/avc1/1280x720/U69R3AmOYnrS8bSU.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       }
-      ],
-      "width": 1280,
-      "height": 720,
-      "duration_ms": 112245
-     }
-    ],
-    "conversation_id": "2123218308027863259"
-   }
-  },
-  {
-   "id": "2123229108029227489",
-   "author_id": "44196397",
-   "username": "elonmusk",
-   "name": "Elon Musk",
-   "created_at": "2026-11-19T01:37:21.000Z",
-   "lang": "en",
-   "conversation_id": "2123226341726376324",
-   "url": "https://x.com/elonmusk/status/2123229108029227489",
-   "reply_to": {
-    "id": "2123226341726376324",
-    "username": "shaunmmaguire"
-   },
-   "kind": "reply",
-   "text": "@shaunmmaguire @SpaceX True",
-   "urls": [],
-   "metrics": {
-    "likes": 2624,
-    "reposts": 91,
-    "replies": 151,
-    "quotes": 5
    }
   }
  ]

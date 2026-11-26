@@ -1,7 +1,262 @@
 {
  "id": "2026-11-p1",
- "updated_at": "2026-11-25T05:26:06Z",
+ "updated_at": "2026-11-26T05:34:37Z",
  "posts": [
+  {
+   "id": "2125697506436858118",
+   "username": "TimSweeneyEpic",
+   "name": "Tim Sweeney",
+   "created_at": "2026-11-25T21:05:53.000Z",
+   "lang": "en",
+   "url": "https://x.com/TimSweeneyEpic/status/2125697506436858118",
+   "kind": "quote",
+   "text": "Gemini Neon is far ahead of anything else publicly available for mathematical and theoretical reasoning in my experience.\n\nIt intrinsically understands the whole breath of fields I ask it about, vs others rapidly scouring the web to context-cram papers on the topics.",
+   "urls": [],
+   "metrics": {
+    "likes": 3669,
+    "reposts": 192,
+    "replies": 154,
+    "quotes": 20
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_9_x5WYAATp3b.png",
+     "width": 1109,
+     "height": 1449
+    }
+   ],
+   "ref": {
+    "id": "2125663033993437651",
+    "author_id": "1482581556",
+    "username": "demishassabis",
+    "name": "Demis Hassabis",
+    "created_at": "2026-11-25T18:48:54.000Z",
+    "text": "You should try Gemini Neon, it's a good model... 🫡",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX_fFtnXAAAWcKQ.jpg",
+      "width": 2752,
+      "height": 1536
+     }
+    ],
+    "conversation_id": "2125663033993437651",
+    "quote": {
+     "id": "2125640447305420950",
+     "author_id": "284333988",
+     "username": "OfficialLoganK",
+     "name": "",
+     "created_at": "2026-11-25T17:19:09.000Z",
+     "text": "Neon usage is 📈📈📈",
+     "conversation_id": "2125640447305420950"
+    }
+   },
+   "conversation_id": "2125697506436858118"
+  },
+  {
+   "id": "2125663033993437651",
+   "username": "demishassabis",
+   "name": "Demis Hassabis",
+   "created_at": "2026-11-25T18:48:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/demishassabis/status/2125663033993437651",
+   "kind": "quote",
+   "text": "You should try Gemini Neon, it's a good model... 🫡",
+   "urls": [],
+   "metrics": {
+    "likes": 4367,
+    "reposts": 172,
+    "replies": 262,
+    "quotes": 32
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_fFtnXAAAWcKQ.jpg",
+     "width": 2752,
+     "height": 1536
+    }
+   ],
+   "ref": {
+    "id": "2125640447305420950",
+    "author_id": "284333988",
+    "username": "OfficialLoganK",
+    "name": "",
+    "created_at": "2026-11-25T17:19:09.000Z",
+    "text": "Neon usage is 📈📈📈",
+    "conversation_id": "2125640447305420950"
+   },
+   "conversation_id": "2125663033993437651"
+  },
+  {
+   "id": "2125641696377712968",
+   "username": "_mohansolo",
+   "name": "Varun Mohan",
+   "created_at": "2026-11-25T17:24:07.000Z",
+   "lang": "en",
+   "url": "https://x.com/_mohansolo/status/2125641696377712968",
+   "kind": "post",
+   "text": "We've increased the cache hit rate for Neon in Antigravity again by another 4.5%. This means you can complete 28% more tasks within quota.\n\nIn the last 5 days, we've effectively increased Neon usage on the subscription by close to 75% through caching and harness improvements!",
+   "urls": [],
+   "metrics": {
+    "likes": 11584,
+    "reposts": 411,
+    "replies": 905,
+    "quotes": 236
+   },
+   "conversation_id": "2125641696377712968"
+  },
+  {
+   "id": "2125623026918002860",
+   "username": "BrendanCarrFCC",
+   "name": "Brendan Carr",
+   "created_at": "2026-11-25T16:09:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/BrendanCarrFCC/status/2125623026918002860",
+   "kind": "post",
+   "text": "DATA CENTERS IN SPACE🇺🇸\n\nToday, in a historic first, the FCC approved SpaceX’s request for 1 million satellites (orbital compute modules) to create data centers in space\n\nThe Starmind & competitor constellations will use solar power to extend America’s lead in Super Intelligence",
+   "urls": [],
+   "metrics": {
+    "likes": 14598,
+    "reposts": 2136,
+    "replies": 584,
+    "quotes": 620
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX-63utXwAAYotL.jpg",
+     "width": 1121,
+     "height": 1403
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX-63umWoAAFWN5.jpg",
+     "width": 1206,
+     "height": 1427
+    }
+   ],
+   "conversation_id": "2125623026918002860"
+  },
+  {
+   "id": "2125605032691392708",
+   "username": "cb_doge",
+   "name": "DogeDesigner",
+   "created_at": "2026-11-25T14:58:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/cb_doge/status/2125605032691392708",
+   "kind": "post",
+   "text": "BREAKING: Elon Musk played a key role in the push for Jensen Huang’s return as NVIDIA CEO, speaking with President Trump before Jensen’s comeback.\n\nMusk also relayed information about Jensen’s importance to NVIDIA and the company’s importance to the U.S. economy. Trump later urged NVIDIA to bring Jensen back.",
+   "urls": [],
+   "metrics": {
+    "likes": 5789,
+    "reposts": 411,
+    "replies": 127,
+    "quotes": 24
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2125604949308686336/vid/avc1/1920x1062/oT4oWBWXuxIYd_rz.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2125604949308686336/img/3ROeR1biib_c1bu7.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2125604949308686336/vid/avc1/488x270/6cLgzsTMN8YPGVv_.mp4",
+       "w": 488,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125604949308686336/vid/avc1/650x360/r4FoYt9ltnRFjZEv.mp4",
+       "w": 650,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125604949308686336/vid/avc1/1300x720/WLIppNa-4eu6wYmp.mp4",
+       "w": 1300,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125604949308686336/vid/avc1/1920x1062/oT4oWBWXuxIYd_rz.mp4",
+       "w": 1920,
+       "h": 1062,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1062,
+     "duration_ms": 29518
+    }
+   ],
+   "conversation_id": "2125605032691392708"
+  },
+  {
+   "id": "2125584444064993429",
+   "username": "distortgeekin",
+   "name": "distort",
+   "created_at": "2026-11-25T13:36:37.000Z",
+   "lang": "en",
+   "url": "https://x.com/distortgeekin/status/2125584444064993429",
+   "kind": "quote",
+   "text": "F*ck YES... Grok Bot runs my Etsy shop now, 2,318 orders in 5 weeks and I've never packed a single box\n\nElon Musk says Grok Bot can find you the real Black Friday deals, mine is the one selling them, and Etsy paid me $14,212 before Black Friday even started\n\n6 bots, a shift each, I haven't drawn a single design:\n\n→ 6 AM: Scout reads what climbed in Etsy search overnight and picks 3 gift ideas\n→ 8 AM: Designer makes 40 ornaments in Grok Imagine and turns every pet photo a buyer sends into a custom one in 4 minutes\n→ 10 AM: Lister writes the title and all 13 tags, then puts each design on a mockup photo\n→ 1 PM: Pricer runs a real 30% off, never a fake \"was\" price, the deal bots catch those now\n→ 4 PM: Concierge answers every buyer message in under 10 minutes\n→ Midnight: Analyst kills every listing with 0 sales in 14 days and clones the winners\n\nPrintify prints and ships every order, I never touch one\n\nWhy Etsy never pulled the shop: line 1 of every listing says it was made with AI, the shops that hide it lose everything\n\nGive your first bot one gift idea and the Scout job tonight, the other 5 can wait\n\nFrom that first bot to a crew of 6, the whole setup is in the guide below ↓",
+   "urls": [],
+   "metrics": {
+    "likes": 3145,
+    "reposts": 290,
+    "replies": 211,
+    "quotes": 23
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2125584357351993344/vid/avc1/1080x1350/Dl-TFfB1c26YUND9.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2125584357351993344/img/ASTrK65ViT8oKjel.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2125584357351993344/vid/avc1/320x400/WuDsqaHObvzvnbHO.mp4",
+       "w": 320,
+       "h": 400,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125584357351993344/vid/avc1/480x600/69eNJLCsc24WlXv1.mp4",
+       "w": 480,
+       "h": 600,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125584357351993344/vid/avc1/720x900/fO6wLMkJa3Yh4fNy.mp4",
+       "w": 720,
+       "h": 900,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125584357351993344/vid/avc1/1080x1350/Dl-TFfB1c26YUND9.mp4",
+       "w": 1080,
+       "h": 1350,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1350,
+     "duration_ms": 24799
+    }
+   ],
+   "ref": {
+    "id": "2119769643749396581",
+    "author_id": "2564588272",
+    "username": "distortgeekin",
+    "name": "distort",
+    "created_at": "2026-11-09T12:30:41.000Z",
+    "text": "Grok Bot can now make your calls, sort your inbox and run your week while you sleep\n\nMost people still use it like a chatbot\n\nEverything it can do in one guide: first bot, routines, a full team, calls, and 5 rules that keep it off your money ↓ https://x.com/i/article/2119765899368382464",
+    "article_title": "Grok Bot: The Ultimate Guide (From Your First Bot to a Team That Works While You Sleep)",
+    "conversation_id": "2119769643749396581"
+   },
+   "conversation_id": "2125584444064993429"
+  },
   {
    "id": "2125452054919340171",
    "username": "grok",
@@ -23,6 +278,24 @@
     "username": "iAnonPatriot"
    },
    "conversation_id": "2125451469251834212"
+  },
+  {
+   "id": "2125431028655542285",
+   "username": "C_3C_3",
+   "name": "C3",
+   "created_at": "2026-11-25T03:27:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/C_3C_3/status/2125431028655542285",
+   "kind": "post",
+   "text": "USAID sounded nice.\n\nUS AID.\n\nAs in the US is aiding the poor in need.\n\nThat’s not what USAID was.\n\nIt was the US Agency for International Development.\n\nFunding Leftist causes and silencing opposition.\n\nIt spread Communism.\n\nIt wasn’t about feeding the poor.\n\nIt created the poor.",
+   "urls": [],
+   "metrics": {
+    "likes": 26815,
+    "reposts": 5046,
+    "replies": 505,
+    "quotes": 140
+   },
+   "conversation_id": "2125431028655542285"
   },
   {
    "id": "2125420178775109903",
@@ -120,6 +393,69 @@
    "conversation_id": "2125414853682884927"
   },
   {
+   "id": "2125379712948072778",
+   "username": "MichaelDell",
+   "name": "Michael Dell 🇺🇸",
+   "created_at": "2026-11-25T00:03:05.000Z",
+   "lang": "en",
+   "url": "https://x.com/MichaelDell/status/2125379712948072778",
+   "kind": "quote",
+   "text": "42 years after starting Dell in my dorm room, another record quarter!\n\nRecord Revenue: $54.9B ⬆️103% Y/Y\nRecord ISG Revenue: $42B ⬆️198% Y/Y\nRecord AI Servers Revenue: $22B ⬆️ 291% Y/Y\nRecord Servers & Networking Revenue: $15B ⬆️ 235% Y/Y\nRecord Q3 Storage Revenue: $4.9B ⬆️24% Y/Y\nRecord ISG Op Inc: $7.1B ⬆️308% Y/Y\nRecord AI Backlog: $132.3B\nRecord Diluted EPS: $8.82 ⬆️287% Y/Y\nRecord non-GAAP Diluted EPS:  $9.45 ⬆️265% Y/Y\nDell AI Factory Customers:   7,500 📈\n\nWe also generated record third-quarter cash flow of $4.5B and returned a record $4.9B to shareholders.\n\nRaising FY27 revenue guidance to $202B.\n\nThe world's demand for intelligence is accelerating. Dell is building the infrastructure to power it.\n\nGrateful to our customers, partners, and the @Dell team who make it all possible. On to Q4!🚀\n\n#PlayNiceButWin",
+   "urls": [],
+   "metrics": {
+    "likes": 8214,
+    "reposts": 575,
+    "replies": 361,
+    "quotes": 78
+   },
+   "ref": {
+    "id": "2125343747969871959",
+    "author_id": "58561993",
+    "username": "Dell",
+    "name": "",
+    "created_at": "2026-11-24T21:40:11.000Z",
+    "text": "📈 Q3FY27 earnings: Record revenue, record EPS and record Q3 cash flow from ops reflect the strength of our operating model, competitive advantages, speed to market and ability to drive scale. These strengths continue to deliver compounding benefits across the business as demand remains strong.\n\nCatch the #earnings call replay & see the Q3 report📝: https://del.ly/6015ByWRqB",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2125343706949492736/vid/avc1/1080x1920/7NwLJbKJisxKSx7e.mp4?tag=16",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125343706949492736/img/vTyvzLtGVpCHL0UA.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2125343706949492736/vid/avc1/320x568/B48PW8H3CwcuIjsN.mp4?tag=16",
+        "w": 320,
+        "h": 568,
+        "br": 632000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125343706949492736/vid/avc1/480x852/iUIZtiZhTTXFaDld.mp4?tag=16",
+        "w": 480,
+        "h": 852,
+        "br": 950000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125343706949492736/vid/avc1/720x1280/KF4XLxpWiwUmWvzz.mp4?tag=16",
+        "w": 720,
+        "h": 1280,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125343706949492736/vid/avc1/1080x1920/7NwLJbKJisxKSx7e.mp4?tag=16",
+        "w": 1080,
+        "h": 1920,
+        "br": 10368000
+       }
+      ],
+      "width": 1080,
+      "height": 1920,
+      "duration_ms": 29233
+     }
+    ],
+    "conversation_id": "2125343747969871959"
+   },
+   "conversation_id": "2125379712948072778"
+  },
+  {
    "id": "2125370884382990747",
    "username": "danshipper",
    "name": "Dan Shipper",
@@ -144,6 +480,38 @@
     }
    ],
    "conversation_id": "2125370884382990747"
+  },
+  {
+   "id": "2125370482098622934",
+   "username": "EndWokeness",
+   "name": "End Wokeness",
+   "created_at": "2026-11-24T23:26:25.000Z",
+   "lang": "en",
+   "url": "https://x.com/EndWokeness/status/2125370482098622934",
+   "kind": "post",
+   "text": "Melissa Tibbetts was strangled to death in a hotel room in Atlanta, Georgia last month.\n\nThe suspect had *55* prior arrests.\n\nFIFTY. FIVE.",
+   "urls": [],
+   "metrics": {
+    "likes": 32170,
+    "reposts": 8496,
+    "replies": 1011,
+    "quotes": 321
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX7VMIYWQAAyg3U.jpg",
+     "width": 1170,
+     "height": 1286
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX7VMIUXAAAKH0y.jpg",
+     "width": 803,
+     "height": 1029
+    }
+   ],
+   "conversation_id": "2125370482098622934"
   },
   {
    "id": "2125349059774881943",
@@ -201,6 +569,60 @@
     "quotes": 1
    },
    "conversation_id": "2125319066512691287"
+  },
+  {
+   "id": "2125311876515107269",
+   "username": "Scobleizer",
+   "name": "Robert Scoble",
+   "created_at": "2026-11-24T19:33:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/Scobleizer/status/2125311876515107269",
+   "kind": "post",
+   "text": "150 factories around USA use his robots.\n\n@samanfarid, founder/CEO of @goformic, started by building factories in China.\n\nWe take on a variety of topics about manufacturing and robots.\n\nAnd China vs USA.",
+   "urls": [],
+   "metrics": {
+    "likes": 1107,
+    "reposts": 101,
+    "replies": 50,
+    "quotes": 16
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2125308136517222400/vid/avc1/1920x1080/Wz2lh5m7QFqisLwS.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2125308136517222400/img/Y7BBZr4nMLER6RQA.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2125308136517222400/vid/avc1/480x270/Pbm-s_evWST0PDDz.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125308136517222400/vid/avc1/640x360/MUGEF1-covRybche.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125308136517222400/vid/avc1/1280x720/upgVHVuvfuO3s4KS.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125308136517222400/vid/avc1/1920x1080/Wz2lh5m7QFqisLwS.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 4060141
+    }
+   ],
+   "conversation_id": "2125311876515107269"
   },
   {
    "id": "2125280341112115274",
@@ -11943,349 +12365,6 @@
     "quotes": 64
    },
    "conversation_id": "2123739830194512067"
-  },
-  {
-   "id": "2123699494068113652",
-   "username": "Scobleizer",
-   "name": "Robert Scoble",
-   "created_at": "2026-11-20T08:46:30.000Z",
-   "lang": "en",
-   "url": "https://x.com/Scobleizer/status/2123699494068113652",
-   "kind": "quote",
-   "text": "How many times have you watched this in the past 24 hours?\n\nYears ago, I told people that AI artists would soon be rock stars. I feel even stronger about that now.",
-   "urls": [],
-   "metrics": {
-    "likes": 1815,
-    "reposts": 127,
-    "replies": 247,
-    "quotes": 19
-   },
-   "ref": {
-    "id": "2122159837614330267",
-    "author_id": "893134581234147328",
-    "username": "summer__heidi",
-    "name": "ᴉpᴉǝH 🐐💕",
-    "created_at": "2026-11-16T02:48:27.000Z",
-    "text": "Deception needs a motive, and a motive needs a soul",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/1280x720/IVtyBMfUA9-3wE-f.mp4",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122159744207224832/img/n08rNOVEuVyNGTlF.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/480x270/Q1TTc7k0ZRUjNzqy.mp4",
-        "w": 480,
-        "h": 270,
-        "br": 256000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/640x360/mz_t0u2Vfexnxrl-.mp4",
-        "w": 640,
-        "h": 360,
-        "br": 832000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/1280x720/IVtyBMfUA9-3wE-f.mp4",
-        "w": 1280,
-        "h": 720,
-        "br": 2176000
-       }
-      ],
-      "width": 1280,
-      "height": 720,
-      "duration_ms": 269880
-     }
-    ],
-    "conversation_id": "2122159837614330267"
-   },
-   "conversation_id": "2123699494068113652"
-  },
-  {
-   "id": "2123697065389867368",
-   "username": "kylekane",
-   "name": "Kyle",
-   "created_at": "2026-11-20T08:36:51.000Z",
-   "lang": "en",
-   "url": "https://x.com/kylekane/status/2123697065389867368",
-   "kind": "quote",
-   "text": "Day 2 of being number one on the @bot directory and it feel so good.",
-   "urls": [],
-   "metrics": {
-    "likes": 52,
-    "reposts": 0,
-    "replies": 13,
-    "quotes": 0
-   },
-   "ref": {
-    "id": "2123363386130071748",
-    "author_id": "1488156505648025601",
-    "username": "kylekane",
-    "name": "Kyle",
-    "created_at": "2026-11-19T10:30:56.000Z",
-    "text": "Guys, I'm number one on the Grok Bot Directory. How did this even happen? This post will go nowhere fast, but I just wanted to tell someone.\n\nMain directory: https://grok-bot.directory/\n\nMy bots: https://grok-bot.directory/u/kylekane",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HXeuWB3XIAAych_.jpg",
-      "width": 942,
-      "height": 2048
-     },
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HXeuWB1XwAEagd9.jpg",
-      "width": 942,
-      "height": 2048
-     }
-    ]
-   },
-   "conversation_id": "2123697065389867368"
-  },
-  {
-   "id": "2123657218587516952",
-   "username": "neildownandpray",
-   "name": "Neil",
-   "created_at": "2026-11-20T05:58:31.000Z",
-   "lang": "en",
-   "url": "https://x.com/neildownandpray/status/2123657218587516952",
-   "kind": "reply",
-   "text": "@ericzakariasson epic work! once an app is approved into the plugin store, do we know how frequently it pulls from Github for updates?\n\nFor example if we update our description or ship a new skill, how quickly will the plugin store see that update?\n\nthx!",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2123510581869293816",
-    "username": "ericzakariasson"
-   },
-   "conversation_id": "2123510581869293816"
-  },
-  {
-   "id": "2123647381048607170",
-   "username": "Dean__Mauro",
-   "name": "Dean",
-   "created_at": "2026-11-20T05:19:25.000Z",
-   "lang": "en",
-   "url": "https://x.com/Dean__Mauro/status/2123647381048607170",
-   "kind": "reply",
-   "text": "@ericzakariasson Congrats on the launch, @ericzakariasson !\n\nHow can I edit my app? Was listed 9 months ago via Github and the info's a bit outdated.\nhttps://grok-bot.directory/apps/mcp-trade-it",
-   "urls": [
-    "https://grok-bot.directory/apps/mcp-trade-it"
-   ],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2123510581869293816",
-    "username": "ericzakariasson"
-   },
-   "conversation_id": "2123510581869293816"
-  },
-  {
-   "id": "2123643208521683404",
-   "username": "JinhaoBai",
-   "name": "Jinhao Bai",
-   "created_at": "2026-11-20T05:02:50.000Z",
-   "lang": "en",
-   "url": "https://x.com/JinhaoBai/status/2123643208521683404",
-   "kind": "reply",
-   "text": "@ericzakariasson Hi Eric, Jinhao from @chatcutapp here. Thanks for listing our product!\n\nCould you please move our app from Design to Marketing? We also submitted to the official catalog and haven’t heard back. Would appreciate if you can also look into that.",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2123510581869293816",
-    "username": "ericzakariasson"
-   },
-   "conversation_id": "2123510581869293816"
-  },
-  {
-   "id": "2123637472777371825",
-   "username": "BasedMikeLee",
-   "name": "Mike Lee",
-   "created_at": "2026-11-20T04:40:03.000Z",
-   "lang": "en",
-   "url": "https://x.com/BasedMikeLee/status/2123637472777371825",
-   "kind": "post",
-   "text": "VICTORY!!!!\n\nThe Senate just passed the most significant permitting-reform bill in U.S. history.\n\nOnce passed by the House and signed into law, it’ll save American families thousands of dollars a year—year after year.",
-   "urls": [],
-   "metrics": {
-    "likes": 4987,
-    "reposts": 800,
-    "replies": 635,
-    "quotes": 51
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2123637335082311680/vid/avc1/2160x3840/PqlEG8ugSIba_Vyd.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123637335082311680/img/0vl9YfNPOXIYsoUd.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/amplify_video/2123637335082311680/vid/avc1/320x568/JNrKLzsf6q6EFVGh.mp4",
-       "w": 320,
-       "h": 568,
-       "br": 632000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123637335082311680/vid/avc1/480x852/EkVbSaSYZcPMrquv.mp4",
-       "w": 480,
-       "h": 852,
-       "br": 950000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123637335082311680/vid/avc1/720x1280/4S85Jy1vTM8feDmA.mp4",
-       "w": 720,
-       "h": 1280,
-       "br": 2176000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123637335082311680/vid/avc1/1080x1920/6EhVKFAdJFke6-WW.mp4",
-       "w": 1080,
-       "h": 1920,
-       "br": 10368000
-      },
-      {
-       "url": "https://video.twimg.com/amplify_video/2123637335082311680/vid/avc1/2160x3840/PqlEG8ugSIba_Vyd.mp4",
-       "w": 2160,
-       "h": 3840,
-       "br": 25128000
-      }
-     ],
-     "width": 2160,
-     "height": 3840,
-     "duration_ms": 26876
-    }
-   ],
-   "conversation_id": "2123637472777371825"
-  },
-  {
-   "id": "2123582266982924458",
-   "username": "fermatslibrary",
-   "name": "Fermat's Library",
-   "created_at": "2026-11-20T01:00:41.000Z",
-   "lang": "en",
-   "url": "https://x.com/fermatslibrary/status/2123582266982924458",
-   "kind": "post",
-   "text": "In the wake of the Moon landings, Princeton physics professor Gerard O’Neill asked his undergrads a question: how could we build colonies in space?\n\nHe envisioned giant rotating cylinders with mountains, rivers, valleys and even a blue sky, built almost entirely from material mined on the Moon and launched into space by a mass driver.\n\nThis week we explore the paper that first proposed these habitats, now known as O’Neill cylinders.",
-   "urls": [],
-   "metrics": {
-    "likes": 1726,
-    "reposts": 146,
-    "replies": 77,
-    "quotes": 27
-   },
-   "media": [
-    {
-     "type": "animated_gif",
-     "url": "https://video.twimg.com/tweet_video/HXh6z97WUAEDXq9.mp4",
-     "poster": "https://pbs.twimg.com/tweet_video_thumb/HXh6z97WUAEDXq9.jpg",
-     "variants": [
-      {
-       "url": "https://video.twimg.com/tweet_video/HXh6z97WUAEDXq9.mp4",
-       "w": 1080,
-       "h": 608,
-       "br": 0
-      }
-     ],
-     "width": 1080,
-     "height": 608
-    }
-   ],
-   "conversation_id": "2123582266982924458"
-  },
-  {
-   "id": "2123564895606100033",
-   "username": "SpineVault",
-   "name": "Diane Dunbar",
-   "created_at": "2026-11-19T23:51:39.000Z",
-   "lang": "en",
-   "url": "https://x.com/SpineVault/status/2123564895606100033",
-   "kind": "reply",
-   "text": "@ericzakariasson Ours is in but they messed up our name🥲",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2123510581869293816",
-    "username": "ericzakariasson"
-   },
-   "conversation_id": "2123510581869293816"
-  },
-  {
-   "id": "2123544262398951695",
-   "username": "KTmBoyle",
-   "name": "Katherine Boyle",
-   "created_at": "2026-11-19T22:29:40.000Z",
-   "lang": "en",
-   "url": "https://x.com/KTmBoyle/status/2123544262398951695",
-   "kind": "post",
-   "text": "This came home from Kindergarten today.\n\nMy work is done here. 🦃 🇺🇸🚀💪",
-   "urls": [],
-   "metrics": {
-    "likes": 3019,
-    "reposts": 182,
-    "replies": 152,
-    "quotes": 26
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HXhYQFDWgAA7hxm.jpg",
-     "width": 1590,
-     "height": 2048
-    }
-   ],
-   "conversation_id": "2123544262398951695"
-  },
-  {
-   "id": "2123538445918224762",
-   "username": "boringcompany",
-   "name": "The Boring Company",
-   "created_at": "2026-11-19T22:06:33.000Z",
-   "lang": "en",
-   "url": "https://x.com/boringcompany/status/2123538445918224762",
-   "kind": "quote",
-   "text": "The Boring Company and Metropolitan Nashville Airport Authority have signed a 40-year agreement for a Music City Loop station. Great user experience - less than 10 minutes from downtown to a station located 22 feet from the terminal entrance.\n\nThanks so much to @Fly_Nashville for the great partnership.",
-   "urls": [],
-   "metrics": {
-    "likes": 3949,
-    "reposts": 405,
-    "replies": 161,
-    "quotes": 43
-   },
-   "ref": {
-    "id": "2123393880506966264",
-    "author_id": "1389913567671975937",
-    "username": "cb_doge",
-    "name": "DogeDesigner",
-    "created_at": "2026-11-19T12:32:06.000Z",
-    "text": "Elon Musk’s Boring Company has signed a 40-year agreement with Nashville International Airport, advancing the Music City Loop connection between the airport and downtown.\n\n• The Boring Company will fully fund construction, operations and maintenance, with no capital investment required from the airport authority.\n\n• All-electric underground rides designed to bypass road traffic and make airport trips faster.\n\n• A planned passenger station just 22 feet from the terminal entrance.\n\n• Approximately $343 million in projected airport revenue over a potential 50-year term, including extensions.\n\n• Two machines already tunneling beneath Nashville, with a third preparing to launch.\n\nA major milestone for The Boring Company, and a step closer to a faster, more convenient airport connection for Nashville.",
-    "media": [
-     {
-      "type": "photo",
-      "url": "https://pbs.twimg.com/media/HXfPeb4bsAAZvih.jpg",
-      "width": 1638,
-      "height": 2048
-     }
-    ],
-    "conversation_id": "2123393880506966264"
-   },
-   "conversation_id": "2123538445918224762"
   }
  ]
 }

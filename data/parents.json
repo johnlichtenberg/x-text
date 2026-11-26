@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T05:26:06Z",
+ "updated_at": "2026-11-26T05:34:37Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -23715,6 +23715,455 @@
     }
    },
    "conversation_id": "2125420178775109903"
+  },
+  {
+   "id": "2125697506436858118",
+   "username": "TimSweeneyEpic",
+   "name": "Tim Sweeney",
+   "created_at": "2026-11-25T21:05:53.000Z",
+   "lang": "en",
+   "url": "https://x.com/TimSweeneyEpic/status/2125697506436858118",
+   "kind": "quote",
+   "text": "Gemini Neon is far ahead of anything else publicly available for mathematical and theoretical reasoning in my experience.\n\nIt intrinsically understands the whole breath of fields I ask it about, vs others rapidly scouring the web to context-cram papers on the topics.",
+   "urls": [],
+   "metrics": {
+    "likes": 3669,
+    "reposts": 192,
+    "replies": 154,
+    "quotes": 20
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_9_x5WYAATp3b.png",
+     "width": 1109,
+     "height": 1449
+    }
+   ],
+   "ref": {
+    "id": "2125663033993437651",
+    "author_id": "1482581556",
+    "username": "demishassabis",
+    "name": "Demis Hassabis",
+    "created_at": "2026-11-25T18:48:54.000Z",
+    "text": "You should try Gemini Neon, it's a good model... 🫡",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX_fFtnXAAAWcKQ.jpg",
+      "width": 2752,
+      "height": 1536
+     }
+    ],
+    "conversation_id": "2125663033993437651",
+    "quote": {
+     "id": "2125640447305420950",
+     "author_id": "284333988",
+     "username": "OfficialLoganK",
+     "name": "",
+     "created_at": "2026-11-25T17:19:09.000Z",
+     "text": "Neon usage is 📈📈📈",
+     "conversation_id": "2125640447305420950"
+    }
+   },
+   "conversation_id": "2125697506436858118"
+  },
+  {
+   "id": "2125663033993437651",
+   "username": "demishassabis",
+   "name": "Demis Hassabis",
+   "created_at": "2026-11-25T18:48:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/demishassabis/status/2125663033993437651",
+   "kind": "quote",
+   "text": "You should try Gemini Neon, it's a good model... 🫡",
+   "urls": [],
+   "metrics": {
+    "likes": 4367,
+    "reposts": 172,
+    "replies": 262,
+    "quotes": 32
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_fFtnXAAAWcKQ.jpg",
+     "width": 2752,
+     "height": 1536
+    }
+   ],
+   "ref": {
+    "id": "2125640447305420950",
+    "author_id": "284333988",
+    "username": "OfficialLoganK",
+    "name": "",
+    "created_at": "2026-11-25T17:19:09.000Z",
+    "text": "Neon usage is 📈📈📈",
+    "conversation_id": "2125640447305420950"
+   },
+   "conversation_id": "2125663033993437651"
+  },
+  {
+   "id": "2125641696377712968",
+   "username": "_mohansolo",
+   "name": "Varun Mohan",
+   "created_at": "2026-11-25T17:24:07.000Z",
+   "lang": "en",
+   "url": "https://x.com/_mohansolo/status/2125641696377712968",
+   "kind": "post",
+   "text": "We've increased the cache hit rate for Neon in Antigravity again by another 4.5%. This means you can complete 28% more tasks within quota.\n\nIn the last 5 days, we've effectively increased Neon usage on the subscription by close to 75% through caching and harness improvements!",
+   "urls": [],
+   "metrics": {
+    "likes": 11584,
+    "reposts": 411,
+    "replies": 905,
+    "quotes": 236
+   },
+   "conversation_id": "2125641696377712968"
+  },
+  {
+   "id": "2125623026918002860",
+   "username": "BrendanCarrFCC",
+   "name": "Brendan Carr",
+   "created_at": "2026-11-25T16:09:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/BrendanCarrFCC/status/2125623026918002860",
+   "kind": "post",
+   "text": "DATA CENTERS IN SPACE🇺🇸\n\nToday, in a historic first, the FCC approved SpaceX’s request for 1 million satellites (orbital compute modules) to create data centers in space\n\nThe Starmind & competitor constellations will use solar power to extend America’s lead in Super Intelligence",
+   "urls": [],
+   "metrics": {
+    "likes": 14598,
+    "reposts": 2136,
+    "replies": 584,
+    "quotes": 620
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX-63utXwAAYotL.jpg",
+     "width": 1121,
+     "height": 1403
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX-63umWoAAFWN5.jpg",
+     "width": 1206,
+     "height": 1427
+    }
+   ],
+   "conversation_id": "2125623026918002860"
+  },
+  {
+   "id": "2125584444064993429",
+   "username": "distortgeekin",
+   "name": "distort",
+   "created_at": "2026-11-25T13:36:37.000Z",
+   "lang": "en",
+   "url": "https://x.com/distortgeekin/status/2125584444064993429",
+   "kind": "quote",
+   "text": "F*ck YES... Grok Bot runs my Etsy shop now, 2,318 orders in 5 weeks and I've never packed a single box\n\nElon Musk says Grok Bot can find you the real Black Friday deals, mine is the one selling them, and Etsy paid me $14,212 before Black Friday even started\n\n6 bots, a shift each, I haven't drawn a single design:\n\n→ 6 AM: Scout reads what climbed in Etsy search overnight and picks 3 gift ideas\n→ 8 AM: Designer makes 40 ornaments in Grok Imagine and turns every pet photo a buyer sends into a custom one in 4 minutes\n→ 10 AM: Lister writes the title and all 13 tags, then puts each design on a mockup photo\n→ 1 PM: Pricer runs a real 30% off, never a fake \"was\" price, the deal bots catch those now\n→ 4 PM: Concierge answers every buyer message in under 10 minutes\n→ Midnight: Analyst kills every listing with 0 sales in 14 days and clones the winners\n\nPrintify prints and ships every order, I never touch one\n\nWhy Etsy never pulled the shop: line 1 of every listing says it was made with AI, the shops that hide it lose everything\n\nGive your first bot one gift idea and the Scout job tonight, the other 5 can wait\n\nFrom that first bot to a crew of 6, the whole setup is in the guide below ↓",
+   "urls": [],
+   "metrics": {
+    "likes": 3145,
+    "reposts": 290,
+    "replies": 211,
+    "quotes": 23
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2125584357351993344/vid/avc1/1080x1350/Dl-TFfB1c26YUND9.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2125584357351993344/img/ASTrK65ViT8oKjel.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2125584357351993344/vid/avc1/320x400/WuDsqaHObvzvnbHO.mp4",
+       "w": 320,
+       "h": 400,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125584357351993344/vid/avc1/480x600/69eNJLCsc24WlXv1.mp4",
+       "w": 480,
+       "h": 600,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125584357351993344/vid/avc1/720x900/fO6wLMkJa3Yh4fNy.mp4",
+       "w": 720,
+       "h": 900,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125584357351993344/vid/avc1/1080x1350/Dl-TFfB1c26YUND9.mp4",
+       "w": 1080,
+       "h": 1350,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1350,
+     "duration_ms": 24799
+    }
+   ],
+   "ref": {
+    "id": "2119769643749396581",
+    "author_id": "2564588272",
+    "username": "distortgeekin",
+    "name": "distort",
+    "created_at": "2026-11-09T12:30:41.000Z",
+    "text": "Grok Bot can now make your calls, sort your inbox and run your week while you sleep\n\nMost people still use it like a chatbot\n\nEverything it can do in one guide: first bot, routines, a full team, calls, and 5 rules that keep it off your money ↓ https://x.com/i/article/2119765899368382464",
+    "article_title": "Grok Bot: The Ultimate Guide (From Your First Bot to a Team That Works While You Sleep)",
+    "conversation_id": "2119769643749396581"
+   },
+   "conversation_id": "2125584444064993429"
+  },
+  {
+   "id": "2125605032691392708",
+   "username": "cb_doge",
+   "name": "DogeDesigner",
+   "created_at": "2026-11-25T14:58:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/cb_doge/status/2125605032691392708",
+   "kind": "post",
+   "text": "BREAKING: Elon Musk played a key role in the push for Jensen Huang’s return as NVIDIA CEO, speaking with President Trump before Jensen’s comeback.\n\nMusk also relayed information about Jensen’s importance to NVIDIA and the company’s importance to the U.S. economy. Trump later urged NVIDIA to bring Jensen back.",
+   "urls": [],
+   "metrics": {
+    "likes": 5789,
+    "reposts": 411,
+    "replies": 127,
+    "quotes": 24
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2125604949308686336/vid/avc1/1920x1062/oT4oWBWXuxIYd_rz.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2125604949308686336/img/3ROeR1biib_c1bu7.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2125604949308686336/vid/avc1/488x270/6cLgzsTMN8YPGVv_.mp4",
+       "w": 488,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125604949308686336/vid/avc1/650x360/r4FoYt9ltnRFjZEv.mp4",
+       "w": 650,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125604949308686336/vid/avc1/1300x720/WLIppNa-4eu6wYmp.mp4",
+       "w": 1300,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125604949308686336/vid/avc1/1920x1062/oT4oWBWXuxIYd_rz.mp4",
+       "w": 1920,
+       "h": 1062,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1062,
+     "duration_ms": 29518
+    }
+   ],
+   "conversation_id": "2125605032691392708"
+  },
+  {
+   "id": "2117326928227238122",
+   "username": "byistra",
+   "name": "Istra of Glome",
+   "created_at": "2026-11-02T18:44:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/byistra/status/2117326928227238122",
+   "kind": "post",
+   "text": "G.K. Chesterton, the true reason we fight",
+   "urls": [],
+   "metrics": {
+    "likes": 816,
+    "reposts": 88,
+    "replies": 21,
+    "quotes": 9
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWJBei2XkAAegjd.jpg",
+     "width": 4096,
+     "height": 990,
+     "alt": "The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."
+    }
+   ],
+   "conversation_id": "2117326928227238122"
+  },
+  {
+   "id": "2125311876515107269",
+   "username": "Scobleizer",
+   "name": "Robert Scoble",
+   "created_at": "2026-11-24T19:33:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/Scobleizer/status/2125311876515107269",
+   "kind": "post",
+   "text": "150 factories around USA use his robots.\n\n@samanfarid, founder/CEO of @goformic, started by building factories in China.\n\nWe take on a variety of topics about manufacturing and robots.\n\nAnd China vs USA.",
+   "urls": [],
+   "metrics": {
+    "likes": 1107,
+    "reposts": 101,
+    "replies": 50,
+    "quotes": 16
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2125308136517222400/vid/avc1/1920x1080/Wz2lh5m7QFqisLwS.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2125308136517222400/img/Y7BBZr4nMLER6RQA.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2125308136517222400/vid/avc1/480x270/Pbm-s_evWST0PDDz.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125308136517222400/vid/avc1/640x360/MUGEF1-covRybche.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125308136517222400/vid/avc1/1280x720/upgVHVuvfuO3s4KS.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125308136517222400/vid/avc1/1920x1080/Wz2lh5m7QFqisLwS.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 4060141
+    }
+   ],
+   "conversation_id": "2125311876515107269"
+  },
+  {
+   "id": "2125431028655542285",
+   "username": "C_3C_3",
+   "name": "C3",
+   "created_at": "2026-11-25T03:27:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/C_3C_3/status/2125431028655542285",
+   "kind": "post",
+   "text": "USAID sounded nice.\n\nUS AID.\n\nAs in the US is aiding the poor in need.\n\nThat’s not what USAID was.\n\nIt was the US Agency for International Development.\n\nFunding Leftist causes and silencing opposition.\n\nIt spread Communism.\n\nIt wasn’t about feeding the poor.\n\nIt created the poor.",
+   "urls": [],
+   "metrics": {
+    "likes": 26815,
+    "reposts": 5046,
+    "replies": 505,
+    "quotes": 140
+   },
+   "conversation_id": "2125431028655542285"
+  },
+  {
+   "id": "2125379712948072778",
+   "username": "MichaelDell",
+   "name": "Michael Dell 🇺🇸",
+   "created_at": "2026-11-25T00:03:05.000Z",
+   "lang": "en",
+   "url": "https://x.com/MichaelDell/status/2125379712948072778",
+   "kind": "quote",
+   "text": "42 years after starting Dell in my dorm room, another record quarter!\n\nRecord Revenue: $54.9B ⬆️103% Y/Y\nRecord ISG Revenue: $42B ⬆️198% Y/Y\nRecord AI Servers Revenue: $22B ⬆️ 291% Y/Y\nRecord Servers & Networking Revenue: $15B ⬆️ 235% Y/Y\nRecord Q3 Storage Revenue: $4.9B ⬆️24% Y/Y\nRecord ISG Op Inc: $7.1B ⬆️308% Y/Y\nRecord AI Backlog: $132.3B\nRecord Diluted EPS: $8.82 ⬆️287% Y/Y\nRecord non-GAAP Diluted EPS:  $9.45 ⬆️265% Y/Y\nDell AI Factory Customers:   7,500 📈\n\nWe also generated record third-quarter cash flow of $4.5B and returned a record $4.9B to shareholders.\n\nRaising FY27 revenue guidance to $202B.\n\nThe world's demand for intelligence is accelerating. Dell is building the infrastructure to power it.\n\nGrateful to our customers, partners, and the @Dell team who make it all possible. On to Q4!🚀\n\n#PlayNiceButWin",
+   "urls": [],
+   "metrics": {
+    "likes": 8214,
+    "reposts": 575,
+    "replies": 361,
+    "quotes": 78
+   },
+   "ref": {
+    "id": "2125343747969871959",
+    "author_id": "58561993",
+    "username": "Dell",
+    "name": "",
+    "created_at": "2026-11-24T21:40:11.000Z",
+    "text": "📈 Q3FY27 earnings: Record revenue, record EPS and record Q3 cash flow from ops reflect the strength of our operating model, competitive advantages, speed to market and ability to drive scale. These strengths continue to deliver compounding benefits across the business as demand remains strong.\n\nCatch the #earnings call replay & see the Q3 report📝: https://del.ly/6015ByWRqB",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2125343706949492736/vid/avc1/1080x1920/7NwLJbKJisxKSx7e.mp4?tag=16",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2125343706949492736/img/vTyvzLtGVpCHL0UA.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2125343706949492736/vid/avc1/320x568/B48PW8H3CwcuIjsN.mp4?tag=16",
+        "w": 320,
+        "h": 568,
+        "br": 632000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125343706949492736/vid/avc1/480x852/iUIZtiZhTTXFaDld.mp4?tag=16",
+        "w": 480,
+        "h": 852,
+        "br": 950000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125343706949492736/vid/avc1/720x1280/KF4XLxpWiwUmWvzz.mp4?tag=16",
+        "w": 720,
+        "h": 1280,
+        "br": 2176000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2125343706949492736/vid/avc1/1080x1920/7NwLJbKJisxKSx7e.mp4?tag=16",
+        "w": 1080,
+        "h": 1920,
+        "br": 10368000
+       }
+      ],
+      "width": 1080,
+      "height": 1920,
+      "duration_ms": 29233
+     }
+    ],
+    "conversation_id": "2125343747969871959"
+   },
+   "conversation_id": "2125379712948072778"
+  },
+  {
+   "id": "2125370482098622934",
+   "username": "EndWokeness",
+   "name": "End Wokeness",
+   "created_at": "2026-11-24T23:26:25.000Z",
+   "lang": "en",
+   "url": "https://x.com/EndWokeness/status/2125370482098622934",
+   "kind": "post",
+   "text": "Melissa Tibbetts was strangled to death in a hotel room in Atlanta, Georgia last month.\n\nThe suspect had *55* prior arrests.\n\nFIFTY. FIVE.",
+   "urls": [],
+   "metrics": {
+    "likes": 32170,
+    "reposts": 8496,
+    "replies": 1011,
+    "quotes": 321
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX7VMIYWQAAyg3U.jpg",
+     "width": 1170,
+     "height": 1286
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX7VMIUXAAAKH0y.jpg",
+     "width": 803,
+     "height": 1029
+    }
+   ],
+   "conversation_id": "2125370482098622934"
   }
  ],
  "missing": [

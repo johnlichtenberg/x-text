@@ -1,7 +1,350 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-25T05:26:06Z",
+ "updated_at": "2026-11-26T05:34:37Z",
  "posts": [
+  {
+   "id": "2123699494068113652",
+   "username": "Scobleizer",
+   "name": "Robert Scoble",
+   "created_at": "2026-11-20T08:46:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/Scobleizer/status/2123699494068113652",
+   "kind": "quote",
+   "text": "How many times have you watched this in the past 24 hours?\n\nYears ago, I told people that AI artists would soon be rock stars. I feel even stronger about that now.",
+   "urls": [],
+   "metrics": {
+    "likes": 1815,
+    "reposts": 127,
+    "replies": 247,
+    "quotes": 19
+   },
+   "ref": {
+    "id": "2122159837614330267",
+    "author_id": "893134581234147328",
+    "username": "summer__heidi",
+    "name": "ᴉpᴉǝH 🐐💕",
+    "created_at": "2026-11-16T02:48:27.000Z",
+    "text": "Deception needs a motive, and a motive needs a soul",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/1280x720/IVtyBMfUA9-3wE-f.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122159744207224832/img/n08rNOVEuVyNGTlF.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/480x270/Q1TTc7k0ZRUjNzqy.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/640x360/mz_t0u2Vfexnxrl-.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2122159744207224832/vid/avc1/1280x720/IVtyBMfUA9-3wE-f.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 269880
+     }
+    ],
+    "conversation_id": "2122159837614330267"
+   },
+   "conversation_id": "2123699494068113652"
+  },
+  {
+   "id": "2123697065389867368",
+   "username": "kylekane",
+   "name": "Kyle",
+   "created_at": "2026-11-20T08:36:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/kylekane/status/2123697065389867368",
+   "kind": "quote",
+   "text": "Day 2 of being number one on the @bot directory and it feel so good.",
+   "urls": [],
+   "metrics": {
+    "likes": 52,
+    "reposts": 0,
+    "replies": 13,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2123363386130071748",
+    "author_id": "1488156505648025601",
+    "username": "kylekane",
+    "name": "Kyle",
+    "created_at": "2026-11-19T10:30:56.000Z",
+    "text": "Guys, I'm number one on the Grok Bot Directory. How did this even happen? This post will go nowhere fast, but I just wanted to tell someone.\n\nMain directory: https://grok-bot.directory/\n\nMy bots: https://grok-bot.directory/u/kylekane",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXeuWB3XIAAych_.jpg",
+      "width": 942,
+      "height": 2048
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXeuWB1XwAEagd9.jpg",
+      "width": 942,
+      "height": 2048
+     }
+    ]
+   },
+   "conversation_id": "2123697065389867368"
+  },
+  {
+   "id": "2123657218587516952",
+   "username": "neildownandpray",
+   "name": "Neil",
+   "created_at": "2026-11-20T05:58:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/neildownandpray/status/2123657218587516952",
+   "kind": "reply",
+   "text": "@ericzakariasson epic work! once an app is approved into the plugin store, do we know how frequently it pulls from Github for updates?\n\nFor example if we update our description or ship a new skill, how quickly will the plugin store see that update?\n\nthx!",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123510581869293816",
+    "username": "ericzakariasson"
+   },
+   "conversation_id": "2123510581869293816"
+  },
+  {
+   "id": "2123647381048607170",
+   "username": "Dean__Mauro",
+   "name": "Dean",
+   "created_at": "2026-11-20T05:19:25.000Z",
+   "lang": "en",
+   "url": "https://x.com/Dean__Mauro/status/2123647381048607170",
+   "kind": "reply",
+   "text": "@ericzakariasson Congrats on the launch, @ericzakariasson !\n\nHow can I edit my app? Was listed 9 months ago via Github and the info's a bit outdated.\nhttps://grok-bot.directory/apps/mcp-trade-it",
+   "urls": [
+    "https://grok-bot.directory/apps/mcp-trade-it"
+   ],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123510581869293816",
+    "username": "ericzakariasson"
+   },
+   "conversation_id": "2123510581869293816"
+  },
+  {
+   "id": "2123643208521683404",
+   "username": "JinhaoBai",
+   "name": "Jinhao Bai",
+   "created_at": "2026-11-20T05:02:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/JinhaoBai/status/2123643208521683404",
+   "kind": "reply",
+   "text": "@ericzakariasson Hi Eric, Jinhao from @chatcutapp here. Thanks for listing our product!\n\nCould you please move our app from Design to Marketing? We also submitted to the official catalog and haven’t heard back. Would appreciate if you can also look into that.",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123510581869293816",
+    "username": "ericzakariasson"
+   },
+   "conversation_id": "2123510581869293816"
+  },
+  {
+   "id": "2123637472777371825",
+   "username": "BasedMikeLee",
+   "name": "Mike Lee",
+   "created_at": "2026-11-20T04:40:03.000Z",
+   "lang": "en",
+   "url": "https://x.com/BasedMikeLee/status/2123637472777371825",
+   "kind": "post",
+   "text": "VICTORY!!!!\n\nThe Senate just passed the most significant permitting-reform bill in U.S. history.\n\nOnce passed by the House and signed into law, it’ll save American families thousands of dollars a year—year after year.",
+   "urls": [],
+   "metrics": {
+    "likes": 4987,
+    "reposts": 800,
+    "replies": 635,
+    "quotes": 51
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123637335082311680/vid/avc1/2160x3840/PqlEG8ugSIba_Vyd.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123637335082311680/img/0vl9YfNPOXIYsoUd.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123637335082311680/vid/avc1/320x568/JNrKLzsf6q6EFVGh.mp4",
+       "w": 320,
+       "h": 568,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123637335082311680/vid/avc1/480x852/EkVbSaSYZcPMrquv.mp4",
+       "w": 480,
+       "h": 852,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123637335082311680/vid/avc1/720x1280/4S85Jy1vTM8feDmA.mp4",
+       "w": 720,
+       "h": 1280,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123637335082311680/vid/avc1/1080x1920/6EhVKFAdJFke6-WW.mp4",
+       "w": 1080,
+       "h": 1920,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123637335082311680/vid/avc1/2160x3840/PqlEG8ugSIba_Vyd.mp4",
+       "w": 2160,
+       "h": 3840,
+       "br": 25128000
+      }
+     ],
+     "width": 2160,
+     "height": 3840,
+     "duration_ms": 26876
+    }
+   ],
+   "conversation_id": "2123637472777371825"
+  },
+  {
+   "id": "2123582266982924458",
+   "username": "fermatslibrary",
+   "name": "Fermat's Library",
+   "created_at": "2026-11-20T01:00:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/fermatslibrary/status/2123582266982924458",
+   "kind": "post",
+   "text": "In the wake of the Moon landings, Princeton physics professor Gerard O’Neill asked his undergrads a question: how could we build colonies in space?\n\nHe envisioned giant rotating cylinders with mountains, rivers, valleys and even a blue sky, built almost entirely from material mined on the Moon and launched into space by a mass driver.\n\nThis week we explore the paper that first proposed these habitats, now known as O’Neill cylinders.",
+   "urls": [],
+   "metrics": {
+    "likes": 1726,
+    "reposts": 146,
+    "replies": 77,
+    "quotes": 27
+   },
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HXh6z97WUAEDXq9.mp4",
+     "poster": "https://pbs.twimg.com/tweet_video_thumb/HXh6z97WUAEDXq9.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/tweet_video/HXh6z97WUAEDXq9.mp4",
+       "w": 1080,
+       "h": 608,
+       "br": 0
+      }
+     ],
+     "width": 1080,
+     "height": 608
+    }
+   ],
+   "conversation_id": "2123582266982924458"
+  },
+  {
+   "id": "2123564895606100033",
+   "username": "SpineVault",
+   "name": "Diane Dunbar",
+   "created_at": "2026-11-19T23:51:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/SpineVault/status/2123564895606100033",
+   "kind": "reply",
+   "text": "@ericzakariasson Ours is in but they messed up our name🥲",
+   "urls": [],
+   "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123510581869293816",
+    "username": "ericzakariasson"
+   },
+   "conversation_id": "2123510581869293816"
+  },
+  {
+   "id": "2123544262398951695",
+   "username": "KTmBoyle",
+   "name": "Katherine Boyle",
+   "created_at": "2026-11-19T22:29:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/KTmBoyle/status/2123544262398951695",
+   "kind": "post",
+   "text": "This came home from Kindergarten today.\n\nMy work is done here. 🦃 🇺🇸🚀💪",
+   "urls": [],
+   "metrics": {
+    "likes": 3019,
+    "reposts": 182,
+    "replies": 152,
+    "quotes": 26
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXhYQFDWgAA7hxm.jpg",
+     "width": 1590,
+     "height": 2048
+    }
+   ],
+   "conversation_id": "2123544262398951695"
+  },
+  {
+   "id": "2123538445918224762",
+   "username": "boringcompany",
+   "name": "The Boring Company",
+   "created_at": "2026-11-19T22:06:33.000Z",
+   "lang": "en",
+   "url": "https://x.com/boringcompany/status/2123538445918224762",
+   "kind": "quote",
+   "text": "The Boring Company and Metropolitan Nashville Airport Authority have signed a 40-year agreement for a Music City Loop station. Great user experience - less than 10 minutes from downtown to a station located 22 feet from the terminal entrance.\n\nThanks so much to @Fly_Nashville for the great partnership.",
+   "urls": [],
+   "metrics": {
+    "likes": 3949,
+    "reposts": 405,
+    "replies": 161,
+    "quotes": 43
+   },
+   "ref": {
+    "id": "2123393880506966264",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-19T12:32:06.000Z",
+    "text": "Elon Musk’s Boring Company has signed a 40-year agreement with Nashville International Airport, advancing the Music City Loop connection between the airport and downtown.\n\n• The Boring Company will fully fund construction, operations and maintenance, with no capital investment required from the airport authority.\n\n• All-electric underground rides designed to bypass road traffic and make airport trips faster.\n\n• A planned passenger station just 22 feet from the terminal entrance.\n\n• Approximately $343 million in projected airport revenue over a potential 50-year term, including extensions.\n\n• Two machines already tunneling beneath Nashville, with a third preparing to launch.\n\nA major milestone for The Boring Company, and a step closer to a faster, more convenient airport connection for Nashville.",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXfPeb4bsAAZvih.jpg",
+      "width": 1638,
+      "height": 2048
+     }
+    ],
+    "conversation_id": "2123393880506966264"
+   },
+   "conversation_id": "2123538445918224762"
+  },
   {
    "id": "2123507070297420193",
    "username": "stuffyokodraws",
@@ -10693,216 +11036,6 @@
      "duration_ms": 1581
     }
    ],
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120275949963075687",
-   "username": "agustinponcedl",
-   "name": "Agustinto",
-   "created_at": "2026-11-10T22:02:33.000Z",
-   "lang": "en",
-   "url": "https://x.com/agustinponcedl/status/2120275949963075687",
-   "kind": "reply",
-   "text": "@mattyp Love the videos, keep it up matt!",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120268045138718930",
-   "username": "hacker34",
-   "name": "Johnny Hacking",
-   "created_at": "2026-11-10T21:31:09.000Z",
-   "lang": "en",
-   "url": "https://x.com/hacker34/status/2120268045138718930",
-   "kind": "reply",
-   "text": "@mattyp Thank you and the team for all the hard work!!!",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120259973099733318",
-   "username": "Aa9397348",
-   "name": "R",
-   "created_at": "2026-11-10T20:59:04.000Z",
-   "lang": "en",
-   "url": "https://x.com/Aa9397348/status/2120259973099733318",
-   "kind": "reply",
-   "text": "@mattyp On behalf of the Grok Bot community:\nWe love you Matt!\n\nPlease keep up the great work and updates! You are making our lives more enjoyable and easier!\n\nThank you, keep rocking and Godspeed!",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120258364324368849",
-   "username": "wesselvk",
-   "name": "Wessel van Keulen",
-   "created_at": "2026-11-10T20:52:41.000Z",
-   "lang": "en",
-   "url": "https://x.com/wesselvk/status/2120258364324368849",
-   "kind": "reply",
-   "text": "@mattyp @kiaraplds Good summary video. I’ll try shopping. Any idea when phone calls become available in the Netherlands?",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 2,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120243131996401937",
-   "username": "nickwm",
-   "name": "Nick Miller",
-   "created_at": "2026-11-10T19:52:09.000Z",
-   "lang": "en",
-   "url": "https://x.com/nickwm/status/2120243131996401937",
-   "kind": "reply",
-   "text": "@mattyp 👀 Lauren Tan WhatsApp flex spotted",
-   "urls": [],
-   "metrics": {
-    "likes": 2,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120238288795509126",
-   "username": "TheKentCalero",
-   "name": "Kent Calero",
-   "created_at": "2026-11-10T19:32:54.000Z",
-   "lang": "en",
-   "url": "https://x.com/TheKentCalero/status/2120238288795509126",
-   "kind": "reply",
-   "text": "@mattyp @mattyp this was an amazing update. We need these things to make it to YouTube or another centralized place. This was great, thank you for everything you all are doing, and thank you for keeping us informed.",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120228430012690901",
-   "username": "HRosenstr",
-   "name": "Matthias H. Rosenstrøm",
-   "created_at": "2026-11-10T18:53:44.000Z",
-   "lang": "en",
-   "url": "https://x.com/HRosenstr/status/2120228430012690901",
-   "kind": "reply",
-   "text": "@mattyp Thank for an amazing product 🙌🏻",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120228244779859972",
-   "username": "priddysharp",
-   "name": "Chris Priddy",
-   "created_at": "2026-11-10T18:53:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/priddysharp/status/2120228244779859972",
-   "kind": "reply",
-   "text": "@mattyp Love this style of updates. Thanks Matt! Great work! We appreciate it",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120227737575293209",
-   "username": "jaylams0311",
-   "name": "Jay",
-   "created_at": "2026-11-10T18:50:59.000Z",
-   "lang": "en",
-   "url": "https://x.com/jaylams0311/status/2120227737575293209",
-   "kind": "reply",
-   "text": "@mattyp dude, GB is changing my life for the better ! thank you !",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 0,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120218386026414192",
-   "username": "6ummy",
-   "name": "6ummy",
-   "created_at": "2026-11-10T18:13:49.000Z",
-   "lang": "en",
-   "url": "https://x.com/6ummy/status/2120218386026414192",
-   "kind": "reply",
-   "text": "@mattyp Thank you for the updates!",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
    "reply_to": {
     "id": "2120206234804727821",
     "username": "mattyp"

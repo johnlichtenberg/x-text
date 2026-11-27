@@ -1,7 +1,515 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-26T05:34:37Z",
+ "updated_at": "2026-11-27T02:47:32Z",
  "posts": [
+  {
+   "id": "2123828844662497763",
+   "username": "lukaslauu",
+   "name": "Lukas Lau",
+   "created_at": "2026-11-20T17:20:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/lukaslauu/status/2123828844662497763",
+   "kind": "reply",
+   "text": "@ericzakariasson very nice will use",
+   "urls": [],
+   "metrics": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2123825984231362902",
+    "username": "ericzakariasson"
+   },
+   "conversation_id": "2123825984231362902"
+  },
+  {
+   "id": "2123827064080052653",
+   "username": "willdepue",
+   "name": "will depue",
+   "created_at": "2026-11-20T17:13:25.000Z",
+   "lang": "zxx",
+   "url": "https://x.com/willdepue/status/2123827064080052653",
+   "kind": "post",
+   "text": "",
+   "urls": [],
+   "metrics": {
+    "likes": 4375,
+    "reposts": 245,
+    "replies": 46,
+    "quotes": 17
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlZcm9bsAEvzFB.jpg",
+     "width": 1828,
+     "height": 2366
+    }
+   ],
+   "conversation_id": "2123827064080052653"
+  },
+  {
+   "id": "2123820923480363341",
+   "username": "skorusARK",
+   "name": "Sam Korus",
+   "created_at": "2026-11-20T16:49:01.000Z",
+   "lang": "en",
+   "url": "https://x.com/skorusARK/status/2123820923480363341",
+   "kind": "quote",
+   "text": "You missed step 0.\n\nBe the first automaker to license fsd. If you do that and then accept the design constraints and bring back sick retro cars with FSD then I think you survive past the next decade.\n\nOtherwise I think it's a great run and then the industry slips you by.",
+   "urls": [],
+   "metrics": {
+    "likes": 1384,
+    "reposts": 54,
+    "replies": 50,
+    "quotes": 7
+   },
+   "ref": {
+    "id": "2123816319728406669",
+    "author_id": "1475231323480543232",
+    "username": "GuyDealership",
+    "name": "Car Dealership Guy",
+    "created_at": "2026-11-20T16:30:43.000Z",
+    "text": "BREAKING: @GM hired a search firm to succeed Mary Barra.\n\nSave the fee. Here’s my Day 1:\n\n1. Pontiac is BACK. Firebird and GTO, full vintage, built on modern platforms.\n\n2. A retro Blazer. Ford sold 146K Broncos last year. We’re leaving money on the table.\n\n3. A real truck under $25K. The S10 returns.\n\n4. NO subscriptions for features you already paid for. Your heated seats are yours.\n\n5. Super Cruise standard on EVERY trim. No subscription.\n\n6. Apple CarPlay and Android Auto are BACK. Let customers use their phones.\n\n7. Hybrids in every segment. Gas, hybrid or EV. The customer picks.\n\n8. No more incentives. We won't need them. Hagerty’s index of 80s and 90s cars just posted its biggest gain in four years. Build what people WANT and they’ll pay full price.\n\n9. Listen to dealers. Simpler programs, real lease rates.\n\n10. The CEO works the sales floor one Saturday a month.\n\nWhat’d I miss?"
+   },
+   "conversation_id": "2123820923480363341"
+  },
+  {
+   "id": "2123819892658819142",
+   "username": "LouiseDSadeleer",
+   "name": "Louise de Sadeleer",
+   "created_at": "2026-11-20T16:44:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/LouiseDSadeleer/status/2123819892658819142",
+   "kind": "post",
+   "text": "I think if there's a lotta bots in your comments/replies, it might be your content's fault",
+   "urls": [],
+   "metrics": {
+    "likes": 26,
+    "reposts": 0,
+    "replies": 6,
+    "quotes": 0
+   },
+   "conversation_id": "2123819892658819142"
+  },
+  {
+   "id": "2123819749817630956",
+   "username": "Texas_Twins_Dad",
+   "name": "Texas Twins Dad",
+   "created_at": "2026-11-20T16:44:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/Texas_Twins_Dad/status/2123819749817630956",
+   "kind": "quote",
+   "text": "Here's what Grok Bot has done in last 24 hours. And I didn’t write a single line of code!\n\n• 5 PRs opened\n• 609 automated tests: 521 unit tests across 73 classes + 88 screenshot tests",
+   "urls": [],
+   "metrics": {
+    "likes": 36,
+    "reposts": 2,
+    "replies": 13,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2123417350234136746",
+    "author_id": "1324183584282939392",
+    "username": "Texas_Twins_Dad",
+    "name": "Texas Twins Dad",
+    "created_at": "2026-11-19T14:05:22.000Z",
+    "text": "I wake up in the morning, and Grok Bot has already opened multiple PRs, run the tests, and merged them. Having Grok Bot is like hiring a team that never sleeps.",
+    "conversation_id": "2123417350234136746"
+   },
+   "conversation_id": "2123819749817630956"
+  },
+  {
+   "id": "2123818714990567933",
+   "username": "SawyerMerritt",
+   "name": "Sawyer Merritt",
+   "created_at": "2026-11-20T16:40:14.000Z",
+   "lang": "en",
+   "url": "https://x.com/SawyerMerritt/status/2123818714990567933",
+   "kind": "post",
+   "text": "Marques Brownlee says he will honor the spirit of his Cybercab bet that he made in 2024.\n\n\"I will honor the spirit of the bet. I was invited to buy one, so I did. I submitted my $1,000 non-refundable deposit, and I selected the city of Austin, Texas. So if they actually go, 'alright, your Cybercab is ready', I will fly down to Austin, and I will accept delivery of my personal Cybercab.\"\n\nI don't think Marques has been in a Cybercab on public roads yet, so him taking delivery next month will actually be the first time he's experiencing it on public roads.\n\nFull video: https://www.youtube.com/watch?v=0HdrplAYXOM",
+   "urls": [
+    "https://www.youtube.com/watch?v=0HdrplAYXOM"
+   ],
+   "metrics": {
+    "likes": 6659,
+    "reposts": 221,
+    "replies": 362,
+    "quotes": 57
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123817725839413249/vid/avc1/1920x1080/48NzNsmEujKhnmPB.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123817725839413249/img/BTr4ardLMMkHechK.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123817725839413249/vid/avc1/480x270/IKwPMkj3yWEf5Z6s.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123817725839413249/vid/avc1/640x360/lDNKAoY3h2ZceX0s.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123817725839413249/vid/avc1/1280x720/IZB6WufnEzPUO36p.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123817725839413249/vid/avc1/1920x1080/48NzNsmEujKhnmPB.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 39800
+    }
+   ],
+   "conversation_id": "2123818714990567933"
+  },
+  {
+   "id": "2123813706396205232",
+   "username": "shadcn",
+   "name": "shadcn",
+   "created_at": "2026-11-20T16:20:20.000Z",
+   "lang": "en",
+   "url": "https://x.com/shadcn/status/2123813706396205232",
+   "kind": "post",
+   "text": "How we're building UI SDK to be agent-first, part 3:\n\nWe've built in observability and history. Every change in your UI tells you what changed and who made it, you or the agent.\n\nThat gives you seek and undo for free. Go back to any point, or undo only the agent’s work.",
+   "urls": [],
+   "metrics": {
+    "likes": 392,
+    "reposts": 6,
+    "replies": 63,
+    "quotes": 5
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlNF4wbgAAo-u7.jpg",
+     "width": 1406,
+     "height": 1124
+    }
+   ],
+   "conversation_id": "2123813706396205232"
+  },
+  {
+   "id": "2123808589668073831",
+   "username": "lucas_builds",
+   "name": "Lucas",
+   "created_at": "2026-11-20T16:00:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/lucas_builds/status/2123808589668073831",
+   "kind": "post",
+   "text": "How the fuck are we supposed to take the weekend off when the agents never get tired? 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 38,
+    "reposts": 0,
+    "replies": 27,
+    "quotes": 0
+   },
+   "conversation_id": "2123808589668073831"
+  },
+  {
+   "id": "2123806218913529933",
+   "username": "yunta_tsai",
+   "name": "Yun-Ta Tsai",
+   "created_at": "2026-11-20T15:50:35.000Z",
+   "lang": "en",
+   "url": "https://x.com/yunta_tsai/status/2123806218913529933",
+   "kind": "post",
+   "text": "Caring about the working class means more than handing out uninspiring jobs.\n\nMake the factory cool and the work meaningful so people feel they’re building the future, not just following orders.",
+   "urls": [],
+   "metrics": {
+    "likes": 3886,
+    "reposts": 287,
+    "replies": 123,
+    "quotes": 19
+   },
+   "conversation_id": "2123806218913529933"
+  },
+  {
+   "id": "2123801770682191872",
+   "username": "pontusab",
+   "name": "Pontus Abrahamsson",
+   "created_at": "2026-11-20T15:32:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/pontusab/status/2123801770682191872",
+   "kind": "quote",
+   "text": "the number of agents running in parallel will only grow. The best investment you can make right now is making your CI as fast as possible.",
+   "urls": [],
+   "metrics": {
+    "likes": 124,
+    "reposts": 3,
+    "replies": 18,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2123750671795261748",
+    "author_id": "72615190",
+    "username": "pontusab",
+    "name": "Pontus Abrahamsson",
+    "created_at": "2026-11-20T12:09:52.000Z",
+    "text": "Our full CI pipeline is now sub 1 min. Here is what I did:\n\n- Vitest -> bun test\n- tsc -> bun check\n- oxlint -> bun lint\n- oxfmt -> bun fmt\n- shards filled by recorded test time\n- PRs run only the tests the diff can reach\n- backend builds the app once per process\n- lint, typecheck, build and tests all in parallel\n\n200+ hours of waiting saved every week"
+   },
+   "conversation_id": "2123801770682191872"
+  },
+  {
+   "id": "2123799483905446118",
+   "username": "ThePrimeagen",
+   "name": "ThePrimeagen",
+   "created_at": "2026-11-20T15:23:49.000Z",
+   "lang": "en",
+   "url": "https://x.com/ThePrimeagen/status/2123799483905446118",
+   "kind": "quote",
+   "text": "Docker went from a whale carrying shipping containers to what looks like a meal prep service\n\nAlso, truth be told, the only thing preventing me from liking docker more was its logo.  Now I love docker",
+   "urls": [],
+   "metrics": {
+    "likes": 1407,
+    "reposts": 15,
+    "replies": 98,
+    "quotes": 1
+   },
+   "ref": {
+    "id": "2123471265167999156",
+    "author_id": "809153395",
+    "username": "avstorm",
+    "name": "Andreas Storm",
+    "created_at": "2026-11-19T17:39:36.000Z",
+    "text": "Docker got a rebrand",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXgVuhBWcAAyixb.png",
+      "width": 2522,
+      "height": 1150
+     }
+    ],
+    "conversation_id": "2123471265167999156"
+   },
+   "conversation_id": "2123799483905446118"
+  },
+  {
+   "id": "2123796341445022039",
+   "username": "Dhanush_Nehru",
+   "name": "Dhanush N",
+   "created_at": "2026-11-20T15:11:20.000Z",
+   "lang": "en",
+   "url": "https://x.com/Dhanush_Nehru/status/2123796341445022039",
+   "kind": "post",
+   "text": "GTA 6 just dropped so I made a trailer for my GitHub instead.\n\nNo cheat codes. Just Rust crates, npm packages and some opensource tools I built from scratch.\n\nFollow the crew  → https://github.com/DhanushNehru",
+   "urls": [
+    "https://github.com/DhanushNehru"
+   ],
+   "metrics": {
+    "likes": 17,
+    "reposts": 0,
+    "replies": 7,
+    "quotes": 1
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2123796302828056576/vid/avc1/1280x720/Tq4Lq_dkQv0h0kej.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2123796302828056576/img/uoZzDKIRtSqUnamG.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2123796302828056576/vid/avc1/480x270/ghSgXGIQ2_nyl1i3.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123796302828056576/vid/avc1/640x360/_02FmBT0pRYVsrGU.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2123796302828056576/vid/avc1/1280x720/Tq4Lq_dkQv0h0kej.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      }
+     ],
+     "width": 1280,
+     "height": 720,
+     "duration_ms": 15082
+    }
+   ],
+   "conversation_id": "2123796341445022039"
+  },
+  {
+   "id": "2123795046033916049",
+   "username": "SkrabaAndrej",
+   "name": "Andrej P. Skraba",
+   "created_at": "2026-11-20T15:06:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/SkrabaAndrej/status/2123795046033916049",
+   "kind": "quote",
+   "text": "@Astra__AI token usage 🤓",
+   "urls": [],
+   "metrics": {
+    "likes": 19,
+    "reposts": 2,
+    "replies": 1,
+    "quotes": 0
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXk8FrkWAAAr6kP.jpg",
+     "width": 1280,
+     "height": 1280
+    }
+   ],
+   "ref": {
+    "id": "2123791954114920729",
+    "author_id": "178020526",
+    "username": "klemenselakovic",
+    "name": "Klemen Selakovic",
+    "created_at": "2026-11-20T14:53:54.000Z",
+    "text": "We are one of the biggest consumers of AI tokens in the world, consuming +3 TRILLION tokens per month.\n\nWe are model and company agnostic which is extremly important for us as if we would spend all those tokens on a model like $ANT’s Fable 5.2. or total yearly cost would be over $400M.\n\nHaving multiple models and multiple AI model providers is one of the key things for the AI application layer.",
+    "conversation_id": "2123791954114920729"
+   },
+   "conversation_id": "2123795046033916049"
+  },
+  {
+   "id": "2123793364151636294",
+   "username": "Mahaximus_",
+   "name": "Mahax",
+   "created_at": "2026-11-20T14:59:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/Mahaximus_/status/2123793364151636294",
+   "kind": "quote",
+   "text": "holy sh*t, do this asap. it can cut your Grok Bot usage in half...\n\nyour bots burn most of your weekly limit on stuff they don't need to do.\n\npaste this into Grok Bot and it finds every leak and plugs it, so your limit can finally last the whole week.",
+   "urls": [],
+   "metrics": {
+    "likes": 62,
+    "reposts": 4,
+    "replies": 12,
+    "quotes": 1
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXk6d76WoAAbBef.jpg",
+     "width": 2400,
+     "height": 3000
+    }
+   ],
+   "ref": {
+    "id": "2119435020704112933",
+    "author_id": "1857823789666492416",
+    "username": "Mahaximus_",
+    "name": "Mahax",
+    "created_at": "2026-11-08T14:21:00.000Z",
+    "text": "https://x.com/i/article/2119127080570884097",
+    "article_title": "Grok Bot Usage. Fix Everything That Burns Your Limit."
+   },
+   "conversation_id": "2123793364151636294"
+  },
+  {
+   "id": "2123789252756414577",
+   "username": "yifanzhang_",
+   "name": "Yifan Zhang @ NeurIPS",
+   "created_at": "2026-11-20T14:43:10.000Z",
+   "lang": "en",
+   "url": "https://x.com/yifanzhang_/status/2123789252756414577",
+   "kind": "post",
+   "text": "JUST IN: Riemann Hypothesis has been solved.\n\nhttps://alpo.ge/remark.pdf",
+   "urls": [
+    "https://alpo.ge/remark.pdf"
+   ],
+   "metrics": {
+    "likes": 58982,
+    "reposts": 7869,
+    "replies": 1767,
+    "quotes": 5239
+   },
+   "conversation_id": "2123789252756414577"
+  },
+  {
+   "id": "2123781117249798614",
+   "username": "cb_doge",
+   "name": "DogeDesigner",
+   "created_at": "2026-11-20T14:10:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/cb_doge/status/2123781117249798614",
+   "kind": "post",
+   "text": "BREAKING: SpaceX’s Cursor is considering phasing out Chinese AI models, as per CNBC.\n\nThe company told U.S. lawmakers it is exploring the shift amid a congressional probe into American firms’ reliance on Chinese AI.\n\nThere is no official confirmation from SpaceX or Elon Musk yet.",
+   "urls": [],
+   "metrics": {
+    "likes": 440,
+    "reposts": 57,
+    "replies": 46,
+    "quotes": 12
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXkvqv-asAAb6Kx.jpg",
+     "width": 923,
+     "height": 899
+    }
+   ],
+   "conversation_id": "2123781117249798614"
+  },
+  {
+   "id": "2123777432872276428",
+   "username": "ducksays",
+   "name": "duck says",
+   "created_at": "2026-11-20T13:56:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/ducksays/status/2123777432872276428",
+   "kind": "quote",
+   "text": "PAY ATTENTION TO WHAT THE GROK BOT TEAM IS FIXING NEXT.\n\nthey shipped 6 fixes in 24 hours, straight from what people complained to them about.\n\nnext up:\n- usage burning too fast\n- bots forgetting your rules\n- bot computers that won't come back\n\n... and apparently more connectors!",
+   "urls": [],
+   "metrics": {
+    "likes": 123,
+    "reposts": 1,
+    "replies": 23,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2123529612215075009",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-19T21:31:27.000Z",
+    "text": "Update on everything you sent me 🙏\n\nShipped last 24h\n\n- Replies failing with \"model unavailable\" errors\n- Bot browser failing to load sites\n- Webhook routines failing with no retry\n- Routines losing their tools after an update\n- Connectors now tell you when they need a reconnect\n- Composer bullet fixes, and group email settings now save\n\nIn progress\n\n- Long chats getting slow and expensive\n- Email draft cards getting cut off\n- Account merging getting stuck\n- Android text selection\n- More connectors... 😏\n\nNext up\n\n- Bot computers that won't come back\n- Usage burning too fast, and clearer usage breakdowns\n- Bots forgetting your rules\n- Large file and photo uploads\n- Payment and upgrade issues\n\nKeep it coming!"
+   },
+   "conversation_id": "2123777432872276428"
+  },
+  {
+   "id": "2123739830194512067",
+   "username": "matteosalvinimi",
+   "name": "Matteo Salvini",
+   "created_at": "2026-11-20T11:26:47.000Z",
+   "lang": "it",
+   "url": "https://x.com/matteosalvinimi/status/2123739830194512067",
+   "kind": "post",
+   "text": "Sono orgoglioso di annunciare un’altra importante novità per la mobilità in Italia.\n\nIl @mitgov_it, dopo puntuale verifica tecnica di fattibilità, ha dato il via libera all’omologazione provvisoria del sistema di guida assistita Tesla Assisted Driving, anticipando il processo di riconoscimento comunitario, attualmente in fase di definizione.\n\nUn altro passo avanti verso l’innovazione, la tecnologia e la mobilità del futuro, sempre mettendo al primo posto la sicurezza dei cittadini.",
+   "urls": [],
+   "metrics": {
+    "likes": 2525,
+    "reposts": 291,
+    "replies": 395,
+    "quotes": 64
+   },
+   "conversation_id": "2123739830194512067"
+  },
   {
    "id": "2123699494068113652",
    "username": "Scobleizer",
@@ -10577,467 +11085,6 @@
    },
    "reply_to": {
     "id": "2120379456082923823",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120379737348735389",
-   "username": "Michael_Fenech_",
-   "name": "Michael | AI + Agents",
-   "created_at": "2026-11-11T04:54:58.000Z",
-   "lang": "en",
-   "url": "https://x.com/Michael_Fenech_/status/2120379737348735389",
-   "kind": "reply",
-   "text": "@mattyp Thanks for bringing us a great product. 🙏🏻",
-   "urls": [],
-   "metrics": {
-    "likes": 8,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120379456082923823",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120377658328633747",
-   "username": "JPWMERCH",
-   "name": "Josh Wilson",
-   "created_at": "2026-11-11T04:46:43.000Z",
-   "lang": "en",
-   "url": "https://x.com/JPWMERCH/status/2120377658328633747",
-   "kind": "reply",
-   "text": "@mattyp What’s the best practice for using @bot to manager your personal vs professional tasks? Should they be separate?",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120368635776749842",
-   "username": "paus_d_",
-   "name": "Sean",
-   "created_at": "2026-11-11T04:10:51.000Z",
-   "lang": "en",
-   "url": "https://x.com/paus_d_/status/2120368635776749842",
-   "kind": "reply",
-   "text": "@mattyp the grok bot explainer man himself",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120366631792808184",
-   "username": "kevinbhobart",
-   "name": "Kevin Brown",
-   "created_at": "2026-11-11T04:02:54.000Z",
-   "lang": "en",
-   "url": "https://x.com/kevinbhobart/status/2120366631792808184",
-   "kind": "reply",
-   "text": "@mattyp This is the only video I watch each week religiously.\n\nI may steal this format for my own companies videos 🙏😂\n\nKeep it up.",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120351564720136389",
-   "username": "SemiAnalysis_",
-   "name": "SemiAnalysis",
-   "created_at": "2026-11-11T03:03:01.000Z",
-   "lang": "en",
-   "url": "https://x.com/SemiAnalysis_/status/2120351564720136389",
-   "kind": "post",
-   "text": "SpaceX is developing Kessel, a custom Vera Rubin NVL72 rack that replaces internal NVLink cable cartridges with a passive PCB midplane. It keeps Oberon’s 72 GPU packages, 18 compute trays and 9 switch trays, but rearranges them back-to-back around the board. Think mini Kyber, with a smaller scale-up domain and a design intended for both terrestrial and orbital deployment. The question is whether this smaller version can make the midplane practical. (1/4)🧵",
-   "urls": [],
-   "metrics": {
-    "likes": 1011,
-    "reposts": 63,
-    "replies": 49,
-    "quotes": 28
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HW0AgybXIAAGuWi.jpg",
-     "width": 800,
-     "height": 800
-    }
-   ]
-  },
-  {
-   "id": "2120346761084780893",
-   "username": "agrimsingh",
-   "name": "agrim singh",
-   "created_at": "2026-11-11T02:43:56.000Z",
-   "lang": "en",
-   "url": "https://x.com/agrimsingh/status/2120346761084780893",
-   "kind": "reply",
-   "text": "@mattyp @kristaletz @spacexai can we go for a walk next week when i'm at the sf office lol @ericzakariasson let's goooo",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120336523291979902",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120344715707203685",
-   "username": "Mattcall",
-   "name": "Matt",
-   "created_at": "2026-11-11T02:35:48.000Z",
-   "lang": "en",
-   "url": "https://x.com/Mattcall/status/2120344715707203685",
-   "kind": "reply",
-   "text": "@ForwardEditor @Apple Maybe we tag small content creators like @MatthewBerman, @mattyp, @theo, @AdamHoltererer, @johnternus, @tetsuoai, @tim_cook, and @poteto to see if any of them can help with their small sphere of influence?\n\nPlease help Brian avoid disaster.",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 2,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120343229656666171",
-    "username": "ForwardEditor"
-   }
-  },
-  {
-   "id": "2120342384445898866",
-   "username": "KatieMiller",
-   "name": "Katie Miller",
-   "created_at": "2026-11-11T02:26:33.000Z",
-   "lang": "en",
-   "url": "https://x.com/KatieMiller/status/2120342384445898866",
-   "kind": "quote",
-   "text": "Taps the sign",
-   "urls": [],
-   "metrics": {
-    "likes": 7681,
-    "reposts": 528,
-    "replies": 99,
-    "quotes": 17
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWz4KQpWwAAGkdp.jpg",
-     "width": 1320,
-     "height": 519
-    }
-   ],
-   "ref": {
-    "id": "2120320733561672164",
-    "author_id": "28140646",
-    "username": "WSJbusiness",
-    "name": "WSJ Business News",
-    "created_at": "2026-11-11T01:00:31.000Z",
-    "text": "Masayoshi Son’s SoftBank reserved enough gas turbines to generate the power of six Hoover Dams. It cost the company billions of dollars in losses. https://on.wsj.com/4AkINFX",
-    "conversation_id": "2120320733561672164"
-   }
-  },
-  {
-   "id": "2120342181609447483",
-   "username": "neelfx",
-   "name": "Neel",
-   "created_at": "2026-11-11T02:25:44.000Z",
-   "lang": "und",
-   "url": "https://x.com/neelfx/status/2120342181609447483",
-   "kind": "reply",
-   "text": "@mattyp @kristaletz @spacexai LFG!",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWz3-bwWYAARZ0Q.jpg",
-     "width": 945,
-     "height": 2048
-    }
-   ],
-   "reply_to": {
-    "id": "2120336523291979902",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120341953640599848",
-   "username": "stargzer42",
-   "name": "Lindsay",
-   "created_at": "2026-11-11T02:24:50.000Z",
-   "lang": "en",
-   "url": "https://x.com/stargzer42/status/2120341953640599848",
-   "kind": "reply",
-   "text": "@mattyp @kristaletz @spacexai You gotta pump those numbers up 😏",
-   "urls": [],
-   "metrics": {
-    "likes": 2,
-    "reposts": 0,
-    "replies": 2,
-    "quotes": 0
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWz3xMqW4AApj3z.jpg",
-     "width": 1179,
-     "height": 1502
-    }
-   ],
-   "reply_to": {
-    "id": "2120336523291979902",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120335889897525606",
-   "username": "kristaletz",
-   "name": "Krista Letz",
-   "created_at": "2026-11-11T02:00:44.000Z",
-   "lang": "en",
-   "url": "https://x.com/kristaletz/status/2120335889897525606",
-   "kind": "quote",
-   "text": "matt’s step count since he joined @spacexai 📈",
-   "urls": [],
-   "metrics": {
-    "likes": 67,
-    "reposts": 0,
-    "replies": 3,
-    "quotes": 0
-   },
-   "ref": {
-    "id": "2120206234804727821",
-    "author_id": "1518984544421965824",
-    "username": "mattyp",
-    "name": "matt palmer",
-    "created_at": "2026-11-10T17:25:32.000Z",
-    "text": "What's new in Grok Bot\n\n00:00 🌁\n00:10 Phone calls\n01:02 Share sheet\n01:27 X cards\n01:40 Shopping deals\n01:58 Gifts\n02:26 Team Bots\n03:06 Search\n03:21 Hidden-instruction warnings\n03:37 Attachments on drafts\n03:52 Sign-outs\n04:16 Weather\n05:09 Rapid fire\n06:52 A note on usage",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120203858526048256/vid/avc1/3840x2160/U5EeHLvQ6n3p7j0C.mp4",
-      "poster": "https://pbs.twimg.com/media/HWx73MmbwAA0Umw.jpg",
-      "width": 1280,
-      "height": 720,
-      "duration_ms": 448746
-     }
-    ],
-    "conversation_id": "2120206234804727821"
-   }
-  },
-  {
-   "id": "2120335105277272272",
-   "username": "agrimsingh",
-   "name": "agrim singh",
-   "created_at": "2026-11-11T01:57:37.000Z",
-   "lang": "en",
-   "url": "https://x.com/agrimsingh/status/2120335105277272272",
-   "kind": "quote",
-   "text": "you know it's a good grok @bot day when @mattyp goes on a walk",
-   "urls": [],
-   "metrics": {
-    "likes": 21,
-    "reposts": 0,
-    "replies": 2,
-    "quotes": 0
-   },
-   "ref": {
-    "id": "2120206234804727821",
-    "author_id": "1518984544421965824",
-    "username": "mattyp",
-    "name": "matt palmer",
-    "created_at": "2026-11-10T17:25:32.000Z",
-    "text": "What's new in Grok Bot\n\n00:00 🌁\n00:10 Phone calls\n01:02 Share sheet\n01:27 X cards\n01:40 Shopping deals\n01:58 Gifts\n02:26 Team Bots\n03:06 Search\n03:21 Hidden-instruction warnings\n03:37 Attachments on drafts\n03:52 Sign-outs\n04:16 Weather\n05:09 Rapid fire\n06:52 A note on usage",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2120203858526048256/vid/avc1/3840x2160/U5EeHLvQ6n3p7j0C.mp4",
-      "poster": "https://pbs.twimg.com/media/HWx73MmbwAA0Umw.jpg",
-      "width": 1280,
-      "height": 720,
-      "duration_ms": 448746
-     }
-    ],
-    "conversation_id": "2120206234804727821"
-   }
-  },
-  {
-   "id": "2120325243516719604",
-   "username": "Atronikus",
-   "name": "Kirby",
-   "created_at": "2026-11-11T01:18:26.000Z",
-   "lang": "en",
-   "url": "https://x.com/Atronikus/status/2120325243516719604",
-   "kind": "reply",
-   "text": "@mattyp Great stuff! Really happy to see these whenever they come up on the TL",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120322785851621456",
-   "username": "herbertong",
-   "name": "Herbert Ong",
-   "created_at": "2026-11-11T01:08:40.000Z",
-   "lang": "en",
-   "url": "https://x.com/herbertong/status/2120322785851621456",
-   "kind": "post",
-   "text": "Cybercab's ceiling may be set by how much people are willing to travel, not by the size of today's rideshare market.\n\n@JOBhakdi argues that a much cheaper, frictionless ride grows total usage the way cheaper compute grew total computing. Elon is already saying Cybercab will do a majority of all passenger miles wherever it's legal.\n\nThat makes valuing Tesla against Uber's market cap backwards. The real comparison is the entire cost of moving people and goods, and that number grows every time the price per mile falls. $TSLA",
-   "urls": [],
-   "metrics": {
-    "likes": 1079,
-    "reposts": 68,
-    "replies": 57,
-    "quotes": 9
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120322684651536384/vid/avc1/1280x720/RW3wb9Voxg5KKglC.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120322684651536384/img/SoWqmVwCVboV9-dq.jpg",
-     "width": 1280,
-     "height": 720,
-     "duration_ms": 339900
-    }
-   ]
-  },
-  {
-   "id": "2120321435302535491",
-   "username": "joelcomm",
-   "name": "Joel Comm",
-   "created_at": "2026-11-11T01:03:18.000Z",
-   "lang": "en",
-   "url": "https://x.com/joelcomm/status/2120321435302535491",
-   "kind": "reply",
-   "text": "@mattyp Matt, can a scheduled routine place a phone call, or does every call need someone to tap Call? I'd love one of my bots to handle the hold music while I'm on stage.",
-   "urls": [],
-   "metrics": {
-    "likes": 0,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120308214097203337",
-   "username": "EndWokeness",
-   "name": "End Wokeness",
-   "created_at": "2026-11-11T00:10:46.000Z",
-   "lang": "en",
-   "url": "https://x.com/EndWokeness/status/2120308214097203337",
-   "kind": "post",
-   "text": "The double standard is exhausting",
-   "urls": [],
-   "metrics": {
-    "likes": 79197,
-    "reposts": 7647,
-    "replies": 444,
-    "quotes": 147
-   },
-   "media": [
-    {
-     "type": "photo",
-     "url": "https://pbs.twimg.com/media/HWzZFQzWkAAF6TU.jpg",
-     "width": 1408,
-     "height": 1392
-    }
-   ]
-  },
-  {
-   "id": "2120305164922003644",
-   "username": "pheriwinkle",
-   "name": "pheriwinkle",
-   "created_at": "2026-11-10T23:58:39.000Z",
-   "lang": "en",
-   "url": "https://x.com/pheriwinkle/status/2120305164922003644",
-   "kind": "reply",
-   "text": "@mattyp I love these concise update videos.  Especially as a San Franciscan, trying to spot where you are walking.",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2120206234804727821",
-    "username": "mattyp"
-   }
-  },
-  {
-   "id": "2120299107164057991",
-   "username": "hauntedbrowser",
-   "name": "corey",
-   "created_at": "2026-11-10T23:34:35.000Z",
-   "lang": "en",
-   "url": "https://x.com/hauntedbrowser/status/2120299107164057991",
-   "kind": "reply",
-   "text": "@mattyp @kiaraplds Nice Easter egg 👆🏻",
-   "urls": [],
-   "metrics": {
-    "likes": 1,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120299099475824640/vid/avc1/1280x588/ie6hYwtNjKNcBlhI.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120299099475824640/img/UO6B9e6hCqdWtVHQ.jpg",
-     "width": 1280,
-     "height": 588,
-     "duration_ms": 1581
-    }
-   ],
-   "reply_to": {
-    "id": "2120206234804727821",
     "username": "mattyp"
    }
   }

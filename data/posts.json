@@ -1,8 +1,1108 @@
 {
- "updated_at": "2026-11-26T05:33:48Z",
- "count": 2571,
+ "updated_at": "2026-11-27T02:46:29Z",
+ "count": 2613,
  "accounts": 14,
  "posts": [
+  {
+   "id": "2126110487603490877",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T00:26:56.000Z",
+   "lang": "en",
+   "conversation_id": "2124518974197321782",
+   "url": "https://x.com/elonmusk/status/2126110487603490877",
+   "reply_to": {
+    "id": "2124518974197321782",
+    "username": "davidsenra"
+   },
+   "kind": "reply",
+   "text": "@davidsenra @tobi Tobi is awesome",
+   "urls": [],
+   "metrics": {
+    "likes": 777,
+    "reposts": 32,
+    "replies": 78,
+    "quotes": 9
+   }
+  },
+  {
+   "id": "2126110406582132791",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T00:26:36.000Z",
+   "lang": "qme",
+   "conversation_id": "2126084508646605030",
+   "url": "https://x.com/elonmusk/status/2126110406582132791",
+   "reply_to": {
+    "id": "2126084508646605030",
+    "username": "billlee"
+   },
+   "kind": "reply",
+   "text": "@billlee ❤️",
+   "urls": [],
+   "metrics": {
+    "likes": 2387,
+    "reposts": 72,
+    "replies": 172,
+    "quotes": 12
+   }
+  },
+  {
+   "id": "2126110344120762593",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T00:26:21.000Z",
+   "lang": "en",
+   "conversation_id": "2126110344120762593",
+   "url": "https://x.com/elonmusk/status/2126110344120762593",
+   "kind": "quote",
+   "text": "Vital that children have a stake in the future",
+   "urls": [],
+   "metrics": {
+    "likes": 17358,
+    "reposts": 1659,
+    "replies": 1584,
+    "quotes": 194
+   },
+   "ref": {
+    "id": "2126078859271369064",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-26T22:21:15.000Z",
+    "text": "Elon has announced that he will gift one @SpaceX share to each of the ~70 million children in America every year.\n\nAt SpaceX’s current share price, that amounts to over $9 billion in gifts annually. If SpaceX’s stock price goes up, the value of those gifts/shares will be worth a lot more.\n\nThis would be the largest gifting pledge in history.",
+    "conversation_id": "2126078859271369064",
+    "quote": {
+     "id": "2126064597039997254",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-11-26T21:24:34.000Z",
+     "text": "@stevenmarkryan I will be donating another share of SpaceX to all kids in America every year",
+     "reply_to": {
+      "id": "2125921791432646718",
+      "username": "stevenmarkryan"
+     },
+     "conversation_id": "2125921791432646718"
+    }
+   }
+  },
+  {
+   "id": "2126106970684018734",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T00:12:57.000Z",
+   "lang": "qam",
+   "conversation_id": "2126040444983443595",
+   "url": "https://x.com/elonmusk/status/2126106970684018734",
+   "reply_to": {
+    "id": "2126040444983443595",
+    "username": "ALScyborg"
+   },
+   "kind": "reply",
+   "text": "@ALScyborg @YouTube @neuralink !!",
+   "urls": [],
+   "metrics": {
+    "likes": 3173,
+    "reposts": 138,
+    "replies": 199,
+    "quotes": 14
+   }
+  },
+  {
+   "id": "2126064597039997254",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T21:24:34.000Z",
+   "lang": "en",
+   "conversation_id": "2125921791432646718",
+   "url": "https://x.com/elonmusk/status/2126064597039997254",
+   "reply_to": {
+    "id": "2125921791432646718",
+    "username": "stevenmarkryan"
+   },
+   "kind": "reply",
+   "text": "@stevenmarkryan I will be donating another share of SpaceX to all kids in America every year",
+   "urls": [],
+   "metrics": {
+    "likes": 59310,
+    "reposts": 5582,
+    "replies": 3782,
+    "quotes": 1502
+   }
+  },
+  {
+   "id": "2126064330022265197",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T21:23:31.000Z",
+   "lang": "en",
+   "conversation_id": "2126064330022265197",
+   "url": "https://x.com/elonmusk/status/2126064330022265197",
+   "kind": "quote",
+   "text": "Super appreciate your support. Tesla wouldn’t be where it is without our awesome customers.",
+   "urls": [],
+   "metrics": {
+    "likes": 34445,
+    "reposts": 1943,
+    "replies": 1706,
+    "quotes": 106
+   },
+   "ref": {
+    "id": "2125989232976249203",
+    "author_id": "13298072",
+    "username": "Tesla",
+    "name": "Tesla",
+    "created_at": "2026-11-26T16:25:06.000Z",
+    "text": "Happy Thanksgiving to all of our owners, employees & advocates ❤️🇺🇸",
+    "conversation_id": "2125989232976249203"
+   }
+  },
+  {
+   "id": "2126063925938762222",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T21:21:54.000Z",
+   "lang": "en",
+   "conversation_id": "2126063925938762222",
+   "url": "https://x.com/elonmusk/status/2126063925938762222",
+   "kind": "repost",
+   "text": "The team has been cooking over the last few weeks! You should now see an additional 11% more usage out of your plan, and up to 50% more usage for routines!\n\nExcited to share more soon on how we optimized our routine harness to remove inference requests for simple and repetitive tasks!",
+   "urls": [],
+   "metrics": {
+    "likes": 2166,
+    "reposts": 164,
+    "replies": 207,
+    "quotes": 83
+   },
+   "ref": {
+    "id": "2126027973568466949",
+    "author_id": "2338596771",
+    "username": "SamSokolin",
+    "name": "Sam Sokolin",
+    "created_at": "2026-11-26T18:59:03.000Z",
+    "conversation_id": "2126027973568466949",
+    "quote": {
+     "id": "2122433810902176012",
+     "unavailable": true,
+     "username": "samsokolin"
+    }
+   }
+  },
+  {
+   "id": "2126063829398573212",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T21:21:31.000Z",
+   "lang": "en",
+   "conversation_id": "2125948792012784070",
+   "url": "https://x.com/elonmusk/status/2126063829398573212",
+   "reply_to": {
+    "id": "2125948792012784070",
+    "username": "mylesBaiM"
+   },
+   "kind": "reply",
+   "text": "@mylesBaiM @grok You’ll see",
+   "urls": [],
+   "metrics": {
+    "likes": 15653,
+    "reposts": 531,
+    "replies": 704,
+    "quotes": 100
+   }
+  },
+  {
+   "id": "2126063139339059274",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T21:18:47.000Z",
+   "lang": "en",
+   "conversation_id": "2126045673581957242",
+   "url": "https://x.com/elonmusk/status/2126063139339059274",
+   "reply_to": {
+    "id": "2126045673581957242",
+    "username": "EMostaque"
+   },
+   "kind": "reply",
+   "text": "@EMostaque Cool",
+   "urls": [],
+   "metrics": {
+    "likes": 1079,
+    "reposts": 47,
+    "replies": 106,
+    "quotes": 8
+   }
+  },
+  {
+   "id": "2126048202852041172",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T20:19:26.000Z",
+   "lang": "en",
+   "conversation_id": "2125967814834155561",
+   "url": "https://x.com/elonmusk/status/2126048202852041172",
+   "reply_to": {
+    "id": "2125967814834155561",
+    "username": "gailalfaratx"
+   },
+   "kind": "reply",
+   "text": "@gailalfaratx It’s the small things in life that matter 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 5061,
+    "reposts": 216,
+    "replies": 573,
+    "quotes": 67
+   }
+  },
+  {
+   "id": "2126045116624216127",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T20:07:10.000Z",
+   "lang": "en",
+   "conversation_id": "2126045116624216127",
+   "url": "https://x.com/elonmusk/status/2126045116624216127",
+   "kind": "post",
+   "text": "❤️❤️ Happy Thanksgiving! ❤️❤️",
+   "urls": [],
+   "metrics": {
+    "likes": 147403,
+    "reposts": 9163,
+    "replies": 10312,
+    "quotes": 809
+   }
+  },
+  {
+   "id": "2126036921734553740",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T19:34:36.000Z",
+   "lang": "en",
+   "conversation_id": "2125779541952246039",
+   "url": "https://x.com/elonmusk/status/2126036921734553740",
+   "reply_to": {
+    "id": "2125779541952246039",
+    "username": "karpathy"
+   },
+   "kind": "reply",
+   "text": "@karpathy Very impressive",
+   "urls": [],
+   "metrics": {
+    "likes": 1917,
+    "reposts": 79,
+    "replies": 165,
+    "quotes": 8
+   }
+  },
+  {
+   "id": "2126035157308055882",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T19:27:35.000Z",
+   "lang": "en",
+   "conversation_id": "2126035157308055882",
+   "url": "https://x.com/elonmusk/status/2126035157308055882",
+   "kind": "repost",
+   "text": "JUST IN: ~70% of signers on the petition against SpaceX's data center in Arizona's Cochise County don't even live there, according to Supervisor Kathleen Gomez\n\n\"I went on to that. There was one where you just signed your name. You didn't even have to say your address or where you're from. Then there was another one by change[.]org, and there's at least 60% of those people are not from Cochise County.\"\n\n\"I have a real problem with people outside of our county trying to tell us what we should do and what we shouldn't do. My family goes back over since the eighteen eighties. I do not wanna ruin Cochise County. I do not wanna make it worse. In fact, that would be something that would horrify me.\"\n\n\"So, you know, the people at Cochise County, we're smart people. We know what we're doing. We know what we want for our vision, and we pass a comprehensive plan that's really thorough on everything. I would say to people, if you had the time like I did and went and checked each one of those signatures, you're gonna see that so many are not from Cochise County, like, at least 60% to even 70.\"\n\n\"So to me, I'm talking to the people on the street. I'm talking to the organizations that I meet, and that's where I'm gonna make my decision from what I hear from the people.\"",
+   "urls": [],
+   "metrics": {
+    "likes": 2469,
+    "reposts": 402,
+    "replies": 154,
+    "quotes": 20
+   },
+   "ref": {
+    "id": "2125685662188011558",
+    "author_id": "2066250685512110080",
+    "username": "firesidealpha",
+    "name": "Fireside Alpha",
+    "created_at": "2026-11-25T20:18:49.000Z",
+    "conversation_id": "2125685662188011558",
+    "quote": {
+     "id": "2125670459824099552",
+     "unavailable": true,
+     "username": "firesidealpha"
+    }
+   }
+  },
+  {
+   "id": "2126032667640533171",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T19:17:42.000Z",
+   "lang": "und",
+   "conversation_id": "2125634964180156479",
+   "url": "https://x.com/elonmusk/status/2126032667640533171",
+   "reply_to": {
+    "id": "2125634964180156479",
+    "username": "anabology"
+   },
+   "kind": "reply",
+   "text": "@anabology Yes",
+   "urls": [],
+   "metrics": {
+    "likes": 5045,
+    "reposts": 232,
+    "replies": 418,
+    "quotes": 50
+   }
+  },
+  {
+   "id": "2126032581397516487",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T19:17:21.000Z",
+   "lang": "en",
+   "conversation_id": "2126032581397516487",
+   "url": "https://x.com/elonmusk/status/2126032581397516487",
+   "kind": "repost",
+   "text": "Half of the English settlers who arrived on the Mayflower were dead after the first winter…\n\nThe first harvest in 1621 gave the 53 survivors a reason to gather, celebrate and be thankful. Eventually, a few wooded colonies would become the most powerful nation in history.",
+   "urls": [],
+   "metrics": {
+    "likes": 7483,
+    "reposts": 995,
+    "replies": 219,
+    "quotes": 51
+   },
+   "ref": {
+    "id": "2126018532060061963",
+    "author_id": "437179266",
+    "username": "Geiger_Capital",
+    "name": "Geiger Capital",
+    "created_at": "2026-11-26T18:21:32.000Z",
+    "conversation_id": "2126018532060061963"
+   }
+  },
+  {
+   "id": "2126032496315777161",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T19:17:01.000Z",
+   "lang": "en",
+   "conversation_id": "2126032496315777161",
+   "url": "https://x.com/elonmusk/status/2126032496315777161",
+   "kind": "repost",
+   "text": "Teams encapsulated the Cygnus XL spacecraft earlier this week ahead of Falcon 9’s launch of @northropgrumman's commercial resupply mission to the @Space_Station. Liftoff is targeted for 10:47 a.m. ET on Sunday, November 29 → https://spacex.com/launches/ng25",
+   "urls": [
+    "https://spacex.com/launches/ng25"
+   ],
+   "metrics": {
+    "likes": 7934,
+    "reposts": 870,
+    "replies": 294,
+    "quotes": 71
+   },
+   "ref": {
+    "id": "2125649126398591003",
+    "author_id": "34743251",
+    "username": "SpaceX",
+    "name": "SpaceX",
+    "created_at": "2026-11-25T17:53:39.000Z",
+    "conversation_id": "2125649126398591003"
+   }
+  },
+  {
+   "id": "2126030559457722811",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T19:09:19.000Z",
+   "lang": "en",
+   "conversation_id": "2125937618432991671",
+   "url": "https://x.com/elonmusk/status/2126030559457722811",
+   "reply_to": {
+    "id": "2125937618432991671",
+    "username": "TalkativeTri"
+   },
+   "kind": "reply",
+   "text": "@TalkativeTri Cool",
+   "urls": [],
+   "metrics": {
+    "likes": 1214,
+    "reposts": 60,
+    "replies": 167,
+    "quotes": 8
+   }
+  },
+  {
+   "id": "2125877472361140302",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T09:01:00.000Z",
+   "lang": "en",
+   "conversation_id": "2125877472361140302",
+   "url": "https://x.com/elonmusk/status/2125877472361140302",
+   "kind": "repost",
+   "text": "Fraudsters always complain the loudest when they’re exposed. Just look at what happened with USAID\n\n“One lesson I remember from PayPal days: Do you know who complained the loudest? Fraudsters. There would be immediate over the top indignation from the fraudsters. We're going to see outrageous stuff from fraudsters as we continue cracking down, they're the loudest”\n\n-Elon Musk",
+   "urls": [],
+   "metrics": {
+    "likes": 4555,
+    "reposts": 783,
+    "replies": 292,
+    "quotes": 48
+   },
+   "ref": {
+    "id": "2125871653976518874",
+    "author_id": "1614879930885574656",
+    "username": "iam_smx",
+    "name": "SMX 🇺🇸",
+    "created_at": "2026-11-26T08:37:53.000Z",
+    "conversation_id": "2125871653976518874"
+   }
+  },
+  {
+   "id": "2125877299849425282",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T09:00:19.000Z",
+   "lang": "en",
+   "conversation_id": "2125877299849425282",
+   "url": "https://x.com/elonmusk/status/2125877299849425282",
+   "kind": "repost",
+   "text": "grok @bot 1.3.0 is rolling out!\n\nsmarter slack bots, restock alerts and mobile buy now, automatic teams setup with org controls, a sideways x drafts carousel, the ashby connector, and bcc on email drafts\n\nand a lot more exciting things shipping soon!\n\nhttps://x.ai/changelog/bot",
+   "urls": [
+    "https://x.ai/changelog/bot"
+   ],
+   "metrics": {
+    "likes": 2250,
+    "reposts": 169,
+    "replies": 156,
+    "quotes": 32
+   },
+   "ref": {
+    "id": "2125675144173556124",
+    "author_id": "505835394",
+    "username": "ericzakariasson",
+    "name": "eric zakariasson",
+    "created_at": "2026-11-25T19:37:02.000Z",
+    "conversation_id": "2125675144173556124"
+   }
+  },
+  {
+   "id": "2125877031816630636",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:59:15.000Z",
+   "lang": "en",
+   "conversation_id": "2125877031816630636",
+   "url": "https://x.com/elonmusk/status/2125877031816630636",
+   "kind": "quote",
+   "text": "Boring Co has built a lot of tunnels under Vegas",
+   "urls": [],
+   "metrics": {
+    "likes": 22373,
+    "reposts": 2138,
+    "replies": 1742,
+    "quotes": 178
+   },
+   "ref": {
+    "id": "2125742541253300563",
+    "author_id": "859816394556284929",
+    "username": "boringcompany",
+    "name": "The Boring Company",
+    "created_at": "2026-11-26T00:04:50.000Z",
+    "text": "2.3 miles through Las Vegas, starting at the Westgate Resort and ending across from UNLV’s Thomas & Mack Center (and then to Airport). When these twin tunnels open to the public, 14 additional Loop stations open too.",
+    "conversation_id": "2125742541253300563"
+   }
+  },
+  {
+   "id": "2125876818515497340",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:58:25.000Z",
+   "lang": "en",
+   "conversation_id": "2125876818515497340",
+   "url": "https://x.com/elonmusk/status/2125876818515497340",
+   "kind": "repost",
+   "text": "Here’s the Trump account sign-up page.\n\nhttps://trumpaccounts.gov",
+   "urls": [
+    "https://trumpaccounts.gov"
+   ],
+   "metrics": {
+    "likes": 1293,
+    "reposts": 235,
+    "replies": 63,
+    "quotes": 10
+   },
+   "ref": {
+    "id": "2125750151256092942",
+    "author_id": "9926812",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-26T00:35:05.000Z",
+    "reply_to": {
+     "id": "2125700750902997375"
+    },
+    "conversation_id": "2125700750902997375"
+   }
+  },
+  {
+   "id": "2125875847466741996",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:54:33.000Z",
+   "lang": "en",
+   "conversation_id": "2125864501019070680",
+   "url": "https://x.com/elonmusk/status/2125875847466741996",
+   "reply_to": {
+    "id": "2125867611124912355",
+    "username": "kcoleman"
+   },
+   "kind": "reply",
+   "text": "@kcoleman Nice work, Keith! 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 1816,
+    "reposts": 45,
+    "replies": 137,
+    "quotes": 11
+   }
+  },
+  {
+   "id": "2125872083393446092",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:39:36.000Z",
+   "lang": "en",
+   "conversation_id": "2125793034390405130",
+   "url": "https://x.com/elonmusk/status/2125872083393446092",
+   "reply_to": {
+    "id": "2125793034390405130",
+    "username": "TSLAFanMtl"
+   },
+   "kind": "reply",
+   "text": "@TSLAFanMtl No advantage is insurmountable, but, at least for now, SpaceX is beating the rest of the world by an order of magnitude and that lead appears to be widening",
+   "urls": [],
+   "metrics": {
+    "likes": 8096,
+    "reposts": 440,
+    "replies": 338,
+    "quotes": 42
+   }
+  },
+  {
+   "id": "2125871084692005227",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:35:38.000Z",
+   "lang": "en",
+   "conversation_id": "2125871084692005227",
+   "url": "https://x.com/elonmusk/status/2125871084692005227",
+   "kind": "repost",
+   "text": "Never forget that this is the real reason they’re mad at Trump, Elon Musk and DOGE for shutting down USAID.",
+   "urls": [],
+   "metrics": {
+    "likes": 6948,
+    "reposts": 1811,
+    "replies": 166,
+    "quotes": 38
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_PYMAXwAATtzx.jpg",
+     "width": 3464,
+     "height": 3464
+    }
+   ],
+   "ref": {
+    "id": "2125645570177986838",
+    "author_id": "534023",
+    "username": "alx",
+    "name": "ALX 🇺🇸",
+    "created_at": "2026-11-25T17:39:31.000Z",
+    "conversation_id": "2125645570177986838"
+   }
+  },
+  {
+   "id": "2125870759243620650",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:34:20.000Z",
+   "lang": "en",
+   "conversation_id": "2125749668889944432",
+   "url": "https://x.com/elonmusk/status/2125870759243620650",
+   "reply_to": {
+    "id": "2125749668889944432",
+    "username": "LibertyValkyrie"
+   },
+   "kind": "reply",
+   "text": "@LibertyValkyrie We will try to get the foster kids shares anyway",
+   "urls": [],
+   "metrics": {
+    "likes": 19958,
+    "reposts": 1308,
+    "replies": 730,
+    "quotes": 94
+   }
+  },
+  {
+   "id": "2125870266404516343",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:32:22.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125870266404516343",
+   "reply_to": {
+    "id": "2125696678984667553",
+    "username": "RapidResponse47"
+   },
+   "kind": "reply",
+   "text": "@RapidResponse47 @SpaceX 🇺🇸🇺🇸",
+   "urls": [],
+   "metrics": {
+    "likes": 6107,
+    "reposts": 201,
+    "replies": 271,
+    "quotes": 13
+   },
+   "partial": true
+  },
+  {
+   "id": "2125870221789368757",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:32:12.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125870221789368757",
+   "kind": "repost",
+   "text": ".@SpaceX, @elonmusk pledge to donate a share each to active Trump Accounts\nhttps://t.co/KmpDcTOXmP",
+   "urls": [],
+   "metrics": {
+    "likes": 6110,
+    "reposts": 649,
+    "replies": 175,
+    "quotes": 30
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125696678984667553",
+    "author_id": "1881451105454002176",
+    "username": "RapidResponse47",
+    "name": "Rapid Response 47",
+    "created_at": "2026-11-25T21:02:36.000Z"
+   }
+  },
+  {
+   "id": "2125870112058294379",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:31:46.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125870112058294379",
+   "kind": "repost",
+   "text": "Elon Musk quickly impressed Franz von Holzhausen, persuading him to join Tesla and leave behind a successful career at Mazda. Franz recalls: \"For somebody who's going to put rockets into space, car is actually not that hard, and his vision for the car and his sustainable https://t.co/KOw229VcIp",
+   "urls": [],
+   "metrics": {
+    "likes": 2086,
+    "reposts": 231,
+    "replies": 79,
+    "quotes": 16
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125594880760058347",
+    "author_id": "959471389282578432",
+    "username": "EvaFox",
+    "name": "Eva Fo𝕏 🦊 Claudius Nero's Legion",
+    "created_at": "2026-11-25T14:18:05.000Z"
+   }
+  },
+  {
+   "id": "2125868709835362312",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:26:11.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125868709835362312",
+   "kind": "repost",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is",
+   "urls": [],
+   "metrics": {
+    "likes": 1463,
+    "reposts": 153,
+    "replies": 1702,
+    "quotes": 36
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125747621331611811",
+    "author_id": "1276636970",
+    "username": "Baconbrix",
+    "name": "Evan Bacon",
+    "created_at": "2026-11-26T00:25:02.000Z"
+   }
+  },
+  {
+   "id": "2125867631546712066",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:21:54.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125867631546712066",
+   "kind": "quote",
+   "text": "Teslas have superhuman vision https://t.co/6UigftjZTu",
+   "urls": [],
+   "metrics": {
+    "likes": 28297,
+    "reposts": 3034,
+    "replies": 1653,
+    "quotes": 209
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125662404541337779",
+    "author_id": "49745515",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-25T18:46:24.000Z",
+    "text": "🚨 FSD v15 in heavy rain: your eyes see chaos. The AI sees everything.\nWhile the windshield is flooded with water, glare, and blur, FSD v15’s visualization stays locked, perfectly tracking every vehicle and the blue path ahead. Even with the ‘Camera Visibility Limited’ warning, https://t.co/T9ardcpt1F"
+   }
+  },
+  {
+   "id": "2125867325572120668",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:20:41.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125867325572120668",
+   "kind": "repost",
+   "text": "Elon is a lovely dad. He plays with them. He loves seeing his kids and his older kids come visit him and they're so nice. They actually visit me too and stay with me. When he's with his kids, no one else exists, he just plays with them. ❤️\n\n— Maye Musk https://t.co/st3BcM0t51",
+   "urls": [],
+   "metrics": {
+    "likes": 3555,
+    "reposts": 456,
+    "replies": 210,
+    "quotes": 20
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125861926882381859",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-26T07:59:14.000Z"
+   }
+  },
+  {
+   "id": "2125867208358105441",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:20:13.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125867208358105441",
+   "reply_to": {
+    "id": "2125832205301878841",
+    "username": "elonmusk"
+   },
+   "kind": "reply",
+   "text": "If SpaceX succeeds in making life multiplanetary and harnessing even a millionth of the Sun’s energy, it will be worth about a million times the current global economy.\n\nThese are obviously absurdly difficult goals, but there is a path to achieving them.\n\nI recommend holding on",
+   "urls": [],
+   "metrics": {
+    "likes": 75578,
+    "reposts": 4324,
+    "replies": 2470,
+    "quotes": 624
+   },
+   "partial": true
+  },
+  {
+   "id": "2125865347802956231",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:12:50.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125865347802956231",
+   "reply_to": {
+    "id": "2125860363144925645",
+    "username": "2by32"
+   },
+   "kind": "reply",
+   "text": "@2by32 SpaceX is not yet even on the podium with a bronze medal when it comes to digital superintelligence. This makes me sad. 😢",
+   "urls": [],
+   "metrics": {
+    "likes": 5255,
+    "reposts": 207,
+    "replies": 691,
+    "quotes": 98
+   },
+   "partial": true
+  },
+  {
+   "id": "2125864677649657884",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:10:10.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125864677649657884",
+   "kind": "repost",
+   "text": "If you haven't tried Grok @Bot yet, ask it to find a Black Friday deal on something you were going to buy anyway. See how it does.\n\nBot checks prices across every site and applies promo codes automatically. Very useful for brainstorming gift ideas too. https://t.co/mXqLD07JRi",
+   "urls": [],
+   "metrics": {
+    "likes": 827,
+    "reposts": 111,
+    "replies": 49,
+    "quotes": 4
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125715363367387522",
+    "author_id": "1325862778603769856",
+    "username": "JasonBud",
+    "name": "Jason Ginsberg",
+    "created_at": "2026-11-25T22:16:51.000Z",
+    "quote": {
+     "id": "2125711676003766718",
+     "unavailable": true
+    }
+   }
+  },
+  {
+   "id": "2125864501019070680",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T08:09:28.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125864501019070680",
+   "kind": "quote",
+   "text": "Community Notes just saved a lot of guys from thinking their wiener is too small https://t.co/g38XSNeQxM",
+   "urls": [],
+   "metrics": {
+    "likes": 45282,
+    "reposts": 2594,
+    "replies": 4234,
+    "quotes": 861
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125728474015096866",
+    "author_id": "1528943647185678336",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-25T23:08:56.000Z",
+    "text": "Average erect size for men in America is 5.6 inches, per Daily Mail."
+   }
+  },
+  {
+   "id": "2125858334947303749",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T07:44:58.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125858334947303749",
+   "kind": "repost",
+   "text": "I made The USAID Files into a searchable database. You're welcome.\n\n1. CENSORSHIP: A 2022 USAID guidance paper says USAID programs, such as in Georgia, share lists of accounts with Meta for deeper investigation and removal or de-promotion.\nhttps://t.co/PoNUecILYf",
+   "urls": [],
+   "metrics": {
+    "likes": 10659,
+    "reposts": 3342,
+    "replies": 230,
+    "quotes": 166
+   },
+   "partial": true,
+   "ref": {
+    "id": "2125805681265782991",
+    "author_id": "14116588",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-26T04:15:44.000Z"
+   }
+  },
+  {
+   "id": "2125858270296285463",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T07:44:42.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125858270296285463",
+   "kind": "post",
+   "text": "Hard to believe this finally happened https://t.co/427CZqEEZY",
+   "urls": [],
+   "metrics": {
+    "likes": 82922,
+    "reposts": 6460,
+    "replies": 4730,
+    "quotes": 633
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYCQ0_WWIAA08im.jpg",
+     "width": 1366,
+     "height": 2048
+    }
+   ]
+  },
+  {
+   "id": "2125853914151207097",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T07:27:24.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125853914151207097",
+   "reply_to": {
+    "id": "2116732487833411999",
+    "username": "telsopian"
+   },
+   "kind": "reply",
+   "text": "@telsopian Sooo good",
+   "urls": [],
+   "metrics": {
+    "likes": 1083,
+    "reposts": 78,
+    "replies": 142,
+    "quotes": 20
+   },
+   "partial": true
+  },
+  {
+   "id": "2125851320997605562",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T07:17:05.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125851320997605562",
+   "reply_to": {
+    "id": "2125833507444322557",
+    "username": "vespro_exe"
+   },
+   "kind": "reply",
+   "text": "@vespro_exe @bayeslord 😂\n\nRobots and SI will solve healthcare",
+   "urls": [],
+   "metrics": {
+    "likes": 2599,
+    "reposts": 193,
+    "replies": 202,
+    "quotes": 37
+   },
+   "partial": true
+  },
+  {
+   "id": "2125849695377576347",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T07:10:38.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125849695377576347",
+   "reply_to": {
+    "id": "2125612473659064718",
+    "username": "MollySOShea"
+   },
+   "kind": "reply",
+   "text": "@MollySOShea @RayDalio Ray is right",
+   "urls": [],
+   "metrics": {
+    "likes": 3163,
+    "reposts": 132,
+    "replies": 262,
+    "quotes": 22
+   },
+   "partial": true
+  },
+  {
+   "id": "2125833736654852109",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T06:07:13.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125833736654852109",
+   "reply_to": {
+    "id": "2125415245170802990",
+    "username": "kukulabanze"
+   },
+   "kind": "reply",
+   "text": "@kukulabanze I agree",
+   "urls": [],
+   "metrics": {
+    "likes": 2317,
+    "reposts": 136,
+    "replies": 278,
+    "quotes": 33
+   },
+   "partial": true
+  },
+  {
+   "id": "2125832205301878841",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-26T06:01:08.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2125832205301878841",
+   "reply_to": {
+    "id": "2125797463047258119",
+    "username": "elonmusk"
+   },
+   "kind": "reply",
+   "text": "The share from SpaceX will be transferred next month.\n\nThe share directly from me will be transferred when my lockup expires in June next year.",
+   "urls": [],
+   "metrics": {
+    "likes": 61319,
+    "reposts": 2849,
+    "replies": 1663,
+    "quotes": 224
+   },
+   "partial": true
+  },
   {
    "id": "2125797463047258119",
    "author_id": "44196397",
@@ -94394,8 +95494,9 @@
   }
  ],
  "last_run": {
-  "status": "new",
-  "at": "2026-11-26T05:34:48Z",
-  "new_posts": 56
+  "status": "running",
+  "at": "2026-11-27T02:46:42Z",
+  "new_posts": 42,
+  "handle": "elonmusk"
  }
 }

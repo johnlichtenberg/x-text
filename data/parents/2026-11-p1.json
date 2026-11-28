@@ -1,6 +1,6 @@
 {
  "id": "2026-11-p1",
- "updated_at": "2026-11-28T05:51:31Z",
+ "updated_at": "2026-11-28T06:03:06Z",
  "posts": [
   {
    "id": "2126552088067092574",
@@ -827,6 +827,24 @@
     "conversation_id": "2125921791432646718"
    },
    "conversation_id": "2126084508646605030"
+  },
+  {
+   "id": "2126079686975627723",
+   "username": "cybertruck",
+   "name": "Cybertruck",
+   "created_at": "2026-11-26T22:24:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/cybertruck/status/2126079686975627723",
+   "kind": "post",
+   "text": "Thankful to be different\n\nAnd for everyone who loved me for it",
+   "urls": [],
+   "metrics": {
+    "likes": 12012,
+    "reposts": 549,
+    "replies": 670,
+    "quotes": 92
+   },
+   "conversation_id": "2126079686975627723"
   },
   {
    "id": "2126065966966583541",
@@ -12592,24 +12610,6 @@
     "username": "parker__conrad"
    },
    "conversation_id": "2123860947877916855"
-  },
-  {
-   "id": "2123876667571519947",
-   "username": "SamuelAlbanie",
-   "name": "Samuel Albanie 🇬🇧",
-   "created_at": "2026-11-20T20:30:31.000Z",
-   "lang": "en",
-   "url": "https://x.com/SamuelAlbanie/status/2123876667571519947",
-   "kind": "post",
-   "text": "has ai progress stalled?\n\ni'm personally not aware of any major breakthroughs since riemann a few hours ago",
-   "urls": [],
-   "metrics": {
-    "likes": 21918,
-    "reposts": 1210,
-    "replies": 313,
-    "quotes": 95
-   },
-   "conversation_id": "2123876667571519947"
   }
  ]
 }

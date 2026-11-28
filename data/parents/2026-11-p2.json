@@ -1,7 +1,25 @@
 {
  "id": "2026-11-p2",
- "updated_at": "2026-11-28T05:51:31Z",
+ "updated_at": "2026-11-28T06:03:06Z",
  "posts": [
+  {
+   "id": "2123876667571519947",
+   "username": "SamuelAlbanie",
+   "name": "Samuel Albanie 🇬🇧",
+   "created_at": "2026-11-20T20:30:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/SamuelAlbanie/status/2123876667571519947",
+   "kind": "post",
+   "text": "has ai progress stalled?\n\ni'm personally not aware of any major breakthroughs since riemann a few hours ago",
+   "urls": [],
+   "metrics": {
+    "likes": 21918,
+    "reposts": 1210,
+    "replies": 313,
+    "quotes": 95
+   },
+   "conversation_id": "2123876667571519947"
+  },
   {
    "id": "2123876457273540649",
    "username": "stemonte",
@@ -11131,33 +11149,6 @@
     "id": "2120379456082923823",
     "username": "mattyp"
    }
-  },
-  {
-   "id": "2120383964686729410",
-   "username": "imjustnewatai",
-   "name": "imjustnewatai",
-   "created_at": "2026-11-11T05:11:46.000Z",
-   "lang": "en",
-   "url": "https://x.com/imjustnewatai/status/2120383964686729410",
-   "kind": "post",
-   "text": "I asked fable 5.2 to invent a new musical form.\n\nFable 5.2 wrote a symphony that’s shaped like a training run.\n\nThe orchestra starts as random noise, learns the key, pulse, harmony and the melody, then plays music it was never shown.",
-   "urls": [],
-   "metrics": {
-    "likes": 9553,
-    "reposts": 828,
-    "replies": 491,
-    "quotes": 240
-   },
-   "media": [
-    {
-     "type": "video",
-     "url": "https://video.twimg.com/amplify_video/2120383334937210880/vid/avc1/1920x1080/JsmjoUR0KG5ePYKK.mp4",
-     "poster": "https://pbs.twimg.com/amplify_video_thumb/2120383334937210880/img/_7xonzAg1Ok5fJTC.jpg",
-     "width": 1920,
-     "height": 1080,
-     "duration_ms": 128800
-    }
-   ]
   }
  ]
 }

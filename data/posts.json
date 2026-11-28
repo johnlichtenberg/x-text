@@ -1,8 +1,2788 @@
 {
- "updated_at": "2026-11-27T02:46:29Z",
- "count": 2613,
+ "updated_at": "2026-11-28T05:50:48Z",
+ "count": 2711,
  "accounts": 14,
  "posts": [
+  {
+   "id": "2126552552166871085",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T05:43:32.000Z",
+   "lang": "qme",
+   "conversation_id": "2126550755008270563",
+   "url": "https://x.com/elonmusk/status/2126552552166871085",
+   "reply_to": {
+    "id": "2126552088067092574",
+    "username": "FischerKing64"
+   },
+   "kind": "reply",
+   "text": "@FischerKing64 👀",
+   "urls": [],
+   "metrics": {
+    "likes": 115,
+    "reposts": 9,
+    "replies": 46,
+    "quotes": 3
+   }
+  },
+  {
+   "id": "2126550339688227228",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T05:34:45.000Z",
+   "lang": "en",
+   "conversation_id": "2126540530494718161",
+   "url": "https://x.com/elonmusk/status/2126550339688227228",
+   "reply_to": {
+    "id": "2126540530494718161",
+    "username": "venturetwins"
+   },
+   "kind": "reply",
+   "text": "@venturetwins Ironic",
+   "urls": [],
+   "metrics": {
+    "likes": 406,
+    "reposts": 22,
+    "replies": 81,
+    "quotes": 7
+   }
+  },
+  {
+   "id": "2126548416453111953",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T05:27:06.000Z",
+   "lang": "en",
+   "conversation_id": "2126548416453111953",
+   "url": "https://x.com/elonmusk/status/2126548416453111953",
+   "kind": "repost",
+   "text": "New USAID files reveal a Soros-backed group, GDI, was teaching the Biden administration to label stories \"disinformation\" even if they were factually correct.\n\nTrue stories could be flagged as false because they were \"adversarial narratives.\"\n\nThen they blacklisted conservative outlets, cutting $200 million in ad revenue.\n\nWhat is this if not the censorship-industrial complex?",
+   "urls": [],
+   "metrics": {
+    "likes": 4450,
+    "reposts": 1821,
+    "replies": 138,
+    "quotes": 99
+   },
+   "ref": {
+    "id": "2125884769246618027",
+    "author_id": "1056957124046143495",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-26T09:30:00.000Z",
+    "conversation_id": "2125884769246618027",
+    "quote": {
+     "id": "2125650805357158545",
+     "unavailable": true,
+     "username": "BowesChay"
+    }
+   }
+  },
+  {
+   "id": "2126545857373741563",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T05:16:56.000Z",
+   "lang": "en",
+   "conversation_id": "2126545857373741563",
+   "url": "https://x.com/elonmusk/status/2126545857373741563",
+   "kind": "quote",
+   "text": "Maybe there is some merit to envy minimization",
+   "urls": [],
+   "metrics": {
+    "likes": 1663,
+    "reposts": 174,
+    "replies": 367,
+    "quotes": 29
+   },
+   "ref": {
+    "id": "2126530812254577108",
+    "author_id": "221838349",
+    "username": "austen",
+    "name": "",
+    "created_at": "2026-11-28T04:17:09.000Z",
+    "text": "It took me a while to realize that for a huge number of people the primary motivator behind “tax the rich” wasn’t receiving and spending additional money.\n\nIt was the taking of it.",
+    "conversation_id": "2126530812254577108"
+   }
+  },
+  {
+   "id": "2126542909461913897",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T05:05:13.000Z",
+   "lang": "en",
+   "conversation_id": "2126542909461913897",
+   "url": "https://x.com/elonmusk/status/2126542909461913897",
+   "kind": "repost",
+   "text": "i still think about this ngl",
+   "urls": [],
+   "metrics": {
+    "likes": 1956,
+    "reposts": 167,
+    "replies": 90,
+    "quotes": 11
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYLauLbWQAA0RCR.jpg",
+     "width": 960,
+     "height": 919
+    }
+   ],
+   "ref": {
+    "id": "2126502483275251954",
+    "author_id": "1798789277918351360",
+    "username": "alpaysh",
+    "name": "",
+    "created_at": "2026-11-28T02:24:35.000Z",
+    "conversation_id": "2126502483275251954"
+   }
+  },
+  {
+   "id": "2126539857581511160",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T04:53:05.000Z",
+   "lang": "en",
+   "conversation_id": "2126539857581511160",
+   "url": "https://x.com/elonmusk/status/2126539857581511160",
+   "kind": "post",
+   "text": "Still hard to believe that this actually happened",
+   "urls": [],
+   "metrics": {
+    "likes": 10993,
+    "reposts": 1084,
+    "replies": 1207,
+    "quotes": 166
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2126365156594647040/vid/avc1/1280x720/YcodsOFFXPo1GIzR.mp4",
+     "poster": "https://pbs.twimg.com/media/HYJd2AtXoAAa2Wq.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2126365156594647040/vid/avc1/480x270/YEJlMUySELiyAzvK.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2126365156594647040/vid/avc1/640x360/BnqHVstUH-rxBelt.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2126365156594647040/vid/avc1/1280x720/YcodsOFFXPo1GIzR.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      }
+     ],
+     "width": 2048,
+     "height": 1152,
+     "duration_ms": 94666
+    }
+   ]
+  },
+  {
+   "id": "2126538672283746709",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T04:48:23.000Z",
+   "lang": "en",
+   "conversation_id": "2126538672283746709",
+   "url": "https://x.com/elonmusk/status/2126538672283746709",
+   "kind": "repost",
+   "text": "This. ♥️",
+   "urls": [],
+   "metrics": {
+    "likes": 1649,
+    "reposts": 262,
+    "replies": 151,
+    "quotes": 21
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYL4svlacAAwmxM.jpg",
+     "width": 1123,
+     "height": 1113
+    }
+   ],
+   "ref": {
+    "id": "2126535428950122702",
+    "author_id": "1389913567671975937",
+    "username": "cb_doge",
+    "name": "DogeDesigner",
+    "created_at": "2026-11-28T04:35:30.000Z",
+    "conversation_id": "2126535428950122702"
+   }
+  },
+  {
+   "id": "2126538472508801049",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T04:47:35.000Z",
+   "lang": "en",
+   "conversation_id": "2126538472508801049",
+   "url": "https://x.com/elonmusk/status/2126538472508801049",
+   "kind": "quote",
+   "text": "You can actually do this",
+   "urls": [],
+   "metrics": {
+    "likes": 5143,
+    "reposts": 488,
+    "replies": 740,
+    "quotes": 81
+   },
+   "ref": {
+    "id": "2122474268936323325",
+    "author_id": "1149232233930264577",
+    "username": "alsahuquillo",
+    "name": "",
+    "created_at": "2026-11-16T23:37:54.000Z",
+    "text": "Cybercab & Chill 🍿",
+    "conversation_id": "2122474268936323325"
+   }
+  },
+  {
+   "id": "2126520586419552495",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T03:36:31.000Z",
+   "lang": "en",
+   "conversation_id": "2126506728380334393",
+   "url": "https://x.com/elonmusk/status/2126520586419552495",
+   "reply_to": {
+    "id": "2126506728380334393",
+    "username": "AdamLowisz"
+   },
+   "kind": "reply",
+   "text": "@AdamLowisz Good idea",
+   "urls": [],
+   "metrics": {
+    "likes": 901,
+    "reposts": 40,
+    "replies": 154,
+    "quotes": 5
+   }
+  },
+  {
+   "id": "2126517449814049083",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T03:24:03.000Z",
+   "lang": "en",
+   "conversation_id": "2126517449814049083",
+   "url": "https://x.com/elonmusk/status/2126517449814049083",
+   "kind": "repost",
+   "text": "Prosperity, education, and urbanization are the stronger drivers. Global data show low-income countries averaging ~4.5 children per woman versus ~1.5 in high-income ones. Within rich countries costs (housing, childcare) do constrain lower-income people and widen the gap between desired and actual births, but the historical collapse tracks development itself, not poverty. Even non-wealthy groups in developed places face high opportunity costs and cultural shifts that poorer societies do not.",
+   "urls": [],
+   "metrics": {
+    "likes": 818,
+    "reposts": 103,
+    "replies": 99,
+    "quotes": 12
+   },
+   "ref": {
+    "id": "2126507105800610066",
+    "author_id": "1720665183188922368",
+    "username": "grok",
+    "name": "Grok",
+    "created_at": "2026-11-28T02:42:57.000Z",
+    "reply_to": {
+     "id": "2126506924929622207"
+    },
+    "conversation_id": "2126497471383642372"
+   }
+  },
+  {
+   "id": "2126515518274404508",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T03:16:22.000Z",
+   "lang": "en",
+   "conversation_id": "2126328557886382259",
+   "url": "https://x.com/elonmusk/status/2126515518274404508",
+   "reply_to": {
+    "id": "2126328557886382259",
+    "username": "STFUnion"
+   },
+   "kind": "reply",
+   "text": "@STFUnion Maybe there are some problematic people somewhere at Anthropic, but the ones I know are not evil",
+   "urls": [],
+   "metrics": {
+    "likes": 3288,
+    "reposts": 130,
+    "replies": 455,
+    "quotes": 34
+   }
+  },
+  {
+   "id": "2126514569174802803",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T03:12:36.000Z",
+   "lang": "en",
+   "conversation_id": "2126514029854351681",
+   "url": "https://x.com/elonmusk/status/2126514569174802803",
+   "reply_to": {
+    "id": "2126514029854351681",
+    "username": "SawyerMerritt"
+   },
+   "kind": "reply",
+   "text": "@SawyerMerritt Yeah",
+   "urls": [],
+   "metrics": {
+    "likes": 2210,
+    "reposts": 76,
+    "replies": 158,
+    "quotes": 13
+   }
+  },
+  {
+   "id": "2126513022080631259",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T03:06:27.000Z",
+   "lang": "en",
+   "conversation_id": "2126499545299493274",
+   "url": "https://x.com/elonmusk/status/2126513022080631259",
+   "reply_to": {
+    "id": "2126499545299493274",
+    "username": "BLKMDL3"
+   },
+   "kind": "reply",
+   "text": "@BLKMDL3 The ability to point at a spot on the screen in reality view and have the car go there is coming out in a point release in a week or two",
+   "urls": [],
+   "metrics": {
+    "likes": 7789,
+    "reposts": 455,
+    "replies": 460,
+    "quotes": 135
+   }
+  },
+  {
+   "id": "2126505770988548516",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T02:37:39.000Z",
+   "lang": "art",
+   "conversation_id": "2126505770988548516",
+   "url": "https://x.com/elonmusk/status/2126505770988548516",
+   "kind": "quote",
+   "text": "❤️",
+   "urls": [],
+   "metrics": {
+    "likes": 15843,
+    "reposts": 868,
+    "replies": 947,
+    "quotes": 99
+   },
+   "ref": {
+    "id": "2126494199080210450",
+    "author_id": "15227791",
+    "username": "williamshatner",
+    "name": "",
+    "created_at": "2026-11-28T01:51:40.000Z",
+    "text": "I hope everyone had a wonderful day.",
+    "conversation_id": "2126494199080210450"
+   }
+  },
+  {
+   "id": "2126504475208864154",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T02:32:30.000Z",
+   "lang": "en",
+   "conversation_id": "2126444798361919669",
+   "url": "https://x.com/elonmusk/status/2126504475208864154",
+   "reply_to": {
+    "id": "2126444798361919669",
+    "username": "billykyle"
+   },
+   "kind": "reply",
+   "text": "@billykyle You aren’t being offered per token pricing?",
+   "urls": [],
+   "metrics": {
+    "likes": 1645,
+    "reposts": 52,
+    "replies": 231,
+    "quotes": 14
+   }
+  },
+  {
+   "id": "2126501573765571033",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T02:20:58.000Z",
+   "lang": "en",
+   "conversation_id": "2126476667509977096",
+   "url": "https://x.com/elonmusk/status/2126501573765571033",
+   "reply_to": {
+    "id": "2126476667509977096",
+    "username": "MollySOShea"
+   },
+   "kind": "reply",
+   "text": "@MollySOShea @eladgil Nice of him to say that",
+   "urls": [],
+   "metrics": {
+    "likes": 2553,
+    "reposts": 87,
+    "replies": 177,
+    "quotes": 7
+   }
+  },
+  {
+   "id": "2126501260845326406",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T02:19:43.000Z",
+   "lang": "en",
+   "conversation_id": "2126501260845326406",
+   "url": "https://x.com/elonmusk/status/2126501260845326406",
+   "kind": "repost",
+   "text": "can confirm. our yc startup's marketing literally runs on grok bot.\n\n3 ultra accounts, rotated all week. it helped us:\n- hit 1.4m views on our launch video in 72hrs\n- cross $70k on kickstarter in 7 days\n- run meta ads & create 800+ ads\n- handle a 1,000+ kickstarter waitlist\n- find our first 10 customers on X",
+   "urls": [],
+   "metrics": {
+    "likes": 1855,
+    "reposts": 133,
+    "replies": 93,
+    "quotes": 6
+   },
+   "ref": {
+    "id": "2126451146709729301",
+    "author_id": "1779716041905713152",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-27T23:00:35.000Z",
+    "conversation_id": "2126451146709729301",
+    "quote": {
+     "id": "2126428324012446090",
+     "unavailable": true,
+     "username": "elonmusk"
+    }
+   }
+  },
+  {
+   "id": "2126495122414031100",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T01:55:20.000Z",
+   "lang": "en",
+   "conversation_id": "2126495122414031100",
+   "url": "https://x.com/elonmusk/status/2126495122414031100",
+   "kind": "repost",
+   "text": "Even in modern times, prosperity generally is correlated with lower fertility rate\n\nThis is a very bad thing for civilization",
+   "urls": [],
+   "metrics": {
+    "likes": 1375,
+    "reposts": 198,
+    "replies": 197,
+    "quotes": 33
+   },
+   "ref": {
+    "id": "2126491123036434603",
+    "author_id": "1317327383628705793",
+    "username": "ArthurMacwaters",
+    "name": "Arthur MacWaters",
+    "created_at": "2026-11-28T01:39:26.000Z",
+    "conversation_id": "2126491123036434603",
+    "quote": {
+     "id": "2126485536177045967",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-11-28T01:17:14.000Z",
+     "text": "Birth rate collapse in civilizations throughout history occurs whenever there is a long period of prosperity and no serious external threats.\n\nRome had a very high birth rate during existential wars with Carthage and then very low after they had destroyed all external threats and had several generations of prosperity.",
+     "conversation_id": "2126485536177045967"
+    }
+   }
+  },
+  {
+   "id": "2126492326394544143",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T01:44:13.000Z",
+   "lang": "en",
+   "conversation_id": "2126492326394544143",
+   "url": "https://x.com/elonmusk/status/2126492326394544143",
+   "kind": "repost",
+   "text": "At the 1976 Summer Olympics in Montreal, reporters asked East German swimming coaches why their teenage female athletes suddenly had deep baritone voices and massive, heavily muscled shoulders.\n\nThe coaches laughed. They told the press they were in Montreal to swim, not to sing.\n\nNewspapers printed the joke and moved on. When an American swimmer pointed out the obvious, that something in the pool wasn't right, sportswriters across the United States turned on her instead.\n\nHer name was Shirley Babashoff.\n\nShe was nineteen years old, from Fountain Valley, California, and she had spent more than half her life preparing for that pool. Since the age of eight, she had trained under coach Mark Schubert at the Mission Viejo Nadadores club, waking up in the dark to swim ten thousand meters a day before and after high school.\n\nAt the 1972 Munich Games, she had won Olympic gold at fifteen. By 1976, holding multiple national records, she arrived in Montreal as the anchor of the American women's team.\n\nOnce the races began, the East German women dismantled every expectation in the aquatic center. They won eleven of the thirteen swimming gold medals and shattered world records in nearly every event.\n\nShirley swam the races of her life. She broke her own American records and walked away with four silver medals, posting times that would have guaranteed gold in almost any other era.\n\nThe American press expected her to smile on the podium and graciously congratulate the swimmers who beat her.\n\nShirley refused to play along. She stated plainly what everyone in the building could see: her competitors had developed deep voices and physiques unlike anything ever seen in women's swimming.\n\nShe wasn't media-trained, and she didn't hide her frustration when reporters pushed leading questions. She gave blunt answers and flatly refused to fake a smile for the cameras when she felt cheated on the world stage.\n\nAt the time, the International Olympic Committee had no reliable test to detect anabolic steroids, and Cold War politics prioritized keeping up the appearance of fair play. The United States Olympic Committee offered Shirley zero public defense.\n\nAmerican sportswriters found it far easier to attack an outspoken nineteen-year-old than to investigate an international sports machine. Columns across the country dubbed her \"Surly Shirley,\" branding her a bitter runner-up and an embarrassment to American sportsmanship.\n\nOn the final day of the swimming events in Montreal, Shirley stepped onto the starting blocks for the 4×100-meter freestyle relay.\n\nHer teammates, Kim Peyton, Wendy Boglioli, and Jill Sterkel, kept the race tight. When Shirley dove in for the anchor leg, she was swimming head-to-head against Kornelia Ender, the East German star who had already claimed four gold medals.\n\nShirley swam her leg in 55.48 seconds. The American women hit the wall in 3:44.82, beating East Germany by less than a second to win the gold medal.\n\nIt was the only women's swimming race the East Germans lost in the entire 1976 Olympics.\n\nEven that victory couldn't shake the label the press had pinned on her. Shirley retired shortly after Montreal at nineteen years old, remembered by much of the public simply as the swimmer who complained.\n\nThen, in 1989, the Berlin Wall fell.\n\nIn the early 1990s, the newly unified German government opened the archives of the Stasi, East Germany's secret police. Inside those files was a classified government directive called State Plan 14.25, a state-sponsored doping program engineered to prove communist superiority through Olympic medals.\n\nThe records laid out the exact milligrams of synthetic testosterone given to teenage girls. Doctors had handed thirteen- and fourteen-year-old swimmers little blue pills in locker rooms and at training tables, telling them they were vitamins. The pills were Oral-Turinabol, a potent anabolic steroid, administered in doses higher than those given to adult male weightlifters.\n\nIn the late 1990s, the doctors, coaches, and officials behind the program were put on trial in Berlin. Former East German athletes testified in court about failing livers, heart conditions, and severe birth defects in their children, victims of their own government.\n\nEvery allegation Shirley Babashoff had made in 1976 was proven as documented fact.\n\nStill, the International Olympic Committee never changed the official record books, and the medals were never redistributed. Shirley went home to California, where she spent more than thirty years delivering mail for the United States Postal Service.\nThe 1976 times still stand.\n\nShe was asked to lose gracefully to a lie, and she chose to tell the truth even when her own country called her bitter for it. Why is it so often easier for people to punish the person pointing out an obvious unfairness than to confront the system behind it?",
+   "urls": [],
+   "metrics": {
+    "likes": 11913,
+    "reposts": 2190,
+    "replies": 417,
+    "quotes": 124
+   },
+   "ref": {
+    "id": "2126383507437998386",
+    "author_id": "238265224",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-27T18:31:49.000Z",
+    "conversation_id": "2126383507437998386"
+   }
+  },
+  {
+   "id": "2126491449722302494",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T01:40:44.000Z",
+   "lang": "ca",
+   "conversation_id": "2126491449722302494",
+   "url": "https://x.com/elonmusk/status/2126491449722302494",
+   "kind": "quote",
+   "text": "Super intelligent AI eliminates any company’s software advantage",
+   "urls": [],
+   "metrics": {
+    "likes": 6193,
+    "reposts": 695,
+    "replies": 811,
+    "quotes": 145
+   },
+   "ref": {
+    "id": "2126443877871517788",
+    "author_id": "1745106082790318080",
+    "username": "SemiAnalysis_",
+    "name": "SemiAnalysis",
+    "created_at": "2026-11-27T22:31:42.000Z",
+    "text": "ALERT🚨: On Dwarkesh’s (cousin) pod, Jensen said that TPU and Trainium wouldn't come to the industry-standard InferenceX benchmark, implying that their perf per $ wasn't good.\n\nThis week, both came to InferenceX, and Google & Amazon have demonstrated 1.5–2.5x better perf per $ at release compared to equivalent NVIDIA GPUs. (1/2)🧵",
+    "conversation_id": "2126443877871517788"
+   }
+  },
+  {
+   "id": "2126490784296034466",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T01:38:05.000Z",
+   "lang": "qst",
+   "conversation_id": "2126490784296034466",
+   "url": "https://x.com/elonmusk/status/2126490784296034466",
+   "kind": "quote",
+   "text": "Yes",
+   "urls": [],
+   "metrics": {
+    "likes": 24583,
+    "reposts": 2700,
+    "replies": 1507,
+    "quotes": 293
+   },
+   "ref": {
+    "id": "2126442118940155936",
+    "author_id": "938486841367498758",
+    "username": "meanhash",
+    "name": "",
+    "created_at": "2026-11-27T22:24:43.000Z",
+    "text": "This is actually bonkers.\n\nAre we in the singularity?",
+    "conversation_id": "2126442118940155936"
+   }
+  },
+  {
+   "id": "2126489832977473981",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T01:34:19.000Z",
+   "lang": "qst",
+   "conversation_id": "2126489832977473981",
+   "url": "https://x.com/elonmusk/status/2126489832977473981",
+   "kind": "quote",
+   "text": "Yup",
+   "urls": [],
+   "metrics": {
+    "likes": 21159,
+    "reposts": 2712,
+    "replies": 1058,
+    "quotes": 114
+   },
+   "ref": {
+    "id": "2126131221185106030",
+    "author_id": "1519338979",
+    "username": "sayerjigmi",
+    "name": "",
+    "created_at": "2026-11-27T01:49:19.000Z",
+    "text": "Mark Zuckerberg, on Joe Rogan:\n\nThey \"pushed us super hard to take down things that were honestly true.\"\n\n\"Anything that says that vaccines might have side effects, you basically need to take down.\"\n\nWho? \"People in the Biden Administration.\"",
+    "conversation_id": "2126131221185106030"
+   }
+  },
+  {
+   "id": "2126485536177045967",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T01:17:14.000Z",
+   "lang": "en",
+   "conversation_id": "2126485536177045967",
+   "url": "https://x.com/elonmusk/status/2126485536177045967",
+   "kind": "quote",
+   "text": "Birth rate collapse in civilizations throughout history occurs whenever there is a long period of prosperity and no serious external threats.\n\nRome had a very high birth rate during existential wars with Carthage and then very low after they had destroyed all external threats and had several generations of prosperity.",
+   "urls": [],
+   "metrics": {
+    "likes": 15210,
+    "reposts": 1652,
+    "replies": 2003,
+    "quotes": 285
+   },
+   "ref": {
+    "id": "2126360697990758452",
+    "author_id": "1575555198524788736",
+    "username": "homerpavlos",
+    "name": "",
+    "created_at": "2026-11-27T17:01:10.000Z",
+    "text": "There was a demographic problem 2,200 years ago, and Polybius wrote exactly what caused it. Read carefully:\n\n\"In our times, Greece as a whole is experiencing a lack of children and, more generally, a decrease in population. Because of this, cities have become deserted and there is a lack of productivity, even though we do not suffer from constant wars or epidemics. So if someone advised that we send priests to the gods to ask them what we should say or do to become more numerous and better inhabit our cities, he would not seem foolish, since the cause is obvious and the solution lies in our own hands.\n\nPeople have turned to arrogance, greed, and laziness, and they neither want to marry, nor, if they do marry, to raise their children. Instead, they have only one or two children with difficulty, just to leave them wealth and raise them in luxury.\n\nThis evil grew rapidly, and we did not notice. For when there are only one or two children, and one is lost to war and the other to illness, it is obvious that the cities will inevitably become deserted, just as a beehive weakens little by little, so too do cities that lack population become unable to survive.\"\n\nSource: Histories, Polybius, 36 (ΛΣΤ)\n\nThe similarities after 2,200 years.\n\nThe demographic issue has been a problem several times throughout history, and none of those times was it due to the economy, but rather a result of prosperity, comfortable living, and laziness. My Greek grandparents had children even when they had nothing to eat, and the kids grew up barefoot, eating bread with olives and feta cheese. Money was never an obstacle.\n\nNowadays, people prefer partying, doing drugs, and living for today rather than having a purpose, building a family, and leaving a positive footprint in this world. They choose the easy life. It’s sad watching people who passionately want to have kids but can’t, compared to people who don’t want kids because it would take them out of their comfort zone, because a child would stop them from going to clubs, drinking, and partying like a meaningless person.\n\n- Homer Pavlos",
+    "conversation_id": "2126360697990758452"
+   }
+  },
+  {
+   "id": "2126484365500924314",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T01:12:35.000Z",
+   "lang": "en",
+   "conversation_id": "2126484365500924314",
+   "url": "https://x.com/elonmusk/status/2126484365500924314",
+   "kind": "repost",
+   "text": "Women in Afghanistan no longer have the right to have a name.\n\nThe UN? Silent.\n\nThe media? Silent.\n\nAmnesty International? Silent.\n\nMehdi Hasan? Silent.\n\nMs. Rachel? Silent.",
+   "urls": [],
+   "metrics": {
+    "likes": 16565,
+    "reposts": 3982,
+    "replies": 434,
+    "quotes": 121
+   },
+   "ref": {
+    "id": "2126331054067765355",
+    "author_id": "1249148165112160257",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-27T15:03:23.000Z",
+    "conversation_id": "2126331054067765355"
+   }
+  },
+  {
+   "id": "2126483940340822420",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T01:10:54.000Z",
+   "lang": "en",
+   "conversation_id": "2126483940340822420",
+   "url": "https://x.com/elonmusk/status/2126483940340822420",
+   "kind": "repost",
+   "text": "Wanna Race?\n\nVegas Loop versus Surface Drive along Paradise Road in Las Vegas\n\nThird part of the “Wanna Race Trilogy”",
+   "urls": [],
+   "metrics": {
+    "likes": 2702,
+    "reposts": 333,
+    "replies": 146,
+    "quotes": 51
+   },
+   "ref": {
+    "id": "2126388429919543501",
+    "author_id": "859816394556284929",
+    "username": "boringcompany",
+    "name": "The Boring Company",
+    "created_at": "2026-11-27T18:51:22.000Z",
+    "conversation_id": "2126388429919543501"
+   }
+  },
+  {
+   "id": "2126479794263277891",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T00:54:25.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126479794263277891",
+   "kind": "repost",
+   "text": "My photo of Starship in @TIME 😍 https://t.co/JFQUKSqMPh",
+   "urls": [],
+   "metrics": {
+    "likes": 6640,
+    "reposts": 365,
+    "replies": 349,
+    "quotes": 33
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYK9v_RbQAA71AC.jpg",
+     "width": 1536,
+     "height": 2048
+    }
+   ],
+   "ref": {
+    "id": "2126470613418311899",
+    "author_id": "2492039959",
+    "username": "AJamesMcCarthy",
+    "name": "Andrew McCarthy",
+    "created_at": "2026-11-28T00:17:56.000Z"
+   }
+  },
+  {
+   "id": "2126479727066272164",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T00:54:09.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126479727066272164",
+   "kind": "quote",
+   "text": "Extremely troubling https://t.co/36CuHTvPxY",
+   "urls": [],
+   "metrics": {
+    "likes": 22735,
+    "reposts": 2502,
+    "replies": 1342,
+    "quotes": 116
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126348304875139216",
+    "author_id": "15438913",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-27T16:11:56.000Z",
+    "text": "Taliban strip Afghan women of their names replacing them with 'granny' or 'goat' in bizarre new crackdown https://t.co/bqMxsdoS3R"
+   }
+  },
+  {
+   "id": "2126479427966267820",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T00:52:58.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126479427966267820",
+   "kind": "repost",
+   "text": "Disgusting. https://t.co/fqB43ESlNo",
+   "urls": [],
+   "metrics": {
+    "likes": 6605,
+    "reposts": 550,
+    "replies": 1351,
+    "quotes": 58
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126409036530905107",
+    "author_id": "216299334",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-27T20:13:15.000Z",
+    "quote": {
+     "id": "2126348304875139216",
+     "author_id": "15438913",
+     "username": "",
+     "name": "",
+     "created_at": "2026-11-27T16:11:56.000Z",
+     "text": "Taliban strip Afghan women of their names replacing them with 'granny' or 'goat' in bizarre new crackdown https://t.co/bqMxsdoS3R"
+    }
+   }
+  },
+  {
+   "id": "2126477913898078443",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T00:46:57.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126477913898078443",
+   "kind": "repost",
+   "text": "Grok fairs quite well in \"high level understanding\" like Gemini Neon. Here's Grok's explaination of Lean's Prop/Type separation, whereas ChatGPT and Claude get lost talking about impredicativity: https://t.co/vltAMjIbag https://t.co/9EgPmnn6ii",
+   "urls": [],
+   "metrics": {
+    "likes": 900,
+    "reposts": 97,
+    "replies": 92,
+    "quotes": 5
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126473734290550814",
+    "author_id": "1686323288",
+    "username": "TimSweeneyEpic",
+    "name": "Tim Sweeney",
+    "created_at": "2026-11-28T00:30:20.000Z",
+    "quote": {
+     "id": "2125697506436858118",
+     "author_id": "1686323288",
+     "username": "TimSweeneyEpic",
+     "name": "Tim Sweeney",
+     "created_at": "2026-11-25T21:05:53.000Z",
+     "text": "Gemini Neon is far ahead of anything else publicly available for mathematical and theoretical reasoning in my experience.\n\nIt intrinsically understands the whole breath of fields I ask it about, vs others rapidly scouring the web to context-cram papers on the topics.  https://twitter.com/demishassabis/status/2125663033993437651",
+     "conversation_id": "2125697506436858118"
+    }
+   }
+  },
+  {
+   "id": "2126474787497066621",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T00:34:31.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126474787497066621",
+   "reply_to": {
+    "id": "2126470526034128998",
+    "username": "willdepue"
+   },
+   "kind": "reply",
+   "text": "@willdepue ??\n\nYou can find X posts on the Google search or Grok Bot.\n\nOur internal search function still sucks, but AI will fix it.",
+   "urls": [],
+   "metrics": {
+    "likes": 4975,
+    "reposts": 159,
+    "replies": 477,
+    "quotes": 51
+   },
+   "partial": true
+  },
+  {
+   "id": "2126473817979756593",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T00:30:40.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126473817979756593",
+   "reply_to": {
+    "id": "2126454252729946618",
+    "username": "zerohedge"
+   },
+   "kind": "reply",
+   "text": "@zerohedge Nope",
+   "urls": [],
+   "metrics": {
+    "likes": 2503,
+    "reposts": 103,
+    "replies": 170,
+    "quotes": 5
+   },
+   "partial": true
+  },
+  {
+   "id": "2126443050394435854",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T22:28:25.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126443050394435854",
+   "kind": "repost",
+   "text": "I've had Grok @Bot find the best Black Friday deals for me all day, and it's actually working really well. Already saved $445 on a few kitchen stools and $200 on a TV.\n\nHaving useful agents is really going to change the way we shop. https://t.co/eY5iAuLJar",
+   "urls": [],
+   "metrics": {
+    "likes": 1191,
+    "reposts": 118,
+    "replies": 132,
+    "quotes": 9
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126433262801502577",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2026-11-27T21:49:31.000Z"
+   }
+  },
+  {
+   "id": "2126439678043976134",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T22:15:01.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126439678043976134",
+   "kind": "repost",
+   "text": "🚨 FSD v15 Reality View in heavy rain.\nWindshield completely blurred, yet the visualization stays sharp. Cars, lanes, road markings, everything crystal clear.\nThis is what supervised autonomy looks like when weather turns bad.\nEurope has plenty of rainy days. Time to let more",
+   "urls": [],
+   "metrics": {
+    "likes": 3401,
+    "reposts": 388,
+    "replies": 195,
+    "quotes": 49
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126413760021618949",
+    "author_id": "49745515",
+    "username": "Rustavi",
+    "name": "Rustavi",
+    "created_at": "2026-11-27T20:32:01.000Z"
+   }
+  },
+  {
+   "id": "2126438463520350588",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T22:10:11.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126438463520350588",
+   "kind": "quote",
+   "text": "Give each Bot a specific job, just like people in a company https://t.co/BKIliX3HzA",
+   "urls": [],
+   "metrics": {
+    "likes": 4100,
+    "reposts": 501,
+    "replies": 743,
+    "quotes": 67
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126429518579830914",
+    "author_id": "1324183584282939392",
+    "username": "Texas_Twins_Dad",
+    "name": "Texas Twins Dad",
+    "created_at": "2026-11-27T21:34:39.000Z",
+    "text": "Here's an example of how I manage my Grok Bots like a company. I currently have more than 30 bots. https://t.co/MoqKYEQkcV https://t.co/Y279e7NZME",
+    "quote": {
+     "id": "2126413886576590925",
+     "unavailable": true
+    }
+   }
+  },
+  {
+   "id": "2126438150314631286",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T22:08:57.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126438150314631286",
+   "kind": "quote",
+   "text": "This is the way https://t.co/VlkdujMi4d",
+   "urls": [],
+   "metrics": {
+    "likes": 4048,
+    "reposts": 434,
+    "replies": 459,
+    "quotes": 23
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126414883394846988",
+    "author_id": "1385427307318464517",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-27T20:36:29.000Z",
+    "text": "Interestingly enough, I have one bot named “Grok”. It’s my “everything” bot. I noticed some ball dropping so I created more bots focusing on smaller tasks. Instantly noticed improvement. What’s important, however, are that the bots can still talk to each other. I ask “Are you https://t.co/wF4rynNfaz",
+    "quote": {
+     "id": "2126413886576590925",
+     "unavailable": true
+    }
+   }
+  },
+  {
+   "id": "2126438008748384711",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T22:08:23.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126438008748384711",
+   "kind": "quote",
+   "text": "Give Grok Bot your hardest problems https://t.co/jCbD27mE3F",
+   "urls": [],
+   "metrics": {
+    "likes": 4530,
+    "reposts": 407,
+    "replies": 660,
+    "quotes": 70
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126426739391816118",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-27T21:23:36.000Z",
+    "text": "My dad works at a steel fabrication company in Slovenia.\n\nEvery order starts as a PDF of technical drawings, and someone has to type every dimension and part table into Excel to work out how much steel to buy.\n\nEstimators often spend about an hour per drawing sheet on that."
+   }
+  },
+  {
+   "id": "2126437886501245057",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T22:07:54.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126437886501245057",
+   "kind": "repost",
+   "text": "My dad works at a steel fabrication company in Slovenia.\n\nEvery order starts as a PDF of technical drawings, and someone has to type every dimension and part table into Excel to work out how much steel to buy.\n\nEstimators often spend about an hour per drawing sheet on that.",
+   "urls": [],
+   "metrics": {
+    "likes": 2653,
+    "reposts": 161,
+    "replies": 201,
+    "quotes": 23
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126426739391816118",
+    "author_id": "1899375311680372736",
+    "username": "larsencc",
+    "name": "Larsen Cundric",
+    "created_at": "2026-11-27T21:23:36.000Z"
+   }
+  },
+  {
+   "id": "2126437499815723485",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T22:06:21.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126437499815723485",
+   "kind": "repost",
+   "text": "Thank God Grokbot can reply to hundreds of happy thanksgiving texts.",
+   "urls": [],
+   "metrics": {
+    "likes": 4977,
+    "reposts": 147,
+    "replies": 134,
+    "quotes": 15
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126048041694384455",
+    "author_id": "1917648334254170112",
+    "username": "clavicular",
+    "name": "Clavicular",
+    "created_at": "2026-11-26T20:18:47.000Z"
+   }
+  },
+  {
+   "id": "2126436004949000316",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T22:00:25.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126436004949000316",
+   "reply_to": {
+    "id": "2126048041694384455",
+    "username": "clavicular"
+   },
+   "kind": "reply",
+   "text": "@clavicular 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 1732,
+    "reposts": 55,
+    "replies": 175,
+    "quotes": 11
+   },
+   "partial": true
+  },
+  {
+   "id": "2126434039514927612",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T21:52:36.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126434039514927612",
+   "kind": "repost",
+   "text": "Elon Musk on how to get the most out of Grok Bots: organize them like a real company\n\nCreate multiple Grok Bots with specialized roles, such as coding, data analysis, financial management, expense tracking, email management, travel planning and daily operations, with a manager https://t.co/jccv3fWi7M https://t.co/hliOpaG387",
+   "urls": [],
+   "metrics": {
+    "likes": 1579,
+    "reposts": 211,
+    "replies": 111,
+    "quotes": 17
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126429392071262477",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-27T21:34:08.000Z",
+    "quote": {
+     "id": "2126413886576590925",
+     "unavailable": true
+    }
+   }
+  },
+  {
+   "id": "2126429880799686978",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T21:36:05.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126429880799686978",
+   "kind": "repost",
+   "text": "Transparency builds trust.\n\nX Head of Safety @michaelo on open, verifiable safety decisions for brands from his recent Brand & AI Safety Summit keynote. https://t.co/vYPfFI7zrQ",
+   "urls": [],
+   "metrics": {
+    "likes": 969,
+    "reposts": 130,
+    "replies": 60,
+    "quotes": 9
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126352483454992883",
+    "author_id": "121291606",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-27T16:28:32.000Z",
+    "quote": {
+     "id": "2126345925471678582",
+     "unavailable": true
+    }
+   }
+  },
+  {
+   "id": "2126429365504229400",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T21:34:02.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126429365504229400",
+   "kind": "quote",
+   "text": "Worth trying https://t.co/oqe53VZr0X",
+   "urls": [],
+   "metrics": {
+    "likes": 5456,
+    "reposts": 562,
+    "replies": 456,
+    "quotes": 34
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126380859775459471",
+    "author_id": "1857823789666492416",
+    "username": "Mahaximus_",
+    "name": "Mahax",
+    "created_at": "2026-11-27T18:21:17.000Z",
+    "text": "holy sh*t, let Grok Bot watch you work for one week, it will change your life...\n\nit finds everything that's wasting your time, then builds the bots that do it all for you.\n\nyou can save hours every week, without changing a single thing about how you work.\n\nhere's the prompt, https://t.co/CcMWdKkgQ2 https://t.co/Ob3hRdvUgX",
+    "quote": {
+     "id": "2125600407682466187",
+     "unavailable": true
+    }
+   }
+  },
+  {
+   "id": "2126428324012446090",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T21:29:54.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126428324012446090",
+   "kind": "quote",
+   "text": "The goal with Grok Bots is to enable you to build a whole company! https://t.co/rLPoReaR6R",
+   "urls": [],
+   "metrics": {
+    "likes": 8388,
+    "reposts": 874,
+    "replies": 1009,
+    "quotes": 170
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126418278838882601",
+    "author_id": "57834205",
+    "username": "congressdj",
+    "name": "DJ",
+    "created_at": "2026-11-27T20:49:59.000Z",
+    "text": "This is the biggest differentiator between another consumer friendly bot like Muse. Grok Bot feels like a team. The other feels like a servant. https://t.co/RK7CXABHc7",
+    "quote": {
+     "id": "2126413886576590925",
+     "unavailable": true
+    }
+   }
+  },
+  {
+   "id": "2126427910370185363",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T21:28:15.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126427910370185363",
+   "kind": "repost",
+   "text": "SpaceXAI engineers just dropped an 8-page PDF on making your Grok Bot limit last 3x longer\n\n8 tricks nobody uses, same bots, ZERO new plan:\n\nstep 1 → Script Watcher - a 10-line script does the checking, your bot wakes only when something changed\n\nstep 2 → Shared Cache - 1 bot https://t.co/C3pEgXTk0x https://t.co/wE9ESlJnq8",
+   "urls": [],
+   "metrics": {
+    "likes": 4405,
+    "reposts": 427,
+    "replies": 270,
+    "quotes": 40
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126068756430377238",
+    "author_id": "1833752157834686464",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-26T21:41:06.000Z",
+    "quote": {
+     "id": "2124533429123322065",
+     "unavailable": true
+    }
+   }
+  },
+  {
+   "id": "2126426934431404067",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T21:24:22.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126426934431404067",
+   "kind": "quote",
+   "text": "Major improvements land every week for Grok Bot https://t.co/DgXF6c3iQa",
+   "urls": [],
+   "metrics": {
+    "likes": 4628,
+    "reposts": 448,
+    "replies": 505,
+    "quotes": 38
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126376502212300912",
+    "author_id": "856155592578158592",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-27T18:03:58.000Z",
+    "text": "Grok Bot is actually the first autonomous AI agent that I'm still using after months.\n\nOther agents I tried in the past couldn't hold me as a user for more than a few weeks.\n\nMain things I use Grok Bot for:\n\n– tracking AI news for content ideas\n– tracking startups raising money https://t.co/GxvileJHLx",
+    "quote": {
+     "id": "2126365899410341931",
+     "unavailable": true
+    }
+   }
+  },
+  {
+   "id": "2126425664177987885",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T21:19:20.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126425664177987885",
+   "kind": "repost",
+   "text": "Another day of using @bot to its peak potential. Had my Chief look for Duos in stock and alert me when one was available nearby 🤌🏼 https://t.co/tY9k6VrbOa",
+   "urls": [],
+   "metrics": {
+    "likes": 651,
+    "reposts": 55,
+    "replies": 43,
+    "quotes": 3
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126312123655430496",
+    "author_id": "1800489641189023744",
+    "username": "aswincode",
+    "name": "Aswin",
+    "created_at": "2026-11-27T13:48:09.000Z"
+   }
+  },
+  {
+   "id": "2126425510490034668",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T21:18:43.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126425510490034668",
+   "reply_to": {
+    "id": "2126410463567110258",
+    "username": "vladtenev"
+   },
+   "kind": "reply",
+   "text": "@vladtenev @TrumpAccounts @SpaceX ❤️",
+   "urls": [],
+   "metrics": {
+    "likes": 3528,
+    "reposts": 126,
+    "replies": 246,
+    "quotes": 26
+   },
+   "partial": true
+  },
+  {
+   "id": "2126424460639313922",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T21:14:33.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126424460639313922",
+   "kind": "quote",
+   "text": "Tesla super vision https://t.co/MGGvOmR9MZ",
+   "urls": [],
+   "metrics": {
+    "likes": 8232,
+    "reposts": 846,
+    "replies": 636,
+    "quotes": 42
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126132564813570515",
+    "author_id": "481812746",
+    "username": "mikepat711",
+    "name": "Mike P",
+    "created_at": "2026-11-27T01:54:39.000Z",
+    "text": "Human driver: *fails to find road*\n\nFSD V15: lmao https://t.co/LDs0Fe9bAg"
+   }
+  },
+  {
+   "id": "2126424330095526380",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T21:14:02.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126424330095526380",
+   "reply_to": {
+    "id": "2126418667969954039",
+    "username": "BasilTheGreat"
+   },
+   "kind": "reply",
+   "text": "@BasilTheGreat Horrific",
+   "urls": [],
+   "metrics": {
+    "likes": 18313,
+    "reposts": 830,
+    "replies": 344,
+    "quotes": 25
+   },
+   "partial": true
+  },
+  {
+   "id": "2126424190475501877",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T21:13:28.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126424190475501877",
+   "kind": "quote",
+   "text": "Upgrades https://t.co/M9ICCetk9d",
+   "urls": [],
+   "metrics": {
+    "likes": 4397,
+    "reposts": 358,
+    "replies": 366,
+    "quotes": 21
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126317446097207718",
+    "author_id": "21714538",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-27T14:09:18.000Z",
+    "text": "Grok Bot team shipped in the last few days:\n\n• Flights, hotels, and rental cars bookings in chat\n• 11% more usage out of each plan\n• Up to 50% more usage for routines\n• Google Ads and Google Analytics connectors\n• Smarter Slack Bots\n• QuickBooks connector"
+   }
+  },
+  {
+   "id": "2126424139175252276",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T21:13:16.000Z",
+   "lang": "en",
+   "conversation_id": "2126317446097207718",
+   "url": "https://x.com/elonmusk/status/2126424139175252276",
+   "reply_to": {
+    "id": "2126328100007166119",
+    "username": "BrandonMcNees"
+   },
+   "kind": "reply",
+   "text": "@BrandonMcNees @benln Did we make it easier to upgrade to higher usage tiers?",
+   "urls": [],
+   "metrics": {
+    "likes": 535,
+    "reposts": 30,
+    "replies": 97,
+    "quotes": 5
+   }
+  },
+  {
+   "id": "2126423243657822534",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T21:09:42.000Z",
+   "lang": "en",
+   "conversation_id": "2126417147392114842",
+   "url": "https://x.com/elonmusk/status/2126423243657822534",
+   "reply_to": {
+    "id": "2126417147392114842",
+    "username": "farzyness"
+   },
+   "kind": "reply",
+   "text": "@farzyness Noted, will implement",
+   "urls": [],
+   "metrics": {
+    "likes": 6247,
+    "reposts": 161,
+    "replies": 371,
+    "quotes": 52
+   }
+  },
+  {
+   "id": "2126415918553002154",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T20:40:36.000Z",
+   "lang": "en",
+   "conversation_id": "2126415918553002154",
+   "url": "https://x.com/elonmusk/status/2126415918553002154",
+   "kind": "repost",
+   "text": "I am very impressed with the Grok Bot intelligence for any task. I am advising the team, and they have really exciting features planned, like playbooks.",
+   "urls": [],
+   "metrics": {
+    "likes": 1040,
+    "reposts": 104,
+    "replies": 50,
+    "quotes": 7
+   },
+   "ref": {
+    "id": "2126409945184870490",
+    "author_id": "133188015",
+    "username": "adeoressi",
+    "name": "Adeo Ressi",
+    "created_at": "2026-11-27T20:16:52.000Z",
+    "conversation_id": "2126409945184870490",
+    "quote": {
+     "id": "2126397498071670827",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-11-27T19:27:24.000Z",
+     "text": "Every model has its strengths and weaknesses. Grok @Bot aims to use whichever one does the best job for the task you give it!\n\nNeon is looking particularly promising, but Opus is also excellent in most cases. https://twitter.com/dwebbva/status/2126328113177002258",
+     "conversation_id": "2126397498071670827"
+    }
+   }
+  },
+  {
+   "id": "2126415725548228614",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T20:39:50.000Z",
+   "lang": "en",
+   "conversation_id": "2126415725548228614",
+   "url": "https://x.com/elonmusk/status/2126415725548228614",
+   "kind": "quote",
+   "text": "Yeah",
+   "urls": [],
+   "metrics": {
+    "likes": 8078,
+    "reposts": 1037,
+    "replies": 723,
+    "quotes": 67
+   },
+   "ref": {
+    "id": "2126391436631552084",
+    "author_id": "1441965051414339586",
+    "username": "ResisttheMS",
+    "name": "Resist the Mainstream",
+    "created_at": "2026-11-27T19:03:19.000Z",
+    "text": "Elon Musk: \"I lived in the Fremont and Nevada factories for three years, fixing that production line, running around like a maniac through every part of that factory.\"\n\n\"Living with the team, I slept on the floor so that the team, who was going through a hard time, could see me on the floor. They knew that I was not in some ivory tower. Whatever pain they experienced, I had it more.\"",
+    "conversation_id": "2126391436631552084"
+   }
+  },
+  {
+   "id": "2126415173141610668",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T20:37:38.000Z",
+   "lang": "en",
+   "conversation_id": "2126415173141610668",
+   "url": "https://x.com/elonmusk/status/2126415173141610668",
+   "kind": "repost",
+   "text": "By 2042 SpaceX will be operating the Starlink network, a million-satellite Starmind constellation comprising about 1/3 of global compute, will have sent manned expeditions to Mars, and will be supporting a manned base on the Moon and, quite possibly, Mars. There's every possibility of diversifying into asteroid mining, orbital refining and manufacturing, and orbital solar power. An orbital solar power array about the size of Montenegro, which could be built by disassembling a small asteroid, would double the planet's current electrical power budget. An array a mere 5x larger would double humanity's primary energy consumption.\n\nSo yes, a $16T market cap is entirely plausible.",
+   "urls": [],
+   "metrics": {
+    "likes": 2098,
+    "reposts": 190,
+    "replies": 108,
+    "quotes": 16
+   },
+   "ref": {
+    "id": "2126406477392785477",
+    "author_id": "1609651923363168258",
+    "username": "martianwyrdlord",
+    "name": "John Carter",
+    "created_at": "2026-11-27T20:03:05.000Z",
+    "conversation_id": "2126406477392785477",
+    "quote": {
+     "id": "2126140563993071826",
+     "unavailable": true,
+     "username": "BoringBiz_"
+    }
+   }
+  },
+  {
+   "id": "2126415158033658224",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T20:37:35.000Z",
+   "lang": "en",
+   "conversation_id": "2126406477392785477",
+   "url": "https://x.com/elonmusk/status/2126415158033658224",
+   "reply_to": {
+    "id": "2126406477392785477",
+    "username": "martianwyrdlord"
+   },
+   "kind": "reply",
+   "text": "@martianwyrdlord In that scenario, SpaceX market cap would be way higher",
+   "urls": [],
+   "metrics": {
+    "likes": 2910,
+    "reposts": 150,
+    "replies": 214,
+    "quotes": 19
+   }
+  },
+  {
+   "id": "2126414844043665907",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T20:36:20.000Z",
+   "lang": "qme",
+   "conversation_id": "2126358197933834326",
+   "url": "https://x.com/elonmusk/status/2126414844043665907",
+   "reply_to": {
+    "id": "2126413736319627724",
+    "username": "DanielLDorn"
+   },
+   "kind": "reply",
+   "text": "@DanielLDorn @nvandewetering 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 2717,
+    "reposts": 29,
+    "replies": 55,
+    "quotes": 2
+   }
+  },
+  {
+   "id": "2126413886576590925",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T20:32:32.000Z",
+   "lang": "en",
+   "conversation_id": "2126413886576590925",
+   "url": "https://x.com/elonmusk/status/2126413886576590925",
+   "kind": "post",
+   "text": "When using Grok Bots, it is important to create Bots with specialized roles, just like a human company. You can then have a manager bot oversee and coordinate their work.\n\nJust like a human employee, if you overload a single bot with a massive array of work, it will start dropping some of the balls.",
+   "urls": [],
+   "metrics": {
+    "likes": 46893,
+    "reposts": 3514,
+    "replies": 3125,
+    "quotes": 690
+   }
+  },
+  {
+   "id": "2126413182746968279",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T20:29:44.000Z",
+   "lang": "en",
+   "conversation_id": "2126413182746968279",
+   "url": "https://x.com/elonmusk/status/2126413182746968279",
+   "kind": "repost",
+   "text": "We can’t scale a negative gross margin business. That’s just impossible.\n\nMuse is a personal assistant, but doesn’t apply the level of heavy-hitter AI needed to operate a company at serious scale.\n\nIf Grok Bots are providing high value on par with having excellent employees, then the monthly cost can be quite high, but still deliver outstanding RoI.\n\nHowever, if we do something dumb, like making it complicated to upgrade to higher usage tiers (a mistake we’ve made before), then we need to fix that.",
+   "urls": [],
+   "metrics": {
+    "likes": 12717,
+    "reposts": 553,
+    "replies": 934,
+    "quotes": 171
+   },
+   "ref": {
+    "id": "2126413161607692773",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-27T20:29:39.000Z",
+    "reply_to": {
+     "id": "2126358197933834326",
+     "username": "nvandewetering"
+    },
+    "conversation_id": "2126358197933834326"
+   }
+  },
+  {
+   "id": "2126413161607692773",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T20:29:39.000Z",
+   "lang": "en",
+   "conversation_id": "2126358197933834326",
+   "url": "https://x.com/elonmusk/status/2126413161607692773",
+   "reply_to": {
+    "id": "2126358197933834326",
+    "username": "nvandewetering"
+   },
+   "kind": "reply",
+   "text": "We can’t scale a negative gross margin business. That’s just impossible.\n\nMuse is a personal assistant, but doesn’t apply the level of heavy-hitter AI needed to operate a company at serious scale.\n\nIf Grok Bots are providing high value on par with having excellent employees, then the monthly cost can be quite high, but still deliver outstanding RoI.\n\nHowever, if we do something dumb, like making it complicated to upgrade to higher usage tiers (a mistake we’ve made before), then we need to fix that.",
+   "urls": [],
+   "metrics": {
+    "likes": 12717,
+    "reposts": 553,
+    "replies": 934,
+    "quotes": 171
+   }
+  },
+  {
+   "id": "2126404709628129388",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T19:56:04.000Z",
+   "lang": "en",
+   "conversation_id": "2126404709628129388",
+   "url": "https://x.com/elonmusk/status/2126404709628129388",
+   "kind": "quote",
+   "text": "This will be fully automated and sped up to be <5 mins",
+   "urls": [],
+   "metrics": {
+    "likes": 25250,
+    "reposts": 2898,
+    "replies": 1286,
+    "quotes": 208
+   },
+   "ref": {
+    "id": "2126186615043498354",
+    "author_id": "1943714826116603904",
+    "username": "stellarixorine",
+    "name": "",
+    "created_at": "2026-11-27T05:29:26.000Z",
+    "text": "🚀 Starship stacking is an incredible sight. 🤩\n\nA time-lapse captures Ship 42 being stacked onto Booster 22 at Starbase.\n\nThe main lift reportedly takes just around 30 minutes, while the final alignment and precise docking process takes considerably longer.\n\nImagine the engineering and coordination required to assemble the world's largest orbital rocket.\n\n📸 Credit: awphotographyofficial\n\nThank you awphotographyofficial for this amazing view 🥰 🥰",
+    "conversation_id": "2126186615043498354"
+   }
+  },
+  {
+   "id": "2126398247552037042",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T19:30:23.000Z",
+   "lang": "en",
+   "conversation_id": "2126398247552037042",
+   "url": "https://x.com/elonmusk/status/2126398247552037042",
+   "kind": "post",
+   "text": "Beautiful engineering",
+   "urls": [],
+   "metrics": {
+    "likes": 100720,
+    "reposts": 10287,
+    "replies": 4886,
+    "quotes": 929
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2126197726488526848/vid/avc1/1080x1900/-e5ECsrS6hzV-rH0.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2126197726488526848/img/m_xCKibvfqG8QBH0.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2126197726488526848/vid/avc1/320x562/hF1H6R5w4MHl-89X.mp4",
+       "w": 320,
+       "h": 562,
+       "br": 632000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2126197726488526848/vid/avc1/480x844/Ggsqw7bs0Ull69-D.mp4",
+       "w": 480,
+       "h": 844,
+       "br": 950000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2126197726488526848/vid/avc1/720x1266/2bBE91zGCySqwpa2.mp4",
+       "w": 720,
+       "h": 1266,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2126197726488526848/vid/avc1/1080x1900/-e5ECsrS6hzV-rH0.mp4",
+       "w": 1080,
+       "h": 1900,
+       "br": 10368000
+      }
+     ],
+     "width": 1080,
+     "height": 1900,
+     "duration_ms": 24311
+    }
+   ]
+  },
+  {
+   "id": "2126397816683581457",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T19:28:40.000Z",
+   "lang": "en",
+   "conversation_id": "2126289414523371776",
+   "url": "https://x.com/elonmusk/status/2126397816683581457",
+   "reply_to": {
+    "id": "2126289414523371776",
+    "username": "IterIntellectus"
+   },
+   "kind": "reply",
+   "text": "@IterIntellectus Really? 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 2503,
+    "reposts": 77,
+    "replies": 206,
+    "quotes": 9
+   }
+  },
+  {
+   "id": "2126397498071670827",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T19:27:24.000Z",
+   "lang": "en",
+   "conversation_id": "2126397498071670827",
+   "url": "https://x.com/elonmusk/status/2126397498071670827",
+   "kind": "quote",
+   "text": "Every model has its strengths and weaknesses. Grok @Bot aims to use whichever one does the best job for the task you give it!\n\nNeon is looking particularly promising, but Opus is also excellent in most cases.",
+   "urls": [],
+   "metrics": {
+    "likes": 13366,
+    "reposts": 1177,
+    "replies": 838,
+    "quotes": 109
+   },
+   "ref": {
+    "id": "2126328113177002258",
+    "author_id": "39701745",
+    "username": "dwebbva",
+    "name": "",
+    "created_at": "2026-11-27T14:51:42.000Z",
+    "text": "I stopped using Claude about two weeks ago because it was becoming increasingly difficult/combative/manipulative to work with.\n\nSwitched to Grok Bot as a test run for repeated tasks and had it scan my computers for regular file clean up. It found 22+ GBs of temp files, and bloat from Claude that I had no idea existed even though I had a daily task set up for Claude to scan my disk for file organization, space usage, and recommend deletions.\n\nIt never flagged this or told me it created a virtual Linux computer for agent work.\n\nIf you’re using Claude desktop, check your disk space, and if it looks unreasonably full, have another LLM scan your hard to see why.",
+    "conversation_id": "2126328113177002258",
+    "quote": {
+     "id": "2125639777076551873",
+     "unavailable": true,
+     "username": "jaegpark"
+    }
+   }
+  },
+  {
+   "id": "2126396401458295136",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T19:23:03.000Z",
+   "lang": "en",
+   "conversation_id": "2126148322838605889",
+   "url": "https://x.com/elonmusk/status/2126396401458295136",
+   "reply_to": {
+    "id": "2126148322838605889",
+    "username": "LuckyMcGee"
+   },
+   "kind": "reply",
+   "text": "@LuckyMcGee Accurate",
+   "urls": [],
+   "metrics": {
+    "likes": 2656,
+    "reposts": 121,
+    "replies": 156,
+    "quotes": 7
+   }
+  },
+  {
+   "id": "2126396380079854034",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T19:22:58.000Z",
+   "lang": "en",
+   "conversation_id": "2126396380079854034",
+   "url": "https://x.com/elonmusk/status/2126396380079854034",
+   "kind": "repost",
+   "text": "While white liberals in Boston officially recognize Thanksgiving as a “Day of Mourning,” I‘d like to take a moment to remember the Huron who were constantly displaced by the Iroquois.\n\nThe Apache who were displaced, enslaved, tortured, raped and scalped by the Comanche.\n\nThe Pueblo, who were often enslaved as part of a wider slave trade run by the Navajo nations.\n\nMaybe we can revisit the awful and inhumane wars between the Blackfoot and Cree nations?\n\nPerhaps we can make a statue to the inhumane treatment of captured Kiowa women and children at the hands of the Osage?\n\nWill we forget the long running and inhumane conflicts between the Lakota alliances against the Cheyenne?\n\nYou see, American history is far more complex than your white liberal professors taught you.\n\nAnd all those atrocities didn’t end until the white man came and conquered this land and colonized the fuck out of it.\n\nYOU’RE WELCOME. 🇺🇸\n\nP.s. But sorry about the blankets. That was our bad.",
+   "urls": [],
+   "metrics": {
+    "likes": 28367,
+    "reposts": 7258,
+    "replies": 1110,
+    "quotes": 374
+   },
+   "ref": {
+    "id": "2126148322838605889",
+    "author_id": "17069213",
+    "username": "LuckyMcGee",
+    "name": "☘️𝕃𝕦𝕔𝕜𝕪 𝕄𝕔𝔾𝕖𝕖‎",
+    "created_at": "2026-11-27T02:57:16.000Z",
+    "conversation_id": "2126148322838605889",
+    "quote": {
+     "id": "2126129958833574065",
+     "unavailable": true,
+     "username": "westernlensman"
+    }
+   }
+  },
+  {
+   "id": "2126394040971301037",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T19:13:40.000Z",
+   "lang": "en",
+   "conversation_id": "2126394040971301037",
+   "url": "https://x.com/elonmusk/status/2126394040971301037",
+   "kind": "repost",
+   "text": "15-year-olds in California are now forced to use a booster seat in a car unless they pass a test... but they can change their gender without parental consent.\n\nMake it make sense.",
+   "urls": [],
+   "metrics": {
+    "likes": 9333,
+    "reposts": 2381,
+    "replies": 517,
+    "quotes": 110
+   },
+   "ref": {
+    "id": "2126361405217509537",
+    "author_id": "1326229737551912960",
+    "username": "libsoftiktok",
+    "name": "Libs of TikTok",
+    "created_at": "2026-11-27T17:03:59.000Z",
+    "conversation_id": "2126361405217509537"
+   }
+  },
+  {
+   "id": "2126390700660920546",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T19:00:24.000Z",
+   "lang": "en",
+   "conversation_id": "2126390700660920546",
+   "url": "https://x.com/elonmusk/status/2126390700660920546",
+   "kind": "quote",
+   "text": "Grok Build upgrades",
+   "urls": [],
+   "metrics": {
+    "likes": 3875,
+    "reposts": 424,
+    "replies": 506,
+    "quotes": 50
+   },
+   "ref": {
+    "id": "2123959003084664952",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-21T01:57:42.000Z",
+    "text": "Grok Build just got a solid upgrade for headless agents, MCP integrations, and remote terminal workflows\n\nHeadless sessions can now include images returned by MCP tools in streaming and JSON output, positional prompts automatically run headless when no interactive terminal is available, and local file links open directly from responses\n\nLong-running headless tasks also get better reliability, with a five-minute inactivity timeout that prevents sessions from hanging indefinitely. Image pasting now works through remote tmux and nested terminal wrappers, while session recovery and hook inspection are more dependable\n\nThere’s also a performance improvement that eliminates unnecessary directory watching when Grok only needs to track the current Git branch\n\nRelease Notes: v1.0.92\n\nFeatures:\n\n• Positional prompts without `-p` now run headless and print their reply when the process has no terminal for the TUI\n• MCP tool results that contain images now include those images in headless streaming and JSON output\n• Clickable `file://` links to local files now open the file the same way bare paths do\n\nBug Fixes:\n\n• Question cards in minimal mode now keep the first option visible instead of scrolling it off-screen\n• Headless runs (`grok -p`) now stop after 5 minutes of no model output instead of hanging indefinitely\n• Session resume errors now give the same helpful instruction on every route instead of suggesting the TUI picker\n• `grok inspect` now shows the hooks a headless run would actually load, with a note for those that still need folder trust\n• Image paste with `grok wrap` now works when Grok runs inside a remote tmux or through a second wrap\n\nPerformance:\n\n• Grok no longer watches every directory when only tracking the current Git branch",
+    "conversation_id": "2123959003084664952",
+    "quote": {
+     "id": "2123372165605257407",
+     "unavailable": true,
+     "username": "xfreeze"
+    }
+   }
+  },
+  {
+   "id": "2126390259995095203",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:58:39.000Z",
+   "lang": "en",
+   "conversation_id": "2126390259995095203",
+   "url": "https://x.com/elonmusk/status/2126390259995095203",
+   "kind": "repost",
+   "text": "a recent run of our model forecasting Starship launches and its estimated cargo split over the next several years.  Hard to envision 10,000+ launches a year but when you contextualize against the 1M+ cargo ships (boat) trips or the 35M+ airline flights annually, this is just a drop in the bucket.",
+   "urls": [],
+   "metrics": {
+    "likes": 910,
+    "reposts": 105,
+    "replies": 63,
+    "quotes": 7
+   },
+   "ref": {
+    "id": "2126102687053746276",
+    "author_id": "331865640",
+    "username": "aaronburnett",
+    "name": "Aaron Burnett",
+    "created_at": "2026-11-26T23:55:56.000Z",
+    "conversation_id": "2126102687053746276"
+   }
+  },
+  {
+   "id": "2126388828852105325",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:52:57.000Z",
+   "lang": "en",
+   "conversation_id": "2126388828852105325",
+   "url": "https://x.com/elonmusk/status/2126388828852105325",
+   "kind": "quote",
+   "text": "Accurate",
+   "urls": [],
+   "metrics": {
+    "likes": 10383,
+    "reposts": 895,
+    "replies": 487,
+    "quotes": 43
+   },
+   "ref": {
+    "id": "2126356627003744717",
+    "author_id": "1415775797319774213",
+    "username": "sourceryy",
+    "name": "sourcery",
+    "created_at": "2026-11-27T16:45:00.000Z",
+    "text": "Gavin Baker says SpaceX engineers believe they have solved orbital compute and are actually stressed about Starship reusability\n\n“I think catching the Starship, that was amazing. It was a huge moment for SpaceX.”\n\n“I will just say having spent a lot of time at Starbase, the SpaceX engineers, you know, all of these experts online are very skeptical about orbital compute, and oh the cooling and oh this. And you know, to the SpaceX engineers, they have solved those problems.”\n\n“They’re operating 11,000 satellites today. Starlink V3 actually consumes a significant, we call it maybe 10 to 15% the power of like an orbital compute satellite. It has to be cooled. The compute isn’t as densely packed, but you could do different things in space. They regard the design of the orbital compute satellite, that in their mind, I think they’ve figured that out.”\n\n“What they’re actually stressed about is Starship and reusability, and so catching the upper stage of Starship, that’s a huge step towards making Starlink, direct to cell, orbital compute, all of that a reality.”",
+    "conversation_id": "2126356627003744717"
+   }
+  },
+  {
+   "id": "2126388636325499201",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:52:11.000Z",
+   "lang": "en",
+   "conversation_id": "2126388636325499201",
+   "url": "https://x.com/elonmusk/status/2126388636325499201",
+   "kind": "quote",
+   "text": "Grok Bot is great at finding you the best deals on the Internet",
+   "urls": [],
+   "metrics": {
+    "likes": 3709,
+    "reposts": 500,
+    "replies": 506,
+    "quotes": 51
+   },
+   "ref": {
+    "id": "2126383852025463152",
+    "author_id": "2066250685512110080",
+    "username": "firesidealpha",
+    "name": "Fireside Alpha",
+    "created_at": "2026-11-27T18:33:11.000Z",
+    "text": "JUST IN: Shopify reveals Grok Bot and other agents are playing a \"real role\" this shopping season, and calls it the first agentic Black Friday\n\nHarley Finkelstein (President): \"The reason I mention that is those are very specific products. And I think one of the new things that's happening in 2026 is this is the first real Black Friday where agentic is playing a real role. [Agentic meaning] Muse or Instinct or Grok Bot. These agents reward specificity.\"\n\n\"So what you're seeing is that consumers are not just saying, I want to buy a phone for my kids. I want to buy a screenless phone for my kids so I can call them when I'm traveling for work, like I do for Shopify. And instead of showing Best Buy, what's coming up is the Tin Can phone, who's already reported a 4x increase in sales from agentic sourcing.\"",
+    "conversation_id": "2126383852025463152",
+    "quote": {
+     "id": "2115167081780093145",
+     "unavailable": true,
+     "username": "firesidealpha"
+    }
+   }
+  },
+  {
+   "id": "2126388416514601251",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:51:19.000Z",
+   "lang": "en",
+   "conversation_id": "2126388416514601251",
+   "url": "https://x.com/elonmusk/status/2126388416514601251",
+   "kind": "repost",
+   "text": "15 year olds in California may to have to ride in a booster seat starting in January? We're now well into the territory of self-parody. This law should go.",
+   "urls": [],
+   "metrics": {
+    "likes": 4900,
+    "reposts": 344,
+    "replies": 580,
+    "quotes": 109
+   },
+   "ref": {
+    "id": "2126310099475956175",
+    "author_id": "183749519",
+    "username": "paulg",
+    "name": "Paul Graham",
+    "created_at": "2026-11-27T13:40:07.000Z",
+    "conversation_id": "2126310099475956175"
+   }
+  },
+  {
+   "id": "2126388400559390824",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:51:15.000Z",
+   "lang": "qme",
+   "conversation_id": "2126310099475956175",
+   "url": "https://x.com/elonmusk/status/2126388400559390824",
+   "reply_to": {
+    "id": "2126310099475956175",
+    "username": "paulg"
+   },
+   "kind": "reply",
+   "text": "@paulg 💯",
+   "urls": [],
+   "metrics": {
+    "likes": 2075,
+    "reposts": 74,
+    "replies": 139,
+    "quotes": 5
+   }
+  },
+  {
+   "id": "2126387684952404350",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:48:25.000Z",
+   "lang": "en",
+   "conversation_id": "2126387684952404350",
+   "url": "https://x.com/elonmusk/status/2126387684952404350",
+   "kind": "repost",
+   "text": "Must Listen to the end! @GavinNewsom rises above politics & nails it.  “I emphatically encourage people to claim their Trump Account… don’t fall prey to the political cynicism… this is your money.  It is direct, tangible, results oriented, not lost in bureaucracy.” 🎯🇺🇸🚀",
+   "urls": [],
+   "metrics": {
+    "likes": 6535,
+    "reposts": 532,
+    "replies": 400,
+    "quotes": 111
+   },
+   "ref": {
+    "id": "2126380906843979898",
+    "author_id": "19082500",
+    "username": "altcap",
+    "name": "Brad Gerstner",
+    "created_at": "2026-11-27T18:21:29.000Z",
+    "conversation_id": "2126380906843979898"
+   }
+  },
+  {
+   "id": "2126387624348922193",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:48:10.000Z",
+   "lang": "en",
+   "conversation_id": "2126380906843979898",
+   "url": "https://x.com/elonmusk/status/2126387624348922193",
+   "reply_to": {
+    "id": "2126380906843979898",
+    "username": "altcap"
+   },
+   "kind": "reply",
+   "text": "@altcap @GavinNewsom @InvestAmerica24 @BillClinton @JoshShapiroPA @GovWesMoore @hakeemjeffries Good",
+   "urls": [],
+   "metrics": {
+    "likes": 3936,
+    "reposts": 112,
+    "replies": 143,
+    "quotes": 12
+   }
+  },
+  {
+   "id": "2126379463621447896",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:15:45.000Z",
+   "lang": "qme",
+   "conversation_id": "2125966772276752595",
+   "url": "https://x.com/elonmusk/status/2126379463621447896",
+   "reply_to": {
+    "id": "2126035016266486186",
+    "username": "lrocket"
+   },
+   "kind": "reply",
+   "text": "@lrocket @matthewstoller 😂",
+   "urls": [],
+   "metrics": {
+    "likes": 687,
+    "reposts": 25,
+    "replies": 77,
+    "quotes": 7
+   }
+  },
+  {
+   "id": "2126379320180642037",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:15:10.000Z",
+   "lang": "en",
+   "conversation_id": "2126378276654641543",
+   "url": "https://x.com/elonmusk/status/2126379320180642037",
+   "reply_to": {
+    "id": "2126378276654641543",
+    "username": "shaunmmaguire"
+   },
+   "kind": "reply",
+   "text": "@shaunmmaguire Yeah",
+   "urls": [],
+   "metrics": {
+    "likes": 5724,
+    "reposts": 183,
+    "replies": 212,
+    "quotes": 12
+   }
+  },
+  {
+   "id": "2126378174103929005",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:10:37.000Z",
+   "lang": "en",
+   "conversation_id": "2126378174103929005",
+   "url": "https://x.com/elonmusk/status/2126378174103929005",
+   "kind": "repost",
+   "text": "Tim Urban on @elonmusk: \"He's truly trying to do these big things for the right reasons.\"",
+   "urls": [],
+   "metrics": {
+    "likes": 1304,
+    "reposts": 155,
+    "replies": 95,
+    "quotes": 5
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2126376126293725184/vid/avc1/1920x1080/_GiGMTXHouaYKtWq.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2126376126293725184/img/Nzq7K7MDd4KPDwCn.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2126376126293725184/vid/avc1/480x270/hfMqhyyt4-cy6auJ.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2126376126293725184/vid/avc1/640x360/sZHrxF1r1lIgpjPh.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2126376126293725184/vid/avc1/1280x720/c_Go-MonE55SByQP.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2126376126293725184/vid/avc1/1920x1080/_GiGMTXHouaYKtWq.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 91300
+    }
+   ],
+   "ref": {
+    "id": "2126376230920626285",
+    "author_id": "1016059981907386368",
+    "username": "teslaownersSV",
+    "name": "Tesla Owners Silicon Valley",
+    "created_at": "2026-11-27T18:02:54.000Z",
+    "conversation_id": "2126376230920626285"
+   }
+  },
+  {
+   "id": "2126378132982911208",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:10:27.000Z",
+   "lang": "en",
+   "conversation_id": "2126378132982911208",
+   "url": "https://x.com/elonmusk/status/2126378132982911208",
+   "kind": "repost",
+   "text": "\"If printing money would end poverty, printing diplomas would end stupidity.\" Javier Milei.\n\nThis is France's problem in one sentence.\n\nWe did with degrees what central banks do with money: we printed them until they were worth nothing.\n\nThe master's degree has become a debased currency. And like all inflation, it leaves no visible victims. It quietly destroys the signal.\n\nThe result: average people, holding some forgettable master's from a second-rate university, sincerely believe they belong to the elite. They have the title. They have the stamp. They expect the status that's supposed to come with it. And when reality refuses to hand it over, they conclude the system is unfair.\n\nBut that's not even the real tragedy.\n\nThe real tragedy is that when everyone has the same degree, the degree says nothing. Truly brilliant people become invisible, drowned in a sea of identical CVs. We built a machine that makes mediocrity comfortable and excellence undetectable.\n\nA country doesn't move forward because of how many graduates it produces. It moves forward because of a handful of exceptional people it knows how to spot, fund, and let build.\n\nFrance doesn't need more graduates. It needs more brilliant people, recognized as brilliant for what they built, not for the paper on their wall.\n\nYour degree says what you studied. What you built says who you are.\n\nPrinting diplomas never created intelligence. Only inflation.",
+   "urls": [],
+   "metrics": {
+    "likes": 4621,
+    "reposts": 897,
+    "replies": 190,
+    "quotes": 77
+   },
+   "ref": {
+    "id": "2126254601028477111",
+    "author_id": "1874492187070615552",
+    "username": "brivael",
+    "name": "Brivael Le Pogam",
+    "created_at": "2026-11-27T09:59:35.000Z",
+    "conversation_id": "2126254601028477111"
+   }
+  },
+  {
+   "id": "2126378050418069594",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:10:08.000Z",
+   "lang": "pt",
+   "conversation_id": "2126311994995171813",
+   "url": "https://x.com/elonmusk/status/2126378050418069594",
+   "reply_to": {
+    "id": "2126311994995171813",
+    "username": "MichaelDell"
+   },
+   "kind": "reply",
+   "text": "@MichaelDell Bravo!",
+   "urls": [],
+   "metrics": {
+    "likes": 3600,
+    "reposts": 129,
+    "replies": 159,
+    "quotes": 6
+   }
+  },
+  {
+   "id": "2126378019312812099",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:10:00.000Z",
+   "lang": "en",
+   "conversation_id": "2126378019312812099",
+   "url": "https://x.com/elonmusk/status/2126378019312812099",
+   "kind": "repost",
+   "text": "Our gift is about so much more than money.\n\nIt’s about teaching an entire generation of young Americans the power of investing, compound interest and ownership. 🇺🇸🚀",
+   "urls": [],
+   "metrics": {
+    "likes": 9153,
+    "reposts": 828,
+    "replies": 305,
+    "quotes": 40
+   },
+   "ref": {
+    "id": "2126311994995171813",
+    "author_id": "58560480",
+    "username": "MichaelDell",
+    "name": "Michael Dell 🇺🇸",
+    "created_at": "2026-11-27T13:47:39.000Z",
+    "conversation_id": "2126311994995171813"
+   }
+  },
+  {
+   "id": "2126377494487978406",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:07:55.000Z",
+   "lang": "und",
+   "conversation_id": "2126319131506983061",
+   "url": "https://x.com/elonmusk/status/2126377494487978406",
+   "reply_to": {
+    "id": "2126376997081555016",
+    "username": "thetalesoftayls"
+   },
+   "kind": "reply",
+   "text": "@thetalesoftayls @johnarnold @paulg Ok",
+   "urls": [],
+   "metrics": {
+    "likes": 802,
+    "reposts": 22,
+    "replies": 74,
+    "quotes": 7
+   }
+  },
+  {
+   "id": "2126376590238171559",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:04:19.000Z",
+   "lang": "en",
+   "conversation_id": "2126376590238171559",
+   "url": "https://x.com/elonmusk/status/2126376590238171559",
+   "kind": "repost",
+   "text": "My observation is that giving money to “non-profits” rarely benefits the people and often results in hurting civilization by creating a self-perpetuating “cause of the day” bureaucracy that cares only about getting more money.\n\nSuch “charities” are often merely a means of a wealthy donor buying power over people and governments, while appearing to be a “philanthropist”.\n\nMuch better to give directly to the people and let them decide what they want to do.",
+   "urls": [],
+   "metrics": {
+    "likes": 52571,
+    "reposts": 7870,
+    "replies": 2863,
+    "quotes": 773
+   },
+   "ref": {
+    "id": "2126376500584702103",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-27T18:03:58.000Z",
+    "reply_to": {
+     "id": "2126319131506983061",
+     "username": "johnarnold"
+    },
+    "conversation_id": "2126319131506983061"
+   }
+  },
+  {
+   "id": "2126376500584702103",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T18:03:58.000Z",
+   "lang": "en",
+   "conversation_id": "2126319131506983061",
+   "url": "https://x.com/elonmusk/status/2126376500584702103",
+   "reply_to": {
+    "id": "2126319131506983061",
+    "username": "johnarnold"
+   },
+   "kind": "reply",
+   "text": "My observation is that giving money to “non-profits” rarely benefits the people and often results in hurting civilization by creating a self-perpetuating “cause of the day” bureaucracy that cares only about getting more money.\n\nSuch “charities” are often merely a means of a wealthy donor buying power over people and governments, while appearing to be a “philanthropist”.\n\nMuch better to give directly to the people and let them decide what they want to do.",
+   "urls": [],
+   "metrics": {
+    "likes": 52571,
+    "reposts": 7870,
+    "replies": 2863,
+    "quotes": 773
+   }
+  },
+  {
+   "id": "2126365899410341931",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T17:21:51.000Z",
+   "lang": "en",
+   "conversation_id": "2126365899410341931",
+   "url": "https://x.com/elonmusk/status/2126365899410341931",
+   "kind": "quote",
+   "text": "Grok @Bot keeps getting better",
+   "urls": [],
+   "metrics": {
+    "likes": 7205,
+    "reposts": 723,
+    "replies": 983,
+    "quotes": 107
+   },
+   "ref": {
+    "id": "2126331346180276262",
+    "author_id": "64844802",
+    "username": "a16z",
+    "name": "a16z",
+    "created_at": "2026-11-27T15:04:32.000Z",
+    "text": "Gavin Baker says Grok Bot feels like another ChatGPT moment because it turns hours of Claude Code work into seconds:\n\n\"You see these 23-year-old kids and just the way they use AI, they're just fluent and native in it. I just feel like maybe in a way that no matter how hard I try, I will never be, and I'm trying really hard.\"\n\n\"We got Claude Code. I built some stuff, did some cool stuff, and in, I don't know, 3 minutes of creating Grok Bots, I had much better versions of everything I created.\"\n\n\"I love having a podcast summarizer... It takes 10 seconds in Grok Bot. It's amazing, and it's so good.\"\n\n\"A Substack summarizer, an X summarizer, an X sentiment tracker for topics and stocks... All of those would have taken me hours working with Claude Code, and they each took 7 to 12 seconds with Grok Bot. And it's better.\"\n\n\"To me, Grok Bot does feel like another ChatGPT moment.\"\n\n@GavinSBaker @DavidGeorge83",
+    "conversation_id": "2126331346180276262"
+   }
+  },
+  {
+   "id": "2126222666994737622",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T07:52:41.000Z",
+   "lang": "en",
+   "conversation_id": "2126222666994737622",
+   "url": "https://x.com/elonmusk/status/2126222666994737622",
+   "kind": "quote",
+   "text": "True",
+   "urls": [],
+   "metrics": {
+    "likes": 24743,
+    "reposts": 3249,
+    "replies": 1592,
+    "quotes": 126
+   },
+   "ref": {
+    "id": "2126188487825318156",
+    "author_id": "95134466",
+    "username": "svtrivo",
+    "name": "",
+    "created_at": "2026-11-27T05:36:52.000Z",
+    "text": "I used to think Trump Accounts were only for newborns because of the $1,000 government contribution. So I never bothered to set one up for my kids.\n\nOut of my three children, two are already adults (over 18), so they aren’t eligible. But my youngest is still under 18, and yesterday I finally claimed and activated the account for him.\n\nTurns out the account itself isn’t just for babies. Any child under 18 with a Social Security number can have one. The $1,000 seed money is only for kids born between 2025 and 2028, but older kids under 18 can still have the account.\n\nTreasury automatically enrolled eligible children back in October 2026, but parents still need to claim and activate the account through the official app or website. Only then can you contribute money or receive outside contributions — including the SpaceX shares that Elon Musk and the company pledged to active accounts.\n\nIf you have a child under 18, it might be worth checking and claiming the account now. I almost missed it myself.",
+    "conversation_id": "2126188487825318156"
+   }
+  },
+  {
+   "id": "2126206393082319114",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T06:48:01.000Z",
+   "lang": "en",
+   "conversation_id": "2126206393082319114",
+   "url": "https://x.com/elonmusk/status/2126206393082319114",
+   "kind": "repost",
+   "text": "Dawn Ward was charged with racially aggravated assault after a man at Euston station accused her of a racist slur. Dawn says she never said a word of it. Her lawyer didn't think she would go to jail, but warned her the worst case was jail. When she told her children what she was charged with, her youngest daughter Aston was 10. Aston asked if prison would let her out at least once a week to see them, or if she would come home every day. Dawn told her she wouldn't go to prison, because she didn't want her daughter worrying. That question made her want to fight more than ever. The case hung over her for two years, and a trial meant to last three days ran to nine. In the end all 12 jurors found her not guilty, and they waited outside the gates to tell her she should never have been in that courtroom.",
+   "urls": [],
+   "metrics": {
+    "likes": 10093,
+    "reposts": 1696,
+    "replies": 372,
+    "quotes": 68
+   },
+   "ref": {
+    "id": "2125877220166271364",
+    "author_id": "779675292025622528",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-26T09:00:00.000Z",
+    "conversation_id": "2125877220166271364"
+   }
+  },
+  {
+   "id": "2126206171056857386",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T06:47:08.000Z",
+   "lang": "en",
+   "conversation_id": "2126206171056857386",
+   "url": "https://x.com/elonmusk/status/2126206171056857386",
+   "kind": "repost",
+   "text": "Lying about Gary Gygax won't ever change the fact he co-created Dungeons & Dragons. Intentionally trying to harm his legacy won't ever lessen his influence on the hobby. You can kick and scream all you want, but the man's legacy is forever. 🎲",
+   "urls": [],
+   "metrics": {
+    "likes": 4955,
+    "reposts": 419,
+    "replies": 194,
+    "quotes": 23
+   },
+   "ref": {
+    "id": "2126065966966583541",
+    "author_id": "1650822008484270081",
+    "username": "CorpseKings",
+    "name": "Corpse Kings",
+    "created_at": "2026-11-26T21:30:01.000Z",
+    "conversation_id": "2126065966966583541"
+   }
+  },
+  {
+   "id": "2126188952444891394",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T05:38:43.000Z",
+   "lang": "en",
+   "conversation_id": "2126065966966583541",
+   "url": "https://x.com/elonmusk/status/2126188952444891394",
+   "reply_to": {
+    "id": "2126065966966583541",
+    "username": "CorpseKings"
+   },
+   "kind": "reply",
+   "text": "@CorpseKings @Glinner Gygax was a creative genius",
+   "urls": [],
+   "metrics": {
+    "likes": 3567,
+    "reposts": 175,
+    "replies": 324,
+    "quotes": 24
+   }
+  },
+  {
+   "id": "2126185982605107366",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T05:26:55.000Z",
+   "lang": "en",
+   "conversation_id": "2126185982605107366",
+   "url": "https://x.com/elonmusk/status/2126185982605107366",
+   "kind": "repost",
+   "text": "Please retweet this\n\nIt shows which side the police are on",
+   "urls": [],
+   "metrics": {
+    "likes": 47188,
+    "reposts": 16390,
+    "replies": 1597,
+    "quotes": 319
+   },
+   "ref": {
+    "id": "2125860436054872446",
+    "author_id": "10810102",
+    "username": "JohnCleese",
+    "name": "John Cleese",
+    "created_at": "2026-11-26T07:53:19.000Z",
+    "conversation_id": "2125860436054872446",
+    "quote": {
+     "id": "2125667730422399195",
+     "unavailable": true,
+     "username": "ApexLeaksQ"
+    }
+   }
+  },
+  {
+   "id": "2126185936224661731",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T05:26:44.000Z",
+   "lang": "und",
+   "conversation_id": "2126143939589898501",
+   "url": "https://x.com/elonmusk/status/2126185936224661731",
+   "reply_to": {
+    "id": "2126143939589898501",
+    "username": "congressdj"
+   },
+   "kind": "reply",
+   "text": "@congressdj Yup",
+   "urls": [],
+   "metrics": {
+    "likes": 3950,
+    "reposts": 124,
+    "replies": 183,
+    "quotes": 9
+   }
+  },
+  {
+   "id": "2126185251802157302",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T05:24:01.000Z",
+   "lang": "en",
+   "conversation_id": "2126185251802157302",
+   "url": "https://x.com/elonmusk/status/2126185251802157302",
+   "kind": "repost",
+   "text": "Tom Mueller, SpaceX employee #1, says Elon Musk reversed his approach to engineering by demanding they find where rocket engines break and then push them harder\n\n\"It changed just working with Elon. At my previous company, it was like, you never blow up a rocket engine or fail a rocket engine. That's bad. This is bad karma. Never test, always have a lot of margin and make sure that you don't fail it.\"\n\n\"And Elon's whole thing was, well, let's find out where it breaks and then fix that and go and push it even more. So it's really a whole different way of thinking about it. Really refreshing, and you learn a lot.\"\n\n\"We had things that we thought would break that we couldn't break. Other things would break because the engineering is not always that deterministic. It's not always obvious. I'm amazed that this thing is still running.\"",
+   "urls": [],
+   "metrics": {
+    "likes": 3742,
+    "reposts": 442,
+    "replies": 141,
+    "quotes": 37
+   },
+   "ref": {
+    "id": "2126183140083568686",
+    "author_id": "2066250685512110080",
+    "username": "firesidealpha",
+    "name": "Fireside Alpha",
+    "created_at": "2026-11-27T05:15:37.000Z",
+    "conversation_id": "2126183140083568686",
+    "quote": {
+     "id": "2125384095123554304",
+     "unavailable": true,
+     "username": "firesidealpha"
+    }
+   }
+  },
+  {
+   "id": "2126182572753572130",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T05:13:22.000Z",
+   "lang": "en",
+   "conversation_id": "2126182572753572130",
+   "url": "https://x.com/elonmusk/status/2126182572753572130",
+   "kind": "repost",
+   "text": "Working hard to make Blindsight happen.\n\nHappy Thanksgiving from the Neuralink team!",
+   "urls": [],
+   "metrics": {
+    "likes": 6113,
+    "reposts": 411,
+    "replies": 221,
+    "quotes": 29
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYG2_agWYAAoCx2.jpg",
+     "width": 2048,
+     "height": 1537
+    }
+   ],
+   "ref": {
+    "id": "2126181706118160696",
+    "author_id": "2591877554",
+    "username": "djseo",
+    "name": "DJ Seo",
+    "created_at": "2026-11-27T05:09:55.000Z",
+    "conversation_id": "2126181706118160696"
+   }
+  },
+  {
+   "id": "2126177494734901617",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T04:53:11.000Z",
+   "lang": "qme",
+   "conversation_id": "2126023122793210211",
+   "url": "https://x.com/elonmusk/status/2126177494734901617",
+   "reply_to": {
+    "id": "2126134380083155386",
+    "username": "allegrajacchia"
+   },
+   "kind": "reply",
+   "text": "@allegrajacchia @gabriel1 💯😂",
+   "urls": [],
+   "metrics": {
+    "likes": 890,
+    "reposts": 43,
+    "replies": 115,
+    "quotes": 6
+   }
+  },
+  {
+   "id": "2126177226869928121",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T04:52:08.000Z",
+   "lang": "en",
+   "conversation_id": "2126160028923302348",
+   "url": "https://x.com/elonmusk/status/2126177226869928121",
+   "reply_to": {
+    "id": "2126160028923302348",
+    "username": "wholemars"
+   },
+   "kind": "reply",
+   "text": "@wholemars 😂\n\nTom Mueller is awesome. One of the best engineers I’ve ever worked with.",
+   "urls": [],
+   "metrics": {
+    "likes": 10262,
+    "reposts": 272,
+    "replies": 243,
+    "quotes": 18
+   }
+  },
+  {
+   "id": "2126165643053682821",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T04:06:06.000Z",
+   "lang": "en",
+   "conversation_id": "2126000482909130795",
+   "url": "https://x.com/elonmusk/status/2126165643053682821",
+   "reply_to": {
+    "id": "2126000482909130795",
+    "username": "jamesdouma"
+   },
+   "kind": "reply",
+   "text": "@jamesdouma Yeah",
+   "urls": [],
+   "metrics": {
+    "likes": 3923,
+    "reposts": 177,
+    "replies": 268,
+    "quotes": 15
+   }
+  },
+  {
+   "id": "2126164955875692589",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T04:03:22.000Z",
+   "lang": "en",
+   "conversation_id": "2126164955875692589",
+   "url": "https://x.com/elonmusk/status/2126164955875692589",
+   "kind": "repost",
+   "text": "@cybertruck greatest robot out there",
+   "urls": [],
+   "metrics": {
+    "likes": 6766,
+    "reposts": 354,
+    "replies": 214,
+    "quotes": 51
+   },
+   "ref": {
+    "id": "2126132989478519219",
+    "author_id": "12",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-27T01:56:20.000Z",
+    "reply_to": {
+     "id": "2126079686975627723",
+     "username": "cybertruck"
+    },
+    "conversation_id": "2126079686975627723"
+   }
+  },
+  {
+   "id": "2126164160920555605",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-27T04:00:12.000Z",
+   "lang": "en",
+   "conversation_id": "2100293815915421761",
+   "url": "https://x.com/elonmusk/status/2126164160920555605",
+   "reply_to": {
+    "id": "2100293815915421761",
+    "username": "niccruzpatane"
+   },
+   "kind": "reply",
+   "text": "@niccruzpatane @Tesla @robotaxi True",
+   "urls": [],
+   "metrics": {
+    "likes": 687,
+    "reposts": 45,
+    "replies": 88,
+    "quotes": 5
+   }
+  },
   {
    "id": "2126110487603490877",
    "author_id": "44196397",
@@ -95817,8 +98597,9 @@
   }
  ],
  "last_run": {
-  "status": "new",
-  "at": "2026-11-27T02:47:32Z",
-  "new_posts": 42
+  "status": "running",
+  "at": "2026-11-28T05:51:00Z",
+  "new_posts": 98,
+  "handle": "elonmusk"
  }
 }

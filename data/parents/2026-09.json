@@ -1,6 +1,6 @@
 {
  "id": "2026-09",
- "updated_at": "2026-11-27T02:47:32Z",
+ "updated_at": "2026-11-28T05:51:31Z",
  "posts": [
   {
    "id": "2102429084928381263",
@@ -26,6 +26,66 @@
      "height": 1365
     }
    ]
+  },
+  {
+   "id": "2100293815915421761",
+   "username": "niccruzpatane",
+   "name": "Nic Cruz Patane",
+   "created_at": "2026-09-16T18:40:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/niccruzpatane/status/2100293815915421761",
+   "kind": "post",
+   "text": "Every single @Tesla you buy today essentially operates like your own personal @Robotaxi.\n\nIt makes no sense to buy a car that you have to manually drive. This will change your life.",
+   "urls": [],
+   "metrics": {
+    "likes": 4377,
+    "reposts": 234,
+    "replies": 167,
+    "quotes": 21
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2100293606699335681/vid/avc1/3840x2160/xIontDPKyvpIJ9X4.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2100293606699335681/img/t-i7nQM9ddnKoAbi.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2100293606699335681/vid/avc1/480x270/dE_9SMjtqcjJmAIr.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2100293606699335681/vid/avc1/640x360/y-eF42LDal4TBb2N.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2100293606699335681/vid/avc1/1280x720/YDUAZxb5abS-yRJH.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2100293606699335681/vid/avc1/1920x1080/JvlRHf7lFpaFtfcK.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2100293606699335681/vid/avc1/3840x2160/xIontDPKyvpIJ9X4.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 30160
+    }
+   ],
+   "conversation_id": "2100293815915421761"
   }
  ]
 }

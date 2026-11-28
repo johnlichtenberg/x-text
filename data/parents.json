@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T02:47:32Z",
+ "updated_at": "2026-11-28T05:51:31Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -24855,6 +24855,945 @@
     "conversation_id": "2125274444444873138"
    },
    "conversation_id": "2125415245170802990"
+  },
+  {
+   "id": "2126552088067092574",
+   "username": "FischerKing64",
+   "name": "FischerKing",
+   "created_at": "2026-11-28T05:41:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/FischerKing64/status/2126552088067092574",
+   "kind": "reply",
+   "text": "This is why the super rich were invisible until recently. They knew being public was dangerous. That isn’t really possible now.",
+   "urls": [],
+   "metrics": {
+    "likes": 34,
+    "reposts": 1,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2126550755008270563",
+    "username": "FischerKing64"
+   },
+   "conversation_id": "2126550755008270563"
+  },
+  {
+   "id": "2126540530494718161",
+   "username": "venturetwins",
+   "name": "Justine Moore",
+   "created_at": "2026-11-28T04:55:46.000Z",
+   "lang": "en",
+   "url": "https://x.com/venturetwins/status/2126540530494718161",
+   "kind": "post",
+   "text": "It’s honestly crazy the model that brought us “Black Nazis” is now the LEAST woke and most reasonable to talk to",
+   "urls": [],
+   "metrics": {
+    "likes": 211,
+    "reposts": 9,
+    "replies": 24,
+    "quotes": 2
+   },
+   "conversation_id": "2126540530494718161"
+  },
+  {
+   "id": "2126506728380334393",
+   "username": "AdamLowisz",
+   "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+   "created_at": "2026-11-28T02:41:27.000Z",
+   "lang": "en",
+   "url": "https://x.com/AdamLowisz/status/2126506728380334393",
+   "kind": "quote",
+   "text": "I don't think people realize that there's an option to buy additional credits that can auto top off. I've had to use it once. Maybe Grok Bot can point it out every time you are running low on usage and are at 95%.",
+   "urls": [],
+   "metrics": {
+    "likes": 290,
+    "reposts": 11,
+    "replies": 25,
+    "quotes": 1
+   },
+   "ref": {
+    "id": "2126504475208864154",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-28T02:32:30.000Z",
+    "text": "@billykyle You aren’t being offered per token pricing?",
+    "reply_to": {
+     "id": "2126444798361919669",
+     "username": "billykyle"
+    },
+    "conversation_id": "2126444798361919669"
+   },
+   "conversation_id": "2126506728380334393"
+  },
+  {
+   "id": "2126328557886382259",
+   "username": "STFUnion",
+   "name": "T.K. e/acc",
+   "created_at": "2026-11-27T14:53:28.000Z",
+   "lang": "en",
+   "url": "https://x.com/STFUnion/status/2126328557886382259",
+   "kind": "quote",
+   "text": "Why does Elon trust Anthropic? Surly tying SpaceX to Anthropic financially isn't solely based on hatred for Sam Altman. This is getting  ridiculous.",
+   "urls": [],
+   "metrics": {
+    "likes": 461,
+    "reposts": 15,
+    "replies": 35,
+    "quotes": 1
+   },
+   "ref": {
+    "id": "2126119408997466389",
+    "author_id": "1569292810834124800",
+    "username": "RealAstropulse",
+    "name": "",
+    "created_at": "2026-11-27T01:02:23.000Z",
+    "text": "After seeing the \"Claude sabotages your ML research\" posts, I was still skeptical, so I tested it on my own work.\n\nITS VERY VERY REAL WTF\nLeft: Claude model at 24k steps\nRight Gemini Neon model at ONLY 4k steps\n\nBreakdown in thread:",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYF66EGWIAAF9lx.jpg",
+      "width": 1338,
+      "height": 1064
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYF7LGeXcAABoWk.png",
+      "width": 1339,
+      "height": 1064
+     }
+    ],
+    "conversation_id": "2126119408997466389"
+   },
+   "conversation_id": "2126328557886382259"
+  },
+  {
+   "id": "2126514029854351681",
+   "username": "SawyerMerritt",
+   "name": "Sawyer Merritt",
+   "created_at": "2026-11-28T03:10:28.000Z",
+   "lang": "en",
+   "url": "https://x.com/SawyerMerritt/status/2126514029854351681",
+   "kind": "quote",
+   "text": "Nice, Tesla will be releasing a new V15 update in 1-2 weeks that will allow us to just point to a spot on the screen for the car to go to.\n\nI imagine this will also include parking selection since you can already do this with Autopark while manually driving.",
+   "urls": [],
+   "metrics": {
+    "likes": 2260,
+    "reposts": 119,
+    "replies": 97,
+    "quotes": 6
+   },
+   "ref": {
+    "id": "2126513022080631259",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-28T03:06:27.000Z",
+    "text": "@BLKMDL3 The ability to point at a spot on the screen in reality view and have the car go there is coming out in a point release in a week or two",
+    "reply_to": {
+     "id": "2126499545299493274",
+     "username": "BLKMDL3"
+    },
+    "conversation_id": "2126499545299493274"
+   },
+   "conversation_id": "2126514029854351681"
+  },
+  {
+   "id": "2126499545299493274",
+   "username": "BLKMDL3",
+   "name": "Zack",
+   "created_at": "2026-11-28T02:12:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/BLKMDL3/status/2126499545299493274",
+   "kind": "post",
+   "text": "1000 miles in with FSD v15.\n\nTesla Reality View is still sooooo cool, hasn’t gotten old yet.",
+   "urls": [],
+   "metrics": {
+    "likes": 2241,
+    "reposts": 45,
+    "replies": 52,
+    "quotes": 4
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYLYDABXIAAROIZ.jpg",
+     "width": 2048,
+     "height": 1536
+    }
+   ],
+   "conversation_id": "2126499545299493274"
+  },
+  {
+   "id": "2126444798361919669",
+   "username": "billykyle",
+   "name": "Billy",
+   "created_at": "2026-11-27T22:35:22.000Z",
+   "lang": "en",
+   "url": "https://x.com/billykyle/status/2126444798361919669",
+   "kind": "quote",
+   "text": "There clearly needs to be a higher usage tier option than Ultra. What business is hiring “employees” for $200 per month?\n\nGive me true unlimited usage with no bounds or a ridiculous amount of tokens per week and I’ll happy pay upwards of $1,000 per month.\n\nFor comparison, a human personal assistant alone can be thousands per month",
+   "urls": [],
+   "metrics": {
+    "likes": 443,
+    "reposts": 12,
+    "replies": 50,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "2126413161607692773",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-27T20:29:39.000Z",
+    "text": "We can’t scale a negative gross margin business. That’s just impossible.\n\nMuse is a personal assistant, but doesn’t apply the level of heavy-hitter AI needed to operate a company at serious scale.\n\nIf Grok Bots are providing high value on par with having excellent employees, then the monthly cost can be quite high, but still deliver outstanding RoI.\n\nHowever, if we do something dumb, like making it complicated to upgrade to higher usage tiers (a mistake we’ve made before), then we need to fix that.",
+    "reply_to": {
+     "id": "2126358197933834326",
+     "username": "nvandewetering"
+    },
+    "conversation_id": "2126358197933834326"
+   },
+   "conversation_id": "2126444798361919669"
+  },
+  {
+   "id": "2126476667509977096",
+   "username": "MollySOShea",
+   "name": "Molly O’Shea",
+   "created_at": "2026-11-28T00:42:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/MollySOShea/status/2126476667509977096",
+   "kind": "post",
+   "text": "Elad Gil (@eladgil) says @elonmusk is the best founder in “multiple hundreds of years”\n\n“It’s incredible what's been accomplished across many companies.”",
+   "urls": [],
+   "metrics": {
+    "likes": 1225,
+    "reposts": 71,
+    "replies": 23,
+    "quotes": 4
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2125978423290126336/vid/avc1/3840x2160/kbwBPeuQ0RYNXp5B.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2125978423290126336/img/3VwJtRhmbyUkHxHZ.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2125978423290126336/vid/avc1/480x270/XRZ-jyodNGPU9U5g.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125978423290126336/vid/avc1/640x360/X0wFAnuCXU1DUaf2.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125978423290126336/vid/avc1/1280x720/6XhED-URcvWptGVR.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125978423290126336/vid/avc1/1920x1080/Xty_YzqxTGwlAHcp.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2125978423290126336/vid/avc1/3840x2160/kbwBPeuQ0RYNXp5B.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 35700
+    }
+   ],
+   "conversation_id": "2126476667509977096"
+  },
+  {
+   "id": "2126470526034128998",
+   "username": "willdepue",
+   "name": "will depue",
+   "created_at": "2026-11-28T00:17:35.000Z",
+   "lang": "en",
+   "url": "https://x.com/willdepue/status/2126470526034128998",
+   "kind": "post",
+   "text": "X suffers so bad by not being publicly searchable or truly indexed, otherwise it’d be a pretty much global source of truth much more than anything else",
+   "urls": [],
+   "metrics": {
+    "likes": 2177,
+    "reposts": 64,
+    "replies": 138,
+    "quotes": 10
+   },
+   "conversation_id": "2126470526034128998"
+  },
+  {
+   "id": "2126454252729946618",
+   "username": "zerohedge",
+   "name": "zerohedge",
+   "created_at": "2026-11-27T23:12:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/zerohedge/status/2126454252729946618",
+   "kind": "quote",
+   "text": "This didn't quite work out",
+   "urls": [],
+   "metrics": {
+    "likes": 972,
+    "reposts": 42,
+    "replies": 32,
+    "quotes": 0
+   },
+   "ref": {
+    "id": "1841526219050828227",
+    "author_id": "243013409",
+    "username": "SawyerMerritt",
+    "name": "Sawyer Merritt",
+    "created_at": "2024-10-02T17:10:39.000Z",
+    "text": "NEWS: OpenAI has asked investors to avoid backing rival start-ups such Elon Musk’s xAI and Anthropic.\n\nSam Altman expects an exclusive funding arrangement.\n\nSource: https://www.ft.com/content/66e0653e-c446-47b2-8a7f-baa54ccbfb9a",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/GY5qUyVX0AAZilX.jpg",
+      "width": 1180,
+      "height": 1432
+     }
+    ],
+    "conversation_id": "1841526219050828227"
+   },
+   "conversation_id": "2126454252729946618"
+  },
+  {
+   "id": "2126048041694384455",
+   "username": "clavicular",
+   "name": "Clavicular",
+   "created_at": "2026-11-26T20:18:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/clavicular/status/2126048041694384455",
+   "kind": "post",
+   "text": "Thank God Grokbot can reply to hundreds of happy thanksgiving texts.",
+   "urls": [],
+   "metrics": {
+    "likes": 4980,
+    "reposts": 148,
+    "replies": 134,
+    "quotes": 15
+   },
+   "conversation_id": "2126048041694384455"
+  },
+  {
+   "id": "2126410463567110258",
+   "username": "vladtenev",
+   "name": "Vlad Tenev",
+   "created_at": "2026-11-27T20:18:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/vladtenev/status/2126410463567110258",
+   "kind": "post",
+   "text": "Tens of millions of American kids are set to receive two SpaceX shares through @TrumpAccounts, one from @SpaceX and one from @elonmusk.\n\nThank you, Elon, for helping put ownership in the hands of the next generation.",
+   "urls": [],
+   "metrics": {
+    "likes": 4857,
+    "reposts": 242,
+    "replies": 263,
+    "quotes": 38
+   },
+   "conversation_id": "2126410463567110258"
+  },
+  {
+   "id": "2126418667969954039",
+   "username": "BasilTheGreat",
+   "name": "Basil the Great",
+   "created_at": "2026-11-27T20:51:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/BasilTheGreat/status/2126418667969954039",
+   "kind": "post",
+   "text": "🚨NEWS: A Muslim Rape Gang has been found operating in Southampton. 33 arrested so far.\n\nThey were sending taxis to local schools to pick white girls up before bringing them to multiple houses to be passed around",
+   "urls": [],
+   "metrics": {
+    "likes": 23631,
+    "reposts": 3912,
+    "replies": 893,
+    "quotes": 272
+   },
+   "conversation_id": "2126418667969954039"
+  },
+  {
+   "id": "2126328100007166119",
+   "username": "BrandonMcNees",
+   "name": "Brandon",
+   "created_at": "2026-11-27T14:51:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/BrandonMcNees/status/2126328100007166119",
+   "kind": "reply",
+   "text": "@benln Please keep working on usage. 3 days into the week on the Ultra sub, and I am at the usage limit. Thanks for your efforts!",
+   "urls": [],
+   "metrics": {
+    "likes": 160,
+    "reposts": 5,
+    "replies": 12,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2126317446097207718",
+    "username": "benln"
+   },
+   "conversation_id": "2126317446097207718"
+  },
+  {
+   "id": "2126417147392114842",
+   "username": "farzyness",
+   "name": "Farzad 🇺🇸 🇮🇷",
+   "created_at": "2026-11-27T20:45:29.000Z",
+   "lang": "en",
+   "url": "https://x.com/farzyness/status/2126417147392114842",
+   "kind": "quote",
+   "text": "Grok Bot needs a $2 to $5k/month tier. I would happily pay for it.",
+   "urls": [],
+   "metrics": {
+    "likes": 2052,
+    "reposts": 46,
+    "replies": 123,
+    "quotes": 11
+   },
+   "ref": {
+    "id": "2126413161607692773",
+    "author_id": "44196397",
+    "username": "elonmusk",
+    "name": "Elon Musk",
+    "created_at": "2026-11-27T20:29:39.000Z",
+    "text": "We can’t scale a negative gross margin business. That’s just impossible.\n\nMuse is a personal assistant, but doesn’t apply the level of heavy-hitter AI needed to operate a company at serious scale.\n\nIf Grok Bots are providing high value on par with having excellent employees, then the monthly cost can be quite high, but still deliver outstanding RoI.\n\nHowever, if we do something dumb, like making it complicated to upgrade to higher usage tiers (a mistake we’ve made before), then we need to fix that.",
+    "reply_to": {
+     "id": "2126358197933834326",
+     "username": "nvandewetering"
+    },
+    "conversation_id": "2126358197933834326"
+   },
+   "conversation_id": "2126417147392114842"
+  },
+  {
+   "id": "2126406477392785477",
+   "username": "martianwyrdlord",
+   "name": "John Carter",
+   "created_at": "2026-11-27T20:03:05.000Z",
+   "lang": "en",
+   "url": "https://x.com/martianwyrdlord/status/2126406477392785477",
+   "kind": "quote",
+   "text": "By 2042 SpaceX will be operating the Starlink network, a million-satellite Starmind constellation comprising about 1/3 of global compute, will have sent manned expeditions to Mars, and will be supporting a manned base on the Moon and, quite possibly, Mars. There's every possibility of diversifying into asteroid mining, orbital refining and manufacturing, and orbital solar power. An orbital solar power array about the size of Montenegro, which could be built by disassembling a small asteroid, would double the planet's current electrical power budget. An array a mere 5x larger would double humanity's primary energy consumption.\n\nSo yes, a $16T market cap is entirely plausible.",
+   "urls": [],
+   "metrics": {
+    "likes": 2098,
+    "reposts": 190,
+    "replies": 108,
+    "quotes": 16
+   },
+   "ref": {
+    "id": "2126140563993071826",
+    "author_id": "1652717271469506565",
+    "username": "BoringBiz_",
+    "name": "",
+    "created_at": "2026-11-27T02:26:26.000Z",
+    "text": "This math sounds great until you realize that Space X stock compounding at 15% per year for the next 16 years means the market capitalization will be $16T\n\nCurrent US GDP is roughly $33 trillion, implying that Space X would be roughly half the size of the US economy today",
+    "conversation_id": "2126140563993071826",
+    "quote": {
+     "id": "2126080271346979009",
+     "unavailable": true,
+     "username": "radleftexposed"
+    }
+   },
+   "conversation_id": "2126406477392785477"
+  },
+  {
+   "id": "2126413736319627724",
+   "username": "DanielLDorn",
+   "name": "Daniel Dorn",
+   "created_at": "2026-11-27T20:31:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/DanielLDorn/status/2126413736319627724",
+   "kind": "reply",
+   "text": "@elonmusk @nvandewetering “ We can’t scale a negative gross margin business.”\n\nExcuse me, the federal government would like a word.",
+   "urls": [],
+   "metrics": {
+    "likes": 2633,
+    "reposts": 25,
+    "replies": 21,
+    "quotes": 2
+   },
+   "reply_to": {
+    "id": "2126413161607692773",
+    "username": "elonmusk"
+   },
+   "conversation_id": "2126358197933834326"
+  },
+  {
+   "id": "2126358197933834326",
+   "username": "nvandewetering",
+   "name": "Nic Vandewetering",
+   "created_at": "2026-11-27T16:51:14.000Z",
+   "lang": "en",
+   "url": "https://x.com/nvandewetering/status/2126358197933834326",
+   "kind": "post",
+   "text": "Grok Bot usage limits are still very bad.\n\nChatGPT Dot usage limits are basically unlimited, but it's slow and runs into tons of blockers.\n\nIf Grok Bot is able to resolve their usage limit issues, they are the best Personal Agent AI experience out there. Hands down.\n\nIf ChatGPT Dots can be faster, like the Grok Bot experience, while keeping the great usage, they win.\n\nIs this what drives your decision for where your money goes in 2027??",
+   "urls": [],
+   "metrics": {
+    "likes": 802,
+    "reposts": 17,
+    "replies": 72,
+    "quotes": 6
+   },
+   "conversation_id": "2126358197933834326"
+  },
+  {
+   "id": "2126289414523371776",
+   "username": "IterIntellectus",
+   "name": "vittorio",
+   "created_at": "2026-11-27T12:17:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/IterIntellectus/status/2126289414523371776",
+   "kind": "post",
+   "text": "i don't know if i'm living in the future or in the past but my grok bot just sent a fax for me",
+   "urls": [],
+   "metrics": {
+    "likes": 2254,
+    "reposts": 45,
+    "replies": 130,
+    "quotes": 16
+   },
+   "conversation_id": "2126289414523371776"
+  },
+  {
+   "id": "2126148322838605889",
+   "username": "LuckyMcGee",
+   "name": "☘️𝕃𝕦𝕔𝕜𝕪 𝕄𝕔𝔾𝕖𝕖‎",
+   "created_at": "2026-11-27T02:57:16.000Z",
+   "lang": "en",
+   "url": "https://x.com/LuckyMcGee/status/2126148322838605889",
+   "kind": "quote",
+   "text": "While white liberals in Boston officially recognize Thanksgiving as a “Day of Mourning,” I‘d like to take a moment to remember the Huron who were constantly displaced by the Iroquois.\n\nThe Apache who were displaced, enslaved, tortured, raped and scalped by the Comanche.\n\nThe Pueblo, who were often enslaved as part of a wider slave trade run by the Navajo nations.\n\nMaybe we can revisit the awful and inhumane wars between the Blackfoot and Cree nations?\n\nPerhaps we can make a statue to the inhumane treatment of captured Kiowa women and children at the hands of the Osage?\n\nWill we forget the long running and inhumane conflicts between the Lakota alliances against the Cheyenne?\n\nYou see, American history is far more complex than your white liberal professors taught you.\n\nAnd all those atrocities didn’t end until the white man came and conquered this land and colonized the fuck out of it.\n\nYOU’RE WELCOME. 🇺🇸\n\nP.s. But sorry about the blankets. That was our bad.",
+   "urls": [],
+   "metrics": {
+    "likes": 28369,
+    "reposts": 7259,
+    "replies": 1113,
+    "quotes": 374
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYGYoXGXAAA8YNB.jpg",
+     "width": 335,
+     "height": 511
+    }
+   ],
+   "ref": {
+    "id": "2126129958833574065",
+    "author_id": "1674861136498286605",
+    "username": "westernlensman",
+    "name": "",
+    "created_at": "2026-11-27T01:44:18.000Z",
+    "text": "'National Day of Mourning' in Plymouth, MA:\n\n\"And until this country...and all settler colonial projects are dismantled, we will continue to live in the time of the pilgrims...we cannot allow their crimes to be sanitized and forgotten. And that is why...we have gathered on this hill to tear down the Thanksgiving mythology.\"\n\nThis isn't fringe thinking on the left.\n\nThey hate the country and want it destroyed.",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2126129596026228736/vid/avc1/1280x720/EC3o_bZzmz9CnB-1.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2126129596026228736/img/H8LVVWTvJxEriBmw.jpg",
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2126129596026228736/vid/avc1/480x270/BfyS0MNiTE0E8lGP.mp4",
+        "w": 480,
+        "h": 270,
+        "br": 256000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2126129596026228736/vid/avc1/640x360/fWXzlEAhBi478YmY.mp4",
+        "w": 640,
+        "h": 360,
+        "br": 832000
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2126129596026228736/vid/avc1/1280x720/EC3o_bZzmz9CnB-1.mp4",
+        "w": 1280,
+        "h": 720,
+        "br": 2176000
+       }
+      ],
+      "width": 1280,
+      "height": 720,
+      "duration_ms": 58300
+     }
+    ],
+    "conversation_id": "2126129958833574065"
+   },
+   "conversation_id": "2126148322838605889"
+  },
+  {
+   "id": "2126310099475956175",
+   "username": "paulg",
+   "name": "Paul Graham",
+   "created_at": "2026-11-27T13:40:07.000Z",
+   "lang": "en",
+   "url": "https://x.com/paulg/status/2126310099475956175",
+   "kind": "post",
+   "text": "15 year olds in California may to have to ride in a booster seat starting in January? We're now well into the territory of self-parody. This law should go.",
+   "urls": [],
+   "metrics": {
+    "likes": 4903,
+    "reposts": 345,
+    "replies": 580,
+    "quotes": 109
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYIrXRLXgAECPfc.png",
+     "width": 812,
+     "height": 593
+    }
+   ],
+   "conversation_id": "2126310099475956175"
+  },
+  {
+   "id": "2126380906843979898",
+   "username": "altcap",
+   "name": "Brad Gerstner",
+   "created_at": "2026-11-27T18:21:29.000Z",
+   "lang": "en",
+   "url": "https://x.com/altcap/status/2126380906843979898",
+   "kind": "post",
+   "text": "Must Listen to the end! @GavinNewsom rises above politics & nails it.  “I emphatically encourage people to claim their Trump Account… don’t fall prey to the political cynicism… this is your money.  It is direct, tangible, results oriented, not lost in bureaucracy.” 🎯🇺🇸🚀",
+   "urls": [],
+   "metrics": {
+    "likes": 6536,
+    "reposts": 532,
+    "replies": 400,
+    "quotes": 111
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2126380865836257280/vid/avc1/848x480/syKBLibdigL3R4tv.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2126380865836257280/img/A8UcYc81REA_sNM7.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2126380865836257280/vid/avc1/476x270/RoSAmns6BA8eGDjT.mp4",
+       "w": 476,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2126380865836257280/vid/avc1/636x360/lC4hRS6KF9v4vh_t.mp4",
+       "w": 636,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2126380865836257280/vid/avc1/848x480/syKBLibdigL3R4tv.mp4",
+       "w": 848,
+       "h": 480,
+       "br": 2176000
+      }
+     ],
+     "width": 848,
+     "height": 480,
+     "duration_ms": 113958
+    }
+   ],
+   "conversation_id": "2126380906843979898"
+  },
+  {
+   "id": "2126035016266486186",
+   "username": "lrocket",
+   "name": "Tom Mueller",
+   "created_at": "2026-11-26T19:27:02.000Z",
+   "lang": "en",
+   "url": "https://x.com/lrocket/status/2126035016266486186",
+   "kind": "reply",
+   "text": "@matthewstoller Whats next Matt, take a massive dump in the front seat of your Tesla?",
+   "urls": [],
+   "metrics": {
+    "likes": 2132,
+    "reposts": 52,
+    "replies": 49,
+    "quotes": 8
+   },
+   "reply_to": {
+    "id": "2125966772276752595",
+    "username": "matthewstoller"
+   },
+   "conversation_id": "2125966772276752595"
+  },
+  {
+   "id": "2126378276654641543",
+   "username": "shaunmmaguire",
+   "name": "Shaun Maguire",
+   "created_at": "2026-11-27T18:11:02.000Z",
+   "lang": "en",
+   "url": "https://x.com/shaunmmaguire/status/2126378276654641543",
+   "kind": "quote",
+   "text": "Anthropic should take these concerns very seriously",
+   "urls": [],
+   "metrics": {
+    "likes": 6219,
+    "reposts": 275,
+    "replies": 167,
+    "quotes": 22
+   },
+   "ref": {
+    "id": "2126281598517576049",
+    "author_id": "16674675",
+    "username": "jakozloski",
+    "name": "",
+    "created_at": "2026-11-27T11:46:52.000Z",
+    "text": "I just had Neon audit our codebase for subtle sabotage by Anthropic models.\n\nIt found Claude silently added rules to ignore users' explicit skin-tone preferences in our attraction model and it intentionally sabotaged our IQ estimation model.\n\nSilently imposing your ideology on paying customers' products (in this case making it harder for people to find a spouse) is despicable hubris.",
+    "conversation_id": "2126281598517576049",
+    "quote": {
+     "id": "2126161398187389140",
+     "unavailable": true,
+     "username": "kingbootoshi"
+    }
+   },
+   "conversation_id": "2126378276654641543"
+  },
+  {
+   "id": "2126311994995171813",
+   "username": "MichaelDell",
+   "name": "Michael Dell 🇺🇸",
+   "created_at": "2026-11-27T13:47:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/MichaelDell/status/2126311994995171813",
+   "kind": "post",
+   "text": "Our gift is about so much more than money.\n\nIt’s about teaching an entire generation of young Americans the power of investing, compound interest and ownership. 🇺🇸🚀",
+   "urls": [],
+   "metrics": {
+    "likes": 9154,
+    "reposts": 828,
+    "replies": 305,
+    "quotes": 40
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYItfV7XAAA-WcZ.jpg",
+     "width": 2140,
+     "height": 1546
+    }
+   ],
+   "conversation_id": "2126311994995171813"
+  },
+  {
+   "id": "2126376997081555016",
+   "username": "thetalesoftayls",
+   "name": "🧜🏻‍♀️",
+   "created_at": "2026-11-27T18:05:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/thetalesoftayls/status/2126376997081555016",
+   "kind": "reply",
+   "text": "@elonmusk @johnarnold @paulg elon you should watch the documentary poverty, inc about the corruption in charities",
+   "urls": [],
+   "metrics": {
+    "likes": 447,
+    "reposts": 11,
+    "replies": 16,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2126376500584702103",
+    "username": "elonmusk"
+   },
+   "conversation_id": "2126319131506983061"
+  },
+  {
+   "id": "2126319131506983061",
+   "username": "johnarnold",
+   "name": "John Arnold",
+   "created_at": "2026-11-27T14:16:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/johnarnold/status/2126319131506983061",
+   "kind": "post",
+   "text": "Elon's donation illustrates why Trump Accounts are a fantastic new model for giving.\n\nTo date, Elon has given $8.3 billion to his foundation, though very little of that has reached operating charities. Most of the money remains in the foundation or has been transferred to his personal DAF or a nonprofit he controls. The benefit to society has been minimal.\n\nHe's been skeptical of traditional philanthropy, arguing \"If you care about the reality of doing good and not the perception of doing good, then it is very hard to give away money effectively.\"\n\nHe's right that giving away billions of dollars effectively is difficult, especially if you have a day job, or three. I've seen many donors get frustrated by the process and then their giving doesn't match their philanthropic intent.\n\nThat's what makes Trump accounts so powerful. The impact is direct. Every dollar goes to the intended beneficiaries. And the model is infinitely scalable.\n\nWith a single donation, Musk will deliver more direct philanthropic benefit than through all his previous giving combined. And he's promising to do it every year. It's easy. It's effective. It's universal, at least to American children.\n\nRegardless of your view of Trump, regardless of your view of Elon, this form of giving is a great alternative model to traditional philanthropy and should be applauded.",
+   "urls": [],
+   "metrics": {
+    "likes": 3668,
+    "reposts": 341,
+    "replies": 156,
+    "quotes": 45
+   },
+   "conversation_id": "2126319131506983061"
+  },
+  {
+   "id": "2126065966966583541",
+   "username": "CorpseKings",
+   "name": "Corpse Kings",
+   "created_at": "2026-11-26T21:30:01.000Z",
+   "lang": "en",
+   "url": "https://x.com/CorpseKings/status/2126065966966583541",
+   "kind": "post",
+   "text": "Lying about Gary Gygax won't ever change the fact he co-created Dungeons & Dragons. Intentionally trying to harm his legacy won't ever lessen his influence on the hobby. You can kick and scream all you want, but the man's legacy is forever. 🎲",
+   "urls": [],
+   "metrics": {
+    "likes": 4955,
+    "reposts": 419,
+    "replies": 194,
+    "quotes": 23
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYDBP7WbYAAwsl1.png",
+     "width": 752,
+     "height": 898
+    }
+   ],
+   "conversation_id": "2126065966966583541"
+  },
+  {
+   "id": "2126143939589898501",
+   "username": "congressdj",
+   "name": "DJ",
+   "created_at": "2026-11-27T02:39:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/congressdj/status/2126143939589898501",
+   "kind": "post",
+   "text": "Went out for a 30 minute drive in the storm using FSD 15.0.1 hoping to catch something cool. But it was a boring drive. Utterly boring, and… perfect. Nothing happened. The drive was flawless. And that’s why v15 is going to blow people away.",
+   "urls": [],
+   "metrics": {
+    "likes": 2550,
+    "reposts": 77,
+    "replies": 64,
+    "quotes": 6
+   },
+   "conversation_id": "2126143939589898501"
+  },
+  {
+   "id": "2126134380083155386",
+   "username": "allegrajacchia",
+   "name": "Allegra Jacchia",
+   "created_at": "2026-11-27T02:01:52.000Z",
+   "lang": "en",
+   "url": "https://x.com/allegrajacchia/status/2126134380083155386",
+   "kind": "reply",
+   "text": "@gabriel1 Ew just delete the app",
+   "urls": [],
+   "metrics": {
+    "likes": 625,
+    "reposts": 23,
+    "replies": 32,
+    "quotes": 2
+   },
+   "reply_to": {
+    "id": "2126023122793210211",
+    "username": "gabriel1"
+   },
+   "conversation_id": "2126023122793210211"
+  },
+  {
+   "id": "2126160028923302348",
+   "username": "wholemars",
+   "name": "Whole Mars Catalog",
+   "created_at": "2026-11-27T03:43:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/wholemars/status/2126160028923302348",
+   "kind": "post",
+   "text": "look at the like to reply ratio",
+   "urls": [],
+   "metrics": {
+    "likes": 5121,
+    "reposts": 131,
+    "replies": 70,
+    "quotes": 8
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYGjRzNboAAYcFs.jpg",
+     "width": 1146,
+     "height": 1574
+    }
+   ],
+   "conversation_id": "2126160028923302348"
+  },
+  {
+   "id": "2126000482909130795",
+   "username": "jamesdouma",
+   "name": "jimmah",
+   "created_at": "2026-11-26T17:09:48.000Z",
+   "lang": "en",
+   "url": "https://x.com/jamesdouma/status/2126000482909130795",
+   "kind": "post",
+   "text": "“Weeks when decades happen” is every week now.",
+   "urls": [],
+   "metrics": {
+    "likes": 3547,
+    "reposts": 201,
+    "replies": 68,
+    "quotes": 19
+   },
+   "conversation_id": "2126000482909130795"
+  },
+  {
+   "id": "2100293815915421761",
+   "username": "niccruzpatane",
+   "name": "Nic Cruz Patane",
+   "created_at": "2026-09-16T18:40:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/niccruzpatane/status/2100293815915421761",
+   "kind": "post",
+   "text": "Every single @Tesla you buy today essentially operates like your own personal @Robotaxi.\n\nIt makes no sense to buy a car that you have to manually drive. This will change your life.",
+   "urls": [],
+   "metrics": {
+    "likes": 4377,
+    "reposts": 234,
+    "replies": 167,
+    "quotes": 21
+   },
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2100293606699335681/vid/avc1/3840x2160/xIontDPKyvpIJ9X4.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2100293606699335681/img/t-i7nQM9ddnKoAbi.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2100293606699335681/vid/avc1/480x270/dE_9SMjtqcjJmAIr.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2100293606699335681/vid/avc1/640x360/y-eF42LDal4TBb2N.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2100293606699335681/vid/avc1/1280x720/YDUAZxb5abS-yRJH.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2100293606699335681/vid/avc1/1920x1080/JvlRHf7lFpaFtfcK.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2100293606699335681/vid/avc1/3840x2160/xIontDPKyvpIJ9X4.mp4",
+       "w": 3840,
+       "h": 2160,
+       "br": 25128000
+      }
+     ],
+     "width": 3840,
+     "height": 2160,
+     "duration_ms": 30160
+    }
+   ],
+   "conversation_id": "2100293815915421761"
   }
  ],
  "missing": [

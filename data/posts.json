@@ -1,8 +1,761 @@
 {
- "updated_at": "2026-11-28T05:50:48Z",
- "count": 2711,
+ "updated_at": "2026-11-28T17:06:49Z",
+ "count": 2735,
  "accounts": 14,
  "posts": [
+  {
+   "id": "2126721202924171509",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T16:53:42.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126721202924171509",
+   "kind": "repost",
+   "text": "USAID took your tax dollars and let them flow straight into the hands of terrorists and fraudsters\n\nYour tax dollars funded the people who massacred civilians on October 7\n\nUSAID's own Inspector General just put it in writing\n\nIts November 13, 2026 report to Congress exposes https://t.co/NvuzJmUvmQ",
+   "urls": [],
+   "metrics": {
+    "likes": 1059,
+    "reposts": 365,
+    "replies": 106,
+    "quotes": 28
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126655678991507564",
+    "author_id": "1818311005698678784",
+    "username": "XFreeze",
+    "name": "X Freeze",
+    "created_at": "2026-11-28T12:33:19.000Z"
+   }
+  },
+  {
+   "id": "2126720760505049529",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T16:51:56.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126720760505049529",
+   "reply_to": {
+    "id": "2126712849841983509",
+    "username": "bgood2022"
+   },
+   "kind": "reply",
+   "text": "@bgood2022 @jukan05 🎯",
+   "urls": [],
+   "metrics": {
+    "likes": 105,
+    "reposts": 9,
+    "replies": 33,
+    "quotes": 3
+   },
+   "partial": true
+  },
+  {
+   "id": "2126717675472552100",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T16:39:40.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126717675472552100",
+   "kind": "repost",
+   "text": "Big Black Friday for Shopify merchants:\n\n- $7.6B in sales on Friday\n- Peak sales hit $6.8M per minute\n- Edge peaked at 13.1M requests per second\n- Database queries peaked at 71.2M requests per second\n- Shopify Functions peaked at 252K per second",
+   "urls": [],
+   "metrics": {
+    "likes": 1784,
+    "reposts": 129,
+    "replies": 139,
+    "quotes": 47
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126679131991789975",
+    "author_id": "676573",
+    "username": "tobi",
+    "name": "tobi lutke",
+    "created_at": "2026-11-28T14:06:31.000Z"
+   }
+  },
+  {
+   "id": "2126717395012034643",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T16:38:34.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126717395012034643",
+   "kind": "repost",
+   "text": "Totally agree with Elon, and it's a big reason Grok Bot beats the other personal assistants right now. My company's entire finance department runs on Grok Bots (one per job). The diagram below is how I set up our back office and middle office:\n\n- legal: the bot flags every red https://t.co/qOZKCXZDI7 https://t.co/5hEzcsnNGr",
+   "urls": [],
+   "metrics": {
+    "likes": 627,
+    "reposts": 81,
+    "replies": 50,
+    "quotes": 9
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126672011464491111",
+    "author_id": "1214594287",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-28T13:38:13.000Z",
+    "quote": {
+     "id": "2126413886576590925",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-11-27T20:32:32.000Z",
+     "text": "When using Grok Bots, it is important to create Bots with specialized roles, just like a human company. You can then have a manager bot oversee and coordinate their work.\n\nJust like a human employee, if you overload a single bot with a massive array of work, it will start dropping some of the balls.",
+     "conversation_id": "2126413886576590925"
+    }
+   }
+  },
+  {
+   "id": "2126717304125677996",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T16:38:12.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126717304125677996",
+   "kind": "repost",
+   "text": "JUST IN: Shopify reveals Grok Bot and other agents are playing a \"real role\" this shopping season, and calls it the first agentic Black Friday\n\nHarley Finkelstein (President): \"The reason I mention that is those are very specific products. And I think one of the new things that's happening in 2026 is this is the first real Black Friday where agentic is playing a real role. [Agentic meaning] Muse or Instinct or Grok Bot. These agents reward specificity.\"\n\n\"So what you're seeing is that consumers are not just saying, I want to buy a phone for my kids. I want to buy a screenless phone for my kids so I can call them when I'm traveling for work, like I do for Shopify. And instead of showing Best Buy, what's coming up is the Tin Can phone, who's already reported a 4x increase in sales from agentic sourcing.\"",
+   "urls": [],
+   "metrics": {
+    "likes": 697,
+    "reposts": 118,
+    "replies": 62,
+    "quotes": 39
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2126382937994379264/vid/avc1/1920x1080/frqDwh5V586VcfFI.mp4",
+     "poster": "https://pbs.twimg.com/amplify_video_thumb/2126382937994379264/img/55HS2bjHqkDri5xJ.jpg",
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2126382937994379264/vid/avc1/480x270/n7Cl8C1-MlFcHDIA.mp4",
+       "w": 480,
+       "h": 270,
+       "br": 256000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2126382937994379264/vid/avc1/640x360/HlU3cmf5VmBwjp00.mp4",
+       "w": 640,
+       "h": 360,
+       "br": 832000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2126382937994379264/vid/avc1/1280x720/GUVwB75hjmsZVV5E.mp4",
+       "w": 1280,
+       "h": 720,
+       "br": 2176000
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2126382937994379264/vid/avc1/1920x1080/frqDwh5V586VcfFI.mp4",
+       "w": 1920,
+       "h": 1080,
+       "br": 10368000
+      }
+     ],
+     "width": 1920,
+     "height": 1080,
+     "duration_ms": 42008
+    }
+   ],
+   "ref": {
+    "id": "2126383852025463152",
+    "author_id": "2066250685512110080",
+    "username": "firesidealpha",
+    "name": "Fireside Alpha",
+    "created_at": "2026-11-27T18:33:11.000Z",
+    "conversation_id": "2126383852025463152",
+    "quote": {
+     "id": "2115167081780093145",
+     "author_id": "2066250685512110080",
+     "username": "firesidealpha",
+     "name": "Fireside Alpha",
+     "created_at": "2026-10-27T19:41:44.000Z",
+     "text": "Gavin Baker says Grok Bot is the most impactful AI product he and his firm have had yet, and reveals he’s up to 17 Grok Bots\n\n“I mean, as a user, Grok Bot is the most impactful AI product to me and to the firm that we’ve had yet. I glued together all this stuff with Claude Code, and I’m sure it was user error on my part, you know, 50 years old. I’m doing my best.\"\n\n\"But Grok Bot, it just makes it so easy. I think I’m up to like 17 Grok Bots. And every day I think of a new one to add.”",
+     "media": [
+      {
+       "type": "video",
+       "url": "https://video.twimg.com/amplify_video/2115166648361779200/vid/avc1/1280x720/QzYx5tmfyzlSCbEl.mp4",
+       "poster": "https://pbs.twimg.com/amplify_video_thumb/2115166648361779200/img/gd7KfiOQFs3R2HwE.jpg",
+       "variants": [
+        {
+         "url": "https://video.twimg.com/amplify_video/2115166648361779200/vid/avc1/480x270/ZnuoWbvpC1LBlEN5.mp4",
+         "w": 480,
+         "h": 270,
+         "br": 256000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2115166648361779200/vid/avc1/640x360/MEBccloS64q0FuNZ.mp4",
+         "w": 640,
+         "h": 360,
+         "br": 832000
+        },
+        {
+         "url": "https://video.twimg.com/amplify_video/2115166648361779200/vid/avc1/1280x720/QzYx5tmfyzlSCbEl.mp4",
+         "w": 1280,
+         "h": 720,
+         "br": 2176000
+        }
+       ],
+       "width": 1280,
+       "height": 720,
+       "duration_ms": 30500
+      }
+     ],
+     "conversation_id": "2115167081780093145"
+    }
+   }
+  },
+  {
+   "id": "2126716783067279865",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T16:36:08.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126716783067279865",
+   "reply_to": {
+    "id": "2126671201086869527",
+    "username": "GavinSBaker"
+   },
+   "kind": "reply",
+   "text": "@GavinSBaker Interesting",
+   "urls": [],
+   "metrics": {
+    "likes": 719,
+    "reposts": 42,
+    "replies": 114,
+    "quotes": 12
+   },
+   "partial": true
+  },
+  {
+   "id": "2126716767456379193",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T16:36:04.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126716767456379193",
+   "kind": "repost",
+   "text": "The most important assumption in the SALP letter is that RSI creates an oligopoly at the frontier with real pricing power. TLDR; market structure at the frontier might be the single most important variable for tech investing over the next 2-3 years.\n\nIf the model layer is more",
+   "urls": [],
+   "metrics": {
+    "likes": 2050,
+    "reposts": 187,
+    "replies": 176,
+    "quotes": 50
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126671201086869527",
+    "author_id": "340387261",
+    "username": "GavinSBaker",
+    "name": "Gavin Baker",
+    "created_at": "2026-11-28T13:35:00.000Z"
+   }
+  },
+  {
+   "id": "2126714764394967153",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T16:28:06.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126714764394967153",
+   "kind": "quote",
+   "text": "True https://t.co/WOhFcp2DkP",
+   "urls": [],
+   "metrics": {
+    "likes": 3110,
+    "reposts": 479,
+    "replies": 400,
+    "quotes": 26
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126687056693010620",
+    "author_id": "1320917783597625349",
+    "username": "DataRepublican",
+    "name": "DataRepublican (small r)",
+    "created_at": "2026-11-28T14:38:00.000Z",
+    "text": "Bumping up this article in light of today's NYT smear piece.\n\nIt is rich for NYT to claim USAID cuts caused deaths in South Sudan, because South Sudan in and of itself was an USAID-aligned creation in the first place.\n\nUSA spent massive amounts of money building military and https://t.co/EAhEVd1hWw",
+    "quote": {
+     "id": "2072835441137750284",
+     "unavailable": true
+    }
+   }
+  },
+  {
+   "id": "2126644205967802424",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T11:47:44.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126644205967802424",
+   "reply_to": {
+    "id": "2126574963326922971",
+    "username": "XFreeze"
+   },
+   "kind": "reply",
+   "text": "@XFreeze Yes",
+   "urls": [],
+   "metrics": {
+    "likes": 7515,
+    "reposts": 180,
+    "replies": 558,
+    "quotes": 33
+   },
+   "partial": true
+  },
+  {
+   "id": "2126644063525089628",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T11:47:10.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126644063525089628",
+   "kind": "quote",
+   "text": "Exactly. They caused a lot of death. https://t.co/fbqoBQbBOA",
+   "urls": [],
+   "metrics": {
+    "likes": 26843,
+    "reposts": 6332,
+    "replies": 1635,
+    "quotes": 263
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126284914949513677",
+    "author_id": "1099579684981944320",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-27T12:00:02.000Z",
+    "text": "USAID was used as a weapon for regime change. Its true purpose was to use our tax money to influence elections worldwide. Between 2020-2024 USAID spent $817.4 million on overseas programs FOR FOREIGN ELECTIONS:\n\n- $49.8M Ukraine \"Ukraine Responsive and Accountable Politics https://t.co/IcMKYz9DVb"
+   }
+  },
+  {
+   "id": "2126643715842158849",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T11:45:47.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126643715842158849",
+   "kind": "repost",
+   "text": "6,000 journalists and 700 newsrooms received USAID money.\n\nThink about that.\n\nIt's a wonder all of them parrot the same news.\n\nNot.",
+   "urls": [],
+   "metrics": {
+    "likes": 23562,
+    "reposts": 6317,
+    "replies": 475,
+    "quotes": 281
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126480640682111313",
+    "author_id": "1689393367833313286",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-28T00:57:47.000Z"
+   }
+  },
+  {
+   "id": "2126643130690646050",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T11:43:28.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126643130690646050",
+   "kind": "repost",
+   "text": "It's been determined that George Soros received $260M from USAID.\n\nHe didn't spend his own money to destroy the American justice system.\n\nHe used ours.",
+   "urls": [],
+   "metrics": {
+    "likes": 38613,
+    "reposts": 8662,
+    "replies": 739,
+    "quotes": 266
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126467587446042955",
+    "author_id": "1689393367833313286",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-28T00:05:55.000Z"
+   }
+  },
+  {
+   "id": "2126642766809550889",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T11:42:01.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126642766809550889",
+   "kind": "repost",
+   "text": "Soo..... I downloaded the https://t.co/s9bi0lDcSg files and fed them through a few grinders and built an Obsidian vault...\n\nHey @TheJusticeDept @FBIDirectorKash @POTUS when can we start the trials? This is one massive treasonous RICO case, and that is just for starters...\n\nWe https://t.co/BqF5XYZzng",
+   "urls": [],
+   "metrics": {
+    "likes": 23583,
+    "reposts": 6374,
+    "replies": 864,
+    "quotes": 346
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126329054814994704",
+    "author_id": "1958978896377827328",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-27T14:55:26.000Z"
+   }
+  },
+  {
+   "id": "2126573369726578946",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T07:06:15.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126573369726578946",
+   "reply_to": {
+    "id": "2126412956350939297",
+    "username": "TSLAFanMtl"
+   },
+   "kind": "reply",
+   "text": "@TSLAFanMtl People have no idea what happens when a super capable hardware company enters an arena of slowpokes.\n\nHyposcalers would be a more accurate description.",
+   "urls": [],
+   "metrics": {
+    "likes": 19455,
+    "reposts": 985,
+    "replies": 580,
+    "quotes": 98
+   },
+   "partial": true
+  },
+  {
+   "id": "2126572259896623544",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T07:01:51.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126572259896623544",
+   "reply_to": {
+    "id": "2126569877221621795",
+    "username": "elonmusk"
+   },
+   "kind": "reply",
+   "text": "@XFreeze The rental price for large, coherent blocks of compute configured for high-bandwidth training is increasing, sometimes very significantly, but the price for small amounts of compute (below ~5k GPUs) is decreasing.\n\nOverall, the average rental price per GPU for SpaceX compute is",
+   "urls": [],
+   "metrics": {
+    "likes": 7215,
+    "reposts": 516,
+    "replies": 279,
+    "quotes": 194
+   },
+   "partial": true
+  },
+  {
+   "id": "2126569877221621795",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T06:52:23.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126569877221621795",
+   "reply_to": {
+    "id": "2126568578468241714",
+    "username": "XFreeze"
+   },
+   "kind": "reply",
+   "text": "@XFreeze Not sure who will buy more, but Google has expressed interest in renting more compute from us",
+   "urls": [],
+   "metrics": {
+    "likes": 11301,
+    "reposts": 518,
+    "replies": 369,
+    "quotes": 123
+   },
+   "partial": true
+  },
+  {
+   "id": "2126567918884331840",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T06:44:36.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126567918884331840",
+   "kind": "repost",
+   "text": "ELON IS TELLING YOU HOW TO USE GROK BOT. https://t.co/PlfVI90XKY",
+   "urls": [],
+   "metrics": {
+    "likes": 3045,
+    "reposts": 244,
+    "replies": 131,
+    "quotes": 8
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126488241255924042",
+    "author_id": "2008357481769205760",
+    "username": "ducksays",
+    "name": "duck says",
+    "created_at": "2026-11-28T01:27:59.000Z",
+    "quote": {
+     "id": "2126413886576590925",
+     "author_id": "44196397",
+     "username": "elonmusk",
+     "name": "Elon Musk",
+     "created_at": "2026-11-27T20:32:32.000Z",
+     "text": "When using Grok Bots, it is important to create Bots with specialized roles, just like a human company. You can then have a manager bot oversee and coordinate their work.\n\nJust like a human employee, if you overload a single bot with a massive array of work, it will start dropping some of the balls.",
+     "conversation_id": "2126413886576590925"
+    }
+   }
+  },
+  {
+   "id": "2126567035308233215",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T06:41:05.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126567035308233215",
+   "kind": "repost",
+   "text": "Geminiの昔と今... https://t.co/T5i1TF4mYT",
+   "urls": [],
+   "metrics": {
+    "likes": 6945,
+    "reposts": 421,
+    "replies": 125,
+    "quotes": 59
+   },
+   "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYIMdUCbYAAsyRE.jpg",
+     "width": 960,
+     "height": 1200
+    }
+   ],
+   "ref": {
+    "id": "2126275844343763042",
+    "author_id": "1906582748669841408",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-27T11:24:00.000Z"
+   }
+  },
+  {
+   "id": "2126566261543076022",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T06:38:01.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126566261543076022",
+   "kind": "repost",
+   "text": "Anthropic releases a statement and clarification on Claude sabotaging your work -- on Friday night after Thanksgiving.\n\nSurprising part is they were not prepared for this backlash. Though stories have been going on for months.\n\nSomething broke.\n\nhttps://t.co/AS20z9BrWe https://t.co/SFnoBN6muN https://t.co/w2EhZtDrSO",
+   "urls": [],
+   "metrics": {
+    "likes": 4015,
+    "reposts": 544,
+    "replies": 204,
+    "quotes": 59
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126547116763783377",
+    "author_id": "110505844",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-28T05:21:56.000Z",
+    "quote": {
+     "id": "2126507795642187855",
+     "unavailable": true
+    }
+   }
+  },
+  {
+   "id": "2126565603016425859",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T06:35:24.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126565603016425859",
+   "kind": "quote",
+   "text": "🎯 https://t.co/NQGrALtbMt",
+   "urls": [],
+   "metrics": {
+    "likes": 49094,
+    "reposts": 6966,
+    "replies": 2470,
+    "quotes": 438
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126535950884872443",
+    "author_id": "1527011180308574208",
+    "username": "",
+    "name": "",
+    "created_at": "2026-11-28T04:37:34.000Z",
+    "text": "@WallStreetMav Therapy: https://t.co/VOd6Bsihtb",
+    "reply_to": {
+     "id": "2126488665761423423",
+     "username": "WallStreetMav"
+    }
+   }
+  },
+  {
+   "id": "2126565564558537075",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T06:35:14.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126565564558537075",
+   "kind": "repost",
+   "text": "Therapy is such a funny concept.\n\nIt’s basically: “wow, I have so many problems in my life. I should talk to some idiot who voted for Kamala Harris..”",
+   "urls": [],
+   "metrics": {
+    "likes": 17932,
+    "reposts": 1296,
+    "replies": 331,
+    "quotes": 91
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126488665761423423",
+    "author_id": "1366565625401909249",
+    "username": "WallStreetMav",
+    "name": "Wall Street Mav",
+    "created_at": "2026-11-28T01:29:40.000Z"
+   }
+  },
+  {
+   "id": "2126565291165635039",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T06:34:09.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126565291165635039",
+   "reply_to": {
+    "id": "2126553596762497485",
+    "username": "deedydas"
+   },
+   "kind": "reply",
+   "text": "@deedydas Given their extreme decline, can it really be said that they are actually aware of the situation?",
+   "urls": [],
+   "metrics": {
+    "likes": 9278,
+    "reposts": 367,
+    "replies": 366,
+    "quotes": 63
+   },
+   "partial": true
+  },
+  {
+   "id": "2126563155157344530",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T06:25:40.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126563155157344530",
+   "kind": "quote",
+   "text": "It is very useful https://t.co/kp5R9zRQdn",
+   "urls": [],
+   "metrics": {
+    "likes": 4089,
+    "reposts": 510,
+    "replies": 551,
+    "quotes": 66
+   },
+   "partial": true,
+   "ref": {
+    "id": "2126548287750893783",
+    "author_id": "2096819916175212548",
+    "username": "alexmichael",
+    "name": "Alex",
+    "created_at": "2026-11-28T05:26:35.000Z",
+    "text": "Google's own Logan Kilpatrick, who works on Gemini, says he uses Grok Bot almost every day 👀 https://t.co/XstzloLCGJ https://t.co/ART7wwCr6x",
+    "quote": {
+     "id": "2126489212371546531",
+     "author_id": "284333988",
+     "username": "OfficialLoganK",
+     "name": "Logan Kilpatrick",
+     "created_at": "2026-11-28T01:31:51.000Z",
+     "text": "@ksprashu @instinct @bot good question, I think it’s mostly the interface for a lot of people. Though I use GrokBot pretty much every day, very helpful product!",
+     "reply_to": {
+      "id": "2126484000273584148"
+     }
+    }
+   }
+  },
+  {
+   "id": "2126563031614410895",
+   "author_id": "44196397",
+   "username": "elonmusk",
+   "name": "Elon Musk",
+   "created_at": "2026-11-28T06:25:11.000Z",
+   "lang": null,
+   "conversation_id": null,
+   "url": "https://x.com/elonmusk/status/2126563031614410895",
+   "reply_to": {
+    "id": "2126489212371546531",
+    "username": "OfficialLoganK"
+   },
+   "kind": "reply",
+   "text": "@OfficialLoganK @ksprashu @instinct @bot 🫶",
+   "urls": [],
+   "metrics": {
+    "likes": 908,
+    "reposts": 41,
+    "replies": 50,
+    "quotes": 4
+   },
+   "partial": true
+  },
   {
    "id": "2126552552166871085",
    "author_id": "44196397",
@@ -99560,8 +100313,9 @@
   }
  ],
  "last_run": {
-  "status": "new",
-  "at": "2026-11-28T05:51:40Z",
-  "new_posts": 98
+  "status": "running",
+  "at": "2026-11-28T17:07:09Z",
+  "new_posts": 24,
+  "handle": "elonmusk"
  }
 }

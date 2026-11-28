@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T06:03:06Z",
+ "updated_at": "2026-11-28T17:07:49Z",
  "posts": [
   {
    "id": "2119853915785277859",
@@ -25812,6 +25812,156 @@
     "quotes": 92
    },
    "conversation_id": "2126079686975627723"
+  },
+  {
+   "id": "2126712849841983509",
+   "username": "bgood2022",
+   "name": "J",
+   "created_at": "2026-11-28T16:20:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/bgood2022/status/2126712849841983509",
+   "kind": "reply",
+   "text": "@jukan05 Leopold has never worked in HW and it shows.",
+   "urls": [],
+   "metrics": {
+    "likes": 23,
+    "reposts": 1,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2126679634452545752",
+    "username": "jukan05"
+   },
+   "conversation_id": "2126679634452545752"
+  },
+  {
+   "id": "2126671201086869527",
+   "username": "GavinSBaker",
+   "name": "Gavin Baker",
+   "created_at": "2026-11-28T13:35:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/GavinSBaker/status/2126671201086869527",
+   "kind": "post",
+   "text": "The most important assumption in the SALP letter is that RSI creates an oligopoly at the frontier with real pricing power. TLDR; market structure at the frontier might be the single most important variable for tech investing over the next 2-3 years.\n\nIf the model layer is more competitive, then intelligence will be priced closer to cost and the surplus will flow to compute, customers and incumbents with real distribution rather than the labs. And obviously many of the incumbents mentioned in the letter would then thrive rather than die. Simply said, the better that Anthropic and OpenAI do vs. other model competitors, the worse it is for almost every other company on earth especially AI infra and especially apps.\n\nOn balance, I do think that Neon - and the overall recent pace from GDM - cuts against many of the more extreme assumptions in the letter. The risk for OpenAI and Anthropic is that a vertically integrated lab with much lower compute costs clearly reaches the frontier before they successfully vertically integrate.\n\nNew releases from Gemini, Muse, Grok and the forthcoming larger training runs from American open-source labs like Reflection, Thinking Machines and of course Nvidia are big cards that we will turn over in the next few months. Especially Nvidia given they are the “trainer of last resort.”\n\n“Gemini Distillation Services” are very interesting in this context. Makes one wonder why Microsoft is not fully open-sourcing given their recent acceleration in perplexity gains from pre-training.\n\nAnd of course, OpenAI’s last financing round looks like a mistake as Anthropic probably needs to be worth over $3 trillion for OpenAI to be vaguely financeable and they will need a financing in the next 15 months. But so many strategics have an incentive to help OpenAI that unlikely to be a real issue. Can probably “grow” into the valuation with some help from strategics.\n\nSALP letter was great btw. Leopold is a very smart, resilient guy with incredible connectivity in the SF AI community. Also noteworthy that they have increased headcount by roughly 50% since June 30th given their views on AI. Humans might turn out to have a longer shelf life than expected.\n\nFluid intelligence per watt FTW. For now.",
+   "urls": [],
+   "metrics": {
+    "likes": 2058,
+    "reposts": 187,
+    "replies": 177,
+    "quotes": 51
+   },
+   "conversation_id": "2126671201086869527"
+  },
+  {
+   "id": "2126574963326922971",
+   "username": "XFreeze",
+   "name": "X Freeze",
+   "created_at": "2026-11-28T07:12:35.000Z",
+   "lang": "en",
+   "url": "https://x.com/XFreeze/status/2126574963326922971",
+   "kind": "post",
+   "text": "Elon Musk once said:\n\n“Put ‘Never Went to Therapy’ on my gravestone”",
+   "urls": [],
+   "metrics": {
+    "likes": 3574,
+    "reposts": 211,
+    "replies": 137,
+    "quotes": 25
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYMcpZYbAAAMZNd.jpg",
+     "width": 1920,
+     "height": 1080
+    }
+   ],
+   "conversation_id": "2126574963326922971"
+  },
+  {
+   "id": "2126412956350939297",
+   "username": "TSLAFanMtl",
+   "name": "James Cat",
+   "created_at": "2026-11-27T20:28:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/TSLAFanMtl/status/2126412956350939297",
+   "kind": "post",
+   "text": "SpaceX biggest competitive advantage over the next 12 months won't be Starship; it will be how fast they can get data centers built, energized and operational. Starship comes in 2028 :)",
+   "urls": [],
+   "metrics": {
+    "likes": 4652,
+    "reposts": 134,
+    "replies": 50,
+    "quotes": 6
+   },
+   "conversation_id": "2126412956350939297"
+  },
+  {
+   "id": "2126568578468241714",
+   "username": "XFreeze",
+   "name": "X Freeze",
+   "created_at": "2026-11-28T06:47:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/XFreeze/status/2126568578468241714",
+   "kind": "post",
+   "text": "I wouldn't be surprised if Google actually ends up buying more SI compute from SpaceX than Anthropic\n\nGoogle has made commitments to provide free access to Gemini's paid plans for upto two years across many countries\n\nAnd now Google has incredibly good models....sooner or later they going to need a hell lot of compute\n\nAnd now Elon is building the compute infrastructure in a year that nearly took Google like two decades to build",
+   "urls": [],
+   "metrics": {
+    "likes": 3400,
+    "reposts": 150,
+    "replies": 161,
+    "quotes": 23
+   },
+   "conversation_id": "2126568578468241714"
+  },
+  {
+   "id": "2126553596762497485",
+   "username": "deedydas",
+   "name": "Deedy",
+   "created_at": "2026-11-28T05:47:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/deedydas/status/2126553596762497485",
+   "kind": "post",
+   "text": "\"We estimate the total compute used for Anthropic's internal use of Claude is 1/3rd of worldwide usage\"\n\nInsane new stat drop from Leopold's Situational Awareness letter.",
+   "urls": [],
+   "metrics": {
+    "likes": 5970,
+    "reposts": 338,
+    "replies": 242,
+    "quotes": 132
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYMI2J7bYAA8mn-.jpg",
+     "width": 1542,
+     "height": 970
+    }
+   ],
+   "conversation_id": "2126553596762497485"
+  },
+  {
+   "id": "2126489212371546531",
+   "username": "OfficialLoganK",
+   "name": "Logan Kilpatrick",
+   "created_at": "2026-11-28T01:31:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/OfficialLoganK/status/2126489212371546531",
+   "kind": "reply",
+   "text": "@ksprashu @instinct @bot good question, I think it’s mostly the interface for a lot of people. Though I use GrokBot pretty much every day, very helpful product!",
+   "urls": [],
+   "metrics": {
+    "likes": 802,
+    "reposts": 41,
+    "replies": 30,
+    "quotes": 24
+   },
+   "reply_to": {
+    "id": "2126484000273584148",
+    "username": "ksprashu"
+   },
+   "conversation_id": "2126434025292144821"
   }
  ],
  "missing": [

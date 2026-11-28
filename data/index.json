@@ -3,10 +3,9 @@
  "post_count": 2735,
  "accounts": 14,
  "last_run": {
-  "status": "running",
-  "at": "2026-11-28T17:07:09Z",
-  "new_posts": 24,
-  "handle": "elonmusk"
+  "status": "new",
+  "at": "2026-11-28T17:07:59Z",
+  "new_posts": 24
  },
  "shards": [
   {
@@ -71,21 +70,21 @@
    "id": "2026-11-p1",
    "file": "parents/2026-11-p1.json",
    "count": 400,
-   "newest_id": "2126552088067092574",
-   "oldest_id": "2123876850917163011"
+   "newest_id": "2126712849841983509",
+   "oldest_id": "2123893687319208147"
   },
   {
    "id": "2026-11-p2",
    "file": "parents/2026-11-p2.json",
    "count": 400,
-   "newest_id": "2123876667571519947",
-   "oldest_id": "2120384390299591033"
+   "newest_id": "2123893207297606116",
+   "oldest_id": "2120385645592104973"
   },
   {
    "id": "2026-11-p3",
    "file": "parents/2026-11-p3.json",
-   "count": 82,
-   "newest_id": "2120383964686729410",
+   "count": 89,
+   "newest_id": "2120385369283723419",
    "oldest_id": "2116732487833411999"
   },
   {
@@ -110,5 +109,5 @@
    "oldest_id": "1731918127355556334"
   }
  ],
- "version": "c7dc1eca93df685b61bd449558e53283cb40e8168cbc12d968d2e8d49f830d30"
+ "version": "eda6afa1a0a9218437447856d51dbc4556f9fbaf35b36c20a66516c7890296f2"
 }

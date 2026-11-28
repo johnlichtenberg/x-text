@@ -13,21 +13,48 @@
    "conversation_id": null,
    "url": "https://x.com/elonmusk/status/2126721202924171509",
    "kind": "repost",
-   "text": "USAID took your tax dollars and let them flow straight into the hands of terrorists and fraudsters\n\nYour tax dollars funded the people who massacred civilians on October 7\n\nUSAID's own Inspector General just put it in writing\n\nIts November 13, 2026 report to Congress exposes https://t.co/NvuzJmUvmQ",
+   "text": "USAID took your tax dollars and let them flow straight into the hands of terrorists and fraudsters\n\nYour tax dollars funded the people who massacred civilians on October 7\n\nUSAID's own Inspector General just put it in writing\n\nIts November 13, 2026 report to Congress exposes fraud, waste and direct ties to terror\n\n• $882 million in funds audited\n• 20 new investigations opened\n• 11 criminal convictions\n• 4 arrests\n• 22 government-wide suspensions and debarments\n• 105 current and former UNRWA staff referred for suspension or debarment over participation in the October 7 massacre or affiliation with Hamas's military wing\n\nAnd it gets so much worse\n\n• Over $50 million in questioned costs that were ineligible or lacked support\n• Weak vetting across $650 million in humanitarian programs in the West Bank and Gaza\n• Around $122,000 in US-funded equipment handed over to the Houthis in Yemen\n\nHamas terrorists on a US-funded payroll\n\nHouthis walking off with American equipment\n\nThis was never charity\n\nIt was a slush fund for terrorists and fraudsters, and Americans paid for it",
    "urls": [],
    "metrics": {
-    "likes": 1059,
-    "reposts": 365,
-    "replies": 106,
+    "likes": 1088,
+    "reposts": 375,
+    "replies": 108,
     "quotes": 28
    },
    "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYNmEBTaIAADx4G.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYNmEBFbAAAokLL.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYNmEA-bEAA0Zek.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYNmEA-aIAIgJAk.jpg",
+     "width": 1920,
+     "height": 1080
+    }
+   ],
    "ref": {
     "id": "2126655678991507564",
     "author_id": "1818311005698678784",
     "username": "XFreeze",
     "name": "X Freeze",
-    "created_at": "2026-11-28T12:33:19.000Z"
+    "created_at": "2026-11-28T12:33:19.000Z",
+    "conversation_id": "2126655678991507564"
    }
   },
   {
@@ -91,21 +118,33 @@
    "conversation_id": null,
    "url": "https://x.com/elonmusk/status/2126717395012034643",
    "kind": "repost",
-   "text": "Totally agree with Elon, and it's a big reason Grok Bot beats the other personal assistants right now. My company's entire finance department runs on Grok Bots (one per job). The diagram below is how I set up our back office and middle office:\n\n- legal: the bot flags every red https://t.co/qOZKCXZDI7 https://t.co/5hEzcsnNGr",
-   "urls": [],
+   "text": "Totally agree with Elon, and it's a big reason Grok Bot beats the other personal assistants right now. My company's entire finance department runs on Grok Bots (one per job). The diagram below is how I set up our back office and middle office:\n\n- legal: the bot flags every red line before we send a contract to counsel, and our legal bill is down over 90%\n- formatting, with its own system prompt and a database of what good and bad look like\n- invoicing, same setup\n- FP&A, connected to our credit cards and bank accounts, sending a weekly report with charts and forward projections\n\nWe've replaced our entire FP&A and finance team, and the FP&A is better than what we had before!\n\nP.S. I wrote a (free) 250 page guide on Grokbot for Investing. Check it out here: https://www.davewang.ai/resources/grok-bot-for-investors",
+   "urls": [
+    "https://www.davewang.ai/resources/grok-bot-for-investors"
+   ],
    "metrics": {
-    "likes": 627,
-    "reposts": 81,
+    "likes": 638,
+    "reposts": 82,
     "replies": 50,
     "quotes": 9
    },
    "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYN07IRbAAAyY5R.jpg",
+     "width": 2400,
+     "height": 1350,
+     "alt": "Figure 1: Diagram of a Grok Bot team for back office and middle office finance. Inputs (Gmail, Google Drive, bank accounts, credit cards) flow left to right through back office bots and middle office bots to outputs. A Manager Bot coordinates the bots, and a Slack layer stores inputs, outputs and human feedback."
+    }
+   ],
    "ref": {
     "id": "2126672011464491111",
     "author_id": "1214594287",
-    "username": "",
-    "name": "",
+    "username": "DaveWangMIA",
+    "name": "Dave Wang",
     "created_at": "2026-11-28T13:38:13.000Z",
+    "conversation_id": "2126672011464491111",
     "quote": {
      "id": "2126413886576590925",
      "author_id": "44196397",
@@ -254,13 +293,13 @@
    "conversation_id": null,
    "url": "https://x.com/elonmusk/status/2126716767456379193",
    "kind": "repost",
-   "text": "The most important assumption in the SALP letter is that RSI creates an oligopoly at the frontier with real pricing power. TLDR; market structure at the frontier might be the single most important variable for tech investing over the next 2-3 years.\n\nIf the model layer is more",
+   "text": "The most important assumption in the SALP letter is that RSI creates an oligopoly at the frontier with real pricing power. TLDR; market structure at the frontier might be the single most important variable for tech investing over the next 2-3 years.\n\nIf the model layer is more competitive, then intelligence will be priced closer to cost and the surplus will flow to compute, customers and incumbents with real distribution rather than the labs. And obviously many of the incumbents mentioned in the letter would then thrive rather than die. Simply said, the better that Anthropic and OpenAI do vs. other model competitors, the worse it is for almost every other company on earth especially AI infra and especially apps.\n\nOn balance, I do think that Neon - and the overall recent pace from GDM - cuts against many of the more extreme assumptions in the letter. The risk for OpenAI and Anthropic is that a vertically integrated lab with much lower compute costs clearly reaches the frontier before they successfully vertically integrate.\n\nNew releases from Gemini, Muse, Grok and the forthcoming larger training runs from American open-source labs like Reflection, Thinking Machines and of course Nvidia are big cards that we will turn over in the next few months. Especially Nvidia given they are the “trainer of last resort.”\n\n“Gemini Distillation Services” are very interesting in this context. Makes one wonder why Microsoft is not fully open-sourcing given their recent acceleration in perplexity gains from pre-training.\n\nAnd of course, OpenAI’s last financing round looks like a mistake as Anthropic probably needs to be worth over $3 trillion for OpenAI to be vaguely financeable and they will need a financing in the next 15 months. But so many strategics have an incentive to help OpenAI that unlikely to be a real issue. Can probably “grow” into the valuation with some help from strategics.\n\nSALP letter was great btw. Leopold is a very smart, resilient guy with incredible connectivity in the SF AI community. Also noteworthy that they have increased headcount by roughly 50% since June 30th given their views on AI. Humans might turn out to have a longer shelf life than expected.\n\nFluid intelligence per watt FTW. For now.",
    "urls": [],
    "metrics": {
-    "likes": 2050,
+    "likes": 2058,
     "reposts": 187,
-    "replies": 176,
-    "quotes": 50
+    "replies": 177,
+    "quotes": 51
    },
    "partial": true,
    "ref": {
@@ -268,7 +307,8 @@
     "author_id": "340387261",
     "username": "GavinSBaker",
     "name": "Gavin Baker",
-    "created_at": "2026-11-28T13:35:00.000Z"
+    "created_at": "2026-11-28T13:35:00.000Z",
+    "conversation_id": "2126671201086869527"
    }
   },
   {
@@ -296,10 +336,17 @@
     "username": "DataRepublican",
     "name": "DataRepublican (small r)",
     "created_at": "2026-11-28T14:38:00.000Z",
-    "text": "Bumping up this article in light of today's NYT smear piece.\n\nIt is rich for NYT to claim USAID cuts caused deaths in South Sudan, because South Sudan in and of itself was an USAID-aligned creation in the first place.\n\nUSA spent massive amounts of money building military and https://t.co/EAhEVd1hWw",
+    "text": "Bumping up this article in light of today's NYT smear piece.\n\nIt is rich for NYT to claim USAID cuts caused deaths in South Sudan, because South Sudan in and of itself was an USAID-aligned creation in the first place.\n\nUSA spent massive amounts of money building military and governing institutions there.\n\nSouth Sudan ended up in civil war and having all their resources pillaged by China.",
+    "conversation_id": "2126687056693010620",
     "quote": {
      "id": "2072835441137750284",
-     "unavailable": true
+     "author_id": "1320917783597625349",
+     "username": "DataRepublican",
+     "name": "DataRepublican (small r)",
+     "created_at": "2026-07-03T00:10:55.000Z",
+     "text": "http://x.com/i/article/2072833087164329984",
+     "article_title": "The 400,000 USAID Deaths in South Sudan That Nicholas Kristof Will Not Tell You About ",
+     "conversation_id": "2072835441137750284"
     }
    }
   },
@@ -349,10 +396,19 @@
    "ref": {
     "id": "2126284914949513677",
     "author_id": "1099579684981944320",
-    "username": "",
-    "name": "",
+    "username": "WallStreetApes",
+    "name": "Wall Street Apes",
     "created_at": "2026-11-27T12:00:02.000Z",
-    "text": "USAID was used as a weapon for regime change. Its true purpose was to use our tax money to influence elections worldwide. Between 2020-2024 USAID spent $817.4 million on overseas programs FOR FOREIGN ELECTIONS:\n\n- $49.8M Ukraine \"Ukraine Responsive and Accountable Politics https://t.co/IcMKYz9DVb"
+    "text": "USAID was used as a weapon for regime change. Its true purpose was to use our tax money to influence elections worldwide. Between 2020-2024 USAID spent $817.4 million on overseas programs FOR FOREIGN ELECTIONS:\n\n- $49.8M Ukraine \"Ukraine Responsive and Accountable Politics Program\"\n- $41.6M Libya \"Libya Elections and Civic Education Activity\"\n- $35.5M Ethiopia \"USAID/Ethiopia Elections and Political Process Program\"\n- $28.5M Jordan \"Coperative Agreement with Consortium For Elections & Political Process Strengthening for Jordan\"\n- $23.8M Belarus \"Increasing Political Participation in Belarus Activity\"\n- $23.1M Iraq \"Iraq Provincial Elections Activity (IPEA)\"\n- $21M Georgia \"Georgia Elections and Political Processes Support Activity\"\n- $20.2M Tunisia \"Political Transition Process\"\n- $18M Burma (Myanmar) \"Strengthening Elections and Political Transition (SEPT)\"\n- $17.9M Sudan \"Improving Electoral and Political Processes for Change in Sudan Program (IEPP-Sudan)\"\n- $17.1M Armenia \"Strengthening Electoral Processes and Political Accountability\"\n- $16.8M Bangladesh \"Strengthening Political Landscape (SPL) in Bangladesh\"\n- $16.6M Sri Lanka \"Inclusive Political Processes (IPP) Activity\"\n- $16.4M Global \"Democratic Elections and Political Processes (DEPP)\"\n- $14.5M Democratic Republic of the Congo \"DRC Electoral Integrity Activity\"\n- $14.2M Nigeria \"Consortium For Elections & Political Process Strengthening\"\n- $13.7M Nigeria \"Supporting Electoral Accountability & Transparency\"\n- $13.4M Bangladesh \"Amar Vote Amar Activity\"\n- $13.2M Tanzania \"Promoting Accountable and Inclusive Politics (PAIP)\"\n- $13.2M Moldova \"Moldova Inclusive and Participatory Political Processes (MIPPP)\"\n- $13.2M Mali \"EMERGE project (Empowering Malians through elections, reform and governance efforts)\"\n- $13.2M Venezuela \"National Assembly\"\n- $13.1M El Salvador \"Electoral Integrity and Political Party Strengthening\"\n- $12.5M Nepal \"Elections and Political Parties (Niti Sambad)\"\n- $11.5M Liberia \"Elections and Civic Education Support\"\n- $11.4M Serbia \"Political Process Strengthening Activity (PPSA)\"\n- $11M Cote d'Ivoire \"Political Transition and Inclusion\"\n- $11M Global \"DRG Elections and Political Transitions Global LWA (GEPT)\"\n- $10.1M Eastern Europe Region \"Regional Elections and Political Processes II\"\n- $10M Jordan \"Civic and Political Strengthening Activity\"\n- $9.7M Iraq \"Iraq Electoral Assistance Project - IEAP\"\n- $9.5M Guatemala \"Electoral Governance and Reform\"\n- $9.3M South Sudan \"Systems to Uphold the Credibility and Constitutionality of Elections in South Sudan (SUCCESS)\"\n- $9M Venezuela \"Transparent Electoral Processes\"\n- $8.2M Senegal \"Senegal Elections Assistance Project\"\n- $8.2M Kyrgyzstan \"Kyrgyzstan Political Processes Program Follow-on, TBD\"\n- $8.1M Jordan \"Political Competition and Consensus-Building\"\n- $7.9M Guinea \"Support for The Electoral Processess (STEP) in Guinea\"\n- $7.8M Zambia \"Political Participation and Leadership Activity\"\n- $7.7M Haiti \"Haiti Elections and Political Processes Activity\"\n- $6.5M Haiti \"Haiti Electoral Security and Support Program (HESSP)\"\n- $6.2M Democratic Republic of the Congo \"New Elections Observation Activity\"\n- $5.8M Bosnia and Herzegovina \"Supporting Political Pluralism and Good Governance Processes in BiH\"\n- $5.8M Venezuela \"Transparent Electoral Processes And Good Governance Promotion In Venezuela\"\n- $5.4M Nigeria \"The Electoral Empowerment of Civil Society Project\"\n- $5.4M Nigeria \"Electoral Reforms Project\"\n- $4.9M South Africa \"Promoting Civic Education and Participation in South Africa\"\n- and about 200 more programs\n\nUSAID was used as a weapon for regime change. That was its true purpose, not feeding the hungry",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYHlEEIawAAvjiC.jpg",
+      "width": 1600,
+      "height": 1220
+     }
+    ],
+    "conversation_id": "2126284914949513677"
    }
   },
   {
@@ -368,18 +424,19 @@
    "text": "6,000 journalists and 700 newsrooms received USAID money.\n\nThink about that.\n\nIt's a wonder all of them parrot the same news.\n\nNot.",
    "urls": [],
    "metrics": {
-    "likes": 23562,
-    "reposts": 6317,
-    "replies": 475,
+    "likes": 23587,
+    "reposts": 6323,
+    "replies": 476,
     "quotes": 281
    },
    "partial": true,
    "ref": {
     "id": "2126480640682111313",
     "author_id": "1689393367833313286",
-    "username": "",
-    "name": "",
-    "created_at": "2026-11-28T00:57:47.000Z"
+    "username": "Milajoy",
+    "name": "Mila Joy",
+    "created_at": "2026-11-28T00:57:47.000Z",
+    "conversation_id": "2126480640682111313"
    }
   },
   {
@@ -395,18 +452,19 @@
    "text": "It's been determined that George Soros received $260M from USAID.\n\nHe didn't spend his own money to destroy the American justice system.\n\nHe used ours.",
    "urls": [],
    "metrics": {
-    "likes": 38613,
-    "reposts": 8662,
-    "replies": 739,
-    "quotes": 266
+    "likes": 38657,
+    "reposts": 8671,
+    "replies": 740,
+    "quotes": 267
    },
    "partial": true,
    "ref": {
     "id": "2126467587446042955",
     "author_id": "1689393367833313286",
-    "username": "",
-    "name": "",
-    "created_at": "2026-11-28T00:05:55.000Z"
+    "username": "Milajoy",
+    "name": "Mila Joy",
+    "created_at": "2026-11-28T00:05:55.000Z",
+    "conversation_id": "2126467587446042955"
    }
   },
   {
@@ -419,21 +477,32 @@
    "conversation_id": null,
    "url": "https://x.com/elonmusk/status/2126642766809550889",
    "kind": "repost",
-   "text": "Soo..... I downloaded the https://t.co/s9bi0lDcSg files and fed them through a few grinders and built an Obsidian vault...\n\nHey @TheJusticeDept @FBIDirectorKash @POTUS when can we start the trials? This is one massive treasonous RICO case, and that is just for starters...\n\nWe https://t.co/BqF5XYZzng",
-   "urls": [],
+   "text": "Soo..... I downloaded the http://USAID.org files and fed them through a few grinders and built an Obsidian vault...\n\nHey @TheJusticeDept @FBIDirectorKash @POTUS when can we start the trials? This is one massive treasonous RICO case, and that is just for starters...\n\nWe The People are fed up. Enough is Enough.",
+   "urls": [
+    "http://USAID.org"
+   ],
    "metrics": {
-    "likes": 23583,
-    "reposts": 6374,
-    "replies": 864,
+    "likes": 23593,
+    "reposts": 6378,
+    "replies": 865,
     "quotes": 346
    },
    "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYI8tgqXIAAdUbc.jpg",
+     "width": 1906,
+     "height": 995
+    }
+   ],
    "ref": {
     "id": "2126329054814994704",
     "author_id": "1958978896377827328",
-    "username": "",
-    "name": "",
-    "created_at": "2026-11-27T14:55:26.000Z"
+    "username": "AngryBDG",
+    "name": "Battle Dwarf",
+    "created_at": "2026-11-27T14:55:26.000Z",
+    "conversation_id": "2126329054814994704"
    }
   },
   {
@@ -518,10 +587,10 @@
    "conversation_id": null,
    "url": "https://x.com/elonmusk/status/2126567918884331840",
    "kind": "repost",
-   "text": "ELON IS TELLING YOU HOW TO USE GROK BOT. https://t.co/PlfVI90XKY",
+   "text": "ELON IS TELLING YOU HOW TO USE GROK BOT.",
    "urls": [],
    "metrics": {
-    "likes": 3045,
+    "likes": 3046,
     "reposts": 244,
     "replies": 131,
     "quotes": 8
@@ -533,6 +602,7 @@
     "username": "ducksays",
     "name": "duck says",
     "created_at": "2026-11-28T01:27:59.000Z",
+    "conversation_id": "2126488241255924042",
     "quote": {
      "id": "2126413886576590925",
      "author_id": "44196397",
@@ -554,13 +624,13 @@
    "conversation_id": null,
    "url": "https://x.com/elonmusk/status/2126567035308233215",
    "kind": "repost",
-   "text": "Geminiの昔と今... https://t.co/T5i1TF4mYT",
+   "text": "Geminiの昔と今...",
    "urls": [],
    "metrics": {
-    "likes": 6945,
+    "likes": 6953,
     "reposts": 421,
     "replies": 125,
-    "quotes": 59
+    "quotes": 60
    },
    "partial": true,
    "media": [
@@ -574,9 +644,10 @@
    "ref": {
     "id": "2126275844343763042",
     "author_id": "1906582748669841408",
-    "username": "",
-    "name": "",
-    "created_at": "2026-11-27T11:24:00.000Z"
+    "username": "god_of_ai7",
+    "name": "しょー/AIの神",
+    "created_at": "2026-11-27T11:24:00.000Z",
+    "conversation_id": "2126275844343763042"
    }
   },
   {
@@ -589,24 +660,40 @@
    "conversation_id": null,
    "url": "https://x.com/elonmusk/status/2126566261543076022",
    "kind": "repost",
-   "text": "Anthropic releases a statement and clarification on Claude sabotaging your work -- on Friday night after Thanksgiving.\n\nSurprising part is they were not prepared for this backlash. Though stories have been going on for months.\n\nSomething broke.\n\nhttps://t.co/AS20z9BrWe https://t.co/SFnoBN6muN https://t.co/w2EhZtDrSO",
-   "urls": [],
+   "text": "Anthropic releases a statement and clarification on Claude sabotaging your work -- on Friday night after Thanksgiving.\n\nSurprising part is they were not prepared for this backlash. Though stories have been going on for months.\n\nSomething broke.\n\nhttps://huggingnews.com/ai/anthropic-denies-claude-sabotaged-code-attributes-errors-to-overcaution-b6c08f2a",
+   "urls": [
+    "https://huggingnews.com/ai/anthropic-denies-claude-sabotaged-code-attributes-errors-to-overcaution-b6c08f2a"
+   ],
    "metrics": {
-    "likes": 4015,
+    "likes": 4018,
     "reposts": 544,
     "replies": 204,
     "quotes": 59
    },
    "partial": true,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYMDUuxWUAEq_Cz.jpg",
+     "width": 1712,
+     "height": 1780
+    }
+   ],
    "ref": {
     "id": "2126547116763783377",
     "author_id": "110505844",
-    "username": "",
-    "name": "",
+    "username": "ivan_bezdomny",
+    "name": "Nikolai Yakovenko",
     "created_at": "2026-11-28T05:21:56.000Z",
+    "conversation_id": "2126547116763783377",
     "quote": {
      "id": "2126507795642187855",
-     "unavailable": true
+     "author_id": "28830854",
+     "username": "edwinarbus",
+     "name": "edwin",
+     "created_at": "2026-11-28T02:45:41.000Z",
+     "text": "Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and other agents might identify them, but this isn’t sabotage.\n\nThere have been a few screenshots floating around of an outdated Fable 5 system card. For the first two days of Fable 5's launch in June, we did apply non-visible safeguards to some LLM research. This was a mistake, and we reversed it on June 10. These safeguards now clearly block the request or fall back, with a message users can see (https://platform.claude.com/docs/en/build-with-claude/refusals-and-fallback).\n\nWe did train Fable 5.2 to have LLM research capabilities at about the level of Opus 5.5, and said so at launch (https://anthropic.com/claude-fable-and-mythos-5-2). This impacts capability, but doesn’t silently sabotage work.\n\nAs far as we can tell, some reports look like what we call \"overcaution\" in model behavior, where Claude gets overly attached to rules it makes for itself during long-running tasks. This isn’t specific to ML research, and we see it in models without these training changes (including Opus 5.5) and in our own work too. You can ask Claude to review and remove rules it made for itself, and we're working on reducing overcaution in future models. We’re not in the practice of intentionally disrupting users’ work.\n\nWe've replied directly to a bunch of reports on here asking for session IDs but please share (run `/status`)!",
+     "conversation_id": "2126507795642187855"
     }
    }
   },
@@ -632,14 +719,23 @@
    "ref": {
     "id": "2126535950884872443",
     "author_id": "1527011180308574208",
-    "username": "",
-    "name": "",
+    "username": "BasedGuitars",
+    "name": "Based Guitar 🎸",
     "created_at": "2026-11-28T04:37:34.000Z",
-    "text": "@WallStreetMav Therapy: https://t.co/VOd6Bsihtb",
+    "text": "@WallStreetMav Therapy:",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYL5LWrXMAAF6qc.jpg",
+      "width": 622,
+      "height": 622
+     }
+    ],
     "reply_to": {
      "id": "2126488665761423423",
      "username": "WallStreetMav"
-    }
+    },
+    "conversation_id": "2126488665761423423"
    }
   },
   {
@@ -718,7 +814,16 @@
     "username": "alexmichael",
     "name": "Alex",
     "created_at": "2026-11-28T05:26:35.000Z",
-    "text": "Google's own Logan Kilpatrick, who works on Gemini, says he uses Grok Bot almost every day 👀 https://t.co/XstzloLCGJ https://t.co/ART7wwCr6x",
+    "text": "Google's own Logan Kilpatrick, who works on Gemini, says he uses Grok Bot almost every day 👀",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYMEZSqXQAA2xf_.jpg",
+      "width": 1536,
+      "height": 1536
+     }
+    ],
+    "conversation_id": "2126548287750893783",
     "quote": {
      "id": "2126489212371546531",
      "author_id": "284333988",
@@ -728,7 +833,8 @@
      "text": "@ksprashu @instinct @bot good question, I think it’s mostly the interface for a lot of people. Though I use GrokBot pretty much every day, very helpful product!",
      "reply_to": {
       "id": "2126484000273584148"
-     }
+     },
+     "conversation_id": "2126434025292144821"
     }
    }
   },
@@ -100313,9 +100419,8 @@
   }
  ],
  "last_run": {
-  "status": "running",
-  "at": "2026-11-28T17:07:09Z",
-  "new_posts": 24,
-  "handle": "elonmusk"
+  "status": "new",
+  "at": "2026-11-28T17:07:59Z",
+  "new_posts": 24
  }
 }

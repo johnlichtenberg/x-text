@@ -1,7 +1,117 @@
 {
  "id": "2026-11-p1",
- "updated_at": "2026-11-28T06:03:06Z",
+ "updated_at": "2026-11-28T17:07:49Z",
  "posts": [
+  {
+   "id": "2126712849841983509",
+   "username": "bgood2022",
+   "name": "J",
+   "created_at": "2026-11-28T16:20:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/bgood2022/status/2126712849841983509",
+   "kind": "reply",
+   "text": "@jukan05 Leopold has never worked in HW and it shows.",
+   "urls": [],
+   "metrics": {
+    "likes": 23,
+    "reposts": 1,
+    "replies": 2,
+    "quotes": 0
+   },
+   "reply_to": {
+    "id": "2126679634452545752",
+    "username": "jukan05"
+   },
+   "conversation_id": "2126679634452545752"
+  },
+  {
+   "id": "2126671201086869527",
+   "username": "GavinSBaker",
+   "name": "Gavin Baker",
+   "created_at": "2026-11-28T13:35:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/GavinSBaker/status/2126671201086869527",
+   "kind": "post",
+   "text": "The most important assumption in the SALP letter is that RSI creates an oligopoly at the frontier with real pricing power. TLDR; market structure at the frontier might be the single most important variable for tech investing over the next 2-3 years.\n\nIf the model layer is more competitive, then intelligence will be priced closer to cost and the surplus will flow to compute, customers and incumbents with real distribution rather than the labs. And obviously many of the incumbents mentioned in the letter would then thrive rather than die. Simply said, the better that Anthropic and OpenAI do vs. other model competitors, the worse it is for almost every other company on earth especially AI infra and especially apps.\n\nOn balance, I do think that Neon - and the overall recent pace from GDM - cuts against many of the more extreme assumptions in the letter. The risk for OpenAI and Anthropic is that a vertically integrated lab with much lower compute costs clearly reaches the frontier before they successfully vertically integrate.\n\nNew releases from Gemini, Muse, Grok and the forthcoming larger training runs from American open-source labs like Reflection, Thinking Machines and of course Nvidia are big cards that we will turn over in the next few months. Especially Nvidia given they are the “trainer of last resort.”\n\n“Gemini Distillation Services” are very interesting in this context. Makes one wonder why Microsoft is not fully open-sourcing given their recent acceleration in perplexity gains from pre-training.\n\nAnd of course, OpenAI’s last financing round looks like a mistake as Anthropic probably needs to be worth over $3 trillion for OpenAI to be vaguely financeable and they will need a financing in the next 15 months. But so many strategics have an incentive to help OpenAI that unlikely to be a real issue. Can probably “grow” into the valuation with some help from strategics.\n\nSALP letter was great btw. Leopold is a very smart, resilient guy with incredible connectivity in the SF AI community. Also noteworthy that they have increased headcount by roughly 50% since June 30th given their views on AI. Humans might turn out to have a longer shelf life than expected.\n\nFluid intelligence per watt FTW. For now.",
+   "urls": [],
+   "metrics": {
+    "likes": 2058,
+    "reposts": 187,
+    "replies": 177,
+    "quotes": 51
+   },
+   "conversation_id": "2126671201086869527"
+  },
+  {
+   "id": "2126574963326922971",
+   "username": "XFreeze",
+   "name": "X Freeze",
+   "created_at": "2026-11-28T07:12:35.000Z",
+   "lang": "en",
+   "url": "https://x.com/XFreeze/status/2126574963326922971",
+   "kind": "post",
+   "text": "Elon Musk once said:\n\n“Put ‘Never Went to Therapy’ on my gravestone”",
+   "urls": [],
+   "metrics": {
+    "likes": 3574,
+    "reposts": 211,
+    "replies": 137,
+    "quotes": 25
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYMcpZYbAAAMZNd.jpg",
+     "width": 1920,
+     "height": 1080
+    }
+   ],
+   "conversation_id": "2126574963326922971"
+  },
+  {
+   "id": "2126568578468241714",
+   "username": "XFreeze",
+   "name": "X Freeze",
+   "created_at": "2026-11-28T06:47:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/XFreeze/status/2126568578468241714",
+   "kind": "post",
+   "text": "I wouldn't be surprised if Google actually ends up buying more SI compute from SpaceX than Anthropic\n\nGoogle has made commitments to provide free access to Gemini's paid plans for upto two years across many countries\n\nAnd now Google has incredibly good models....sooner or later they going to need a hell lot of compute\n\nAnd now Elon is building the compute infrastructure in a year that nearly took Google like two decades to build",
+   "urls": [],
+   "metrics": {
+    "likes": 3400,
+    "reposts": 150,
+    "replies": 161,
+    "quotes": 23
+   },
+   "conversation_id": "2126568578468241714"
+  },
+  {
+   "id": "2126553596762497485",
+   "username": "deedydas",
+   "name": "Deedy",
+   "created_at": "2026-11-28T05:47:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/deedydas/status/2126553596762497485",
+   "kind": "post",
+   "text": "\"We estimate the total compute used for Anthropic's internal use of Claude is 1/3rd of worldwide usage\"\n\nInsane new stat drop from Leopold's Situational Awareness letter.",
+   "urls": [],
+   "metrics": {
+    "likes": 5970,
+    "reposts": 338,
+    "replies": 242,
+    "quotes": 132
+   },
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYMI2J7bYAA8mn-.jpg",
+     "width": 1542,
+     "height": 970
+    }
+   ],
+   "conversation_id": "2126553596762497485"
+  },
   {
    "id": "2126552088067092574",
    "username": "FischerKing64",
@@ -129,6 +239,28 @@
     }
    ],
    "conversation_id": "2126499545299493274"
+  },
+  {
+   "id": "2126489212371546531",
+   "username": "OfficialLoganK",
+   "name": "Logan Kilpatrick",
+   "created_at": "2026-11-28T01:31:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/OfficialLoganK/status/2126489212371546531",
+   "kind": "reply",
+   "text": "@ksprashu @instinct @bot good question, I think it’s mostly the interface for a lot of people. Though I use GrokBot pretty much every day, very helpful product!",
+   "urls": [],
+   "metrics": {
+    "likes": 802,
+    "reposts": 41,
+    "replies": 30,
+    "quotes": 24
+   },
+   "reply_to": {
+    "id": "2126484000273584148",
+    "username": "ksprashu"
+   },
+   "conversation_id": "2126434025292144821"
   },
   {
    "id": "2126476667509977096",
@@ -344,6 +476,24 @@
     "username": "elonmusk"
    },
    "conversation_id": "2126358197933834326"
+  },
+  {
+   "id": "2126412956350939297",
+   "username": "TSLAFanMtl",
+   "name": "James Cat",
+   "created_at": "2026-11-27T20:28:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/TSLAFanMtl/status/2126412956350939297",
+   "kind": "post",
+   "text": "SpaceX biggest competitive advantage over the next 12 months won't be Starship; it will be how fast they can get data centers built, energized and operational. Starship comes in 2028 :)",
+   "urls": [],
+   "metrics": {
+    "likes": 4652,
+    "reposts": 134,
+    "replies": 50,
+    "quotes": 6
+   },
+   "conversation_id": "2126412956350939297"
   },
   {
    "id": "2126410463567110258",
@@ -12419,197 +12569,6 @@
     "username": "zeeg"
    },
    "conversation_id": "2123876396405751859"
-  },
-  {
-   "id": "2123893207297606116",
-   "username": "BiancaBellChamb",
-   "name": "Bianca Bell-Chambers",
-   "created_at": "2026-11-20T21:36:15.000Z",
-   "lang": "en",
-   "url": "https://x.com/BiancaBellChamb/status/2123893207297606116",
-   "kind": "reply",
-   "text": "@larsencc @bot Bots ignoring rules, acting confused, AI amnesia. Didn’t have this happened before the contract integration with X-subscription.",
-   "urls": [],
-   "metrics": {
-    "likes": 76,
-    "reposts": 1,
-    "replies": 5,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2123891636694298977",
-    "username": "larsencc"
-   },
-   "conversation_id": "2123891636694298977"
-  },
-  {
-   "id": "2123890747133047175",
-   "username": "juampitech",
-   "name": "Juampi",
-   "created_at": "2026-11-20T21:26:28.000Z",
-   "lang": "en",
-   "url": "https://x.com/juampitech/status/2123890747133047175",
-   "kind": "quote",
-   "text": "Folks, you know. If you are playing GTA VI and your WiFi is not working, just ask @bot to fix it",
-   "urls": [],
-   "metrics": {
-    "likes": 8,
-    "reposts": 1,
-    "replies": 1,
-    "quotes": 0
-   },
-   "ref": {
-    "id": "2123849095865585754",
-    "author_id": "1518984544421965824",
-    "username": "mattyp",
-    "name": "matt palmer",
-    "created_at": "2026-11-20T18:40:58.000Z",
-    "text": "Grok Bot can do cool stuff on your home network:\n\n- Use @bot to optimize your wi-fi\n- Use @Tailscale in Grok Bot to access your media server  https://twitter.com/1518984544421965824/status/2121439659179848108",
-    "media": [
-     {
-      "type": "video",
-      "url": "https://video.twimg.com/amplify_video/2123849055415803904/vid/avc1/1080x1920/AR4qYli_mohIDXz2.mp4?tag=16",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2123849055415803904/img/6ztfwPqxbDSLKcCV.jpg",
-      "variants": [
-       {
-        "url": "https://video.twimg.com/amplify_video/2123849055415803904/vid/avc1/320x568/bLhk_Ym-7G2zZsTl.mp4?tag=16",
-        "w": 320,
-        "h": 568,
-        "br": 632000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123849055415803904/vid/avc1/480x852/VrXRIohct5ISv8Gv.mp4?tag=16",
-        "w": 480,
-        "h": 852,
-        "br": 950000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123849055415803904/vid/avc1/720x1280/pnC2z5SwW_mR0_qE.mp4?tag=16",
-        "w": 720,
-        "h": 1280,
-        "br": 2176000
-       },
-       {
-        "url": "https://video.twimg.com/amplify_video/2123849055415803904/vid/avc1/1080x1920/AR4qYli_mohIDXz2.mp4?tag=16",
-        "w": 1080,
-        "h": 1920,
-        "br": 10368000
-       }
-      ],
-      "width": 1080,
-      "height": 1920,
-      "duration_ms": 61418
-     }
-    ],
-    "conversation_id": "2123849095865585754"
-   },
-   "conversation_id": "2123890747133047175"
-  },
-  {
-   "id": "2123890615372968379",
-   "username": "nahjuin",
-   "name": "nahjuin",
-   "created_at": "2026-11-20T21:25:57.000Z",
-   "lang": "en",
-   "url": "https://x.com/nahjuin/status/2123890615372968379",
-   "kind": "reply",
-   "text": "@gambrill @bot @ericzakariasson This video is sick, great job",
-   "urls": [],
-   "metrics": {
-    "likes": 2,
-    "reposts": 0,
-    "replies": 2,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2123858627488321558",
-    "username": "gambrill"
-   },
-   "conversation_id": "2123858627488321558"
-  },
-  {
-   "id": "2123886843540242934",
-   "username": "Google",
-   "name": "Google",
-   "created_at": "2026-11-20T21:10:58.000Z",
-   "lang": "en",
-   "url": "https://x.com/Google/status/2123886843540242934",
-   "kind": "reply",
-   "text": "@theo Glad you're liking Gemini 4 Neon :) Thanks for the review Theo, more good things on the way",
-   "urls": [],
-   "metrics": {
-    "likes": 3061,
-    "reposts": 23,
-    "replies": 31,
-    "quotes": 6
-   },
-   "reply_to": {
-    "id": "2123880652428988683",
-    "username": "theo"
-   },
-   "conversation_id": "2123880652428988683"
-  },
-  {
-   "id": "2123880273565880668",
-   "username": "lukaslevert",
-   "name": "Lukas Levert",
-   "created_at": "2026-11-20T20:44:51.000Z",
-   "lang": "qme",
-   "url": "https://x.com/lukaslevert/status/2123880273565880668",
-   "kind": "reply",
-   "text": "@mattyp @bot 🙏🙏🙏",
-   "urls": [],
-   "metrics": {
-    "likes": 2,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2123878564869386677",
-    "username": "mattyp"
-   },
-   "conversation_id": "2123856955899097457"
-  },
-  {
-   "id": "2123877459389206796",
-   "username": "gregpr07",
-   "name": "Gregor Zunic",
-   "created_at": "2026-11-20T20:33:40.000Z",
-   "lang": "en",
-   "url": "https://x.com/gregpr07/status/2123877459389206796",
-   "kind": "post",
-   "text": "Browser Use is the shovel of personal AI agents",
-   "urls": [],
-   "metrics": {
-    "likes": 27,
-    "reposts": 0,
-    "replies": 7,
-    "quotes": 0
-   },
-   "conversation_id": "2123877459389206796"
-  },
-  {
-   "id": "2123876850917163011",
-   "username": "eden_",
-   "name": "eden",
-   "created_at": "2026-11-20T20:31:15.000Z",
-   "lang": "en",
-   "url": "https://x.com/eden_/status/2123876850917163011",
-   "kind": "reply",
-   "text": "@parker__conrad Will do! Have been sharing a bit with @larsencc",
-   "urls": [],
-   "metrics": {
-    "likes": 2,
-    "reposts": 0,
-    "replies": 1,
-    "quotes": 0
-   },
-   "reply_to": {
-    "id": "2123871611296358642",
-    "username": "parker__conrad"
-   },
-   "conversation_id": "2123860947877916855"
   }
  ]
 }
